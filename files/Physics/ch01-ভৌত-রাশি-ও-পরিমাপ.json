@@ -1,0 +1,3841 @@
+{
+  "subject": "পদার্থবিজ্ঞান",
+  "chapterNo": 1,
+  "chapter": "ভৌত রাশি ও পরিমাপ",
+  "questions": [
+    {
+      "serial": 1,
+      "question": "পদার্থবিজ্ঞানীরা বিশ্বব্রহ্মাণ্ডের দৃশ্যমান গ্রহ, নক্ষত্র ও গ্যালাক্সির কত শতাংশ ব্যাখ্যা করতে পারেন?",
+      "options": {
+        "A": "4%",
+        "B": "5%",
+        "C": "6%",
+        "D": "7%"
+      },
+      "board": "ঢাকা",
+      "year": 2022,
+      "topic": "পদার্থবিজ্ঞানের ক্রমবিকাশ / মহাবিশ্ব",
+      "correctAnswer": "A",
+      "source": "https://sattacademy.com/board-exams/%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AC%E0%A6%AE%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-2022/mcq",
+      "verificationStatus": "verified"
+    },
+    {
+      "serial": 2,
+      "question": "নিচের কোনটি মৌলিক রাশি নয়?",
+      "options": {
+        "A": "ভর",
+        "B": "তাপ",
+        "C": "তড়িৎ প্রবাহ",
+        "D": "পদার্থের পরিমাণ"
+      },
+      "board": "ঢাকা",
+      "year": 2023,
+      "topic": "মৌলিক ও লব্ধ রাশি",
+      "correctAnswer": "B",
+      "source": "https://sattacademy.com/all-mcq/%E0%A6%AD%E0%A7%8C%E0%A6%A4-%E0%A6%B0%E0%A6%BE%E0%A6%B6%E0%A6%BF-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%AA-physical-quantities-and-their-measurements",
+      "verificationStatus": "verified"
+    },
+    {
+      "serial": 3,
+      "question": "এস.আই. পদ্ধতিতে মৌলিক রাশির সংখ্যা কত?",
+      "options": {
+        "A": "৫টি",
+        "B": "৬টি",
+        "C": "৭টি",
+        "D": "৯টি"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 4,
+      "question": "এস.আই. পদ্ধতি চালু হয় কোন সালে?",
+      "options": {
+        "A": "১৯৪৮",
+        "B": "১৯৫৪",
+        "C": "১৯৬০",
+        "D": "১৯৭১"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 5,
+      "question": "দৈর্ঘ্যের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "সেন্টিমিটার",
+        "B": "মিটার",
+        "C": "কিলোমিটার",
+        "D": "ফুট"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 6,
+      "question": "ভরের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "গ্রাম",
+        "B": "পাউন্ড",
+        "C": "কিলোগ্রাম",
+        "D": "টন"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 7,
+      "question": "সময়ের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "মিনিট",
+        "B": "ঘণ্টা",
+        "C": "সেকেন্ড",
+        "D": "দিন"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 8,
+      "question": "তাপমাত্রার এস.আই. একক কোনটি?",
+      "options": {
+        "A": "সেলসিয়াস",
+        "B": "ফারেনহাইট",
+        "C": "কেলভিন",
+        "D": "জুল"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 9,
+      "question": "তড়িৎ প্রবাহের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "ভোল্ট",
+        "B": "ওহম",
+        "C": "অ্যাম্পিয়ার",
+        "D": "ওয়াট"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 10,
+      "question": "পদার্থের পরিমাণের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "কিলোগ্রাম",
+        "B": "মোল",
+        "C": "গ্রাম",
+        "D": "লিটার"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 11,
+      "question": "দীপন তীব্রতার এস.আই. একক কোনটি?",
+      "options": {
+        "A": "লুমেন",
+        "B": "লাক্স",
+        "C": "ক্যান্ডেলা",
+        "D": "ওয়াট"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 12,
+      "question": "ক্যান্ডেলার প্রতীক কোনটি?",
+      "options": {
+        "A": "cd",
+        "B": "mol",
+        "C": "lm",
+        "D": "lx"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 13,
+      "question": "মোলের প্রতীক কোনটি?",
+      "options": {
+        "A": "M",
+        "B": "mol",
+        "C": "m",
+        "D": "Ml"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 14,
+      "question": "কেলভিনের প্রতীক কোনটি?",
+      "options": {
+        "A": "C",
+        "B": "F",
+        "C": "K",
+        "D": "k"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 15,
+      "question": "অ্যাম্পিয়ারের প্রতীক কোনটি?",
+      "options": {
+        "A": "a",
+        "B": "A",
+        "C": "Amp",
+        "D": "I"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 16,
+      "question": "নিচের কোনটি মৌলিক রাশি?",
+      "options": {
+        "A": "বল",
+        "B": "কাজ",
+        "C": "সময়",
+        "D": "চাপ"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 17,
+      "question": "নিচের কোনটি লব্ধ রাশি?",
+      "options": {
+        "A": "দৈর্ঘ্য",
+        "B": "ভর",
+        "C": "বেগ",
+        "D": "তাপমাত্রা"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 18,
+      "question": "নিচের কোনটি লব্ধ একক?",
+      "options": {
+        "A": "kg",
+        "B": "m",
+        "C": "s",
+        "D": "N"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "D",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 19,
+      "question": "বলের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "জুল",
+        "B": "নিউটন",
+        "C": "ওয়াট",
+        "D": "প্যাসকেল"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 20,
+      "question": "কাজের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "নিউটন",
+        "B": "জুল",
+        "C": "ওয়াট",
+        "D": "হার্জ"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 21,
+      "question": "ক্ষমতার এস.আই. একক কোনটি?",
+      "options": {
+        "A": "জুল",
+        "B": "নিউটন",
+        "C": "ওয়াট",
+        "D": "ভোল্ট"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 22,
+      "question": "চাপের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "নিউটন",
+        "B": "জুল",
+        "C": "প্যাসকেল",
+        "D": "বার"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 23,
+      "question": "কম্পাঙ্কের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "মিটার",
+        "B": "হার্জ",
+        "C": "ওয়াট",
+        "D": "ডেসিবেল"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 24,
+      "question": "আধানের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "অ্যাম্পিয়ার",
+        "B": "কুলম্ব",
+        "C": "ভোল্ট",
+        "D": "ফ্যারাড"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 25,
+      "question": "রোধের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "ভোল্ট",
+        "B": "অ্যাম্পিয়ার",
+        "C": "ওহম",
+        "D": "ওয়াট"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 26,
+      "question": "বিভব পার্থক্যের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "অ্যাম্পিয়ার",
+        "B": "ভোল্ট",
+        "C": "ওহম",
+        "D": "জুল"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 27,
+      "question": "শক্তির এস.আই. একক কোনটি?",
+      "options": {
+        "A": "ওয়াট",
+        "B": "নিউটন",
+        "C": "জুল",
+        "D": "প্যাসকেল"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 28,
+      "question": "ঘনত্বের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "kg m⁻³",
+        "B": "kg m⁻²",
+        "C": "g cm⁻¹",
+        "D": "N m⁻²"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 29,
+      "question": "ত্বরণের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "m s⁻¹",
+        "B": "m s⁻²",
+        "C": "m² s⁻¹",
+        "D": "N"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 30,
+      "question": "বেগের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "m s⁻¹",
+        "B": "m s⁻²",
+        "C": "m² s⁻¹",
+        "D": "N s"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 31,
+      "question": "ভরবেগের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "kg m s⁻¹",
+        "B": "N m",
+        "C": "J s",
+        "D": "kg m⁻¹"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 32,
+      "question": "আবেগের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "N s",
+        "B": "N m",
+        "C": "J s",
+        "D": "W s"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 33,
+      "question": "ক্ষেত্রফলের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "m",
+        "B": "m²",
+        "C": "m³",
+        "D": "cm²"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 34,
+      "question": "আয়তনের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "m²",
+        "B": "m³",
+        "C": "লিটার",
+        "D": "cm³"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 35,
+      "question": "কোণের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "ডিগ্রি",
+        "B": "রেডিয়ান",
+        "C": "গ্রেডিয়ান",
+        "D": "স্টেরেডিয়ান"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 36,
+      "question": "কঠিন কোণের এস.আই. একক কোনটি?",
+      "options": {
+        "A": "রেডিয়ান",
+        "B": "স্টেরেডিয়ান",
+        "C": "ডিগ্রি",
+        "D": "লুমেন"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 37,
+      "question": "১ নিউটন সমান কত?",
+      "options": {
+        "A": "1 kg m s⁻¹",
+        "B": "1 kg m s⁻²",
+        "C": "1 kg m² s⁻²",
+        "D": "1 kg s⁻²"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 38,
+      "question": "১ জুল সমান কত?",
+      "options": {
+        "A": "1 N m",
+        "B": "1 N s",
+        "C": "1 N m⁻¹",
+        "D": "1 W s⁻¹"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 39,
+      "question": "১ ওয়াট সমান কত?",
+      "options": {
+        "A": "1 J s",
+        "B": "1 J s⁻¹",
+        "C": "1 N m",
+        "D": "1 N s"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 40,
+      "question": "১ প্যাসকেল সমান কত?",
+      "options": {
+        "A": "1 N m",
+        "B": "1 N m⁻¹",
+        "C": "1 N m⁻²",
+        "D": "1 N m²"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 41,
+      "question": "১ হার্জ সমান কত?",
+      "options": {
+        "A": "1 s",
+        "B": "1 s⁻¹",
+        "C": "1 m s⁻¹",
+        "D": "1 rad s⁻¹"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 42,
+      "question": "যে আদর্শ পরিমাপের সাথে তুলনা করে ভৌত রাশি মাপা হয় তাকে কী বলে?",
+      "options": {
+        "A": "মাত্রা",
+        "B": "রাশি",
+        "C": "একক",
+        "D": "স্কেল"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 43,
+      "question": "ভৌত জগতে যা কিছু পরিমাপ করা যায় তাকে কী বলে?",
+      "options": {
+        "A": "একক",
+        "B": "রাশি",
+        "C": "মাত্রা",
+        "D": "ভর"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 44,
+      "question": "কোনো ভৌত রাশিতে উপস্থিত মৌলিক রাশিগুলোর সূচককে কী বলে?",
+      "options": {
+        "A": "একক",
+        "B": "মাত্রা",
+        "C": "মান",
+        "D": "প্রতীক"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 45,
+      "question": "মৌলিক একক থেকে প্রতিপাদিত একককে কী বলে?",
+      "options": {
+        "A": "প্রামাণিক একক",
+        "B": "লব্ধ একক",
+        "C": "প্রাকৃতিক একক",
+        "D": "স্থানীয় একক"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 46,
+      "question": "এককের আন্তর্জাতিক পদ্ধতির সংক্ষিপ্ত নাম কী?",
+      "options": {
+        "A": "CGS",
+        "B": "MKS",
+        "C": "FPS",
+        "D": "SI"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "D",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 47,
+      "question": "CGS পদ্ধতিতে দৈর্ঘ্যের একক কোনটি?",
+      "options": {
+        "A": "মিটার",
+        "B": "সেন্টিমিটার",
+        "C": "ফুট",
+        "D": "ইঞ্চি"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 48,
+      "question": "CGS পদ্ধতিতে ভরের একক কোনটি?",
+      "options": {
+        "A": "কিলোগ্রাম",
+        "B": "গ্রাম",
+        "C": "পাউন্ড",
+        "D": "মিলিগ্রাম"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 49,
+      "question": "FPS পদ্ধতিতে দৈর্ঘ্যের একক কোনটি?",
+      "options": {
+        "A": "মিটার",
+        "B": "সেন্টিমিটার",
+        "C": "ফুট",
+        "D": "গজ"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 50,
+      "question": "SI চালুর আগে প্রধানত কয়টি একক পদ্ধতি চালু ছিল?",
+      "options": {
+        "A": "২টি",
+        "B": "৩টি",
+        "C": "৪টি",
+        "D": "৫টি"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 51,
+      "question": "নিচের কোনটি মৌলিক একক?",
+      "options": {
+        "A": "জুল",
+        "B": "নিউটন",
+        "C": "মোল",
+        "D": "লুমেন"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 52,
+      "question": "নিচের কোনটি মৌলিক একক নয়?",
+      "options": {
+        "A": "অ্যাম্পিয়ার",
+        "B": "কেলভিন",
+        "C": "নিউটন",
+        "D": "ক্যান্ডেলা"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 53,
+      "question": "দীপন ক্ষমতা কোন জাতীয় রাশি?",
+      "options": {
+        "A": "লব্ধ",
+        "B": "মৌলিক",
+        "C": "ভেক্টর",
+        "D": "মাত্রাহীন"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 54,
+      "question": "বল কোন জাতীয় রাশি?",
+      "options": {
+        "A": "মৌলিক",
+        "B": "লব্ধ",
+        "C": "মাত্রাহীন",
+        "D": "শুধু স্কেলার"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 55,
+      "question": "কাজ কোন জাতীয় রাশি?",
+      "options": {
+        "A": "মৌলিক",
+        "B": "লব্ধ",
+        "C": "মৌলিক ভেক্টর",
+        "D": "মাত্রাহীন"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 56,
+      "question": "তাপমাত্রা কোন জাতীয় রাশি?",
+      "options": {
+        "A": "লব্ধ",
+        "B": "মৌলিক",
+        "C": "মাত্রাহীন",
+        "D": "শুধু ভেক্টর"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 57,
+      "question": "তড়িৎ প্রবাহ কোন জাতীয় রাশি?",
+      "options": {
+        "A": "লব্ধ",
+        "B": "মৌলিক",
+        "C": "মাত্রাহীন",
+        "D": "শুধু ভেক্টর"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 58,
+      "question": "ঘনত্ব কোন জাতীয় রাশি?",
+      "options": {
+        "A": "মৌলিক",
+        "B": "লব্ধ",
+        "C": "মাত্রাহীন",
+        "D": "মৌলিক ভেক্টর"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 59,
+      "question": "চাপ কোন জাতীয় রাশি?",
+      "options": {
+        "A": "মৌলিক",
+        "B": "লব্ধ",
+        "C": "মাত্রাহীন",
+        "D": "শুধু ভেক্টর"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 60,
+      "question": "SI উপসর্গ 'কিলো' এর মান কোনটি?",
+      "options": {
+        "A": "10³",
+        "B": "10⁶",
+        "C": "10⁻³",
+        "D": "10²"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 61,
+      "question": "SI উপসর্গ 'মেগা' এর মান কোনটি?",
+      "options": {
+        "A": "10³",
+        "B": "10⁶",
+        "C": "10⁹",
+        "D": "10⁻⁶"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 62,
+      "question": "SI উপসর্গ 'গিগা' এর মান কোনটি?",
+      "options": {
+        "A": "10⁶",
+        "B": "10⁹",
+        "C": "10¹²",
+        "D": "10³"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 63,
+      "question": "SI উপসর্গ 'টেরা' এর মান কোনটি?",
+      "options": {
+        "A": "10⁹",
+        "B": "10¹²",
+        "C": "10⁶",
+        "D": "10¹⁵"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 64,
+      "question": "SI উপসর্গ 'মিলি' এর মান কোনটি?",
+      "options": {
+        "A": "10⁻²",
+        "B": "10⁻³",
+        "C": "10⁻⁶",
+        "D": "10³"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 65,
+      "question": "SI উপসর্গ 'মাইক্রো' এর মান কোনটি?",
+      "options": {
+        "A": "10⁻³",
+        "B": "10⁻⁶",
+        "C": "10⁻⁹",
+        "D": "10⁻²"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 66,
+      "question": "SI উপসর্গ 'ন্যানো' এর মান কোনটি?",
+      "options": {
+        "A": "10⁻⁶",
+        "B": "10⁻⁹",
+        "C": "10⁻¹²",
+        "D": "10⁻³"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 67,
+      "question": "SI উপসর্গ 'পিকো' এর মান কোনটি?",
+      "options": {
+        "A": "10⁻⁹",
+        "B": "10⁻¹²",
+        "C": "10⁻⁶",
+        "D": "10⁻¹⁵"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 68,
+      "question": "SI উপসর্গ 'সেন্টি' এর মান কোনটি?",
+      "options": {
+        "A": "10⁻¹",
+        "B": "10⁻²",
+        "C": "10⁻³",
+        "D": "10²"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 69,
+      "question": "SI উপসর্গ 'ডেসি' এর মান কোনটি?",
+      "options": {
+        "A": "10⁻¹",
+        "B": "10⁻²",
+        "C": "10⁻³",
+        "D": "10¹"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 70,
+      "question": "SI উপসর্গ 'হেক্টো' এর মান কোনটি?",
+      "options": {
+        "A": "10",
+        "B": "10²",
+        "C": "10³",
+        "D": "10⁻²"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 71,
+      "question": "SI উপসর্গ 'ডেকা' এর মান কোনটি?",
+      "options": {
+        "A": "10",
+        "B": "10²",
+        "C": "10⁻¹",
+        "D": "10³"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 72,
+      "question": "SI উপসর্গ 'ফেমটো' এর মান কোনটি?",
+      "options": {
+        "A": "10⁻¹²",
+        "B": "10⁻¹⁵",
+        "C": "10⁻⁹",
+        "D": "10⁻¹⁸"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 73,
+      "question": "SI উপসর্গ 'অ্যাটো' এর মান কোনটি?",
+      "options": {
+        "A": "10⁻¹⁵",
+        "B": "10⁻¹⁸",
+        "C": "10⁻¹²",
+        "D": "10⁻²¹"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 74,
+      "question": "1 μm সমান কত?",
+      "options": {
+        "A": "10⁻³ m",
+        "B": "10⁻⁶ m",
+        "C": "10⁻⁹ m",
+        "D": "10⁻² m"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 75,
+      "question": "1 nm সমান কত?",
+      "options": {
+        "A": "10⁻⁶ m",
+        "B": "10⁻⁹ m",
+        "C": "10⁻¹² m",
+        "D": "10⁻³ m"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 76,
+      "question": "1 mm সমান কত?",
+      "options": {
+        "A": "10⁻¹ m",
+        "B": "10⁻² m",
+        "C": "10⁻³ m",
+        "D": "10⁻⁶ m"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 77,
+      "question": "1 cm সমান কত?",
+      "options": {
+        "A": "10⁻¹ m",
+        "B": "10⁻² m",
+        "C": "10⁻³ m",
+        "D": "10⁻⁶ m"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 78,
+      "question": "1 km সমান কত?",
+      "options": {
+        "A": "10² m",
+        "B": "10³ m",
+        "C": "10⁶ m",
+        "D": "10 m"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 79,
+      "question": "1 Mg সমান কত?",
+      "options": {
+        "A": "10³ g",
+        "B": "10⁶ g",
+        "C": "10⁻⁶ g",
+        "D": "10⁹ g"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 80,
+      "question": "1 pF সমান কত?",
+      "options": {
+        "A": "10⁻⁹ F",
+        "B": "10⁻¹² F",
+        "C": "10⁻⁶ F",
+        "D": "10⁻¹⁵ F"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 81,
+      "question": "1 MHz সমান কত?",
+      "options": {
+        "A": "10³ Hz",
+        "B": "10⁶ Hz",
+        "C": "10⁹ Hz",
+        "D": "10⁻⁶ Hz"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 82,
+      "question": "1 GHz সমান কত?",
+      "options": {
+        "A": "10⁶ Hz",
+        "B": "10⁹ Hz",
+        "C": "10¹² Hz",
+        "D": "10³ Hz"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 83,
+      "question": "1 mA সমান কত?",
+      "options": {
+        "A": "10⁻¹ A",
+        "B": "10⁻² A",
+        "C": "10⁻³ A",
+        "D": "10⁻⁶ A"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 84,
+      "question": "1 μA সমান কত?",
+      "options": {
+        "A": "10⁻³ A",
+        "B": "10⁻⁶ A",
+        "C": "10⁻⁹ A",
+        "D": "10⁻² A"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 85,
+      "question": "1 ns সমান কত?",
+      "options": {
+        "A": "10⁻⁶ s",
+        "B": "10⁻⁹ s",
+        "C": "10⁻¹² s",
+        "D": "10⁻³ s"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 86,
+      "question": "1 ms সমান কত?",
+      "options": {
+        "A": "10⁻² s",
+        "B": "10⁻³ s",
+        "C": "10⁻⁶ s",
+        "D": "10⁻⁹ s"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 87,
+      "question": "দৈর্ঘ্য-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "L",
+        "B": "M",
+        "C": "T",
+        "D": "LT⁻¹"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 88,
+      "question": "ভর-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "L",
+        "B": "M",
+        "C": "T",
+        "D": "ML"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 89,
+      "question": "সময়-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "L",
+        "B": "M",
+        "C": "T",
+        "D": "LT"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 90,
+      "question": "বেগ-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "LT⁻¹",
+        "B": "LT⁻²",
+        "C": "MLT⁻¹",
+        "D": "T⁻¹"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 91,
+      "question": "ত্বরণ-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "LT⁻¹",
+        "B": "LT⁻²",
+        "C": "MLT⁻²",
+        "D": "T⁻²"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 92,
+      "question": "বল-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "MLT⁻¹",
+        "B": "MLT⁻²",
+        "C": "ML²T⁻²",
+        "D": "MT⁻²"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 93,
+      "question": "কাজ-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "MLT⁻²",
+        "B": "ML²T⁻²",
+        "C": "ML²T⁻³",
+        "D": "MT⁻²"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 94,
+      "question": "শক্তি-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "MLT⁻²",
+        "B": "ML²T⁻²",
+        "C": "MLT⁻¹",
+        "D": "MT⁻¹"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 95,
+      "question": "ক্ষমতা-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "ML²T⁻²",
+        "B": "ML²T⁻³",
+        "C": "MLT⁻²",
+        "D": "MT⁻³"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 96,
+      "question": "চাপ-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "ML⁻¹T⁻²",
+        "B": "MLT⁻²",
+        "C": "ML⁻²T⁻²",
+        "D": "MT⁻²"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 97,
+      "question": "ঘনত্ব-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "ML⁻³",
+        "B": "ML⁻²",
+        "C": "ML⁻¹",
+        "D": "M⁻¹L³"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 98,
+      "question": "ভরবেগ-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "MLT⁻¹",
+        "B": "MLT⁻²",
+        "C": "ML²T⁻¹",
+        "D": "MT⁻¹"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 99,
+      "question": "আবেগ-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "MLT⁻¹",
+        "B": "MLT⁻²",
+        "C": "ML²T⁻²",
+        "D": "MT⁻²"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 100,
+      "question": "কম্পাঙ্ক-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "T",
+        "B": "T⁻¹",
+        "C": "LT⁻¹",
+        "D": "L⁻¹"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 101,
+      "question": "তরঙ্গদৈর্ঘ্য-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "L",
+        "B": "T",
+        "C": "LT⁻¹",
+        "D": "L⁻¹"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 102,
+      "question": "কোণ-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "মাত্রাহীন",
+        "B": "L",
+        "C": "T",
+        "D": "LT⁻¹"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 103,
+      "question": "আপেক্ষিক ঘনত্ব-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "ML⁻³",
+        "B": "মাত্রাহীন",
+        "C": "L³",
+        "D": "M"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 104,
+      "question": "স্ট্রেইন-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "ML⁻¹T⁻²",
+        "B": "মাত্রাহীন",
+        "C": "L",
+        "D": "T⁻¹"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 105,
+      "question": "ইয়ং-এর গুণাঙ্ক-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "ML⁻¹T⁻²",
+        "B": "MLT⁻²",
+        "C": "ML²T⁻²",
+        "D": "MT⁻²"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 106,
+      "question": "পৃষ্ঠটান-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "MT⁻²",
+        "B": "MLT⁻²",
+        "C": "MT⁻¹",
+        "D": "ML⁻¹T⁻²"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 107,
+      "question": "সান্দ্রতা সহগ-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "ML⁻¹T⁻¹",
+        "B": "MLT⁻¹",
+        "C": "MT⁻¹",
+        "D": "ML⁻¹T⁻²"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 108,
+      "question": "আধান-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "IT",
+        "B": "I",
+        "C": "IT⁻¹",
+        "D": "MLT"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 109,
+      "question": "বিভব-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "ML²T⁻³I⁻¹",
+        "B": "MLT⁻²",
+        "C": "IT",
+        "D": "ML²T⁻²"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 110,
+      "question": "রোধ-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "ML²T⁻³I⁻²",
+        "B": "MLT⁻²I⁻¹",
+        "C": "IT",
+        "D": "T⁻¹"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 111,
+      "question": "ধারকত্ব-এর মাত্রা কোনটি?",
+      "options": {
+        "A": "M⁻¹L⁻²T⁴I²",
+        "B": "IT",
+        "C": "ML²T⁻²",
+        "D": "T⁻¹"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 112,
+      "question": "কাজ ও টর্কের মাত্রা সম্পর্কে কোনটি সত্য?",
+      "options": {
+        "A": "ভিন্ন",
+        "B": "একই",
+        "C": "একটি মাত্রাহীন",
+        "D": "নির্ণয় অসম্ভব"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 113,
+      "question": "চাপ ও ইয়ং-এর গুণাঙ্কের মাত্রা সম্পর্কে কোনটি সত্য?",
+      "options": {
+        "A": "ভিন্ন",
+        "B": "একই",
+        "C": "একটি স্কেলার নয়",
+        "D": "নির্ণয় অসম্ভব"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 114,
+      "question": "কাজ ও শক্তির মাত্রা সম্পর্কে কোনটি সত্য?",
+      "options": {
+        "A": "ভিন্ন",
+        "B": "একই",
+        "C": "কাজ ভেক্টর তাই ভিন্ন",
+        "D": "শক্তি মাত্রাহীন"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 115,
+      "question": "ভরবেগ ও আবেগের মাত্রা সম্পর্কে কোনটি সত্য?",
+      "options": {
+        "A": "ভিন্ন",
+        "B": "একই",
+        "C": "আবেগ মাত্রাহীন",
+        "D": "শুধু CGS-এ একই"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 116,
+      "question": "দৈর্ঘ্য মাপার সাধারণ যন্ত্র কোনটি?",
+      "options": {
+        "A": "থার্মোমিটার",
+        "B": "মিটার স্কেল",
+        "C": "ব্যারোমিটার",
+        "D": "অ্যামিটার"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 117,
+      "question": "একটি মিটার স্কেলের দৈর্ঘ্য কত?",
+      "options": {
+        "A": "0.5 m",
+        "B": "1 m",
+        "C": "2 m",
+        "D": "100 cm²"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 118,
+      "question": "স্লাইড ক্যালিপার্স কী মাপে?",
+      "options": {
+        "A": "তাপমাত্রা",
+        "B": "ক্ষুদ্র দৈর্ঘ্য/ব্যাস",
+        "C": "চাপ",
+        "D": "তড়িৎ প্রবাহ"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 119,
+      "question": "স্ক্রু গেজ সাধারণত কী মাপে?",
+      "options": {
+        "A": "দীর্ঘ দূরত্ব",
+        "B": "তারের ব্যাস/পাতের পুরুত্ব",
+        "C": "ভর",
+        "D": "সময়"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 120,
+      "question": "স্ফেরোমিটার কী মাপে?",
+      "options": {
+        "A": "গোলকের বক্রতা ব্যাসার্ধ",
+        "B": "তাপমাত্রা",
+        "C": "ঘনত্ব",
+        "D": "কম্পাঙ্ক"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 121,
+      "question": "ব্যারোমিটার কী মাপে?",
+      "options": {
+        "A": "আপেক্ষিক আর্দ্রতা",
+        "B": "বায়ুচাপ",
+        "C": "তাপমাত্রা",
+        "D": "বায়ুর বেগ"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 122,
+      "question": "থার্মোমিটার কী মাপে?",
+      "options": {
+        "A": "চাপ",
+        "B": "তাপমাত্রা",
+        "C": "আর্দ্রতা",
+        "D": "আলোক তীব্রতা"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 123,
+      "question": "স্টপওয়াচ কী মাপে?",
+      "options": {
+        "A": "দৈর্ঘ্য",
+        "B": "সময়",
+        "C": "ভর",
+        "D": "কোণ"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 124,
+      "question": "ফিজিক্যাল ব্যালেন্স কী মাপে?",
+      "options": {
+        "A": "সময়",
+        "B": "ভর",
+        "C": "চাপ",
+        "D": "তাপমাত্রা"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 125,
+      "question": "স্প্রিং ব্যালেন্স সাধারণত কী মাপে?",
+      "options": {
+        "A": "ভর",
+        "B": "ওজন/বল",
+        "C": "ঘনত্ব",
+        "D": "আয়তন"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 126,
+      "question": "অ্যামিটার কী মাপে?",
+      "options": {
+        "A": "বিভব পার্থক্য",
+        "B": "তড়িৎ প্রবাহ",
+        "C": "রোধ",
+        "D": "ক্ষমতা"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 127,
+      "question": "ভোল্টমিটার কী মাপে?",
+      "options": {
+        "A": "তড়িৎ প্রবাহ",
+        "B": "বিভব পার্থক্য",
+        "C": "রোধ",
+        "D": "আধান"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 128,
+      "question": "ওহমমিটার কী মাপে?",
+      "options": {
+        "A": "বিভব",
+        "B": "রোধ",
+        "C": "প্রবাহ",
+        "D": "ক্ষমতা"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 129,
+      "question": "গ্যালভানোমিটার কী শনাক্ত/মাপে?",
+      "options": {
+        "A": "ক্ষুদ্র তড়িৎ প্রবাহ",
+        "B": "তাপমাত্রা",
+        "C": "চাপ",
+        "D": "আলো"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 130,
+      "question": "মাল্টিমিটার দিয়ে কী মাপা যায়?",
+      "options": {
+        "A": "শুধু প্রবাহ",
+        "B": "প্রবাহ, বিভব, রোধ প্রভৃতি",
+        "C": "শুধু তাপমাত্রা",
+        "D": "শুধু চাপ"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 131,
+      "question": "ভার্নিয়ার ধ্রুবক কাকে বলে?",
+      "options": {
+        "A": "প্রধান স্কেলের ক্ষুদ্রতম ভাগ",
+        "B": "ভার্নিয়ারের লঘিষ্ঠ পরিমাপ",
+        "C": "স্ক্রুর পিচ",
+        "D": "শূন্য ত্রুটি"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 132,
+      "question": "স্ক্রু গেজের পিচ কাকে বলে?",
+      "options": {
+        "A": "এক পূর্ণ আবর্তনে স্ক্রুর অগ্রগতি",
+        "B": "বৃত্তাকার স্কেলের ভাগ",
+        "C": "শূন্য ত্রুটি",
+        "D": "লঘিষ্ঠ গণনা"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 133,
+      "question": "স্ক্রু গেজের লঘিষ্ঠ গণনা কী?",
+      "options": {
+        "A": "পিচ ÷ বৃত্তাকার স্কেলের ভাগসংখ্যা",
+        "B": "পিচ × ভাগসংখ্যা",
+        "C": "প্রধান স্কেল পাঠ",
+        "D": "শূন্য ত্রুটি"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 134,
+      "question": "ভার্নিয়ার ক্যালিপার্সের লঘিষ্ঠ গণনা সাধারণত কত?",
+      "options": {
+        "A": "1 mm",
+        "B": "0.1 mm",
+        "C": "0.01 mm",
+        "D": "1 cm"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 135,
+      "question": "স্ক্রু গেজের লঘিষ্ঠ গণনা সাধারণত কত?",
+      "options": {
+        "A": "1 mm",
+        "B": "0.1 mm",
+        "C": "0.01 mm",
+        "D": "1 cm"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 136,
+      "question": "প্রধান স্কেলের 1 ভাগ = 1 mm এবং ভার্নিয়ারের 10 ভাগ = প্রধানের 9 ভাগ হলে LC কত?",
+      "options": {
+        "A": "0.1 mm",
+        "B": "0.01 mm",
+        "C": "1 mm",
+        "D": "0.9 mm"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 137,
+      "question": "প্রধান স্কেলের 1 ভাগ = 1 mm এবং ভার্নিয়ারের 20 ভাগ = প্রধানের 19 ভাগ হলে LC কত?",
+      "options": {
+        "A": "0.05 mm",
+        "B": "0.1 mm",
+        "C": "0.01 mm",
+        "D": "0.02 mm"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 138,
+      "question": "প্রধান স্কেলের 1 ভাগ = 1 mm এবং ভার্নিয়ারের 50 ভাগ = প্রধানের 49 ভাগ হলে LC কত?",
+      "options": {
+        "A": "0.02 mm",
+        "B": "0.05 mm",
+        "C": "0.1 mm",
+        "D": "0.01 mm"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 139,
+      "question": "স্ক্রুর পিচ 1 mm এবং বৃত্তাকার স্কেলে 100 ভাগ থাকলে LC কত?",
+      "options": {
+        "A": "0.1 mm",
+        "B": "0.01 mm",
+        "C": "0.001 mm",
+        "D": "1 mm"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 140,
+      "question": "স্ক্রুর পিচ 0.5 mm এবং বৃত্তাকার স্কেলে 50 ভাগ থাকলে LC কত?",
+      "options": {
+        "A": "0.01 mm",
+        "B": "0.1 mm",
+        "C": "0.001 mm",
+        "D": "0.05 mm"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 141,
+      "question": "প্রধান স্কেল পাঠ 4.0 cm, ভার্নিয়ার সমপাতন 7, LC = 0.1 mm হলে দৈর্ঘ্য কত?",
+      "options": {
+        "A": "4.07 cm",
+        "B": "4.7 cm",
+        "C": "4.007 cm",
+        "D": "3.93 cm"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 142,
+      "question": "প্রধান স্কেল পাঠ 2.3 cm, ভার্নিয়ার সমপাতন 5, LC = 0.1 mm হলে দৈর্ঘ্য কত?",
+      "options": {
+        "A": "2.35 cm",
+        "B": "2.305 cm",
+        "C": "2.8 cm",
+        "D": "2.25 cm"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 143,
+      "question": "প্রধান স্কেল পাঠ 1.2 cm, ভার্নিয়ার সমপাতন 8, LC = 0.05 mm হলে দৈর্ঘ্য কত?",
+      "options": {
+        "A": "1.24 cm",
+        "B": "1.28 cm",
+        "C": "1.205 cm",
+        "D": "1.08 cm"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 144,
+      "question": "পরম ত্রুটি কাকে বলে?",
+      "options": {
+        "A": "মাপা মান − প্রকৃত মান",
+        "B": "পরম ত্রুটি / প্রকৃত মান",
+        "C": "শতকরা ত্রুটি",
+        "D": "যন্ত্রের LC"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 145,
+      "question": "আপেক্ষিক ত্রুটি কাকে বলে?",
+      "options": {
+        "A": "পরম ত্রুটি",
+        "B": "পরম ত্রুটি ÷ প্রকৃত মান",
+        "C": "LC",
+        "D": "গড় মান"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 146,
+      "question": "শতকরা ত্রুটি কত?",
+      "options": {
+        "A": "আপেক্ষিক ত্রুটি × 100%",
+        "B": "পরম ত্রুটি × 100",
+        "C": "LC × 100",
+        "D": "গড় × 100"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 147,
+      "question": "দৈর্ঘ্য 50 cm এবং পরম ত্রুটি 0.5 cm হলে শতকরা ত্রুটি কত?",
+      "options": {
+        "A": "0.5%",
+        "B": "1%",
+        "C": "2%",
+        "D": "10%"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 148,
+      "question": "দৈর্ঘ্য 20 cm এবং পরম ত্রুটি 0.2 cm হলে শতকরা ত্রুটি কত?",
+      "options": {
+        "A": "0.2%",
+        "B": "1%",
+        "C": "2%",
+        "D": "10%"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 149,
+      "question": "ভর 100 g এবং পরম ত্রুটি 2 g হলে শতকরা ত্রুটি কত?",
+      "options": {
+        "A": "0.2%",
+        "B": "2%",
+        "C": "20%",
+        "D": "1%"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 150,
+      "question": "সময় 10 s এবং পরম ত্রুটি 0.1 s হলে শতকরা ত্রুটি কত?",
+      "options": {
+        "A": "0.1%",
+        "B": "1%",
+        "C": "10%",
+        "D": "0.01%"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 151,
+      "question": "ক্ষেত্রফল A = l² হলে শতকরা ত্রুটি কত? (দৈর্ঘ্যের ত্রুটি x%)",
+      "options": {
+        "A": "x%",
+        "B": "2x%",
+        "C": "x²%",
+        "D": "x/2%"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 152,
+      "question": "আয়তন V = l³ হলে শতকরা ত্রুটি কত? (দৈর্ঘ্যের ত্রুটি x%)",
+      "options": {
+        "A": "x%",
+        "B": "2x%",
+        "C": "3x%",
+        "D": "x³%"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 153,
+      "question": "ঘনত্ব ρ = m/V হলে শতকরা ত্রুটি কত?",
+      "options": {
+        "A": "শুধু ভরের ত্রুটি",
+        "B": "ভর ও আয়তনের শতকরা ত্রুটির যোগফল",
+        "C": "শুধু আয়তনের ত্রুটি",
+        "D": "ত্রুটির গুণফল"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 154,
+      "question": "বেগ v = s/t হলে শতকরা ত্রুটি কত?",
+      "options": {
+        "A": "শুধু s-এর ত্রুটি",
+        "B": "s ও t-এর শতকরা ত্রুটির যোগফল",
+        "C": "শুধু t-এর ত্রুটি",
+        "D": "ত্রুটির ভাগফল"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 155,
+      "question": "KE = (1/2)mv²; ভরের ত্রুটি 2% ও বেগের ত্রুটি 3% হলে KE-এর ত্রুটি কত?",
+      "options": {
+        "A": "5%",
+        "B": "6%",
+        "C": "8%",
+        "D": "12%"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 156,
+      "question": "P = F/A; বলের ত্রুটি 2% ও ক্ষেত্রফলের ত্রুটি 3% হলে চাপের ত্রুটি কত?",
+      "options": {
+        "A": "1%",
+        "B": "5%",
+        "C": "6%",
+        "D": "2%"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 157,
+      "question": "যন্ত্রের লঘিষ্ঠ গণনা সাধারণত কী নির্দেশ করে?",
+      "options": {
+        "A": "সর্বোচ্চ সঠিকতা",
+        "B": "সর্বনিম্ন পরিমাপযোগ্য মান",
+        "C": "শূন্য ত্রুটি",
+        "D": "গড় মান"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 158,
+      "question": "শূন্য ত্রুটি কখন হয়?",
+      "options": {
+        "A": "যন্ত্রের শূন্য পাঠ শূন্য না হলে",
+        "B": "LC শূন্য হলে",
+        "C": "তাপমাত্রা 0°C হলে",
+        "D": "সময় শূন্য হলে"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 159,
+      "question": "ধনাত্মক শূন্য ত্রুটি থাকলে প্রকৃত পাঠ কীভাবে পাওয়া যায়?",
+      "options": {
+        "A": "মাপা পাঠ + শূন্য ত্রুটি",
+        "B": "মাপা পাঠ − শূন্য ত্রুটি",
+        "C": "মাপা পাঠ × শূন্য ত্রুটি",
+        "D": "LC যোগ"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 160,
+      "question": "আধুনিক পদার্থবিজ্ঞানের ভিত্তি স্থাপনে পড়ন্ত বস্তুর সূত্র কে দিয়েছিলেন?",
+      "options": {
+        "A": "নিউটন",
+        "B": "গ্যালিলিও",
+        "C": "আর্কিমিডিস",
+        "D": "কেপলার"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 161,
+      "question": "সার্বজনীন মহাকর্ষ সূত্র কে আবিষ্কার করেন?",
+      "options": {
+        "A": "গ্যালিলিও",
+        "B": "কেপলার",
+        "C": "নিউটন",
+        "D": "আইনস্টাইন"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 162,
+      "question": "আপেক্ষিকতা তত্ত্ব কার নামের সাথে জড়িত?",
+      "options": {
+        "A": "প্ল্যাঙ্ক",
+        "B": "আইনস্টাইন",
+        "C": "রাদারফোর্ড",
+        "D": "বোর"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 163,
+      "question": "E = mc² সূত্রটি কার?",
+      "options": {
+        "A": "নিউটন",
+        "B": "আইনস্টাইন",
+        "C": "ম্যাক্সওয়েল",
+        "D": "ফ্যারাডে"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 164,
+      "question": "আর্কিমিডিস কোন দেশের বিজ্ঞানী ছিলেন?",
+      "options": {
+        "A": "ভারত",
+        "B": "চীন",
+        "C": "মিশর",
+        "D": "গ্রিস"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "D",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 165,
+      "question": "আলোক তড়িৎ ক্রিয়া ব্যাখ্যা করেন কে?",
+      "options": {
+        "A": "প্ল্যাঙ্ক",
+        "B": "আইনস্টাইন",
+        "C": "হাইজেনবার্গ",
+        "D": "ডি ব্রগলি"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 166,
+      "question": "বোস-আইনস্টাইন পরিসংখ্যানের সাথে কোন বাঙালি বিজ্ঞানী জড়িত?",
+      "options": {
+        "A": "জগদীশচন্দ্র বসু",
+        "B": "সত্যেন্দ্রনাথ বসু",
+        "C": "মেঘনাদ সাহা",
+        "D": "কুদরাত-ই-খুদা"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 167,
+      "question": "বেতার তরঙ্গ আবিষ্কারে অবদান রাখেন কোন বাঙালি বিজ্ঞানী?",
+      "options": {
+        "A": "সত্যেন্দ্রনাথ বসু",
+        "B": "জগদীশচন্দ্র বসু",
+        "C": "আবদুস সালাম",
+        "D": "মেঘনাদ সাহা"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 168,
+      "question": "নিচের কোনটি পদার্থবিজ্ঞানের শাখা?",
+      "options": {
+        "A": "বীজগণিত",
+        "B": "যান্ত্রিকবিদ্যা",
+        "C": "ব্যাকরণ",
+        "D": "ইতিহাস"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 169,
+      "question": "পদার্থবিজ্ঞান মূলত কী নিয়ে আলোচনা করে?",
+      "options": {
+        "A": "শুধু জীবদেহ",
+        "B": "পদার্থ ও শক্তি এবং তাদের মিথস্ক্রিয়া",
+        "C": "শুধু রাসায়নিক বিক্রিয়া",
+        "D": "শুধু সমাজ"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 170,
+      "question": "0.00056 কে বৈজ্ঞানিক প্রতীকে লিখলে কী হয়?",
+      "options": {
+        "A": "5.6 × 10⁻³",
+        "B": "5.6 × 10⁻⁴",
+        "C": "56 × 10⁻⁴",
+        "D": "5.6 × 10⁴"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 171,
+      "question": "45000 কে বৈজ্ঞানিক প্রতীকে লিখলে কী হয়?",
+      "options": {
+        "A": "4.5 × 10³",
+        "B": "4.5 × 10⁴",
+        "C": "45 × 10³",
+        "D": "4.5 × 10⁵"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 172,
+      "question": "3.2 × 10⁻² সমান কত?",
+      "options": {
+        "A": "320",
+        "B": "0.32",
+        "C": "0.032",
+        "D": "0.0032"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 173,
+      "question": "1 Å (অ্যাংস্ট্রম) সমান কত?",
+      "options": {
+        "A": "10⁻⁸ m",
+        "B": "10⁻¹⁰ m",
+        "C": "10⁻⁹ m",
+        "D": "10⁻¹² m"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 174,
+      "question": "1 আলোকবর্ষ দূরত্বের একক — এটি কোন জাতীয় একক?",
+      "options": {
+        "A": "সময়ের একক",
+        "B": "দৈর্ঘ্যের একক",
+        "C": "বেগের একক",
+        "D": "শক্তির একক"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 175,
+      "question": "1 AU (জ্যোতির্বৈজ্ঞানিক একক) কীসের একক?",
+      "options": {
+        "A": "সময়",
+        "B": "দৈর্ঘ্য",
+        "C": "ভর",
+        "D": "আলোক তীব্রতা"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 176,
+      "question": "মাত্রা সমীকরণ দিয়ে কী করা যায়?",
+      "options": {
+        "A": "রাশির একক যাচাই",
+        "B": "রাশির রং নির্ণয়",
+        "C": "ভর সৃষ্টি",
+        "D": "সময় থামানো"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 177,
+      "question": "ভিন্ন মাত্রার দুটি রাশিকে কী করা যায় না?",
+      "options": {
+        "A": "গুণ",
+        "B": "ভাগ",
+        "C": "যোগ",
+        "D": "একটি দিয়ে অন্যটি প্রকাশ"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 178,
+      "question": "একই মাত্রার রাশিগুলোকে কী বলা হয়?",
+      "options": {
+        "A": "বিজাতীয় রাশি",
+        "B": "সমজাতীয় রাশি",
+        "C": "মৌলিক রাশি",
+        "D": "মাত্রাহীন রাশি"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 179,
+      "question": "সমজাতীয় রাশির অনুপাত কেমন?",
+      "options": {
+        "A": "মাত্রাযুক্ত",
+        "B": "মাত্রাহীন",
+        "C": "শুধু ভেক্টর",
+        "D": "শুধু SI-তে সত্য"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 180,
+      "question": "নিচের কোন জোড়া সমজাতীয়?",
+      "options": {
+        "A": "কাজ ও টর্ক",
+        "B": "বল ও চাপ",
+        "C": "ভর ও সময়",
+        "D": "দৈর্ঘ্য ও ভর"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 181,
+      "question": "নিচের কোন জোড়া সমজাতীয় নয়?",
+      "options": {
+        "A": "কাজ ও শক্তি",
+        "B": "চাপ ও স্ট্রেস",
+        "C": "বল ও ভরবেগ",
+        "D": "ভরবেগ ও আবেগ"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 182,
+      "question": "এককের প্রতীক সাধারণত কোন হরফে লেখা হয়?",
+      "options": {
+        "A": "ইটালিক গ্রিক",
+        "B": "রোমান",
+        "C": "শুধু বাংলা",
+        "D": "শুধু চীনা"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 183,
+      "question": "ব্যক্তির নাম থেকে গৃহীত এককের প্রথম অক্ষর কেমন লেখা হয়?",
+      "options": {
+        "A": "ছোট হাতের",
+        "B": "বড় হাতের",
+        "C": "গ্রিক",
+        "D": "বাংলা স্বরবর্ণ"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 184,
+      "question": "নিউটন এককটি কার নামানুসারে?",
+      "options": {
+        "A": "গ্যালিলিও",
+        "B": "আইজ্যাক নিউটন",
+        "C": "আইনস্টাইন",
+        "D": "কেপলার"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 185,
+      "question": "জুল এককটি কার নামানুসারে?",
+      "options": {
+        "A": "জেমস প্রেসকট জুল",
+        "B": "জুলিয়াস সিজার",
+        "C": "জoule কেলভিন",
+        "D": "জুল ভার্ন"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 186,
+      "question": "ওয়াট এককটি কার নামানুসারে?",
+      "options": {
+        "A": "নিউটন",
+        "B": "জেমস ওয়াট",
+        "C": "ওয়াটসন",
+        "D": "ওহম"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 187,
+      "question": "প্যাসকেল এককটি কার নামানুসারে?",
+      "options": {
+        "A": "পাস্কাল",
+        "B": "প্ল্যাঙ্ক",
+        "C": "পাউলি",
+        "D": "পয়জঁ"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 188,
+      "question": "অ্যাম্পিয়ার এককটি কার নামানুসারে?",
+      "options": {
+        "A": "ভোল্টা",
+        "B": "আঁদ্রে-মারি অ্যাম্পিয়ার",
+        "C": "ওহম",
+        "D": "ফ্যারাডে"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 189,
+      "question": "কেলভিন এককটি কার নামানুসারে?",
+      "options": {
+        "A": "সেলসিয়াস",
+        "B": "লর্ড কেলভিন",
+        "C": "ফারেনহাইট",
+        "D": "বোল্টজম্যান"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 190,
+      "question": "হার্জ এককটি কার নামানুসারে?",
+      "options": {
+        "A": "হাইনরিখ হার্জ",
+        "B": "হাইজেনবার্গ",
+        "C": "হাবল",
+        "D": "হুক"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 191,
+      "question": "ওহম এককটি কার নামানুসারে?",
+      "options": {
+        "A": "ওহম",
+        "B": "ওersted",
+        "C": "ওersted নয়—ওহম",
+        "D": "অ্যাম্পিয়ার"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 192,
+      "question": "প্রধান স্কেলের ক্ষুদ্রতম ভাগ 1 mm এবং ভার্নিয়ার ভাগ 10 হলে LC কত? (n ভাগ = প্রধানের n−1 ভাগ)",
+      "options": {
+        "A": "0.1 mm",
+        "B": "0.01 mm",
+        "C": "1 mm",
+        "D": "0.2 mm"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 193,
+      "question": "প্রধান স্কেলের ক্ষুদ্রতম ভাগ 1 mm এবং ভার্নিয়ার ভাগ 25 হলে LC কত? (n ভাগ = প্রধানের n−1 ভাগ)",
+      "options": {
+        "A": "0.025 mm",
+        "B": "0.04 mm",
+        "C": "0.05 mm",
+        "D": "0.4 mm"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 194,
+      "question": "প্রধান স্কেলের ক্ষুদ্রতম ভাগ 1 mm এবং ভার্নিয়ার ভাগ 40 হলে LC কত? (n ভাগ = প্রধানের n−1 ভাগ)",
+      "options": {
+        "A": "0.04 mm",
+        "B": "0.4 mm",
+        "C": "0.025 mm",
+        "D": "0.25 mm"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 195,
+      "question": "প্রধান স্কেলের ক্ষুদ্রতম ভাগ 0.5 mm এবং ভার্নিয়ার ভাগ 50 হলে LC কত? (n ভাগ = প্রধানের n−1 ভাগ)",
+      "options": {
+        "A": "0.01 mm",
+        "B": "0.1 mm",
+        "C": "0.005 mm",
+        "D": "1 mm"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 196,
+      "question": "দৈর্ঘ্য 8.00 cm (সম্ভাব্য ত্রুটি 0.01 cm) হলে আপেক্ষিক ত্রুটি কত?",
+      "options": {
+        "A": "0.00125",
+        "B": "0.0125",
+        "C": "0.08",
+        "D": "1.25"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "A",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 197,
+      "question": "ব্যাসার্ধ 2.00 cm ± 0.01 cm হলে ক্ষেত্রফলের শতকরা ত্রুটি প্রায় কত? (A = πr²)",
+      "options": {
+        "A": "0.5%",
+        "B": "1%",
+        "C": "2%",
+        "D": "4%"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 198,
+      "question": "একটি ঘনকের বাহু 5.0 cm ± 0.1 cm হলে আয়তনের শতকরা ত্রুটি কত?",
+      "options": {
+        "A": "2%",
+        "B": "4%",
+        "C": "6%",
+        "D": "8%"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 199,
+      "question": "m = 50 g ± 1 g এবং V = 10 cm³ ± 0.2 cm³ হলে ঘনত্বের শতকরা ত্রুটি কত?",
+      "options": {
+        "A": "2%",
+        "B": "3%",
+        "C": "4%",
+        "D": "5%"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 200,
+      "question": "1 kWh সমান কত জুল?",
+      "options": {
+        "A": "3.6 × 10³ J",
+        "B": "3.6 × 10⁵ J",
+        "C": "3.6 × 10⁶ J",
+        "D": "3.6 × 10⁸ J"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 201,
+      "question": "1 অশ্বক্ষমতা প্রায় কত ওয়াট?",
+      "options": {
+        "A": "546 W",
+        "B": "746 W",
+        "C": "1000 W",
+        "D": "76 W"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 202,
+      "question": "1 ক্যালরি প্রায় কত জুল?",
+      "options": {
+        "A": "2.4 J",
+        "B": "4.2 J",
+        "C": "8.4 J",
+        "D": "1 J"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 203,
+      "question": "0°C সমান কত কেলভিন?",
+      "options": {
+        "A": "0 K",
+        "B": "100 K",
+        "C": "273 K",
+        "D": "373 K"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 204,
+      "question": "100°C সমান কত কেলভিন?",
+      "options": {
+        "A": "100 K",
+        "B": "173 K",
+        "C": "273 K",
+        "D": "373 K"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "D",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 205,
+      "question": "1 টন সমান কত kg?",
+      "options": {
+        "A": "10 kg",
+        "B": "100 kg",
+        "C": "1000 kg",
+        "D": "10000 kg"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 206,
+      "question": "1 লিটার সমান কত m³?",
+      "options": {
+        "A": "10⁻² m³",
+        "B": "10⁻³ m³",
+        "C": "1 m³",
+        "D": "10³ m³"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 207,
+      "question": "1 mL সমান কত cm³?",
+      "options": {
+        "A": "0.1",
+        "B": "1",
+        "C": "10",
+        "D": "100"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 208,
+      "question": "1 ইঞ্চি প্রায় কত cm?",
+      "options": {
+        "A": "1.54",
+        "B": "2.54",
+        "C": "3.54",
+        "D": "25.4"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 209,
+      "question": "পূর্ণ বৃত্তে কত রেডিয়ান?",
+      "options": {
+        "A": "π",
+        "B": "2π",
+        "C": "π/2",
+        "D": "4π"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "B",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 210,
+      "question": "প্রকৃতিতে মৌলিক বল সাধারণত কয়টি?",
+      "options": {
+        "A": "২টি",
+        "B": "৩টি",
+        "C": "৪টি",
+        "D": "৭টি"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 211,
+      "question": "নিচের কোনটি মৌলিক বল নয়?",
+      "options": {
+        "A": "মহাকর্ষ",
+        "B": "তড়িচ্চুম্বকীয়",
+        "C": "ঘর্ষণ",
+        "D": "সবল নিউক্লিয়"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 212,
+      "question": "চারটি মৌলিক বলের মধ্যে দুর্বলতম কোনটি?",
+      "options": {
+        "A": "সবল নিউক্লিয়",
+        "B": "দুর্বল নিউক্লিয়",
+        "C": "তড়িচ্চুম্বকীয়",
+        "D": "মহাকর্ষ"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "D",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    },
+    {
+      "serial": 213,
+      "question": "চারটি মৌলিক বলের মধ্যে সবলতম কোনটি?",
+      "options": {
+        "A": "মহাকর্ষ",
+        "B": "তড়িচ্চুম্বকীয়",
+        "C": "সবল নিউক্লিয়",
+        "D": "দুর্বল নিউক্লিয়"
+      },
+      "board": "",
+      "year": null,
+      "topic": "ভৌত রাশি ও পরিমাপ",
+      "correctAnswer": "C",
+      "source": "ORIGINAL-curriculum",
+      "verificationStatus": "verified",
+      "kind": "ORIGINAL"
+    }
+  ],
+  "answerBox": {
+    "1": "A",
+    "2": "B",
+    "3": "C",
+    "4": "C",
+    "5": "B",
+    "6": "C",
+    "7": "C",
+    "8": "C",
+    "9": "C",
+    "10": "B",
+    "11": "C",
+    "12": "A",
+    "13": "B",
+    "14": "C",
+    "15": "B",
+    "16": "C",
+    "17": "C",
+    "18": "D",
+    "19": "B",
+    "20": "B",
+    "21": "C",
+    "22": "C",
+    "23": "B",
+    "24": "B",
+    "25": "C",
+    "26": "B",
+    "27": "C",
+    "28": "A",
+    "29": "B",
+    "30": "A",
+    "31": "A",
+    "32": "A",
+    "33": "B",
+    "34": "B",
+    "35": "B",
+    "36": "B",
+    "37": "B",
+    "38": "A",
+    "39": "B",
+    "40": "C",
+    "41": "B",
+    "42": "C",
+    "43": "B",
+    "44": "B",
+    "45": "B",
+    "46": "D",
+    "47": "B",
+    "48": "B",
+    "49": "C",
+    "50": "B",
+    "51": "C",
+    "52": "C",
+    "53": "B",
+    "54": "B",
+    "55": "B",
+    "56": "B",
+    "57": "B",
+    "58": "B",
+    "59": "B",
+    "60": "A",
+    "61": "B",
+    "62": "B",
+    "63": "B",
+    "64": "B",
+    "65": "B",
+    "66": "B",
+    "67": "B",
+    "68": "B",
+    "69": "A",
+    "70": "B",
+    "71": "A",
+    "72": "B",
+    "73": "B",
+    "74": "B",
+    "75": "B",
+    "76": "C",
+    "77": "B",
+    "78": "B",
+    "79": "B",
+    "80": "B",
+    "81": "B",
+    "82": "B",
+    "83": "C",
+    "84": "B",
+    "85": "B",
+    "86": "B",
+    "87": "A",
+    "88": "B",
+    "89": "C",
+    "90": "A",
+    "91": "B",
+    "92": "B",
+    "93": "B",
+    "94": "B",
+    "95": "B",
+    "96": "A",
+    "97": "A",
+    "98": "A",
+    "99": "A",
+    "100": "B",
+    "101": "A",
+    "102": "A",
+    "103": "B",
+    "104": "B",
+    "105": "A",
+    "106": "A",
+    "107": "A",
+    "108": "A",
+    "109": "A",
+    "110": "A",
+    "111": "A",
+    "112": "B",
+    "113": "B",
+    "114": "B",
+    "115": "B",
+    "116": "B",
+    "117": "B",
+    "118": "B",
+    "119": "B",
+    "120": "A",
+    "121": "B",
+    "122": "B",
+    "123": "B",
+    "124": "B",
+    "125": "B",
+    "126": "B",
+    "127": "B",
+    "128": "B",
+    "129": "A",
+    "130": "B",
+    "131": "B",
+    "132": "A",
+    "133": "A",
+    "134": "B",
+    "135": "C",
+    "136": "A",
+    "137": "A",
+    "138": "A",
+    "139": "B",
+    "140": "A",
+    "141": "A",
+    "142": "A",
+    "143": "A",
+    "144": "A",
+    "145": "B",
+    "146": "A",
+    "147": "B",
+    "148": "B",
+    "149": "B",
+    "150": "B",
+    "151": "B",
+    "152": "C",
+    "153": "B",
+    "154": "B",
+    "155": "C",
+    "156": "B",
+    "157": "B",
+    "158": "A",
+    "159": "B",
+    "160": "B",
+    "161": "C",
+    "162": "B",
+    "163": "B",
+    "164": "D",
+    "165": "B",
+    "166": "B",
+    "167": "B",
+    "168": "B",
+    "169": "B",
+    "170": "B",
+    "171": "B",
+    "172": "C",
+    "173": "B",
+    "174": "B",
+    "175": "B",
+    "176": "A",
+    "177": "C",
+    "178": "B",
+    "179": "B",
+    "180": "A",
+    "181": "C",
+    "182": "B",
+    "183": "B",
+    "184": "B",
+    "185": "A",
+    "186": "B",
+    "187": "A",
+    "188": "B",
+    "189": "B",
+    "190": "A",
+    "191": "A",
+    "192": "A",
+    "193": "B",
+    "194": "C",
+    "195": "A",
+    "196": "A",
+    "197": "B",
+    "198": "C",
+    "199": "C",
+    "200": "C",
+    "201": "B",
+    "202": "B",
+    "203": "C",
+    "204": "D",
+    "205": "C",
+    "206": "B",
+    "207": "B",
+    "208": "B",
+    "209": "B",
+    "210": "C",
+    "211": "C",
+    "212": "D",
+    "213": "C"
+  }
+}
