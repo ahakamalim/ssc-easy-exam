@@ -38,6 +38,11 @@ cards.forEach(card=>{
 
 card.onclick=function(){
 
+if(this.dataset.subject==="Physics"){
+    window.location.href="pages/physics.html";
+    return;
+}
+
 subjectTitle.innerHTML=this.dataset.subject;
 
 main.style.display="none";

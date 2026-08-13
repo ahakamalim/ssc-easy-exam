@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>পদার্থবিজ্ঞান — এমসিকিউ</title>
+  <link rel="stylesheet" href="../style.css" />
+  <style>
+    body { font-family: "Noto Sans Bengali", "Kalpurush", "SolaimanLipi", sans-serif; }
+    .wrap { max-width: 980px; margin: 16px auto; padding: 0 14px 40px; }
+    .crumb { font-size: 14px; color: #555; margin-bottom: 10px; }
+    .crumb a { color: #1a3a6b; }
+    h1 { font-size: 22px; margin: 8px 0 16px; }
+    .chapters { display: grid; gap: 10px; }
+    .chapter {
+      background: #fff; border: 1px solid #dbe3ef; border-radius: 12px;
+      padding: 12px 14px; cursor: pointer;
+    }
+    .chapter h2 { font-size: 16px; margin: 0 0 4px; }
+    .chapter p { margin: 0; font-size: 13px; color: #666; }
+    .hidden { display: none !important; }
+    .mcq-grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+      gap: 12px; margin-top: 14px;
+    }
+    .pdf-box {
+      display: block; text-decoration: none; color: inherit;
+      border: 2px solid #1a3a6b; border-radius: 10px; padding: 14px 10px;
+      background: #f7faff; text-align: center; min-height: 110px;
+    }
+    .pdf-box strong { display: block; color: #1a3a6b; margin-bottom: 6px; }
+    .pdf-box span { font-size: 12px; color: #444; }
+    .back { margin: 8px 0 16px; }
+    button.linkish {
+      background: #1a3a6b; color: #fff; border: 0; border-radius: 8px;
+      padding: 8px 14px; cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">📚 Question Bank</div>
+  </header>
+  <div class="wrap">
+    <div class="crumb"><a href="../index.html">হোম</a> → পদার্থবিজ্ঞান</div>
+    <div id="chapterView">
+      <h1>পদার্থবিজ্ঞান — অধ্যায়সমূহ</h1>
+      <div class="chapters" id="chapterList"></div>
+    </div>
+    <div id="mcqView" class="hidden">
+      <button class="linkish back" id="backCh">← অধ্যায় তালিকা</button>
+      <div class="crumb" id="mcqCrumb"></div>
+      <h1 id="mcqTitle">এমসিকিউ</h1>
+      <p>বোর্ড ফরম্যাটের পিডিএফ (ক/খ/গ/ঘ) · প্রতি সেটে ২৫টি প্রশ্ন · নিচে উত্তরমালা বক্স</p>
+      <div class="mcq-grid" id="mcqGrid"></div>
+    </div>
+  </div>
+  <script>
+    const CHAPTERS = [
+      { n: 1, name: "ভৌত রাশি ও পরিমাপ", sets: 8, dir: "../files/Physics/Chapter_01/mcq", prefix: "Physics_Ch01_MCQ_Set_" },
+      { n: 2, name: "গতি", sets: 0 },
+      { n: 3, name: "বল", sets: 0 },
+      { n: 4, name: "কাজ, ক্ষমতা ও শক্তি", sets: 0 },
+      { n: 5, name: "পদার্থের অবস্থা ও চাপ", sets: 0 },
+      { n: 6, name: "বস্তুর উপর তাপের প্রভাব", sets: 0 },
+      { n: 7, name: "তরঙ্গ ও শব্দ", sets: 0 },
+      { n: 8, name: "আলোর প্রতিফলন", sets: 0 },
+      { n: 9, name: "আলোর প্রতিসরণ", sets: 0 },
+      { n: 10, name: "স্থির তড়িৎ", sets: 0 },
+      { n: 11, name: "চল তড়িৎ", sets: 0 },
+      { n: 12, name: "চুম্বকত্ব", sets: 0 },
+      { n: 13, name: "আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স", sets: 0 },
+      { n: 14, name: "জীবন ও জগতের সাথে পদার্থবিজ্ঞান", sets: 0 }
+    ];
+    const list = document.getElementById("chapterList");
+    CHAPTERS.forEach(ch => {
+      const el = document.createElement("div");
+      el.className = "chapter";
+      el.innerHTML = `<h2>অধ্যায় ${ch.n} — ${ch.name}</h2><p>এমসিকিউ সেকশন · ${ch.sets} টি পিডিএফ</p>`;
+      el.onclick = () => openMcq(ch);
+      list.appendChild(el);
+    });
+    function openMcq(ch) {
+      document.getElementById("chapterView").classList.add("hidden");
+      document.getElementById("mcqView").classList.remove("hidden");
+      document.getElementById("mcqTitle").textContent = `অধ্যায় ${ch.n} — এমসিকিউ`;
+      document.getElementById("mcqCrumb").innerHTML =
+        `<a href="../index.html">হোম</a> → পদার্থবিজ্ঞান → অধ্যায় ${ch.n} → এমসিকিউ`;
+      const grid = document.getElementById("mcqGrid");
+      grid.innerHTML = "";
+      if (!ch.sets) {
+        grid.innerHTML = "<p>এই অধ্যায়ের এমসিকিউ পিডিএফ এখনো যোগ হয়নি।</p>";
+        return;
+      }
+      for (let i = 1; i <= ch.sets; i++) {
+        const a = document.createElement("a");
+        a.className = "pdf-box";
+        a.href = `${ch.dir}/${ch.prefix}${String(i).padStart(2,"0")}.pdf`;
+        a.target = "_blank";
+        a.innerHTML = `<strong>সেট ${i}</strong><span>২৫টি MCQ<br>উত্তরমালা বক্স ১–২৫</span>`;
+        grid.appendChild(a);
+      }
+    }
+    document.getElementById("backCh").onclick = () => {
+      document.getElementById("mcqView").classList.add("hidden");
+      document.getElementById("chapterView").classList.remove("hidden");
+    };
+  </script>
+</body>
+</html>
