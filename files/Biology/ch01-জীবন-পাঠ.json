@@ -1,0 +1,7134 @@
+{
+ "subject": "জীববিজ্ঞান",
+ "chapterNo": 1,
+ "chapter": "জীবন পাঠ",
+ "questions": [
+  {
+   "question": "জীবন কাকে বলে?",
+   "options": {
+    "A": "শক্তি",
+    "B": "কোনোটিই নয়",
+    "C": "জীবের বৈশিষ্ট্যের সমষ্টি",
+    "D": "ভর"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "ক্লোনিংয়ের বিখ্যাত উদাহরণ —",
+   "options": {
+    "A": "ডলি ভেড়া",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "অবাত শ্বসনে উৎপন্ন —",
+   "options": {
+    "A": "CO₂ শুধু",
+    "B": "কোনোটিই নয়",
+    "C": "ল্যাকটিক অ্যাসিড/ইথানল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "জড় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শ্বসন করে না",
+    "C": "শ্বসন করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীব ও জড়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "জীবন পাঠ অধ্যায়ের বিষয়বস্তু —",
+   "options": {
+    "A": "গতি",
+    "B": "কোনোটিই নয়",
+    "C": "জীবন ও জীবের ধারণা",
+    "D": "শব্দ"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "জীবের বৃহত্তম সংগঠন —",
+   "options": {
+    "A": "অঙ্গ",
+    "B": "কোনোটিই নয়",
+    "C": "তন্ত্র",
+    "D": "জীব"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "বাস্তুতান্ত্রিক বৈচিত্র্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বিভিন্ন বাস্তুতন্ত্র",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "জীববিজ্ঞানের জনক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যারিস্টটল",
+    "C": "ডারউইন",
+    "D": "নিউটন"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "ডলি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ক্লোন করা ভেড়া",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "জীব ও পরিবেশের সম্পর্ক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দুর্বল",
+    "C": "গভীর",
+    "D": "নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "স্ফটিকের বৃদ্ধি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাইরে থেকে",
+    "C": "অভ্যন্তরীণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীব ও জড়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "খাদ্য উৎপাদনে —",
+   "options": {
+    "A": "অগুরুত্বপূর্ণ",
+    "B": "জীববিজ্ঞান গুরুত্বপূর্ণ",
+    "C": "নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "টিস্যুর উদাহরণ —",
+   "options": {
+    "A": "পাকস্থলী",
+    "B": "পেশি টিস্যু, স্নায়ু টিস্যু",
+    "C": "হৃৎপিণ্ড",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "জীববৈচিত্র্য সংরক্ষণের উপায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ইন-সিটু ও এক্স-সিটু",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "জীববিজ্ঞান রসায়ন থেকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "আলাদা (জীব নিয়ে)",
+    "D": "একই"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "শ্রেণিবিন্যাসের একক —",
+   "options": {
+    "A": "শুধু প্রজাতি",
+    "B": "জগৎ, পর্ব, শ্রেণি, বর্গ, গোত্র, গণ, প্রজাতি",
+    "C": "শুধু জগৎ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "শীতপ্রধান অঞ্চলের প্রাণীর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পাতলা চামড়া",
+    "C": "কিছুই না",
+    "D": "পুরু লোম"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "জড় বস্তুর নির্দিষ্ট আয়ুষ্কাল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আছে",
+    "C": "কিছুই না",
+    "D": "নেই"
+   },
+   "correctAnswer": "D",
+   "topic": "জীব ও জড়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "জীববিজ্ঞান খাদ্য উৎপাদনে —",
+   "options": {
+    "A": "সাহায্য করে",
+    "B": "কিছুই না",
+    "C": "করে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "টিস্যু কাকে বলে?",
+   "options": {
+    "A": "তন্ত্রের সমষ্টি",
+    "B": "সদৃশ কোষের সমষ্টি",
+    "C": "কোনোটিই নয়",
+    "D": "অঙ্গের সমষ্টি"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "বিলুপ্ত প্রজাতি —",
+   "options": {
+    "A": "ফিরে আসে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ফিরে আসে না"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "জীববিজ্ঞান আধুনিক রূপ পায় —",
+   "options": {
+    "A": "১৬ শতকে",
+    "B": "কোনোটিই নয়",
+    "C": "১০ শতকে",
+    "D": "১৯ শতকে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "বংশগতিবিদ্যা (Genetics) —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কোষের বিজ্ঞান",
+    "C": "জিন ও বংশগতির বিজ্ঞান",
+    "D": "কলার বিজ্ঞান"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "উদ্দীপনায় সাড়া —",
+   "options": {
+    "A": "জীবের বৈশিষ্ট্য",
+    "B": "জড়ের বৈশিষ্ট্য",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "জীব ও জড়ের মূল পার্থক্য —",
+   "options": {
+    "A": "প্রাণের উপস্থিতি",
+    "B": "কোনোটিই নয়",
+    "C": "রঙ",
+    "D": "আকার"
+   },
+   "correctAnswer": "A",
+   "topic": "জীব ও জড়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "মৎস্য ও হাঁস-মুরগি চাষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জীববিজ্ঞান সাহায্য করে",
+    "C": "কিছুই না",
+    "D": "করে না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "বহুকোষী জীব —",
+   "options": {
+    "A": "মানুষ, আম গাছ",
+    "B": "ব্যাকটেরিয়া",
+    "C": "অ্যামিবা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "জীববৈচিত্র্যের ধরন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু এক",
+    "C": "জিনগত, প্রজাতিগত, বাস্তুতান্ত্রিক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "উদ্ভিদ উত্তেজনায় সাড়া দেয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বসু দেখান",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "প্ল্যান্টি জগতের জীব —",
+   "options": {
+    "A": "ব্যাকটেরিয়া",
+    "B": "উদ্ভিদ",
+    "C": "কোনোটিই নয়",
+    "D": "প্রাণী"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "কোষ আবিষ্কার করেন —",
+   "options": {
+    "A": "ডারউইন",
+    "B": "কোনোটিই নয়",
+    "C": "রবার্ট হুক",
+    "D": "মেন্ডেল"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "স্ফটিক বাড়লেও —",
+   "options": {
+    "A": "জীব",
+    "B": "জীব নয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীব ও জড়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "জীববিজ্ঞানের ভিত্তি অধ্যায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জড় পাঠ",
+    "C": "কিছুই না",
+    "D": "জীবন পাঠ"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "বহুকোষী জীবে কোষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বিশেষায়িত হয়",
+    "C": "বিশেষায়িত হয় না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "জিনগত বৈচিত্র্য —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "একই প্রজাতির মধ্যে ভিন্নতা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "জীববিজ্ঞান ও রসায়নের সমন্বয় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "প্রাণরসায়ন (Biochemistry)",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "বিড়ালের বৈজ্ঞানিক নাম —",
+   "options": {
+    "A": "Homo sapiens",
+    "B": "Felis catus",
+    "C": "কোনোটিই নয়",
+    "D": "Canis familiaris"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "প্রাণী —",
+   "options": {
+    "A": "স্বভোজী",
+    "B": "পরভোজী",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "জীব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "করে না",
+    "C": "কোনোটিই নয়",
+    "D": "খাদ্য গ্রহণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীব ও জড়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "জীবন পাঠ —",
+   "options": {
+    "A": "ঐচ্ছিক",
+    "B": "শেষ অধ্যায়",
+    "C": "জীববিজ্ঞানের সূচনা অধ্যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "কোষ বিশেষায়ন —",
+   "options": {
+    "A": "বহুকোষী জীবের বৈশিষ্ট্য",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "এককোষীর বৈশিষ্ট্য"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "বিলুপ্তির কারণ —",
+   "options": {
+    "A": "আবাসস্থল ধ্বংস, শিকার",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "উপকার"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "উদ্ভিদের প্রাণ আছে —",
+   "options": {
+    "A": "বসু প্রমাণ করেন",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "প্রাণিবিজ্ঞান (Zoology) —",
+   "options": {
+    "A": "উদ্ভিদের বিজ্ঞান",
+    "B": "প্রাণীর বিজ্ঞান",
+    "C": "অণুজীবের বিজ্ঞান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "জীব পরিবেশ থেকে —",
+   "options": {
+    "A": "খাদ্য ও অক্সিজেন নেয়",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই নেয় না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "জড় বংশবৃদ্ধি —",
+   "options": {
+    "A": "করে না",
+    "B": "করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীব ও জড়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "জীববিজ্ঞান ছাড়া চিকিৎসা —",
+   "options": {
+    "A": "সম্ভব",
+    "B": "অসম্ভব",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "লোহিত রক্তকণিকার কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্নায়ু পরিবহণ",
+    "C": "অক্সিজেন বহন",
+    "D": "সংকোচন"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "জীববৈচিত্র্য জানা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সহায়ক নয়",
+    "C": "প্রকৃতি রক্ষায় সহায়ক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "প্রাণিবিদ্যার জনক —",
+   "options": {
+    "A": "অ্যারিস্টটল",
+    "B": "ডারউইন",
+    "C": "কোনোটিই নয়",
+    "D": "থিওফ্রাস্টাস"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "উদ্ভিদবিজ্ঞান (Botany) —",
+   "options": {
+    "A": "প্রাণীর বিজ্ঞান",
+    "B": "অণুজীবের বিজ্ঞান",
+    "C": "কোনোটিই নয়",
+    "D": "উদ্ভিদের বিজ্ঞান"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "উপচিতি (Anabolism) —",
+   "options": {
+    "A": "সংশ্লেষণমূলক বিক্রিয়া",
+    "B": "ভাঙনমূলক বিক্রিয়া",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "জড় বাড়ে —",
+   "options": {
+    "A": "অভ্যন্তরীণভাবে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বাইরে পদার্থ জমে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীব ও জড়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "জীববিজ্ঞানের ব্যবহারিক প্রয়োগ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কৃষি, চিকিৎসা, পরিবেশ, শিল্পে",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "তন্ত্রের উদাহরণ —",
+   "options": {
+    "A": "কোষ",
+    "B": "পরিপাক তন্ত্র, রক্ত সংবহন তন্ত্র",
+    "C": "টিস্যু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "চিড়িয়াখানা ও বোটানিক্যাল গার্ডেন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "জীব সংরক্ষণে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "জীববিজ্ঞানী কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পদার্থবিদ",
+    "C": "রসায়নবিদ",
+    "D": "জীববিজ্ঞান নিয়ে গবেষণাকারী"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "বৈজ্ঞানিক নামের সুবিধা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সীমিত",
+    "C": "সার্বজনীন",
+    "D": "নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "শ্বসনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "খাদ্য জারিত হয়ে শক্তি",
+    "C": "খাদ্য সঞ্চিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "জীব ও জড়ের পার্থক্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "জীবনে ও বৈশিষ্ট্যে",
+    "D": "শুধু রঙে"
+   },
+   "correctAnswer": "C",
+   "topic": "জীব ও জড়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "জীববিজ্ঞানের পাঠ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "কৌতূহল জাগায়",
+    "D": "করে না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "বহুকোষী জীবে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "এক কোষে সব",
+    "C": "কাজ বিভক্ত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "আবাসস্থল ধ্বংস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বন উজাড়ে",
+    "C": "কোনোটিই নয়",
+    "D": "উপকার"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "প্রাণরসায়ন —",
+   "options": {
+    "A": "জীবের রাসায়নিক প্রক্রিয়া নিয়ে",
+    "B": "জড় নিয়ে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "অণুজীব কাকে বলে?",
+   "options": {
+    "A": "উদ্ভিদ",
+    "B": "কোনোটিই নয়",
+    "C": "খালি চোখে দেখা যায় এমন জীব",
+    "D": "খালি চোখে দেখা যায় না এমন জীব"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "প্রাণীর বৃদ্ধি —",
+   "options": {
+    "A": "সীমিত",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "আজীবন"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "জড় বস্তু —",
+   "options": {
+    "A": "প্রজনন করে না",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "প্রজনন করে"
+   },
+   "correctAnswer": "A",
+   "topic": "জীব ও জড়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "উন্নত বীজ ও ফসল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "জীববিজ্ঞানের অবদান"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "এককোষী জীবে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অনেক কোষ",
+    "D": "একটি কোষেই সব কাজ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "জীববৈচিত্র্য ধ্বংসের কারণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "উপকার",
+    "D": "বন উজাড়, দূষণ"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "কোষ তত্ত্বের প্রবক্তা —",
+   "options": {
+    "A": "শ্লাইডেন ও শোয়ান",
+    "B": "হুক",
+    "C": "ডারউইন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "অ্যানিমালিয়া জগতের জীব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উদ্ভিদ",
+    "C": "প্রাণী",
+    "D": "ছত্রাক"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "সালোকসংশ্লেষণের উপজাত —",
+   "options": {
+    "A": "নাইট্রোজেন",
+    "B": "CO₂",
+    "C": "কোনোটিই নয়",
+    "D": "অক্সিজেন"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "প্রাণহীন বস্তু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উভয়ই",
+    "C": "জড়",
+    "D": "জীব"
+   },
+   "correctAnswer": "C",
+   "topic": "জীব ও জড়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "উন্নত জাতের ফসল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "জীববিজ্ঞানের অবদান",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "অঙ্গের উদাহরণ —",
+   "options": {
+    "A": "স্নায়ু কোষ",
+    "B": "কোনোটিই নয়",
+    "C": "পেশি কোষ",
+    "D": "হৃৎপিণ্ড, পাকস্থলী, ফুসফুস"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "অভয়ারণ্য —",
+   "options": {
+    "A": "প্রাণীর নিরাপদ আবাস",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "জীববিজ্ঞান পদার্থবিজ্ঞান থেকে —",
+   "options": {
+    "A": "আলাদা (জীব নিয়ে)",
+    "B": "কিছুই না",
+    "C": "একই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "পাস্তুরাইজেশন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "পাস্তুরের পদ্ধতি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "জীব পরিবেশে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "করে না",
+    "C": "বর্জ্য ত্যাগ করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "প্রাণবান বস্তু —",
+   "options": {
+    "A": "জড়",
+    "B": "উভয়ই",
+    "C": "জীব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীব ও জড়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "মৎস্য চাষে —",
+   "options": {
+    "A": "জীববিজ্ঞান প্রয়োগ হয়",
+    "B": "হয় না",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "জীবের সংগঠনের স্তর —",
+   "options": {
+    "A": "অঙ্গ → কোষ",
+    "B": "কোষ → কলা → অঙ্গ → তন্ত্র → জীব",
+    "C": "কোনোটিই নয়",
+    "D": "জীব → কোষ"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "জীববৈচিত্র্যের গুরুত্ব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "খাদ্য, ওষুধ, পরিবেশে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "জীববিজ্ঞানের পরীক্ষা-নিরীক্ষা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গুরুত্বপূর্ণ",
+    "C": "অগুরুত্বপূর্ণ",
+    "D": "নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "লুই পাস্তুর —",
+   "options": {
+    "A": "উদ্ভিদবিজ্ঞানের জনক",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "অণুজীববিজ্ঞানের জনক"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "সালোকসংশ্লেষণ ঘটে —",
+   "options": {
+    "A": "ক্লোরোপ্লাস্টে",
+    "B": "কোনোটিই নয়",
+    "C": "মাইটোকন্ড্রিয়ায়",
+    "D": "নিউক্লিয়াসে"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "প্রাণ কাকে বলে?",
+   "options": {
+    "A": "শক্তি",
+    "B": "কোনোটিই নয়",
+    "C": "ভর",
+    "D": "জীবনের বৈশিষ্ট্যের সমষ্টি"
+   },
+   "correctAnswer": "D",
+   "topic": "জীব ও জড়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "জীববিজ্ঞান পাঠের প্রথম ধাপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জড়ের ধারণা",
+    "C": "কোনোটিই নয়",
+    "D": "জীবন ও জীবের ধারণা"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "বিভিন্ন তন্ত্রের সমন্বয়ে —",
+   "options": {
+    "A": "কোষ গঠিত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "অঙ্গ গঠিত হয়",
+    "D": "জীব গঠিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "জীববৈচিত্র্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "নষ্ট করে",
+    "D": "প্রকৃতির ভারসাম্য রক্ষা করে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "জীববিজ্ঞান শব্দটি প্রথম ব্যবহার করেন —",
+   "options": {
+    "A": "মেন্ডেল",
+    "B": "ডারউইন",
+    "C": "ল্যামার্ক ও ট্রেভিরানাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "DNA —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বংশগতির বাহক",
+    "C": "শক্তির বাহক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "উদ্ভিদ নিজের খাদ্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "করে না",
+    "C": "তৈরি করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "রোগ প্রতিরোধে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জীববিজ্ঞান সাহায্য করে",
+    "C": "করে না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "এককোষী জীব —",
+   "options": {
+    "A": "মানুষ",
+    "B": "আম গাছ",
+    "C": "অ্যামিবা, ব্যাকটেরিয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "ইন-সিটুর উদাহরণ —",
+   "options": {
+    "A": "জাতীয় উদ্যান, বন্যপ্রাণী অভয়ারণ্য",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "চিড়িয়াখানা"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "ক্রেসকোগ্রাফ দিয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "উদ্ভিদের বৃদ্ধি মাপা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "বায়োটেকনোলজি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জীবের সাহায্যে উৎপাদন",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "সালোকসংশ্লেষণকারী জীব —",
+   "options": {
+    "A": "সবুজ উদ্ভিদ",
+    "B": "ছত্রাক",
+    "C": "কোনোটিই নয়",
+    "D": "প্রাণী"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "জীববিজ্ঞান ও কৃষি —",
+   "options": {
+    "A": "ঘনিষ্ঠ সম্পর্ক",
+    "B": "সম্পর্কহীন",
+    "C": "দুর্বল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "পেশি কোষের কাজ —",
+   "options": {
+    "A": "সংকোচন",
+    "B": "স্নায়ু পরিবহণ",
+    "C": "অক্সিজেন বহন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "তুলসী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "ঔষধি উদ্ভিদ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "বাংলাদেশের প্রখ্যাত বিজ্ঞানী —",
+   "options": {
+    "A": "আইনস্টাইন",
+    "B": "কোনোটিই নয়",
+    "C": "নিউটন",
+    "D": "স্যার জগদীশ চন্দ্র বসু"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "পেনিসিলিন আবিষ্কার —",
+   "options": {
+    "A": "পাস্তুর",
+    "B": "কোনোটিই নয়",
+    "C": "আলেকজান্ডার ফ্লেমিং",
+    "D": "জেনার"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "ছত্রাকের উদাহরণ —",
+   "options": {
+    "A": "ব্যাকটেরিয়া",
+    "B": "অ্যামিবা",
+    "C": "মাশরুম, ইস্ট, ছাতা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "জীবন পাঠ অধ্যায়ের মূল —",
+   "options": {
+    "A": "গতি",
+    "B": "শব্দ",
+    "C": "জীবন, জীব, জীববৈচিত্র্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "কোষের সমষ্টি —",
+   "options": {
+    "A": "তন্ত্র",
+    "B": "কোনোটিই নয়",
+    "C": "অঙ্গ",
+    "D": "কলা (টিস্যু)"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "বন উজাড় —",
+   "options": {
+    "A": "জীববৈচিত্র্য কমায়",
+    "B": "বাড়ায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "জীববিজ্ঞান পরীক্ষাগারে —",
+   "options": {
+    "A": "অণুবীক্ষণ ব্যবহৃত হয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "মানুষের ক্রোমোজোম জোড়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২২ জোড়া",
+    "C": "৪৬ জোড়া",
+    "D": "২৩ জোড়া"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "ছত্রাক —",
+   "options": {
+    "A": "প্রোক্যারিওট",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ইউক্যারিওট"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "জীববিজ্ঞান পরিবেশ সংরক্ষণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রাখে না",
+    "C": "গুরুত্বপূর্ণ ভূমিকা রাখে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "স্নায়ু কোষের কাজ —",
+   "options": {
+    "A": "অক্সিজেন বহন",
+    "B": "আবেগ পরিবহণ",
+    "C": "কোনোটিই নয়",
+    "D": "সংকোচন"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "জীববৈচিত্র্য কাকে বলে?",
+   "options": {
+    "A": "জড়",
+    "B": "কোনোটিই নয়",
+    "C": "এক প্রকার জীব",
+    "D": "বিভিন্ন প্রকার জীবের সমাহার"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "Biology শব্দের উৎপত্তি —",
+   "options": {
+    "A": "গ্রিক শব্দ Bios + logos",
+    "B": "কোনোটিই নয়",
+    "C": "সংস্কৃত শব্দ",
+    "D": "ল্যাটিন শব্দ"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "দ্বিপদ নামের প্রথম অংশ —",
+   "options": {
+    "A": "প্রজাতি",
+    "B": "কোনোটিই নয়",
+    "C": "পর্ব",
+    "D": "গণ"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "মূল মাধ্যাকর্ষণের দিকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বাঁকে (জিওট্রপিজম)",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "জীববিজ্ঞান —",
+   "options": {
+    "A": "আধুনিক বিজ্ঞানের গুরুত্বপূর্ণ শাখা",
+    "B": "নেই",
+    "C": "অগুরুত্বপূর্ণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "জীবের ক্ষুদ্রতম গঠনগত একক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কোষ",
+    "C": "টিস্যু",
+    "D": "অঙ্গ"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "ইন-সিটু সংরক্ষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "কৃত্রিম স্থানে",
+    "D": "প্রাকৃতিক আবাসে সংরক্ষণ"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "জীববিজ্ঞান ও পদার্থবিজ্ঞানের সমন্বয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "জীবপদার্থবিজ্ঞান (Biophysics)",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "দ্বিপদ নামের দ্বিতীয় অংশ —",
+   "options": {
+    "A": "প্রজাতি",
+    "B": "গণ",
+    "C": "পর্ব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "জীবের বৃদ্ধি —",
+   "options": {
+    "A": "আকার ও ওজন বৃদ্ধি",
+    "B": "কোনোটিই নয়",
+    "C": "স্থির থাকা",
+    "D": "কমে যাওয়া"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "জীববিজ্ঞান পড়ার প্রথম কারণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জীবনকে জানা",
+    "C": "কিছুই না",
+    "D": "জড়কে জানা"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "বিভিন্ন অঙ্গের সমন্বয়ে —",
+   "options": {
+    "A": "টিস্যু গঠিত হয়",
+    "B": "কোষ গঠিত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "তন্ত্র গঠিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "নিম গাছ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ঔষধি গুণ",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "সব জীবের উৎপত্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "খনিজ থেকে",
+    "C": "কোষ থেকে",
+    "D": "পাথর থেকে"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "শ্রেণিবিন্যাসের ক্রম —",
+   "options": {
+    "A": "জগৎ → পর্ব → শ্রেণি → বর্গ → গোত্র → গণ → প্রজাতি",
+    "B": "প্রজাতি → জগৎ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "কোষ আবিষ্কৃত হয় —",
+   "options": {
+    "A": "১৯০০ সালে",
+    "B": "১৮৫৯ সালে",
+    "C": "১৬৬৫ সালে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "জীব ও জড় পার্থক্য জানা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জীববিজ্ঞানের ভিত্তি",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "বিভিন্ন টিস্যুর সমন্বয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তন্ত্র গঠিত হয়",
+    "C": "কোষ গঠিত হয়",
+    "D": "অঙ্গ গঠিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের সংগঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "বিলুপ্ত প্রাণীর উদাহরণ —",
+   "options": {
+    "A": "গরু",
+    "B": "কোনোটিই নয়",
+    "C": "ছাগল",
+    "D": "ডাইনোসর, ডোডো"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "Bios শব্দের অর্থ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জীবন",
+    "C": "মৃত্যু",
+    "D": "জ্ঞান"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "পাস্তুর প্রমাণ করেন —",
+   "options": {
+    "A": "বিবর্তন",
+    "B": "জীবাণু তত্ত্ব",
+    "C": "কোষ তত্ত্ব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "মুকুলোদগম —",
+   "options": {
+    "A": "মানুষের জনন",
+    "B": "কোনোটিই নয়",
+    "C": "হাইড্রার জনন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "জীববিজ্ঞানের গুরুত্ব —",
+   "options": {
+    "A": "কৃষি, চিকিৎসা, পরিবেশে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "বন সংরক্ষণ —",
+   "options": {
+    "A": "জীববৈচিত্র্য রক্ষা করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "নষ্ট করে"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "কোষ তত্ত্ব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সব জীব কোষ দিয়ে গঠিত",
+    "C": "জীব কোষহীন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "টিস্যু কালচারে —",
+   "options": {
+    "A": "কোষ/টিস্যু থেকে উদ্ভিদ",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "ভাইরাস কোষ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সম্পূর্ণ কোষ",
+    "C": "কোনোটিই নয়",
+    "D": "সম্পূর্ণ কোষ নয়"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "জীববিজ্ঞান পরিবেশ দূষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "করে না",
+    "C": "সমাধানে সাহায্য করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "প্রজাতিগত বৈচিত্র্য —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বিভিন্ন প্রজাতির সমাহার"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "জগদীশ চন্দ্র বসু —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "উদ্ভিদের প্রাণ আছে প্রমাণ করেন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "DNA এর গঠন —",
+   "options": {
+    "A": "একক শৃঙ্খল",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ডাবল হেলিক্স"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "প্রাণীর রেচন অঙ্গ —",
+   "options": {
+    "A": "ফুসফুস শুধু",
+    "B": "হৃৎপিণ্ড",
+    "C": "কোনোটিই নয়",
+    "D": "বৃক্ক"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "উন্নত গবাদি পশু —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "জীববিজ্ঞানের অবদান",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "আমলকী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ভিটামিন C এর উৎস",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "Logos শব্দের অর্থ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জীবন",
+    "C": "প্রাণী",
+    "D": "জ্ঞান/বিদ্যা"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "জীবজগৎ কয়টি জগতে বিভক্ত?",
+   "options": {
+    "A": "৫",
+    "B": "২",
+    "C": "কোনোটিই নয়",
+    "D": "৩"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "জীবের বৈশিষ্ট্যের ভিত্তি —",
+   "options": {
+    "A": "কোষ",
+    "B": "খনিজ",
+    "C": "কোনোটিই নয়",
+    "D": "পরমাণু"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "জীববিজ্ঞান চিকিৎসায় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "রোগ নির্ণয় ও প্রতিকারে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "গাছ লাগানো ও প্রাণী রক্ষা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নষ্ট করে",
+    "C": "কোনোটিই নয়",
+    "D": "জীববৈচিত্র্য রক্ষা করে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "অণুবীক্ষণ যন্ত্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "জীববিজ্ঞানের গুরুত্বপূর্ণ যন্ত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "টিস্যু কালচার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "উদ্ভিদের দ্রুত বংশবৃদ্ধি",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "মানুষ —",
+   "options": {
+    "A": "মাংসাশী",
+    "B": "কোনোটিই নয়",
+    "C": "সর্বভুক",
+    "D": "তৃণভোজী"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "জীববিজ্ঞান পরিবেশে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "করে না",
+    "C": "সংরক্ষণে সাহায্য করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "প্রজাতি সংরক্ষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "জীববিজ্ঞানের কাজ"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "জীববিজ্ঞান আলোচনা করে —",
+   "options": {
+    "A": "খনিজ",
+    "B": "জীব ও জীবন প্রক্রিয়া",
+    "C": "কোনোটিই নয়",
+    "D": "জড় বস্তু"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "শ্রেণিবিন্যাসে নিচের দিকে গেলে —",
+   "options": {
+    "A": "কমে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সাদৃশ্য বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "সালোকসংশ্লেষণে উদ্ভিদ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "CO₂ ও পানি থেকে খাদ্য তৈরি",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "জীববিজ্ঞান শিক্ষার্থীদের —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জীবন সম্পর্কে জানায়",
+    "C": "কিছুই না",
+    "D": "জড় সম্পর্কে"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "জাতীয় উদ্যান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "জীববৈচিত্র্য সংরক্ষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "জীবনের সূচনা —",
+   "options": {
+    "A": "খনিজ থেকে",
+    "B": "কোষ থেকে",
+    "C": "পাথর থেকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "শরীরবিজ্ঞান (Physiology) —",
+   "options": {
+    "A": "জিনের বিজ্ঞান",
+    "B": "দেহের কার্যপ্রণালির বিজ্ঞান",
+    "C": "কোনোটিই নয়",
+    "D": "কোষের বিজ্ঞান"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "উদ্ভিদের কাণ্ড আলোর দিকে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "বাঁকে (ফোটোট্রপিজম)",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "টিকা ও ওষুধ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "জীববিজ্ঞানের অবদান"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "পরিবেশ সচেতনতা —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "কোনোটিই নয়",
+    "C": "জীববৈচিত্র্য রক্ষায় জরুরি",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "জীববিজ্ঞানের পর্যবেক্ষণ —",
+   "options": {
+    "A": "অগুরুত্বপূর্ণ",
+    "B": "নেই",
+    "C": "কোনোটিই নয়",
+    "D": "গুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "পাঁচ জগৎ —",
+   "options": {
+    "A": "শুধু ৩",
+    "B": "মনেরা, প্রোটিস্টা, ফানজাই, প্ল্যান্টি, অ্যানিমালিয়া",
+    "C": "শুধু ২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "সর্বভুক —",
+   "options": {
+    "A": "শুধু প্রাণী",
+    "B": "শুধু উদ্ভিদ",
+    "C": "উদ্ভিদ ও প্রাণী দুটোই খায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "জীবন পাঠ অধ্যায় —",
+   "options": {
+    "A": "অগুরুত্বপূর্ণ",
+    "B": "জীববিজ্ঞানের ভিত্তি",
+    "C": "ঐচ্ছিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "গাছ লাগানো —",
+   "options": {
+    "A": "পরিবেশ ও জীববৈচিত্র্য রক্ষা করে",
+    "B": "ক্ষতি করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "বিজ্ঞানের শাখা জীববিজ্ঞান —",
+   "options": {
+    "A": "জীবন নিয়ে",
+    "B": "জড় নিয়ে",
+    "C": "খনিজ নিয়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "জিন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "বংশগত বৈশিষ্ট্য বহন করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "বিবর্তন কাকে বলে?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ধীরে ধীরে পরিবর্তন",
+    "D": "হঠাৎ পরিবর্তন"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "জীববিজ্ঞান কৃষিতে —",
+   "options": {
+    "A": "ফসল উন্নয়নে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "শিকার নিষিদ্ধ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জীববৈচিত্র্য রক্ষায়",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "ক্রেসকোগ্রাফ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বসুর আবিষ্কার",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "আধুনিক জীববিজ্ঞান —",
+   "options": {
+    "A": "মানবকল্যাণে ব্যবহৃত",
+    "B": "ক্ষতিকর শুধু",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "COVID-19 —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ভাইরাসঘটিত রোগ",
+    "D": "ব্যাকটেরিয়াঘটিত"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "জীববিজ্ঞান পাঠে —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "উচিত নয়",
+    "C": "কোনোটিই নয়",
+    "D": "মনোযোগী হওয়া উচিত"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "বন্যপ্রাণী আইন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "প্রাণী রক্ষা করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "জীববিজ্ঞান কাকে বলে?",
+   "options": {
+    "A": "জড় পদার্থের বিজ্ঞান",
+    "B": "কোনোটিই নয়",
+    "C": "জীব ও জীবন প্রক্রিয়ার বিজ্ঞান",
+    "D": "পদার্থের বিজ্ঞান"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "ক্লোনিং —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "জিনগতভাবে অভিন্ন জীব সৃষ্টি"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "শ্বসনের সমীকরণ —",
+   "options": {
+    "A": "CO₂ → O₂",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "গ্লুকোজ + O₂ → CO₂ + পানি + শক্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "জীববিজ্ঞান জ্ঞানের —",
+   "options": {
+    "A": "বাধা",
+    "B": "সহায়ক",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "সুন্দরবন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বিশ্বের বৃহত্তম ম্যানগ্রোভ বন",
+    "C": "মরুভূমি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "উদ্ভিদবিজ্ঞানের জনক —",
+   "options": {
+    "A": "লিনিয়াস",
+    "B": "অ্যারিস্টটল",
+    "C": "কোনোটিই নয়",
+    "D": "থিওফ্রাস্টাস"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "বংশগতিবিদ্যার জনক —",
+   "options": {
+    "A": "গ্রেগর মেন্ডেল",
+    "B": "লিনিয়াস",
+    "C": "ডারউইন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "জীবের গঠনগত একক —",
+   "options": {
+    "A": "পরমাণু",
+    "B": "কোনোটিই নয়",
+    "C": "কোষ",
+    "D": "অণু"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "জীববিজ্ঞান পাঠ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সচেতন নাগরিক গঠনে সহায়ক",
+    "C": "দরকার নেই",
+    "D": "সহায়ক নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "ডাইনোসর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বিলুপ্ত প্রাণী",
+    "C": "জীবিত",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "বংশগতির একক —",
+   "options": {
+    "A": "টিস্যু",
+    "B": "কোষ",
+    "C": "কোনোটিই নয়",
+    "D": "জিন"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "যৌন জনন —",
+   "options": {
+    "A": "একটি পিতামাতা",
+    "B": "কিছুই না",
+    "C": "দুটি পিতামাতা থেকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "জীববিজ্ঞান অধ্যায় জীবন পাঠ —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "কোনোটিই নয়",
+    "C": "অগুরুত্বপূর্ণ",
+    "D": "ঐচ্ছিক"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "জীববৈচিত্র্য রক্ষায় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সংরক্ষিত বন, আইন"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "প্রজাতিতে জীব —",
+   "options": {
+    "A": "কম",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সর্বাধিক সাদৃশ্যপূর্ণ"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "অযৌন জনন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "একটি পিতামাতা থেকে",
+    "D": "দুটি পিতামাতা"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "ভ্যাকসিন —",
+   "options": {
+    "A": "জীববিজ্ঞানের অবদান",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পদার্থবিজ্ঞানের"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "ঔষধি উদ্ভিদ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিম, তুলসী, আমলকী",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "শ্রেণিবিন্যাসের সর্বনিম্ন একক —",
+   "options": {
+    "A": "প্রজাতি (Species)",
+    "B": "কোনোটিই নয়",
+    "C": "পর্ব",
+    "D": "জগৎ"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "মরু উদ্ভিদের গভীর মূল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "পানি শোষণে অভিযোজন"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "জীববিজ্ঞান জলবায়ু পরিবর্তন —",
+   "options": {
+    "A": "করে না",
+    "B": "বুঝতে সাহায্য করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "বাংলাদেশের বিলুপ্তপ্রায় প্রাণী —",
+   "options": {
+    "A": "রয়েল বেঙ্গল টাইগার",
+    "B": "কোনোটিই নয়",
+    "C": "ছাগল",
+    "D": "গরু"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "বৈজ্ঞানিক নাম লেখা হয় —",
+   "options": {
+    "A": "ল্যাটিন ভাষায়",
+    "B": "কোনোটিই নয়",
+    "C": "ইংরেজিতে শুধু",
+    "D": "বাংলায়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "পাখির ডানা —",
+   "options": {
+    "A": "সাঁতারে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "উড়তে অভিযোজন"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "জীববিজ্ঞান শিক্ষা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "করে না",
+    "C": "কোনোটিই নয়",
+    "D": "স্বাস্থ্য ও পরিবেশ সচেতনতা বাড়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "জীববৈচিত্র্য সংরক্ষণ —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "জরুরি নয়",
+    "C": "কোনোটিই নয়",
+    "D": "জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "কলাবিদ্যা (Histology) —",
+   "options": {
+    "A": "ভ্রূণের বিজ্ঞান",
+    "B": "কোনোটিই নয়",
+    "C": "কোষের বিজ্ঞান",
+    "D": "টিস্যুর বিজ্ঞান"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "জনন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "প্রজাতির ধারাবাহিকতা রক্ষা করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "জীববিজ্ঞান পাঠের গুরুত্ব —",
+   "options": {
+    "A": "অপরিসীম",
+    "B": "নেই",
+    "C": "সীমিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "জীববৈচিত্র্য রক্ষায় শিক্ষার্থীর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভূমিকা নেই",
+    "C": "ভূমিকা আছে",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "ক্রোমোজোম থাকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিউক্লিয়াসে",
+    "C": "সাইটোপ্লাজমে",
+    "D": "কোষপ্রাচীরে"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "শ্বসনের প্রধান উৎপাদ —",
+   "options": {
+    "A": "শক্তি (ATP)",
+    "B": "কিছুই না",
+    "C": "খাদ্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "জীববিজ্ঞানী হওয়ার জন্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জীবন সম্পর্কে আগ্রহ",
+    "C": "জড়ে আগ্রহ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "এক্স-সিটু সংরক্ষণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "প্রাকৃতিক আবাসে",
+    "D": "আবাসের বাইরে সংরক্ষণ"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "জীবের শ্রেণিবিন্যাসের উদ্দেশ্য —",
+   "options": {
+    "A": "ধ্বংস",
+    "B": "শনাক্তকরণ ও নামকরণ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "সূর্যমুখী ফুল —",
+   "options": {
+    "A": "সূর্যের দিকে মুখ রাখে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "সুন্দরবনে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বাঘ, হরিণ, মধু"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "জীববিজ্ঞানের আধুনিক প্রয়োগ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "জিন প্রকৌশল, ক্লোনিং"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "ছত্রাক পচনে —",
+   "options": {
+    "A": "বাধা দেয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সাহায্য করে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "ওষুধের উৎস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "অনেক উদ্ভিদ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "শ্রেণিবিন্যাস কাকে বলে?",
+   "options": {
+    "A": "জীব ধ্বংস",
+    "B": "জীবকে শনাক্ত ও সাজানো",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "জীবের কার্যগত একক —",
+   "options": {
+    "A": "পরমাণু",
+    "B": "কোষ",
+    "C": "খনিজ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "ডোডো পাখি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বিলুপ্ত",
+    "D": "জীবিত"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "কুকুরের বৈজ্ঞানিক নাম —",
+   "options": {
+    "A": "Felis catus",
+    "B": "Homo sapiens",
+    "C": "Canis familiaris",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "মৃতজীবী কাকে বলে?",
+   "options": {
+    "A": "মৃত জৈব পদার্থ খায়",
+    "B": "জীবন্ত খায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "জীবন পাঠ অধ্যায়ের শিক্ষা —",
+   "options": {
+    "A": "জীবন ও জীববৈচিত্র্যের গুরুত্ব",
+    "B": "জড়ের গুরুত্ব",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "অণুজীবের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গরু",
+    "C": "আম গাছ",
+    "D": "ব্যাকটেরিয়া, ভাইরাস, ছত্রাক"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "প্রজনন কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নতুন জীব সৃষ্টির প্রক্রিয়া",
+    "C": "বৃদ্ধি",
+    "D": "খাদ্য গ্রহণ"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "এক্স-সিটুর উদাহরণ —",
+   "options": {
+    "A": "চিড়িয়াখানা, বোটানিক্যাল গার্ডেন",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "অভয়ারণ্য"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "শ্রেণিবিন্যাস জীববিজ্ঞানে —",
+   "options": {
+    "A": "অগুরুত্বপূর্ণ",
+    "B": "কোনোটিই নয়",
+    "C": "গুরুত্বপূর্ণ",
+    "D": "নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "কোষ ছাড়া জীবন —",
+   "options": {
+    "A": "সম্ভব নয়",
+    "B": "সম্ভব",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "বিলুপ্তপ্রায় প্রাণী রক্ষা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জরুরি",
+    "C": "জরুরি নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "জলাতঙ্কের টিকা —",
+   "options": {
+    "A": "পাস্তুর তৈরি করেন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলের শুরু —",
+   "options": {
+    "A": "উৎপাদক (উদ্ভিদ)",
+    "B": "সর্বভুক",
+    "C": "মাংসাশী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "জীববিজ্ঞান জীববৈচিত্র্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "করে না",
+    "C": "কিছুই না",
+    "D": "অধ্যয়ন ও সংরক্ষণে সাহায্য করে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "প্রোটিস্টা জগতের জীব —",
+   "options": {
+    "A": "অ্যামিবা, প্যারামিসিয়াম",
+    "B": "ব্যাকটেরিয়া",
+    "C": "উদ্ভিদ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "নীলাভ সবুজ শৈবাল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রোক্যারিওট",
+    "C": "ইউক্যারিওট",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "ইলেকট্রন অণুবীক্ষণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "অতিক্ষুদ্র বস্তু দেখায়"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "দ্বিবিভাজন —",
+   "options": {
+    "A": "অ্যামিবার জনন",
+    "B": "মানুষের জনন",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "DNA আবিষ্কার —",
+   "options": {
+    "A": "হুক",
+    "B": "কোনোটিই নয়",
+    "C": "ডারউইন",
+    "D": "ওয়াটসন ও ক্রিক"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "উচ্চতর প্রাণীর জনন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "যৌন",
+    "C": "অযৌন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "প্রজাতি কাকে বলে?",
+   "options": {
+    "A": "সদৃশ ও প্রজননক্ষম জীবগোষ্ঠী",
+    "B": "জড় বস্তু",
+    "C": "ভিন্ন জীব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "বিয়োজক পরিবেশ —",
+   "options": {
+    "A": "পরিষ্কার রাখে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "নষ্ট করে"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "জিন প্রকৌশল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "জিনের পরিবর্তন ও স্থানান্তর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "জীবের অভিযোজন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "পরিবেশে টিকে থাকার কৌশল"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "কোষবিদ্যা (Cytology) —",
+   "options": {
+    "A": "কলার বিজ্ঞান",
+    "B": "ভ্রূণের বিজ্ঞান",
+    "C": "কোষের বিজ্ঞান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "মাশরুম —",
+   "options": {
+    "A": "প্রাণী",
+    "B": "উদ্ভিদ",
+    "C": "কোনোটিই নয়",
+    "D": "ছত্রাক"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "ফানজাই জগতের জীব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রাণী",
+    "C": "ব্যাকটেরিয়া",
+    "D": "ছত্রাক"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "চলন কাকে বলে?",
+   "options": {
+    "A": "স্থান পরিবর্তন বা অঙ্গ নাড়া",
+    "B": "কোনোটিই নয়",
+    "C": "শ্বসন",
+    "D": "খাদ্য গ্রহণ"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "ভ্রূণবিদ্যা (Embryology) —",
+   "options": {
+    "A": "কলার বিজ্ঞান",
+    "B": "কোষের বিজ্ঞান",
+    "C": "কোনোটিই নয়",
+    "D": "ভ্রূণের গঠন ও বিকাশ"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "উটের কুঁজ —",
+   "options": {
+    "A": "মরুভূমিতে অভিযোজন",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "টিকা (ভ্যাকসিন) আবিষ্কারে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "এডওয়ার্ড জেনার",
+    "C": "কিছুই না",
+    "D": "পাস্তুর শুধু"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "ব্যাকটেরিয়ার জনন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দ্বিবিভাজন",
+    "C": "কোনোটিই নয়",
+    "D": "যৌন"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "জেনেটিক ইঞ্জিনিয়ারিং —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "জিন পরিবর্তন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "মাছের ফুলকা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "পানিতে শ্বসনে অভিযোজন"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "ক্রোমোজোম —",
+   "options": {
+    "A": "শক্তি",
+    "B": "জিনের বাহক",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "বিয়োজক —",
+   "options": {
+    "A": "প্রাণী",
+    "B": "ব্যাকটেরিয়া ও ছত্রাক",
+    "C": "কোনোটিই নয়",
+    "D": "উদ্ভিদ"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "অণুজীববিজ্ঞান (Microbiology) —",
+   "options": {
+    "A": "অণুজীবের বিজ্ঞান",
+    "B": "কোনোটিই নয়",
+    "C": "প্রাণীর বিজ্ঞান",
+    "D": "উদ্ভিদের বিজ্ঞান"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "প্রাণী নির্দিষ্ট বয়সে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাড়তে থাকে",
+    "C": "কিছুই না",
+    "D": "বৃদ্ধি থামে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "দ্বিপদ নামকরণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তিন শব্দ",
+    "C": "দুটি শব্দ (গণ + প্রজাতি)",
+    "D": "এক শব্দ"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "উদ্ভিদের মূল পানির দিকে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বাঁকে (হাইড্রোট্রপিজম)"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "শ্রেণিবিন্যাসের সর্বোচ্চ একক —",
+   "options": {
+    "A": "প্রজাতি",
+    "B": "জগৎ (Kingdom)",
+    "C": "কোনোটিই নয়",
+    "D": "গণ"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "বাস্তুতন্ত্রে বিয়োজক —",
+   "options": {
+    "A": "নেই",
+    "B": "গুরুত্বপূর্ণ",
+    "C": "কোনোটিই নয়",
+    "D": "অগুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "অণুবীক্ষণ যন্ত্র আবিষ্কার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "জীববিজ্ঞানে বিপ্লব আনে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "স্বভোজী কাকে বলে?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অন্যের খাদ্য খায়",
+    "C": "নিজের খাদ্য নিজে তৈরি করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "জগতে জীব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সর্বাধিক ভিন্ন",
+    "C": "সাদৃশ্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "জীবন প্রক্রিয়ার উদাহরণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শ্বসন, পুষ্টি, রেচন",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "জীববিজ্ঞানের আধুনিক প্রযুক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মানবকল্যাণে ব্যবহৃত",
+    "C": "ক্ষতিকর শুধু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "শ্বসন কাকে বলে?",
+   "options": {
+    "A": "বর্জ্য ত্যাগ",
+    "B": "খাদ্য জারিত হয়ে শক্তি",
+    "C": "খাদ্য গ্রহণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "মনেরা জগতের জীব —",
+   "options": {
+    "A": "উদ্ভিদ",
+    "B": "ব্যাকটেরিয়া",
+    "C": "ছত্রাক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "পাখির হাড় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ফাঁপা ও হালকা",
+    "C": "ভারী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "শ্রেণিবিন্যাসের জনক —",
+   "options": {
+    "A": "মেন্ডেল",
+    "B": "ডারউইন",
+    "C": "কোনোটিই নয়",
+    "D": "ক্যারোলাস লিনিয়াস"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "মেরু ভালুকের —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পাতলা চামড়া",
+    "D": "পুরু সাদা লোম"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "মানুষের ক্রোমোজোম সংখ্যা —",
+   "options": {
+    "A": "৪৮",
+    "B": "২৩",
+    "C": "কোনোটিই নয়",
+    "D": "৪৬"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "উদ্ভিদের চলন —",
+   "options": {
+    "A": "আলোর দিকে বাঁকানো",
+    "B": "কিছুই না",
+    "C": "দৌড়ানো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "বিবর্তন তত্ত্বের প্রবক্তা —",
+   "options": {
+    "A": "চার্লস ডারউইন",
+    "B": "কোনোটিই নয়",
+    "C": "লিনিয়াস",
+    "D": "মেন্ডেল"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "প্রাণী শক্তির জন্য —",
+   "options": {
+    "A": "অন্যের খাদ্য খায়",
+    "B": "নিজে তৈরি করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "দ্বিপদ নামকরণের প্রবর্তক —",
+   "options": {
+    "A": "অ্যারিস্টটল",
+    "B": "লিনিয়াস",
+    "C": "ডারউইন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "ইউক্যারিওটের উদাহরণ —",
+   "options": {
+    "A": "ব্যাকটেরিয়া",
+    "B": "উদ্ভিদ, প্রাণী, ছত্রাক",
+    "C": "কোনোটিই নয়",
+    "D": "নীলাভ সবুজ শৈবাল"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "GM ফসল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "প্রাকৃতিক শুধু",
+    "D": "জিন প্রকৌশলে তৈরি"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "অভিযোজন —",
+   "options": {
+    "A": "আকস্মিক",
+    "B": "বিবর্তনের ফল",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "জীববিজ্ঞানের আধুনিক শাখা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "জেনেটিক ইঞ্জিনিয়ারিং, বায়োটেকনোলজি"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "জীবের শ্বসন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শক্তি উৎপাদন প্রক্রিয়া",
+    "C": "খাদ্য গ্রহণ",
+    "D": "বর্জ্য ত্যাগ"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "পাঁচ জগৎ শ্রেণিবিন্যাসের প্রবর্তক —",
+   "options": {
+    "A": "ডারউইন",
+    "B": "লিনিয়াস",
+    "C": "হুইটেকার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "ব্যাকটেরিয়া —",
+   "options": {
+    "A": "এককোষী জীব",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বহুকোষী"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "গুটিবসন্তের টিকা —",
+   "options": {
+    "A": "জেনার আবিষ্কার করেন",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "বাস্তুতন্ত্রে উৎপাদক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভিত্তি",
+    "C": "অপ্রয়োজনীয়",
+    "D": "নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "জিন কাকে বলে?",
+   "options": {
+    "A": "শর্করা",
+    "B": "DNA এর কার্যকরী অংশ",
+    "C": "প্রোটিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "বিপাক (Metabolism) কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু শ্বসন",
+    "C": "শুধু খাদ্য গ্রহণ",
+    "D": "দেহের সব রাসায়নিক বিক্রিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "মানুষের বৈজ্ঞানিক নাম —",
+   "options": {
+    "A": "Canis familiaris",
+    "B": "Felis catus",
+    "C": "কোনোটিই নয়",
+    "D": "Homo sapiens"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববিজ্ঞানের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "সব জীবের দেহ —",
+   "options": {
+    "A": "কোষ দিয়ে গঠিত",
+    "B": "কোষহীন",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "রবার্ট হুক কোষ দেখেন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কর্কের পাতলা ফালিতে",
+    "C": "পাতায়",
+    "D": "রক্তে"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "সালোকসংশ্লেষণে শক্তি আসে —",
+   "options": {
+    "A": "সূর্যালোক থেকে",
+    "B": "কোনোটিই নয়",
+    "C": "তাপ থেকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "হাইড্রা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মুকুলোদগমে বংশবৃদ্ধি করে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "মরুভূমির উদ্ভিদের পাতা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কাঁটায় পরিণত",
+    "C": "বড়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "ATP —",
+   "options": {
+    "A": "শক্তির মুদ্রা",
+    "B": "চর্বি",
+    "C": "কোনোটিই নয়",
+    "D": "প্রোটিন"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "জীব মাত্রই —",
+   "options": {
+    "A": "কোষহীন",
+    "B": "কোষ দিয়ে গঠিত",
+    "C": "কোনোটিই নয়",
+    "D": "খনিজ"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "উৎপাদক —",
+   "options": {
+    "A": "তৃণভোজী",
+    "B": "কোনোটিই নয়",
+    "C": "মাংসাশী",
+    "D": "সবুজ উদ্ভিদ"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "জীব বংশবৃদ্ধি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "করে",
+    "C": "করে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "উদ্ভিদ আজীবন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বাড়ে না",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "অভিযোজন ছাড়া জীব —",
+   "options": {
+    "A": "টিকে থাকতে পারে না",
+    "B": "কিছুই না",
+    "C": "টিকে থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "উদ্ভিদের বৃদ্ধি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সীমিত নয় (আজীবন)",
+    "C": "সীমিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "নষ্ট হয়",
+    "D": "এক স্তর থেকে অন্য স্তরে যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "পরভোজী পুষ্টি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্রাণীতে",
+    "C": "কোনোটিই নয়",
+    "D": "উদ্ভিদে"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "জীবনের বৈশিষ্ট্য কয়টি প্রধান?",
+   "options": {
+    "A": "বৃদ্ধি, প্রজনন, বিপাক, শ্বসন, উত্তেজনা, চলন",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু ১",
+    "D": "শুধু ২"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "উত্তেজনা (Irritability) —",
+   "options": {
+    "A": "বৃদ্ধি",
+    "B": "উদ্দীপনায় সাড়া দেওয়া",
+    "C": "খাদ্য গ্রহণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "উদ্ভিদ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "স্বভোজী (স্বপুষ্ট)",
+    "C": "কোনোটিই নয়",
+    "D": "পরভোজী"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "ভাইরাসের উদাহরণ —",
+   "options": {
+    "A": "ইনফ্লুয়েঞ্জা, HIV",
+    "B": "ব্যাকটেরিয়া",
+    "C": "অ্যামিবা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "পদার্থের চক্রে বিয়োজক —",
+   "options": {
+    "A": "ভূমিকা রাখে",
+    "B": "কোনোটিই নয়",
+    "C": "রাখে না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "ইউক্যারিওট কোষে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রকৃত নিউক্লিয়াস আছে",
+    "C": "কিছুই না",
+    "D": "নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "রেচন কাকে বলে?",
+   "options": {
+    "A": "বর্জ্য ত্যাগ",
+    "B": "খাদ্য গ্রহণ",
+    "C": "বৃদ্ধি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "ডারউইনের তত্ত্ব —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "প্রাকৃতিক নির্বাচন",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "উপচিতির উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হজম",
+    "C": "সালোকসংশ্লেষণ",
+    "D": "শ্বসন"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "মৃতদেহ পচে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "খনিজ পদার্থ ফেরে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "ফোটোট্রপিজম —",
+   "options": {
+    "A": "মাধ্যাকর্ষণে",
+    "B": "আলোর দিকে বৃদ্ধি",
+    "C": "কোনোটিই নয়",
+    "D": "পানির দিকে"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "মাংসাশী —",
+   "options": {
+    "A": "উদ্ভিদ খায়",
+    "B": "দুটোই",
+    "C": "প্রাণী খায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "প্রাণী অক্সিজেন —",
+   "options": {
+    "A": "গ্রহণ করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "নির্গত করে"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "পুষ্টি কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বৃদ্ধি",
+    "C": "বর্জ্য ত্যাগ",
+    "D": "খাদ্য গ্রহণ ও ব্যবহার"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "লজ্জাবতী (মিমোসা) পাতা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ছোঁয়ায় গুটিয়ে যায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "জীব কাকে বলে?",
+   "options": {
+    "A": "জড় বস্তু",
+    "B": "কোনোটিই নয়",
+    "C": "খনিজ",
+    "D": "যার জীবন আছে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "ক্লোরোপ্লাস্ট থাকে —",
+   "options": {
+    "A": "প্রাণী কোষে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সবুজ উদ্ভিদ কোষে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "চলন —",
+   "options": {
+    "A": "জীবের বৈশিষ্ট্য",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "জড়ের বৈশিষ্ট্য"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "ক্লোরোফিল —",
+   "options": {
+    "A": "লাল রঞ্জক",
+    "B": "সবুজ রঞ্জক",
+    "C": "নীল রঞ্জক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "জীবের বর্জ্য ত্যাগ —",
+   "options": {
+    "A": "রেচন",
+    "B": "কোনোটিই নয়",
+    "C": "হজম",
+    "D": "শ্বসন"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "প্রাণীর চলন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "স্থান পরিবর্তন"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "অভিযোজন কাকে বলে?",
+   "options": {
+    "A": "শুধু রং",
+    "B": "পরিবেশের সাথে খাপ খাওয়ানো",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "প্রোক্যারিওটের উদাহরণ —",
+   "options": {
+    "A": "অ্যামিবা",
+    "B": "মানুষ",
+    "C": "কোনোটিই নয়",
+    "D": "ব্যাকটেরিয়া, নীলাভ সবুজ শৈবাল"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "জীবন প্রক্রিয়া —",
+   "options": {
+    "A": "জড়ের কাজ",
+    "B": "কিছুই না",
+    "C": "জীবকে বাঁচিয়ে রাখে এমন কাজ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "প্রাণী CO₂ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্রহণ করে",
+    "C": "নির্গত করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "নাইট্রোজেন চক্রে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ব্যাকটেরিয়া ভূমিকা রাখে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "বাঘ —",
+   "options": {
+    "A": "তৃণভোজী",
+    "B": "মাংসাশী",
+    "C": "সর্বভুক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "উদ্ভিদের বর্জ্য ত্যাগ —",
+   "options": {
+    "A": "পাতা ঝরা, রস নিঃসরণ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "জলজ উদ্ভিদের ভাসমান পাতা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অভিযোজন",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "অপচিতির উদাহরণ —",
+   "options": {
+    "A": "শ্বসন",
+    "B": "কোনোটিই নয়",
+    "C": "সালোকসংশ্লেষণ",
+    "D": "প্রোটিন সংশ্লেষণ"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "জীবের অভিযোজনের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মাছের ফুলকা, উটের কুঁজ",
+    "C": "কিছুই না",
+    "D": "পাথর"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "ইস্ট —",
+   "options": {
+    "A": "এককোষী ছত্রাক",
+    "B": "প্রাণী",
+    "C": "ব্যাকটেরিয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "জীবের প্রধান বৈশিষ্ট্য —",
+   "options": {
+    "A": "শুধু চলন",
+    "B": "শুধু বৃদ্ধি",
+    "C": "প্রজনন, বৃদ্ধি, বিপাক, শ্বসন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "অবাত শ্বসনে —",
+   "options": {
+    "A": "অক্সিজেন লাগে না",
+    "B": "লাগে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "খাদ্যজাল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অনেক খাদ্যশৃঙ্খলের জাল",
+    "D": "এক শৃঙ্খল"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "উদ্ভিদ অক্সিজেন —",
+   "options": {
+    "A": "গ্রহণ করে",
+    "B": "কোনোটিই নয়",
+    "C": "নির্গত করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "মাছের পাখনা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "উড়তে",
+    "C": "কোনোটিই নয়",
+    "D": "সাঁতারে অভিযোজন"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "প্রাণী কোষে ক্লোরোপ্লাস্ট —",
+   "options": {
+    "A": "থাকে না",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "থাকে"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "ভাইরাস —",
+   "options": {
+    "A": "জীব ও জড়ের সীমারেখায়",
+    "B": "সম্পূর্ণ জড়",
+    "C": "সম্পূর্ণ জীব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "জীব বাড়ে —",
+   "options": {
+    "A": "অভ্যন্তরীণভাবে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বাইরে থেকে জমে"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "জীব সবসময় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পরিবেশের সাথে সম্পর্কিত",
+    "C": "সম্পর্কহীন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "জীবের নিজস্ব বংশধর সৃষ্টি —",
+   "options": {
+    "A": "শ্বসন",
+    "B": "প্রজনন",
+    "C": "হজম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "শ্বসন দুই প্রকার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সবাত ও অবাত",
+    "C": "শুধু অবাত",
+    "D": "শুধু সবাত"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "জীবের মৃত্যু —",
+   "options": {
+    "A": "হয় না",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "অবধারিত"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "জীবের নির্দিষ্ট আয়ুষ্কাল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "আছে",
+    "D": "নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "পরভোজী কাকে বলে?",
+   "options": {
+    "A": "অন্যের তৈরি খাদ্য খায়",
+    "B": "নিজে তৈরি করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "অপচিতি (Catabolism) —",
+   "options": {
+    "A": "সংশ্লেষণমূলক বিক্রিয়া",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ভাঙনমূলক বিক্রিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "উদ্ভিদের সালোকসংশ্লেষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জড়ের বৈশিষ্ট্য",
+    "C": "জীবের বৈশিষ্ট্য",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "জীবের জনন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বংশ রক্ষা করে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "অ্যামিবার জনন —",
+   "options": {
+    "A": "অযৌন (দ্বিবিভাজন)",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "যৌন"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "ব্যাঙের ফুসফুস ও ত্বক —",
+   "options": {
+    "A": "শ্বসনে অভিযোজন",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "ক্লোরোফিলের কাজ —",
+   "options": {
+    "A": "শ্বসন",
+    "B": "আলো শোষণ",
+    "C": "খাদ্য হজম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "বিয়োজকের কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "খাদ্য তৈরি",
+    "D": "মৃতদেহ পচানো"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "স্বভোজী পুষ্টি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রাণীতে",
+    "C": "কিছুই না",
+    "D": "উদ্ভিদে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "সবাত শ্বসনে —",
+   "options": {
+    "A": "অক্সিজেন লাগে",
+    "B": "কিছুই না",
+    "C": "লাগে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "প্রাকৃতিক নির্বাচন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "যোগ্যতমের টিকে থাকা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "প্রজনন ছাড়া প্রজাতি —",
+   "options": {
+    "A": "টিকে থাকে",
+    "B": "বিলুপ্ত হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "তৃণভোজী —",
+   "options": {
+    "A": "মাংস খায়",
+    "B": "উদ্ভিদ খায়",
+    "C": "কোনোটিই নয়",
+    "D": "দুটোই"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "উদ্ভিদ CO₂ —",
+   "options": {
+    "A": "সালোকসংশ্লেষণে গ্রহণ করে",
+    "B": "নির্গত করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "গরু —",
+   "options": {
+    "A": "সর্বভুক",
+    "B": "তৃণভোজী",
+    "C": "কোনোটিই নয়",
+    "D": "মাংসাশী"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "জীবের খাদ্য গ্রহণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শক্তির জন্য",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "লজ্জাবতীর পাতা গুটানো —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "উদ্দীপনায় সাড়া"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "পুষ্টির প্রকার —",
+   "options": {
+    "A": "শুধু এক",
+    "B": "কোনোটিই নয়",
+    "C": "স্বভোজী ও পরভোজী",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "জননের প্রকার —",
+   "options": {
+    "A": "শুধু অযৌন",
+    "B": "শুধু যৌন",
+    "C": "অযৌন ও যৌন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "অভিযোজন ও বিবর্তন —",
+   "options": {
+    "A": "সম্পর্কিত",
+    "B": "দুর্বল",
+    "C": "সম্পর্কহীন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "প্রোক্যারিওট কোষে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "প্রকৃত নিউক্লিয়াস নেই",
+    "D": "আছে"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "উটের প্রশস্ত পা —",
+   "options": {
+    "A": "বালিতে চলার অভিযোজন",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "সবুজ উদ্ভিদে থাকে —",
+   "options": {
+    "A": "হিমোগ্লোবিন",
+    "B": "ক্লোরোফিল",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবের বৈশিষ্ট্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "C",
+  "2": "A",
+  "3": "C",
+  "4": "B",
+  "5": "C",
+  "6": "D",
+  "7": "B",
+  "8": "B",
+  "9": "B",
+  "10": "C",
+  "11": "B",
+  "12": "B",
+  "13": "B",
+  "14": "B",
+  "15": "C",
+  "16": "B",
+  "17": "D",
+  "18": "D",
+  "19": "A",
+  "20": "B",
+  "21": "D",
+  "22": "D",
+  "23": "C",
+  "24": "A",
+  "25": "A",
+  "26": "B",
+  "27": "A",
+  "28": "C",
+  "29": "B",
+  "30": "B",
+  "31": "C",
+  "32": "B",
+  "33": "D",
+  "34": "B",
+  "35": "C",
+  "36": "B",
+  "37": "B",
+  "38": "B",
+  "39": "D",
+  "40": "C",
+  "41": "A",
+  "42": "A",
+  "43": "A",
+  "44": "B",
+  "45": "A",
+  "46": "A",
+  "47": "B",
+  "48": "C",
+  "49": "C",
+  "50": "A",
+  "51": "D",
+  "52": "A",
+  "53": "D",
+  "54": "B",
+  "55": "B",
+  "56": "C",
+  "57": "D",
+  "58": "C",
+  "59": "B",
+  "60": "C",
+  "61": "C",
+  "62": "C",
+  "63": "B",
+  "64": "A",
+  "65": "D",
+  "66": "A",
+  "67": "A",
+  "68": "D",
+  "69": "D",
+  "70": "D",
+  "71": "A",
+  "72": "C",
+  "73": "D",
+  "74": "C",
+  "75": "C",
+  "76": "D",
+  "77": "A",
+  "78": "A",
+  "79": "C",
+  "80": "C",
+  "81": "C",
+  "82": "A",
+  "83": "B",
+  "84": "D",
+  "85": "B",
+  "86": "D",
+  "87": "A",
+  "88": "D",
+  "89": "D",
+  "90": "D",
+  "91": "D",
+  "92": "C",
+  "93": "B",
+  "94": "C",
+  "95": "B",
+  "96": "C",
+  "97": "A",
+  "98": "D",
+  "99": "B",
+  "100": "A",
+  "101": "A",
+  "102": "A",
+  "103": "C",
+  "104": "D",
+  "105": "C",
+  "106": "C",
+  "107": "C",
+  "108": "D",
+  "109": "A",
+  "110": "A",
+  "111": "D",
+  "112": "D",
+  "113": "C",
+  "114": "B",
+  "115": "D",
+  "116": "A",
+  "117": "D",
+  "118": "B",
+  "119": "A",
+  "120": "B",
+  "121": "D",
+  "122": "C",
+  "123": "A",
+  "124": "A",
+  "125": "B",
+  "126": "D",
+  "127": "B",
+  "128": "C",
+  "129": "A",
+  "130": "C",
+  "131": "B",
+  "132": "D",
+  "133": "D",
+  "134": "B",
+  "135": "B",
+  "136": "C",
+  "137": "A",
+  "138": "A",
+  "139": "B",
+  "140": "A",
+  "141": "D",
+  "142": "C",
+  "143": "D",
+  "144": "C",
+  "145": "D",
+  "146": "D",
+  "147": "B",
+  "148": "C",
+  "149": "D",
+  "150": "A",
+  "151": "A",
+  "152": "D",
+  "153": "D",
+  "154": "C",
+  "155": "B",
+  "156": "C",
+  "157": "C",
+  "158": "D",
+  "159": "B",
+  "160": "D",
+  "161": "B",
+  "162": "B",
+  "163": "C",
+  "164": "B",
+  "165": "B",
+  "166": "B",
+  "167": "D",
+  "168": "C",
+  "169": "D",
+  "170": "B",
+  "171": "C",
+  "172": "B",
+  "173": "A",
+  "174": "A",
+  "175": "C",
+  "176": "C",
+  "177": "A",
+  "178": "B",
+  "179": "C",
+  "180": "A",
+  "181": "C",
+  "182": "D",
+  "183": "C",
+  "184": "C",
+  "185": "D",
+  "186": "D",
+  "187": "B",
+  "188": "B",
+  "189": "D",
+  "190": "A",
+  "191": "C",
+  "192": "B",
+  "193": "B",
+  "194": "D",
+  "195": "C",
+  "196": "A",
+  "197": "D",
+  "198": "D",
+  "199": "C",
+  "200": "A",
+  "201": "B",
+  "202": "A",
+  "203": "D",
+  "204": "B",
+  "205": "A",
+  "206": "A",
+  "207": "D",
+  "208": "D",
+  "209": "D",
+  "210": "D",
+  "211": "B",
+  "212": "A",
+  "213": "C",
+  "214": "B",
+  "215": "A",
+  "216": "B",
+  "217": "D",
+  "218": "B",
+  "219": "A",
+  "220": "D",
+  "221": "D",
+  "222": "D",
+  "223": "C",
+  "224": "B",
+  "225": "B",
+  "226": "C",
+  "227": "C",
+  "228": "A",
+  "229": "A",
+  "230": "D",
+  "231": "B",
+  "232": "A",
+  "233": "C",
+  "234": "A",
+  "235": "B",
+  "236": "A",
+  "237": "A",
+  "238": "D",
+  "239": "A",
+  "240": "B",
+  "241": "D",
+  "242": "A",
+  "243": "D",
+  "244": "B",
+  "245": "A",
+  "246": "A",
+  "247": "C",
+  "248": "D",
+  "249": "C",
+  "250": "D",
+  "251": "D",
+  "252": "A",
+  "253": "D",
+  "254": "A",
+  "255": "B",
+  "256": "B",
+  "257": "C",
+  "258": "D",
+  "259": "B",
+  "260": "B",
+  "261": "A",
+  "262": "D",
+  "263": "C",
+  "264": "D",
+  "265": "B",
+  "266": "B",
+  "267": "C",
+  "268": "C",
+  "269": "B",
+  "270": "B",
+  "271": "B",
+  "272": "B",
+  "273": "B",
+  "274": "B",
+  "275": "D",
+  "276": "D",
+  "277": "D",
+  "278": "A",
+  "279": "A",
+  "280": "A",
+  "281": "B",
+  "282": "B",
+  "283": "D",
+  "284": "B",
+  "285": "D",
+  "286": "B",
+  "287": "C",
+  "288": "A",
+  "289": "A",
+  "290": "B",
+  "291": "B",
+  "292": "D",
+  "293": "D",
+  "294": "A",
+  "295": "B",
+  "296": "A",
+  "297": "B",
+  "298": "B",
+  "299": "A",
+  "300": "B",
+  "301": "D",
+  "302": "B",
+  "303": "D",
+  "304": "A",
+  "305": "B",
+  "306": "D",
+  "307": "B",
+  "308": "A",
+  "309": "B",
+  "310": "B",
+  "311": "A",
+  "312": "A",
+  "313": "B",
+  "314": "A",
+  "315": "B",
+  "316": "C",
+  "317": "D",
+  "318": "B",
+  "319": "C",
+  "320": "A",
+  "321": "D",
+  "322": "B",
+  "323": "D",
+  "324": "D",
+  "325": "A",
+  "326": "B",
+  "327": "A",
+  "328": "D",
+  "329": "B",
+  "330": "D",
+  "331": "C",
+  "332": "C",
+  "333": "B",
+  "334": "B",
+  "335": "A",
+  "336": "B",
+  "337": "A",
+  "338": "B",
+  "339": "A",
+  "340": "C",
+  "341": "A",
+  "342": "C",
+  "343": "C",
+  "344": "D",
+  "345": "A",
+  "346": "A",
+  "347": "A",
+  "348": "B",
+  "349": "B",
+  "350": "B",
+  "351": "D",
+  "352": "C",
+  "353": "A",
+  "354": "D",
+  "355": "C",
+  "356": "D",
+  "357": "A",
+  "358": "A",
+  "359": "B",
+  "360": "D",
+  "361": "D",
+  "362": "A",
+  "363": "C",
+  "364": "B",
+  "365": "B",
+  "366": "A",
+  "367": "B",
+  "368": "C",
+  "369": "D",
+  "370": "C",
+  "371": "C",
+  "372": "A",
+  "373": "C",
+  "374": "A",
+  "375": "B"
+ }
+}
