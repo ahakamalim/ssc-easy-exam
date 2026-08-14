@@ -1,0 +1,6925 @@
+{
+ "subject": "রসায়ন",
+ "chapterNo": 5,
+ "chapter": "রাসায়নিক বন্ধন",
+ "questions": [
+  {
+   "question": "নিষ্ক্রিয় গ্যাসের বহিঃস্থ শেল পূর্ণ — তাই —",
+   "options": {
+    "A": "বন্ধন গঠন করে",
+    "B": "কোনোটিই নয়",
+    "C": "বন্ধন গঠন করে না",
+    "D": "সবসময় বন্ধন করে"
+   },
+   "correctAnswer": "C",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "রাসায়নিক বন্ধনের প্রকার —",
+   "options": {
+    "A": "শুধু সমযোজী",
+    "B": "কোনোটিই নয়",
+    "C": "আয়নিক, সমযোজী, ধাতব",
+    "D": "শুধু আয়নিক"
+   },
+   "correctAnswer": "C",
+   "topic": "বন্ধনের প্রকার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "আয়নিক যৌগের দ্রবণে তড়িৎ চালনা —",
+   "options": {
+    "A": "কখনো সম্ভব",
+    "B": "সম্ভব নয়",
+    "C": "সম্ভব",
+    "D": "কখনো সম্ভব নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "O₂ তে বন্ধন —",
+   "options": {
+    "A": "একক",
+    "B": "কোনোটিই নয়",
+    "C": "ত্রি",
+    "D": "দ্বি"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "ধাতু আলো প্রতিফলিত করে — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রোটন",
+    "C": "আয়ন",
+    "D": "মুক্ত ইলেকট্রন"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতব বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "সোডিয়াম অষ্টক পূরণে —",
+   "options": {
+    "A": "১ ইলেকট্রন ত্যাগ করে",
+    "B": "কোনোটিই নয়",
+    "C": "১ ইলেকট্রন লাভ করে",
+    "D": "৭ ইলেকট্রন লাভ করে"
+   },
+   "correctAnswer": "A",
+   "topic": "অষ্টক নিয়ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "পরমাণু বন্ধন গঠনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই চায় না",
+    "C": "নিষ্ক্রিয় গ্যাসের মতো হতে চায়",
+    "D": "ভিন্ন হতে চায়"
+   },
+   "correctAnswer": "C",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "রাসায়নিক বন্ধন কয় প্রকার?",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বন্ধনের প্রকার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "ম্যাগনেসিয়াম অক্সাইডের বন্ধন —",
+   "options": {
+    "A": "সমযোজী",
+    "B": "আয়নিক",
+    "C": "কোনোটিই নয়",
+    "D": "ধাতব"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "দুই অধাতুর মধ্যে সাধারণত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সমযোজী বন্ধন",
+    "C": "ধাতব বন্ধন",
+    "D": "আয়নিক বন্ধন"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "ধাতব বন্ধনের উদাহরণ —",
+   "options": {
+    "A": "NaCl",
+    "B": "কোনোটিই নয়",
+    "C": "H₂O",
+    "D": "সোডিয়াম ধাতু"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "অষ্টক নিয়ম কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২ ইলেকট্রন অর্জনের নিয়ম",
+    "C": "৮ ইলেকট্রন অর্জনের নিয়ম",
+    "D": "কোনো নিয়ম নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "অষ্টক নিয়ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "বন্ধনের ধরন থেকে —",
+   "options": {
+    "A": "কিছুই অনুমান করা যায় না",
+    "B": "পদার্থের ধর্ম অনুমান করা যায়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "আয়নিক যৌগ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নমনীয়",
+    "C": "ভঙ্গুর",
+    "D": "প্রসার্য"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "সমযোজী যৌগ সব অবস্থায় —",
+   "options": {
+    "A": "পরিবাহী",
+    "B": "বিদ্যুৎ অপরিবাহী",
+    "C": "অর্ধপরিবাহী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "ধাতু —",
+   "options": {
+    "A": "ভঙ্গুর",
+    "B": "কোনোটিই নয়",
+    "C": "নমনীয় ও প্রসার্য",
+    "D": "অনমনীয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "ম্যাগনেসিয়াম অষ্টক পূরণে —",
+   "options": {
+    "A": "২ ইলেকট্রন লাভ করে",
+    "B": "৬ ইলেকট্রন লাভ করে",
+    "C": "কোনোটিই নয়",
+    "D": "২ ইলেকট্রন ত্যাগ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "অষ্টক নিয়ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "বন্ধন গঠনে অংশ নেয় —",
+   "options": {
+    "A": "যোজ্যতা ইলেকট্রন",
+    "B": "কোনোটিই নয়",
+    "C": "নিউট্রন",
+    "D": "ভেতরের ইলেকট্রন"
+   },
+   "correctAnswer": "A",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "NaCl গঠনে সোডিয়াম —",
+   "options": {
+    "A": "Na⁻ হয়",
+    "B": "কোনোটিই নয়",
+    "C": "Na⁺ হয়",
+    "D": "নিরপেক্ষ থাকে"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "সমযোজী যৌগ বিদ্যুৎ —",
+   "options": {
+    "A": "পরিবহন করে না",
+    "B": "পরিবহন করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "ধাতুর স্তর সরে যায় —",
+   "options": {
+    "A": "বন্ধন ভেঙে",
+    "B": "কিছুই না",
+    "C": "বন্ধন না ভেঙে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "হাইড্রোজেন কোন নিয়ম মেনে চলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কোনো নিয়ম নয়",
+    "C": "দ্বৈত নিয়ম",
+    "D": "অষ্টক নিয়ম"
+   },
+   "correctAnswer": "C",
+   "topic": "অষ্টক নিয়ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "বন্ধন দৈর্ঘ্য কাকে বলে?",
+   "options": {
+    "A": "বন্ধন শক্তি",
+    "B": "দুই নিউক্লিয়াসের মধ্যবর্তী দূরত্ব",
+    "C": "কোনোটিই নয়",
+    "D": "আণবিক ভর"
+   },
+   "correctAnswer": "B",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "আয়নিক বন্ধনে অধাতু —",
+   "options": {
+    "A": "ইলেকট্রন লাভ করে",
+    "B": "ইলেকট্রন ভাগ করে",
+    "C": "ইলেকট্রন ত্যাগ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "H₂O তে বন্ধন জোড় —",
+   "options": {
+    "A": "৩টি",
+    "B": "১টি",
+    "C": "২টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "ধাতু পেটানো যায় — কারণ?",
+   "options": {
+    "A": "ধাতব বন্ধন",
+    "B": "আয়নিক বন্ধন",
+    "C": "সমযোজী বন্ধন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতব বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "নিষ্ক্রিয় গ্যাসের বহিঃস্থ শেল —",
+   "options": {
+    "A": "৮ ইলেকট্রন (হিলিয়ামে ২)",
+    "B": "কোনোটিই নয়",
+    "C": "২ ইলেকট্রন সবসময়",
+    "D": "৬ ইলেকট্রন"
+   },
+   "correctAnswer": "A",
+   "topic": "অষ্টক নিয়ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় —",
+   "options": {
+    "A": "শুধু গলন",
+    "B": "কিছুই হয় না",
+    "C": "বন্ধন ভাঙা ও গঠন হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "আয়নিক যৌগের কেলাস গঠন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "এলোমেলো",
+    "C": "কোনোটিই নয়",
+    "D": "সুশৃঙ্খল"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "CH₄ তে বন্ধন জোড় —",
+   "options": {
+    "A": "২টি",
+    "B": "৪টি",
+    "C": "কোনোটিই নয়",
+    "D": "৩টি"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "ধাতব বন্ধনে ইলেকট্রন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মুক্তভাবে চলাচল করে",
+    "C": "স্থির থাকে",
+    "D": "ভাগ হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "অষ্টক নিয়ম অনুযায়ী পরমাণু —",
+   "options": {
+    "A": "২টি বহিঃস্থ ইলেকট্রন চায়",
+    "B": "কিছুই চায় না",
+    "C": "কোনোটিই নয়",
+    "D": "৮টি বহিঃস্থ ইলেকট্রন চায়"
+   },
+   "correctAnswer": "D",
+   "topic": "অষ্টক নিয়ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "বন্ধন গঠনে ইলেকট্রন বিন্যাসের ভূমিকা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ঐচ্ছিক",
+    "C": "অপরিহার্য",
+    "D": "অপ্রয়োজনীয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "আয়নিক যৌগের সূত্রে আধান —",
+   "options": {
+    "A": "লেখা হয় না",
+    "B": "কোনোটিই নয়",
+    "C": "লেখা হয়",
+    "D": "সবসময় লেখা হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "N₂ তে বন্ধন জোড় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৩টি (এক ত্রিবন্ধন)",
+    "C": "২টি",
+    "D": "১টি"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "ধাতুর বিদ্যুৎ পরিবাহিতা তাপমাত্রা বাড়লে —",
+   "options": {
+    "A": "শূন্য",
+    "B": "একই",
+    "C": "বাড়ে",
+    "D": "কমে"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "ক্লোরিন অষ্টক পূরণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১ ইলেকট্রন ত্যাগ করে",
+    "C": "১ ইলেকট্রন লাভ করে",
+    "D": "৭ ইলেকট্রন ত্যাগ করে"
+   },
+   "correctAnswer": "C",
+   "topic": "অষ্টক নিয়ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "যৌগ গঠনের ভিত্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ভৌত মিশ্রণ",
+    "C": "রাসায়নিক বন্ধন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "আয়নিক যৌগ গলিত অবস্থায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বিদ্যুৎ পরিবহন করে",
+    "C": "কিছুই না",
+    "D": "পরিবহন করে না"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "আয়োডিন বেনজিনে দ্রবীভূত হয় — কারণ?",
+   "options": {
+    "A": "উভয়ই অপোলার",
+    "B": "উভয়ই পোলার",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "ধাতুর নমনীয়তা ও প্রসার্যতা —",
+   "options": {
+    "A": "সমযোজী বন্ধনের কারণে",
+    "B": "ধাতব বন্ধনের কারণে",
+    "C": "কোনোটিই নয়",
+    "D": "আয়নিক বন্ধনের কারণে"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "হিলিয়ামের বহিঃস্থ শেলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৮ ইলেকট্রন",
+    "C": "৬ ইলেকট্রন",
+    "D": "২ ইলেকট্রন"
+   },
+   "correctAnswer": "D",
+   "topic": "অষ্টক নিয়ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "কার্বনের যোজ্যতা ৪ — তাই —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২টি বন্ধন গঠন করে",
+    "C": "৪টি বন্ধন গঠন করে",
+    "D": "কোনো বন্ধন করে না"
+   },
+   "correctAnswer": "C",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "আয়নিক বন্ধন গঠনে —",
+   "options": {
+    "A": "ইলেকট্রন স্থানান্তর হয়",
+    "B": "কোনোটিই নয়",
+    "C": "ইলেকট্রন ভাগ হয়",
+    "D": "ইলেকট্রন মুক্ত হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "HCl একটি —",
+   "options": {
+    "A": "আয়ন",
+    "B": "ডাইপোল",
+    "C": "কোনোটিই নয়",
+    "D": "অপোলার অণু"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "ধাতু ভাঙে না — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "আয়ন ধরে রাখে",
+    "C": "ইলেকট্রন সাগর স্তর ধরে রাখে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতব বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "অষ্টক নিয়মের ব্যতিক্রম —",
+   "options": {
+    "A": "আর্গন",
+    "B": "হিলিয়াম",
+    "C": "কোনোটিই নয়",
+    "D": "নিয়ন"
+   },
+   "correctAnswer": "B",
+   "topic": "অষ্টক নিয়ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "বন্ধন গঠনে শক্তি —",
+   "options": {
+    "A": "কিছুই হয় না",
+    "B": "শোষিত হয়",
+    "C": "নির্গত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "আয়নিক বন্ধনে আধানযুক্ত —",
+   "options": {
+    "A": "আয়ন গঠিত হয়",
+    "B": "অণু গঠিত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "পরমাণু থাকে"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "O₂ অণুতে অক্সিজেন পরমাণুর মধ্যে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ত্রিবন্ধন",
+    "C": "একক বন্ধন",
+    "D": "দ্বিবন্ধন"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "ধাতব বন্ধন কাকে বলে?",
+   "options": {
+    "A": "ইলেকট্রন স্থানান্তরের বন্ধন",
+    "B": "কোনোটিই নয়",
+    "C": "ইলেকট্রন ভাগের বন্ধন",
+    "D": "মুক্ত ইলেকট্রনের বন্ধন"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতব বন্ধন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "দ্বৈত নিয়ম কাকে বলে?",
+   "options": {
+    "A": "কোনো নিয়ম নেই",
+    "B": "২ ইলেকট্রন অর্জনের নিয়ম",
+    "C": "কোনোটিই নয়",
+    "D": "৮ ইলেকট্রন অর্জন"
+   },
+   "correctAnswer": "B",
+   "topic": "অষ্টক নিয়ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "নাইট্রোজেনের যোজ্যতা ৩ — তাই —",
+   "options": {
+    "A": "৩টি বন্ধন গঠন করে",
+    "B": "কোনোটিই নয়",
+    "C": "২টি বন্ধন গঠন করে",
+    "D": "কোনো বন্ধন করে না"
+   },
+   "correctAnswer": "A",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "সোডিয়াম অক্সাইডের বন্ধন —",
+   "options": {
+    "A": "ধাতব",
+    "B": "আয়নিক",
+    "C": "সমযোজী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "HCl তে বন্ধন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আয়নিক",
+    "C": "পোলার",
+    "D": "অপোলার"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "লোহার বন্ধন —",
+   "options": {
+    "A": "সমযোজী",
+    "B": "ধাতব",
+    "C": "কোনোটিই নয়",
+    "D": "আয়নিক"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "অক্সিজেন অষ্টক পূরণে —",
+   "options": {
+    "A": "২ ইলেকট্রন ত্যাগ করে",
+    "B": "৬ ইলেকট্রন ত্যাগ করে",
+    "C": "২ ইলেকট্রন লাভ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অষ্টক নিয়ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "রাসায়নিক বন্ধন গঠনের প্রধান চালিকা শক্তি —",
+   "options": {
+    "A": "স্থিতিশীলতা অর্জন",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "অস্থিতিশীলতা"
+   },
+   "correctAnswer": "A",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "K ও O এর যোজ্যতা বিনিময়ে —",
+   "options": {
+    "A": "K₂O হয়",
+    "B": "কোনোটিই নয়",
+    "C": "KO হয়",
+    "D": "KO₂ হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "ত্রিপরমাণুক অণু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "H₂, O₂",
+    "C": "H₂O, CO₂",
+    "D": "CH₄"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "ইলেকট্রন সাগর মডেল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আয়নিক বন্ধন ব্যাখ্যা করে",
+    "C": "ধাতব বন্ধন ব্যাখ্যা করে",
+    "D": "সমযোজী বন্ধন ব্যাখ্যা করে"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতব বন্ধন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "রাসায়নিক বন্ধন রসায়নের —",
+   "options": {
+    "A": "অলংকার",
+    "B": "কিছুই না",
+    "C": "ভিত্তি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "আয়নিক বন্ধনের ফল —",
+   "options": {
+    "A": "সমযোজী যৌগ",
+    "B": "ধাতু",
+    "C": "আয়নিক যৌগ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "সমযোজী বন্ধনে পরমাণুর —",
+   "options": {
+    "A": "ইলেকট্রন লাভ হয়",
+    "B": "ইলেকট্রন ভাগ হয়",
+    "C": "কোনোটিই নয়",
+    "D": "ইলেকট্রন ত্যাগ হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "ধাতব বন্ধনের ফল —",
+   "options": {
+    "A": "যৌগ",
+    "B": "কোনোটিই নয়",
+    "C": "অণু",
+    "D": "ধাতু"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "বন্ধন শক্তি কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপ শক্তি",
+    "C": "বন্ধন ভাঙতে প্রয়োজনীয় শক্তি",
+    "D": "বন্ধন গঠনের শক্তি"
+   },
+   "correctAnswer": "C",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "ক্লোরিন পরমাণু সোডিয়াম থেকে —",
+   "options": {
+    "A": "২ ইলেকট্রন নেয়",
+    "B": "১ ইলেকট্রন দেয়",
+    "C": "১ ইলেকট্রন নেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "পোলার বন্ধনে আংশিক আধান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সৃষ্টি হয়",
+    "C": "সৃষ্টি হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "ধাতুর বৈশিষ্ট্য —",
+   "options": {
+    "A": "স্বচ্ছ",
+    "B": "ভঙ্গুর, অপরিবাহী",
+    "C": "কোনোটিই নয়",
+    "D": "নমনীয়, প্রসার্য, পরিবাহী"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "স্থিতিশীল পদার্থের শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শূন্য",
+    "C": "বেশি",
+    "D": "কম"
+   },
+   "correctAnswer": "D",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "তাই আয়নিক দ্রবণ বিদ্যুৎ —",
+   "options": {
+    "A": "পরিবহন করে না",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পরিবহন করে"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "HCl তে হাইড্রোজেনের আংশিক আধান —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "কোনোটিই নয়",
+    "C": "ঋণাত্মক",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "ধাতুতে মুক্ত ইলেকট্রন —",
+   "options": {
+    "A": "পুরো কেলাসে চলাচল করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "স্থির থাকে"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "শক্তি কমলে পদার্থ —",
+   "options": {
+    "A": "স্থিতিশীল হয়",
+    "B": "অস্থিতিশীল হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই হয় না"
+   },
+   "correctAnswer": "A",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "নাইট্রোজেন বন্ধন গঠনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৫টি ইলেকট্রন ত্যাগ করে",
+    "C": "কিছুই করে না",
+    "D": "৩টি ইলেকট্রন লাভ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "NH₃ অণুর আকৃতি —",
+   "options": {
+    "A": "পিরামিড",
+    "B": "কৌণিক",
+    "C": "কোনোটিই নয়",
+    "D": "সরলরৈখিক"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "ধাতুর নমনীয়তা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সমযোজী বন্ধনে",
+    "C": "আয়নিক বন্ধনে",
+    "D": "ধাতব বন্ধনের কারণে"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "রাসায়নিক বন্ধন বুঝতে —",
+   "options": {
+    "A": "ভর জানা দরকার",
+    "B": "কিছুই না",
+    "C": "ইলেকট্রন বিন্যাস জানা দরকার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "আয়নিক বন্ধন কাকে বলে?",
+   "options": {
+    "A": "ইলেকট্রন স্থানান্তরের বন্ধন",
+    "B": "ইলেকট্রন সাগরের বন্ধন",
+    "C": "কোনোটিই নয়",
+    "D": "ইলেকট্রন ভাগের বন্ধন"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "অণুর আকৃতিতে মুক্ত জোড়ের ভূমিকা —",
+   "options": {
+    "A": "কোনো ভূমিকা নেই",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "আকৃতি বদলায়"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "ধাতব আয়ন ও ইলেকট্রন সাগরের আকর্ষণ —",
+   "options": {
+    "A": "সমযোজী বন্ধন",
+    "B": "আয়নিক বন্ধন",
+    "C": "কোনোটিই নয়",
+    "D": "ধাতব বন্ধন"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "নিষ্ক্রিয় গ্যাস বন্ধন গঠন করে না — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অস্থিতিশীল বিন্যাস",
+    "C": "স্থিতিশীল ইলেকট্রন বিন্যাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "ধাতু ইলেকট্রন ত্যাগ করে —",
+   "options": {
+    "A": "অ্যানায়ন হয়",
+    "B": "নিরপেক্ষ থাকে",
+    "C": "ক্যাটায়ন হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "H₂O তে অক্সিজেন হাইড্রোজেনের সাথে —",
+   "options": {
+    "A": "ইলেকট্রন ভাগ করে",
+    "B": "কোনোটিই নয়",
+    "C": "ইলেকট্রন ত্যাগ করে",
+    "D": "ইলেকট্রন লাভ করে"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "ধাতুর উজ্জ্বলতা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সমযোজী বন্ধনে",
+    "C": "ধাতব বন্ধনের কারণে",
+    "D": "আয়নিক বন্ধনে"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "যৌগের গঠন ও ধর্ম বুঝতে —",
+   "options": {
+    "A": "বন্ধন জানা জরুরি নয়",
+    "B": "কোনোটিই নয়",
+    "C": "বন্ধন জানা জরুরি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "তড়িৎ বিশ্লেষণে ব্যবহৃত হয় —",
+   "options": {
+    "A": "যেকোনো দ্রবণ",
+    "B": "কোনোটিই নয়",
+    "C": "সমযোজী যৌগের দ্রবণ",
+    "D": "আয়নিক যৌগের দ্রবণ"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "সমযোজী বন্ধন হয় —",
+   "options": {
+    "A": "দুই অধাতুর মধ্যে",
+    "B": "ধাতু ও অধাতুর মধ্যে",
+    "C": "দুই ধাতুর মধ্যে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "তামায় বন্ধন —",
+   "options": {
+    "A": "আয়নিক",
+    "B": "ধাতব",
+    "C": "সমযোজী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "রাসায়নিক বন্ধন কাকে বলে?",
+   "options": {
+    "A": "পরমাণুর মধ্যে আকর্ষণ বল",
+    "B": "পরমাণুর মধ্যে বিকর্ষণ",
+    "C": "কোনোটিই নয়",
+    "D": "মহাকর্ষ বল"
+   },
+   "correctAnswer": "A",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "আয়নিক যৌগের কেলাসে আয়নগুলো —",
+   "options": {
+    "A": "এলোমেলো",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সুশৃঙ্খলভাবে সাজানো"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "সমযোজী যৌগের উদাহরণ নয় —",
+   "options": {
+    "A": "CH₄",
+    "B": "CO₂",
+    "C": "NaCl",
+    "D": "H₂O"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "সোনা অলংকার বানানো যায় — কারণ?",
+   "options": {
+    "A": "ধাতব বন্ধন, নমনীয়",
+    "B": "আয়নিক বন্ধন",
+    "C": "কোনোটিই নয়",
+    "D": "সমযোজী বন্ধন"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতব বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "বন্ধন বুঝলে পদার্থের —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ধর্ম বোঝা যায় না",
+    "D": "ধর্ম বোঝা যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "আয়নিক যৌগ দ্রবণে —",
+   "options": {
+    "A": "অপরিবাহী",
+    "B": "বিদ্যুৎ পরিবাহী",
+    "C": "কোনোটিই নয়",
+    "D": "অর্ধপরিবাহী"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "H₂O সূত্রে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২ H ও ১ O পরমাণু",
+    "C": "১ H ও ২ O পরমাণু",
+    "D": "২ H ও ২ O পরমাণু"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "ধাতুর চকচকে ভাব —",
+   "options": {
+    "A": "আয়নের কারণে",
+    "B": "মুক্ত ইলেকট্রনের কারণে",
+    "C": "প্রোটনের কারণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "রাসায়নিক বন্ধন পদার্থের —",
+   "options": {
+    "A": "ধর্ম নির্ধারণ করে",
+    "B": "রং নির্ধারণ করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "Mg ও Cl এর যোজ্যতা বিনিময়ে —",
+   "options": {
+    "A": "MgCl₂ হয়",
+    "B": "MgCl হয়",
+    "C": "কোনোটিই নয়",
+    "D": "Mg₂Cl হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "N₂ অণুতে নাইট্রোজেন পরমাণুর মধ্যে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ত্রিবন্ধন",
+    "C": "দ্বিবন্ধন",
+    "D": "একক বন্ধন"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "ধাতুর ঘনত্ব —",
+   "options": {
+    "A": "বেশি",
+    "B": "শূন্য",
+    "C": "কোনোটিই নয়",
+    "D": "কম"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "ক্লোরিনের যোজ্যতা ১ — তাই —",
+   "options": {
+    "A": "কোনো বন্ধন করে না",
+    "B": "২টি বন্ধন গঠন করে",
+    "C": "কোনোটিই নয়",
+    "D": "১টি বন্ধন গঠন করে"
+   },
+   "correctAnswer": "D",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "দ্রবণে আয়নিক যৌগ —",
+   "options": {
+    "A": "অণু থাকে",
+    "B": "কোনোটিই নয়",
+    "C": "আয়নে বিয়োজিত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "NH₃ তে বন্ধন জোড় —",
+   "options": {
+    "A": "৩টি",
+    "B": "কোনোটিই নয়",
+    "C": "২টি",
+    "D": "১টি"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "সোডিয়াম ধাতুতে কোন বন্ধন?",
+   "options": {
+    "A": "আয়নিক",
+    "B": "সমযোজী",
+    "C": "ধাতব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "বন্ধন ভাঙা ও গঠন —",
+   "options": {
+    "A": "রাসায়নিক বিক্রিয়ার ভিত্তি",
+    "B": "ভৌত পরিবর্তনের ভিত্তি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "আয়নিক বন্ধন হয় —",
+   "options": {
+    "A": "দুই অধাতুর মধ্যে",
+    "B": "দুই ধাতুর মধ্যে",
+    "C": "ধাতু ও অধাতুর মধ্যে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "পোলার দ্রাবক —",
+   "options": {
+    "A": "বেনজিন",
+    "B": "কোনোটিই নয়",
+    "C": "কার্বন টেট্রাক্লোরাইড",
+    "D": "পানি"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "ধাতব বন্ধনের শক্তি —",
+   "options": {
+    "A": "খুব কম",
+    "B": "মাঝারি থেকে বেশি",
+    "C": "কোনোটিই নয়",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "রাসায়নিক বন্ধন অধ্যায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ঐচ্ছিক",
+    "C": "অগুরুত্বপূর্ণ",
+    "D": "গুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "D",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "NaCl গঠনে ক্লোরিন —",
+   "options": {
+    "A": "Cl⁺ হয়",
+    "B": "কোনোটিই নয়",
+    "C": "Cl⁻ হয়",
+    "D": "নিরপেক্ষ থাকে"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "অ্যামোনিয়ার বন্ধন —",
+   "options": {
+    "A": "আয়নিক",
+    "B": "ধাতব",
+    "C": "কোনোটিই নয়",
+    "D": "সমযোজী"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "সোডিয়াম ধাতুতে বন্ধন —",
+   "options": {
+    "A": "সমযোজী",
+    "B": "কোনোটিই নয়",
+    "C": "আয়নিক",
+    "D": "ধাতব"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "অক্সিজেনের যোজ্যতা ২ — তাই —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২টি বন্ধন গঠন করে",
+    "C": "১টি বন্ধন গঠন করে",
+    "D": "কোনো বন্ধন করে না"
+   },
+   "correctAnswer": "B",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "অক্সিজেন বন্ধন গঠনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই করে না",
+    "C": "৬টি ইলেকট্রন ত্যাগ করে",
+    "D": "২টি ইলেকট্রন লাভ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "পোলার বন্ধনের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "O₂, N₂",
+    "C": "H₂O, HCl",
+    "D": "H₂, Cl₂"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "ধাতব বন্ধনে ইলেকট্রন সাগর —",
+   "options": {
+    "A": "মুক্ত ইলেকট্রনের সমষ্টি",
+    "B": "নিউট্রনের সমষ্টি",
+    "C": "কোনোটিই নয়",
+    "D": "প্রোটনের সমষ্টি"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতব বন্ধন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "যোজ্যতা ইলেকট্রন সংখ্যা থেকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বন্ধনের সংখ্যা জানা যায়",
+    "C": "কোনোটিই নয়",
+    "D": "ভর জানা যায়"
+   },
+   "correctAnswer": "B",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "আয়নিক যৌগের গলনাঙ্ক উচ্চ — কারণ?",
+   "options": {
+    "A": "শক্তিশালী আন্তঃআয়নিক বল",
+    "B": "কোনো বল নেই",
+    "C": "কোনোটিই নয়",
+    "D": "দুর্বল বল"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "সমযোজী বন্ধনে ইলেকট্রন —",
+   "options": {
+    "A": "মুক্ত হয়",
+    "B": "স্থানান্তরিত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "ভাগাভাগি হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "ধাতুকে পেটানো যায় —",
+   "options": {
+    "A": "ধাতব বন্ধনের কারণে",
+    "B": "আয়নিক বন্ধনে",
+    "C": "সমযোজী বন্ধনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "রাসায়নিক বন্ধন ছাড়া পদার্থের —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বৈচিত্র্য থাকত না",
+    "C": "বৈচিত্র্য থাকত",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "আয়নিক যৌগ আঘাতে —",
+   "options": {
+    "A": "বাঁকে যায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই হয় না",
+    "D": "ভেঙে যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "H₂O এর বন্ধন কোণ CH₄ এর চেয়ে কম — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "মুক্ত জোড়ের বিকর্ষণ",
+    "D": "বন্ধন জোড়"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "ধাতু স্তর সরে গেলে বন্ধন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অক্ষত থাকে",
+    "D": "ভেঙে যায়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "পরমাণুর স্থিতিশীলতার মাপকাঠি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিষ্ক্রিয় গ্যাসের ইলেকট্রন বিন্যাস",
+    "C": "ভর",
+    "D": "রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "আয়নিক বন্ধনে ইলেকট্রন —",
+   "options": {
+    "A": "ভাগ হয়",
+    "B": "সম্পূর্ণ স্থানান্তরিত হয়",
+    "C": "আংশিক স্থানান্তরিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "দ্বিপরমাণুক অণু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "H₂O",
+    "C": "H₂, O₂, N₂",
+    "D": "CO₂"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "ধাতুর তাপ পরিবাহিতা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রোটনের কারণে",
+    "C": "মুক্ত ইলেকট্রনের কারণে",
+    "D": "আয়নের কারণে"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "রাসায়নিক বন্ধনের গুরুত্ব —",
+   "options": {
+    "A": "নেই",
+    "B": "কোনোটিই নয়",
+    "C": "সীমিত",
+    "D": "অপরিসীম"
+   },
+   "correctAnswer": "D",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "আয়নিক যৌগে মোট আধান —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "কোনোটিই নয়",
+    "C": "শূন্য",
+    "D": "ঋণাত্মক"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "CO₂ তে বন্ধন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "একক",
+    "C": "দ্বি",
+    "D": "ত্রি"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "ইলেকট্রন সাগরে ধাতব আয়ন —",
+   "options": {
+    "A": "ডুবে থাকে",
+    "B": "ভাসে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "বিক্রিয়ায় পুরনো বন্ধন —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "ভাঙে",
+    "C": "কোনোটিই নয়",
+    "D": "থাকে"
+   },
+   "correctAnswer": "B",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "NaCl কেলাসে প্রতিটি Na⁺ —",
+   "options": {
+    "A": "৪টি Cl⁻ দ্বারা",
+    "B": "কোনোটিই নয়",
+    "C": "৬টি Cl⁻ দ্বারা বেষ্টিত",
+    "D": "২টি Cl⁻ দ্বারা"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "সমযোজী যৌগ জৈব দ্রাবকে —",
+   "options": {
+    "A": "দ্রবণীয়",
+    "B": "কোনোটিই নয়",
+    "C": "অদ্রবণীয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "ধাতব বন্ধন হয় —",
+   "options": {
+    "A": "দুই অধাতুর মধ্যে",
+    "B": "কোনোটিই নয়",
+    "C": "দুই ধাতুর মধ্যে",
+    "D": "ধাতু ও অধাতুর মধ্যে"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "রাসায়নিক বন্ধনের ফলে পরমাণু —",
+   "options": {
+    "A": "অস্থিতিশীলতা পায়",
+    "B": "কিছুই পায় না",
+    "C": "কোনোটিই নয়",
+    "D": "স্থিতিশীলতা পায়"
+   },
+   "correctAnswer": "D",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "আয়নিক বন্ধনের ফলে —",
+   "options": {
+    "A": "তরল হয়",
+    "B": "গ্যাস হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কঠিন কেলাস হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "সমযোজী যৌগ পানিতে দ্রবীভূত হলে —",
+   "options": {
+    "A": "আয়নে বিয়োজিত হয়",
+    "B": "কিছুই হয় না",
+    "C": "কোনোটিই নয়",
+    "D": "অণু হিসেবে থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "সোনায় বন্ধন —",
+   "options": {
+    "A": "ধাতব",
+    "B": "সমযোজী",
+    "C": "আয়নিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "হাইড্রোজেনের যোজ্যতা ১ — তাই —",
+   "options": {
+    "A": "১টি বন্ধন গঠন করে",
+    "B": "কোনোটিই নয়",
+    "C": "কোনো বন্ধন করে না",
+    "D": "২টি বন্ধন গঠন করে"
+   },
+   "correctAnswer": "A",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "NaCl এ কোন বন্ধন?",
+   "options": {
+    "A": "ধাতব",
+    "B": "কোনোটিই নয়",
+    "C": "আয়নিক",
+    "D": "সমযোজী"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "যে ইলেকট্রন জোড় বন্ধনে অংশ নেয় না তাকে —",
+   "options": {
+    "A": "মুক্ত জোড় বলা হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বন্ধন জোড় বলা হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "তামার তার বানানো যায় — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ধাতব বন্ধন, প্রসার্য",
+    "C": "সমযোজী বন্ধন",
+    "D": "আয়নিক বন্ধন"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতব বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "বন্ধন বুঝলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই বোঝা যায় না",
+    "C": "রাসায়নিক বিক্রিয়া বোঝা যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "আয়নিক যৌগের আন্তঃকণা বল —",
+   "options": {
+    "A": "শূন্য",
+    "B": "দুর্বল",
+    "C": "কোনোটিই নয়",
+    "D": "শক্তিশালী"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "সমন্বয় বন্ধনে ইলেকট্রন জোড় —",
+   "options": {
+    "A": "একটি পরমাণু থেকে আসে",
+    "B": "কিছুই না",
+    "C": "দুটি পরমাণু থেকে আসে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "ধাতুর প্রসার্যতা —",
+   "options": {
+    "A": "ধাতব বন্ধনের কারণে",
+    "B": "আয়নিক বন্ধনে",
+    "C": "কোনোটিই নয়",
+    "D": "সমযোজী বন্ধনে"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "রাসায়নিক বন্ধনের ফলে —",
+   "options": {
+    "A": "শক্তি শোষিত হয়",
+    "B": "শক্তি নির্গত হয়",
+    "C": "কিছুই হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "ক্লোরিন বন্ধন গঠনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই করে না",
+    "C": "৭টি ইলেকট্রন ত্যাগ করে",
+    "D": "১টি ইলেকট্রন লাভ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "পানির বন্ধন —",
+   "options": {
+    "A": "সমযোজী",
+    "B": "আয়নিক",
+    "C": "ধাতব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "রুপায় বন্ধন —",
+   "options": {
+    "A": "আয়নিক",
+    "B": "কোনোটিই নয়",
+    "C": "সমযোজী",
+    "D": "ধাতব"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া বুঝতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বন্ধন জানা জরুরি নয়",
+    "C": "কোনোটিই নয়",
+    "D": "বন্ধন জানা জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "আয়নিক যৌগ কঠিন — কারণ?",
+   "options": {
+    "A": "কোনো বল নেই",
+    "B": "শক্তিশালী আকর্ষণ বল",
+    "C": "কোনোটিই নয়",
+    "D": "দুর্বল বল"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "পলিপরমাণুক অণু —",
+   "options": {
+    "A": "H₂O",
+    "B": "CH₄, NH₃",
+    "C": "কোনোটিই নয়",
+    "D": "H₂, O₂"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "ধাতুর বিদ্যুৎ পরিবাহিতা —",
+   "options": {
+    "A": "আয়নে",
+    "B": "কোনোটিই নয়",
+    "C": "মুক্ত ইলেকট্রনে",
+    "D": "প্রোটনে"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "বিক্রিয়ায় নতুন বন্ধন —",
+   "options": {
+    "A": "গঠিত হয়",
+    "B": "ভাঙে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "সোডিয়াম ক্লোরাইড নামে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "যেকোনো",
+    "C": "ক্লোরিন আগে",
+    "D": "সোডিয়াম আগে"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "CH₄ সূত্রে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৪ C ও ১ H পরমাণু",
+    "C": "২ C ও ২ H পরমাণু",
+    "D": "১ C ও ৪ H পরমাণু"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "ধাতব বন্ধনের ফলে —",
+   "options": {
+    "A": "অণু হয়",
+    "B": "কোনোটিই নয়",
+    "C": "আয়নিক যৌগ হয়",
+    "D": "ধাতব কেলাস হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "পরমাণু বন্ধন গঠন করে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "স্থিতিশীল হতে",
+    "C": "অস্থিতিশীল হতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "NaCl দ্রবণ বিদ্যুৎ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পরিবহন করে না",
+    "C": "পরিবহন করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "CO₂ সূত্রে —",
+   "options": {
+    "A": "১ C ও ২ O পরমাণু",
+    "B": "২ C ও ১ O পরমাণু",
+    "C": "১ C ও ১ O পরমাণু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "ধাতুকে টেনে তার বানানো যায় —",
+   "options": {
+    "A": "সমযোজী বন্ধনে",
+    "B": "আয়নিক বন্ধনে",
+    "C": "ধাতব বন্ধনের কারণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "মৌলের যোজ্যতা থেকে —",
+   "options": {
+    "A": "বন্ধনের ধরন বোঝা যায়",
+    "B": "কিছুই না",
+    "C": "ভর বোঝা যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "Ca ও O এর যোজ্যতা বিনিময়ে —",
+   "options": {
+    "A": "CaO হয়",
+    "B": "Ca₂O হয়",
+    "C": "CaO₂ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "সমযোজী যৌগের নিম্ন গলনাঙ্কের কারণ —",
+   "options": {
+    "A": "শক্তিশালী বল",
+    "B": "কোনো বল নেই",
+    "C": "দুর্বল আন্তঃআণবিক বল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "দুই ধাতুর মধ্যে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আয়নিক বন্ধন",
+    "C": "ধাতব বন্ধন",
+    "D": "সমযোজী বন্ধন"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "বন্ধন গঠনের পর পরমাণুর শক্তি —",
+   "options": {
+    "A": "কমে",
+    "B": "একই",
+    "C": "বাড়ে",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "সোডিয়াম বন্ধন গঠনে —",
+   "options": {
+    "A": "কিছুই করে না",
+    "B": "১টি ইলেকট্রন ত্যাগ করে",
+    "C": "কোনোটিই নয়",
+    "D": "৭টি ইলেকট্রন লাভ করে"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "CH₄ এ কোন বন্ধন?",
+   "options": {
+    "A": "ধাতব",
+    "B": "আয়নিক",
+    "C": "সমযোজী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "ধাতু আঘাতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাঁকে যায়",
+    "C": "ভেঙে যায়",
+    "D": "কিছুই হয় না"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "বন্ধন শক্তি বেশি হলে বন্ধন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দুর্বল",
+    "C": "শূন্য",
+    "D": "শক্তিশালী"
+   },
+   "correctAnswer": "D",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "লবণ পানিতে দ্রবীভূত হলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অণু হিসেবে থাকে",
+    "C": "আয়নে বিয়োজিত হয়",
+    "D": "কিছুই হয় না"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "পানির স্ফুটনাঙ্ক —",
+   "options": {
+    "A": "১০০°C",
+    "B": "০°C",
+    "C": "৮০১°C",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "লোহায় বন্ধন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সমযোজী",
+    "C": "আয়নিক",
+    "D": "ধাতব"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "রাসায়নিক বন্ধন রসায়ন শেখার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অতিরিক্ত বিষয়",
+    "C": "কোনোটিই নয়",
+    "D": "মূল ভিত্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "Ca ও Cl এর যোজ্যতা বিনিময়ে —",
+   "options": {
+    "A": "Ca₂Cl হয়",
+    "B": "কোনোটিই নয়",
+    "C": "CaCl হয়",
+    "D": "CaCl₂ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "H₂O তে অক্সিজেনের মুক্ত জোড় —",
+   "options": {
+    "A": "৩টি",
+    "B": "২টি",
+    "C": "১টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "অ্যালুমিনিয়ামে বন্ধন —",
+   "options": {
+    "A": "সমযোজী",
+    "B": "কোনোটিই নয়",
+    "C": "আয়নিক",
+    "D": "ধাতব"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "বন্ধন দৈর্ঘ্য কম হলে বন্ধন —",
+   "options": {
+    "A": "শক্তিশালী",
+    "B": "শূন্য",
+    "C": "কোনোটিই নয়",
+    "D": "দুর্বল"
+   },
+   "correctAnswer": "A",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "লবণের দ্রবণ বিদ্যুৎ —",
+   "options": {
+    "A": "পরিবহন করে",
+    "B": "পরিবহন করে না",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "হাইড্রোজেন গ্যাসের বন্ধন —",
+   "options": {
+    "A": "সমযোজী",
+    "B": "কোনোটিই নয়",
+    "C": "আয়নিক",
+    "D": "ধাতব"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "ধাতুর গলনাঙ্ক —",
+   "options": {
+    "A": "শূন্য",
+    "B": "সাধারণত উচ্চ",
+    "C": "নিম্ন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "রাসায়নিক বন্ধন ছাড়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "যৌগ গঠন হয়",
+    "D": "যৌগ গঠন হয় না"
+   },
+   "correctAnswer": "D",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "অ্যানায়ন গঠন করে —",
+   "options": {
+    "A": "নিষ্ক্রিয় গ্যাস",
+    "B": "কোনোটিই নয়",
+    "C": "অধাতু",
+    "D": "ধাতু"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "CO₂ তে কার্বন অক্সিজেনের সাথে —",
+   "options": {
+    "A": "একক বন্ধন",
+    "B": "কোনোটিই নয়",
+    "C": "দ্বিবন্ধন গঠন করে",
+    "D": "ত্রিবন্ধন"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "ধাতু টেনে তার করা যায় — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আয়নিক বন্ধন",
+    "C": "সমযোজী বন্ধন",
+    "D": "ধাতব বন্ধন"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতব বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "বন্ধন গঠন —",
+   "options": {
+    "A": "তাপমোচী প্রক্রিয়া",
+    "B": "নিরপেক্ষ",
+    "C": "তাপগ্রাহী প্রক্রিয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "MgCl₂ নিরপেক্ষ — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "Mg²⁺ ও 2Cl⁻ আধান সমান",
+    "C": "কিছুই না",
+    "D": "আধান নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "N₂ সূত্রে —",
+   "options": {
+    "A": "১ N পরমাণু",
+    "B": "২ N পরমাণু",
+    "C": "কোনোটিই নয়",
+    "D": "৩ N পরমাণু"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "ধাতব বন্ধন গঠনের উদাহরণ —",
+   "options": {
+    "A": "Na, Fe, Cu",
+    "B": "কোনোটিই নয়",
+    "C": "NaCl",
+    "D": "H₂O"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "বন্ধন ভাঙা —",
+   "options": {
+    "A": "তাপগ্রাহী প্রক্রিয়া",
+    "B": "নিরপেক্ষ",
+    "C": "কোনোটিই নয়",
+    "D": "তাপমোচী প্রক্রিয়া"
+   },
+   "correctAnswer": "A",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "কঠিন আয়নিক যৌগে আয়ন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "স্থির থাকে",
+    "D": "চলাচল করে"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "মুক্ত জোড়ের বিকর্ষণ বন্ধন কোণ —",
+   "options": {
+    "A": "কমায়",
+    "B": "একই রাখে",
+    "C": "কোনোটিই নয়",
+    "D": "বাড়ায়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "ধাতুর নমনীয়তার কারণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মুক্ত ইলেকট্রনের স্তর সরে যায়",
+    "C": "আয়ন ভাঙে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "বন্ধন ভাঙতে শক্তি —",
+   "options": {
+    "A": "নির্গত হয়",
+    "B": "প্রয়োজন হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই লাগে না"
+   },
+   "correctAnswer": "B",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "আয়নিক যৌগের বিদ্যুৎ পরিবাহিতা —",
+   "options": {
+    "A": "প্রোটনে",
+    "B": "কোনোটিই নয়",
+    "C": "আয়নের চলাচলে",
+    "D": "ইলেকট্রনের চলাচলে শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "সমযোজী বন্ধনের ফলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কেলাস হয় শুধু",
+    "C": "অণু হয়",
+    "D": "ধাতু হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "ধাতু সাধারণত —",
+   "options": {
+    "A": "উজ্জ্বল",
+    "B": "স্বচ্ছ",
+    "C": "কোনোটিই নয়",
+    "D": "অনুজ্জ্বল"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতব বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "রাসায়নিক বন্ধন গঠনের কারণ —",
+   "options": {
+    "A": "স্থিতিশীলতা অর্জন",
+    "B": "অস্থিতিশীলতা",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "NaCl নিরপেক্ষ — কারণ?",
+   "options": {
+    "A": "Na⁺ ও Cl⁻ আধান সমান",
+    "B": "আধান নেই",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "সমযোজী বন্ধনে পরমাণুগুলো —",
+   "options": {
+    "A": "ইলেকট্রন জোড় ভাগ করে",
+    "B": "কোনোটিই নয়",
+    "C": "ইলেকট্রন লাভ করে",
+    "D": "ইলেকট্রন ত্যাগ করে"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "সমযোজী বন্ধন আয়নিক বন্ধনের চেয়ে —",
+   "options": {
+    "A": "দুর্বল",
+    "B": "সমান",
+    "C": "শক্তিশালী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "সোডিয়াম পরমাণু ক্লোরিনকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১ ইলেকট্রন দেয়",
+    "C": "২ ইলেকট্রন দেয়",
+    "D": "১ ইলেকট্রন নেয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "N₂ তে বন্ধন —",
+   "options": {
+    "A": "একক",
+    "B": "ত্রি",
+    "C": "কোনোটিই নয়",
+    "D": "দ্বি"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "পৃথিবীর সব পদার্থ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বন্ধন ছাড়া",
+    "D": "বন্ধনের মাধ্যমে গঠিত"
+   },
+   "correctAnswer": "D",
+   "topic": "বন্ধনের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "আয়নিক যৌগের পরিবাহিতা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রোটনে",
+    "C": "ইলেকট্রনের চলাচলে",
+    "D": "আয়নের চলাচলে"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "দ্বিবন্ধনের শক্তি একক বন্ধনের চেয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সমান",
+    "C": "কম",
+    "D": "বেশি"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "বিপরীত আধানের আয়ন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই করে না",
+    "C": "বিকর্ষণ করে",
+    "D": "আকর্ষণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "অ্যামোনিয়াম আয়নে (NH₄⁺) —",
+   "options": {
+    "A": "সমন্বয় বন্ধন নেই",
+    "B": "সমন্বয় বন্ধন আছে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "ম্যাগনেসিয়াম বন্ধন গঠনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২টি ইলেকট্রন ত্যাগ করে",
+    "C": "৬টি ইলেকট্রন লাভ করে",
+    "D": "কিছুই করে না"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "সমযোজী যৌগ জৈব দ্রাবকে দ্রবীভূত — কারণ?",
+   "options": {
+    "A": "অসদৃশ দ্রাবক",
+    "B": "কোনোটিই নয়",
+    "C": "সদৃশ দ্রাবক নিয়ম",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "Na ও O এর যোজ্যতা বিনিময়ে —",
+   "options": {
+    "A": "NaO হয়",
+    "B": "Na₂O হয়",
+    "C": "কোনোটিই নয়",
+    "D": "NaO₂ হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "সমযোজী যৌগের আন্তঃআণবিক বল —",
+   "options": {
+    "A": "দুর্বল",
+    "B": "শূন্য",
+    "C": "শক্তিশালী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "আয়নিক যৌগ পোলার দ্রাবকে —",
+   "options": {
+    "A": "দ্রবীভূত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "দ্রবীভূত হয় না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "ডাইপোল কাকে বলে?",
+   "options": {
+    "A": "নিরপেক্ষ অণু",
+    "B": "আংশিক আধানযুক্ত অণু",
+    "C": "কোনোটিই নয়",
+    "D": "আয়ন"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "আয়নিক বন্ধন গঠনের উদাহরণ —",
+   "options": {
+    "A": "H₂O, CH₄",
+    "B": "NaCl, MgO, CaO",
+    "C": "কোনোটিই নয়",
+    "D": "O₂, N₂"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "অপোলার সমযোজী বন্ধন কাকে বলে?",
+   "options": {
+    "A": "সমান ইলেকট্রন ভাগ",
+    "B": "অসমান ইলেকট্রন ভাগ",
+    "C": "কোনো ভাগ নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "আয়নিক যৌগ নিরপেক্ষ — কারণ?",
+   "options": {
+    "A": "ধনাত্মক ও ঋণাত্মক আধান সমান",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "আধান নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "বিশুদ্ধ পানি বিদ্যুৎ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পরিবহন করে",
+    "C": "কিছুই না",
+    "D": "পরিবহন করে না"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "অধাতু ইলেকট্রন লাভ করে —",
+   "options": {
+    "A": "ক্যাটায়ন হয়",
+    "B": "অ্যানায়ন হয়",
+    "C": "নিরপেক্ষ থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "H₂ সূত্রে —",
+   "options": {
+    "A": "২ H পরমাণু",
+    "B": "৩ H পরমাণু",
+    "C": "কোনোটিই নয়",
+    "D": "১ H পরমাণু"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "আয়নিক যৌগের নামকরণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অধাতুর নাম আগে",
+    "C": "ধাতুর নাম আগে",
+    "D": "যেকোনো"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "সদৃশ দ্রাবক নিয়ম —",
+   "options": {
+    "A": "সদৃশ সদৃশকে দ্রবীভূত করে",
+    "B": "কোনোটিই নয়",
+    "C": "অসদৃশকে দ্রবীভূত করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "অ্যালুমিনিয়াম বন্ধন গঠনে —",
+   "options": {
+    "A": "কিছুই করে না",
+    "B": "৩টি ইলেকট্রন ত্যাগ করে",
+    "C": "৫টি ইলেকট্রন লাভ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "NH₃ তে মুক্ত জোড় —",
+   "options": {
+    "A": "১টি",
+    "B": "৩টি",
+    "C": "কোনোটিই নয়",
+    "D": "২টি"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "আয়নিক বন্ধনে আধানযুক্ত কণা —",
+   "options": {
+    "A": "আয়ন",
+    "B": "পরমাণু",
+    "C": "কোনোটিই নয়",
+    "D": "অণু"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "সমযোজী যৌগের দ্রবণে তড়িৎ চালনা —",
+   "options": {
+    "A": "সম্ভব নয়",
+    "B": "কখনো সম্ভব নয়",
+    "C": "সম্ভব",
+    "D": "কখনো সম্ভব"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "আয়নিক বন্ধনে আয়নের সংখ্যা —",
+   "options": {
+    "A": "ধনাত্মক ও ঋণাত্মক সমান",
+    "B": "শুধু ঋণাত্মক",
+    "C": "শুধু ধনাত্মক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "Cl₂ তে বন্ধন —",
+   "options": {
+    "A": "ত্রি",
+    "B": "কোনোটিই নয়",
+    "C": "একক",
+    "D": "দ্বি"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "আয়নিক যৌগ কঠিন অবস্থায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বিদ্যুৎ অপরিবাহী",
+    "C": "পরিবাহী",
+    "D": "অর্ধপরিবাহী"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "মুক্ত জোড়ের বিকর্ষণ বন্ধন জোড়ের চেয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সমান",
+    "C": "বেশি",
+    "D": "কম"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "গলিত NaCl বিদ্যুৎ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পরিবহন করে",
+    "D": "পরিবহন করে না"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "CO₂ তে মুক্ত জোড় —",
+   "options": {
+    "A": "০টি",
+    "B": "কোনোটিই নয়",
+    "C": "২টি",
+    "D": "৪টি"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "আয়নিক যৌগ সাধারণত গন্ধ —",
+   "options": {
+    "A": "তীব্র",
+    "B": "কোনোটিই নয়",
+    "C": "নেই",
+    "D": "মিষ্টি"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "পানির (H₂O) তড়িৎ পরিবাহিতা —",
+   "options": {
+    "A": "নগণ্য",
+    "B": "উচ্চ",
+    "C": "মাঝারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "NaCl এর গলনাঙ্ক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১০০°C",
+    "C": "০°C",
+    "D": "৮০১°C"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "তাই সমযোজী দ্রবণ বিদ্যুৎ —",
+   "options": {
+    "A": "পরিবহন করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পরিবহন করে না"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "ক্যালসিয়াম অক্সাইডের বন্ধন —",
+   "options": {
+    "A": "সমযোজী",
+    "B": "আয়নিক",
+    "C": "কোনোটিই নয়",
+    "D": "ধাতব"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "হাইড্রোজেন বন্ধন সমযোজী বন্ধনের চেয়ে —",
+   "options": {
+    "A": "শক্তিশালী",
+    "B": "সমান",
+    "C": "দুর্বল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "আয়নিক যৌগ পানিতে দ্রবীভূত হলে —",
+   "options": {
+    "A": "অণুতে থাকে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই হয় না",
+    "D": "আয়নে বিয়োজিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "অক্সিজেন গ্যাসের বন্ধন —",
+   "options": {
+    "A": "ধাতব",
+    "B": "কোনোটিই নয়",
+    "C": "সমযোজী",
+    "D": "আয়নিক"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "আয়নিক যৌগের উদাহরণ —",
+   "options": {
+    "A": "O₂, N₂",
+    "B": "কোনোটিই নয়",
+    "C": "H₂O, CH₄",
+    "D": "NaCl, MgO"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "সমযোজী বন্ধন গঠনের উদাহরণ —",
+   "options": {
+    "A": "NaCl, MgO",
+    "B": "কোনোটিই নয়",
+    "C": "H₂O, CH₄, CO₂, NH₃",
+    "D": "CaO, KCl"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "দ্রবণে আয়ন —",
+   "options": {
+    "A": "চলাচল করে",
+    "B": "স্থির থাকে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "CH₄ অণুর আকৃতি —",
+   "options": {
+    "A": "চতুস্তলক",
+    "B": "সরলরৈখিক",
+    "C": "কৌণিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "আয়নিক বন্ধনে ক্যাটায়ন ও অ্যানায়নের মধ্যে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কোনো বল নেই",
+    "C": "স্থির আকর্ষণ বল",
+    "D": "বিকর্ষণ বল"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "সমযোজী যৌগের অণু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অনির্দিষ্ট আকারের",
+    "C": "কিছুই না",
+    "D": "নির্দিষ্ট আকারের"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "NaCl পানিতে দ্রবীভূত হলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই হয় না",
+    "C": "NaCl অণু থাকে",
+    "D": "Na⁺ ও Cl⁻ আয়ন হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "CH₄ এর বন্ধন কোণ —",
+   "options": {
+    "A": "১৮০°",
+    "B": "১০৪.৫°",
+    "C": "কোনোটিই নয়",
+    "D": "১০৯.৫°"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "Al ও Cl এর যোজ্যতা বিনিময়ে —",
+   "options": {
+    "A": "AlCl₂ হয়",
+    "B": "কোনোটিই নয়",
+    "C": "AlCl হয়",
+    "D": "AlCl₃ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "ত্রিবন্ধন কাকে বলে?",
+   "options": {
+    "A": "এক জোড় ইলেকট্রন ভাগ",
+    "B": "কোনোটিই নয়",
+    "C": "দুই জোড় ইলেকট্রন ভাগ",
+    "D": "তিন জোড় ইলেকট্রন ভাগ"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "আয়নিক যৌগের উচ্চ গলনাঙ্কের কারণ —",
+   "options": {
+    "A": "কোনো বল নেই",
+    "B": "শক্তিশালী আকর্ষণ বল",
+    "C": "কোনোটিই নয়",
+    "D": "দুর্বল বল"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "সমযোজী যৌগের গন্ধ —",
+   "options": {
+    "A": "থাকতে পারে",
+    "B": "সবসময় তীব্র",
+    "C": "কোনোটিই নয়",
+    "D": "কখনো নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "সূত্রে ঋণাত্মক আয়ন —",
+   "options": {
+    "A": "পরে লেখা হয়",
+    "B": "কোনোটিই নয়",
+    "C": "যেকোনো ক্রমে",
+    "D": "আগে লেখা হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "সমযোজী অণুর আকৃতি নির্ধারণ করে —",
+   "options": {
+    "A": "রং",
+    "B": "বন্ধন জোড় ও মুক্ত জোড়",
+    "C": "ভর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "তাই কঠিন আয়নিক যৌগ বিদ্যুৎ —",
+   "options": {
+    "A": "পরিবহন করে",
+    "B": "কিছুই না",
+    "C": "পরিবহন করে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "সমযোজী বন্ধনে তড়িৎ ঋণাত্মকতার পার্থক্য —",
+   "options": {
+    "A": "কম",
+    "B": "কোনোটিই নয়",
+    "C": "অসীম",
+    "D": "বেশি"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "ধাতু ও অধাতুর মধ্যে সাধারণত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আয়নিক বন্ধন",
+    "C": "ধাতব বন্ধন",
+    "D": "সমযোজী বন্ধন"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "সমযোজী অণুতে পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "সূচক দিয়ে লেখা হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "লেখা হয় না"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "ম্যাগনেসিয়াম অক্সাইড নামে —",
+   "options": {
+    "A": "ম্যাগনেসিয়াম আগে",
+    "B": "কোনোটিই নয়",
+    "C": "অক্সিজেন আগে",
+    "D": "যেকোনো"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "সমযোজী অণুতে পরমাণুর বিন্যাস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "নির্দিষ্ট",
+    "D": "এলোমেলো"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "আয়নিক বন্ধনের শক্তি —",
+   "options": {
+    "A": "কম",
+    "B": "শূন্য",
+    "C": "বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "H₂O তে কোন বন্ধন?",
+   "options": {
+    "A": "ধাতব",
+    "B": "আয়নিক",
+    "C": "সমযোজী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "NaCl কেলাসের আকার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ষড়ভুজ",
+    "C": "ঘনক",
+    "D": "গোলক"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "নাইট্রোজেন গ্যাসের বন্ধন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ধাতব",
+    "C": "সমযোজী",
+    "D": "আয়নিক"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "Na ও Cl এর যোজ্যতা বিনিময়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "Na₂Cl হয়",
+    "C": "NaCl₂ হয়",
+    "D": "NaCl হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "CH₄ তে মুক্ত জোড় —",
+   "options": {
+    "A": "০টি",
+    "B": "২টি",
+    "C": "১টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "আয়নিক বন্ধনে আকর্ষণ —",
+   "options": {
+    "A": "মহাকর্ষ",
+    "B": "ঘর্ষণ",
+    "C": "কোনোটিই নয়",
+    "D": "স্থির তড়িৎ আকর্ষণ"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "চিনির দ্রবণ বিদ্যুৎ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পরিবহন করে না",
+    "C": "পরিবহন করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "আয়নিক যৌগ সাধারণত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কঠিন",
+    "C": "গ্যাস",
+    "D": "তরল"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "সমযোজী যৌগের স্ফুটনাঙ্ক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিম্ন",
+    "C": "উচ্চ",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "সূত্রে ধনাত্মক আয়ন —",
+   "options": {
+    "A": "আগে লেখা হয়",
+    "B": "পরে লেখা হয়",
+    "C": "যেকোনো ক্রমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "সমযোজী যৌগের গলনাঙ্ক —",
+   "options": {
+    "A": "উচ্চ",
+    "B": "কোনোটিই নয়",
+    "C": "নিম্ন",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "আয়নিক বন্ধনে তড়িৎ ঋণাত্মকতার পার্থক্য —",
+   "options": {
+    "A": "কম",
+    "B": "শূন্য",
+    "C": "বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "অপোলার বন্ধনের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "NH₃",
+    "C": "H₂, Cl₂",
+    "D": "H₂O, HCl"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "Mg ও O এর যোজ্যতা বিনিময়ে —",
+   "options": {
+    "A": "MgO হয়",
+    "B": "কোনোটিই নয়",
+    "C": "MgO₂ হয়",
+    "D": "Mg₂O হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "হাইড্রোজেন বন্ধন কাকে বলে?",
+   "options": {
+    "A": "আয়নিক আকর্ষণ",
+    "B": "H ও তড়িৎ ঋণাত্মক পরমাণুর আকর্ষণ",
+    "C": "কোনোটিই নয়",
+    "D": "ধাতব আকর্ষণ"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "লবণ পানির তড়িৎ পরিবাহিতা —",
+   "options": {
+    "A": "শূন্য",
+    "B": "কোনোটিই নয়",
+    "C": "নগণ্য",
+    "D": "উচ্চ"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "পোলার সমযোজী বন্ধন কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সমান ইলেকট্রন ভাগ",
+    "C": "অসমান ইলেকট্রন ভাগ",
+    "D": "কোনো ভাগ নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "আয়নিক যৌগের উদাহরণ নয় —",
+   "options": {
+    "A": "MgO",
+    "B": "CH₄",
+    "C": "NaCl",
+    "D": "CaO"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "সমযোজী বন্ধনের ইলেকট্রন জোড়কে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মুক্ত জোড় বলা হয়",
+    "C": "কিছুই না",
+    "D": "বন্ধন জোড় বলা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "আয়নিক যৌগের সংকেত লেখা হয় —",
+   "options": {
+    "A": "যোজ্যতা বিনিময়ে",
+    "B": "রং অনুযায়ী",
+    "C": "কোনোটিই নয়",
+    "D": "ভর অনুযায়ী"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "VSEPR তত্ত্ব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভর তত্ত্ব",
+    "C": "শক্তি তত্ত্ব",
+    "D": "ইলেকট্রন জোড় বিকর্ষণ তত্ত্ব"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "NaCl এর গলনাঙ্ক পানির চেয়ে —",
+   "options": {
+    "A": "কম",
+    "B": "সমান",
+    "C": "কোনোটিই নয়",
+    "D": "বেশি"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "ইলেকট্রন জোড় বিকর্ষণ কমাতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সর্বাধিক দূরে থাকে",
+    "C": "কাছে থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "আয়নিক যৌগের সূত্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রং অনুযায়ী",
+    "C": "যোজ্যতা বিনিময়ে লেখা হয়",
+    "D": "ভর অনুযায়ী"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "সমন্বয় সমযোজী বন্ধন কাকে বলে?",
+   "options": {
+    "A": "কোনো পরমাণুই দেয় না",
+    "B": "এক পরমাণু ইলেকট্রন জোড় দেয়",
+    "C": "দুই পরমাণুই দেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "আয়নিক বন্ধনের শর্ত —",
+   "options": {
+    "A": "কোনো শর্ত নেই",
+    "B": "তড়িৎ ঋণাত্মকতার বড় পার্থক্য",
+    "C": "ছোট পার্থক্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "CO₂ এর বন্ধন কোণ —",
+   "options": {
+    "A": "১০৯.৫°",
+    "B": "১০৪.৫°",
+    "C": "১৮০°",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "NaCl এ সোডিয়াম ও ক্লোরিনের তড়িৎ ঋণাত্মকতার পার্থক্য —",
+   "options": {
+    "A": "বেশি",
+    "B": "শূন্য",
+    "C": "কোনোটিই নয়",
+    "D": "কম"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "NH₃ সূত্রে —",
+   "options": {
+    "A": "৩ N ও ১ H পরমাণু",
+    "B": "১ N ও ৩ H পরমাণু",
+    "C": "২ N ও ২ H পরমাণু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "আয়নিক যৌগ ভঙ্গুর — কারণ?",
+   "options": {
+    "A": "আকর্ষণ হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "আয়ন সরে গেলে বিকর্ষণ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "ত্রিবন্ধনের শক্তি দ্বিবন্ধনের চেয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বেশি",
+    "C": "কম",
+    "D": "সমান"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "কঠিন NaCl বিদ্যুৎ —",
+   "options": {
+    "A": "পরিবহন করে",
+    "B": "পরিবহন করে না",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "সমযোজী যৌগের সূত্র —",
+   "options": {
+    "A": "আয়ন দেখায়",
+    "B": "অণুর পরমাণু সংখ্যা দেখায়",
+    "C": "কিছুই দেখায় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "আয়নিক বন্ধনে ইলেকট্রনের স্থানান্তর —",
+   "options": {
+    "A": "শূন্য",
+    "B": "আংশিক",
+    "C": "কোনোটিই নয়",
+    "D": "সম্পূর্ণ"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "O₂ তে মুক্ত জোড় —",
+   "options": {
+    "A": "৬টি",
+    "B": "৪টি",
+    "C": "২টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "আয়নিক যৌগে স্তর সরে গেলে —",
+   "options": {
+    "A": "বন্ধন থাকে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বন্ধন ভেঙে যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "হাইড্রোজেন বন্ধনের ফলে পানির স্ফুটনাঙ্ক —",
+   "options": {
+    "A": "নিম্ন",
+    "B": "শূন্য",
+    "C": "কোনোটিই নয়",
+    "D": "উচ্চ"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "লবণ পানিতে দ্রবীভূত হয় — কারণ?",
+   "options": {
+    "A": "পানি অপোলার",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পানি পোলার"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "অপোলার দ্রাবক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বেনজিন, CCl₄",
+    "C": "পানি",
+    "D": "ইথানল"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "K ও Cl এর যোজ্যতা বিনিময়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "KCl হয়",
+    "C": "KCl₂ হয়",
+    "D": "K₂Cl হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "সমযোজী বন্ধনের ইলেকট্রন জোড় ভাগ —",
+   "options": {
+    "A": "সবসময় সমান",
+    "B": "কোনোটিই নয়",
+    "C": "সমান বা অসমান হতে পারে",
+    "D": "সবসময় অসমান"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "NaCl সূত্রে আগে —",
+   "options": {
+    "A": "Na",
+    "B": "যেকোনো",
+    "C": "কোনোটিই নয়",
+    "D": "Cl"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "CO₂ অণুর আকৃতি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কৌণিক",
+    "C": "পিরামিড",
+    "D": "সরলরৈখিক"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "আয়নিক বন্ধনে ধাতু —",
+   "options": {
+    "A": "ইলেকট্রন লাভ করে",
+    "B": "ইলেকট্রন ত্যাগ করে",
+    "C": "ইলেকট্রন ভাগ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "হাইড্রোজেন বন্ধন গঠন করে —",
+   "options": {
+    "A": "পানি, অ্যামোনিয়া",
+    "B": "কোনোটিই নয়",
+    "C": "NaCl",
+    "D": "লোহা"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "আয়নিক যৌগের গলনাঙ্ক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শূন্য",
+    "C": "নিম্ন",
+    "D": "উচ্চ"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "চিনি পানিতে দ্রবীভূত হলে —",
+   "options": {
+    "A": "অণু হিসেবে থাকে",
+    "B": "কিছুই হয় না",
+    "C": "কোনোটিই নয়",
+    "D": "আয়নে বিয়োজিত হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "গলিত আয়নিক যৌগে আয়ন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "মুক্তভাবে চলাচল করে",
+    "D": "স্থির থাকে"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "CH₄ তে কার্বন হাইড্রোজেনের সাথে —",
+   "options": {
+    "A": "৪টি বন্ধন গঠন করে",
+    "B": "কোনোটিই নয়",
+    "C": "৩টি বন্ধন গঠন করে",
+    "D": "২টি বন্ধন গঠন করে"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "Al ও O এর যোজ্যতা বিনিময়ে —",
+   "options": {
+    "A": "AlO হয়",
+    "B": "AlO₂ হয়",
+    "C": "Al₂O₃ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "পানির অস্বাভাবিক ধর্ম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হাইড্রোজেন বন্ধনের কারণে",
+    "C": "আয়নিক বন্ধনে",
+    "D": "ধাতব বন্ধনে"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "ক্যাটায়ন গঠন করে —",
+   "options": {
+    "A": "ধাতু",
+    "B": "নিষ্ক্রিয় গ্যাস",
+    "C": "অধাতু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "H₂O তে বন্ধন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পোলার",
+    "C": "আয়নিক",
+    "D": "অপোলার"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "লবণ মেশানো পানি বিদ্যুৎ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পরিবহন করে না",
+    "D": "পরিবহন করে"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "ইলেকট্রন জোড় পরস্পর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আকর্ষণ করে",
+    "C": "কিছুই করে না",
+    "D": "বিকর্ষণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "সম আধানের আয়ন —",
+   "options": {
+    "A": "আকর্ষণ করে",
+    "B": "বিকর্ষণ করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই করে না"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "NH₃ এর বন্ধন কোণ CH₄ এর চেয়ে কম — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মুক্ত জোড়ের বিকর্ষণ",
+    "C": "কিছুই না",
+    "D": "বন্ধন জোড়"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "আয়নিক যৌগে ক্যাটায়ন ও অ্যানায়ন —",
+   "options": {
+    "A": "পর্যায়ক্রমে সাজানো",
+    "B": "এলোমেলো",
+    "C": "আলাদা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "সমযোজী যৌগ সাধারণত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কঠিন শুধু",
+    "C": "ধাতু",
+    "D": "তরল বা গ্যাস"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "আয়নিক যৌগ পানিতে দ্রবীভূত হওয়ার কারণ —",
+   "options": {
+    "A": "পানির অ্যাপোলার প্রকৃতি",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পানির পোলার প্রকৃতি"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "সমযোজী যৌগের নামকরণ —",
+   "options": {
+    "A": "আয়ন অনুযায়ী",
+    "B": "অণুর গঠন অনুযায়ী",
+    "C": "কোনোটিই নয়",
+    "D": "রং অনুযায়ী"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "আয়নিক যৌগের স্ফুটনাঙ্ক —",
+   "options": {
+    "A": "উচ্চ",
+    "B": "শূন্য",
+    "C": "কোনোটিই নয়",
+    "D": "নিম্ন"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "পানিতে হাইড্রোজেন বন্ধন —",
+   "options": {
+    "A": "কখনো আছে",
+    "B": "আছে",
+    "C": "নেই",
+    "D": "কখনো নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "আয়নিক যৌগ পেটানো যায় না — কারণ?",
+   "options": {
+    "A": "আয়ন ভেঙে যায়",
+    "B": "কোনোটিই নয়",
+    "C": "আয়ন সরে যায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "Cl₂ সূত্রে —",
+   "options": {
+    "A": "২ Cl পরমাণু",
+    "B": "৩ Cl পরমাণু",
+    "C": "১ Cl পরমাণু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "আয়নিক যৌগ পানিতে —",
+   "options": {
+    "A": "দ্রবণীয়",
+    "B": "কিছুই না",
+    "C": "অদ্রবণীয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "দ্বিবন্ধন কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দুই জোড় ইলেকট্রন ভাগ",
+    "C": "তিন জোড় ইলেকট্রন ভাগ",
+    "D": "এক জোড় ইলেকট্রন ভাগ"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "সোডিয়াম ক্লোরাইডের বন্ধন —",
+   "options": {
+    "A": "আয়নিক",
+    "B": "ধাতব",
+    "C": "সমযোজী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়নিক বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "CO₂ তে ২ সংখ্যাটি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "C এর সংখ্যা",
+    "C": "মোট পরমাণু",
+    "D": "O এর সংখ্যা"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "HCl তে ক্লোরিনের আংশিক আধান —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "শূন্য",
+    "C": "ঋণাত্মক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "HCl সূত্রে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২ H ও ১ Cl পরমাণু",
+    "C": "১ H ও ২ Cl পরমাণু",
+    "D": "১ H ও ১ Cl পরমাণু"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "N₂ তে মুক্ত জোড় —",
+   "options": {
+    "A": "৬টি",
+    "B": "৪টি",
+    "C": "২টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "H₂ তে বন্ধন —",
+   "options": {
+    "A": "ত্রি",
+    "B": "একক",
+    "C": "কোনোটিই নয়",
+    "D": "দ্বি"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "সমযোজী বন্ধনের শর্ত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কোনো শর্ত নেই",
+    "C": "বড় পার্থক্য",
+    "D": "তড়িৎ ঋণাত্মকতার ছোট পার্থক্য"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "সমযোজী যৌগ পানিতে দ্রবীভূত হলেও —",
+   "options": {
+    "A": "আয়নে ভাঙে",
+    "B": "অণু হিসেবে থাকে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "NH₃ এর বন্ধন কোণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১০৭°",
+    "C": "১৮০°",
+    "D": "১০৪.৫°"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "একক বন্ধন কাকে বলে?",
+   "options": {
+    "A": "দুই জোড় ইলেকট্রন ভাগ",
+    "B": "কোনোটিই নয়",
+    "C": "তিন জোড় ইলেকট্রন ভাগ",
+    "D": "এক জোড় ইলেকট্রন ভাগ"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "সমযোজী বন্ধনে আধানযুক্ত কণা —",
+   "options": {
+    "A": "থাকে না",
+    "B": "থাকে",
+    "C": "কোনোটিই নয়",
+    "D": "সবসময় থাকে"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "সমযোজী যৌগের স্ফুটনাঙ্ক নিম্ন — কারণ?",
+   "options": {
+    "A": "দুর্বল আন্তঃআণবিক বল",
+    "B": "শক্তিশালী বল",
+    "C": "কোনো বল নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "H₂O তে ২ সংখ্যাটি —",
+   "options": {
+    "A": "H এর সংখ্যা",
+    "B": "O এর সংখ্যা",
+    "C": "মোট পরমাণু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "H₂O তে মুক্ত জোড় —",
+   "options": {
+    "A": "২টি",
+    "B": "কোনোটিই নয়",
+    "C": "৩টি",
+    "D": "১টি"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "O₂ তে বন্ধন জোড় —",
+   "options": {
+    "A": "১টি",
+    "B": "৩টি",
+    "C": "কোনোটিই নয়",
+    "D": "২টি (এক দ্বিবন্ধন)"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "সমযোজী বন্ধনে ইলেকট্রন জোড় —",
+   "options": {
+    "A": "লাভ হয়",
+    "B": "কোনোটিই নয়",
+    "C": "ত্যাগ হয়",
+    "D": "ভাগ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "H₂O এর বন্ধন কোণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১০৯.৫°",
+    "C": "১৮০°",
+    "D": "১০৪.৫°"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "সমযোজী যৌগ নরম — কারণ?",
+   "options": {
+    "A": "শক্তিশালী বল",
+    "B": "কোনোটিই নয়",
+    "C": "দুর্বল আন্তঃআণবিক বল",
+    "D": "কোনো বল নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "সমযোজী যৌগের উদাহরণ —",
+   "options": {
+    "A": "H₂O, CH₄, CO₂",
+    "B": "NaCl, MgO",
+    "C": "কোনোটিই নয়",
+    "D": "CaO, KCl"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "অণুতে আধান না থাকায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বিদ্যুৎ পরিবহন হয়",
+    "C": "কোনোটিই নয়",
+    "D": "বিদ্যুৎ পরিবহন হয় না"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "ইলেকট্রন জোড় বিকর্ষণ তত্ত্ব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভর ব্যাখ্যা করে",
+    "C": "রং ব্যাখ্যা করে",
+    "D": "অণুর আকৃতি ব্যাখ্যা করে"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "সমযোজী বন্ধন কাকে বলে?",
+   "options": {
+    "A": "ইলেকট্রন ভাগের বন্ধন",
+    "B": "ইলেকট্রন স্থানান্তরের বন্ধন",
+    "C": "ইলেকট্রন সাগরের বন্ধন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "মিথেনের বন্ধন —",
+   "options": {
+    "A": "আয়নিক",
+    "B": "কোনোটিই নয়",
+    "C": "সমযোজী",
+    "D": "ধাতব"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "O₂ সূত্রে —",
+   "options": {
+    "A": "১ O পরমাণু",
+    "B": "কোনোটিই নয়",
+    "C": "২ O পরমাণু",
+    "D": "৩ O পরমাণু"
+   },
+   "correctAnswer": "C",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "কার্বন ডাই-অক্সাইডের বন্ধন —",
+   "options": {
+    "A": "সমযোজী",
+    "B": "ধাতব",
+    "C": "কোনোটিই নয়",
+    "D": "আয়নিক"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "NH₃ তে নাইট্রোজেনের মুক্ত জোড় —",
+   "options": {
+    "A": "১টি",
+    "B": "কোনোটিই নয়",
+    "C": "২টি",
+    "D": "৩টি"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "অপোলার সমযোজী যৌগ অপোলার দ্রাবকে —",
+   "options": {
+    "A": "দ্রবীভূত হয় না",
+    "B": "দ্রবীভূত হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "H₂O অণুর আকৃতি —",
+   "options": {
+    "A": "কৌণিক",
+    "B": "কোনোটিই নয়",
+    "C": "সরলরৈখিক",
+    "D": "পিরামিড"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "একক বন্ধনের দৈর্ঘ্য দ্বিবন্ধনের চেয়ে —",
+   "options": {
+    "A": "কম",
+    "B": "কোনোটিই নয়",
+    "C": "সমান",
+    "D": "বেশি"
+   },
+   "correctAnswer": "D",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "সমযোজী বন্ধনের ফল —",
+   "options": {
+    "A": "সমযোজী যৌগ",
+    "B": "কোনোটিই নয়",
+    "C": "আয়নিক যৌগ",
+    "D": "ধাতু"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "ক্লোরিন গ্যাসের বন্ধন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সমযোজী",
+    "C": "আয়নিক",
+    "D": "ধাতব"
+   },
+   "correctAnswer": "B",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "সমযোজী বন্ধনে ইলেকট্রনের ভাগ —",
+   "options": {
+    "A": "সম্পূর্ণ বা আংশিক",
+    "B": "কোনোটিই নয়",
+    "C": "স্থানান্তর",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "সমযোজী বন্ধন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  }
+ ],
+ "answerBox": {
+  "1": "C",
+  "2": "C",
+  "3": "C",
+  "4": "D",
+  "5": "D",
+  "6": "A",
+  "7": "C",
+  "8": "B",
+  "9": "B",
+  "10": "B",
+  "11": "D",
+  "12": "C",
+  "13": "B",
+  "14": "C",
+  "15": "B",
+  "16": "C",
+  "17": "D",
+  "18": "A",
+  "19": "C",
+  "20": "A",
+  "21": "C",
+  "22": "C",
+  "23": "B",
+  "24": "A",
+  "25": "C",
+  "26": "A",
+  "27": "A",
+  "28": "C",
+  "29": "D",
+  "30": "B",
+  "31": "B",
+  "32": "D",
+  "33": "C",
+  "34": "A",
+  "35": "B",
+  "36": "D",
+  "37": "C",
+  "38": "C",
+  "39": "B",
+  "40": "A",
+  "41": "B",
+  "42": "D",
+  "43": "C",
+  "44": "A",
+  "45": "B",
+  "46": "C",
+  "47": "B",
+  "48": "C",
+  "49": "A",
+  "50": "D",
+  "51": "D",
+  "52": "B",
+  "53": "A",
+  "54": "B",
+  "55": "C",
+  "56": "B",
+  "57": "C",
+  "58": "A",
+  "59": "A",
+  "60": "C",
+  "61": "C",
+  "62": "C",
+  "63": "C",
+  "64": "B",
+  "65": "D",
+  "66": "C",
+  "67": "C",
+  "68": "B",
+  "69": "D",
+  "70": "D",
+  "71": "D",
+  "72": "A",
+  "73": "A",
+  "74": "A",
+  "75": "D",
+  "76": "A",
+  "77": "D",
+  "78": "C",
+  "79": "A",
+  "80": "D",
+  "81": "D",
+  "82": "C",
+  "83": "C",
+  "84": "A",
+  "85": "C",
+  "86": "C",
+  "87": "D",
+  "88": "A",
+  "89": "B",
+  "90": "A",
+  "91": "D",
+  "92": "C",
+  "93": "A",
+  "94": "D",
+  "95": "B",
+  "96": "B",
+  "97": "B",
+  "98": "A",
+  "99": "A",
+  "100": "B",
+  "101": "A",
+  "102": "D",
+  "103": "C",
+  "104": "A",
+  "105": "C",
+  "106": "A",
+  "107": "C",
+  "108": "D",
+  "109": "B",
+  "110": "D",
+  "111": "C",
+  "112": "D",
+  "113": "D",
+  "114": "B",
+  "115": "D",
+  "116": "C",
+  "117": "A",
+  "118": "B",
+  "119": "A",
+  "120": "D",
+  "121": "A",
+  "122": "B",
+  "123": "D",
+  "124": "C",
+  "125": "C",
+  "126": "B",
+  "127": "B",
+  "128": "C",
+  "129": "C",
+  "130": "D",
+  "131": "C",
+  "132": "C",
+  "133": "A",
+  "134": "B",
+  "135": "C",
+  "136": "A",
+  "137": "C",
+  "138": "D",
+  "139": "D",
+  "140": "D",
+  "141": "A",
+  "142": "A",
+  "143": "C",
+  "144": "A",
+  "145": "B",
+  "146": "C",
+  "147": "D",
+  "148": "A",
+  "149": "A",
+  "150": "B",
+  "151": "D",
+  "152": "A",
+  "153": "D",
+  "154": "D",
+  "155": "B",
+  "156": "B",
+  "157": "C",
+  "158": "A",
+  "159": "D",
+  "160": "D",
+  "161": "D",
+  "162": "B",
+  "163": "C",
+  "164": "A",
+  "165": "C",
+  "166": "A",
+  "167": "A",
+  "168": "C",
+  "169": "C",
+  "170": "A",
+  "171": "B",
+  "172": "C",
+  "173": "B",
+  "174": "D",
+  "175": "C",
+  "176": "A",
+  "177": "D",
+  "178": "D",
+  "179": "D",
+  "180": "B",
+  "181": "D",
+  "182": "A",
+  "183": "A",
+  "184": "A",
+  "185": "B",
+  "186": "D",
+  "187": "C",
+  "188": "C",
+  "189": "D",
+  "190": "A",
+  "191": "B",
+  "192": "B",
+  "193": "A",
+  "194": "A",
+  "195": "C",
+  "196": "A",
+  "197": "B",
+  "198": "B",
+  "199": "C",
+  "200": "C",
+  "201": "A",
+  "202": "A",
+  "203": "A",
+  "204": "A",
+  "205": "A",
+  "206": "B",
+  "207": "B",
+  "208": "D",
+  "209": "D",
+  "210": "D",
+  "211": "D",
+  "212": "B",
+  "213": "B",
+  "214": "C",
+  "215": "B",
+  "216": "A",
+  "217": "A",
+  "218": "B",
+  "219": "B",
+  "220": "A",
+  "221": "A",
+  "222": "D",
+  "223": "B",
+  "224": "A",
+  "225": "C",
+  "226": "A",
+  "227": "B",
+  "228": "A",
+  "229": "A",
+  "230": "A",
+  "231": "A",
+  "232": "C",
+  "233": "B",
+  "234": "C",
+  "235": "C",
+  "236": "D",
+  "237": "C",
+  "238": "A",
+  "239": "D",
+  "240": "D",
+  "241": "B",
+  "242": "C",
+  "243": "D",
+  "244": "C",
+  "245": "D",
+  "246": "C",
+  "247": "A",
+  "248": "A",
+  "249": "C",
+  "250": "D",
+  "251": "D",
+  "252": "D",
+  "253": "D",
+  "254": "D",
+  "255": "B",
+  "256": "A",
+  "257": "A",
+  "258": "B",
+  "259": "C",
+  "260": "A",
+  "261": "B",
+  "262": "A",
+  "263": "A",
+  "264": "C",
+  "265": "C",
+  "266": "C",
+  "267": "C",
+  "268": "C",
+  "269": "D",
+  "270": "A",
+  "271": "D",
+  "272": "B",
+  "273": "B",
+  "274": "B",
+  "275": "A",
+  "276": "C",
+  "277": "C",
+  "278": "C",
+  "279": "A",
+  "280": "B",
+  "281": "D",
+  "282": "C",
+  "283": "B",
+  "284": "D",
+  "285": "A",
+  "286": "D",
+  "287": "D",
+  "288": "B",
+  "289": "C",
+  "290": "B",
+  "291": "B",
+  "292": "C",
+  "293": "A",
+  "294": "B",
+  "295": "D",
+  "296": "B",
+  "297": "B",
+  "298": "B",
+  "299": "D",
+  "300": "B",
+  "301": "D",
+  "302": "D",
+  "303": "D",
+  "304": "B",
+  "305": "B",
+  "306": "C",
+  "307": "A",
+  "308": "D",
+  "309": "B",
+  "310": "A",
+  "311": "D",
+  "312": "A",
+  "313": "C",
+  "314": "A",
+  "315": "C",
+  "316": "B",
+  "317": "A",
+  "318": "B",
+  "319": "D",
+  "320": "D",
+  "321": "B",
+  "322": "B",
+  "323": "A",
+  "324": "D",
+  "325": "D",
+  "326": "B",
+  "327": "A",
+  "328": "B",
+  "329": "A",
+  "330": "A",
+  "331": "A",
+  "332": "B",
+  "333": "A",
+  "334": "D",
+  "335": "C",
+  "336": "D",
+  "337": "C",
+  "338": "B",
+  "339": "D",
+  "340": "B",
+  "341": "B",
+  "342": "D",
+  "343": "A",
+  "344": "A",
+  "345": "A",
+  "346": "A",
+  "347": "D",
+  "348": "D",
+  "349": "D",
+  "350": "C",
+  "351": "A",
+  "352": "D",
+  "353": "D",
+  "354": "A",
+  "355": "C",
+  "356": "C",
+  "357": "A",
+  "358": "A",
+  "359": "B",
+  "360": "A",
+  "361": "D",
+  "362": "A",
+  "363": "B",
+  "364": "A"
+ }
+}
