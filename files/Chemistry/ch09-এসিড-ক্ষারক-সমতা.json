@@ -1,0 +1,7134 @@
+{
+ "subject": "রসায়ন",
+ "chapterNo": 9,
+ "chapter": "এসিড-ক্ষারক সমতা",
+ "questions": [
+  {
+   "question": "অম্লের দৈনন্দিন ব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "পরিষ্কারে, খাদ্যে"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "লালার pH —",
+   "options": {
+    "A": "১",
+    "B": "প্রায় ৬.৫–৭",
+    "C": "কোনোটিই নয়",
+    "D": "১৪"
+   },
+   "correctAnswer": "B",
+   "topic": "pH ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "ক্ষারকের স্বাদ —",
+   "options": {
+    "A": "মিষ্টি",
+    "B": "তিতা",
+    "C": "কোনোটিই নয়",
+    "D": "টক"
+   },
+   "correctAnswer": "B",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "প্রশমনে লবণ তৈরি হয় —",
+   "options": {
+    "A": "ধাতু ও অম্লমূলের সংযোগে",
+    "B": "H ও O সংযোগে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "CaCO₃ —",
+   "options": {
+    "A": "ভিনেগার",
+    "B": "কোনোটিই নয়",
+    "C": "চুনাপাথর, মার্বেল, খড়ি",
+    "D": "খাবার লবণ"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "লিটমাস দ্রবণ ক্ষারে —",
+   "options": {
+    "A": "বর্ণহীন",
+    "B": "কোনোটিই নয়",
+    "C": "লাল",
+    "D": "নীল"
+   },
+   "correctAnswer": "D",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "অতিরিক্ত CO₂ ত্যাগে —",
+   "options": {
+    "A": "pH কমে",
+    "B": "কোনোটিই নয়",
+    "C": "pH বাড়ে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "SO₂ বাতাসে জারিত হয়ে —",
+   "options": {
+    "A": "SO হয়",
+    "B": "S হয়",
+    "C": "কোনোটিই নয়",
+    "D": "SO₃ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "অ্যাসিড বৃষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "H₃PO₄ এ H —",
+   "options": {
+    "A": "৩টি",
+    "B": "কোনোটিই নয়",
+    "C": "১টি",
+    "D": "২টি"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "নিরপেক্ষ দ্রবণে H⁺ ও OH⁻ —",
+   "options": {
+    "A": "সমান",
+    "B": "OH⁻ বেশি",
+    "C": "H⁺ বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "CaO + H₂O → ?",
+   "options": {
+    "A": "CaCO₃",
+    "B": "CaCl₂",
+    "C": "Ca(OH)₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "ক্ষার + অম্ল → ?",
+   "options": {
+    "A": "লবণ + পানি",
+    "B": "লবণ + O₂",
+    "C": "কোনোটিই নয়",
+    "D": "লবণ + H₂"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "লবণ পানিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সব অদ্রবণীয়",
+    "C": "দ্রবণীয় ও অদ্রবণীয় দুই ধরনের",
+    "D": "সব দ্রবণীয়"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "লিটমাস পাওয়া যায় —",
+   "options": {
+    "A": "পাথর থেকে",
+    "B": "কোনোটিই নয়",
+    "C": "ফুল থেকে",
+    "D": "লাইকেন থেকে"
+   },
+   "correctAnswer": "D",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "কিডনি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রক্তের pH নিয়ন্ত্রণ করে",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "অ্যাসিড বৃষ্টির কারণ —",
+   "options": {
+    "A": "SO₂ ও NOx",
+    "B": "N₂",
+    "C": "O₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অ্যাসিড বৃষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "ল্যাবরেটরিতে অম্ল ব্যবহারে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিরাপত্তা চশমা",
+    "C": "খালি চোখ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "pH ৭ মানে দ্রবণ —",
+   "options": {
+    "A": "নিরপেক্ষ",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষারীয়",
+    "D": "অম্লীয়"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "ক্ষারকের স্পর্শে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পিচ্ছিল লাগে",
+    "C": "টক লাগে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "HCl + NaOH → ?",
+   "options": {
+    "A": "NaOH + HCl",
+    "B": "কোনোটিই নয়",
+    "C": "NaCl + H₂O",
+    "D": "NaCl + H₂"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "লবণে ধাতুর আয়ন —",
+   "options": {
+    "A": "ঋণাত্মক",
+    "B": "ধনাত্মক (ক্যাটায়ন)",
+    "C": "কোনোটিই নয়",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "B",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "মিথাইল অরেঞ্জ ক্ষারে —",
+   "options": {
+    "A": "নীল",
+    "B": "হলুদ",
+    "C": "কোনোটিই নয়",
+    "D": "লাল"
+   },
+   "correctAnswer": "B",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "বাফার দ্রবণ —",
+   "options": {
+    "A": "pH বদলায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "pH স্থির রাখে"
+   },
+   "correctAnswer": "D",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "সাধারণ বৃষ্টির pH —",
+   "options": {
+    "A": "৮",
+    "B": "কোনোটিই নয়",
+    "C": "প্রায় ৫.৬",
+    "D": "৭"
+   },
+   "correctAnswer": "C",
+   "topic": "অ্যাসিড বৃষ্টি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "দুর্বল অম্ল কাকে বলে?",
+   "options": {
+    "A": "অ-আয়নিত",
+    "B": "আংশিক আয়নিত অম্ল",
+    "C": "কোনোটিই নয়",
+    "D": "সম্পূর্ণ আয়নিত অম্ল"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "pH কমলে অম্লত্ব —",
+   "options": {
+    "A": "কমে",
+    "B": "শূন্য",
+    "C": "বাড়ে",
+    "D": "একই"
+   },
+   "correctAnswer": "C",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "সাবানে ব্যবহৃত —",
+   "options": {
+    "A": "H₂SO₄",
+    "B": "NaOH বা KOH",
+    "C": "HCl",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "কারখানার ক্ষারীয় বর্জ্য শোধনে —",
+   "options": {
+    "A": "ক্ষার ব্যবহৃত হয়",
+    "B": "অম্ল ব্যবহৃত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "NH₄NO₃ —",
+   "options": {
+    "A": "সোডিয়াম নাইট্রেট",
+    "B": "অ্যামোনিয়াম নাইট্রেট",
+    "C": "কোনোটিই নয়",
+    "D": "অ্যামোনিয়াম ক্লোরাইড"
+   },
+   "correctAnswer": "B",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "নির্দেশকের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "NaCl",
+    "C": "লিটমাস, মিথাইল অরেঞ্জ, ফেনলফথালিন",
+    "D": "পানি"
+   },
+   "correctAnswer": "C",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "শরীরের বাফার —",
+   "options": {
+    "A": "নেই",
+    "B": "জীবন রক্ষায় গুরুত্বপূর্ণ",
+    "C": "কোনোটিই নয়",
+    "D": "অগুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "B",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "অ্যাসিড বৃষ্টিতে মার্বেল ক্ষয় হয় — কারণ?",
+   "options": {
+    "A": "CaCO₃ অম্লে দ্রবীভূত হয়",
+    "B": "কিছুই না",
+    "C": "CaCO₃ ক্ষারে দ্রবীভূত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অ্যাসিড বৃষ্টি",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "অম্ল ধাতব অক্সাইডের সাথে —",
+   "options": {
+    "A": "লবণ ও H₂",
+    "B": "কোনোটিই নয়",
+    "C": "লবণ ও পানি",
+    "D": "লবণ ও O₂"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "সাবানের pH —",
+   "options": {
+    "A": "৯–১০",
+    "B": "৭",
+    "C": "১",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "সাবান —",
+   "options": {
+    "A": "নিরপেক্ষ",
+    "B": "অম্লীয়",
+    "C": "কোনোটিই নয়",
+    "D": "ক্ষারীয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "পোকার কামড়ে অম্লীয় লালা প্রশমনে —",
+   "options": {
+    "A": "অম্ল লোশন",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষার লোশন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "NH₄Cl —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যামোনিয়াম ক্লোরাইড",
+    "C": "অ্যামোনিয়াম নাইট্রেট",
+    "D": "অ্যামোনিয়াম সালফেট"
+   },
+   "correctAnswer": "B",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "অজানা দ্রবণে লাল লিটমাস নীল হলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষার",
+    "C": "অম্ল",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "B",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "রক্তে CO₂ বাড়লে —",
+   "options": {
+    "A": "pH বাড়ে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "pH কমে (অম্লীয়)"
+   },
+   "correctAnswer": "D",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "অ্যাসিড বৃষ্টি রোধে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আরও দূষণ",
+    "C": "কিছুই না",
+    "D": "দূষণ নিয়ন্ত্রণ"
+   },
+   "correctAnswer": "D",
+   "topic": "অ্যাসিড বৃষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "CH₃COOH —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফরমিক অম্ল",
+    "C": "অ্যাসিটিক অম্ল",
+    "D": "অক্সালিক অম্ল"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "তীব্র ক্ষারকের pH —",
+   "options": {
+    "A": "কম",
+    "B": "৭",
+    "C": "কোনোটিই নয়",
+    "D": "বেশি (১১–১৪)"
+   },
+   "correctAnswer": "D",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "ডিটারজেন্ট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষারীয়",
+    "C": "অম্লীয়",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "B",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "অম্ল-ক্ষার টাইট্রেশনে —",
+   "options": {
+    "A": "ঘনমাত্রা নির্ণয় হয়",
+    "B": "কোনোটিই নয়",
+    "C": "তাপ নির্ণয় হয়",
+    "D": "ভর নির্ণয় হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "ক্ষারীয় লবণের pH —",
+   "options": {
+    "A": "৭ এর বেশি",
+    "B": "কোনোটিই নয়",
+    "C": "৭",
+    "D": "৭ এর কম"
+   },
+   "correctAnswer": "A",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "লিটমাসের রং —",
+   "options": {
+    "A": "সবুজ ও হলুদ",
+    "B": "কোনোটিই নয়",
+    "C": "নীল ও লাল",
+    "D": "কমলা"
+   },
+   "correctAnswer": "C",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "এসিড-ক্ষারক সমতা বজায় রাখা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জরুরি নয়",
+    "C": "পরিবেশ ও স্বাস্থ্যের জন্য জরুরি",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "অ্যাসিড বৃষ্টির ক্ষতি —",
+   "options": {
+    "A": "উপকার",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "মাটি, পানি, ভবন, উদ্ভিদ"
+   },
+   "correctAnswer": "D",
+   "topic": "অ্যাসিড বৃষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "Zn + H₂SO₄ → ?",
+   "options": {
+    "A": "ZnSO₄ + O₂",
+    "B": "কোনোটিই নয়",
+    "C": "ZnSO₄ + H₂",
+    "D": "ZnO + H₂"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "বিশুদ্ধ পানির pH —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "০",
+    "C": "৭",
+    "D": "১৪"
+   },
+   "correctAnswer": "C",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "চুন (CaO) —",
+   "options": {
+    "A": "অম্ল",
+    "B": "লবণ",
+    "C": "ক্ষারক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "কারখানার অম্লীয় বর্জ্য শোধনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "চুন ব্যবহৃত হয়",
+    "D": "অম্ল ব্যবহৃত হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "খাদ্য সংরক্ষণে লবণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জীবাণু বাড়ায়",
+    "C": "জীবাণু রোধ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "অজানা দ্রবণে নীল লিটমাস লাল হলে —",
+   "options": {
+    "A": "ক্ষার",
+    "B": "কোনোটিই নয়",
+    "C": "অম্ল",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "C",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "রসায়ন শিল্পে অম্ল-ক্ষার-লবণ —",
+   "options": {
+    "A": "অপরিহার্য",
+    "B": "কোনোটিই নয়",
+    "C": "ঐচ্ছিক",
+    "D": "অপ্রয়োজনীয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "SO₂ + পানি → ?",
+   "options": {
+    "A": "H₂SO₄",
+    "B": "H₂SO₃",
+    "C": "H₂S",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অ্যাসিড বৃষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "অম্ল হাতে নেওয়ার নিয়ম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "খালি হাতে",
+    "C": "কোনোটিই নয়",
+    "D": "গ্লাভস পরা"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "লেবুর রসের pH —",
+   "options": {
+    "A": "৭",
+    "B": "কোনোটিই নয়",
+    "C": "১৩",
+    "D": "প্রায় ২"
+   },
+   "correctAnswer": "D",
+   "topic": "pH ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "ক্ষারে OH⁻ এর উৎস —",
+   "options": {
+    "A": "লবণ",
+    "B": "পানি",
+    "C": "ক্ষারের OH গুচ্ছ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "প্রশমনে অম্লের —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "H⁺ ও ক্ষারের OH⁻ মিলে পানি হয়",
+    "C": "H⁺ ও H⁻ মিলে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "KNO₃ নাম —",
+   "options": {
+    "A": "পটাসিয়াম ক্লোরাইড",
+    "B": "পটাসিয়াম সালফেট",
+    "C": "কোনোটিই নয়",
+    "D": "পটাসিয়াম নাইট্রেট"
+   },
+   "correctAnswer": "D",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "প্রশমন টাইট্রেশনে ব্যবহৃত নির্দেশক —",
+   "options": {
+    "A": "লবণ",
+    "B": "পানি",
+    "C": "কোনোটিই নয়",
+    "D": "ফেনলফথালিন বা মিথাইল অরেঞ্জ"
+   },
+   "correctAnswer": "D",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "মাটির pH পরিমাপে —",
+   "options": {
+    "A": "pH মিটার/কিট",
+    "B": "ব্যারোমিটার",
+    "C": "থার্মোমিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "অ্যাসিড বৃষ্টি কাকে বলে?",
+   "options": {
+    "A": "ক্ষারীয় বৃষ্টি",
+    "B": "অম্লীয় বৃষ্টির পানি",
+    "C": "কোনোটিই নয়",
+    "D": "বিশুদ্ধ বৃষ্টি"
+   },
+   "correctAnswer": "B",
+   "topic": "অ্যাসিড বৃষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "HCl —",
+   "options": {
+    "A": "হাইড্রোক্লোরিক অম্ল",
+    "B": "কোনোটিই নয়",
+    "C": "নাইট্রিক অম্ল",
+    "D": "সালফিউরিক অম্ল"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "নিরপেক্ষ দ্রবণে pH —",
+   "options": {
+    "A": "৭",
+    "B": "০",
+    "C": "১৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "ক্ষারকের ধর্ম —",
+   "options": {
+    "A": "তিতা, লিটমাস নীল",
+    "B": "মিষ্টি",
+    "C": "কোনোটিই নয়",
+    "D": "টক, লিটমাস লাল"
+   },
+   "correctAnswer": "A",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "বোলতা/ভিমরুলের হুলে —",
+   "options": {
+    "A": "অম্লীয় বিষ",
+    "B": "ক্ষারীয় বিষ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "প্লাস্টার অব প্যারিসের ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হাড় জোড়া, মূর্তি তৈরিতে",
+    "C": "খাদ্যে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "লাল কপির রস ক্ষারে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সবুজ",
+    "C": "হলুদ",
+    "D": "লাল"
+   },
+   "correctAnswer": "B",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "নদীর পানি অম্লীয় হলে —",
+   "options": {
+    "A": "উপকার",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "জলজ প্রাণী মরে"
+   },
+   "correctAnswer": "D",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "অ্যাসিড বৃষ্টি মার্বেল ভবনকে —",
+   "options": {
+    "A": "ক্ষয় করে",
+    "B": "কিছুই না",
+    "C": "রক্ষা করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অ্যাসিড বৃষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "অম্ল ধাতব পাত্রে রাখা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "উচিত",
+    "C": "উচিত নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "অম্ল pH —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৭ এর বেশি",
+    "C": "৭ এর কম",
+    "D": "৭ সমান"
+   },
+   "correctAnswer": "C",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "ক্ষার ত্বকে লাগলে —",
+   "options": {
+    "A": "ঠান্ডা",
+    "B": "কোনোটিই নয়",
+    "C": "পিচ্ছিল ও জ্বালা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "পিপেট ব্যবহার হয় —",
+   "options": {
+    "A": "নির্দিষ্ট আয়তন নিতে",
+    "B": "কোনোটিই নয়",
+    "C": "ভর নিতে",
+    "D": "তাপ নিতে"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "কপার সালফেটের ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কীটনাশক, ইলেকট্রোপ্লেটিংয়ে",
+    "C": "খাদ্যে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "কৃত্রিম নির্দেশক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হলুদ",
+    "C": "লিটমাস",
+    "D": "মিথাইল অরেঞ্জ, ফেনলফথালিন"
+   },
+   "correctAnswer": "D",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "প্রশমনে pH —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৭ হয়",
+    "C": "০ হয়",
+    "D": "১৪ হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "SO₂ এর উৎস —",
+   "options": {
+    "A": "জীবাশ্ম জ্বালানির দহন",
+    "B": "শ্বসন",
+    "C": "সালোকসংশ্লেষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অ্যাসিড বৃষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "অম্ল পাতলা করতে —",
+   "options": {
+    "A": "অম্লকে পানিতে ঢালতে হয়",
+    "B": "পানি অম্লে ঢালতে হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "ক্ষারক pH —",
+   "options": {
+    "A": "৭ এর বেশি",
+    "B": "৭ সমান",
+    "C": "৭ এর কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "ক্ষারকে থাকা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "OH গুচ্ছ",
+    "C": "Cl শুধু",
+    "D": "H পরমাণু"
+   },
+   "correctAnswer": "B",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "প্রশমন বিক্রিয়া কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অম্ল+পানি→লবণ",
+    "C": "অম্ল+ক্ষার→লবণ+পানি",
+    "D": "ক্ষার+লবণ→পানি"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "NaHCO₃ অ্যান্টাসিড হিসেবে —",
+   "options": {
+    "A": "অম্ল প্রশমিত করে",
+    "B": "কোনোটিই নয়",
+    "C": "অম্ল বাড়ায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "ফেনলফথালিন নিরপেক্ষে —",
+   "options": {
+    "A": "গোলাপি",
+    "B": "লাল",
+    "C": "কোনোটিই নয়",
+    "D": "বর্ণহীন"
+   },
+   "correctAnswer": "D",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "অ্যাসিডোসিস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "রক্ত অতিরিক্ত ক্ষারীয়",
+    "D": "রক্ত অতিরিক্ত অম্লীয়"
+   },
+   "correctAnswer": "D",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "NO₂ + পানি → ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "NH₃",
+    "C": "HNO₃ ও HNO₂",
+    "D": "N₂"
+   },
+   "correctAnswer": "C",
+   "topic": "অ্যাসিড বৃষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "অধাতুর অক্সাইড —",
+   "options": {
+    "A": "নিরপেক্ষ",
+    "B": "ক্ষারীয়",
+    "C": "কোনোটিই নয়",
+    "D": "অম্লীয়"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "pH ২ ও pH ৫ এর H⁺ পার্থক্য —",
+   "options": {
+    "A": "১০ গুণ",
+    "B": "১০০ গুণ",
+    "C": "কোনোটিই নয়",
+    "D": "১০০০ গুণ"
+   },
+   "correctAnswer": "D",
+   "topic": "pH ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "ক্ষারকের সাবধানতা —",
+   "options": {
+    "A": "ত্বক ক্ষয়কারী",
+    "B": "কোনোটিই নয়",
+    "C": "নিরাপদ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "বর্জ্য শোধন —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "জরুরি নয়",
+    "C": "পরিবেশ রক্ষায় জরুরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "লবণ উৎপাদনে অম্ল+ক্ষার —",
+   "options": {
+    "A": "লবণ + CO₂",
+    "B": "কোনোটিই নয়",
+    "C": "লবণ + H₂",
+    "D": "লবণ + পানি"
+   },
+   "correctAnswer": "D",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "ফেনলফথালিন অম্লে —",
+   "options": {
+    "A": "লাল",
+    "B": "কোনোটিই নয়",
+    "C": "গোলাপি",
+    "D": "বর্ণহীন"
+   },
+   "correctAnswer": "D",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "রক্তের pH স্থির থাকে —",
+   "options": {
+    "A": "৮–৯",
+    "B": "৬–৭",
+    "C": "কোনোটিই নয়",
+    "D": "৭.৩৫–৭.৪৫"
+   },
+   "correctAnswer": "D",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "SO₃ + পানি → ?",
+   "options": {
+    "A": "H₂SO₄",
+    "B": "কোনোটিই নয়",
+    "C": "H₂S",
+    "D": "H₂SO₃"
+   },
+   "correctAnswer": "A",
+   "topic": "অ্যাসিড বৃষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "অম্লে ফেনলফথালিন —",
+   "options": {
+    "A": "গোলাপি",
+    "B": "কোনোটিই নয়",
+    "C": "বর্ণহীন",
+    "D": "নীল"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "pH ৫ এর দ্রবণ —",
+   "options": {
+    "A": "তীব্র অম্ল",
+    "B": "দুর্বল অম্ল",
+    "C": "ক্ষার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "ক্ষারকের উদাহরণ —",
+   "options": {
+    "A": "NaOH, KOH, Ca(OH)₂",
+    "B": "NaCl",
+    "C": "কোনোটিই নয়",
+    "D": "HCl, H₂SO₄"
+   },
+   "correctAnswer": "A",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "প্রশমনে উৎপন্ন হয় —",
+   "options": {
+    "A": "শুধু পানি",
+    "B": "লবণ ও পানি",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু লবণ"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "(NH₄)₂SO₄ —",
+   "options": {
+    "A": "সোডিয়াম সালফেট",
+    "B": "অ্যামোনিয়াম সালফেট",
+    "C": "কোনোটিই নয়",
+    "D": "অ্যামোনিয়াম ক্লোরাইড"
+   },
+   "correctAnswer": "B",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "হলুদ অম্লে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লাল",
+    "C": "নীল",
+    "D": "রং বদলায় না (হলুদ)"
+   },
+   "correctAnswer": "D",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "প্রশমনে অম্লের H⁺ ও ক্ষারের OH⁻ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ধ্বংস হয়",
+    "C": "আলাদা থাকে",
+    "D": "মিলে পানি হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "অ্যাসিড বৃষ্টিতে —",
+   "options": {
+    "A": "pH ৫.৬ এর কম",
+    "B": "pH ৮",
+    "C": "pH ৭",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অ্যাসিড বৃষ্টি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "অম্লে থাকা —",
+   "options": {
+    "A": "OH গুচ্ছ",
+    "B": "H পরমাণু",
+    "C": "Cl শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "অম্বলে অ্যান্টাসিড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লবণ",
+    "C": "অম্ল",
+    "D": "ক্ষারক"
+   },
+   "correctAnswer": "D",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "তীব্র ক্ষারক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "NH₄OH",
+    "C": "NaOH, KOH",
+    "D": "Ca(OH)₂"
+   },
+   "correctAnswer": "C",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "NaOH দ্রবণের ঘনমাত্রা নির্ণয়ে —",
+   "options": {
+    "A": "পানি",
+    "B": "কোনোটিই নয়",
+    "C": "HCl দ্রবণ ব্যবহৃত হয়",
+    "D": "NaCl"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "ব্লিচিং পাউডার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "Ca(OCl)Cl",
+    "C": "NaCl",
+    "D": "CaCO₃"
+   },
+   "correctAnswer": "B",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "ল্যাবরেটরিতে অম্ল-ক্ষার শনাক্তে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "স্বাদ নেওয়া হয়",
+    "C": "কোনোটিই নয়",
+    "D": "নির্দেশক ব্যবহৃত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "অম্লত্ব ও ক্ষারত্বের ভারসাম্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হোমিওস্ট্যাসিসের অংশ",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "অম্লের H⁺ সংখ্যা —",
+   "options": {
+    "A": "কখনোই না",
+    "B": "কোনোটিই নয়",
+    "C": "সবসময় ১",
+    "D": "একাধিক হতে পারে"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "pH কমলে H⁺ ঘনমাত্রা —",
+   "options": {
+    "A": "কমে",
+    "B": "শূন্য",
+    "C": "একই",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "ক্ষারীয় অক্সাইড —",
+   "options": {
+    "A": "Na₂O, CaO",
+    "B": "কোনোটিই নয়",
+    "C": "CO₂, SO₂",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "pH ৭ এ আনা হয় —",
+   "options": {
+    "A": "বর্জ্য শোধনে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "NaCl এ অ্যানায়ন —",
+   "options": {
+    "A": "OH⁻",
+    "B": "কোনোটিই নয়",
+    "C": "Cl⁻",
+    "D": "Na⁺"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "নির্দেশক কাকে বলে?",
+   "options": {
+    "A": "রং বদলায় না",
+    "B": "লবণ",
+    "C": "কোনোটিই নয়",
+    "D": "রং বদলে অম্ল-ক্ষার চেনায়"
+   },
+   "correctAnswer": "D",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "অল্প অম্ল বা ক্ষার যোগে বাফার —",
+   "options": {
+    "A": "pH প্রায় অপরিবর্তিত রাখে",
+    "B": "কিছুই না",
+    "C": "pH বদলায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "অম্লে পানি ঢালা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বিপজ্জনক",
+    "D": "নিরাপদ"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "pH মাপা হয় —",
+   "options": {
+    "A": "pH মিটার দিয়ে",
+    "B": "ব্যারোমিটার দিয়ে",
+    "C": "থার্মোমিটার দিয়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "KOH —",
+   "options": {
+    "A": "পটাসিয়াম হাইড্রোক্সাইড",
+    "B": "সোডিয়াম হাইড্রোক্সাইড",
+    "C": "অ্যামোনিয়াম হাইড্রোক্সাইড",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "প্রশমন বিক্রিয়া —",
+   "options": {
+    "A": "নিরপেক্ষ",
+    "B": "তাপগ্রাহী",
+    "C": "কোনোটিই নয়",
+    "D": "তাপমোচী"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "লবণের নামকরণে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অম্ল + ক্ষার",
+    "C": "কোনোটিই নয়",
+    "D": "ধাতু + অম্লমূল"
+   },
+   "correctAnswer": "D",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "লিটমাস দ্রবণ অম্লে —",
+   "options": {
+    "A": "লাল",
+    "B": "কোনোটিই নয়",
+    "C": "বর্ণহীন",
+    "D": "নীল"
+   },
+   "correctAnswer": "A",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "মাছ চাষে পানির pH —",
+   "options": {
+    "A": "১৪ ভালো",
+    "B": "কোনোটিই নয়",
+    "C": "৬.৫–৮ ভালো",
+    "D": "১ ভালো"
+   },
+   "correctAnswer": "C",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "CaCO₃ + HCl → ?",
+   "options": {
+    "A": "CaCl₂ + H₂O + CO₂",
+    "B": "CaCl₂ + O₂",
+    "C": "CaCl₂ + H₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "কফির pH —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রায় ৫",
+    "C": "১৪",
+    "D": "১"
+   },
+   "correctAnswer": "B",
+   "topic": "pH ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "NH₄OH —",
+   "options": {
+    "A": "অ্যামোনিয়াম হাইড্রোক্সাইড",
+    "B": "সোডিয়াম হাইড্রোক্সাইড",
+    "C": "ক্যালসিয়াম হাইড্রোক্সাইড",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "H⁺ + OH⁻ → H₂O এ OH⁻ আসে —",
+   "options": {
+    "A": "ক্ষার থেকে",
+    "B": "কোনোটিই নয়",
+    "C": "পানি থেকে",
+    "D": "অম্ল থেকে"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "লবণ কাকে বলে?",
+   "options": {
+    "A": "অম্ল+ক্ষার প্রশমনে উৎপন্ন যৌগ",
+    "B": "কোনোটিই নয়",
+    "C": "অম্ল+পানি",
+    "D": "ক্ষার+পানি"
+   },
+   "correctAnswer": "A",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "মিথাইল অরেঞ্জ নিরপেক্ষে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লাল",
+    "C": "কমলা",
+    "D": "হলুদ"
+   },
+   "correctAnswer": "C",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "এসিড-ক্ষারক সমতা অর্থ —",
+   "options": {
+    "A": "অম্ল ও ক্ষারের প্রশমন",
+    "B": "ক্ষারের গলন",
+    "C": "কোনোটিই নয়",
+    "D": "অম্লের দহন"
+   },
+   "correctAnswer": "A",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "অম্ল পানিতে মেশানোর নিয়ম —",
+   "options": {
+    "A": "অম্ল ধীরে পানিতে ঢালা",
+    "B": "পানি অম্লে ঢালা",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "pH মিটারে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সঠিক pH মাপা হয়",
+    "C": "তাপ মাপা হয়",
+    "D": "ভর মাপা হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "চুনের পানি দিয়ে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "CO₂ শনাক্ত করা হয়",
+    "C": "কোনোটিই নয়",
+    "D": "O₂ শনাক্ত হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "চুন (CaO/Ca(OH)₂) মাটিতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অম্ল প্রশমিত করে",
+    "C": "অম্ল বাড়ায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "CuSO₄ —",
+   "options": {
+    "A": "কপার ক্লোরাইড",
+    "B": "কপার নাইট্রেট",
+    "C": "কপার সালফেট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "মিথাইল অরেঞ্জ অম্লে —",
+   "options": {
+    "A": "হলুদ",
+    "B": "কোনোটিই নয়",
+    "C": "নীল",
+    "D": "লাল"
+   },
+   "correctAnswer": "D",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "কিডনি H⁺ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রস্রাবে ত্যাগ করে",
+    "C": "কিছুই না",
+    "D": "রক্তে যোগ করে"
+   },
+   "correctAnswer": "B",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "অম্লে H⁺ আয়নের উৎস —",
+   "options": {
+    "A": "পানি",
+    "B": "লবণ",
+    "C": "অম্লের H",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "pH ১৩ এর দ্রবণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দুর্বল ক্ষার",
+    "C": "অম্ল",
+    "D": "তীব্র ক্ষার"
+   },
+   "correctAnswer": "D",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "NaOH → Na⁺ + OH⁻ আয়নায়ন —",
+   "options": {
+    "A": "ক্ষারের",
+    "B": "লবণের",
+    "C": "অম্লের",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "অম্লের সাথে ক্ষারের বিক্রিয়ায় তাপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নির্গত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "শোষিত হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "লবণের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "NaCl, KCl, CaCO₃",
+    "C": "NaOH, KOH",
+    "D": "HCl, H₂SO₄"
+   },
+   "correctAnswer": "B",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "প্রাকৃতিক নির্দেশক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লিটমাস, লাল কপি, হলুদ",
+    "C": "মিথাইল অরেঞ্জ",
+    "D": "ফেনলফথালিন"
+   },
+   "correctAnswer": "B",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "বাফারের কাজ —",
+   "options": {
+    "A": "pH স্থির রাখা",
+    "B": "pH বদলানো",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "অম্ল সংরক্ষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ধাতব পাত্রে",
+    "C": "কিছুই না",
+    "D": "কাচের পাত্রে"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "পাকস্থলীর অম্ল —",
+   "options": {
+    "A": "HCl",
+    "B": "H₂SO₄",
+    "C": "কোনোটিই নয়",
+    "D": "HNO₃"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "NaOH —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পটাসিয়াম হাইড্রোক্সাইড",
+    "C": "সোডিয়াম হাইড্রোক্সাইড",
+    "D": "ক্যালসিয়াম হাইড্রোক্সাইড"
+   },
+   "correctAnswer": "C",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "NH₄OH + HCl → ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "NH₄Cl + H₂",
+    "C": "NH₄Cl + O₂",
+    "D": "NH₄Cl + H₂O"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "HCl এর অম্লমূল —",
+   "options": {
+    "A": "Cl⁻",
+    "B": "Na⁺",
+    "C": "কোনোটিই নয়",
+    "D": "H⁺"
+   },
+   "correctAnswer": "A",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "অম্ল ও ক্ষার চেনার সহজ উপায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নির্দেশক ব্যবহার",
+    "C": "কিছুই না",
+    "D": "স্বাদ দেখা"
+   },
+   "correctAnswer": "B",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "শরীরের pH ভারসাম্য —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "জীবনের জন্য জরুরি",
+    "C": "কোনোটিই নয়",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "ভিনেগার —",
+   "options": {
+    "A": "নাইট্রিক অম্ল",
+    "B": "কোনোটিই নয়",
+    "C": "সালফিউরিক অম্ল",
+    "D": "অ্যাসিটিক অম্লের দ্রবণ"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "রক্তের pH প্রায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৬.০",
+    "C": "৭.৪",
+    "D": "৭.০"
+   },
+   "correctAnswer": "C",
+   "topic": "pH ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "CO₂ + Ca(OH)₂ → ?",
+   "options": {
+    "A": "CaCO₃ + CO₂",
+    "B": "CaCO₃ + H₂O",
+    "C": "CaO + H₂O",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "টাইট্রেশন কাকে বলে?",
+   "options": {
+    "A": "ভর মাপা",
+    "B": "তাপ মাপা",
+    "C": "ঘনমাত্রা নির্ণয়ের পদ্ধতি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "Cu(OH)Cl —",
+   "options": {
+    "A": "নিরপেক্ষ লবণ",
+    "B": "কোনোটিই নয়",
+    "C": "অম্লীয় লবণ",
+    "D": "ক্ষারীয় লবণ"
+   },
+   "correctAnswer": "D",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "রাসায়নিক শনাক্তকরণে স্বাদ নেওয়া —",
+   "options": {
+    "A": "নিরাপদ",
+    "B": "বিপজ্জনক",
+    "C": "কোনোটিই নয়",
+    "D": "উচিত"
+   },
+   "correctAnswer": "B",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "এসিড-ক্ষারক সমতা —",
+   "options": {
+    "A": "অম্ল বাড়ানো",
+    "B": "প্রশমনে pH সমান হওয়া",
+    "C": "কোনোটিই নয়",
+    "D": "ক্ষার বাড়ানো"
+   },
+   "correctAnswer": "B",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "অম্লের নিরাপদ ব্যবহার —",
+   "options": {
+    "A": "সাবধানতা জরুরি",
+    "B": "কোনোটিই নয়",
+    "C": "জরুরি নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "pH বাড়লে H⁺ ঘনমাত্রা —",
+   "options": {
+    "A": "একই",
+    "B": "কমে",
+    "C": "শূন্য",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "B",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "ক্ষার দ্রবণ বিদ্যুৎ —",
+   "options": {
+    "A": "পরিবহণ করে",
+    "B": "করে না",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "H₂SO₄ + 2NaOH → ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "Na₂SO₄ + O₂",
+    "C": "Na₂SO₄ + H₂",
+    "D": "Na₂SO₄ + 2H₂O"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "লবণের স্বাদ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মিষ্টি",
+    "C": "লবণাক্ত",
+    "D": "টক"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "লিটমাস নিরপেক্ষে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বেগুনি/সবুজ",
+    "C": "লাল",
+    "D": "নীল"
+   },
+   "correctAnswer": "B",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "শ্বাস-প্রশ্বাসে —",
+   "options": {
+    "A": "রক্তের pH নিয়ন্ত্রিত হয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "অম্ল পানিতে ঢাললে —",
+   "options": {
+    "A": "তাপ ধীরে ছড়ায়",
+    "B": "কোনোটিই নয়",
+    "C": "বিস্ফোরণ হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "pH < ৭ মানে দ্রবণ —",
+   "options": {
+    "A": "অম্লীয়",
+    "B": "নিরপেক্ষ",
+    "C": "কোনোটিই নয়",
+    "D": "ক্ষারীয়"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "সাবান তৈরিতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "NaOH ও তেল",
+    "D": "HCl ও তেল"
+   },
+   "correctAnswer": "C",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "KOH + HNO₃ → ?",
+   "options": {
+    "A": "KNO₃ + O₂",
+    "B": "KNO₃ + H₂",
+    "C": "KNO₃ + H₂O",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "NaCl —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পটাসিয়াম ক্লোরাইড",
+    "C": "সোডিয়াম ক্লোরাইড",
+    "D": "ক্যালসিয়াম ক্লোরাইড"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "লাল কপির রস অম্লে —",
+   "options": {
+    "A": "হলুদ",
+    "B": "লাল",
+    "C": "কোনোটিই নয়",
+    "D": "সবুজ"
+   },
+   "correctAnswer": "B",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "বাফারের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "CH₃COOH + CH₃COONa",
+    "C": "HCl + NaCl",
+    "D": "NaOH + NaCl"
+   },
+   "correctAnswer": "B",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "তীব্র অম্লের উদাহরণ —",
+   "options": {
+    "A": "CH₃COOH, H₂CO₃",
+    "B": "কোনোটিই নয়",
+    "C": "HCl, H₂SO₄, HNO₃",
+    "D": "HCN"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "দাঁতের ক্ষয় হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অম্লীয় খাবারে",
+    "C": "নিরপেক্ষে",
+    "D": "ক্ষারীয় খাবারে"
+   },
+   "correctAnswer": "B",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "ক্ষারকে মিথাইল অরেঞ্জ —",
+   "options": {
+    "A": "হলুদ হয়",
+    "B": "লাল হয়",
+    "C": "কোনোটিই নয়",
+    "D": "নীল হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "বুরেট ব্যবহার হয় —",
+   "options": {
+    "A": "টাইট্রেশনে",
+    "B": "তাপ মাপায়",
+    "C": "কোনোটিই নয়",
+    "D": "ভর মাপায়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "লবণে থাকে —",
+   "options": {
+    "A": "ধাতব ক্যাটায়ন ও অম্লমূল",
+    "B": "শুধু ধাতু",
+    "C": "শুধু অম্লমূল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "নিরপেক্ষ দ্রবণে লিটমাস —",
+   "options": {
+    "A": "নীল হয়",
+    "B": "কোনোটিই নয়",
+    "C": "রং বদলায় না",
+    "D": "লাল হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "এসিড-ক্ষারক সমতা অধ্যায়ের মূল বিষয় —",
+   "options": {
+    "A": "গতি",
+    "B": "শব্দ",
+    "C": "কোনোটিই নয়",
+    "D": "pH, প্রশমন, লবণ"
+   },
+   "correctAnswer": "D",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "অম্ল ধাতুর সাথে বিক্রিয়া করে পাত্র —",
+   "options": {
+    "A": "রক্ষা করে",
+    "B": "ক্ষয় করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "pH > ৭ মানে দ্রবণ —",
+   "options": {
+    "A": "নিরপেক্ষ",
+    "B": "অম্লীয়",
+    "C": "ক্ষারীয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "ঘন NaOH —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিরাপদ",
+    "C": "কিছুই না",
+    "D": "ক্ষয়কারী"
+   },
+   "correctAnswer": "D",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "দৈনন্দিন জীবনে প্রশমন —",
+   "options": {
+    "A": "অ্যান্টাসিড, চুন প্রয়োগ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "অম্লমূলের চার্জ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিরপেক্ষ",
+    "C": "ধনাত্মক",
+    "D": "ঋণাত্মক"
+   },
+   "correctAnswer": "D",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "ফেনলফথালিন ক্ষারে —",
+   "options": {
+    "A": "লাল",
+    "B": "গোলাপি",
+    "C": "কোনোটিই নয়",
+    "D": "বর্ণহীন"
+   },
+   "correctAnswer": "B",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "রক্তের pH নিয়ন্ত্রণে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বাফার ব্যবস্থা"
+   },
+   "correctAnswer": "D",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "ভিনেগারে কোন অম্ল থাকে?",
+   "options": {
+    "A": "অ্যাসিটিক অম্ল",
+    "B": "কোনোটিই নয়",
+    "C": "টারটারিক অম্ল",
+    "D": "সাইট্রিক অম্ল"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "পাকস্থলীতে HCl —",
+   "options": {
+    "A": "ক্ষতি করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই করে না",
+    "D": "খাদ্য হজমে সাহায্য করে"
+   },
+   "correctAnswer": "D",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "ক্ষারক ধাতুর সাথে —",
+   "options": {
+    "A": "CO₂ দেয়",
+    "B": "H₂ দেয়",
+    "C": "কোনোটিই নয়",
+    "D": "সাধারণত বিক্রিয়া করে না"
+   },
+   "correctAnswer": "D",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "টাইট্রেশনের শেষ বিন্দুকে —",
+   "options": {
+    "A": "শুরু বিন্দু বলে",
+    "B": "সমতা বিন্দু বলে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "সোডিয়াম বাইকার্বনেট (NaHCO₃) —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তীব্র অম্ল",
+    "C": "দুর্বল ক্ষারীয়",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "হলুদ ক্ষারে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নীল",
+    "C": "হলুদই",
+    "D": "লালচে বাদামি"
+   },
+   "correctAnswer": "D",
+   "topic": "নির্দেশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "অম্ল ও ক্ষার উভয়ই —",
+   "options": {
+    "A": "সাবধানতা লাগে না",
+    "B": "কোনোটিই নয়",
+    "C": "সাবধানে ব্যবহার করা উচিত",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "HCl এ H —",
+   "options": {
+    "A": "৩টি",
+    "B": "১টি",
+    "C": "কোনোটিই নয়",
+    "D": "২টি"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "অম্বল/বুক জ্বালাপোড়ায় —",
+   "options": {
+    "A": "অম্ল ব্যবহার হয়",
+    "B": "কোনোটিই নয়",
+    "C": "অ্যান্টাসিড ব্যবহার হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "Na₂O + পানি → ?",
+   "options": {
+    "A": "NaCl",
+    "B": "Na₂CO₃",
+    "C": "2NaOH",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "সমতা বিন্দুতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষার বাড়ে",
+    "C": "অম্ল-ক্ষার সম্পূর্ণ প্রশমিত হয়",
+    "D": "অম্ল বাড়ে"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "লবণ তৈরি হয় —",
+   "options": {
+    "A": "গলনে",
+    "B": "দহনে",
+    "C": "কোনোটিই নয়",
+    "D": "প্রশমনে"
+   },
+   "correctAnswer": "D",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "অম্ল, ক্ষার ও লবণ —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "দৈনন্দিন জীবনে ব্যবহৃত",
+    "C": "ব্যবহৃত নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "আচারে ব্যবহৃত —",
+   "options": {
+    "A": "সালফিউরিক অম্ল",
+    "B": "কোনোটিই নয়",
+    "C": "ভিনেগার",
+    "D": "নাইট্রিক অম্ল"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "pH মাপার কাগজ —",
+   "options": {
+    "A": "টিস্যু",
+    "B": "লিটমাস পেপার",
+    "C": "ব্লটিং পেপার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "সাবান তৈরি হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অম্ল থেকে",
+    "C": "লবণ থেকে",
+    "D": "ক্ষার থেকে"
+   },
+   "correctAnswer": "D",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "সমতা বিন্দুতে নির্দেশক —",
+   "options": {
+    "A": "রং বদলায় না",
+    "B": "রং বদলায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "NaHCO₃ + HCl → ?",
+   "options": {
+    "A": "NaCl + O₂",
+    "B": "NaCl + H₂",
+    "C": "NaCl + H₂O + CO₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "এসিড-ক্ষারক সমতার ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ওষুধ, শিল্প, কৃষিতে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "CO₂ গ্যাস পরীক্ষা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চুনের পানি ঘোলা হয়",
+    "C": "কিছুই না",
+    "D": "লাল হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "pH নির্ণয়ে —",
+   "options": {
+    "A": "ব্যারোমিটার",
+    "B": "থার্মোমিটার",
+    "C": "ইউনিভার্সাল নির্দেশক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "Ca(OH)₂ —",
+   "options": {
+    "A": "সোডিয়াম হাইড্রোক্সাইড",
+    "B": "কোনোটিই নয়",
+    "C": "পটাসিয়াম হাইড্রোক্সাইড",
+    "D": "ক্যালসিয়াম হাইড্রোক্সাইড"
+   },
+   "correctAnswer": "D",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "H⁺ + OH⁻ → H₂O এ H⁺ আসে —",
+   "options": {
+    "A": "পানি থেকে",
+    "B": "ক্ষার থেকে",
+    "C": "অম্ল থেকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "সিমেন্টে CaCO₃ —",
+   "options": {
+    "A": "নেই",
+    "B": "অপ্রয়োজনীয়",
+    "C": "প্রধান কাঁচামাল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "বেশিরভাগ ফসল ভালো হয় —",
+   "options": {
+    "A": "pH ২ মাটিতে",
+    "B": "pH ১২ মাটিতে",
+    "C": "কোনোটিই নয়",
+    "D": "pH ৬–৭ মাটিতে"
+   },
+   "correctAnswer": "D",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "একক্ষারীয় অম্লে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১টি H⁺ দেয়",
+    "C": "৩টি H⁺ দেয়",
+    "D": "২টি H⁺ দেয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "অ্যান্টাসিডে Mg(OH)₂ —",
+   "options": {
+    "A": "অম্ল বাড়ায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অম্ল প্রশমিত করে"
+   },
+   "correctAnswer": "D",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "দুর্বল ক্ষারক —",
+   "options": {
+    "A": "KOH",
+    "B": "NaOH",
+    "C": "NH₄OH",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "অম্ল ক্ষারের সাথে বিক্রিয়া করে —",
+   "options": {
+    "A": "শুধু লবণ",
+    "B": "কোনোটিই নয়",
+    "C": "লবণ ও পানি",
+    "D": "শুধু পানি"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "NaHCO₃ এর ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "অ্যান্টাসিড, বেকিং"
+   },
+   "correctAnswer": "D",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "কৃষিতে মাটির pH —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নেই",
+    "C": "গুরুত্বপূর্ণ",
+    "D": "অগুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "C",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "CO₂ + পানি → ?",
+   "options": {
+    "A": "CO",
+    "B": "C",
+    "C": "কোনোটিই নয়",
+    "D": "H₂CO₃"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "pH এর গুরুত্ব —",
+   "options": {
+    "A": "কৃষি, চিকিৎসা, শিল্পে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "ক্ষারকে ফেনলফথালিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গোলাপি হয়",
+    "C": "নীল হয়",
+    "D": "বর্ণহীন"
+   },
+   "correctAnswer": "B",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "শিল্পে প্রশমনের ব্যবহার —",
+   "options": {
+    "A": "বর্জ্য শোধনে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "পানি বিশুদ্ধকরণে —",
+   "options": {
+    "A": "ব্লিচিং পাউডার",
+    "B": "কোনোটিই নয়",
+    "C": "চিনি",
+    "D": "NaCl"
+   },
+   "correctAnswer": "A",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "সমতুল্য অম্ল-ক্ষার মানে —",
+   "options": {
+    "A": "H⁺ ও OH⁻ সমান সংখ্যা",
+    "B": "কোনোটিই নয়",
+    "C": "H⁺ বেশি",
+    "D": "OH⁻ বেশি"
+   },
+   "correctAnswer": "A",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "দুর্বল অম্লের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "HNO₃",
+    "C": "CH₃COOH, H₂CO₃",
+    "D": "HCl, H₂SO₄"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "কৃষিতে pH —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "মাটির উর্বরতা নির্ধারণে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "CaO —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষারীয় অক্সাইড",
+    "C": "নিরপেক্ষ",
+    "D": "অম্লীয় অক্সাইড"
+   },
+   "correctAnswer": "B",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "কনিক্যাল ফ্লাস্ক —",
+   "options": {
+    "A": "তাপ মাপায়",
+    "B": "টাইট্রেশনে ব্যবহৃত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "ভর মাপায়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "লবণ উৎপাদনে অম্ল+অক্সাইড —",
+   "options": {
+    "A": "লবণ + CO₂",
+    "B": "লবণ + পানি",
+    "C": "কোনোটিই নয়",
+    "D": "লবণ + H₂"
+   },
+   "correctAnswer": "B",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "এসিড-ক্ষারক সমতা অধ্যায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ঐচ্ছিক",
+    "C": "গুরুত্বপূর্ণ",
+    "D": "অগুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "C",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "অম্ল আয়নিত হয়ে —",
+   "options": {
+    "A": "H⁺ দেয়",
+    "B": "কোনোটিই নয়",
+    "C": "OH⁻ দেয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "দাঁতের এনামেল ক্ষয় হয় —",
+   "options": {
+    "A": "pH ৭ এর উপরে",
+    "B": "pH ৫.৫ এর নিচে",
+    "C": "কোনোটিই নয়",
+    "D": "pH ৭ এ"
+   },
+   "correctAnswer": "B",
+   "topic": "pH ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "CO₂ চুনের পানিতে —",
+   "options": {
+    "A": "ঘোলা করে",
+    "B": "স্বচ্ছ করে",
+    "C": "কিছুই করে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "প্রশমনে উৎপন্ন পানি —",
+   "options": {
+    "A": "H₂O",
+    "B": "H₂",
+    "C": "H₂O₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "ক্ষারীয় লবণ —",
+   "options": {
+    "A": "H থাকে",
+    "B": "কোনোটিই নয়",
+    "C": "যাতে OH থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "মাছ চাষে pH নিয়ন্ত্রণ —",
+   "options": {
+    "A": "জরুরি",
+    "B": "দরকার নেই",
+    "C": "কোনোটিই নয়",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "HNO₃ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হাইড্রোক্লোরিক অম্ল",
+    "C": "নাইট্রিক অম্ল",
+    "D": "সালফিউরিক অম্ল"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "pH স্কেলে প্রতি একক পার্থক্য —",
+   "options": {
+    "A": "১০ গুণ H⁺ পার্থক্য",
+    "B": "কোনোটিই নয়",
+    "C": "একই",
+    "D": "২ গুণ"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "ক্ষারকের ব্যবহার —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সাবান, ডিটারজেন্ট, ওষুধে"
+   },
+   "correctAnswer": "D",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "Ca(OH)₂ + H₂SO₄ → ?",
+   "options": {
+    "A": "CaSO₄ + H₂",
+    "B": "CaSO₄ + O₂",
+    "C": "CaSO₄ + H₂O",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "সাধারণ লবণ (NaCl) এর pH —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৭",
+    "C": "কম",
+    "D": "বেশি"
+   },
+   "correctAnswer": "B",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "বাফার দ্রবণে —",
+   "options": {
+    "A": "তীব্র অম্ল",
+    "B": "তীব্র ক্ষার",
+    "C": "কোনোটিই নয়",
+    "D": "দুর্বল অম্ল + তার লবণ"
+   },
+   "correctAnswer": "D",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "অম্ল চোখে লাগলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ঘষা",
+    "C": "প্রচুর পানি দিয়ে ধোয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "pH এর পূর্ণরূপ —",
+   "options": {
+    "A": "potential of Hydrogen",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "power of Heat"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "ক্ষারক লাল লিটমাসকে —",
+   "options": {
+    "A": "সবুজ করে",
+    "B": "লাল করে",
+    "C": "নীল করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "অম্লীয় মাটিতে —",
+   "options": {
+    "A": "অম্ল প্রয়োগ হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "চুন প্রয়োগ করা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "H₂SO₄ এর অম্লমূল —",
+   "options": {
+    "A": "SO₄²⁻",
+    "B": "H⁺",
+    "C": "Cl⁻",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "প্রশমনের ফলে দ্রবণ —",
+   "options": {
+    "A": "নিরপেক্ষ হয়",
+    "B": "কোনোটিই নয়",
+    "C": "অম্লীয় হয়",
+    "D": "ক্ষারীয় হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "অম্ল দ্রবণ বিদ্যুৎ —",
+   "options": {
+    "A": "করে না",
+    "B": "পরিবহণ করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "পোকার কামড়ের জ্বালা কমাতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষার লাগানো হয়",
+    "C": "কিছুই না",
+    "D": "অম্ল লাগানো হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "ক্ষারক কাকে বলে?",
+   "options": {
+    "A": "পানিতে OH⁻ দানকারী",
+    "B": "কোনোটিই নয়",
+    "C": "পানিতে H⁺ দানকারী",
+    "D": "লবণ দানকারী"
+   },
+   "correctAnswer": "A",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "বর্জ্য শোধনে pH —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিরপেক্ষ (৭) করা হয়",
+    "C": "কমানো হয়",
+    "D": "বাড়ানো হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "CuSO₄ এর রং —",
+   "options": {
+    "A": "লাল",
+    "B": "সাদা",
+    "C": "কোনোটিই নয়",
+    "D": "নীল"
+   },
+   "correctAnswer": "D",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "সমতুল্য অম্ল ও ক্ষার মেশালে দ্রবণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষারীয় হয়",
+    "C": "নিরপেক্ষ হয়",
+    "D": "অম্লীয় হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "লেবুতে কোন অম্ল থাকে?",
+   "options": {
+    "A": "অ্যাসিটিক অম্ল",
+    "B": "সাইট্রিক অম্ল",
+    "C": "ল্যাকটিক অম্ল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "দুধের pH —",
+   "options": {
+    "A": "প্রায় ৬.৫",
+    "B": "১",
+    "C": "কোনোটিই নয়",
+    "D": "১৪"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "CaO + পানি → ?",
+   "options": {
+    "A": "Ca(OH)₂",
+    "B": "Ca",
+    "C": "CaCO₃",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "NaOH + HCl → ?",
+   "options": {
+    "A": "NaCl + O₂",
+    "B": "NaCl + H₂",
+    "C": "কোনোটিই নয়",
+    "D": "NaCl + H₂O"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "লবণ সাধারণত —",
+   "options": {
+    "A": "কঠিন, স্ফটিকাকার",
+    "B": "গ্যাস",
+    "C": "তরল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "অ্যালকালোসিস —",
+   "options": {
+    "A": "রক্ত অতিরিক্ত অম্লীয়",
+    "B": "কোনোটিই নয়",
+    "C": "রক্ত অতিরিক্ত ক্ষারীয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "অম্ল + ধাতব অক্সাইড → ?",
+   "options": {
+    "A": "লবণ + O₂",
+    "B": "লবণ + H₂",
+    "C": "কোনোটিই নয়",
+    "D": "লবণ + পানি"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "pH মানে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লবণ ঘনমাত্রা",
+    "C": "H⁺ ঘনমাত্রার সূচক",
+    "D": "OH⁻ ঘনমাত্রা"
+   },
+   "correctAnswer": "C",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "গ্লাস পরিষ্কারে —",
+   "options": {
+    "A": "HCl",
+    "B": "কোনোটিই নয়",
+    "C": "অ্যামোনিয়া (NH₄OH)",
+    "D": "H₂SO₄"
+   },
+   "correctAnswer": "C",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "মৌমাছির হুলের অম্ল প্রশমনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "NaHCO₃ লাগানো হয়",
+    "C": "কিছুই না",
+    "D": "অম্ল লাগানো হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "HNO₃ এর অম্লমূল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "NO₃⁻",
+    "C": "H⁺",
+    "D": "SO₄²⁻"
+   },
+   "correctAnswer": "B",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "কিডনি HCO₃⁻ —",
+   "options": {
+    "A": "ত্যাগ করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পুনঃশোষণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "তীব্র অম্ল কাকে বলে?",
+   "options": {
+    "A": "সম্পূর্ণ আয়নিত অম্ল",
+    "B": "আংশিক আয়নিত অম্ল",
+    "C": "অ-আয়নিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "pH কাকে বলে?",
+   "options": {
+    "A": "লবণ ঘনমাত্রা",
+    "B": "H⁺ ঘনমাত্রার ঋণাত্মক লগারিদম",
+    "C": "কোনোটিই নয়",
+    "D": "OH⁻ ঘনমাত্রা"
+   },
+   "correctAnswer": "B",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "ধাতুর অক্সাইড —",
+   "options": {
+    "A": "অম্লীয়",
+    "B": "নিরপেক্ষ",
+    "C": "কোনোটিই নয়",
+    "D": "ক্ষারীয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "প্রশমনে তাপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শোষিত হয়",
+    "D": "নির্গত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "Na₂CO₃ দ্রবণ —",
+   "options": {
+    "A": "নিরপেক্ষ",
+    "B": "কোনোটিই নয়",
+    "C": "অম্লীয়",
+    "D": "ক্ষারীয়"
+   },
+   "correctAnswer": "D",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "এসিড-ক্ষারক সমতায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "pH ৭ হয়",
+    "C": "pH কমে",
+    "D": "pH বাড়ে"
+   },
+   "correctAnswer": "B",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "HCl ও HNO₃ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ত্রিক্ষারীয়",
+    "C": "দ্বিক্ষারীয়",
+    "D": "একক্ষারীয় অম্ল"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "pH ৭ থেকে pH ৮ হলে H⁺ ঘনমাত্রা —",
+   "options": {
+    "A": "১০ গুণ বাড়ে",
+    "B": "কোনোটিই নয়",
+    "C": "একই",
+    "D": "১০ গুণ কমে"
+   },
+   "correctAnswer": "D",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "ক্ষার আয়নিত হয়ে —",
+   "options": {
+    "A": "OH⁻ দেয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "H⁺ দেয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "অম্লীয় মাটিতে চুন প্রয়োগ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্রশমন করে",
+    "C": "অম্ল বাড়ায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "খাবার লবণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "KCl",
+    "C": "CaCl₂",
+    "D": "NaCl"
+   },
+   "correctAnswer": "D",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "রক্তের pH বাফার —",
+   "options": {
+    "A": "NaOH",
+    "B": "কোনোটিই নয়",
+    "C": "H₂CO₃/HCO₃⁻",
+    "D": "HCl"
+   },
+   "correctAnswer": "C",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "দইয়ে কোন অম্ল থাকে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সাইট্রিক অম্ল",
+    "C": "অ্যাসিটিক অম্ল",
+    "D": "ল্যাকটিক অম্ল"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "pH স্কেলের পরিসর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১–১০",
+    "C": "০–১৪",
+    "D": "০–৭"
+   },
+   "correctAnswer": "C",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "সাবানায়ন বিক্রিয়ায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "চর্বি + ক্ষার → সাবান + গ্লিসারল",
+    "C": "চর্বি + অম্ল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ক্ষারকের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "অম্লীয় বর্জ্য নদীতে ফেলা —",
+   "options": {
+    "A": "উপকার",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "জলজ জীবন নষ্ট করে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "কাগজ তৈরিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চিনি",
+    "C": "NaCl",
+    "D": "Na₂CO₃/NaOH"
+   },
+   "correctAnswer": "D",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "pH ভারসাম্য নষ্ট হলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "উপকার",
+    "D": "রোগ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "অম্ল (এসিড) কাকে বলে?",
+   "options": {
+    "A": "পানিতে OH⁻ দানকারী",
+    "B": "লবণ দানকারী",
+    "C": "কোনোটিই নয়",
+    "D": "পানিতে H⁺ দানকারী"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "অম্লীয় দ্রবণে H⁺ —",
+   "options": {
+    "A": "OH⁻ এর চেয়ে বেশি",
+    "B": "সমান",
+    "C": "OH⁻ এর চেয়ে কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "H⁺ + OH⁻ → H₂O বিক্রিয়ায় —",
+   "options": {
+    "A": "প্রশমন হয়",
+    "B": "বিজারণ হয়",
+    "C": "জারণ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "NaHSO₄ —",
+   "options": {
+    "A": "নিরপেক্ষ লবণ",
+    "B": "কোনোটিই নয়",
+    "C": "অম্লীয় লবণ",
+    "D": "ক্ষারীয় লবণ"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "অম্ল, ক্ষার, লবণের শিল্প ব্যবহার —",
+   "options": {
+    "A": "নেই",
+    "B": "কোনোটিই নয়",
+    "C": "সীমিত",
+    "D": "ব্যাপক"
+   },
+   "correctAnswer": "D",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "ত্রিক্ষারীয় অম্লে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২টি H⁺ দেয়",
+    "C": "১টি H⁺ দেয়",
+    "D": "৩টি H⁺ দেয়"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "তীব্র অম্লের pH —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বেশি (১১–১৪)",
+    "C": "কম (০–৩)",
+    "D": "৭"
+   },
+   "correctAnswer": "C",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "বোলতার হুলের ক্ষার প্রশমনে —",
+   "options": {
+    "A": "ভিনেগার লাগানো হয়",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষার লাগানো হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "NaCl নাম —",
+   "options": {
+    "A": "সোডিয়াম অক্সাইড",
+    "B": "সোডিয়াম হাইড্রোক্সাইড",
+    "C": "সোডিয়াম ক্লোরাইড",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "হোমিওস্ট্যাসিস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "শরীরের অভ্যন্তরীণ ভারসাম্য",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "H₃PO₄ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "একক্ষারীয়",
+    "C": "ত্রিক্ষারীয় অম্ল",
+    "D": "দ্বিক্ষারীয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "মাটির pH ক্ষারীয় হলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জিপসাম প্রয়োগ হয়",
+    "C": "চুন প্রয়োগ হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "প্রশমনে উৎপন্ন লবণ —",
+   "options": {
+    "A": "আয়নিক",
+    "B": "কোনোটিই নয়",
+    "C": "ধাতব",
+    "D": "সমযোজী"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রশমন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "CuSO₄·5H₂O —",
+   "options": {
+    "A": "নীল ভিট্রিয়ল",
+    "B": "সাদা",
+    "C": "কোনোটিই নয়",
+    "D": "লাল"
+   },
+   "correctAnswer": "A",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "সম্পূর্ণ প্রশমনে —",
+   "options": {
+    "A": "শুধু ক্ষার",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু অম্ল",
+    "D": "লবণ ও পানি হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "অম্লীয় অক্সাইড —",
+   "options": {
+    "A": "CO₂, SO₂, SO₃",
+    "B": "কোনোটিই নয়",
+    "C": "Na₂O, CaO",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "অম্বল —",
+   "options": {
+    "A": "অতিরিক্ত অম্লের ফল",
+    "B": "কিছুই না",
+    "C": "অম্লের অভাব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "লবণের দ্রবণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বিদ্যুৎ পরিবহণ করে",
+    "D": "করে না"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "ওষুধ তৈরিতে pH নিয়ন্ত্রণ —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "জরুরি নয়",
+    "C": "জরুরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "এসিড-ক্ষারক সমতা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "অম্লের ধর্ম —",
+   "options": {
+    "A": "তিতা, লিটমাস নীল",
+    "B": "টক স্বাদ, লিটমাস লাল",
+    "C": "কোনোটিই নয়",
+    "D": "মিষ্টি"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "pH ৩ থেকে pH ১ হলে H⁺ ঘনমাত্রা —",
+   "options": {
+    "A": "১০ গুণ বাড়ে",
+    "B": "১০০ গুণ বাড়ে",
+    "C": "কোনোটিই নয়",
+    "D": "কমে"
+   },
+   "correctAnswer": "B",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "ব্লিচিং পাউডারের ব্যবহার —",
+   "options": {
+    "A": "খাদ্যে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "জীবাণুনাশক, সাদাকরণে"
+   },
+   "correctAnswer": "D",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "ব্যাটারিতে ব্যবহৃত অম্ল —",
+   "options": {
+    "A": "H₂SO₄",
+    "B": "HCl",
+    "C": "CH₃COOH",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "প্রস্রাবের pH —",
+   "options": {
+    "A": "প্রায় ৬",
+    "B": "১৪",
+    "C": "কোনোটিই নয়",
+    "D": "১"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "অম্লীয় লবণ —",
+   "options": {
+    "A": "H থাকে না",
+    "B": "OH থাকে",
+    "C": "যাতে প্রতিস্থাপনযোগ্য H থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "অম্ল ধাতুর সাথে বিক্রিয়ায় —",
+   "options": {
+    "A": "H₂ নির্গত হয়",
+    "B": "O₂ নির্গত হয়",
+    "C": "CO₂ নির্গত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "সমুদ্রের পানির pH —",
+   "options": {
+    "A": "প্রায় ৮",
+    "B": "কোনোটিই নয়",
+    "C": "১",
+    "D": "৭"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "লবণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আয়নিক যৌগ",
+    "C": "ধাতব যৌগ",
+    "D": "সমযোজী যৌগ"
+   },
+   "correctAnswer": "B",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "ঘন অম্ল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বিপজ্জনক",
+    "D": "নিরাপদ"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "পাকস্থলীতে অতিরিক্ত অম্ল —",
+   "options": {
+    "A": "অম্বল সৃষ্টি করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "উপকার"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "CaCO₃ এর ব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সিমেন্ট, চুন তৈরিতে",
+    "C": "কোনোটিই নয়",
+    "D": "খাদ্যে"
+   },
+   "correctAnswer": "B",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "CuO + H₂SO₄ → ?",
+   "options": {
+    "A": "CuSO₄ + H₂O",
+    "B": "CuSO₄ + H₂",
+    "C": "কোনোটিই নয়",
+    "D": "CuO + H₂"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "দুর্বল অম্লের pH —",
+   "options": {
+    "A": "৪–৬",
+    "B": "কোনোটিই নয়",
+    "C": "০–২",
+    "D": "১১–১৪"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "লবণ গলে —",
+   "options": {
+    "A": "বিদ্যুৎ পরিবাহী হয়",
+    "B": "কোনোটিই নয়",
+    "C": "অপরিবাহী",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "ঘন অম্ল ত্বকে লাগলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জ্বালাপোড়া হয়",
+    "C": "ঠান্ডা লাগে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "ক্ষারীয় দ্রবণে OH⁻ —",
+   "options": {
+    "A": "H⁺ এর চেয়ে বেশি",
+    "B": "H⁺ এর চেয়ে কম",
+    "C": "কোনোটিই নয়",
+    "D": "সমান"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "অম্লীয় লবণের pH —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৭",
+    "C": "৭ এর কম",
+    "D": "৭ এর বেশি"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "অম্ল নীল লিটমাসকে —",
+   "options": {
+    "A": "সবুজ করে",
+    "B": "নীল করে",
+    "C": "লাল করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "মাটির pH অম্লীয় হলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অম্ল প্রয়োগ করা হয়",
+    "C": "কোনোটিই নয়",
+    "D": "চুন প্রয়োগ করা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "Na₂SO₄ —",
+   "options": {
+    "A": "নিরপেক্ষ লবণ",
+    "B": "ক্ষারীয় লবণ",
+    "C": "কোনোটিই নয়",
+    "D": "অম্লীয় লবণ"
+   },
+   "correctAnswer": "A",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "CO₂ —",
+   "options": {
+    "A": "ক্ষারীয় অক্সাইড",
+    "B": "অম্লীয় অক্সাইড",
+    "C": "নিরপেক্ষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "pH বাড়লে ক্ষারত্ব —",
+   "options": {
+    "A": "শূন্য",
+    "B": "কমে",
+    "C": "বাড়ে",
+    "D": "একই"
+   },
+   "correctAnswer": "C",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "Na₂CO₃ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সোডিয়াম বাইকার্বনেট",
+    "C": "সোডিয়াম কার্বনেট",
+    "D": "সোডিয়াম ক্লোরাইড"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "HCl → H⁺ + Cl⁻ আয়নায়ন —",
+   "options": {
+    "A": "লবণের",
+    "B": "ক্ষারের",
+    "C": "কোনোটিই নয়",
+    "D": "অম্লের"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "অ্যান্টাসিড —",
+   "options": {
+    "A": "পাকস্থলীর অম্ল প্রশমিত করে",
+    "B": "অম্ল বাড়ায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "প্লাস্টার অব প্যারিস —",
+   "options": {
+    "A": "NaCl",
+    "B": "CaCO₃",
+    "C": "CaSO₄·½H₂O",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "Na₂CO₃ + HCl → ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "NaCl + H₂O + CO₂",
+    "C": "NaCl + H₂",
+    "D": "NaCl + O₂"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "দাঁতের ক্ষয় রোধে —",
+   "options": {
+    "A": "মিষ্টি খাওয়ার পর মুখ ধোয়া",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "আরও মিষ্টি"
+   },
+   "correctAnswer": "A",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "NH₄Cl দ্রবণ —",
+   "options": {
+    "A": "নিরপেক্ষ",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষারীয়",
+    "D": "অম্লীয়"
+   },
+   "correctAnswer": "D",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "Zn + HCl → ?",
+   "options": {
+    "A": "ZnO + H₂",
+    "B": "ZnCl₂ + H₂",
+    "C": "কোনোটিই নয়",
+    "D": "ZnCl₂ + O₂"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "নিরপেক্ষ দ্রবণের pH —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "০",
+    "C": "১৪",
+    "D": "৭"
+   },
+   "correctAnswer": "D",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "অম্লমূল কাকে বলে?",
+   "options": {
+    "A": "অম্লের ঋণাত্মক আয়ন অংশ",
+    "B": "অম্লের H",
+    "C": "লবণের ধাতু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "H₂CO₃ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সালফিউরিক অম্ল",
+    "C": "কার্বনিক অম্ল",
+    "D": "নাইট্রিক অম্ল"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "অ্যান্টাসিডের উদাহরণ —",
+   "options": {
+    "A": "HCl",
+    "B": "Mg(OH)₂, Al(OH)₃",
+    "C": "কোনোটিই নয়",
+    "D": "H₂SO₄"
+   },
+   "correctAnswer": "B",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "CaSO₄ নাম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্যালসিয়াম কার্বনেট",
+    "C": "ক্যালসিয়াম সালফেট",
+    "D": "ক্যালসিয়াম ক্লোরাইড"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "দ্বিক্ষারীয় অম্লে —",
+   "options": {
+    "A": "২টি H⁺ দেয়",
+    "B": "১টি H⁺ দেয়",
+    "C": "কোনোটিই নয়",
+    "D": "৩টি H⁺ দেয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "পোকার কামড়ে জ্বালা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অম্লীয় লালার কারণে",
+    "D": "ক্ষারীয় লালার কারণে"
+   },
+   "correctAnswer": "C",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "কাচ তৈরিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "NaCl",
+    "C": "সোডিয়াম কার্বনেট (Na₂CO₃)",
+    "D": "চিনি"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "H₂SO₄ —",
+   "options": {
+    "A": "সালফিউরিক অম্ল",
+    "B": "হাইড্রোক্লোরিক অম্ল",
+    "C": "কোনোটিই নয়",
+    "D": "নাইট্রিক অম্ল"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "পোকার কামড়ে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অম্ল লাগানো হয়",
+    "C": "ক্যালামাইন/ক্ষার লোশন লাগানো হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "NaCl এ ক্যাটায়ন —",
+   "options": {
+    "A": "H⁺",
+    "B": "কোনোটিই নয়",
+    "C": "Cl⁻",
+    "D": "Na⁺"
+   },
+   "correctAnswer": "D",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "অম্ল পানিতে দ্রবীভূত হলে —",
+   "options": {
+    "A": "OH⁻ আয়ন দেয়",
+    "B": "কিছুই দেয় না",
+    "C": "H⁺ আয়ন দেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "pH ১ এর দ্রবণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তীব্র অম্ল",
+    "C": "দুর্বল অম্ল",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "B",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "NaHCO₃ —",
+   "options": {
+    "A": "সোডিয়াম ক্লোরাইড",
+    "B": "সোডিয়াম বাইকার্বনেট",
+    "C": "সোডিয়াম কার্বনেট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "অম্লের স্বাদ —",
+   "options": {
+    "A": "মিষ্টি",
+    "B": "টক",
+    "C": "তিতা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "অম্বলে অ্যান্টাসিড দিলে —",
+   "options": {
+    "A": "দহন হয়",
+    "B": "প্রশমন হয়",
+    "C": "জারণ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "লবণ উৎপাদনে অম্ল+কার্বনেট —",
+   "options": {
+    "A": "লবণ + H₂",
+    "B": "লবণ + O₂",
+    "C": "লবণ + পানি + CO₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "গাড়ির ব্যাটারিতে —",
+   "options": {
+    "A": "সালফিউরিক অম্ল",
+    "B": "কোনোটিই নয়",
+    "C": "সাইট্রিক অম্ল",
+    "D": "অ্যাসিটিক অম্ল"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "ইউনিভার্সাল নির্দেশক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রং বদলায় না",
+    "C": "কোনোটিই নয়",
+    "D": "রং বদলায়"
+   },
+   "correctAnswer": "D",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "সিমেন্টের প্রধান উপাদান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চুনাপাথর ও কাদামাটি",
+    "C": "NaCl",
+    "D": "চিনি"
+   },
+   "correctAnswer": "B",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "অম্ল + কার্বনেট বিক্রিয়ায় —",
+   "options": {
+    "A": "CO₂ নির্গত হয়",
+    "B": "H₂ নির্গত হয়",
+    "C": "O₂ নির্গত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "পাকস্থলীর রসের pH —",
+   "options": {
+    "A": "৯",
+    "B": "কোনোটিই নয়",
+    "C": "৭",
+    "D": "১–২"
+   },
+   "correctAnswer": "D",
+   "topic": "pH ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "সার হিসেবে ব্যবহৃত —",
+   "options": {
+    "A": "CaCO₃",
+    "B": "কোনোটিই নয়",
+    "C": "NH₄Cl, (NH₄)₂SO₄, NH₄NO₃",
+    "D": "NaCl"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "তেঁতুলে কোন অম্ল থাকে?",
+   "options": {
+    "A": "সাইট্রিক অম্ল",
+    "B": "টারটারিক অম্ল",
+    "C": "ল্যাকটিক অম্ল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "মৌমাছির হুলে জ্বালা কমাতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সোডিয়াম বাইকার্বনেট লাগানো হয়",
+    "C": "অম্ল লাগানো হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "লবণ উৎপাদনে অম্ল+ধাতু —",
+   "options": {
+    "A": "লবণ + H₂",
+    "B": "কোনোটিই নয়",
+    "C": "লবণ + CO₂",
+    "D": "লবণ + O₂"
+   },
+   "correctAnswer": "A",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "অম্ল লাল লিটমাসকে —",
+   "options": {
+    "A": "নীল করে",
+    "B": "অপরিবর্তিত রাখে",
+    "C": "কোনোটিই নয়",
+    "D": "সবুজ করে"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "pH ৯ এর দ্রবণ —",
+   "options": {
+    "A": "অম্ল",
+    "B": "দুর্বল ক্ষার",
+    "C": "তীব্র ক্ষার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "NaCl এর ব্যবহার —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "খাদ্যে, সংরক্ষণে"
+   },
+   "correctAnswer": "D",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "H₂SO₄ এ H —",
+   "options": {
+    "A": "২টি",
+    "B": "কোনোটিই নয়",
+    "C": "১টি",
+    "D": "৩টি"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "মৌমাছির হুলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্ষারীয় বিষ থাকে",
+    "C": "অম্লীয় বিষ থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "pH ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "লবণে অম্লমূল —",
+   "options": {
+    "A": "ঋণাত্মক (অ্যানায়ন)",
+    "B": "নিরপেক্ষ",
+    "C": "ধনাত্মক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "খাদ্য সংরক্ষণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সালফিউরিক অম্ল",
+    "C": "অ্যাসিটিক অম্ল",
+    "D": "নাইট্রিক অম্ল"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "সাধারণ লবণ pH —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষারীয়",
+    "C": "নিরপেক্ষ (৭)",
+    "D": "অম্লীয়"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "অম্ল ধাতুর সাথে বিক্রিয়া করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লবণ ও H₂ গ্যাস",
+    "C": "লবণ ও O₂",
+    "D": "পানি ও H₂"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "চুনাপাথর (CaCO₃) —",
+   "options": {
+    "A": "লবণ",
+    "B": "ক্ষারক",
+    "C": "কোনোটিই নয়",
+    "D": "অম্ল"
+   },
+   "correctAnswer": "A",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "অম্ল + কার্বনেট → ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লবণ + H₂",
+    "C": "লবণ + O₂",
+    "D": "লবণ + পানি + CO₂"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "লবণ তৈরি করার পদ্ধতি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু প্রশমন",
+    "C": "প্রশমন, অম্ল+ধাতু, অম্ল+কার্বনেট",
+    "D": "শুধু দহন"
+   },
+   "correctAnswer": "C",
+   "topic": "লবণের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "অম্লের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "HCl, H₂SO₄, HNO₃",
+    "C": "NaCl",
+    "D": "NaOH, KOH"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "অম্লে মিথাইল অরেঞ্জ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নীল হয়",
+    "C": "লাল হয়",
+    "D": "হলুদ হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্লের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "D",
+  "2": "B",
+  "3": "B",
+  "4": "A",
+  "5": "C",
+  "6": "D",
+  "7": "C",
+  "8": "D",
+  "9": "A",
+  "10": "A",
+  "11": "C",
+  "12": "A",
+  "13": "C",
+  "14": "D",
+  "15": "B",
+  "16": "A",
+  "17": "B",
+  "18": "A",
+  "19": "B",
+  "20": "C",
+  "21": "B",
+  "22": "B",
+  "23": "D",
+  "24": "C",
+  "25": "B",
+  "26": "C",
+  "27": "B",
+  "28": "B",
+  "29": "B",
+  "30": "C",
+  "31": "B",
+  "32": "A",
+  "33": "C",
+  "34": "A",
+  "35": "D",
+  "36": "C",
+  "37": "B",
+  "38": "B",
+  "39": "D",
+  "40": "D",
+  "41": "C",
+  "42": "D",
+  "43": "B",
+  "44": "A",
+  "45": "A",
+  "46": "C",
+  "47": "C",
+  "48": "D",
+  "49": "C",
+  "50": "C",
+  "51": "C",
+  "52": "C",
+  "53": "C",
+  "54": "C",
+  "55": "A",
+  "56": "B",
+  "57": "D",
+  "58": "D",
+  "59": "C",
+  "60": "B",
+  "61": "D",
+  "62": "D",
+  "63": "A",
+  "64": "B",
+  "65": "A",
+  "66": "A",
+  "67": "A",
+  "68": "B",
+  "69": "B",
+  "70": "B",
+  "71": "D",
+  "72": "A",
+  "73": "C",
+  "74": "C",
+  "75": "C",
+  "76": "A",
+  "77": "B",
+  "78": "D",
+  "79": "B",
+  "80": "A",
+  "81": "A",
+  "82": "A",
+  "83": "B",
+  "84": "C",
+  "85": "A",
+  "86": "D",
+  "87": "D",
+  "88": "C",
+  "89": "D",
+  "90": "D",
+  "91": "A",
+  "92": "C",
+  "93": "D",
+  "94": "D",
+  "95": "D",
+  "96": "A",
+  "97": "C",
+  "98": "B",
+  "99": "A",
+  "100": "B",
+  "101": "B",
+  "102": "D",
+  "103": "D",
+  "104": "A",
+  "105": "B",
+  "106": "D",
+  "107": "C",
+  "108": "C",
+  "109": "B",
+  "110": "D",
+  "111": "B",
+  "112": "D",
+  "113": "D",
+  "114": "A",
+  "115": "A",
+  "116": "C",
+  "117": "D",
+  "118": "A",
+  "119": "C",
+  "120": "A",
+  "121": "A",
+  "122": "D",
+  "123": "D",
+  "124": "A",
+  "125": "C",
+  "126": "A",
+  "127": "B",
+  "128": "A",
+  "129": "A",
+  "130": "A",
+  "131": "C",
+  "132": "A",
+  "133": "A",
+  "134": "B",
+  "135": "B",
+  "136": "B",
+  "137": "C",
+  "138": "D",
+  "139": "B",
+  "140": "C",
+  "141": "D",
+  "142": "A",
+  "143": "B",
+  "144": "B",
+  "145": "B",
+  "146": "A",
+  "147": "D",
+  "148": "A",
+  "149": "C",
+  "150": "D",
+  "151": "A",
+  "152": "B",
+  "153": "B",
+  "154": "D",
+  "155": "C",
+  "156": "B",
+  "157": "C",
+  "158": "D",
+  "159": "B",
+  "160": "B",
+  "161": "A",
+  "162": "B",
+  "163": "A",
+  "164": "D",
+  "165": "C",
+  "166": "B",
+  "167": "A",
+  "168": "A",
+  "169": "A",
+  "170": "C",
+  "171": "C",
+  "172": "C",
+  "173": "B",
+  "174": "B",
+  "175": "C",
+  "176": "B",
+  "177": "A",
+  "178": "A",
+  "179": "A",
+  "180": "C",
+  "181": "D",
+  "182": "B",
+  "183": "C",
+  "184": "D",
+  "185": "A",
+  "186": "D",
+  "187": "B",
+  "188": "D",
+  "189": "A",
+  "190": "D",
+  "191": "D",
+  "192": "B",
+  "193": "C",
+  "194": "D",
+  "195": "C",
+  "196": "B",
+  "197": "C",
+  "198": "C",
+  "199": "C",
+  "200": "D",
+  "201": "B",
+  "202": "C",
+  "203": "B",
+  "204": "D",
+  "205": "B",
+  "206": "C",
+  "207": "B",
+  "208": "B",
+  "209": "C",
+  "210": "D",
+  "211": "C",
+  "212": "C",
+  "213": "D",
+  "214": "B",
+  "215": "D",
+  "216": "C",
+  "217": "C",
+  "218": "D",
+  "219": "C",
+  "220": "D",
+  "221": "A",
+  "222": "B",
+  "223": "A",
+  "224": "A",
+  "225": "A",
+  "226": "C",
+  "227": "B",
+  "228": "B",
+  "229": "B",
+  "230": "B",
+  "231": "C",
+  "232": "A",
+  "233": "B",
+  "234": "A",
+  "235": "A",
+  "236": "C",
+  "237": "A",
+  "238": "C",
+  "239": "A",
+  "240": "D",
+  "241": "C",
+  "242": "B",
+  "243": "D",
+  "244": "C",
+  "245": "A",
+  "246": "C",
+  "247": "D",
+  "248": "A",
+  "249": "A",
+  "250": "B",
+  "251": "B",
+  "252": "A",
+  "253": "B",
+  "254": "D",
+  "255": "C",
+  "256": "B",
+  "257": "A",
+  "258": "A",
+  "259": "D",
+  "260": "A",
+  "261": "C",
+  "262": "D",
+  "263": "C",
+  "264": "C",
+  "265": "B",
+  "266": "B",
+  "267": "D",
+  "268": "A",
+  "269": "B",
+  "270": "D",
+  "271": "D",
+  "272": "D",
+  "273": "B",
+  "274": "D",
+  "275": "D",
+  "276": "A",
+  "277": "B",
+  "278": "D",
+  "279": "C",
+  "280": "D",
+  "281": "C",
+  "282": "B",
+  "283": "D",
+  "284": "D",
+  "285": "D",
+  "286": "D",
+  "287": "A",
+  "288": "A",
+  "289": "C",
+  "290": "D",
+  "291": "D",
+  "292": "C",
+  "293": "A",
+  "294": "C",
+  "295": "B",
+  "296": "C",
+  "297": "B",
+  "298": "A",
+  "299": "A",
+  "300": "D",
+  "301": "A",
+  "302": "A",
+  "303": "C",
+  "304": "C",
+  "305": "B",
+  "306": "B",
+  "307": "D",
+  "308": "A",
+  "309": "A",
+  "310": "C",
+  "311": "A",
+  "312": "A",
+  "313": "B",
+  "314": "C",
+  "315": "A",
+  "316": "B",
+  "317": "A",
+  "318": "A",
+  "319": "A",
+  "320": "B",
+  "321": "A",
+  "322": "C",
+  "323": "C",
+  "324": "D",
+  "325": "A",
+  "326": "B",
+  "327": "C",
+  "328": "C",
+  "329": "D",
+  "330": "A",
+  "331": "C",
+  "332": "B",
+  "333": "A",
+  "334": "D",
+  "335": "B",
+  "336": "D",
+  "337": "A",
+  "338": "C",
+  "339": "B",
+  "340": "C",
+  "341": "A",
+  "342": "C",
+  "343": "C",
+  "344": "A",
+  "345": "C",
+  "346": "D",
+  "347": "C",
+  "348": "B",
+  "349": "B",
+  "350": "B",
+  "351": "B",
+  "352": "C",
+  "353": "A",
+  "354": "D",
+  "355": "B",
+  "356": "A",
+  "357": "D",
+  "358": "C",
+  "359": "B",
+  "360": "B",
+  "361": "A",
+  "362": "B",
+  "363": "B",
+  "364": "D",
+  "365": "A",
+  "366": "C",
+  "367": "A",
+  "368": "C",
+  "369": "C",
+  "370": "B",
+  "371": "A",
+  "372": "D",
+  "373": "C",
+  "374": "B",
+  "375": "C"
+ }
+}
