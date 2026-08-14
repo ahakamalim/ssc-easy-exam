@@ -1,0 +1,7134 @@
+{
+ "subject": "রসায়ন",
+ "chapterNo": 6,
+ "chapter": "মোলের ধারণা ও রাসায়নিক গণনা",
+ "questions": [
+  {
+   "question": "১ মোল MgO এর ভর —",
+   "options": {
+    "A": "২৪ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "৪০ গ্রাম",
+    "D": "৫৬ গ্রাম"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "Ca(OH)₂ এর মোলার ভর —",
+   "options": {
+    "A": "৫৭ গ্রাম",
+    "B": "৭৩ গ্রাম",
+    "C": "৭৪ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "মোল সংখ্যা = ?",
+   "options": {
+    "A": "মোলার ভর/ভর",
+    "B": "ভর/মোলার ভর",
+    "C": "ভর × মোলার ভর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "রাসায়নিক গণনার ফলাফল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নির্ভুল হওয়া উচিত",
+    "C": "কোনোটিই নয়",
+    "D": "আনুমানিক"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "১ মোল CaCO₃ তে Ca পরমাণু —",
+   "options": {
+    "A": "৩ গুণ",
+    "B": "কোনোটিই নয়",
+    "C": "১ × ৬.০২×১০²³",
+    "D": "২ গুণ"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "MgO এর মোলার ভর —",
+   "options": {
+    "A": "২৪ গ্রাম",
+    "B": "৫৬ গ্রাম",
+    "C": "৪০ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "মোলের ধারণা প্রবর্তন করেন —",
+   "options": {
+    "A": "অ্যাভোগাড্রো",
+    "B": "উইলহেম অসওয়াল্ড",
+    "C": "কোনোটিই নয়",
+    "D": "ডাল্টন"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "NaHCO₃ এর মোলার ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৮৪ গ্রাম",
+    "C": "৮৫ গ্রাম",
+    "D": "৮৩ গ্রাম"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "১ মোল অণুতে অণু সংখ্যা —",
+   "options": {
+    "A": "৬.০২ × ১০²²",
+    "B": "৬.০২ × ১০²³",
+    "C": "১০²³",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "স্থূল সংকেত কাকে বলে?",
+   "options": {
+    "A": "সরলতম অনুপাতের সংকেত",
+    "B": "প্রকৃত সংকেত",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "মোলের ব্যবহার —",
+   "options": {
+    "A": "রাসায়নিক গণনায়",
+    "B": "কিছুই না",
+    "C": "ভৌত গণনায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "H₂SO₄ তে O এর শতকরা রচনা —",
+   "options": {
+    "A": "৩২.৭%",
+    "B": "৬৫.৩%",
+    "C": "কোনোটিই নয়",
+    "D": "২%"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "১ মোল CaO এর ভর —",
+   "options": {
+    "A": "৭২ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "৫৬ গ্রাম",
+    "D": "৪০ গ্রাম"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "অ্যাসিটিলিনের প্রকৃত সংকেত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "CH",
+    "C": "C₆H₆",
+    "D": "C₂H₂"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "১ মোল Fe এর ভর —",
+   "options": {
+    "A": "৫৬ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "১১২ গ্রাম",
+    "D": "২৮ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "CaCO₃ → CaO + CO₂ এ CaCO₃ ও CaO এর অনুপাত —",
+   "options": {
+    "A": "২:১",
+    "B": "১:১",
+    "C": "কোনোটিই নয়",
+    "D": "১:২"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "২২ গ্রাম CO₂ তে মোল সংখ্যা —",
+   "options": {
+    "A": "১",
+    "B": "কোনোটিই নয়",
+    "C": "০.৫",
+    "D": "২"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "H₂SO₄ তে H এর শতকরা রচনা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২%",
+    "C": "৬৫.৩%",
+    "D": "৩২.৭%"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "২ গ্রাম H₂ তে মোল সংখ্যা —",
+   "options": {
+    "A": "০.৫",
+    "B": "২",
+    "C": "১",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "পার্সেন্টেজ রচনা কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "মিশ্রণে মৌল",
+    "D": "যৌগে মৌলের শতকরা ভর"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "আদর্শ তাপমাত্রা কত কেলভিন?",
+   "options": {
+    "A": "৩৭৩ K",
+    "B": "২৯৮ K",
+    "C": "কোনোটিই নয়",
+    "D": "২৭৩ K"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "H₂O তে O এর শতকরা রচনা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৫০%",
+    "C": "৮৮.৯%",
+    "D": "১১.১%"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "অ্যাভোগাড্রো সংখ্যা কে প্রস্তাব করেন?",
+   "options": {
+    "A": "মেন্ডেলিভ",
+    "B": "কোনোটিই নয়",
+    "C": "অ্যাভোগাড্রো",
+    "D": "ডাল্টন"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "স্থূল সংকেত থেকে প্রকৃত সংকেত নির্ণয়ে —",
+   "options": {
+    "A": "কিছুই দরকার নেই",
+    "B": "শুধু রং",
+    "C": "আণবিক ভর দরকার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "৩২.৫ গ্রাম Zn এ মোল সংখ্যা —",
+   "options": {
+    "A": "২",
+    "B": "০.৫",
+    "C": "কোনোটিই নয়",
+    "D": "১"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "CH₄ তে H এর শতকরা রচনা —",
+   "options": {
+    "A": "৭৫%",
+    "B": "৫০%",
+    "C": "কোনোটিই নয়",
+    "D": "২৫%"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "N এর পারমাণবিক ভর —",
+   "options": {
+    "A": "২৮",
+    "B": "১৪",
+    "C": "কোনোটিই নয়",
+    "D": "৭"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "2H₂ + O₂ → 2H₂O বিক্রিয়ায় ২ মোল H₂ থেকে কত মোল H₂O?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৪",
+    "C": "১",
+    "D": "২"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "৫৪ গ্রাম Ag এ মোল সংখ্যা —",
+   "options": {
+    "A": "০.৫",
+    "B": "কোনোটিই নয়",
+    "C": "২",
+    "D": "১"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "বেনজিনের স্থূল সংকেত —",
+   "options": {
+    "A": "C₂H₂",
+    "B": "কোনোটিই নয়",
+    "C": "C₆H₆",
+    "D": "CH"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "মোলার ভরের হিসাবে ভুল —",
+   "options": {
+    "A": "ফলাফল সঠিক করে",
+    "B": "ফলাফল ভুল করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "N₂ + 3H₂ → 2NH₃ এ N₂ ও NH₃ এর অনুপাত —",
+   "options": {
+    "A": "২:১",
+    "B": "১:২",
+    "C": "১:১",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "১ মোল H₂SO₄ তে মোট পরমাণু —",
+   "options": {
+    "A": "৬.০২×১০²³",
+    "B": "কোনোটিই নয়",
+    "C": "৭ × ৬.০২×১০²³",
+    "D": "৫ গুণ"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "রাসায়নিক গণনা রসায়নের —",
+   "options": {
+    "A": "অগুরুত্বপূর্ণ",
+    "B": "গুরুত্বপূর্ণ অংশ",
+    "C": "কোনোটিই নয়",
+    "D": "ঐচ্ছিক"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "৩ মোল O₂ তে অণুর সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৩ × ৬.০২×১০²³",
+    "C": "৬.০২×১০²³",
+    "D": "অর্ধেক"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "CaCO₃ → CaO + CO₂ বিক্রিয়ায় ১০০ গ্রাম CaCO₃ এর ভর CaO ও CO₂ এর যোগফল —",
+   "options": {
+    "A": "১০০ গ্রাম",
+    "B": "১১০ গ্রাম",
+    "C": "কোনোটিই নয়",
+    "D": "৯০ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "গ্রাম ও মোলের সম্পর্ক —",
+   "options": {
+    "A": "নেই",
+    "B": "কোনোটিই নয়",
+    "C": "ঘনিষ্ঠ",
+    "D": "দুর্বল"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "যৌগে মৌলের শতকরা রচনা = ?",
+   "options": {
+    "A": "যৌগের ভর/মৌলের ভর",
+    "B": "কিছুই না",
+    "C": "(মৌলের ভর/যৌগের ভর)×১০০",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "মোলের ধারণা প্রবর্তনে অসওয়াল্ড —",
+   "options": {
+    "A": "অবদান রাখেননি",
+    "B": "অবদান রেখেছেন",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "সমীকরণের সহগ = ?",
+   "options": {
+    "A": "রঙের অনুপাত",
+    "B": "ভরের অনুপাত",
+    "C": "মোলের অনুপাত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "মোলের ধারণা শিক্ষার্থীদের —",
+   "options": {
+    "A": "সহায়ক",
+    "B": "কোনোটিই নয়",
+    "C": "অসহায়ক",
+    "D": "ঐচ্ছিক"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "H₂SO₄ তে S এর শতকরা রচনা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৩২.৭%",
+    "C": "৬৫.৩%",
+    "D": "২%"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "০.৫ মোল CO₂ তে অণুর সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৬.০২×১০²³",
+    "C": "দ্বিগুণ",
+    "D": "০.৫ × ৬.০২×১০²³"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "CaCO₃ তে O এর শতকরা রচনা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৪৮%",
+    "C": "১২%",
+    "D": "৪০%"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "১ মোল CO₂ তে মোট পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৬.০২ × ১০²³",
+    "C": "২ × ৬.০২ × ১০²³",
+    "D": "৩ × ৬.০২ × ১০²³"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "NaOH + HCl → NaCl + H₂O এ NaOH ও NaCl এর অনুপাত —",
+   "options": {
+    "A": "১:১",
+    "B": "১:২",
+    "C": "২:১",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "০.৫ মোল CO₂ এর ভর —",
+   "options": {
+    "A": "৪৪ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "২২ গ্রাম",
+    "D": "৮৮ গ্রাম"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "NaCl তে Cl এর শতকরা রচনা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৩৯.৩%",
+    "C": "৫০%",
+    "D": "৬০.৭%"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "১ মোল H₂SO₄ তে H পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "২ × ৬.০২ × ১০²³",
+    "B": "কোনোটিই নয়",
+    "C": "৪ গুণ",
+    "D": "৬.০২ × ১০²³"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "স্থূল সংকেত CH₂O ও আণবিক ভর ১৮০ হলে n = ?",
+   "options": {
+    "A": "২",
+    "B": "কোনোটিই নয়",
+    "C": "৩",
+    "D": "৬"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "১ মোল যেকোনো পদার্থে কণা —",
+   "options": {
+    "A": "১০²²",
+    "B": "৬.০২×১০²³",
+    "C": "কোনোটিই নয়",
+    "D": "১০²³"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "রাসায়নিক সমীকরণে সহগ —",
+   "options": {
+    "A": "মোলের অনুপাত নির্দেশ করে",
+    "B": "রং নির্দেশ করে",
+    "C": "কোনোটিই নয়",
+    "D": "ভর নির্দেশ করে"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "১৪ গ্রাম N এ মোল সংখ্যা —",
+   "options": {
+    "A": "২",
+    "B": "কোনোটিই নয়",
+    "C": "১",
+    "D": "০.৫"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "মোলের অনুপাত থেকে —",
+   "options": {
+    "A": "কিছুই হয় না",
+    "B": "উৎপাদের পরিমাণ নির্ণয় হয়",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "STP তে ১ মোল O₂ এর আয়তন —",
+   "options": {
+    "A": "১১.২ লিটার",
+    "B": "২২.৪ লিটার",
+    "C": "৪৪.৮ লিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "CH₄ + 2O₂ → CO₂ + 2H₂O এ CH₄ ও O₂ এর অনুপাত —",
+   "options": {
+    "A": "১:২",
+    "B": "কোনোটিই নয়",
+    "C": "১:১",
+    "D": "২:১"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "STP তে ১ মোল যেকোনো গ্যাসের আয়তন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২২ লিটার",
+    "C": "২২.৪ লিটার",
+    "D": "২৪ লিটার"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "2H₂ + O₂ → 2H₂O বিক্রিয়ায় ১ মোল O₂ থেকে কত মোল H₂O?",
+   "options": {
+    "A": "২",
+    "B": "৪",
+    "C": "১",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "২ মোল H₂O তে H পরমাণু —",
+   "options": {
+    "A": "৪ × ৬.০২×১০²³",
+    "B": "কোনোটিই নয়",
+    "C": "৩ গুণ",
+    "D": "২ × ৬.০২×১০²³"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "মোলের সাহায্যে উৎপাদের —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "পরিমাণ নির্ণয় হয়",
+    "C": "কিছুই হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "৫৬ গ্রাম Fe এ মোল সংখ্যা —",
+   "options": {
+    "A": "০.৫",
+    "B": "কোনোটিই নয়",
+    "C": "১",
+    "D": "২"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "রাসায়নিক গণনায় সতর্কতা —",
+   "options": {
+    "A": "প্রয়োজন",
+    "B": "প্রয়োজন নেই",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "মোলার আয়তন সব গ্যাসের জন্য STP তে —",
+   "options": {
+    "A": "শূন্য",
+    "B": "সমান",
+    "C": "ভিন্ন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "2Na + Cl₂ → 2NaCl এ Na ও NaCl এর অনুপাত —",
+   "options": {
+    "A": "২:১",
+    "B": "১:২",
+    "C": "কোনোটিই নয়",
+    "D": "১:১"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "NH₃ এর মোলার ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৭ গ্রাম",
+    "C": "১৬ গ্রাম",
+    "D": "১৮ গ্রাম"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "CaO এর মোলার ভর = ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৪০ + ৩২",
+    "C": "২০ + ১৬",
+    "D": "৪০ + ১৬"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "মোল শব্দটি কোন ভাষা থেকে?",
+   "options": {
+    "A": "ল্যাটিন",
+    "B": "কোনোটিই নয়",
+    "C": "গ্রিক",
+    "D": "আরবি"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "সমীকরণে উৎপাদ লেখা হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাম পাশে",
+    "C": "ডান পাশে",
+    "D": "মাঝে"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "৩৯ গ্রাম K এ মোল সংখ্যা —",
+   "options": {
+    "A": "১",
+    "B": "কোনোটিই নয়",
+    "C": "২",
+    "D": "০.৫"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "প্রকৃত সংকেত কাকে বলে?",
+   "options": {
+    "A": "যৌগের প্রকৃত পরমাণু সংখ্যা দেখায়",
+    "B": "সরল অনুপাত",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "H₂O এর মোলার ভর —",
+   "options": {
+    "A": "১৮ গ্রাম",
+    "B": "১৬ গ্রাম",
+    "C": "কোনোটিই নয়",
+    "D": "২ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "রাসায়নিক গণনার ভুল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ফলাফল সঠিক করে",
+    "C": "ফলাফল ভুল করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "০.৫ মোল S এর ভর —",
+   "options": {
+    "A": "১৬ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "৬৪ গ্রাম",
+    "D": "৩২ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "2Na + Cl₂ → 2NaCl এ Na ও Cl₂ এর অনুপাত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২:১",
+    "C": "১:২",
+    "D": "১:১"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "১ মোল HNO₃ তে মোট পরমাণু —",
+   "options": {
+    "A": "৬.০২×১০²³",
+    "B": "কোনোটিই নয়",
+    "C": "৫ × ৬.০২×১০²³",
+    "D": "৪ গুণ"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "N₂ + 3H₂ → 2NH₃ এ H₂ ও NH₃ এর অনুপাত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১:১",
+    "C": "২:৩",
+    "D": "৩:২"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "০.৫ মোল N₂ এর ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৪ গ্রাম",
+    "C": "২৮ গ্রাম",
+    "D": "৫৬ গ্রাম"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "CaO এর মোলার ভর —",
+   "options": {
+    "A": "৫৪ গ্রাম",
+    "B": "৪৪ গ্রাম",
+    "C": "৫৬ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "O এর পারমাণবিক ভর —",
+   "options": {
+    "A": "৮",
+    "B": "কোনোটিই নয়",
+    "C": "৩২",
+    "D": "১৬"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "CaCO₃ → CaO + CO₂ বিক্রিয়ায় ১০০ গ্রাম CaCO₃ থেকে কত গ্রাম CO₂?",
+   "options": {
+    "A": "২২",
+    "B": "৫৬",
+    "C": "৪৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "STP তে ৪৪.৮ লিটার গ্যাসের মোল সংখ্যা —",
+   "options": {
+    "A": "২",
+    "B": "০.৫",
+    "C": "কোনোটিই নয়",
+    "D": "১"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "সমতাকৃত সমীকরণে উভয় পাশে —",
+   "options": {
+    "A": "পরমাণুর সংখ্যা সমান",
+    "B": "কোনোটিই নয়",
+    "C": "ভর ভিন্ন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "১ মোল C এর ভর —",
+   "options": {
+    "A": "৬ গ্রাম",
+    "B": "১২ গ্রাম",
+    "C": "কোনোটিই নয়",
+    "D": "২৪ গ্রাম"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "CH₄ তে C এর শতকরা রচনা —",
+   "options": {
+    "A": "৫০%",
+    "B": "২৫%",
+    "C": "কোনোটিই নয়",
+    "D": "৭৫%"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "ভর = ?",
+   "options": {
+    "A": "মোলার ভর/মোল",
+    "B": "মোল × মোলার ভর",
+    "C": "মোল/মোলার ভর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "সমীকরণ সমতা করা হয় —",
+   "options": {
+    "A": "সৌন্দর্যে",
+    "B": "ভরের সংরক্ষণ সূত্র মেনে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "মোলের ধারণা রসায়নে —",
+   "options": {
+    "A": "সর্বত্র ব্যবহৃত",
+    "B": "কোনোটিই নয়",
+    "C": "ব্যবহৃত হয় না",
+    "D": "কম ব্যবহৃত"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "ZnO এর মোলার ভর —",
+   "options": {
+    "A": "৮০ গ্রাম",
+    "B": "৬৫ গ্রাম",
+    "C": "কোনোটিই নয়",
+    "D": "৮১ গ্রাম"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "২ মোল N₂ এর ভর —",
+   "options": {
+    "A": "২৮ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "৫৬ গ্রাম",
+    "D": "১৪ গ্রাম"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "Al₂O₃ এর মোলার ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১০৪ গ্রাম",
+    "C": "১০২ গ্রাম",
+    "D": "১০০ গ্রাম"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "৪৪ গ্রাম CO₂ তে মোল সংখ্যা —",
+   "options": {
+    "A": "২",
+    "B": "কোনোটিই নয়",
+    "C": "০.৫",
+    "D": "১"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "2H₂ + O₂ → 2H₂O এ H₂ ও O₂ এর অনুপাত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২:১",
+    "C": "১:২",
+    "D": "১:১"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "অ্যাভোগাড্রোর সূত্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "একই তাপমাত্রা-চাপে সমান আয়তনে সমান অণু",
+    "D": "ভিন্ন অণু"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "ভর থেকে মোল নির্ণয়ে —",
+   "options": {
+    "A": "মোলার ভর দিয়ে ভাগ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "মোলার ভর দিয়ে গুণ"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "১ মোল CaCO₃ তে মোট পরমাণু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৪ গুণ",
+    "C": "৬.০২×১০²³",
+    "D": "৫ × ৬.০২×১০²³"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "N₂ + 3H₂ → 2NH₃ বিক্রিয়ায় ১ মোল N₂ থেকে কত মোল NH₃?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১",
+    "C": "৩",
+    "D": "২"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "C এর পারমাণবিক ভর —",
+   "options": {
+    "A": "১২",
+    "B": "কোনোটিই নয়",
+    "C": "৬",
+    "D": "২৪"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "CO₂ তে O এর শতকরা রচনা —",
+   "options": {
+    "A": "৭২.৭%",
+    "B": "৫০%",
+    "C": "কোনোটিই নয়",
+    "D": "২৭.৩%"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "m = ?",
+   "options": {
+    "A": "M/n",
+    "B": "n/M",
+    "C": "কোনোটিই নয়",
+    "D": "nM"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "NaOH এ H এর শতকরা রচনা —",
+   "options": {
+    "A": "৪০%",
+    "B": "৫৭.৫%",
+    "C": "কোনোটিই নয়",
+    "D": "২.৫%"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "২ মোল NH₃ তে মোট পরমাণু —",
+   "options": {
+    "A": "৬ × ৬.০২×১০²³",
+    "B": "৮ × ৬.০২×১০²³",
+    "C": "৪ গুণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "রাসায়নিক গণনায় একক —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "জরুরি নয়",
+    "C": "সঠিক রাখা জরুরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "মোলের ধারণা ছাড়া শিল্প উৎপাদন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "একই",
+    "C": "কঠিন",
+    "D": "সহজ"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "রাসায়নিক সমীকরণ থেকে —",
+   "options": {
+    "A": "মোলের অনুপাত পাওয়া যায়",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই পাওয়া যায় না"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "৭১ গ্রাম Cl₂ এ মোল সংখ্যা —",
+   "options": {
+    "A": "১",
+    "B": "কোনোটিই নয়",
+    "C": "২",
+    "D": "০.৫"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "CaCO₃ → CaO + CO₂ এ CaCO₃ ও CO₂ এর অনুপাত —",
+   "options": {
+    "A": "১:১",
+    "B": "২:১",
+    "C": "১:২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "আদর্শ চাপ কত?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২ atm",
+    "C": "১ atm",
+    "D": "০.৫ atm"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "CH₂O এর ভর —",
+   "options": {
+    "A": "১৮",
+    "B": "৪৪",
+    "C": "৩০",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "১ মোল H₂O তে অণুর সংখ্যা —",
+   "options": {
+    "A": "১০²³",
+    "B": "৬.০২ × ১০²²",
+    "C": "কোনোটিই নয়",
+    "D": "৬.০২ × ১০²³"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "মোল থেকে ভর নির্ণয়ে —",
+   "options": {
+    "A": "মোলার ভর দিয়ে গুণ",
+    "B": "কিছুই না",
+    "C": "মোলার ভর দিয়ে ভাগ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "৩৬ গ্রাম পানিতে মোল সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "০.৫",
+    "C": "১",
+    "D": "২"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "N₂ + 3H₂ → 2NH₃ বিক্রিয়ায় ২৮ গ্রাম N₂ থেকে কত গ্রাম NH₃?",
+   "options": {
+    "A": "১৭",
+    "B": "৩৪",
+    "C": "কোনোটিই নয়",
+    "D": "৫১"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "মোলের ধারণা বুঝলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "রাসায়নিক গণনা সহজ হয়",
+    "D": "কঠিন হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "KCl এর মোলার ভর —",
+   "options": {
+    "A": "৭৪.৫ গ্রাম",
+    "B": "৭৪ গ্রাম",
+    "C": "কোনোটিই নয়",
+    "D": "৭৫ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "অ্যাভোগাড্রো সংখ্যা মাপার জন্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বিভিন্ন পদ্ধতি আছে",
+    "D": "কোনো পদ্ধতি নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "CaCO₃ → CaO + CO₂ বিক্রিয়ায় ১০০ গ্রাম CaCO₃ থেকে কত গ্রাম CaO?",
+   "options": {
+    "A": "৪৪",
+    "B": "কোনোটিই নয়",
+    "C": "৫৬",
+    "D": "১০০"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "১২ গ্রাম Mg এ মোল সংখ্যা —",
+   "options": {
+    "A": "২",
+    "B": "০.৫",
+    "C": "১",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "সমীকরণে তীর চিহ্ন (→) —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "উৎপাদের দিকে",
+    "C": "কোনোটিই নয়",
+    "D": "বিক্রিয়কের দিকে"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "মোলার আয়তন = ?",
+   "options": {
+    "A": "মোল/আয়তন",
+    "B": "আয়তন/মোল সংখ্যা",
+    "C": "আয়তন × মোল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "বেনজিনের প্রকৃত সংকেত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "C₂H₂",
+    "C": "CH",
+    "D": "C₆H₆"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "অ্যাভোগাড্রোর সূত্রের শর্ত —",
+   "options": {
+    "A": "ভিন্ন চাপ",
+    "B": "ভিন্ন তাপমাত্রা",
+    "C": "কোনোটিই নয়",
+    "D": "একই তাপমাত্রা ও চাপ"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "CH₄ + 2O₂ → CO₂ + 2H₂O এ O₂ ও H₂O এর অনুপাত —",
+   "options": {
+    "A": "১:২",
+    "B": "২:১",
+    "C": "১:১",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "১ মোল পরমাণুতে পরমাণু সংখ্যা —",
+   "options": {
+    "A": "৬.০২ × ১০²³",
+    "B": "১০²³",
+    "C": "কোনোটিই নয়",
+    "D": "৬.০২ × ১০²²"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "রাসায়নিক গণনা পরীক্ষায় —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "অগুরুত্বপূর্ণ",
+    "C": "ঐচ্ছিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "১৬ গ্রাম CH₄ তে মোল সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "০.৫",
+    "C": "১",
+    "D": "২"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "CaCO₃ তে C এর শতকরা রচনা —",
+   "options": {
+    "A": "১২%",
+    "B": "কোনোটিই নয়",
+    "C": "৪০%",
+    "D": "৪৮%"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "১ মোল NH₃ তে H পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "৩ × ৬.০২ × ১০²³",
+    "B": "২ গুণ",
+    "C": "কোনোটিই নয়",
+    "D": "৬.০২ × ১০²³"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "H₂O তে H এর শতকরা রচনা —",
+   "options": {
+    "A": "৮৮.৯%",
+    "B": "কোনোটিই নয়",
+    "C": "১১.১%",
+    "D": "৫০%"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "মোলার ভরের প্রতীক —",
+   "options": {
+    "A": "m",
+    "B": "কোনোটিই নয়",
+    "C": "M",
+    "D": "n"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "NaOH এ Na এর শতকরা রচনা —",
+   "options": {
+    "A": "৫৭.৫%",
+    "B": "কোনোটিই নয়",
+    "C": "৪০%",
+    "D": "২.৫%"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "মোল সংখ্যার প্রতীক —",
+   "options": {
+    "A": "n",
+    "B": "N",
+    "C": "M",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "CH₄ + 2O₂ → CO₂ + 2H₂O বিক্রিয়ায় ১৬ গ্রাম CH₄ থেকে কত গ্রাম CO₂?",
+   "options": {
+    "A": "৪৪",
+    "B": "কোনোটিই নয়",
+    "C": "৮৮",
+    "D": "২২"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "১ মোল CaCO₃ তে O পরমাণু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৬.০২×১০²³",
+    "C": "২ গুণ",
+    "D": "৩ × ৬.০২×১০²³"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "রাসায়নিক গণনায় মোল —",
+   "options": {
+    "A": "অপ্রয়োজনীয়",
+    "B": "অপরিহার্য",
+    "C": "কোনোটিই নয়",
+    "D": "ঐচ্ছিক"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "১ মোল MgCl₂ এর ভর —",
+   "options": {
+    "A": "৯৫ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "৯৪ গ্রাম",
+    "D": "৫৯ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "N₂ + 3H₂ → 2NH₃ বিক্রিয়ায় ৩ মোল H₂ থেকে কত মোল NH₃?",
+   "options": {
+    "A": "২",
+    "B": "কোনোটিই নয়",
+    "C": "৩",
+    "D": "১"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "Na এর পারমাণবিক ভর —",
+   "options": {
+    "A": "২২",
+    "B": "১১",
+    "C": "কোনোটিই নয়",
+    "D": "২৩"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "MgCl₂ এর মোলার ভর —",
+   "options": {
+    "A": "৯৪ গ্রাম",
+    "B": "৯৫ গ্রাম",
+    "C": "৫৯ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "যৌগের মোলার ভর নির্ণয়ে —",
+   "options": {
+    "A": "শুধু একটি পরমাণু",
+    "B": "সব পরমাণুর ভর যোগ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "রাসায়নিক সমীকরণ কাকে বলে?",
+   "options": {
+    "A": "মৌলের প্রতীক",
+    "B": "কোনোটিই নয়",
+    "C": "বিক্রিয়ার সংক্ষিপ্ত প্রকাশ",
+    "D": "সংকেত"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "৮৮ গ্রাম CO₂ তে মোল সংখ্যা —",
+   "options": {
+    "A": "১",
+    "B": "২",
+    "C": "কোনোটিই নয়",
+    "D": "০.৫"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "CaCl₂ এর মোলার ভর —",
+   "options": {
+    "A": "১১০ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "৭৫ গ্রাম",
+    "D": "১১১ গ্রাম"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "STP তে ০.৫ মোল গ্যাসের আয়তন —",
+   "options": {
+    "A": "৪৪.৮ লিটার",
+    "B": "১১.২ লিটার",
+    "C": "কোনোটিই নয়",
+    "D": "২২.৪ লিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "CO₂ তে C এর শতকরা রচনা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২৭.৩%",
+    "C": "৭২.৭%",
+    "D": "৫০%"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "অ্যাভোগাড্রো সংখ্যার প্রতীক —",
+   "options": {
+    "A": "M",
+    "B": "কোনোটিই নয়",
+    "C": "n",
+    "D": "N_A"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "পানির প্রকৃত ও স্থূল সংকেত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "একই (H₂O)",
+    "C": "ভিন্ন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "২৮ গ্রাম Fe এ মোল সংখ্যা —",
+   "options": {
+    "A": "১",
+    "B": "২",
+    "C": "০.৫",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "অ্যাসিটিলিনের স্থূল সংকেত —",
+   "options": {
+    "A": "C₆H₆",
+    "B": "কোনোটিই নয়",
+    "C": "CH",
+    "D": "C₂H₂"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "২৮ গ্রাম N₂ তে মোল সংখ্যা —",
+   "options": {
+    "A": "২",
+    "B": "১",
+    "C": "০.৫",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "2Na + Cl₂ → 2NaCl এ Cl₂ ও NaCl এর অনুপাত —",
+   "options": {
+    "A": "১:১",
+    "B": "২:১",
+    "C": "১:২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "১৩.৫ গ্রাম Al এ মোল সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "০.৫",
+    "C": "১",
+    "D": "২"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "শিল্পে রাসায়নিক গণনা —",
+   "options": {
+    "A": "হয় না",
+    "B": "দরকার নেই",
+    "C": "ব্যবহৃত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "পর্যায় সারণি থেকে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "পারমাণবিক ভর পাওয়া যায়",
+    "D": "কিছুই পাওয়া যায় না"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "পরীক্ষাগারে রাসায়নিক গণনা —",
+   "options": {
+    "A": "ব্যবহৃত হয়",
+    "B": "হয় না",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "২ মোল Mg এর ভর —",
+   "options": {
+    "A": "২৪ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "৪৮ গ্রাম",
+    "D": "১২ গ্রাম"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "মোল ও রাসায়নিক সমীকরণ —",
+   "options": {
+    "A": "সম্পর্কহীন",
+    "B": "দুর্বল",
+    "C": "পরস্পর সম্পর্কিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "১ মোল O₂ তে পরমাণু —",
+   "options": {
+    "A": "২ × ৬.০২×১০²³",
+    "B": "অর্ধেক",
+    "C": "৬.০২×১০²³",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "NaOH + HCl → NaCl + H₂O এ NaOH ও HCl এর অনুপাত —",
+   "options": {
+    "A": "১:২",
+    "B": "১:১",
+    "C": "কোনোটিই নয়",
+    "D": "২:১"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "৩২ গ্রাম O₂ তে মোল সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২",
+    "C": "০.৫",
+    "D": "১"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "2H₂ + O₂ → 2H₂O বিক্রিয়ায় ৪ গ্রাম H₂ থেকে কত গ্রাম H₂O?",
+   "options": {
+    "A": "৩৬",
+    "B": "কোনোটিই নয়",
+    "C": "১৮",
+    "D": "৭২"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "STP তে ৪৪ গ্রাম CO₂ এর আয়তন —",
+   "options": {
+    "A": "২২.৪ লিটার",
+    "B": "১১.২ লিটার",
+    "C": "কোনোটিই নয়",
+    "D": "৪৪.৮ লিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "2H₂ + O₂ → 2H₂O এ H₂ ও H₂O এর অনুপাত —",
+   "options": {
+    "A": "১:১",
+    "B": "কোনোটিই নয়",
+    "C": "২:১",
+    "D": "১:২"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "৩৫.৫ গ্রাম Cl₂ এ মোল সংখ্যা —",
+   "options": {
+    "A": "২",
+    "B": "কোনোটিই নয়",
+    "C": "০.৫",
+    "D": "১"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "সমীকরণে বিক্রিয়ক লেখা হয় —",
+   "options": {
+    "A": "বাম পাশে",
+    "B": "কোনোটিই নয়",
+    "C": "ডান পাশে",
+    "D": "মাঝে"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "১ মোল NH₃ তে মোট পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "৩ × ৬.০২ × ১০²³",
+    "B": "৬.০২ × ১০²³",
+    "C": "৪ × ৬.০২ × ১০²³",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "সমীকরণ সমতা না করলে —",
+   "options": {
+    "A": "গণনা সঠিক হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "গণনা ভুল হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "২ মোল NH₃ তে N পরমাণু —",
+   "options": {
+    "A": "৪ × ৬.০২×১০²³",
+    "B": "কোনোটিই নয়",
+    "C": "২ × ৬.০২×১০²³",
+    "D": "১ গুণ"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "স্থূল সংকেত CH ও আণবিক ভর ৭৮ হলে n = ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২",
+    "C": "৩",
+    "D": "৬"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "মোল রসায়নের —",
+   "options": {
+    "A": "ঐচ্ছিক",
+    "B": "অগুরুত্বপূর্ণ",
+    "C": "কোনোটিই নয়",
+    "D": "গুরুত্বপূর্ণ ধারণা"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "প্রকৃত সংকেত = ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "(স্থূল সংকেত)n",
+    "D": "স্থূল সংকেত"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "Cu এর পারমাণবিক ভর —",
+   "options": {
+    "A": "৬৩.৫",
+    "B": "কোনোটিই নয়",
+    "C": "৬৪",
+    "D": "৬৩"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "সমীকরণ সমতা করা —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "দরকার নেই",
+    "C": "জরুরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "STP তে ১ মোল CO₂ এর আয়তন —",
+   "options": {
+    "A": "৪৪.৮ লিটার",
+    "B": "২২.৪ লিটার",
+    "C": "কোনোটিই নয়",
+    "D": "১১.২ লিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "C₂H₅OH এর মোলার ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৪৬ গ্রাম",
+    "C": "৪৭ গ্রাম",
+    "D": "৪৫ গ্রাম"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "n = m/M এ M কী?",
+   "options": {
+    "A": "মোল সংখ্যা",
+    "B": "কোনোটিই নয়",
+    "C": "মোলার ভর",
+    "D": "ভর"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "সমীকরণের সহগ থেকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মোলের অনুপাত জানা যায়",
+    "C": "কোনোটিই নয়",
+    "D": "ভর জানা যায়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "১০৮ গ্রাম Ag এ মোল সংখ্যা —",
+   "options": {
+    "A": "০.৫",
+    "B": "কোনোটিই নয়",
+    "C": "১",
+    "D": "২"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "গ্লুকোজের স্থূল সংকেত —",
+   "options": {
+    "A": "CH₂O",
+    "B": "কোনোটিই নয়",
+    "C": "CH₄",
+    "D": "C₆H₁₂O₆"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "১ মোল ZnO এর ভর —",
+   "options": {
+    "A": "৬৫ গ্রাম",
+    "B": "৮০ গ্রাম",
+    "C": "৮১ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "রাসায়নিক গণনায় একক বাদ দেওয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সঠিক",
+    "C": "ভুল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "মোলের প্রতীক —",
+   "options": {
+    "A": "mol",
+    "B": "M",
+    "C": "m",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "CH₄ + 2O₂ → CO₂ + 2H₂O বিক্রিয়ায় ১ মোল CH₄ থেকে কত মোল CO₂?",
+   "options": {
+    "A": "০.৫",
+    "B": "কোনোটিই নয়",
+    "C": "১",
+    "D": "২"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "Ca এর পারমাণবিক ভর —",
+   "options": {
+    "A": "৪০",
+    "B": "কোনোটিই নয়",
+    "C": "৩৮",
+    "D": "২০"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "2Mg + O₂ → 2MgO এ Mg ও O₂ এর অনুপাত —",
+   "options": {
+    "A": "১:২",
+    "B": "কোনোটিই নয়",
+    "C": "১:১",
+    "D": "২:১"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "১ মোল C₆H₁₂O₆ এর ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৮২ গ্রাম",
+    "C": "১৮০ গ্রাম",
+    "D": "১৭৬ গ্রাম"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "সমীকরণের সহগ থেকে মোলের —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই পাওয়া যায় না",
+    "D": "অনুপাত পাওয়া যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "মোল কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৬.০২ × ১০²³ কণার সমষ্টি",
+    "C": "১০²³ কণা",
+    "D": "১০০ কণা"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "CH₄ + 2O₂ → CO₂ + 2H₂O এ CH₄ ও CO₂ এর অনুপাত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১:১",
+    "C": "২:১",
+    "D": "১:২"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "২৩ গ্রাম Na এ মোল সংখ্যা —",
+   "options": {
+    "A": "১",
+    "B": "০.৫",
+    "C": "কোনোটিই নয়",
+    "D": "২"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "C₆H₁₂O₆ এর মোলার ভর —",
+   "options": {
+    "A": "১৮২ গ্রাম",
+    "B": "১৮০ গ্রাম",
+    "C": "১৭৬ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "STP তে ১ মোল H₂ এর আয়তন —",
+   "options": {
+    "A": "৪৪.৮ লিটার",
+    "B": "কোনোটিই নয়",
+    "C": "২২.৪ লিটার",
+    "D": "১১.২ লিটার"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "রাসায়নিক গণনায় প্রথম ধাপ —",
+   "options": {
+    "A": "সমীকরণ সমতা করা",
+    "B": "ভর মাপা",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "পারমাণবিক ভর পাওয়া যায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পর্যায় সারণি থেকে",
+    "C": "গন্ধ থেকে",
+    "D": "রং থেকে"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "গ্লুকোজের প্রকৃত সংকেত —",
+   "options": {
+    "A": "C₆H₁₂O₆",
+    "B": "C₆H₆",
+    "C": "CH₂O",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "Fe এর পারমাণবিক ভর —",
+   "options": {
+    "A": "৫৫",
+    "B": "২৬",
+    "C": "কোনোটিই নয়",
+    "D": "৫৬"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "2Mg + O₂ → 2MgO এ Mg ও MgO এর অনুপাত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২:১",
+    "C": "১:২",
+    "D": "১:১"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "১ মোল Na₂CO₃ তে মোট পরমাণু —",
+   "options": {
+    "A": "৬ × ৬.০২×১০²³",
+    "B": "৫ গুণ",
+    "C": "কোনোটিই নয়",
+    "D": "৪ গুণ"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "2H₂ + O₂ → 2H₂O বিক্রিয়ায় ৩২ গ্রাম O₂ থেকে কত গ্রাম H₂O?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৮",
+    "C": "৩৬",
+    "D": "৭২"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "৮ গ্রাম O₂ তে মোল সংখ্যা —",
+   "options": {
+    "A": "১",
+    "B": "০.২৫",
+    "C": "০.৫",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "N₂ + 3H₂ → 2NH₃ এ N₂ ও H₂ এর অনুপাত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১:৩",
+    "C": "৩:১",
+    "D": "১:১"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "মোলার ভর জানা থাকলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "মোল সংখ্যা নির্ণয় করা যায়",
+    "C": "কিছুই করা যায় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "MgO এর মোলার ভর = ?",
+   "options": {
+    "A": "২৪ + ৩২",
+    "B": "কোনোটিই নয়",
+    "C": "১২ + ১৬",
+    "D": "২৪ + ১৬"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "১ মোল HNO₃ তে O পরমাণু —",
+   "options": {
+    "A": "৬.০২×১০²³",
+    "B": "কোনোটিই নয়",
+    "C": "২ গুণ",
+    "D": "৩ × ৬.০২×১০²³"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "CH এর ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৩",
+    "C": "১৪",
+    "D": "১২"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "Mg এর পারমাণবিক ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২৪",
+    "C": "১২",
+    "D": "২৫"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "Fe₂O₃ এর মোলার ভর —",
+   "options": {
+    "A": "১৫৬ গ্রাম",
+    "B": "১৬০ গ্রাম",
+    "C": "কোনোটিই নয়",
+    "D": "১৬২ গ্রাম"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "২ মোল পানিতে অণুর সংখ্যা —",
+   "options": {
+    "A": "৬.০২×১০²³",
+    "B": "কোনোটিই নয়",
+    "C": "অর্ধেক",
+    "D": "২ × ৬.০২×১০²³"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "ভরের সংরক্ষণ সূত্র দেন —",
+   "options": {
+    "A": "নিউটন",
+    "B": "ডাল্টন",
+    "C": "ল্যাভয়সিয়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "মোল রসায়নবিদ্যার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ভিত্তি",
+    "D": "অলংকার"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "2H₂ + O₂ → 2H₂O এ O₂ ও H₂O এর অনুপাত —",
+   "options": {
+    "A": "১:১",
+    "B": "২:১",
+    "C": "১:২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "Ca(OH)₂ এর মোলার ভর = ?",
+   "options": {
+    "A": "৪০ + ৩২ + ২",
+    "B": "৪০ + ৩২ + ৪",
+    "C": "৪০ + ১৬ + ২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "NH₃ তে N এর শতকরা রচনা —",
+   "options": {
+    "A": "৫০%",
+    "B": "৮২.৪%",
+    "C": "১৭.৬%",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "STP তে ৩২ গ্রাম O₂ এর আয়তন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৪৪.৮ লিটার",
+    "C": "২২.৪ লিটার",
+    "D": "১১.২ লিটার"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "NH₃ তে H এর শতকরা রচনা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৮২.৪%",
+    "C": "১৭.৬%",
+    "D": "৫০%"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "মোলার আয়তনের প্রতীক —",
+   "options": {
+    "A": "V_m",
+    "B": "কোনোটিই নয়",
+    "C": "V",
+    "D": "M"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "CaCO₃ তে Ca এর শতকরা রচনা —",
+   "options": {
+    "A": "৪৮%",
+    "B": "কোনোটিই নয়",
+    "C": "১২%",
+    "D": "৪০%"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "STP তে ২ মোল গ্যাসের আয়তন —",
+   "options": {
+    "A": "১১.২ লিটার",
+    "B": "৪৪.৮ লিটার",
+    "C": "কোনোটিই নয়",
+    "D": "২২.৪ লিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "ভরের সংরক্ষণ সূত্র —",
+   "options": {
+    "A": "ভর বাড়ে",
+    "B": "বিক্রিয়ায় ভর অপরিবর্তিত",
+    "C": "ভর কমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "অ্যাভোগাড্রো সংখ্যা একটি —",
+   "options": {
+    "A": "ধ্রুবক",
+    "B": "কোনোটিই নয়",
+    "C": "পরিবর্তনশীল",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "NaOH এ O এর শতকরা রচনা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২.৫%",
+    "C": "৫৭.৫%",
+    "D": "৪০%"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "১ মোল H₂O তে H পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "অর্ধেক",
+    "B": "কোনোটিই নয়",
+    "C": "৬.০২ × ১০²³",
+    "D": "২ × ৬.০২ × ১০²³"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "রাসায়নিক গণনায় ভুল এড়াতে —",
+   "options": {
+    "A": "কিছুই লাগে না",
+    "B": "সতর্কতা প্রয়োজন",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "S এর পারমাণবিক ভর —",
+   "options": {
+    "A": "১৬",
+    "B": "২৮",
+    "C": "৩২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "মোলের সাহায্যে —",
+   "options": {
+    "A": "কিছুই হয় না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "বিক্রিয়কের পরিমাণ নির্ণয় হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "৬৪ গ্রাম O₂ তে মোল সংখ্যা —",
+   "options": {
+    "A": "১",
+    "B": "২",
+    "C": "কোনোটিই নয়",
+    "D": "০.৫"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "CuO এর মোলার ভর —",
+   "options": {
+    "A": "৭৯.৫ গ্রাম",
+    "B": "৭৯ গ্রাম",
+    "C": "কোনোটিই নয়",
+    "D": "৮০ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "০.৫ মোল Zn এর ভর —",
+   "options": {
+    "A": "৬৫ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "১৩০ গ্রাম",
+    "D": "৩২.৫ গ্রাম"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "HNO₃ এর মোলার ভর —",
+   "options": {
+    "A": "৬৪ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "৬২ গ্রাম",
+    "D": "৬৩ গ্রাম"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "মোলের ধারণা থেকে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "পরমাণু সংখ্যা নির্ণয় হয়",
+    "C": "কিছুই হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "Na₂CO₃ এর মোলার ভর —",
+   "options": {
+    "A": "১০৫ গ্রাম",
+    "B": "৮৩ গ্রাম",
+    "C": "১০৬ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "১৬ গ্রাম O₂ তে মোল সংখ্যা —",
+   "options": {
+    "A": "১",
+    "B": "০.৫",
+    "C": "কোনোটিই নয়",
+    "D": "২"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "CH₃COOH এর মোলার ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৬০ গ্রাম",
+    "C": "৬১ গ্রাম",
+    "D": "৫৯ গ্রাম"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "মোলের ধারণা পরীক্ষাগারে —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "ব্যবহৃত হয়",
+    "C": "হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "NaCl তে Na এর শতকরা রচনা —",
+   "options": {
+    "A": "৩৯.৩%",
+    "B": "৬০.৭%",
+    "C": "কোনোটিই নয়",
+    "D": "৫০%"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক গণনা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "মোলার ভর M নির্ণয়ে —",
+   "options": {
+    "A": "ভরকে মোল দিয়ে ভাগ",
+    "B": "ভর গুণ",
+    "C": "কোনোটিই নয়",
+    "D": "মোলকে ভর দিয়ে ভাগ"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "১ মোল H₂O তে মোট পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "২ × ৬.০২ × ১০²³",
+    "B": "৬.০২ × ১০²³",
+    "C": "৩ × ৬.০২ × ১০²³",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "পানির মোলার ভর —",
+   "options": {
+    "A": "১৮ গ্রাম/মোল",
+    "B": "১৮ amu",
+    "C": "কোনোটিই নয়",
+    "D": "৩৬ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "HNO₃ এর মোলার ভর = ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১ + ১৪ + ৩২",
+    "C": "১ + ১৪ + ৪৮",
+    "D": "২ + ১৪ + ৪৮"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "৬ গ্রাম C এ মোল সংখ্যা —",
+   "options": {
+    "A": "২",
+    "B": "০.৫",
+    "C": "কোনোটিই নয়",
+    "D": "১"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "০.৫ মোল Na এর ভর —",
+   "options": {
+    "A": "৪৬ গ্রাম",
+    "B": "১১.৫ গ্রাম",
+    "C": "২৩ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "ওষুধ শিল্পে মোল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হয় না",
+    "C": "ব্যবহৃত হয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "NaCl এর মোলার ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৫৮ গ্রাম",
+    "C": "৫৮.৫ গ্রাম",
+    "D": "৫৯ গ্রাম"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "২ মোল NH₃ তে H পরমাণু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৬ × ৬.০২×১০²³",
+    "C": "৩ × ৬.০২×১০²³",
+    "D": "৪ গুণ"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "মোলের ধারণা ব্যবহারে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কঠিন হয়",
+    "C": "গণনা সহজ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "STP তে ১ মোল গ্যাসে অণুর সংখ্যা —",
+   "options": {
+    "A": "৬.০২×১০²³",
+    "B": "কোনোটিই নয়",
+    "C": "১০²²",
+    "D": "১০²³"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "২ মোল CH₄ তে মোট পরমাণু —",
+   "options": {
+    "A": "১০ × ৬.০২×১০²³",
+    "B": "কোনোটিই নয়",
+    "C": "৮ × ৬.০২×১০²³",
+    "D": "৫ গুণ"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "STP তে ২ গ্রাম H₂ এর আয়তন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১১.২ লিটার",
+    "C": "৪৪.৮ লিটার",
+    "D": "২২.৪ লিটার"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "আদর্শ তাপমাত্রা কত?",
+   "options": {
+    "A": "০°C",
+    "B": "কোনোটিই নয়",
+    "C": "২৫°C",
+    "D": "১০০°C"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "গ্যাসের মোল সংখ্যা = ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২২.৪/আয়তন",
+    "C": "আয়তন/২২.৪",
+    "D": "আয়তন × ২২.৪"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "১২ গ্রাম C এ মোল সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২",
+    "C": "০.৫",
+    "D": "১"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "১ মোল Al এর ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৩.৫ গ্রাম",
+    "C": "৫৪ গ্রাম",
+    "D": "২৭ গ্রাম"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "১ মোল S এর ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৬ গ্রাম",
+    "C": "৬৪ গ্রাম",
+    "D": "৩২ গ্রাম"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "১ মোল Al₂O₃ তে মোট পরমাণু —",
+   "options": {
+    "A": "৪ গুণ",
+    "B": "৬.০২×১০²³",
+    "C": "কোনোটিই নয়",
+    "D": "৫ × ৬.০২×১০²³"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "০.৫ মোল Cl₂ এর ভর —",
+   "options": {
+    "A": "৩৫.৫ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "১৭.৭৫ গ্রাম",
+    "D": "৭১ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "মোল একটি —",
+   "options": {
+    "A": "ধ্রুবক",
+    "B": "একক",
+    "C": "কোনোটিই নয়",
+    "D": "সংখ্যা"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "মোলের ধারণা শিক্ষায় —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "ঐচ্ছিক",
+    "C": "অগুরুত্বপূর্ণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "২ মোল H₂O তে মোট পরমাণু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৬ × ৬.০২×১০²³",
+    "C": "৫ গুণ",
+    "D": "৪ × ৬.০২×১০²³"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "K এর পারমাণবিক ভর —",
+   "options": {
+    "A": "১৯",
+    "B": "৪০",
+    "C": "৩৯",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "৩ মোল O₂ তে পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৩ × ৬.০২×১০²³",
+    "C": "২ গুণ",
+    "D": "৬ × ৬.০২×১০²³"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "১ মোল H₂SO₄ তে S পরমাণু —",
+   "options": {
+    "A": "২ গুণ",
+    "B": "কোনোটিই নয়",
+    "C": "৩ গুণ",
+    "D": "১ × ৬.০২×১০²³"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "STP তে ১১.২ লিটার গ্যাসের মোল সংখ্যা —",
+   "options": {
+    "A": "১",
+    "B": "কোনোটিই নয়",
+    "C": "০.৫",
+    "D": "২"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "১ মোল CH₃COOH এর ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৬০ গ্রাম",
+    "C": "৫৯ গ্রাম",
+    "D": "৬১ গ্রাম"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "১ মোল CuO এর ভর —",
+   "options": {
+    "A": "৭৯ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "৭৯.৫ গ্রাম",
+    "D": "৮০ গ্রাম"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "মোলের ধারণা রাসায়নিক শিল্পে —",
+   "options": {
+    "A": "ঐচ্ছিক",
+    "B": "অপ্রয়োজনীয়",
+    "C": "অপরিহার্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "৪০ গ্রাম NaOH এ মোল সংখ্যা —",
+   "options": {
+    "A": "১",
+    "B": "২",
+    "C": "কোনোটিই নয়",
+    "D": "০.৫"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "CO₂ এর মোলার ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৪৪ গ্রাম",
+    "C": "৩২ গ্রাম",
+    "D": "২৮ গ্রাম"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "০.৫ মোল O₂ এর ভর —",
+   "options": {
+    "A": "১৬ গ্রাম",
+    "B": "৬৪ গ্রাম",
+    "C": "৩২ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "১ মোল Na₂CO₃ তে Na পরমাণু —",
+   "options": {
+    "A": "৬.০২×১০²³",
+    "B": "২ × ৬.০২×১০²³",
+    "C": "কোনোটিই নয়",
+    "D": "৩ গুণ"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "মোল ছাড়া রাসায়নিক গণনা —",
+   "options": {
+    "A": "অসম্ভব নয়",
+    "B": "সহজ",
+    "C": "কঠিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "১ মোল Al₂O₃ এর ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১০০ গ্রাম",
+    "C": "১০২ গ্রাম",
+    "D": "১০৪ গ্রাম"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "১ মোল N₂ এর ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৫৬ গ্রাম",
+    "C": "২৮ গ্রাম",
+    "D": "১৪ গ্রাম"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "n = m/M এ n কী?",
+   "options": {
+    "A": "ভর",
+    "B": "মোল সংখ্যা",
+    "C": "মোলার ভর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "মোল সংখ্যা জানা থাকলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ভর নির্ণয় করা যায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই করা যায় না"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "২ মোল S এর ভর —",
+   "options": {
+    "A": "৩২ গ্রাম",
+    "B": "১৬ গ্রাম",
+    "C": "৬৪ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "আণবিক ভর ও মোলার ভরের মান —",
+   "options": {
+    "A": "দ্বিগুণ",
+    "B": "ভিন্ন",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "১ মোল O₂ তে পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "২ × ৬.০২ × ১০²³",
+    "B": "অর্ধেক",
+    "C": "৬.০২ × ১০²³",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "Na₂CO₃ এর মোলার ভর = ?",
+   "options": {
+    "A": "৪৬ + ১২ + ৩২",
+    "B": "৪৬ + ১২ + ৪৮",
+    "C": "কোনোটিই নয়",
+    "D": "২৩ + ১২ + ৪৮"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "STP তে ১ মোল গ্যাসের আয়তন —",
+   "options": {
+    "A": "২৪ লিটার",
+    "B": "কোনোটিই নয়",
+    "C": "২২ লিটার",
+    "D": "২২.৪ লিটার"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "১ মোল NaHCO₃ এর ভর —",
+   "options": {
+    "A": "৮৪ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "৮৩ গ্রাম",
+    "D": "৮৫ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "মোল, ভর, আয়তন ও কণা সংখ্যা —",
+   "options": {
+    "A": "পরস্পর সম্পর্কিত",
+    "B": "সম্পর্কহীন",
+    "C": "দুর্বল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "গ্যাসের মোলার আয়তন নির্ভর করে —",
+   "options": {
+    "A": "গ্যাসের প্রকৃতিতে",
+    "B": "রংয়ে",
+    "C": "তাপমাত্রা ও চাপে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "৯ গ্রাম পানিতে মোল সংখ্যা —",
+   "options": {
+    "A": "১",
+    "B": "০.৫",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "২৪ গ্রাম Mg এ মোল সংখ্যা —",
+   "options": {
+    "A": "২",
+    "B": "০.৫",
+    "C": "কোনোটিই নয়",
+    "D": "১"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "১১.৫ গ্রাম Na এ মোল সংখ্যা —",
+   "options": {
+    "A": "১",
+    "B": "২",
+    "C": "কোনোটিই নয়",
+    "D": "০.৫"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "H₂ এর মোলার ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২ গ্রাম",
+    "C": "১ গ্রাম",
+    "D": "৪ গ্রাম"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "৪০ গ্রাম Ca এ মোল সংখ্যা —",
+   "options": {
+    "A": "১",
+    "B": "কোনোটিই নয়",
+    "C": "০.৫",
+    "D": "২"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "১ মোল O₂ তে অণুর সংখ্যা —",
+   "options": {
+    "A": "৬.০২ × ১০²³",
+    "B": "কোনোটিই নয়",
+    "C": "১০²³",
+    "D": "৬.০২ × ১০²²"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "১৭ গ্রাম NH₃ তে মোল সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১",
+    "C": "০.৫",
+    "D": "২"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "২ মোল NaOH এর ভর —",
+   "options": {
+    "A": "৪০ গ্রাম",
+    "B": "৮০ গ্রাম",
+    "C": "কোনোটিই নয়",
+    "D": "২০ গ্রাম"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "মোল রসায়নে —",
+   "options": {
+    "A": "অপ্রয়োজনীয়",
+    "B": "ঐচ্ছিক",
+    "C": "অপরিহার্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "১৮ গ্রাম পানিতে মোল সংখ্যা —",
+   "options": {
+    "A": "০.৫",
+    "B": "কোনোটিই নয়",
+    "C": "২",
+    "D": "১"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "মোলের ধারণা প্রথম কত সালে?",
+   "options": {
+    "A": "১৮০০ সালে",
+    "B": "১৭০০ সালে",
+    "C": "১৯০০ সালের দিকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "১৪ গ্রাম N₂ তে মোল সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২",
+    "C": "১",
+    "D": "০.৫"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "মোলার আয়তন কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১ অণুর আয়তন",
+    "C": "১ মোল গ্যাসের আয়তন",
+    "D": "১ গ্রাম গ্যাসের আয়তন"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "H₂SO₄ এর মোলার ভর = ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২ + ৩২ + ৬৪",
+    "C": "২ + ৩২ + ৩২",
+    "D": "১ + ৩২ + ৬৪"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "মোলের ধারণা ছাড়া রাসায়নিক সমীকরণের গণনা —",
+   "options": {
+    "A": "সহজ",
+    "B": "অসম্পূর্ণ",
+    "C": "সম্পূর্ণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "HCl এর মোলার ভর —",
+   "options": {
+    "A": "৩৭ গ্রাম",
+    "B": "৩৬ গ্রাম",
+    "C": "৩৬.৫ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "০.৫ মোল MgO এর ভর —",
+   "options": {
+    "A": "৪০ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "২০ গ্রাম",
+    "D": "৮০ গ্রাম"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "মোলার ভর নির্ণয়ের প্রথম ধাপ —",
+   "options": {
+    "A": "পারমাণবিক ভর জানা",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "রং জানা"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "১ মোল CH₄ তে H পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "৬.০২ × ১০²³",
+    "B": "কোনোটিই নয়",
+    "C": "২ গুণ",
+    "D": "৪ × ৬.০২ × ১০²³"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "H₂O এর মোলার ভর = ?",
+   "options": {
+    "A": "১ + ১৬",
+    "B": "২×১ + ১৬",
+    "C": "কোনোটিই নয়",
+    "D": "২×১৬"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "৬৫ গ্রাম Zn এ মোল সংখ্যা —",
+   "options": {
+    "A": "১",
+    "B": "০.৫",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "২ মোল H₂O তে O পরমাণু —",
+   "options": {
+    "A": "১ গুণ",
+    "B": "৪ × ৬.০২×১০²³",
+    "C": "কোনোটিই নয়",
+    "D": "২ × ৬.০২×১০²³"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "O₂ এর মোলার ভর —",
+   "options": {
+    "A": "৪৮ গ্রাম",
+    "B": "১৬ গ্রাম",
+    "C": "৩২ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "২ মোল Na এর ভর —",
+   "options": {
+    "A": "৪৬ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "২৩ গ্রাম",
+    "D": "৬৯ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "৫৮.৫ গ্রাম NaCl তে মোল সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১",
+    "C": "২",
+    "D": "০.৫"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "সার শিল্পে মোল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ব্যবহৃত হয়",
+    "C": "দরকার নেই",
+    "D": "হয় না"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "৩ মোল H₂ এর ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২ গ্রাম",
+    "C": "৪ গ্রাম",
+    "D": "৬ গ্রাম"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "২৪ গ্রাম C এ মোল সংখ্যা —",
+   "options": {
+    "A": "০.৫",
+    "B": "১",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "৭ গ্রাম N এ মোল সংখ্যা —",
+   "options": {
+    "A": "২",
+    "B": "১",
+    "C": "০.৫",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "১ মোল CH₄ তে মোট পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৫ × ৬.০২ × ১০²³",
+    "C": "৪ × ৬.০২ × ১০²³",
+    "D": "৬.০২ × ১০²³"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "আণবিক ভরের একক —",
+   "options": {
+    "A": "amu",
+    "B": "গ্রাম",
+    "C": "কোনোটিই নয়",
+    "D": "কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "CH₄ এর মোলার ভর —",
+   "options": {
+    "A": "১২ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "১৬ গ্রাম",
+    "D": "১৮ গ্রাম"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "১ মোল O₃ (ওজোন) তে পরমাণু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৬.০২×১০²³",
+    "C": "২ গুণ",
+    "D": "৩ × ৬.০২×১০²³"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "Cl এর পারমাণবিক ভর —",
+   "options": {
+    "A": "৩৫",
+    "B": "৩৫.৫",
+    "C": "কোনোটিই নয়",
+    "D": "৩৬"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "STP তে সব গ্যাসের মোলার আয়তন সমান — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ভিন্ন সূত্র",
+    "C": "অ্যাভোগাড্রোর সূত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "আদর্শ তাপমাত্রা ও চাপে (STP) মোলার আয়তন —",
+   "options": {
+    "A": "২২ লিটার",
+    "B": "২৪ লিটার",
+    "C": "২২.৪ লিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "২ মোল Ca এর ভর —",
+   "options": {
+    "A": "২০ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "৪০ গ্রাম",
+    "D": "৮০ গ্রাম"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "n = ?",
+   "options": {
+    "A": "m/M",
+    "B": "কোনোটিই নয়",
+    "C": "mM",
+    "D": "M/m"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "১ মোল CO₂ তে অণুর সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৬.০২ × ১০²²",
+    "C": "৬.০২ × ১০²³",
+    "D": "১০²³"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "০.৫ মোল CaO এর ভর —",
+   "options": {
+    "A": "১১২ গ্রাম",
+    "B": "৫৬ গ্রাম",
+    "C": "২৮ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "৩ মোল CO₂ এর ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৪৪ গ্রাম",
+    "C": "৮৮ গ্রাম",
+    "D": "১৩২ গ্রাম"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "০.৫ মোল NaCl এর ভর —",
+   "options": {
+    "A": "২৯.২৫ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "১১৭ গ্রাম",
+    "D": "৫৮.৫ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "H₂SO₄ এর মোলার ভর —",
+   "options": {
+    "A": "৯৮ গ্রাম",
+    "B": "১০০ গ্রাম",
+    "C": "কোনোটিই নয়",
+    "D": "৯৬ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "১ মোল H₂SO₄ তে O পরমাণু —",
+   "options": {
+    "A": "২ গুণ",
+    "B": "৬.০২×১০²³",
+    "C": "৪ × ৬.০২×১০²³",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "১ মোল CaCl₂ এর ভর —",
+   "options": {
+    "A": "১১০ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "৭৫ গ্রাম",
+    "D": "১১১ গ্রাম"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "১ মোল Na₂CO₃ এর ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১০৬ গ্রাম",
+    "C": "৮৩ গ্রাম",
+    "D": "১০৫ গ্রাম"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "২ মোল পানির ভর —",
+   "options": {
+    "A": "১৮ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "৩৬ গ্রাম",
+    "D": "৯ গ্রাম"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "কণা সংখ্যা = ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মোল/অ্যাভোগাড্রো",
+    "C": "মোল × অ্যাভোগাড্রো সংখ্যা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "১ মোল KCl এর ভর —",
+   "options": {
+    "A": "৭৪ গ্রাম",
+    "B": "৭৫ গ্রাম",
+    "C": "৭৪.৫ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "Zn এর পারমাণবিক ভর —",
+   "options": {
+    "A": "৬৫",
+    "B": "৬৪",
+    "C": "কোনোটিই নয়",
+    "D": "৩০"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "মোলের ধারণা রসায়নের —",
+   "options": {
+    "A": "স্তম্ভ",
+    "B": "অলংকার",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "০.৫ মোল পানির ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৮ গ্রাম",
+    "C": "৩৬ গ্রাম",
+    "D": "৯ গ্রাম"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "১ মোল Fe₂O₃ এর ভর —",
+   "options": {
+    "A": "১৫৬ গ্রাম",
+    "B": "১৬০ গ্রাম",
+    "C": "১৬২ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "১৯.৫ গ্রাম K এ মোল সংখ্যা —",
+   "options": {
+    "A": "১",
+    "B": "কোনোটিই নয়",
+    "C": "০.৫",
+    "D": "২"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "Ag এর পারমাণবিক ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৪৭",
+    "C": "১০৮",
+    "D": "১০৭"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "২ মোল CH₄ তে C পরমাণু —",
+   "options": {
+    "A": "২ × ৬.০২×১০²³",
+    "B": "৪ × ৬.০২×১০²³",
+    "C": "১ গুণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "মোল, ভর ও কণা সংখ্যার সম্পর্ক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দুর্বল",
+    "C": "নেই",
+    "D": "ঘনিষ্ঠ"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "অ্যাভোগাড্রো সংখ্যা কত?",
+   "options": {
+    "A": "৬.০২ × ১০²²",
+    "B": "৬.০২ × ১০²⁴",
+    "C": "৬.০২ × ১০²³",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "অ্যাভোগাড্রো সংখ্যা সব পদার্থের জন্য —",
+   "options": {
+    "A": "ভিন্ন",
+    "B": "সমান",
+    "C": "কোনোটিই নয়",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "২ মোল CH₄ তে H পরমাণু —",
+   "options": {
+    "A": "৪ × ৬.০২×১০²³",
+    "B": "৬ গুণ",
+    "C": "৮ × ৬.০২×১০²³",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "১ মোল CO₂ তে O পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "৬.০২ × ১০²³",
+    "B": "২ × ৬.০২ × ১০²³",
+    "C": "কোনোটিই নয়",
+    "D": "অর্ধেক"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "মোল সংখ্যা n = m/M সূত্রে n নির্ণয়ে —",
+   "options": {
+    "A": "ভর গুণ",
+    "B": "মোলার ভরকে ভর দিয়ে ভাগ",
+    "C": "ভরকে মোলার ভর দিয়ে ভাগ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "অ্যাভোগাড্রোর সূত্র অনুযায়ী সমান আয়তনে —",
+   "options": {
+    "A": "সমান অণু",
+    "B": "কোনোটিই নয়",
+    "C": "ভিন্ন অণু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "৯৮ গ্রাম H₂SO₄ তে মোল সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "০.৫",
+    "C": "১",
+    "D": "২"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "১ মোল Al₂O₃ তে Al পরমাণু —",
+   "options": {
+    "A": "৬.০২×১০²³",
+    "B": "কোনোটিই নয়",
+    "C": "২ × ৬.০২×১০²³",
+    "D": "৩ গুণ"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "১ মোল C₂H₅OH এর ভর —",
+   "options": {
+    "A": "৪৭ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "৪৬ গ্রাম",
+    "D": "৪৫ গ্রাম"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "১ মোল Na এর ভর —",
+   "options": {
+    "A": "১১ গ্রাম",
+    "B": "২৩ গ্রাম",
+    "C": "কোনোটিই নয়",
+    "D": "৪৬ গ্রাম"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "২০ গ্রাম Ca এ মোল সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "০.৫",
+    "C": "১",
+    "D": "২"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "২ মোল O₂ এর ভর —",
+   "options": {
+    "A": "৬৪ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "১৬ গ্রাম",
+    "D": "৩২ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "৪ গ্রাম H₂ তে মোল সংখ্যা —",
+   "options": {
+    "A": "২",
+    "B": "কোনোটিই নয়",
+    "C": "১",
+    "D": "০.৫"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "পানির আণবিক ভর —",
+   "options": {
+    "A": "১৮ গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "১৮ amu",
+    "D": "৩৬ amu"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "১ মোল আয়নে আয়ন সংখ্যা —",
+   "options": {
+    "A": "৬.০২ × ১০²³",
+    "B": "কোনোটিই নয়",
+    "C": "৬.০২ × ১০²²",
+    "D": "১০²³"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "৪৬ গ্রাম Na এ মোল সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২",
+    "C": "১",
+    "D": "০.৫"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "STP তে ৬৭.২ লিটার গ্যাসের মোল সংখ্যা —",
+   "options": {
+    "A": "৩",
+    "B": "১",
+    "C": "কোনোটিই নয়",
+    "D": "২"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "CO₂ এর মোলার ভর = ?",
+   "options": {
+    "A": "১২ + ২×১৬",
+    "B": "২×১২ + ১৬",
+    "C": "কোনোটিই নয়",
+    "D": "১২ + ১৬"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "১০০ গ্রাম CaCO₃ তে মোল সংখ্যা —",
+   "options": {
+    "A": "২",
+    "B": "০.৫",
+    "C": "কোনোটিই নয়",
+    "D": "১"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "CaCO₃ এর মোলার ভর —",
+   "options": {
+    "A": "৯০ গ্রাম",
+    "B": "১১০ গ্রাম",
+    "C": "কোনোটিই নয়",
+    "D": "১০০ গ্রাম"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "মোলার ভর কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১ অণুর ভর",
+    "C": "১ গ্রাম পদার্থের ভর",
+    "D": "১ মোল পদার্থের ভর"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "মোলার ভরের একক —",
+   "options": {
+    "A": "গ্রাম/মোল",
+    "B": "মোল",
+    "C": "কোনোটিই নয়",
+    "D": "গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "১ মোল Al₂O₃ তে O পরমাণু —",
+   "options": {
+    "A": "৩ × ৬.০২×১০²³",
+    "B": "কোনোটিই নয়",
+    "C": "২ গুণ",
+    "D": "৬.০২×১০²³"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "ভর m = nM সূত্রে m নির্ণয়ে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "মোলকে মোলার ভর দিয়ে গুণ",
+    "D": "মোলকে মোলার ভর দিয়ে ভাগ"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "NaOH এর মোলার ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৩৯ গ্রাম",
+    "C": "৪১ গ্রাম",
+    "D": "৪০ গ্রাম"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "STP তে গ্যাসের আয়তন = ?",
+   "options": {
+    "A": "মোল/২২.৪",
+    "B": "মোল × ২২.৪",
+    "C": "কোনোটিই নয়",
+    "D": "২২.৪/মোল"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "১ মোল Cl₂ এর ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৭১ গ্রাম",
+    "C": "৩৫.৫ গ্রাম",
+    "D": "৭০ গ্রাম"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "২ মোল K এর ভর —",
+   "options": {
+    "A": "১৯.৫ গ্রাম",
+    "B": "৭৮ গ্রাম",
+    "C": "৩৯ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "২৭ গ্রাম Al এ মোল সংখ্যা —",
+   "options": {
+    "A": "১",
+    "B": "কোনোটিই নয়",
+    "C": "২",
+    "D": "০.৫"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "H এর পারমাণবিক ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১",
+    "C": "২",
+    "D": "৩"
+   },
+   "correctAnswer": "B",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "১ মোল Cu এর ভর —",
+   "options": {
+    "A": "৩২ গ্রাম",
+    "B": "১২৭ গ্রাম",
+    "C": "৬৩.৫ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "Al এর পারমাণবিক ভর —",
+   "options": {
+    "A": "২৭",
+    "B": "২৮",
+    "C": "কোনোটিই নয়",
+    "D": "১৩"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "STP তে ২২.৪ লিটার গ্যাসে অণু —",
+   "options": {
+    "A": "অর্ধেক",
+    "B": "কোনোটিই নয়",
+    "C": "১০²³",
+    "D": "৬.০২×১০²³"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "মোল অর্থ —",
+   "options": {
+    "A": "ক্ষুদ্র",
+    "B": "ভর",
+    "C": "স্তূপ বা রাশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "মোলার ভর ও আণবিক ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শূন্য",
+    "C": "সাংখ্যিকভাবে সমান",
+    "D": "ভিন্ন"
+   },
+   "correctAnswer": "C",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "n = m/M এ m কী?",
+   "options": {
+    "A": "ভর",
+    "B": "মোল সংখ্যা",
+    "C": "কোনোটিই নয়",
+    "D": "মোলার ভর"
+   },
+   "correctAnswer": "A",
+   "topic": "মোলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "মোলার ভর নির্ণয়ে —",
+   "options": {
+    "A": "পারমাণবিক সংখ্যার যোগফল",
+    "B": "কোনোটিই নয়",
+    "C": "নিউট্রনের যোগফল",
+    "D": "পারমাণবিক ভরের যোগফল"
+   },
+   "correctAnswer": "D",
+   "topic": "মোলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "C",
+  "2": "C",
+  "3": "B",
+  "4": "B",
+  "5": "C",
+  "6": "C",
+  "7": "B",
+  "8": "B",
+  "9": "B",
+  "10": "A",
+  "11": "A",
+  "12": "B",
+  "13": "C",
+  "14": "D",
+  "15": "A",
+  "16": "B",
+  "17": "C",
+  "18": "B",
+  "19": "C",
+  "20": "D",
+  "21": "D",
+  "22": "C",
+  "23": "C",
+  "24": "C",
+  "25": "B",
+  "26": "D",
+  "27": "B",
+  "28": "D",
+  "29": "A",
+  "30": "D",
+  "31": "B",
+  "32": "B",
+  "33": "C",
+  "34": "B",
+  "35": "B",
+  "36": "A",
+  "37": "C",
+  "38": "C",
+  "39": "B",
+  "40": "C",
+  "41": "A",
+  "42": "B",
+  "43": "D",
+  "44": "B",
+  "45": "D",
+  "46": "A",
+  "47": "C",
+  "48": "D",
+  "49": "A",
+  "50": "D",
+  "51": "B",
+  "52": "A",
+  "53": "C",
+  "54": "B",
+  "55": "B",
+  "56": "A",
+  "57": "C",
+  "58": "A",
+  "59": "A",
+  "60": "B",
+  "61": "C",
+  "62": "A",
+  "63": "B",
+  "64": "D",
+  "65": "B",
+  "66": "D",
+  "67": "A",
+  "68": "C",
+  "69": "A",
+  "70": "A",
+  "71": "A",
+  "72": "C",
+  "73": "A",
+  "74": "B",
+  "75": "C",
+  "76": "D",
+  "77": "B",
+  "78": "C",
+  "79": "D",
+  "80": "C",
+  "81": "A",
+  "82": "A",
+  "83": "B",
+  "84": "D",
+  "85": "B",
+  "86": "B",
+  "87": "A",
+  "88": "D",
+  "89": "C",
+  "90": "C",
+  "91": "D",
+  "92": "B",
+  "93": "C",
+  "94": "A",
+  "95": "D",
+  "96": "D",
+  "97": "A",
+  "98": "A",
+  "99": "D",
+  "100": "D",
+  "101": "B",
+  "102": "C",
+  "103": "C",
+  "104": "A",
+  "105": "A",
+  "106": "A",
+  "107": "C",
+  "108": "C",
+  "109": "D",
+  "110": "A",
+  "111": "D",
+  "112": "B",
+  "113": "C",
+  "114": "A",
+  "115": "C",
+  "116": "C",
+  "117": "B",
+  "118": "B",
+  "119": "B",
+  "120": "D",
+  "121": "D",
+  "122": "C",
+  "123": "A",
+  "124": "A",
+  "125": "C",
+  "126": "A",
+  "127": "A",
+  "128": "C",
+  "129": "C",
+  "130": "A",
+  "131": "A",
+  "132": "A",
+  "133": "D",
+  "134": "B",
+  "135": "A",
+  "136": "A",
+  "137": "D",
+  "138": "B",
+  "139": "B",
+  "140": "C",
+  "141": "B",
+  "142": "D",
+  "143": "B",
+  "144": "B",
+  "145": "D",
+  "146": "B",
+  "147": "C",
+  "148": "C",
+  "149": "B",
+  "150": "C",
+  "151": "B",
+  "152": "C",
+  "153": "C",
+  "154": "A",
+  "155": "C",
+  "156": "C",
+  "157": "A",
+  "158": "B",
+  "159": "D",
+  "160": "A",
+  "161": "A",
+  "162": "A",
+  "163": "C",
+  "164": "A",
+  "165": "C",
+  "166": "D",
+  "167": "C",
+  "168": "D",
+  "169": "D",
+  "170": "C",
+  "171": "A",
+  "172": "C",
+  "173": "B",
+  "174": "B",
+  "175": "C",
+  "176": "B",
+  "177": "C",
+  "178": "A",
+  "179": "C",
+  "180": "C",
+  "181": "A",
+  "182": "C",
+  "183": "A",
+  "184": "D",
+  "185": "C",
+  "186": "D",
+  "187": "B",
+  "188": "B",
+  "189": "A",
+  "190": "B",
+  "191": "C",
+  "192": "A",
+  "193": "B",
+  "194": "A",
+  "195": "D",
+  "196": "D",
+  "197": "A",
+  "198": "C",
+  "199": "B",
+  "200": "B",
+  "201": "B",
+  "202": "D",
+  "203": "D",
+  "204": "B",
+  "205": "B",
+  "206": "B",
+  "207": "D",
+  "208": "C",
+  "209": "C",
+  "210": "C",
+  "211": "A",
+  "212": "B",
+  "213": "C",
+  "214": "C",
+  "215": "A",
+  "216": "D",
+  "217": "B",
+  "218": "B",
+  "219": "A",
+  "220": "D",
+  "221": "D",
+  "222": "B",
+  "223": "C",
+  "224": "D",
+  "225": "B",
+  "226": "A",
+  "227": "D",
+  "228": "D",
+  "229": "B",
+  "230": "C",
+  "231": "B",
+  "232": "B",
+  "233": "B",
+  "234": "A",
+  "235": "A",
+  "236": "C",
+  "237": "A",
+  "238": "C",
+  "239": "B",
+  "240": "B",
+  "241": "C",
+  "242": "C",
+  "243": "B",
+  "244": "C",
+  "245": "A",
+  "246": "A",
+  "247": "D",
+  "248": "A",
+  "249": "C",
+  "250": "D",
+  "251": "D",
+  "252": "D",
+  "253": "D",
+  "254": "A",
+  "255": "B",
+  "256": "A",
+  "257": "B",
+  "258": "C",
+  "259": "D",
+  "260": "D",
+  "261": "C",
+  "262": "B",
+  "263": "C",
+  "264": "C",
+  "265": "A",
+  "266": "B",
+  "267": "A",
+  "268": "B",
+  "269": "C",
+  "270": "C",
+  "271": "C",
+  "272": "B",
+  "273": "B",
+  "274": "C",
+  "275": "C",
+  "276": "A",
+  "277": "B",
+  "278": "D",
+  "279": "A",
+  "280": "A",
+  "281": "C",
+  "282": "B",
+  "283": "D",
+  "284": "D",
+  "285": "B",
+  "286": "A",
+  "287": "A",
+  "288": "B",
+  "289": "B",
+  "290": "C",
+  "291": "D",
+  "292": "C",
+  "293": "D",
+  "294": "C",
+  "295": "B",
+  "296": "B",
+  "297": "C",
+  "298": "C",
+  "299": "A",
+  "300": "D",
+  "301": "B",
+  "302": "A",
+  "303": "D",
+  "304": "C",
+  "305": "A",
+  "306": "B",
+  "307": "B",
+  "308": "D",
+  "309": "C",
+  "310": "C",
+  "311": "B",
+  "312": "A",
+  "313": "C",
+  "314": "D",
+  "315": "B",
+  "316": "C",
+  "317": "C",
+  "318": "D",
+  "319": "A",
+  "320": "C",
+  "321": "C",
+  "322": "D",
+  "323": "A",
+  "324": "A",
+  "325": "C",
+  "326": "D",
+  "327": "B",
+  "328": "C",
+  "329": "C",
+  "330": "C",
+  "331": "A",
+  "332": "A",
+  "333": "D",
+  "334": "B",
+  "335": "C",
+  "336": "C",
+  "337": "A",
+  "338": "D",
+  "339": "C",
+  "340": "B",
+  "341": "C",
+  "342": "B",
+  "343": "C",
+  "344": "A",
+  "345": "C",
+  "346": "C",
+  "347": "C",
+  "348": "B",
+  "349": "B",
+  "350": "A",
+  "351": "A",
+  "352": "C",
+  "353": "A",
+  "354": "B",
+  "355": "A",
+  "356": "A",
+  "357": "D",
+  "358": "D",
+  "359": "D",
+  "360": "A",
+  "361": "A",
+  "362": "C",
+  "363": "D",
+  "364": "B",
+  "365": "B",
+  "366": "B",
+  "367": "A",
+  "368": "B",
+  "369": "C",
+  "370": "A",
+  "371": "D",
+  "372": "C",
+  "373": "C",
+  "374": "A",
+  "375": "D"
+ }
+}
