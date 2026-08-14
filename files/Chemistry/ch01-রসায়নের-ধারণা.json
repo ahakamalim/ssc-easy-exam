@@ -1,0 +1,7134 @@
+{
+ "subject": "রসায়ন",
+ "chapterNo": 1,
+ "chapter": "রসায়নের ধারণা",
+ "questions": [
+  {
+   "question": "বরফ কোন অবস্থার পদার্থ?",
+   "options": {
+    "A": "তরল",
+    "B": "কোনোটিই নয়",
+    "C": "কঠিন",
+    "D": "বায়বীয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের পরিচিতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "আলকেমির লক্ষ্য ছিল —",
+   "options": {
+    "A": "ওষুধ তৈরি",
+    "B": "মূল্যবান ধাতু তৈরি",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "পানির বিশুদ্ধতা পরীক্ষা হয় —",
+   "options": {
+    "A": "বিশ্লেষণী রসায়নে",
+    "B": "কোনোটিই নয়",
+    "C": "জৈব রসায়নে",
+    "D": "ভৌত রসায়নে"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "সোনা কোন ধরনের পদার্থ?",
+   "options": {
+    "A": "যৌগ",
+    "B": "মৌল",
+    "C": "কোনোটিই নয়",
+    "D": "মিশ্রণ"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "দই তৈরি হওয়া কোন পরিবর্তন?",
+   "options": {
+    "A": "উভয়ই",
+    "B": "ভৌত",
+    "C": "কোনোটিই নয়",
+    "D": "রাসায়নিক"
+   },
+   "correctAnswer": "D",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "সালোকসংশ্লেষণে সূর্যালোক ও CO₂ ব্যবহার হয় —",
+   "options": {
+    "A": "উদ্ভিদে",
+    "B": "পাথরে",
+    "C": "প্রাণীতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "পরীক্ষাগারে পিপেট দিয়ে —",
+   "options": {
+    "A": "তাপ মাপা হয়",
+    "B": "সঠিক তরল নেওয়া হয়",
+    "C": "ভর মাপা হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "ব্রোমিনের প্রতীক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "Br",
+    "C": "Bo",
+    "D": "B"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "কার্বন ডাই-অক্সাইডে অক্সিজেন পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১",
+    "C": "৩",
+    "D": "২"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "পদার্থের তিন অবস্থা —",
+   "options": {
+    "A": "কঠিন, গ্যাস, প্লাজমা",
+    "B": "কঠিন, তরল, প্লাজমা",
+    "C": "কোনোটিই নয়",
+    "D": "কঠিন, তরল, বায়বীয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের পরিচিতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "আল-রাজি কে ছিলেন?",
+   "options": {
+    "A": "পদার্থবিদ",
+    "B": "রসায়নবিদ ও চিকিৎসক",
+    "C": "জীববিজ্ঞানী",
+    "D": "গণিতবিদ"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "ভৌত রসায়নের উদাহরণ বিষয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপগতিবিদ্যা, গতিবিদ্যা",
+    "C": "শুধু ধাতু",
+    "D": "শুধু গ্যাস"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "মৌল কাকে বলে?",
+   "options": {
+    "A": "ভিন্ন পরমাণুর মিশ্রণ",
+    "B": "দুই পরমাণুর যৌগ",
+    "C": "একই ধরনের পরমাণু দিয়ে গঠিত পদার্থ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার লক্ষণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "রং পরিবর্তন, তাপ, গ্যাস"
+   },
+   "correctAnswer": "D",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "পানি বিশুদ্ধকরণে ব্যবহৃত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ব্লিচিং পাউডার",
+    "C": "সার",
+    "D": "কীটনাশক"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "টেস্ট টিউব গরম করার সময় মুখ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "যেকোনো",
+    "C": "নিজের দিকে রাখা উচিত নয়",
+    "D": "নিজের দিকে রাখা উচিত"
+   },
+   "correctAnswer": "C",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "সোনার প্রতীক —",
+   "options": {
+    "A": "G",
+    "B": "Au",
+    "C": "Ag",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "কার্বন ডাই-অক্সাইডের আণবিক ভর —",
+   "options": {
+    "A": "৪৪",
+    "B": "২৮",
+    "C": "৩২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "রসায়ন বিজ্ঞানের কোন শাখা?",
+   "options": {
+    "A": "ভূগোল",
+    "B": "প্রাকৃতিক বিজ্ঞান",
+    "C": "কোনোটিই নয়",
+    "D": "সামাজিক বিজ্ঞান"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের পরিচিতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "পর্যায় সারণির প্রবক্তা কে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দিমিত্রি মেন্ডেলিভ",
+    "C": "ল্যাভয়সিয়ে",
+    "D": "ডাল্টন"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "প্রাণরসায়নে আলোচনা করা হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ধাতু",
+    "C": "গ্যাস",
+    "D": "জীবদেহের রাসায়নিক প্রক্রিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "লবণ-পানির মিশ্রণ থেকে লবণ আলাদা করা যায় —",
+   "options": {
+    "A": "পরিস্রাবণে",
+    "B": "বাষ্পীভবনে",
+    "C": "চুম্বকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "রূপার অলংকার কালো হওয়া কোন পরিবর্তন?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রাসায়নিক",
+    "C": "ভৌত",
+    "D": "উভয়ই"
+   },
+   "correctAnswer": "B",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "সার তৈরি হয় কোন বিজ্ঞানে?",
+   "options": {
+    "A": "রসায়ন",
+    "B": "জীববিজ্ঞান",
+    "C": "গণিত",
+    "D": "পদার্থবিজ্ঞান"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "গৃহে রাসায়নিক দ্রব্য —",
+   "options": {
+    "A": "সাবধানে সংরক্ষণ করা উচিত",
+    "B": "যেভাবে হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "অক্সিজেনের প্রতীক —",
+   "options": {
+    "A": "O",
+    "B": "Og",
+    "C": "Ox",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "অনুঘটক কাকে বলে?",
+   "options": {
+    "A": "যা বিক্রিয়া ধীর করে",
+    "B": "যে পদার্থ বিক্রিয়ার গতি বাড়ায়",
+    "C": "বিক্রিয়ক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "রসায়ন চর্চার মূল লক্ষ্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু মুখস্থ",
+    "C": "পদার্থের রহস্য উন্মোচন",
+    "D": "শুধু পরীক্ষা"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের পরিচিতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "ডাল্টনের পরমাণুবাদ কত সালে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৯০৩",
+    "C": "১৭০৩",
+    "D": "১৮০৩"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "জৈব রসায়নে আলোচনা করা হয় —",
+   "options": {
+    "A": "ধাতু",
+    "B": "গ্যাস",
+    "C": "কোনোটিই নয়",
+    "D": "কার্বন যৌগ"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "দ্রবণের উপাদান —",
+   "options": {
+    "A": "শুধু দ্রাবক",
+    "B": "দ্রাবক ও দ্রাব",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু দ্রাব"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "ভৌত পরিবর্তনের উদাহরণ —",
+   "options": {
+    "A": "কাঠ পোড়া",
+    "B": "কোনোটিই নয়",
+    "C": "লোহায় মরিচা",
+    "D": "বরফ গলা"
+   },
+   "correctAnswer": "D",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "পানি পরিশোধনে —",
+   "options": {
+    "A": "রসায়ন ব্যবহৃত হয়",
+    "B": "হয় না",
+    "C": "কোনোটিই নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "পরীক্ষাগারে নিরাপত্তার জন্য —",
+   "options": {
+    "A": "প্রতিরক্ষামূলক চশমা পরা হয়",
+    "B": "চশমা লাগে না",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "পারদের প্রতীক —",
+   "options": {
+    "A": "P",
+    "B": "Hg",
+    "C": "কোনোটিই নয়",
+    "D": "Me"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় অংশগ্রহণকারী পদার্থকে কী বলে?",
+   "options": {
+    "A": "অনুঘটক",
+    "B": "উৎপাদ",
+    "C": "বিক্রিয়ক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "পদার্থের রাসায়নিক পরিবর্তন নিয়ে বিজ্ঞান —",
+   "options": {
+    "A": "জীববিজ্ঞান",
+    "B": "গণিত",
+    "C": "রসায়ন",
+    "D": "পদার্থবিজ্ঞান"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের পরিচিতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "ভরের সংরক্ষণ সূত্র অনুযায়ী বিক্রিয়ায় ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাড়ে",
+    "C": "কমে",
+    "D": "অপরিবর্তিত থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "রসায়ন ও পদার্থবিজ্ঞানের সম্পর্ক —",
+   "options": {
+    "A": "নেই",
+    "B": "দুর্বল",
+    "C": "কোনোটিই নয়",
+    "D": "ঘনিষ্ঠ"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "মিশ্রণের ধর্ম —",
+   "options": {
+    "A": "পরিবর্তনশীল",
+    "B": "শূন্য",
+    "C": "কোনোটিই নয়",
+    "D": "নির্দিষ্ট"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "সালোকসংশ্লেষণ কোন পরিবর্তন?",
+   "options": {
+    "A": "রাসায়নিক",
+    "B": "কোনোটিই নয়",
+    "C": "উভয়ই",
+    "D": "ভৌত"
+   },
+   "correctAnswer": "A",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "কাপড় ধোয়ায় ব্যবহৃত হয় —",
+   "options": {
+    "A": "কীটনাশক",
+    "B": "ডিটারজেন্ট",
+    "C": "কোনোটিই নয়",
+    "D": "সার"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "দাহ্য পদার্থ আগুনের কাছে রাখা —",
+   "options": {
+    "A": "উচিত",
+    "B": "প্রয়োজন",
+    "C": "কোনোটিই নয়",
+    "D": "উচিত নয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "ম্যাগনেসিয়ামের প্রতীক —",
+   "options": {
+    "A": "M",
+    "B": "Mg",
+    "C": "Ma",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "অ্যামোনিয়ায় হাইড্রোজেন পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "৪",
+    "B": "৩",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "পদার্থ কাকে বলে?",
+   "options": {
+    "A": "যা জায়গা দখল করে ও ভর আছে",
+    "B": "কোনোটিই নয়",
+    "C": "যা শুধু ভর আছে",
+    "D": "যা শুধু জায়গা দখল করে"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের পরিচিতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "আধুনিক পর্যায় সারণিতে মৌল সাজানো হয় —",
+   "options": {
+    "A": "পারমাণবিক সংখ্যা অনুযায়ী",
+    "B": "কোনোটিই নয়",
+    "C": "পারমাণবিক ভর অনুযায়ী",
+    "D": "বর্ণমালা অনুযায়ী"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "রসায়ন ও গণিতের সম্পর্ক —",
+   "options": {
+    "A": "নেই",
+    "B": "দুর্বল",
+    "C": "ঘনিষ্ঠ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "যৌগে উপাদানের অনুপাত —",
+   "options": {
+    "A": "শূন্য",
+    "B": "নির্দিষ্ট",
+    "C": "পরিবর্তনশীল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "রাসায়নিক পরিবর্তনের উদাহরণ —",
+   "options": {
+    "A": "পানি ফোটা",
+    "B": "কোনোটিই নয়",
+    "C": "লোহায় মরিচা",
+    "D": "বরফ গলা"
+   },
+   "correctAnswer": "C",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "কাগজ তৈরি হয় —",
+   "options": {
+    "A": "রসায়নে",
+    "B": "পদার্থবিজ্ঞানে",
+    "C": "জীববিজ্ঞানে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "পরীক্ষাগারে ভাঙা কাচ —",
+   "options": {
+    "A": "রেখে দেওয়া উচিত",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সাবধানে পরিষ্কার করা উচিত"
+   },
+   "correctAnswer": "D",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "নাইট্রোজেনের প্রতীক —",
+   "options": {
+    "A": "Ni",
+    "B": "কোনোটিই নয়",
+    "C": "Na",
+    "D": "N"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "Cl এর পারমাণবিক ভর —",
+   "options": {
+    "A": "৩৬",
+    "B": "৩৫.৫",
+    "C": "৩৫",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "রসায়ন বিজ্ঞানের মৌলিক শাখা —",
+   "options": {
+    "A": "কখনো",
+    "B": "কখনো না",
+    "C": "না",
+    "D": "হ্যাঁ"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের পরিচিতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "জাবির ইবনে হাইয়ান আবিষ্কার করেন —",
+   "options": {
+    "A": "পারমাণবিক বোমা",
+    "B": "কোনোটিই নয়",
+    "C": "বিদ্যুৎ",
+    "D": "নাইট্রিক অ্যাসিড"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "রসায়নের প্রধান শাখা কয়টি?",
+   "options": {
+    "A": "৪",
+    "B": "৩",
+    "C": "৫",
+    "D": "২"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "নিচের কোনটি মিশ্রণ?",
+   "options": {
+    "A": "বায়ু",
+    "B": "লবণ",
+    "C": "পানি",
+    "D": "চিনি"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "কাগজ ছেঁড়া কোন পরিবর্তন?",
+   "options": {
+    "A": "উভয়ই",
+    "B": "রাসায়নিক",
+    "C": "ভৌত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "রসায়ন গবেষণায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নতুন ওষুধ আবিষ্কার হয়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু তত্ত্ব"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "পরীক্ষাগারে খাওয়া-দাওয়া —",
+   "options": {
+    "A": "উৎসাহিত",
+    "B": "নিষিদ্ধ",
+    "C": "অনুমোদিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "আয়োডিনের প্রতীক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "Io",
+    "C": "Id",
+    "D": "I"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "অক্সিজেনের আণবিক ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৩২",
+    "C": "২",
+    "D": "১৬"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "বাষ্প কোন অবস্থার পদার্থ?",
+   "options": {
+    "A": "বায়বীয়",
+    "B": "তরল",
+    "C": "কোনোটিই নয়",
+    "D": "কঠিন"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের পরিচিতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "ডাল্টন কোন দেশের বিজ্ঞানী?",
+   "options": {
+    "A": "জার্মানি",
+    "B": "কোনোটিই নয়",
+    "C": "ইংল্যান্ড",
+    "D": "ফ্রান্স"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "ভূ-রসায়নে আলোচনা করা হয় —",
+   "options": {
+    "A": "জীবদেহ",
+    "B": "পৃথিবীর রাসায়নিক গঠন",
+    "C": "কোনোটিই নয়",
+    "D": "গ্রহের গতি"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "যৌগের ধর্ম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শূন্য",
+    "C": "নির্দিষ্ট",
+    "D": "পরিবর্তনশীল"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "রাসায়নিক পরিবর্তন কাকে বলে?",
+   "options": {
+    "A": "যে পরিবর্তনে নতুন পদার্থ সৃষ্টি হয়",
+    "B": "নতুন পদার্থ হয় না",
+    "C": "ভৌত পরিবর্তন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "গাড়ির ব্যাটারিতে রসায়ন —",
+   "options": {
+    "A": "জড়িত",
+    "B": "কখনো জড়িত",
+    "C": "কখনো জড়িত নয়",
+    "D": "জড়িত নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "গরম করার যন্ত্র —",
+   "options": {
+    "A": "বার্নার",
+    "B": "কম্পাস",
+    "C": "কোনোটিই নয়",
+    "D": "ব্যারোমিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "সোডিয়ামের প্রতীক Na কোন ভাষা থেকে?",
+   "options": {
+    "A": "ল্যাটিন (Natrium)",
+    "B": "ইংরেজি",
+    "C": "গ্রিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌলের প্রতীক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "ওজোনের সংকেত —",
+   "options": {
+    "A": "O₂",
+    "B": "O₃",
+    "C": "O",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "পদার্থের গঠন, ধর্ম ও পরিবর্তন নিয়ে আলোচনা করে —",
+   "options": {
+    "A": "গণিত",
+    "B": "রসায়ন",
+    "C": "জীববিজ্ঞান",
+    "D": "পদার্থবিজ্ঞান"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের পরিচিতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "রসায়নের ইতিহাসে মুসলিম বিজ্ঞানীদের অবদান —",
+   "options": {
+    "A": "সীমিত",
+    "B": "অপরিসীম",
+    "C": "নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "রক্ত পরীক্ষা হয় —",
+   "options": {
+    "A": "ভৌত রসায়নে",
+    "B": "কোনোটিই নয়",
+    "C": "অজৈব রসায়নে",
+    "D": "বিশ্লেষণী রসায়নে"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "নিচের কোনটি মৌল?",
+   "options": {
+    "A": "লবণ",
+    "B": "অক্সিজেন",
+    "C": "চিনি",
+    "D": "পানি"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "বরফ গলে পানি হওয়া কোন পরিবর্তন?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উভয়ই",
+    "C": "রাসায়নিক",
+    "D": "ভৌত"
+   },
+   "correctAnswer": "D",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "কীটনাশকের ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফসল নষ্ট করে",
+    "C": "কিছুই না",
+    "D": "ফসল রক্ষা করে"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "রাসায়নিক দ্রব্য শিশুদের নাগালের বাইরে —",
+   "options": {
+    "A": "রাখা উচিত",
+    "B": "কোনোটিই নয়",
+    "C": "দরকার নেই",
+    "D": "রাখা লাগে না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "মৌলের পারমাণবিক সংখ্যা নির্দেশ করে —",
+   "options": {
+    "A": "ভর",
+    "B": "নিউট্রনের সংখ্যা",
+    "C": "প্রোটনের সংখ্যা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌলের প্রতীক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "রাসায়নিক সমীকরণ সমতা করা হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সৌন্দর্যে",
+    "D": "ভরের সংরক্ষণ সূত্র মেনে"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকেত",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "রসায়ন শব্দের অর্থ কী?",
+   "options": {
+    "A": "ঢালাই বা রূপান্তরের বিদ্যা",
+    "B": "কোনোটিই নয়",
+    "C": "জীবের বিদ্যা",
+    "D": "গতির বিদ্যা"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের পরিচিতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "আলকেমি কী?",
+   "options": {
+    "A": "জীববিজ্ঞান",
+    "B": "আধুনিক রসায়ন",
+    "C": "কোনোটিই নয়",
+    "D": "প্রাচীন রসায়ন"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "বিশ্লেষণী রসায়নে করা হয় —",
+   "options": {
+    "A": "শুধু পরীক্ষা",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু তত্ত্ব",
+    "D": "পদার্থের উপাদান বিশ্লেষণ"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "মৌলের ক্ষুদ্রতম কণা —",
+   "options": {
+    "A": "অণু",
+    "B": "পরমাণু",
+    "C": "কোনোটিই নয়",
+    "D": "আয়ন"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "ফল পাকা কোন পরিবর্তন?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভৌত",
+    "C": "উভয়ই",
+    "D": "রাসায়নিক"
+   },
+   "correctAnswer": "D",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "গ্লাস পরিষ্কারে ব্যবহৃত হয় —",
+   "options": {
+    "A": "কীটনাশক",
+    "B": "কোনোটিই নয়",
+    "C": "সার",
+    "D": "কাচ পরিষ্কারক"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "অজানা রাসায়নিকের স্বাদ নেওয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিষিদ্ধ",
+    "C": "অনুমোদিত",
+    "D": "উৎসাহিত"
+   },
+   "correctAnswer": "B",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "সীসার প্রতীক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "S",
+    "C": "Pb",
+    "D": "L"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "পানির আণবিক ভর —",
+   "options": {
+    "A": "২",
+    "B": "কোনোটিই নয়",
+    "C": "১৮",
+    "D": "১৬"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "রসায়ন কোন বিষয় নিয়ে আলোচনা করে?",
+   "options": {
+    "A": "জীবের গঠন",
+    "B": "কোনোটিই নয়",
+    "C": "পদার্থের গঠন ও ধর্ম",
+    "D": "গ্রহের গতি"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের পরিচিতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "ভরের সংরক্ষণ সূত্র প্রমাণ করেন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ডাল্টন",
+    "C": "ল্যাভয়সিয়ে",
+    "D": "মেন্ডেলিভ"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "জৈব রসায়নের প্রধান মৌল —",
+   "options": {
+    "A": "লোহা",
+    "B": "কার্বন",
+    "C": "সোডিয়াম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "মৌলের ধর্ম —",
+   "options": {
+    "A": "নির্দিষ্ট",
+    "B": "পরিবর্তনশীল",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "রাসায়নিক পরিবর্তনে শক্তি —",
+   "options": {
+    "A": "পরিবর্তিত হয় না",
+    "B": "বেশি পরিবর্তিত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কম পরিবর্তিত হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "রসায়ন ছাড়া কৃষি —",
+   "options": {
+    "A": "অসম্ভব",
+    "B": "কোনোটিই নয়",
+    "C": "একই",
+    "D": "সম্ভব"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "তরল পরিমাপের যন্ত্র —",
+   "options": {
+    "A": "ব্যারোমিটার",
+    "B": "কম্পাস",
+    "C": "কোনোটিই নয়",
+    "D": "মাপনী সিলিন্ডার"
+   },
+   "correctAnswer": "D",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "অ্যালুমিনিয়ামের প্রতীক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "Al",
+    "C": "A",
+    "D": "Am"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "মিথেনের আণবিক ভর —",
+   "options": {
+    "A": "১২",
+    "B": "১৮",
+    "C": "১৬",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "রসায়ন শব্দের উৎপত্তি কোন ভাষা থেকে?",
+   "options": {
+    "A": "আরবি",
+    "B": "সংস্কৃত",
+    "C": "ল্যাটিন",
+    "D": "গ্রিক"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের পরিচিতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "রসায়নের ইতিহাসে প্রাচীনতম শাখা —",
+   "options": {
+    "A": "অজৈব রসায়ন",
+    "B": "জৈব রসায়ন",
+    "C": "ভৌত রসায়ন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "কার্বন যৌগের সংখ্যা —",
+   "options": {
+    "A": "সর্বাধিক",
+    "B": "কোনোটিই নয়",
+    "C": "সর্বনিম্ন",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "যৌগকে রাসায়নিকভাবে ভাঙা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সম্ভব নয়",
+    "C": "সম্ভব",
+    "D": "কখনো নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "রাসায়নিক পরিবর্তনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নতুন পদার্থ সৃষ্টি হয়",
+    "C": "নতুন পদার্থ হয় না",
+    "D": "কিছুই হয় না"
+   },
+   "correctAnswer": "B",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "রাসায়নিক সারের অপব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "উপকার করে",
+    "D": "পরিবেশের ক্ষতি করে"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "পরীক্ষার ফলাফল লিপিবদ্ধ করা —",
+   "options": {
+    "A": "উচিত নয়",
+    "B": "কোনোটিই নয়",
+    "C": "উচিত",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "মৌলের প্রতীক সাধারণত কোন ভাষার নাম থেকে?",
+   "options": {
+    "A": "ল্যাটিন বা ইংরেজি",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু আরবি",
+    "D": "শুধু বাংলা"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌলের প্রতীক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "সমতাকৃত সমীকরণে উভয় পাশে পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শূন্য",
+    "C": "ভিন্ন",
+    "D": "সমান"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকেত",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "নিচের কোনটি রসায়নের বিষয় নয়?",
+   "options": {
+    "A": "গ্রহের গতি",
+    "B": "পদার্থের গঠন",
+    "C": "মৌলের ধর্ম",
+    "D": "রাসায়নিক বিক্রিয়া"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের পরিচিতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "ডাল্টনের পরমাণুবাদের মূলকথা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পদার্থ ক্ষুদ্র কণায় গঠিত",
+    "C": "কিছুই না",
+    "D": "পদার্থ অবিচ্ছিন্ন"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "ভৌত রসায়নে আলোচনা করা হয় —",
+   "options": {
+    "A": "রাসায়নিক বিক্রিয়ার নীতি ও তত্ত্ব",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু গ্যাস",
+    "D": "শুধু ধাতু"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "সমসত্ত্ব মিশ্রণের উদাহরণ —",
+   "options": {
+    "A": "লবণ-পানি দ্রবণ",
+    "B": "বালি-পানি",
+    "C": "তেল-পানি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "ভৌত পরিবর্তনে পদার্থের —",
+   "options": {
+    "A": "নতুন পদার্থ হয়",
+    "B": "গঠন বদলায়",
+    "C": "গঠন অপরিবর্তিত থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "মোবাইল ফোনের ব্যাটারিতে —",
+   "options": {
+    "A": "রাসায়নিক শক্তি",
+    "B": "তাপ শক্তি",
+    "C": "আলো শক্তি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "রসায়নের পরীক্ষাগারে প্রথমবার যাওয়ার নিয়ম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিজে খুশিমতো কাজ",
+    "C": "কিছুই না",
+    "D": "শিক্ষকের নির্দেশনা মানা"
+   },
+   "correctAnswer": "D",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "জিংকের প্রতীক —",
+   "options": {
+    "A": "Zi",
+    "B": "কোনোটিই নয়",
+    "C": "Z",
+    "D": "Zn"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "লবণের সংকেত —",
+   "options": {
+    "A": "NaCl₂",
+    "B": "NaCl",
+    "C": "Na₂Cl",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "পরমাণু অবিভাজ্য — এ ধারণা কার?",
+   "options": {
+    "A": "রাদারফোর্ডের",
+    "B": "ডাল্টনের",
+    "C": "বোরের",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "খাদ্য রসায়নে আলোচনা করা হয় —",
+   "options": {
+    "A": "ধাতু",
+    "B": "গ্রহ",
+    "C": "কোনোটিই নয়",
+    "D": "খাদ্যের রাসায়নিক গঠন"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "কৃত্রিমভাবে তৈরি মৌল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আছে",
+    "C": "নেই",
+    "D": "কখনো নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "নিচের কোনটি রাসায়নিক পরিবর্তন?",
+   "options": {
+    "A": "বরফ গলা",
+    "B": "লোহায় মরিচা পড়া",
+    "C": "পানি ফোটা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "রাসায়নিক দ্রব্যের সঠিক ব্যবহার —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "দরকার নেই",
+    "C": "জরুরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "ল্যাব কোট পরা হয় —",
+   "options": {
+    "A": "নিরাপত্তার জন্য",
+    "B": "সৌন্দর্যের জন্য",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "ক্লোরিনের প্রতীক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "Cl",
+    "C": "Ch",
+    "D": "C"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "N এর পারমাণবিক ভর —",
+   "options": {
+    "A": "১৪",
+    "B": "২৮",
+    "C": "৭",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় ভরের সংরক্ষণ সূত্র কে দেন?",
+   "options": {
+    "A": "ডাল্টন",
+    "B": "নিউটন",
+    "C": "কোনোটিই নয়",
+    "D": "ল্যাভয়সিয়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "শিল্প রসায়নে আলোচনা করা হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জীবদেহ",
+    "C": "শিল্পে রাসায়নিক প্রক্রিয়া",
+    "D": "গ্রহ"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "দ্রবণ কাকে বলে?",
+   "options": {
+    "A": "অসমসত্ত্ব মিশ্রণ",
+    "B": "কোনোটিই নয়",
+    "C": "মৌল",
+    "D": "সমসত্ত্ব মিশ্রণ"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "সালোকসংশ্লেষণ —",
+   "options": {
+    "A": "তাপগ্রাহী",
+    "B": "কোনোটিই নয়",
+    "C": "তাপমোচী",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "A",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "রসায়ন মানবকল্যাণে —",
+   "options": {
+    "A": "ব্যবহৃত হওয়া উচিত",
+    "B": "কিছুই না",
+    "C": "ব্যবহৃত হওয়া উচিত নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "রাসায়নিকের নিরাপত্তা চিহ্ন —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "কোনোটিই নয়",
+    "C": "থাকে না",
+    "D": "থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "নিকেলের প্রতীক —",
+   "options": {
+    "A": "Ni",
+    "B": "Nk",
+    "C": "N",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "রাসায়নিক সমীকরণে বিক্রিয়ক ও উৎপাদ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "লেখা হয়",
+    "C": "লেখা হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "মেন্ডেলিভ মৌল সাজিয়েছিলেন —",
+   "options": {
+    "A": "পারমাণবিক ভর অনুযায়ী",
+    "B": "পারমাণবিক সংখ্যা অনুযায়ী",
+    "C": "বর্ণমালা অনুযায়ী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "জৈব যৌগের উদাহরণ —",
+   "options": {
+    "A": "লবণ, অ্যাসিড",
+    "B": "কোনোটিই নয়",
+    "C": "সোডিয়াম ক্লোরাইড",
+    "D": "মিথেন, চিনি"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "বিশুদ্ধ পদার্থ কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অপদ্রব্যযুক্ত পদার্থ",
+    "C": "নির্দিষ্ট ধর্মের পদার্থ",
+    "D": "মিশ্রণ"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "পানি জমে বরফ হওয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিরপেক্ষ",
+    "C": "তাপগ্রাহী",
+    "D": "তাপমোচী"
+   },
+   "correctAnswer": "D",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "রান্না করা একটি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভৌত প্রক্রিয়া",
+    "C": "রাসায়নিক প্রক্রিয়া",
+    "D": "জৈব প্রক্রিয়া"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "অগ্নি নির্বাপক যন্ত্র পরীক্ষাগারে —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "থাকা উচিত",
+    "C": "থাকা লাগে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "সোডিয়ামের প্রতীক —",
+   "options": {
+    "A": "So",
+    "B": "Na",
+    "C": "কোনোটিই নয়",
+    "D": "S"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "বেকিং সোডার রাসায়নিক নাম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সোডিয়াম কার্বনেট",
+    "C": "সোডিয়াম বাইকার্বনেট",
+    "D": "সোডিয়াম ক্লোরাইড"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "আধুনিক রসায়নের ভিত্তি স্থাপন করেন —",
+   "options": {
+    "A": "জাবির",
+    "B": "ডাল্টন",
+    "C": "ল্যাভয়সিয়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "মোলের ধারণা —",
+   "options": {
+    "A": "হয় না",
+    "B": "দরকার নেই",
+    "C": "কোনোটিই নয়",
+    "D": "রসায়নে ব্যবহৃত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "লবণ-পানির দ্রবণে দ্রাব —",
+   "options": {
+    "A": "দুটোই",
+    "B": "লবণ",
+    "C": "কোনোটিই নয়",
+    "D": "পানি"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শোষিত বা নির্গত হয়",
+    "C": "পরিবর্তন হয় না",
+    "D": "ধ্বংস হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "রসায়নের ব্যবহারে দৈনন্দিন জীবন —",
+   "options": {
+    "A": "কঠিন হয়েছে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই হয়নি",
+    "D": "সহজ হয়েছে"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "ওজন মাপার যন্ত্র —",
+   "options": {
+    "A": "ব্যারোমিটার",
+    "B": "কোনোটিই নয়",
+    "C": "কম্পাস",
+    "D": "নিক্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "ফসফরাসের প্রতীক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "P",
+    "C": "Ph",
+    "D": "Po"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "হাইড্রোক্লোরিক অ্যাসিডের সংকেত —",
+   "options": {
+    "A": "HCl",
+    "B": "H₂Cl",
+    "C": "HCl₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "মেন্ডেলিভের পর্যায় সারণি কত সালে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৯৬৯",
+    "C": "১৮৬৯",
+    "D": "১৭৬৯"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "রসায়নের সাথে সম্পর্কিত শাখা —",
+   "options": {
+    "A": "প্রাণরসায়ন, ভূ-রসায়ন",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু প্রাণরসায়ন",
+    "D": "শুধু ভূ-রসায়ন"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "অসমসত্ত্ব মিশ্রণের উদাহরণ —",
+   "options": {
+    "A": "তেল-পানি",
+    "B": "চিনি-পানি",
+    "C": "লবণ-পানি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "দহন বিক্রিয়া —",
+   "options": {
+    "A": "নিরপেক্ষ",
+    "B": "তাপমোচী",
+    "C": "কোনোটিই নয়",
+    "D": "তাপগ্রাহী"
+   },
+   "correctAnswer": "B",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "রসায়নের ব্যবহার শিল্পে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু সিমেন্ট",
+    "C": "শুধু কাচ",
+    "D": "সিমেন্ট, কাচ, প্লাস্টিক"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "পরীক্ষাগারে কাজ শেষে —",
+   "options": {
+    "A": "হাত ধোয়া উচিত",
+    "B": "হাত ধোয়া লাগে না",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "পটাসিয়ামের প্রতীক —",
+   "options": {
+    "A": "K",
+    "B": "P",
+    "C": "কোনোটিই নয়",
+    "D": "Po"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় উৎপন্ন পদার্থকে কী বলে?",
+   "options": {
+    "A": "অনুঘটক",
+    "B": "বিক্রিয়ক",
+    "C": "কোনোটিই নয়",
+    "D": "উৎপাদ"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "রসায়নের জনক জাবির ইবনে হাইয়ানের দেশ —",
+   "options": {
+    "A": "আরব",
+    "B": "ইংল্যান্ড",
+    "C": "ফ্রান্স",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "বিশ্লেষণী রসায়নের ব্যবহার —",
+   "options": {
+    "A": "শুধু তত্ত্ব",
+    "B": "পানির মান পরীক্ষা",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু পরীক্ষা"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "সমসত্ত্ব মিশ্রণ কাকে বলে?",
+   "options": {
+    "A": "অসমানভাবে ছড়ানো",
+    "B": "কোনো মিশ্রণ নেই",
+    "C": "কোনোটিই নয়",
+    "D": "যে মিশ্রণে উপাদান সমানভাবে ছড়ানো"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "তাপমাত্রা বাড়ালে বিক্রিয়ার হার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "একই",
+    "C": "বাড়ে",
+    "D": "কমে"
+   },
+   "correctAnswer": "C",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "গৃহস্থালিতে রসায়নের ব্যবহার —",
+   "options": {
+    "A": "সাবান, ডিটারজেন্ট, ওষুধ",
+    "B": "শুধু ওষুধ",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু সাবান"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "টাইট্রেশন কী?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভর মাপা",
+    "C": "অ্যাসিড-ক্ষারের পরিমাণ নির্ণয়",
+    "D": "তাপ মাপা"
+   },
+   "correctAnswer": "C",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "মৌলের প্রতীক সর্বদা —",
+   "options": {
+    "A": "১ বা ২ অক্ষরের",
+    "B": "৩ অক্ষরের",
+    "C": "৪ অক্ষরের",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌলের প্রতীক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "লবণে সোডিয়াম ও ক্লোরিনের অনুপাত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১:১",
+    "C": "২:১",
+    "D": "১:২"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "ল্যাভয়সিয়ে কী আবিষ্কার করেন?",
+   "options": {
+    "A": "দহনে অক্সিজেনের ভূমিকা",
+    "B": "কোনোটিই নয়",
+    "C": "পরমাণুবাদ",
+    "D": "পর্যায় সারণি"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "রসায়নের শাখা কোনগুলো?",
+   "options": {
+    "A": "শুধু অজৈব",
+    "B": "শুধু জৈব",
+    "C": "কোনোটিই নয়",
+    "D": "অজৈব, জৈব, ভৌত, বিশ্লেষণী"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের শাখা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "প্রাকৃতিকভাবে পাওয়া মৌলের সংখ্যা —",
+   "options": {
+    "A": "১১৮",
+    "B": "৫০",
+    "C": "প্রায় ৯২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "তাপ নির্গমনকারী বিক্রিয়াকে বলে —",
+   "options": {
+    "A": "তাপমোচী",
+    "B": "নিরপেক্ষ",
+    "C": "কোনোটিই নয়",
+    "D": "তাপগ্রাহী"
+   },
+   "correctAnswer": "A",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "রসায়নের ব্যবহার কৃষিতে —",
+   "options": {
+    "A": "সার, কীটনাশক",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু কীটনাশক",
+    "D": "শুধু সার"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "পরীক্ষাগারে ট্রিপড স্ট্যান্ড —",
+   "options": {
+    "A": "তাপ মাপে",
+    "B": "ভর মাপে",
+    "C": "তাপ দেওয়ার সময় ধরে রাখে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "তামার প্রতীক —",
+   "options": {
+    "A": "Co",
+    "B": "কোনোটিই নয়",
+    "C": "C",
+    "D": "Cu"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "রাসায়নিক সমীকরণে বাম পাশে থাকে —",
+   "options": {
+    "A": "অনুঘটক",
+    "B": "উৎপাদ",
+    "C": "কোনোটিই নয়",
+    "D": "বিক্রিয়ক"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকেত",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "ল্যাভয়সিয়ে কোন দেশের বিজ্ঞানী?",
+   "options": {
+    "A": "ইংল্যান্ড",
+    "B": "কোনোটিই নয়",
+    "C": "জার্মানি",
+    "D": "ফ্রান্স"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "রসায়ন ও জীববিজ্ঞানের সম্পর্ক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নেই",
+    "C": "ঘনিষ্ঠ",
+    "D": "দুর্বল"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "কার্বন ডাই-অক্সাইড কোন ধরনের?",
+   "options": {
+    "A": "মিশ্রণ",
+    "B": "মৌল",
+    "C": "কোনোটিই নয়",
+    "D": "যৌগ"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার হার —",
+   "options": {
+    "A": "স্থির",
+    "B": "পরিবর্তনশীল",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "রান্নায় ব্যবহৃত হয় —",
+   "options": {
+    "A": "শুধু চিনি",
+    "B": "লবণ, চিনি, বেকিং সোডা",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু লবণ"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "প্রাথমিক চিকিৎসা বাক্স পরীক্ষাগারে —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "কোনোটিই নয়",
+    "C": "থাকা উচিত",
+    "D": "থাকা লাগে না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "প্রতীকের প্রথম অক্ষর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ছোট হাতের",
+    "C": "বড় হাতের",
+    "D": "যেকোনো"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌলের প্রতীক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "রাসায়নিক সমীকরণে ডান পাশে থাকে —",
+   "options": {
+    "A": "বিক্রিয়ক",
+    "B": "উৎপাদ",
+    "C": "অনুঘটক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "রসায়নের গবেষণায় প্রথম পরীক্ষাগার ব্যবহার —",
+   "options": {
+    "A": "জাবির ইবনে হাইয়ান",
+    "B": "ল্যাভয়সিয়ে",
+    "C": "কোনোটিই নয়",
+    "D": "ডাল্টন"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "পরিবেশ রসায়নে আলোচনা করা হয় —",
+   "options": {
+    "A": "পরিবেশের রাসায়নিক প্রক্রিয়া",
+    "B": "জীবদেহ",
+    "C": "গ্রহ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "মিশ্রণ কাকে বলে?",
+   "options": {
+    "A": "মৌল",
+    "B": "রাসায়নিক যৌগ",
+    "C": "কোনোটিই নয়",
+    "D": "দুই বা ততোধিক পদার্থের ভৌত মিশ্রণ"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "চিনি গলে যাওয়া কোন পরিবর্তন?",
+   "options": {
+    "A": "উভয়ই",
+    "B": "রাসায়নিক",
+    "C": "কোনোটিই নয়",
+    "D": "ভৌত"
+   },
+   "correctAnswer": "D",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "খাবার পচন একটি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জৈব পরিবর্তন",
+    "C": "ভৌত পরিবর্তন",
+    "D": "রাসায়নিক পরিবর্তন"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "পরীক্ষাগারে অ্যাসিড নেওয়ার সময় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সতর্কতা প্রয়োজন",
+    "C": "সতর্কতা লাগে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "রুপার প্রতীক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "S",
+    "C": "Au",
+    "D": "Ag"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "গ্লুকোজের সংকেত —",
+   "options": {
+    "A": "C₆H₁₂O₆",
+    "B": "CH₄",
+    "C": "C₆H₆",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "মেন্ডেলিভ কোন দেশের বিজ্ঞানী?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রাশিয়া",
+    "C": "ফ্রান্স",
+    "D": "ইংল্যান্ড"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "রাসায়নিক গণনায় —",
+   "options": {
+    "A": "গণিত ব্যবহৃত হয়",
+    "B": "হয় না",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "বায়ু কোন ধরনের পদার্থ?",
+   "options": {
+    "A": "মৌল",
+    "B": "মিশ্রণ",
+    "C": "যৌগ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "দহন কোন পরিবর্তন?",
+   "options": {
+    "A": "ভৌত",
+    "B": "উভয়ই",
+    "C": "রাসায়নিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "বর্জ্য ব্যবস্থাপনায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হয় না",
+    "C": "রসায়ন ব্যবহৃত হয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "রাসায়নিকের পরিমাণ মাপতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "আনুমানিক",
+    "C": "কোনোটিই নয়",
+    "D": "নির্ভুল যন্ত্র ব্যবহার হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "লোহার প্রতীক Fe কোন ভাষার নাম থেকে?",
+   "options": {
+    "A": "ল্যাটিন (Ferrum)",
+    "B": "গ্রিক",
+    "C": "কোনোটিই নয়",
+    "D": "ইংরেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌলের প্রতীক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "পানির সংকেত —",
+   "options": {
+    "A": "H₂O₂",
+    "B": "HO",
+    "C": "কোনোটিই নয়",
+    "D": "H₂O"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "রসায়নের আধুনিক যুগ শুরু —",
+   "options": {
+    "A": "৮ শতকে",
+    "B": "৫ শতকে",
+    "C": "কোনোটিই নয়",
+    "D": "১৮ শতকে"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "অজৈব রসায়নের উদাহরণ —",
+   "options": {
+    "A": "লবণ, অ্যাসিড",
+    "B": "মিথেন",
+    "C": "কোনোটিই নয়",
+    "D": "চিনি, প্রোটিন"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "যৌগের ক্ষুদ্রতম কণা —",
+   "options": {
+    "A": "অণু",
+    "B": "কোনোটিই নয়",
+    "C": "ইলেকট্রন",
+    "D": "পরমাণু"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "বরফ গলন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপগ্রাহী",
+    "C": "তাপমোচী",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "B",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "ব্লিচিং পাউডার —",
+   "options": {
+    "A": "কীটনাশক",
+    "B": "জীবাণুনাশক",
+    "C": "কোনোটিই নয়",
+    "D": "সার"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "পরীক্ষাগারে মাপনী সিলিন্ডার দিয়ে —",
+   "options": {
+    "A": "ভর মাপা হয়",
+    "B": "তাপ মাপা হয়",
+    "C": "কোনোটিই নয়",
+    "D": "তরলের আয়তন মাপা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "ক্রোমিয়ামের প্রতীক —",
+   "options": {
+    "A": "C",
+    "B": "কোনোটিই নয়",
+    "C": "Ch",
+    "D": "Cr"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "কস্টিক সোডার সংকেত —",
+   "options": {
+    "A": "Na₂CO₃",
+    "B": "কোনোটিই নয়",
+    "C": "NaOH",
+    "D": "NaCl"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "জাবির ইবনে হাইয়ান কত শতকের বিজ্ঞানী?",
+   "options": {
+    "A": "অষ্টম শতক",
+    "B": "দ্বাদশ শতক",
+    "C": "কোনোটিই নয়",
+    "D": "দ্বিতীয় শতক"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "অজৈব রসায়নে আলোচনা করা হয় —",
+   "options": {
+    "A": "কার্বন যৌগ",
+    "B": "কার্বনবিহীন যৌগ",
+    "C": "জীবকোষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের শাখা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "লবণ-পানির দ্রবণে দ্রাবক —",
+   "options": {
+    "A": "দুটোই",
+    "B": "কোনোটিই নয়",
+    "C": "পানি",
+    "D": "লবণ"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "শ্বসন কোন পরিবর্তন?",
+   "options": {
+    "A": "উভয়ই",
+    "B": "রাসায়নিক",
+    "C": "ভৌত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "প্রতিদিনের জীবনে রসায়ন —",
+   "options": {
+    "A": "জড়িত",
+    "B": "কখনো জড়িত",
+    "C": "কখনো জড়িত নয়",
+    "D": "জড়িত নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "পরীক্ষাগারে দৌড়াদৌড়ি —",
+   "options": {
+    "A": "নিষিদ্ধ",
+    "B": "কোনোটিই নয়",
+    "C": "উৎসাহিত",
+    "D": "অনুমোদিত"
+   },
+   "correctAnswer": "A",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "সালফারের প্রতীক —",
+   "options": {
+    "A": "Sa",
+    "B": "Su",
+    "C": "S",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "চুনের রাসায়নিক নাম —",
+   "options": {
+    "A": "ক্যালসিয়াম হাইড্রোক্সাইড",
+    "B": "ক্যালসিয়াম কার্বনেট",
+    "C": "ক্যালসিয়াম অক্সাইড",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "জাবির ইবনে হাইয়ান কোন শাস্ত্রে অবদান রাখেন?",
+   "options": {
+    "A": "পদার্থবিজ্ঞান",
+    "B": "জীববিজ্ঞান",
+    "C": "রসায়ন",
+    "D": "গণিত"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "লোহা-বালির মিশ্রণ থেকে লোহা আলাদা করা যায় —",
+   "options": {
+    "A": "চুম্বকে",
+    "B": "কোনোটিই নয়",
+    "C": "পরিস্রাবণে",
+    "D": "বাষ্পীভবনে"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "খাবার হজম কোন পরিবর্তন?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রাসায়নিক",
+    "C": "ভৌত",
+    "D": "উভয়ই"
+   },
+   "correctAnswer": "B",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "সিরামিক তৈরি হয় —",
+   "options": {
+    "A": "রসায়নে",
+    "B": "জীববিজ্ঞানে",
+    "C": "পদার্থবিজ্ঞানে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "পরীক্ষাগারে তাপ দেওয়ার জন্য —",
+   "options": {
+    "A": "ব্যারোমিটার",
+    "B": "বার্নার ব্যবহার হয়",
+    "C": "কম্পাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "ম্যাঙ্গানিজের প্রতীক —",
+   "options": {
+    "A": "Mg",
+    "B": "M",
+    "C": "কোনোটিই নয়",
+    "D": "Mn"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "কার্বন ডাই-অক্সাইডে কার্বন ও অক্সিজেনের অনুপাত —",
+   "options": {
+    "A": "১:২",
+    "B": "২:১",
+    "C": "১:১",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "পরমাণুবাদের প্রবক্তা কে?",
+   "options": {
+    "A": "জন ডাল্টন",
+    "B": "কোনোটিই নয়",
+    "C": "নিউটন",
+    "D": "মেন্ডেলিভ"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "লবণ (NaCl) কোন ধরনের?",
+   "options": {
+    "A": "মিশ্রণ",
+    "B": "মৌল",
+    "C": "কোনোটিই নয়",
+    "D": "যৌগ"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "ভৌত পরিবর্তন কাকে বলে?",
+   "options": {
+    "A": "রাসায়নিক পরিবর্তন",
+    "B": "যে পরিবর্তনে নতুন পদার্থ সৃষ্টি হয় না",
+    "C": "নতুন পদার্থ সৃষ্টি হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "নাইট্রোজেন গ্যাস ব্যবহৃত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সার তৈরিতে",
+    "C": "শ্বাসে",
+    "D": "দহনে"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "পরীক্ষাগারে অপরিচিত দ্রব্য —",
+   "options": {
+    "A": "শনাক্ত না করে ব্যবহার করা উচিত নয়",
+    "B": "কোনোটিই নয়",
+    "C": "ব্যবহার করা উচিত",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "হাইড্রোজেনের প্রতীক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "He",
+    "C": "H",
+    "D": "Hy"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "খাবার লবণের রাসায়নিক নাম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সোডিয়াম বাইকার্বনেট",
+    "C": "সোডিয়াম ক্লোরাইড",
+    "D": "পটাসিয়াম ক্লোরাইড"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "রসায়নের জনক বলা হয় কাকে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জাবির ইবনে হাইয়ান",
+    "C": "নিউটন",
+    "D": "ডাল্টন"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "যৌগ কাকে বলে?",
+   "options": {
+    "A": "মিশ্রণ",
+    "B": "কোনোটিই নয়",
+    "C": "এক মৌল",
+    "D": "দুই বা ততোধিক মৌলের রাসায়নিক সংযোগ"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "তাপ শোষণকারী বিক্রিয়াকে বলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিরপেক্ষ",
+    "C": "তাপমোচী",
+    "D": "তাপগ্রাহী"
+   },
+   "correctAnswer": "D",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "রসায়নের ব্যবহার চিকিৎসায় —",
+   "options": {
+    "A": "ওষুধ, ভ্যাকসিন",
+    "B": "শুধু ওষুধ",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু ভ্যাকসিন"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "পরীক্ষাগারে রাসায়নিক মেশানো —",
+   "options": {
+    "A": "নিজে খুশিমতো",
+    "B": "কোনোটিই নয়",
+    "C": "শিক্ষকের নির্দেশে করা হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "মৌলের পারমাণবিক ভর নির্দেশ করে —",
+   "options": {
+    "A": "শুধু প্রোটন",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু নিউট্রন",
+    "D": "প্রোটন+নিউট্রন"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলের প্রতীক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "রাসায়নিক সমীকরণ সমতা করার প্রথম ধাপ —",
+   "options": {
+    "A": "প্রতিটি মৌলের পরমাণু গণনা",
+    "B": "তীর লেখা",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকেত",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "আধুনিক রসায়নের জনক কে?",
+   "options": {
+    "A": "মেন্ডেলিভ",
+    "B": "জাবির",
+    "C": "ডাল্টন",
+    "D": "অ্যান্টনি ল্যাভয়সিয়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের ইতিহাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "দ্রাব কাকে বলে?",
+   "options": {
+    "A": "মিশ্রণ",
+    "B": "যাতে দ্রবীভূত হয়",
+    "C": "যা দ্রবীভূত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "রাসায়নিক পরিবর্তনে নতুন পদার্থের —",
+   "options": {
+    "A": "কোনো ধর্ম নেই",
+    "B": "কোনোটিই নয়",
+    "C": "ধর্ম একই",
+    "D": "ধর্ম ভিন্ন"
+   },
+   "correctAnswer": "D",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "রসায়ন শেখার মূল লক্ষ্য —",
+   "options": {
+    "A": "শুধু পরীক্ষা",
+    "B": "শুধু মুখস্থ",
+    "C": "জীবনের মানোন্নয়ন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "পরীক্ষাগারে ওয়্যার গজ —",
+   "options": {
+    "A": "তাপ মাপে",
+    "B": "ভর মাপে",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ সমানভাবে ছড়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "রুপার প্রতীক Ag কোন ভাষা থেকে?",
+   "options": {
+    "A": "গ্রিক",
+    "B": "ইংরেজি",
+    "C": "কোনোটিই নয়",
+    "D": "ল্যাটিন (Argentum)"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলের প্রতীক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "2H₂ + O₂ → 2H₂O — এখানে উৎপাদ —",
+   "options": {
+    "A": "O₂",
+    "B": "H₂O",
+    "C": "কোনোটিই নয়",
+    "D": "H₂"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "অধাতু সাধারণত —",
+   "options": {
+    "A": "নমনীয়",
+    "B": "অনুজ্জ্বল",
+    "C": "চকচকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "অনুঘটক বিক্রিয়ার হার —",
+   "options": {
+    "A": "কমায়",
+    "B": "কোনোটিই নয়",
+    "C": "একই রাখে",
+    "D": "বাড়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "শ্বাস-প্রশ্বাসে রসায়ন —",
+   "options": {
+    "A": "জড়িত নয়",
+    "B": "জড়িত",
+    "C": "কখনো জড়িত",
+    "D": "কখনো জড়িত নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "গ্যাসের গন্ধ নেওয়ার নিয়ম —",
+   "options": {
+    "A": "হাত দিয়ে বাতাস টেনে",
+    "B": "সরাসরি নাক দিয়ে",
+    "C": "মুখ দিয়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "লোহার প্রতীক —",
+   "options": {
+    "A": "Ir",
+    "B": "Fe",
+    "C": "কোনোটিই নয়",
+    "D": "I"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "চুনের পানির সংকেত —",
+   "options": {
+    "A": "CaCO₃",
+    "B": "Ca(OH)₂",
+    "C": "কোনোটিই নয়",
+    "D": "CaO"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "বালি-পানি মিশ্রণ থেকে বালি আলাদা করা যায় —",
+   "options": {
+    "A": "চুম্বকে",
+    "B": "পরিস্রাবণে",
+    "C": "বাষ্পীভবনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "ভৌত পরিবর্তনে পদার্থের ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অপরিবর্তিত",
+    "C": "বাড়ে",
+    "D": "কমে"
+   },
+   "correctAnswer": "B",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "থালা-বাসন ধোয়ায় ব্যবহৃত হয় —",
+   "options": {
+    "A": "সার",
+    "B": "ডিটারজেন্ট",
+    "C": "কীটনাশক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "পরীক্ষাগারের প্রধান যন্ত্র কোনটি?",
+   "options": {
+    "A": "টেস্ট টিউব",
+    "B": "ব্যারোমিটার",
+    "C": "কোনোটিই নয়",
+    "D": "কম্পাস"
+   },
+   "correctAnswer": "A",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "কোবাল্টের প্রতীক —",
+   "options": {
+    "A": "Cb",
+    "B": "Co",
+    "C": "C",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "একটি যৌগে হাইড্রোজেন ও অক্সিজেনের অনুপাত ২:১ — এটি কোন যৌগ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লবণ",
+    "C": "পানি",
+    "D": "চিনি"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকেত",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "মৌলকে রাসায়নিকভাবে ভাঙা —",
+   "options": {
+    "A": "সম্ভব নয়",
+    "B": "সহজ",
+    "C": "কোনোটিই নয়",
+    "D": "সম্ভব"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "চিনি পুড়ে কালো হওয়া কোন পরিবর্তন?",
+   "options": {
+    "A": "উভয়ই",
+    "B": "ভৌত",
+    "C": "রাসায়নিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "কাচ তৈরি হয় —",
+   "options": {
+    "A": "পদার্থবিজ্ঞানে",
+    "B": "জীববিজ্ঞানে",
+    "C": "রসায়নে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "পরীক্ষাগারে বুরেট দিয়ে —",
+   "options": {
+    "A": "ভর মাপা হয়",
+    "B": "কোনোটিই নয়",
+    "C": "টাইট্রেশনে তরল মাপা হয়",
+    "D": "তাপ মাপা হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "হিলিয়ামের প্রতীক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "He",
+    "C": "Hl",
+    "D": "H"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "অ্যামোনিয়ার আণবিক ভর —",
+   "options": {
+    "A": "১৬",
+    "B": "১৭",
+    "C": "কোনোটিই নয়",
+    "D": "১৮"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "যৌগের উপাদানগুলো —",
+   "options": {
+    "A": "মুক্ত",
+    "B": "ভৌতভাবে যুক্ত",
+    "C": "রাসায়নিকভাবে যুক্ত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "ভৌত পরিবর্তনে শক্তি —",
+   "options": {
+    "A": "বেশি পরিবর্তিত হয়",
+    "B": "পরিবর্তিত হয় না",
+    "C": "কোনোটিই নয়",
+    "D": "কম পরিবর্তিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "রসায়নের নৈতিক ব্যবহার —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "জরুরি",
+    "C": "কোনোটিই নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "রসায়নের পরীক্ষায় সততা —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "দরকার নেই",
+    "C": "কোনোটিই নয়",
+    "D": "জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "সোনার প্রতীক Au কোন ভাষা থেকে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইংরেজি",
+    "C": "ল্যাটিন (Aurum)",
+    "D": "গ্রিক"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌলের প্রতীক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "অক্সিজেন গ্যাসের অণুতে পরমাণু সংখ্যা —",
+   "options": {
+    "A": "২",
+    "B": "কোনোটিই নয়",
+    "C": "৩",
+    "D": "১"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "ধাতু তাপের —",
+   "options": {
+    "A": "অপরিবাহী",
+    "B": "সুপরিবাহী",
+    "C": "কুপরিবাহী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "লবণ তৈরিতে কোন বিক্রিয়া?",
+   "options": {
+    "A": "গলন",
+    "B": "কোনোটিই নয়",
+    "C": "দহন",
+    "D": "অ্যাসিড-ক্ষার বিক্রিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "রাসায়নিক শক্তি তড়িৎ শক্তিতে রূপান্তর হয় —",
+   "options": {
+    "A": "ব্যাটারিতে",
+    "B": "বাল্বে",
+    "C": "কোনোটিই নয়",
+    "D": "পাখায়"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "রাসায়নিক দ্রব্যের ব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নির্দেশনা মেনে",
+    "C": "যেভাবে হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "মৌলের ইংরেজি নামের প্রথম অক্ষর দিয়ে —",
+   "options": {
+    "A": "সংকেত লেখা হয়",
+    "B": "কোনোটিই নয়",
+    "C": "সমীকরণ লেখা হয়",
+    "D": "প্রতীক লেখা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলের প্রতীক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "H₂ + Cl₂ → 2HCl — এখানে উৎপাদ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "HCl",
+    "C": "Cl₂",
+    "D": "H₂"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "অক্সিজেন কোন ধরনের?",
+   "options": {
+    "A": "মৌল",
+    "B": "মিশ্রণ",
+    "C": "যৌগ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "কাঠ পোড়ানো কোন পরিবর্তন?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভৌত",
+    "C": "রাসায়নিক",
+    "D": "উভয়ই"
+   },
+   "correctAnswer": "C",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "নতুন নতুন পদার্থ আবিষ্কারে —",
+   "options": {
+    "A": "পদার্থবিজ্ঞান",
+    "B": "গণিত",
+    "C": "জীববিজ্ঞান",
+    "D": "রসায়ন"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "পরীক্ষাগারে ক্ল্যাম্প —",
+   "options": {
+    "A": "ভর মাপে",
+    "B": "যন্ত্র আটকে রাখে",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ মাপে"
+   },
+   "correctAnswer": "B",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "দুই অক্ষরের প্রতীকে দ্বিতীয় অক্ষর —",
+   "options": {
+    "A": "যেকোনো",
+    "B": "ছোট হাতের",
+    "C": "কোনোটিই নয়",
+    "D": "বড় হাতের"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলের প্রতীক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "পানিতে হাইড্রোজেন ও অক্সিজেনের অনুপাত —",
+   "options": {
+    "A": "২:১",
+    "B": "কোনোটিই নয়",
+    "C": "১:১",
+    "D": "১:২"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "সমুদ্রের পানি কোন ধরনের?",
+   "options": {
+    "A": "মিশ্রণ",
+    "B": "মৌল",
+    "C": "কোনোটিই নয়",
+    "D": "যৌগ"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "নিচের কোনটি ভৌত পরিবর্তন?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কাঠ পোড়া",
+    "C": "বরফ গলা",
+    "D": "লোহায় মরিচা"
+   },
+   "correctAnswer": "C",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "খাদ্য সংরক্ষণে ব্যবহৃত হয় —",
+   "options": {
+    "A": "লবণ ও প্রিজারভেটিভ",
+    "B": "শুধু লবণ",
+    "C": "শুধু প্রিজারভেটিভ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "অল্প পরিমাণ তরল নেওয়ার যন্ত্র —",
+   "options": {
+    "A": "ব্যারোমিটার",
+    "B": "পিপেট",
+    "C": "কম্পাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "ক্যালসিয়ামের প্রতীক —",
+   "options": {
+    "A": "Cl",
+    "B": "কোনোটিই নয়",
+    "C": "C",
+    "D": "Ca"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "রাসায়নিক সমীকরণ কী?",
+   "options": {
+    "A": "বিক্রিয়ার সংক্ষিপ্ত প্রকাশ",
+    "B": "মৌলের প্রতীক",
+    "C": "কোনোটিই নয়",
+    "D": "সংকেত"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "নিচের কোনটি ধাতু?",
+   "options": {
+    "A": "লোহা",
+    "B": "ক্লোরিন",
+    "C": "অক্সিজেন",
+    "D": "নাইট্রোজেন"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "মোম গলা কোন পরিবর্তন?",
+   "options": {
+    "A": "রাসায়নিক",
+    "B": "কোনোটিই নয়",
+    "C": "ভৌত",
+    "D": "উভয়ই"
+   },
+   "correctAnswer": "C",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "রাসায়নিক অস্ত্রের ব্যবহার —",
+   "options": {
+    "A": "উৎসাহিত",
+    "B": "নিষিদ্ধ",
+    "C": "অনুমোদিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "রসায়নের পরীক্ষায় পর্যবেক্ষণ —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "অগুরুত্বপূর্ণ",
+    "C": "কোনোটিই নয়",
+    "D": "প্রয়োজন নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "মৌলের প্রতীক লেখা হয় —",
+   "options": {
+    "A": "১ বা ২টি অক্ষরে",
+    "B": "কোনোটিই নয়",
+    "C": "৩টি অক্ষরে",
+    "D": "৪টি অক্ষরে"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "2H₂ + O₂ → 2H₂O — এখানে বিক্রিয়ক —",
+   "options": {
+    "A": "শুধু H₂",
+    "B": "H₂O",
+    "C": "কোনোটিই নয়",
+    "D": "H₂ ও O₂"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকেত",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "মিশ্রণে উপাদানের অনুপাত —",
+   "options": {
+    "A": "পরিবর্তনশীল",
+    "B": "নির্দিষ্ট",
+    "C": "কোনোটিই নয়",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "মোমবাতি জ্বালানো কোন পরিবর্তন?",
+   "options": {
+    "A": "ভৌত",
+    "B": "রাসায়নিক",
+    "C": "উভয়ই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "প্লাস্টিক তৈরি হয় —",
+   "options": {
+    "A": "গণিতে",
+    "B": "পদার্থবিজ্ঞানে",
+    "C": "রসায়নে",
+    "D": "জীববিজ্ঞানে"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "রাসায়নিক দ্রব্য চোখে লাগলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ঘষা উচিত",
+    "D": "প্রচুর পানি দিয়ে ধোয়া উচিত"
+   },
+   "correctAnswer": "D",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "বেরিয়ামের প্রতীক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "Br",
+    "C": "B",
+    "D": "Ba"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "লবণের আণবিক ভর —",
+   "options": {
+    "A": "৫৮",
+    "B": "৫৮.৫",
+    "C": "৫৯",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "দ্রাবক কাকে বলে?",
+   "options": {
+    "A": "যা দ্রবীভূত হয়",
+    "B": "মিশ্রণ",
+    "C": "যে উপাদানে দ্রাব দ্রবীভূত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "দুধ থেকে দই হওয়া কোন পরিবর্তন?",
+   "options": {
+    "A": "ভৌত",
+    "B": "রাসায়নিক",
+    "C": "কোনোটিই নয়",
+    "D": "উভয়ই"
+   },
+   "correctAnswer": "B",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "রসায়নের অপব্যবহার —",
+   "options": {
+    "A": "ক্ষতিকর",
+    "B": "উপকারী",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "রাসায়নিক দ্রব্য সংরক্ষণ —",
+   "options": {
+    "A": "যেকোনো জায়গায়",
+    "B": "নির্দিষ্ট স্থানে করা হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "কার্বনের প্রতীক —",
+   "options": {
+    "A": "C",
+    "B": "Cr",
+    "C": "Ca",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌলের প্রতীক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "হাইড্রোজেন গ্যাসের অণুতে পরমাণু সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১",
+    "C": "৩",
+    "D": "২"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "বিশুদ্ধ পদার্থের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মৌল ও যৌগ",
+    "C": "বায়ু",
+    "D": "মিশ্রণ"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "লোহায় মরিচা পড়া কোন পরিবর্তন?",
+   "options": {
+    "A": "উভয়ই",
+    "B": "রাসায়নিক",
+    "C": "কোনোটিই নয়",
+    "D": "ভৌত"
+   },
+   "correctAnswer": "B",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "রাসায়নিক সারের ব্যবহারে —",
+   "options": {
+    "A": "একই",
+    "B": "কোনোটিই নয়",
+    "C": "কমে",
+    "D": "ফসলের উৎপাদন বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "পরীক্ষাগারে ধূমপান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অনুমোদিত",
+    "C": "নিষিদ্ধ",
+    "D": "উৎসাহিত"
+   },
+   "correctAnswer": "C",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "H₂ + Cl₂ → 2HCl — এখানে বিক্রিয়ক —",
+   "options": {
+    "A": "H₂ ও Cl₂",
+    "B": "শুধু H₂",
+    "C": "HCl",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকেত",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "মিশ্রণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অপবিত্র পদার্থ",
+    "C": "বিশুদ্ধ পদার্থ",
+    "D": "মৌল"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "পানি ফোটানো কোন পরিবর্তন?",
+   "options": {
+    "A": "রাসায়নিক",
+    "B": "কোনোটিই নয়",
+    "C": "উভয়ই",
+    "D": "ভৌত"
+   },
+   "correctAnswer": "D",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "অক্সিজেন গ্যাস কোন কাজে ব্যবহৃত হয়?",
+   "options": {
+    "A": "শুধু শ্বাসে",
+    "B": "শুধু দহনে",
+    "C": "শ্বাসক্রিয়া ও দহনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "পরীক্ষাগারে অ্যাসিড হাতে লাগলে —",
+   "options": {
+    "A": "পানি দিয়ে ধোয়া উচিত",
+    "B": "কিছুই না",
+    "C": "ঘষা উচিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "রাসায়নিক সমীকরণে তীর চিহ্ন (→) নির্দেশ করে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বিক্রিয়কের দিক",
+    "C": "কোনোটিই নয়",
+    "D": "উৎপাদের দিক"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকেত",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "সর্বজনীন দ্রাবক বলা হয় —",
+   "options": {
+    "A": "তেলকে",
+    "B": "পানিকে",
+    "C": "অ্যালকোহলকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "দুধ জ্বাল দিয়ে ঘন করা কোন পরিবর্তন?",
+   "options": {
+    "A": "রাসায়নিক",
+    "B": "ভৌত",
+    "C": "কোনোটিই নয়",
+    "D": "উভয়ই"
+   },
+   "correctAnswer": "B",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "ন্যানোটেকনোলজিতে —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "রসায়ন ব্যবহৃত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "হয় না"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "বিষাক্ত রাসায়নিক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "যেভাবে হয়",
+    "D": "সতর্কতার সাথে ব্যবহার করা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "মিথেনে হাইড্রোজেন পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২",
+    "C": "৪",
+    "D": "৩"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "নিচের কোনটি যৌগ?",
+   "options": {
+    "A": "সোনা",
+    "B": "অক্সিজেন",
+    "C": "পানি",
+    "D": "লোহা"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "পানি থেকে বাষ্প হওয়া কোন পরিবর্তন?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উভয়ই",
+    "C": "ভৌত",
+    "D": "রাসায়নিক"
+   },
+   "correctAnswer": "C",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "রসায়নের জ্ঞান আমাদের —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "দায়িত্বশীল করে",
+    "D": "দায়িত্বহীন করে"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "রাসায়নিক নাড়াচাড়ায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হাত ব্যবহার হয়",
+    "C": "স্প্যাটুলা ব্যবহার হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "Na এর পারমাণবিক ভর —",
+   "options": {
+    "A": "২২",
+    "B": "২৩",
+    "C": "কোনোটিই নয়",
+    "D": "১১"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "নিচের কোনটি ধাতুকল্প?",
+   "options": {
+    "A": "সোনা",
+    "B": "লোহা",
+    "C": "সিলিকন",
+    "D": "তামা"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "লবণ পানিতে দ্রবীভূত হওয়া কোন পরিবর্তন?",
+   "options": {
+    "A": "রাসায়নিক",
+    "B": "কোনোটিই নয়",
+    "C": "ভৌত",
+    "D": "উভয়ই"
+   },
+   "correctAnswer": "C",
+   "topic": "ভৌত ও রাসায়নিক পরিবর্তন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "সাবান, ডিটারজেন্ট তৈরি হয় —",
+   "options": {
+    "A": "জীববিজ্ঞানে",
+    "B": "পদার্থবিজ্ঞানে",
+    "C": "গণিতে",
+    "D": "রসায়নে"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "রাসায়নিক দ্রব্য হাতে নেওয়ার সময় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্লাভস পরা উচিত",
+    "C": "কিছুই না",
+    "D": "গ্লাভস লাগে না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "কার্বন ডাই-অক্সাইডের সংকেত —",
+   "options": {
+    "A": "CO",
+    "B": "কোনোটিই নয়",
+    "C": "C₂O",
+    "D": "CO₂"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "অধাতুর বৈশিষ্ট্য —",
+   "options": {
+    "A": "পরিবাহী",
+    "B": "কোনোটিই নয়",
+    "C": "নমনীয়",
+    "D": "বিদ্যুৎ অপরিবাহী"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "সিমেন্ট তৈরি হয় —",
+   "options": {
+    "A": "জীববিজ্ঞানে",
+    "B": "পদার্থবিজ্ঞানে",
+    "C": "রসায়নে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "অ্যাসিড পাতলা করার নিয়ম —",
+   "options": {
+    "A": "অ্যাসিডে পানি ঢালা",
+    "B": "যেকোনোভাবে",
+    "C": "কোনোটিই নয়",
+    "D": "পানিতে অ্যাসিড ঢালা"
+   },
+   "correctAnswer": "D",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "সালফিউরিক অ্যাসিডে হাইড্রোজেন পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৩",
+    "C": "২",
+    "D": "১"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "ধাতু সাধারণত —",
+   "options": {
+    "A": "অনুজ্জ্বল",
+    "B": "কোনোটিই নয়",
+    "C": "ভঙ্গুর",
+    "D": "চকচকে"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "রং ও বার্নিশ তৈরি হয় —",
+   "options": {
+    "A": "পদার্থবিজ্ঞানে",
+    "B": "কোনোটিই নয়",
+    "C": "রসায়নে",
+    "D": "জীববিজ্ঞানে"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "পরীক্ষাগারে দুর্ঘটনা হলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শিক্ষককে জানানো উচিত",
+    "C": "কোনোটিই নয়",
+    "D": "লুকানো উচিত"
+   },
+   "correctAnswer": "B",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "O এর পারমাণবিক ভর —",
+   "options": {
+    "A": "৮",
+    "B": "কোনোটিই নয়",
+    "C": "১৬",
+    "D": "৩২"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "লবণ-পানি কোন ধরনের?",
+   "options": {
+    "A": "মৌল",
+    "B": "যৌগ",
+    "C": "মিশ্রণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "রসায়ন শিক্ষার গুরুত্ব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "জীবনের মানোন্নয়নে",
+    "D": "সীমিত"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "রাসায়নিক দ্রব্যের বোতলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "লেবেল থাকা উচিত",
+    "C": "কোনোটিই নয়",
+    "D": "লেবেল লাগে না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরীক্ষাগার নিরাপত্তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "ইথানলের সংকেত —",
+   "options": {
+    "A": "CH₃OH",
+    "B": "C₂H₅OH",
+    "C": "কোনোটিই নয়",
+    "D": "C₂H₆"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "ধাতুর বৈশিষ্ট্য —",
+   "options": {
+    "A": "অপরিবাহী",
+    "B": "কোনোটিই নয়",
+    "C": "ভঙ্গুর",
+    "D": "বিদ্যুৎ পরিবাহী"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "রসায়ন ছাড়া —",
+   "options": {
+    "A": "আধুনিক জীবন অসম্ভব",
+    "B": "একই",
+    "C": "কোনোটিই নয়",
+    "D": "সম্ভব"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "H এর পারমাণবিক ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৩",
+    "C": "২",
+    "D": "১"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "মিশ্রণের উপাদানগুলো —",
+   "options": {
+    "A": "ভৌত পদ্ধতিতে পৃথক করা যায়",
+    "B": "রাসায়নিকভাবে যুক্ত",
+    "C": "পৃথক করা যায় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "ঔষধ তৈরি হয় কোন বিজ্ঞানে?",
+   "options": {
+    "A": "গণিত",
+    "B": "পদার্থবিজ্ঞান",
+    "C": "জীববিজ্ঞান",
+    "D": "রসায়ন"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "নাইট্রিক অ্যাসিডের সংকেত —",
+   "options": {
+    "A": "H₂NO₃",
+    "B": "কোনোটিই নয়",
+    "C": "HNO₂",
+    "D": "HNO₃"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "যৌগের বৈশিষ্ট্য উপাদান মৌলের বৈশিষ্ট্যের চেয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সমান",
+    "C": "ভিন্ন",
+    "D": "একই"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "পরিপাকক্রিয়া কোন পরিবর্তন?",
+   "options": {
+    "A": "উভয়ই",
+    "B": "ভৌত",
+    "C": "কোনোটিই নয়",
+    "D": "রাসায়নিক"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "অনুঘটক বিক্রিয়ায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অপরিবর্তিত থাকে",
+    "C": "পরিবর্তিত হয়",
+    "D": "শেষ হয়ে যায়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "অপবিত্র পদার্থের উদাহরণ —",
+   "options": {
+    "A": "মৌল",
+    "B": "যৌগ",
+    "C": "কোনোটিই নয়",
+    "D": "মিশ্রণ"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "পরিবেশ রক্ষায় রসায়নের ভূমিকা —",
+   "options": {
+    "A": "দূষণ বাড়ানো",
+    "B": "দূষণ নিয়ন্ত্রণ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "অ্যামোনিয়ায় নাইট্রোজেন ও হাইড্রোজেনের অনুপাত —",
+   "options": {
+    "A": "১:১",
+    "B": "কোনোটিই নয়",
+    "C": "১:৩",
+    "D": "৩:১"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "চিনি (সুক্রোজ) কোন ধরনের?",
+   "options": {
+    "A": "মিশ্রণ",
+    "B": "যৌগ",
+    "C": "মৌল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "রসায়ন ছাড়া আধুনিক চিকিৎসা —",
+   "options": {
+    "A": "একই",
+    "B": "অসম্ভব",
+    "C": "সম্ভব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "রাসায়নিক সমীকরণে সহগ লেখা হয় —",
+   "options": {
+    "A": "সংকেতের পরে",
+    "B": "মাঝে",
+    "C": "কোনোটিই নয়",
+    "D": "সংকেতের আগে"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকেত",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "পানি (H₂O) ভাঙলে পাওয়া যায় —",
+   "options": {
+    "A": "হাইড্রোজেন ও অক্সিজেন",
+    "B": "শুধু অক্সিজেন",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু হাইড্রোজেন"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "রসায়নের ব্যবহার কোন ক্ষেত্রে?",
+   "options": {
+    "A": "শুধু কৃষি",
+    "B": "চিকিৎসা, কৃষি, শিল্প",
+    "C": "শুধু চিকিৎসা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "পানিতে হাইড্রোজেন পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২",
+    "C": "৩",
+    "D": "১"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "মৌল ও যৌগ —",
+   "options": {
+    "A": "অপবিত্র পদার্থ",
+    "B": "বিশুদ্ধ পদার্থ",
+    "C": "কোনোটিই নয়",
+    "D": "মিশ্রণ"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "রসায়ন ও প্রযুক্তির সম্পর্ক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নেই",
+    "C": "দুর্বল",
+    "D": "গভীর"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "C এর পারমাণবিক ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৬",
+    "C": "২৪",
+    "D": "১২"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "নিচের কোনটি অধাতু?",
+   "options": {
+    "A": "লোহা",
+    "B": "সোনা",
+    "C": "অক্সিজেন",
+    "D": "তামা"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "চুল পরিষ্কারে ব্যবহৃত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শ্যাম্পু",
+    "C": "সার",
+    "D": "কীটনাশক"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "মিথেনের সংকেত —",
+   "options": {
+    "A": "C₂H₆",
+    "B": "কোনোটিই নয়",
+    "C": "CH₃",
+    "D": "CH₄"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "অসমসত্ত্ব মিশ্রণ কাকে বলে?",
+   "options": {
+    "A": "যে মিশ্রণে উপাদান অসমানভাবে ছড়ানো",
+    "B": "কোনো মিশ্রণ নেই",
+    "C": "কোনোটিই নয়",
+    "D": "সমানভাবে ছড়ানো"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "প্রযুক্তির উন্নয়নে রসায়নের ভূমিকা —",
+   "options": {
+    "A": "অপরিসীম",
+    "B": "সীমিত",
+    "C": "নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "চুনাপাথরের রাসায়নিক নাম —",
+   "options": {
+    "A": "ক্যালসিয়াম হাইড্রোক্সাইড",
+    "B": "ক্যালসিয়াম কার্বনেট",
+    "C": "কোনোটিই নয়",
+    "D": "ক্যালসিয়াম অক্সাইড"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "মৌলিক পদার্থের সংখ্যা (আবিষ্কৃত) —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১০০",
+    "C": "১১৮",
+    "D": "৯২"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "রসায়নের ব্যবহারিক প্রয়োগ —",
+   "options": {
+    "A": "সীমিত",
+    "B": "ব্যাপক",
+    "C": "কোনোটিই নয়",
+    "D": "নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "নাইট্রিক অ্যাসিডে অক্সিজেন পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "৩",
+    "B": "৪",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "মিশ্রণের উপাদান পৃথক করার পদ্ধতি —",
+   "options": {
+    "A": "রাসায়নিক বিক্রিয়া",
+    "B": "পরিস্রাবণ, বাষ্পীভবন",
+    "C": "শুধু তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "দাঁত পরিষ্কারে ব্যবহৃত হয় —",
+   "options": {
+    "A": "সার",
+    "B": "কোনোটিই নয়",
+    "C": "টুথপেস্ট",
+    "D": "কীটনাশক"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "সালফিউরিক অ্যাসিডের সংকেত —",
+   "options": {
+    "A": "H₂SO₃",
+    "B": "HSO₄",
+    "C": "H₂SO₄",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "পানি কোন ধরনের পদার্থ?",
+   "options": {
+    "A": "যৌগ",
+    "B": "কোনোটিই নয়",
+    "C": "মিশ্রণ",
+    "D": "মৌল"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "হাইড্রোজেনের আণবিক ভর —",
+   "options": {
+    "A": "৪",
+    "B": "কোনোটিই নয়",
+    "C": "২",
+    "D": "১"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকেত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "পানি কোন ধরনের বিশুদ্ধতা?",
+   "options": {
+    "A": "মিশ্রণ",
+    "B": "কোনোটিই নয়",
+    "C": "মৌল",
+    "D": "বিশুদ্ধ যৌগ"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌল-যৌগ-মিশ্রণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "অ্যামোনিয়ার সংকেত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "NH₃",
+    "C": "NH₄",
+    "D": "N₂H"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকেত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "C",
+  "2": "B",
+  "3": "A",
+  "4": "B",
+  "5": "D",
+  "6": "A",
+  "7": "B",
+  "8": "B",
+  "9": "D",
+  "10": "D",
+  "11": "B",
+  "12": "B",
+  "13": "C",
+  "14": "D",
+  "15": "B",
+  "16": "C",
+  "17": "B",
+  "18": "A",
+  "19": "B",
+  "20": "B",
+  "21": "D",
+  "22": "B",
+  "23": "B",
+  "24": "A",
+  "25": "A",
+  "26": "A",
+  "27": "B",
+  "28": "C",
+  "29": "D",
+  "30": "D",
+  "31": "B",
+  "32": "D",
+  "33": "A",
+  "34": "A",
+  "35": "B",
+  "36": "C",
+  "37": "C",
+  "38": "D",
+  "39": "D",
+  "40": "A",
+  "41": "A",
+  "42": "B",
+  "43": "D",
+  "44": "B",
+  "45": "B",
+  "46": "A",
+  "47": "A",
+  "48": "C",
+  "49": "B",
+  "50": "C",
+  "51": "A",
+  "52": "D",
+  "53": "D",
+  "54": "B",
+  "55": "D",
+  "56": "D",
+  "57": "A",
+  "58": "A",
+  "59": "C",
+  "60": "B",
+  "61": "B",
+  "62": "D",
+  "63": "B",
+  "64": "A",
+  "65": "C",
+  "66": "B",
+  "67": "C",
+  "68": "A",
+  "69": "A",
+  "70": "A",
+  "71": "A",
+  "72": "B",
+  "73": "B",
+  "74": "B",
+  "75": "D",
+  "76": "B",
+  "77": "D",
+  "78": "D",
+  "79": "A",
+  "80": "C",
+  "81": "D",
+  "82": "A",
+  "83": "D",
+  "84": "D",
+  "85": "B",
+  "86": "D",
+  "87": "D",
+  "88": "B",
+  "89": "C",
+  "90": "C",
+  "91": "C",
+  "92": "C",
+  "93": "B",
+  "94": "A",
+  "95": "B",
+  "96": "A",
+  "97": "D",
+  "98": "B",
+  "99": "C",
+  "100": "A",
+  "101": "A",
+  "102": "A",
+  "103": "C",
+  "104": "B",
+  "105": "D",
+  "106": "C",
+  "107": "A",
+  "108": "D",
+  "109": "A",
+  "110": "B",
+  "111": "A",
+  "112": "A",
+  "113": "C",
+  "114": "A",
+  "115": "D",
+  "116": "D",
+  "117": "B",
+  "118": "B",
+  "119": "D",
+  "120": "B",
+  "121": "B",
+  "122": "C",
+  "123": "A",
+  "124": "B",
+  "125": "A",
+  "126": "D",
+  "127": "C",
+  "128": "D",
+  "129": "A",
+  "130": "A",
+  "131": "D",
+  "132": "A",
+  "133": "B",
+  "134": "A",
+  "135": "D",
+  "136": "C",
+  "137": "D",
+  "138": "C",
+  "139": "B",
+  "140": "B",
+  "141": "C",
+  "142": "C",
+  "143": "D",
+  "144": "B",
+  "145": "B",
+  "146": "D",
+  "147": "D",
+  "148": "B",
+  "149": "A",
+  "150": "C",
+  "151": "A",
+  "152": "A",
+  "153": "B",
+  "154": "D",
+  "155": "A",
+  "156": "A",
+  "157": "D",
+  "158": "A",
+  "159": "B",
+  "160": "D",
+  "161": "C",
+  "162": "A",
+  "163": "C",
+  "164": "A",
+  "165": "B",
+  "166": "A",
+  "167": "D",
+  "168": "C",
+  "169": "A",
+  "170": "A",
+  "171": "C",
+  "172": "D",
+  "173": "D",
+  "174": "D",
+  "175": "C",
+  "176": "D",
+  "177": "B",
+  "178": "B",
+  "179": "C",
+  "180": "C",
+  "181": "B",
+  "182": "A",
+  "183": "A",
+  "184": "D",
+  "185": "D",
+  "186": "D",
+  "187": "B",
+  "188": "D",
+  "189": "A",
+  "190": "B",
+  "191": "A",
+  "192": "B",
+  "193": "C",
+  "194": "C",
+  "195": "D",
+  "196": "A",
+  "197": "D",
+  "198": "D",
+  "199": "A",
+  "200": "A",
+  "201": "B",
+  "202": "B",
+  "203": "D",
+  "204": "D",
+  "205": "C",
+  "206": "A",
+  "207": "B",
+  "208": "C",
+  "209": "B",
+  "210": "A",
+  "211": "A",
+  "212": "C",
+  "213": "C",
+  "214": "C",
+  "215": "A",
+  "216": "B",
+  "217": "A",
+  "218": "B",
+  "219": "D",
+  "220": "A",
+  "221": "A",
+  "222": "D",
+  "223": "B",
+  "224": "B",
+  "225": "A",
+  "226": "C",
+  "227": "C",
+  "228": "B",
+  "229": "D",
+  "230": "D",
+  "231": "A",
+  "232": "C",
+  "233": "D",
+  "234": "A",
+  "235": "D",
+  "236": "C",
+  "237": "D",
+  "238": "C",
+  "239": "D",
+  "240": "D",
+  "241": "B",
+  "242": "B",
+  "243": "D",
+  "244": "B",
+  "245": "A",
+  "246": "B",
+  "247": "B",
+  "248": "B",
+  "249": "B",
+  "250": "B",
+  "251": "A",
+  "252": "B",
+  "253": "C",
+  "254": "A",
+  "255": "C",
+  "256": "C",
+  "257": "C",
+  "258": "B",
+  "259": "B",
+  "260": "C",
+  "261": "D",
+  "262": "B",
+  "263": "D",
+  "264": "C",
+  "265": "A",
+  "266": "B",
+  "267": "D",
+  "268": "A",
+  "269": "B",
+  "270": "D",
+  "271": "B",
+  "272": "A",
+  "273": "C",
+  "274": "D",
+  "275": "B",
+  "276": "B",
+  "277": "A",
+  "278": "A",
+  "279": "C",
+  "280": "A",
+  "281": "B",
+  "282": "D",
+  "283": "A",
+  "284": "A",
+  "285": "C",
+  "286": "B",
+  "287": "A",
+  "288": "A",
+  "289": "D",
+  "290": "A",
+  "291": "B",
+  "292": "C",
+  "293": "D",
+  "294": "D",
+  "295": "B",
+  "296": "C",
+  "297": "B",
+  "298": "A",
+  "299": "B",
+  "300": "A",
+  "301": "D",
+  "302": "B",
+  "303": "B",
+  "304": "D",
+  "305": "C",
+  "306": "A",
+  "307": "B",
+  "308": "D",
+  "309": "C",
+  "310": "A",
+  "311": "D",
+  "312": "B",
+  "313": "B",
+  "314": "B",
+  "315": "D",
+  "316": "C",
+  "317": "C",
+  "318": "C",
+  "319": "C",
+  "320": "C",
+  "321": "B",
+  "322": "C",
+  "323": "C",
+  "324": "D",
+  "325": "B",
+  "326": "D",
+  "327": "D",
+  "328": "C",
+  "329": "D",
+  "330": "C",
+  "331": "D",
+  "332": "C",
+  "333": "B",
+  "334": "C",
+  "335": "C",
+  "336": "C",
+  "337": "B",
+  "338": "B",
+  "339": "D",
+  "340": "A",
+  "341": "D",
+  "342": "A",
+  "343": "D",
+  "344": "D",
+  "345": "C",
+  "346": "D",
+  "347": "B",
+  "348": "D",
+  "349": "B",
+  "350": "C",
+  "351": "B",
+  "352": "B",
+  "353": "D",
+  "354": "A",
+  "355": "B",
+  "356": "B",
+  "357": "B",
+  "358": "D",
+  "359": "D",
+  "360": "C",
+  "361": "B",
+  "362": "D",
+  "363": "A",
+  "364": "A",
+  "365": "B",
+  "366": "C",
+  "367": "B",
+  "368": "A",
+  "369": "B",
+  "370": "C",
+  "371": "C",
+  "372": "A",
+  "373": "C",
+  "374": "D",
+  "375": "B"
+ }
+}
