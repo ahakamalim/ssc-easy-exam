@@ -1,0 +1,7134 @@
+{
+ "subject": "রসায়ন",
+ "chapterNo": 3,
+ "chapter": "পদার্থের গঠন",
+ "questions": [
+  {
+   "question": "ডাল্টনের পরমাণুবাদ অনুযায়ী মৌল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অবিচ্ছিন্ন",
+    "C": "শূন্য",
+    "D": "ক্ষুদ্র কণা দিয়ে গঠিত"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণুর ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "নিউক্লিয়াসে ধনাত্মক আধান —",
+   "options": {
+    "A": "ইলেকট্রনের কারণে",
+    "B": "নিউট্রনের কারণে",
+    "C": "কোনোটিই নয়",
+    "D": "প্রোটনের কারণে"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "ইলেকট্রনের ভর প্রোটনের তুলনায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বেশি",
+    "C": "সমান",
+    "D": "নগণ্য"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "পারমাণবিক সংখ্যা ১৯ হলে ইলেকট্রন সংখ্যা —",
+   "options": {
+    "A": "২০",
+    "B": "কোনোটিই নয়",
+    "C": "১৯",
+    "D": "১৮"
+   },
+   "correctAnswer": "C",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "ফসফরাস-৩২ ব্যবহার —",
+   "options": {
+    "A": "মাপে",
+    "B": "কৃষি গবেষণায়",
+    "C": "রান্নায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আইসোটোপ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "অক্সিজেন কোন গ্রুপে?",
+   "options": {
+    "A": "১৬",
+    "B": "কোনোটিই নয়",
+    "C": "৮",
+    "D": "৬"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "ভিন্ন মৌলের পরমাণু —",
+   "options": {
+    "A": "একই",
+    "B": "কোনোটিই নয়",
+    "C": "ভিন্ন",
+    "D": "অভিন্ন"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "Cl⁻ আয়নে ইলেকট্রন সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৭",
+    "C": "১৬",
+    "D": "১৮"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়ন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "নিউক্লিয়ার বিক্রিয়ায় পরমাণু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অপরিবর্তিত থাকে",
+    "C": "পরিবর্তিত হয়",
+    "D": "সংরক্ষিত"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণুর ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "পরমাণু খালি চোখে দেখা —",
+   "options": {
+    "A": "সহজ",
+    "B": "কোনোটিই নয়",
+    "C": "সম্ভব",
+    "D": "সম্ভব নয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "ইলেকট্রনের আধান —",
+   "options": {
+    "A": "শূন্য",
+    "B": "কোনোটিই নয়",
+    "C": "ঋণাত্মক",
+    "D": "ধনাত্মক"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "পারমাণবিক সংখ্যা কাকে বলে?",
+   "options": {
+    "A": "প্রোটনের সংখ্যা",
+    "B": "কোনোটিই নয়",
+    "C": "নিউট্রনের সংখ্যা",
+    "D": "ভর সংখ্যা"
+   },
+   "correctAnswer": "A",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "জীবাশ্মের বয়স নির্ণয়ে —",
+   "options": {
+    "A": "কার্বন-১২",
+    "B": "হাইড্রোজেন",
+    "C": "কার্বন-১৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আইসোটোপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "যোজ্যতা ইলেকট্রন ১ হলে মৌল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইলেকট্রন লাভ করে",
+    "C": "সহজে ১ ইলেকট্রন ত্যাগ করে",
+    "D": "কিছুই করে না"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "বোরের মডেলে নিউক্লিয়াসের চারপাশে —",
+   "options": {
+    "A": "কিছুই নেই",
+    "B": "নির্দিষ্ট কক্ষপথ",
+    "C": "কোনোটিই নয়",
+    "D": "যেকোনো পথ"
+   },
+   "correctAnswer": "B",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "O²⁻ আয়নে ইলেকট্রন সংখ্যা —",
+   "options": {
+    "A": "১০",
+    "B": "৬",
+    "C": "কোনোটিই নয়",
+    "D": "৮"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়ন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "পরমাণু শব্দটি কোন ভাষা থেকে এসেছে?",
+   "options": {
+    "A": "গ্রিক",
+    "B": "কোনোটিই নয়",
+    "C": "ল্যাটিন",
+    "D": "আরবি"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "ধাতু বিদ্যুৎ পরিবাহী — কারণ?",
+   "options": {
+    "A": "প্রোটন",
+    "B": "কোনোটিই নয়",
+    "C": "মুক্ত ইলেকট্রন",
+    "D": "নিউট্রন"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণুর গঠন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "প্রোটনের প্রতীক —",
+   "options": {
+    "A": "p⁺",
+    "B": "n⁰",
+    "C": "কোনোটিই নয়",
+    "D": "e⁻"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌলিক কণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "ভর সংখ্যা A = ?",
+   "options": {
+    "A": "Z − N",
+    "B": "N − Z",
+    "C": "কোনোটিই নয়",
+    "D": "Z + N"
+   },
+   "correctAnswer": "D",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "কার্বন-১৪ এর নিউট্রন সংখ্যা —",
+   "options": {
+    "A": "৮",
+    "B": "১৪",
+    "C": "৬",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আইসোটোপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "যোজ্যতা ইলেকট্রন কাকে বলে?",
+   "options": {
+    "A": "মোট ইলেকট্রন",
+    "B": "ভেতরের শেলের ইলেকট্রন",
+    "C": "কোনোটিই নয়",
+    "D": "বহিঃস্থ শেলের ইলেকট্রন"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "শক্তি শোষণ ও নির্গমন —",
+   "options": {
+    "A": "অবিচ্ছিন্ন",
+    "B": "কোয়ান্টায়িত",
+    "C": "কোনোটিই নয়",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "পরমাণু ও আয়নের পার্থক্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভরে",
+    "C": "আধানে",
+    "D": "রংয়ে"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "ডাল্টনের পরমাণুবাদের ত্রুটি —",
+   "options": {
+    "A": "পরমাণু অবিভাজ্য নয়",
+    "B": "পরমাণু বিভাজ্য নয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "পরমাণুর আকার নির্ধারণ করে —",
+   "options": {
+    "A": "প্রোটন",
+    "B": "নিউক্লিয়াস",
+    "C": "কোনোটিই নয়",
+    "D": "ইলেকট্রন"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "পরমাণুর ভর প্রধানত নির্ধারণ করে —",
+   "options": {
+    "A": "ইলেকট্রন",
+    "B": "কোনোটিই নয়",
+    "C": "প্রোটন ও নিউট্রন",
+    "D": "শুধু প্রোটন"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "লোহার পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "৫৬",
+    "B": "কোনোটিই নয়",
+    "C": "২৮",
+    "D": "২৬"
+   },
+   "correctAnswer": "D",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "কার্বন-১৪ —",
+   "options": {
+    "A": "মৌল",
+    "B": "স্থিতিশীল আইসোটোপ",
+    "C": "কোনোটিই নয়",
+    "D": "তেজস্ক্রিয় আইসোটোপ"
+   },
+   "correctAnswer": "D",
+   "topic": "আইসোটোপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "ম্যাগনেসিয়ামের যোজ্যতা —",
+   "options": {
+    "A": "১",
+    "B": "কোনোটিই নয়",
+    "C": "২",
+    "D": "৩"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "রাদারফোর্ডের মডেলের সীমাবদ্ধতা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ইলেকট্রনের স্থিতিশীলতা ব্যাখ্যা করতে পারেনি",
+    "C": "কোনোটিই নয়",
+    "D": "সব ব্যাখ্যা করেছে"
+   },
+   "correctAnswer": "B",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "অ্যানায়নের আধান —",
+   "options": {
+    "A": "শূন্য",
+    "B": "কোনোটিই নয়",
+    "C": "ধনাত্মক",
+    "D": "ঋণাত্মক"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "পরমাণুর গঠন আবিষ্কারে —",
+   "options": {
+    "A": "একজনের অবদান",
+    "B": "কোনোটিই নয়",
+    "C": "কোনো অবদান নেই",
+    "D": "অনেক বিজ্ঞানীর অবদান"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণুর ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "প্রোটন আবিষ্কার করেন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "থমসন",
+    "C": "রাদারফোর্ড",
+    "D": "চ্যাডউইক"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "প্রোটন নিউক্লিয়াসে থাকে —",
+   "options": {
+    "A": "না",
+    "B": "কখনো",
+    "C": "হ্যাঁ",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "কার্বন-১২ এর ভরকে —",
+   "options": {
+    "A": "১২ amu ধরা হয়",
+    "B": "৬ amu ধরা হয়",
+    "C": "১ amu ধরা হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "কার্বন-১৪ ডেটিং ব্যবহৃত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপে",
+    "C": "আলোতে",
+    "D": "বয়স নির্ণয়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "আইসোটোপ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "মৌলের যোজ্যতা বেশি হলে —",
+   "options": {
+    "A": "কম বন্ধন গঠন করে",
+    "B": "বেশি বন্ধন গঠন করে",
+    "C": "কোনো বন্ধন করে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "আলফা কণার উৎস —",
+   "options": {
+    "A": "ব্যাটারি",
+    "B": "চুম্বক",
+    "C": "কোনোটিই নয়",
+    "D": "তেজস্ক্রিয় মৌল"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "আয়নিক যৌগের উদাহরণ —",
+   "options": {
+    "A": "H₂O",
+    "B": "CH₄",
+    "C": "কোনোটিই নয়",
+    "D": "NaCl"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "পদার্থের গঠন বুঝতে মৌলিক ধারণা —",
+   "options": {
+    "A": "অণু শুধু",
+    "B": "পরমাণু",
+    "C": "আয়ন শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরমাণুর ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "তড়িৎ পরিবাহিতা নির্ধারণ করে —",
+   "options": {
+    "A": "প্রোটন",
+    "B": "নিউট্রন",
+    "C": "কোনোটিই নয়",
+    "D": "ইলেকট্রন"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "ক্যাথোড রশ্মি কী?",
+   "options": {
+    "A": "প্রোটনের প্রবাহ",
+    "B": "নিউট্রনের প্রবাহ",
+    "C": "কোনোটিই নয়",
+    "D": "ইলেকট্রনের প্রবাহ"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "ক্লোরিনের পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "১৭",
+    "B": "৩৫",
+    "C": "১৮",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "ক্যানসার চিকিৎসায় —",
+   "options": {
+    "A": "কার্বন-১৪",
+    "B": "আয়োডিন-১৩১",
+    "C": "কোবাল্ট-৬০",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আইসোটোপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "ক্ষারীয় মৃত্তিকা ধাতুর যোজ্যতা ইলেকট্রন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১",
+    "C": "২",
+    "D": "৭"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "রাদারফোর্ড কোন পরীক্ষায় নিউক্লিয়াস আবিষ্কার করেন?",
+   "options": {
+    "A": "আলফা কণা বিক্ষেপণ",
+    "B": "তড়িৎ বিশ্লেষণ",
+    "C": "ক্যাথোড রশ্মি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "Cl পরমাণু ও Cl⁻ আয়নের প্রোটন সংখ্যা —",
+   "options": {
+    "A": "সমান",
+    "B": "দ্বিগুণ",
+    "C": "ভিন্ন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "পদার্থের রাসায়নিক আচরণ বুঝতে —",
+   "options": {
+    "A": "জানা দরকার নেই",
+    "B": "কিছুই না",
+    "C": "পরমাণুর গঠন জানা দরকার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণুর ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "নিউক্লিয়াসের আধান —",
+   "options": {
+    "A": "শূন্য",
+    "B": "কোনোটিই নয়",
+    "C": "ঋণাত্মক",
+    "D": "ধনাত্মক"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "ইলেকট্রন পরমাণুর ভরে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রধান অবদান রাখে",
+    "C": "কোনো অবদান রাখে না",
+    "D": "নগণ্য অবদান রাখে"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "পারমাণবিক সংখ্যা ১৩ হলে মৌল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সিলিকন",
+    "C": "ম্যাগনেসিয়াম",
+    "D": "অ্যালুমিনিয়াম"
+   },
+   "correctAnswer": "D",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "হাইড্রোজেনের আইসোটোপ কয়টি?",
+   "options": {
+    "A": "৩",
+    "B": "৪",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আইসোটোপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "অক্সিজেনের (O, Z=৮) ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "2, 5",
+    "B": "2, 6",
+    "C": "কোনোটিই নয়",
+    "D": "2, 8"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "পরমাণুর কক্ষপথে ইলেকট্রন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "যেকোনো শক্তিতে",
+    "C": "নির্দিষ্ট শক্তিতে ঘোরে",
+    "D": "শক্তি ছাড়া"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "কঠিন NaCl বিদ্যুৎ —",
+   "options": {
+    "A": "পরিবহন করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পরিবহন করে না"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "পরমাণুর সংখ্যা সংরক্ষণ সূত্র —",
+   "options": {
+    "A": "পরমাণু সৃষ্টি হয়",
+    "B": "পরমাণু ধ্বংস হয়",
+    "C": "রাসায়নিক বিক্রিয়ায় পরমাণু ধ্বংস হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণুর ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "পরমাণুর ভর কেন্দ্রীভূত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইলেকট্রনে",
+    "C": "নিউক্লিয়াসে",
+    "D": "শেলে"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "প্রোটনের ভর প্রায় —",
+   "options": {
+    "A": "শূন্য",
+    "B": "কোনোটিই নয়",
+    "C": "৯.১১ × ১০⁻³¹ কেজি",
+    "D": "১.৬৭৩ × ১০⁻²⁷ কেজি"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলিক কণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "ভর সংখ্যা ৩৯ ও পারমাণবিক সংখ্যা ১৯ হলে নিউট্রন কত?",
+   "options": {
+    "A": "২০",
+    "B": "কোনোটিই নয়",
+    "C": "১৯",
+    "D": "৩৯"
+   },
+   "correctAnswer": "A",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "আইসোটোপের ব্যবহার কৃষিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রান্না",
+    "C": "মাপা",
+    "D": "ফসল গবেষণা"
+   },
+   "correctAnswer": "D",
+   "topic": "আইসোটোপ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "প্রথমে পূর্ণ হয় —",
+   "options": {
+    "A": "উচ্চ শক্তি শেল",
+    "B": "যেকোনো শেল",
+    "C": "নিম্ন শক্তি শেল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "রাদারফোর্ডের পরীক্ষায় সোনার পাত ব্যবহৃত হয় —",
+   "options": {
+    "A": "মোটা",
+    "B": "মাঝারি",
+    "C": "কোনোটিই নয়",
+    "D": "পাতলা"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "প্রোটন সংখ্যার পরিবর্তনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "আয়ন হয়",
+    "D": "নতুন মৌল হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় পরমাণু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ধ্বংস হয়",
+    "C": "সংরক্ষিত থাকে",
+    "D": "সৃষ্টি হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণুর ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "পরমাণুতে ধনাত্মক ও ঋণাত্মক আধান সমান — তাই পরমাণু —",
+   "options": {
+    "A": "ঋণাত্মক",
+    "B": "ধনাত্মক",
+    "C": "নিরপেক্ষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "নিউট্রন আবিষ্কৃত হয় —",
+   "options": {
+    "A": "১৯৩২ সালে",
+    "B": "কোনোটিই নয়",
+    "C": "১৯৫০ সালে",
+    "D": "১৯০০ সালে"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌলিক কণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "পারমাণবিক সংখ্যা ১০ হলে মৌল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফ্লোরিন",
+    "C": "নিয়ন",
+    "D": "সোডিয়াম"
+   },
+   "correctAnswer": "C",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "আইসোটোপের পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভিন্ন",
+    "C": "সমান",
+    "D": "দ্বিগুণ"
+   },
+   "correctAnswer": "C",
+   "topic": "আইসোটোপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "ক্ষার ধাতু —",
+   "options": {
+    "A": "মাঝারি",
+    "B": "খুব সক্রিয়",
+    "C": "কোনোটিই নয়",
+    "D": "নিষ্ক্রিয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "নিউক্লিয়াসের কাছের শেলের শক্তি —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "ক্যাটায়নের আধান —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "ঋণাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "পরমাণু কাকে বলে?",
+   "options": {
+    "A": "মৌলের ক্ষুদ্রতম কণা",
+    "B": "যৌগের ক্ষুদ্রতম কণা",
+    "C": "কোনোটিই নয়",
+    "D": "মিশ্রণের কণা"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "ধাতু তড়িৎ পরিবহন করে —",
+   "options": {
+    "A": "নিউট্রনের কারণে",
+    "B": "মুক্ত ইলেকট্রনের কারণে",
+    "C": "কোনোটিই নয়",
+    "D": "প্রোটনের কারণে"
+   },
+   "correctAnswer": "B",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "থমসন ইলেকট্রন আবিষ্কার করেন —",
+   "options": {
+    "A": "১৮০০ সালে",
+    "B": "১৯০০ সালে",
+    "C": "কোনোটিই নয়",
+    "D": "১৮৯৭ সালে"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলিক কণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "নিরপেক্ষ পরমাণুতে প্রোটন ও ইলেকট্রন সংখ্যা —",
+   "options": {
+    "A": "ভিন্ন",
+    "B": "সমান",
+    "C": "কোনোটিই নয়",
+    "D": "দ্বিগুণ"
+   },
+   "correctAnswer": "B",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "তেজস্ক্রিয় আইসোটোপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বিকিরণ নির্গত করে",
+    "C": "বিকিরণ করে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আইসোটোপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "ক্লোরিনের যোজ্যতা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১",
+    "C": "২",
+    "D": "৭"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "ইলেকট্রন নিম্ন শেলে গেলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শক্তি নির্গত করে",
+    "D": "শক্তি শোষণ করে"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "সোডিয়াম পরমাণু ১টি ইলেকট্রন হারালে —",
+   "options": {
+    "A": "Na⁻ আয়ন হয়",
+    "B": "কোনোটিই নয়",
+    "C": "নিরপেক্ষ থাকে",
+    "D": "Na⁺ আয়ন হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "পরমাণু শব্দের অর্থ কী?",
+   "options": {
+    "A": "বিভাজ্য",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষুদ্র",
+    "D": "অবিভাজ্য"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "নিউক্লিয় বল কাজ করে —",
+   "options": {
+    "A": "খুব কাছের দূরত্বে",
+    "B": "সব দূরত্বে",
+    "C": "কোনোটিই নয়",
+    "D": "বেশি দূরত্বে"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "প্রোটনের আধানের মান —",
+   "options": {
+    "A": "+১.৬ × ১০⁻¹⁹ C",
+    "B": "শূন্য",
+    "C": "কোনোটিই নয়",
+    "D": "−১.৬ × ১০⁻¹⁹ C"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌলিক কণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "পারমাণবিক সংখ্যা Z ও ভর সংখ্যা A হলে নিউট্রন N = ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "A + Z",
+    "C": "Z − A",
+    "D": "A − Z"
+   },
+   "correctAnswer": "D",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "আইসোটোপের ভর সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভিন্ন",
+    "C": "দ্বিগুণ",
+    "D": "সমান"
+   },
+   "correctAnswer": "B",
+   "topic": "আইসোটোপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "সোডিয়ামের (Z=১১) কক্ষপথ সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২",
+    "C": "৩",
+    "D": "৪"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "বর্ণালি রেখা সৃষ্টি হয় —",
+   "options": {
+    "A": "ইলেকট্রনের শেল পরিবর্তনে",
+    "B": "কোনোটিই নয়",
+    "C": "প্রোটনের পরিবর্তনে",
+    "D": "নিউট্রনের পরিবর্তনে"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "গলিত NaCl বিদ্যুৎ —",
+   "options": {
+    "A": "পরিবহন করে",
+    "B": "পরিবহন করে না",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "পরমাণুর গঠন বুঝতে —",
+   "options": {
+    "A": "রসায়ন লাগে না",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "রসায়ন অপরিহার্য"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণুর ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "পরমাণুর সামগ্রিক আধান —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "কোনোটিই নয়",
+    "C": "ঋণাত্মক",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "পরমাণুর মৌলিক কণা কয়টি?",
+   "options": {
+    "A": "৩",
+    "B": "২",
+    "C": "৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌলিক কণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "Z = ১৭, A = ৩৫ হলে নিউট্রন কত?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৮",
+    "C": "৩৫",
+    "D": "১৭"
+   },
+   "correctAnswer": "B",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "পারমাণবিক চুল্লিতে ব্যবহৃত হয় —",
+   "options": {
+    "A": "U-২৩৮ শুধু",
+    "B": "কার্বন",
+    "C": "কোনোটিই নয়",
+    "D": "U-২৩৫"
+   },
+   "correctAnswer": "D",
+   "topic": "আইসোটোপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "কার্বনের যোজ্যতা ইলেকট্রন —",
+   "options": {
+    "A": "৬",
+    "B": "২",
+    "C": "কোনোটিই নয়",
+    "D": "৪"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "বোরের মডেলের সীমাবদ্ধতা —",
+   "options": {
+    "A": "বহু-ইলেকট্রন পরমাণু ব্যাখ্যা করতে পারে না",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সব ব্যাখ্যা করে"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "অধাতু আয়ন গঠনে —",
+   "options": {
+    "A": "কিছুই করে না",
+    "B": "ইলেকট্রন লাভ করে",
+    "C": "কোনোটিই নয়",
+    "D": "ইলেকট্রন ত্যাগ করে"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "ইলেকট্রন নিউক্লিয়াসকে ঘোরে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মহাকর্ষে",
+    "C": "ঘর্ষণে",
+    "D": "কেন্দ্রমুখী বলের কারণে"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "ইলেকট্রনের ভর প্রায় —",
+   "options": {
+    "A": "১.৬৭৩ × ১০⁻²⁷ কেজি",
+    "B": "শূন্য",
+    "C": "কোনোটিই নয়",
+    "D": "৯.১১ × ১০⁻³¹ কেজি"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলিক কণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "ক্লোরিনের পারমাণবিক ভর ৩৫.৫ — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিউট্রন ভগ্নাংশ",
+    "C": "আইসোটোপের গড়",
+    "D": "প্রোটন ভগ্নাংশ"
+   },
+   "correctAnswer": "C",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "আইসোটোপের ভৌত ধর্ম —",
+   "options": {
+    "A": "একই",
+    "B": "দ্বিগুণ",
+    "C": "ভিন্ন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আইসোটোপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "ফ্লোরিনের ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "২, ৬",
+    "B": "২, ৭",
+    "C": "কোনোটিই নয়",
+    "D": "২, ৮"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "থমসনের মডেলকে বলা হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কোয়ান্টাম মডেল",
+    "C": "প্লাম পুডিং মডেল",
+    "D": "সৌরজগৎ মডেল"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণু মডেল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "ঋণাত্মক আয়ন কাকে বলে?",
+   "options": {
+    "A": "ইলেকট্রন হারানো পরমাণু",
+    "B": "নিরপেক্ষ পরমাণু",
+    "C": "কোনোটিই নয়",
+    "D": "ইলেকট্রন লাভ করা পরমাণু"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "ইলেকট্রন আবিষ্কার করেন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চ্যাডউইক",
+    "C": "রাদারফোর্ড",
+    "D": "থমসন"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "ইলেকট্রনের প্রতীক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "p⁺",
+    "C": "n⁰",
+    "D": "e⁻"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলিক কণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "নিরপেক্ষ পরমাণুতে ইলেকট্রন সংখ্যা = ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রোটন সংখ্যা",
+    "C": "ভর সংখ্যা",
+    "D": "নিউট্রন সংখ্যা"
+   },
+   "correctAnswer": "B",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "ইউরেনিয়াম-২৩৫ ও ইউরেনিয়াম-২৩৮ —",
+   "options": {
+    "A": "আইসোবার",
+    "B": "আইসোটোপ",
+    "C": "আইসোটোন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আইসোটোপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "ক্যালসিয়ামের (Ca, Z=২০) ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "2, 8, 8",
+    "C": "2, 8, 8, 1",
+    "D": "2, 8, 8, 2"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "আধুনিক পরমাণু মডেল —",
+   "options": {
+    "A": "সৌরজগৎ",
+    "B": "কোনোটিই নয়",
+    "C": "প্লাম পুডিং",
+    "D": "কোয়ান্টাম মডেল"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণু মডেল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "ক্লোরিন পরমাণু ১টি ইলেকট্রন লাভ করলে —",
+   "options": {
+    "A": "নিরপেক্ষ থাকে",
+    "B": "Cl⁻ আয়ন হয়",
+    "C": "কোনোটিই নয়",
+    "D": "Cl⁺ আয়ন হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "পরমাণুর ঘনত্ব সবচেয়ে বেশি —",
+   "options": {
+    "A": "নিউক্লিয়াসে",
+    "B": "শূন্যস্থানে",
+    "C": "কক্ষপথে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "ইলেকট্রন নিউক্লিয়াসের বাইরে থাকে —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "কখনো না",
+    "C": "কখনো",
+    "D": "না"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "ভর সংখ্যা সবসময় —",
+   "options": {
+    "A": "ভগ্নাংশ",
+    "B": "শূন্য",
+    "C": "কোনোটিই নয়",
+    "D": "পূর্ণ সংখ্যা"
+   },
+   "correctAnswer": "D",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "আইসোটোপের ব্যবহার চিকিৎসায় —",
+   "options": {
+    "A": "ক্যানসার চিকিৎসা",
+    "B": "রান্না",
+    "C": "কোনোটিই নয়",
+    "D": "মাপা"
+   },
+   "correctAnswer": "A",
+   "topic": "আইসোটোপ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "লিথিয়ামের ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "২, ২",
+    "B": "কোনোটিই নয়",
+    "C": "২, ১",
+    "D": "১"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "বোরের মডেলে ইলেকট্রন —",
+   "options": {
+    "A": "নির্দিষ্ট কক্ষপথে ঘোরে",
+    "B": "স্থির থাকে",
+    "C": "কোনোটিই নয়",
+    "D": "যেকোনো পথে ঘোরে"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "ধাতু আয়ন গঠনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই করে না",
+    "C": "ইলেকট্রন লাভ করে",
+    "D": "ইলেকট্রন ত্যাগ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "পরমাণুর চারপাশে ঋণাত্মক আধান —",
+   "options": {
+    "A": "ইলেকট্রনের কারণে",
+    "B": "কোনোটিই নয়",
+    "C": "প্রোটনের কারণে",
+    "D": "নিউট্রনের কারণে"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "নিউট্রনের ভর প্রোটনের ভরের চেয়ে —",
+   "options": {
+    "A": "দ্বিগুণ",
+    "B": "অর্ধেক",
+    "C": "কোনোটিই নয়",
+    "D": "সামান্য বেশি"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "ভর সংখ্যা কাকে বলে?",
+   "options": {
+    "A": "শুধু নিউট্রন",
+    "B": "কোনোটিই নয়",
+    "C": "প্রোটন + নিউট্রন",
+    "D": "শুধু প্রোটন"
+   },
+   "correctAnswer": "C",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "আইসোটোপ কাকে বলে?",
+   "options": {
+    "A": "সমান ভর",
+    "B": "সমান প্রোটন, ভিন্ন নিউট্রন",
+    "C": "সমান নিউট্রন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আইসোটোপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "লিথিয়াম ও সোডিয়াম একই গ্রুপে — কারণ?",
+   "options": {
+    "A": "একই যোজ্যতা ইলেকট্রন",
+    "B": "ভিন্ন যোজ্যতা",
+    "C": "একই ভর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "অরবিটাল কাকে বলে?",
+   "options": {
+    "A": "নির্দিষ্ট কক্ষ",
+    "B": "ইলেকট্রন পাওয়ার সম্ভাব্য অঞ্চল",
+    "C": "নিউক্লিয়াস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরমাণু মডেল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "ক্যাটায়ন ও অ্যানায়নের মধ্যে —",
+   "options": {
+    "A": "বিকর্ষণ বল কাজ করে",
+    "B": "কোনোটিই নয়",
+    "C": "কোনো বল কাজ করে না",
+    "D": "আকর্ষণ বল কাজ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "পরমাণু নিরপেক্ষ — কারণ?",
+   "options": {
+    "A": "নিউট্রন বেশি",
+    "B": "কোনোটিই নয়",
+    "C": "প্রোটন > ইলেকট্রন",
+    "D": "প্রোটন = ইলেকট্রন"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "পরমাণুর মৌলিক কণা —",
+   "options": {
+    "A": "শুধু ইলেকট্রন",
+    "B": "প্রোটন, নিউট্রন",
+    "C": "কোনোটিই নয়",
+    "D": "প্রোটন, নিউট্রন, ইলেকট্রন"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলিক কণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "পারমাণবিক সংখ্যা ৩ হলে মৌল —",
+   "options": {
+    "A": "হিলিয়াম",
+    "B": "বেরিলিয়াম",
+    "C": "লিথিয়াম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "কার্বন-১২ এর নিউট্রন সংখ্যা —",
+   "options": {
+    "A": "১২",
+    "B": "৬",
+    "C": "কোনোটিই নয়",
+    "D": "৮"
+   },
+   "correctAnswer": "B",
+   "topic": "আইসোটোপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "হিলিয়ামের ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "২",
+    "B": "২,১",
+    "C": "১",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "আলফা কণা কী?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রোটন",
+    "C": "ইলেকট্রন",
+    "D": "হিলিয়াম নিউক্লিয়াস"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "আয়ন গঠনের কারণ —",
+   "options": {
+    "A": "ইলেকট্রন লাভ বা ক্ষয়",
+    "B": "নিউট্রন লাভ",
+    "C": "কোনোটিই নয়",
+    "D": "প্রোটন লাভ"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "পরমাণু পর্যবেক্ষণের যন্ত্র —",
+   "options": {
+    "A": "চোখ",
+    "B": "কোনোটিই নয়",
+    "C": "ইলেকট্রন অণুবীক্ষণ যন্ত্র",
+    "D": "সাধারণ অণুবীক্ষণ"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "নিউট্রন নিউক্লিয়াসে থাকে —",
+   "options": {
+    "A": "কখনো না",
+    "B": "হ্যাঁ",
+    "C": "কখনো",
+    "D": "না"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "পারমাণবিক ভর একক (amu) —",
+   "options": {
+    "A": "১.৬৬ × ১০⁻²⁴ গ্রাম",
+    "B": "১ কেজি",
+    "C": "কোনোটিই নয়",
+    "D": "১ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "হাইড্রোজেনের আইসোটোপ —",
+   "options": {
+    "A": "প্রোটিয়াম, ডিউটেরিয়াম, ট্রিটিয়াম",
+    "B": "শুধু ডিউটেরিয়াম",
+    "C": "শুধু প্রোটিয়াম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আইসোটোপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "শেলের সর্বোচ্চ ইলেকট্রন ধারণের সূত্র —",
+   "options": {
+    "A": "2n",
+    "B": "n²",
+    "C": "কোনোটিই নয়",
+    "D": "2n²"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "কোয়ান্টাম মডেলে ইলেকট্রনের অবস্থান —",
+   "options": {
+    "A": "নির্দিষ্ট কক্ষে",
+    "B": "কোনোটিই নয়",
+    "C": "সম্ভাব্যতা অঞ্চলে",
+    "D": "নিউক্লিয়াসে"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "ধাতু ইলেকট্রন —",
+   "options": {
+    "A": "ধরে রাখে",
+    "B": "লাভ করে",
+    "C": "ত্যাগ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "পরমাণুর আকার প্রায় —",
+   "options": {
+    "A": "১ মিটার",
+    "B": "কোনোটিই নয়",
+    "C": "১০⁻¹⁵ মিটার",
+    "D": "১০⁻¹⁰ মিটার"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণুর গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "নিউট্রনের ভর প্রোটনের ভরের প্রায় —",
+   "options": {
+    "A": "দ্বিগুণ",
+    "B": "সমান",
+    "C": "অর্ধেক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "ভর সংখ্যা ৩২ ও পারমাণবিক সংখ্যা ১৬ হলে নিউট্রন কত?",
+   "options": {
+    "A": "১৫",
+    "B": "১৬",
+    "C": "কোনোটিই নয়",
+    "D": "৩২"
+   },
+   "correctAnswer": "B",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "আইসোটোপের ব্যবহার শিল্পে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রান্না",
+    "C": "ত্রুটি শনাক্ত",
+    "D": "মাপা"
+   },
+   "correctAnswer": "C",
+   "topic": "আইসোটোপ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "বেরিলিয়ামের ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "২",
+    "B": "২, ২",
+    "C": "কোনোটিই নয়",
+    "D": "২, ১"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "রাদারফোর্ডের পরীক্ষায় ব্যবহৃত কণা —",
+   "options": {
+    "A": "গামা রশ্মি",
+    "B": "কোনোটিই নয়",
+    "C": "আলফা কণা",
+    "D": "বিটা কণা"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "ক্যাটায়ন ও অ্যানায়ন মিলে —",
+   "options": {
+    "A": "আয়নিক যৌগ গঠন করে",
+    "B": "কোনোটিই নয়",
+    "C": "মিশ্রণ গঠন করে",
+    "D": "সমযোজী যৌগ গঠন করে"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "পরমাণুর কেন্দ্রে থাকে —",
+   "options": {
+    "A": "নিউক্লিয়াস",
+    "B": "কোনোটিই নয়",
+    "C": "ইলেকট্রন",
+    "D": "শূন্যস্থান"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "ইলেকট্রন নিউক্লিয়াসে থাকে —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "কখনো না",
+    "C": "কখনো",
+    "D": "না"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "ভর সংখ্যা বদলালে (প্রোটন একই) —",
+   "options": {
+    "A": "আয়ন হয়",
+    "B": "আইসোটোপ হয়",
+    "C": "নতুন মৌল হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "আয়োডিন-১৩১ ব্যবহার —",
+   "options": {
+    "A": "মাপে",
+    "B": "কোনোটিই নয়",
+    "C": "থাইরয়েড চিকিৎসায়",
+    "D": "রান্নায়"
+   },
+   "correctAnswer": "C",
+   "topic": "আইসোটোপ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "নিষ্ক্রিয় গ্যাস কোন গ্রুপে?",
+   "options": {
+    "A": "১৭",
+    "B": "কোনোটিই নয়",
+    "C": "১৬",
+    "D": "১৮"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "বোরের মডেল ব্যাখ্যা করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সব মৌলের বর্ণালি",
+    "C": "হাইড্রোজেনের বর্ণালি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "ঋণাত্মক আয়নকে বলা হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যানায়ন",
+    "C": "নিরপেক্ষ",
+    "D": "ক্যাটায়ন"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "নিউক্লিয়াসের আকার পরমাণুর তুলনায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অতি ক্ষুদ্র",
+    "C": "বড়",
+    "D": "সমান"
+   },
+   "correctAnswer": "B",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "ইলেকট্রনের আধানের মান —",
+   "options": {
+    "A": "−১.৬ × ১০⁻¹⁹ C",
+    "B": "কোনোটিই নয়",
+    "C": "+১.৬ × ১০⁻¹⁹ C",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌলিক কণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "Z = ৬, A = ১২ হলে নিউট্রন কত?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৬",
+    "C": "১৮",
+    "D": "১২"
+   },
+   "correctAnswer": "B",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "ইউরেনিয়ামের আইসোটোপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু U-২৩৫",
+    "C": "শুধু U-২৩৮",
+    "D": "U-২৩৫ ও U-২৩৮"
+   },
+   "correctAnswer": "D",
+   "topic": "আইসোটোপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "অক্সিজেনের (Z=৮) কক্ষপথ সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৩",
+    "C": "১",
+    "D": "২"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "নিউক্লিয়াসের চারপাশে ইলেকট্রনের গতি —",
+   "options": {
+    "A": "ধীর",
+    "B": "স্থির",
+    "C": "কোনোটিই নয়",
+    "D": "দ্রুত"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "অধাতু ইলেকট্রন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লাভ করে",
+    "C": "ত্যাগ করে",
+    "D": "ধরে রাখে"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "অধাতুতে মুক্ত ইলেকট্রন —",
+   "options": {
+    "A": "থাকে",
+    "B": "কোনোটিই নয়",
+    "C": "থাকে না",
+    "D": "বেশি থাকে"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "ইলেকট্রন, প্রোটন, নিউট্রনের মধ্যে সবচেয়ে হালকা —",
+   "options": {
+    "A": "ইলেকট্রন",
+    "B": "নিউট্রন",
+    "C": "প্রোটন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "Z = ২০, A = ৪০ হলে নিউট্রন কত?",
+   "options": {
+    "A": "২০",
+    "B": "৬০",
+    "C": "৪০",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "ক্লোরিনের আইসোটোপ —",
+   "options": {
+    "A": "Cl-৩৫ ও Cl-৩৭",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু Cl-৩৭",
+    "D": "শুধু Cl-৩৫"
+   },
+   "correctAnswer": "A",
+   "topic": "আইসোটোপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "অ্যালুমিনিয়ামের ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২, ৮, ২",
+    "C": "২, ৮, ৩",
+    "D": "২, ৮, ১"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "ডাল্টনের পরমাণুবাদ অনুযায়ী পরমাণু —",
+   "options": {
+    "A": "বিভাজ্য",
+    "B": "যৌগিক",
+    "C": "অবিভাজ্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "আয়নিক বন্ধনে —",
+   "options": {
+    "A": "ইলেকট্রন স্থানান্তর হয়",
+    "B": "কোনোটিই নয়",
+    "C": "ইলেকট্রন ভাগ হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "নিউক্লিয় বল মহাকর্ষ বলের চেয়ে —",
+   "options": {
+    "A": "অনেক বেশি",
+    "B": "কোনোটিই নয়",
+    "C": "সমান",
+    "D": "কম"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "প্রোটন আবিষ্কৃত হয় —",
+   "options": {
+    "A": "১৮০০ সালে",
+    "B": "১৯০০ সালে",
+    "C": "১৯১৯ সালে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌলিক কণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "Z = ২৬, A = ৫৬ হলে নিউট্রন কত?",
+   "options": {
+    "A": "৫৬",
+    "B": "৩০",
+    "C": "২৬",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "কার্বন-১২ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মৌল",
+    "C": "তেজস্ক্রিয় আইসোটোপ",
+    "D": "স্থিতিশীল আইসোটোপ"
+   },
+   "correctAnswer": "D",
+   "topic": "আইসোটোপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "ইলেকট্রন বিন্যাসের নিয়ম অনুযায়ী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শক্তি ক্রমানুসারে ভরাট হয়",
+    "C": "এলোমেলো ভরাট হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "শেলের শক্তি ক্রম —",
+   "options": {
+    "A": "K > L > M > N",
+    "B": "কোনোটিই নয়",
+    "C": "সমান",
+    "D": "K < L < M < N"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "Na পরমাণু ও Na⁺ আয়নের প্রোটন সংখ্যা —",
+   "options": {
+    "A": "দ্বিগুণ",
+    "B": "সমান",
+    "C": "কোনোটিই নয়",
+    "D": "ভিন্ন"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "পরমাণুর অধিকাংশ স্থান —",
+   "options": {
+    "A": "ঘন",
+    "B": "শূন্য",
+    "C": "পূর্ণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "প্রোটন ও নিউট্রনকে একত্রে বলা হয় —",
+   "options": {
+    "A": "ইলেকট্রন",
+    "B": "নিউক্লিয়ন",
+    "C": "কোনোটিই নয়",
+    "D": "ফোটন"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলিক কণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "মৌলের পরিচয় —",
+   "options": {
+    "A": "পারমাণবিক সংখ্যা",
+    "B": "কোনোটিই নয়",
+    "C": "নিউট্রন সংখ্যা",
+    "D": "ভর সংখ্যা"
+   },
+   "correctAnswer": "A",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "কোবাল্ট-৬০ ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রান্নায়",
+    "C": "ক্যানসার চিকিৎসায়",
+    "D": "মাপে"
+   },
+   "correctAnswer": "C",
+   "topic": "আইসোটোপ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "পরমাণুর ইলেকট্রন বিন্যাস থেকে —",
+   "options": {
+    "A": "গ্রুপ ও পর্যায় নির্ধারণ হয়",
+    "B": "ভর নির্ধারণ হয়",
+    "C": "কোনোটিই নয়",
+    "D": "রং নির্ধারণ হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "নিউক্লিয়াস থেকে দূরে শেলের শক্তি —",
+   "options": {
+    "A": "সমান",
+    "B": "কম",
+    "C": "বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "ধনাত্মক আয়ন কাকে বলে?",
+   "options": {
+    "A": "ইলেকট্রন লাভ করা পরমাণু",
+    "B": "নিরপেক্ষ পরমাণু",
+    "C": "ইলেকট্রন হারানো পরমাণু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "নিউক্লিয়াসের আকার প্রায় —",
+   "options": {
+    "A": "১ মিটার",
+    "B": "কোনোটিই নয়",
+    "C": "১০⁻¹⁵ মিটার",
+    "D": "১০⁻১০ মিটার"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণুর গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "ইলেকট্রন, প্রোটন, নিউট্রনের মধ্যে সবচেয়ে ভারী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিউট্রন",
+    "C": "ইলেকট্রন",
+    "D": "প্রোটন"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "১ amu কাকে ভিত্তি ধরে সংজ্ঞায়িত?",
+   "options": {
+    "A": "হাইড্রোজেন",
+    "B": "কোনোটিই নয়",
+    "C": "অক্সিজেন",
+    "D": "কার্বন-১২"
+   },
+   "correctAnswer": "D",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "আইসোটোপের ব্যবহার —",
+   "options": {
+    "A": "শুধু কৃষি",
+    "B": "শুধু চিকিৎসা",
+    "C": "চিকিৎসা, কৃষি, শিল্প, গবেষণা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আইসোটোপ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "হ্যালোজেনের যোজ্যতা ইলেকট্রন —",
+   "options": {
+    "A": "৮",
+    "B": "১",
+    "C": "৭",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "রাদারফোর্ডের পরীক্ষায় অধিকাংশ আলফা কণা —",
+   "options": {
+    "A": "সোজা চলে যায়",
+    "B": "বিচ্যুত হয়",
+    "C": "ফিরে আসে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "ধনাত্মক আয়নকে বলা হয় —",
+   "options": {
+    "A": "ক্যাটায়ন",
+    "B": "অ্যানায়ন",
+    "C": "নিরপেক্ষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "নিউক্লিয়াসে প্রোটনের বিকর্ষণ প্রতিহত করে —",
+   "options": {
+    "A": "নিউক্লিয় বল",
+    "B": "মহাকর্ষ",
+    "C": "কোনোটিই নয়",
+    "D": "ঘর্ষণ"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "নিউট্রনের ভর প্রায় —",
+   "options": {
+    "A": "শূন্য",
+    "B": "কোনোটিই নয়",
+    "C": "১.৬৭৫ × ১০⁻²⁷ কেজি",
+    "D": "৯.১১ × ১০⁻³¹ কেজি"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌলিক কণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "সোডিয়ামের পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "২৩",
+    "B": "কোনোটিই নয়",
+    "C": "১২",
+    "D": "১১"
+   },
+   "correctAnswer": "D",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "পারমাণবিক জ্বালানি —",
+   "options": {
+    "A": "কার্বন",
+    "B": "U-২৩৫",
+    "C": "কোনোটিই নয়",
+    "D": "লোহা"
+   },
+   "correctAnswer": "B",
+   "topic": "আইসোটোপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "বহিঃস্থ শেলের ইলেকট্রন সংখ্যা দ্বারা —",
+   "options": {
+    "A": "ভর বোঝা যায়",
+    "B": "কোনোটিই নয়",
+    "C": "রং বোঝা যায়",
+    "D": "মৌলের ধর্ম বোঝা যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "আলফা কণার বিক্ষেপণ প্রমাণ করে —",
+   "options": {
+    "A": "নিউট্রনের অস্তিত্ব",
+    "B": "ইলেকট্রনের অস্তিত্ব",
+    "C": "কোনোটিই নয়",
+    "D": "নিউক্লিয়াসের অস্তিত্ব"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "আয়ন গঠনের সময় প্রোটন সংখ্যা —",
+   "options": {
+    "A": "কমে",
+    "B": "অপরিবর্তিত থাকে",
+    "C": "শূন্য",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "পরমাণুতে ধনাত্মক ও ঋণাত্মক আধান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সমান",
+    "C": "ভিন্ন",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "প্রোটনের আধান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শূন্য",
+    "C": "ধনাত্মক",
+    "D": "ঋণাত্মক"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "ভর সংখ্যা ৪০ ও পারমাণবিক সংখ্যা ২০ হলে নিউট্রন কত?",
+   "options": {
+    "A": "৪০",
+    "B": "২০",
+    "C": "৬০",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "আইসোটোপের রাসায়নিক ধর্ম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "একই",
+    "C": "দ্বিগুণ",
+    "D": "ভিন্ন"
+   },
+   "correctAnswer": "B",
+   "topic": "আইসোটোপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "সোডিয়ামের যোজ্যতা —",
+   "options": {
+    "A": "১",
+    "B": "কোনোটিই নয়",
+    "C": "৭",
+    "D": "২"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "রাদারফোর্ডের মডেলে ইলেকট্রন —",
+   "options": {
+    "A": "নিউক্লিয়াসের চারপাশে ঘোরে",
+    "B": "কোনোটিই নয়",
+    "C": "নিউক্লিয়াসে থাকে",
+    "D": "স্থির থাকে"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "Na⁺ আয়নে ইলেকট্রন সংখ্যা —",
+   "options": {
+    "A": "১১",
+    "B": "কোনোটিই নয়",
+    "C": "১০",
+    "D": "১২"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়ন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "অধাতু বিদ্যুৎ অপরিবাহী — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিউট্রন নেই",
+    "C": "মুক্ত ইলেকট্রন নেই",
+    "D": "প্রোটন নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণুর গঠন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "নিউট্রনের আধান —",
+   "options": {
+    "A": "শূন্য",
+    "B": "কোনোটিই নয়",
+    "C": "ঋণাত্মক",
+    "D": "ধনাত্মক"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "ভর সংখ্যা ৩১ ও পারমাণবিক সংখ্যা ১৫ হলে নিউট্রন কত?",
+   "options": {
+    "A": "১৫",
+    "B": "১৬",
+    "C": "কোনোটিই নয়",
+    "D": "৩১"
+   },
+   "correctAnswer": "B",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "থাইরয়েড গ্রন্থির চিকিৎসায় —",
+   "options": {
+    "A": "আয়োডিন-১৩১",
+    "B": "কোবাল্ট-৬০",
+    "C": "কোনোটিই নয়",
+    "D": "কার্বন-১৪"
+   },
+   "correctAnswer": "A",
+   "topic": "আইসোটোপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "ফ্লোরিন ও ক্লোরিন একই গ্রুপে — কারণ?",
+   "options": {
+    "A": "ভিন্ন যোজ্যতা",
+    "B": "একই যোজ্যতা ইলেকট্রন",
+    "C": "কোনোটিই নয়",
+    "D": "একই ভর"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "আধুনিক বিজ্ঞান অনুযায়ী পরমাণু —",
+   "options": {
+    "A": "যৌগিক",
+    "B": "অবিভাজ্য",
+    "C": "বিভাজ্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "Ca²⁺ আয়নে ইলেকট্রন সংখ্যা —",
+   "options": {
+    "A": "২২",
+    "B": "২০",
+    "C": "কোনোটিই নয়",
+    "D": "১৮"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়ন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "পরমাণুর আকার —",
+   "options": {
+    "A": "খুব ছোট",
+    "B": "দৃশ্যমান",
+    "C": "কোনোটিই নয়",
+    "D": "বড়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "প্রোটন ও ইলেকট্রনের আধানের মান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দ্বিগুণ",
+    "C": "ভিন্ন",
+    "D": "সমান"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "নিউক্লিয়াসে প্রোটন ও নিউট্রনের সংখ্যা —",
+   "options": {
+    "A": "পারমাণবিক সংখ্যা নির্ধারণ করে",
+    "B": "কোনোটিই নয়",
+    "C": "রং নির্ধারণ করে",
+    "D": "ভর সংখ্যা নির্ধারণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "কার্বন ডেটিংয়ে ব্যবহৃত হয় —",
+   "options": {
+    "A": "কার্বন-১৪",
+    "B": "অক্সিজেন-১৬",
+    "C": "কার্বন-১২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আইসোটোপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "অক্সিজেনের যোজ্যতা ইলেকট্রন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৬",
+    "C": "২",
+    "D": "৮"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "ইলেকট্রন শক্তি নির্গত করে —",
+   "options": {
+    "A": "স্থির থাকে",
+    "B": "উচ্চ শেলে যায়",
+    "C": "নিম্ন শেলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "নিউট্রন সংখ্যার পরিবর্তনে —",
+   "options": {
+    "A": "আয়ন হয়",
+    "B": "আইসোটোপ হয়",
+    "C": "নতুন মৌল হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "নিউক্লিয়াস আবিষ্কার করেন —",
+   "options": {
+    "A": "থমসন",
+    "B": "বোর",
+    "C": "রাদারফোর্ড",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "সবচেয়ে ভারী কণা —",
+   "options": {
+    "A": "ইলেকট্রন",
+    "B": "নিউট্রন",
+    "C": "প্রোটন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "পারমাণবিক সংখ্যা ১৯ হলে মৌল —",
+   "options": {
+    "A": "পটাসিয়াম",
+    "B": "কোনোটিই নয়",
+    "C": "আর্গন",
+    "D": "ক্যালসিয়াম"
+   },
+   "correctAnswer": "A",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "পর্যায় সারণিতে মৌলের অবস্থান নির্ধারণ করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রং",
+    "C": "ভর",
+    "D": "ইলেকট্রন বিন্যাস"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "রাদারফোর্ডের মডেল কত সালে?",
+   "options": {
+    "A": "১৯০১",
+    "B": "কোনোটিই নয়",
+    "C": "১৮১১",
+    "D": "১৯১১"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণু মডেল",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "আয়নিক যৌগ সাধারণত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তরল",
+    "C": "কঠিন",
+    "D": "গ্যাস"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "ধাতুতে মুক্ত ইলেকট্রন থাকে —",
+   "options": {
+    "A": "কখনো না",
+    "B": "হ্যাঁ",
+    "C": "কখনো",
+    "D": "না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "ইলেকট্রনের ভর প্রোটনের ভরের —",
+   "options": {
+    "A": "সমান",
+    "B": "১/২",
+    "C": "কোনোটিই নয়",
+    "D": "১/১৮৩৬"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলিক কণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "মৌল চিহ্নিত করা হয় —",
+   "options": {
+    "A": "নিউট্রন সংখ্যা দিয়ে",
+    "B": "ভর সংখ্যা দিয়ে",
+    "C": "পারমাণবিক সংখ্যা দিয়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "ইলেকট্রন কক্ষপথকে কী বলা হয়?",
+   "options": {
+    "A": "শেল",
+    "B": "নিউক্লিয়াস",
+    "C": "কোনোটিই নয়",
+    "D": "অরবিটাল শুধু"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "বোরের মডেলে ইলেকট্রনের শক্তি —",
+   "options": {
+    "A": "অবিচ্ছিন্ন",
+    "B": "কোনোটিই নয়",
+    "C": "কোয়ান্টায়িত",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "আয়নের সামগ্রিক আধান —",
+   "options": {
+    "A": "শূন্য নয়",
+    "B": "সবসময় ধনাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "নিউক্লিয়াস পরমাণুর তুলনায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বড়",
+    "C": "সমান",
+    "D": "অনেক ছোট"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "প্রোটন ও ইলেকট্রনের আধান —",
+   "options": {
+    "A": "শূন্য",
+    "B": "বিপরীত",
+    "C": "কোনোটিই নয়",
+    "D": "একই"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "হাইড্রোজেনের পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "১",
+    "B": "২",
+    "C": "৩",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "M শেল কাকে বলে?",
+   "options": {
+    "A": "প্রথম শেল",
+    "B": "দ্বিতীয় শেল",
+    "C": "কোনোটিই নয়",
+    "D": "তৃতীয় শেল"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "ইলেকট্রন সর্বনিম্ন শক্তির শেল থেকে —",
+   "options": {
+    "A": "শেষ হয়",
+    "B": "ভরাট হয়",
+    "C": "কোনোটিই নয়",
+    "D": "ভরাট হয় না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "ইলেকট্রন সংখ্যার পরিবর্তনে —",
+   "options": {
+    "A": "আয়ন হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "নতুন মৌল হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "নিউক্লিয় বল —",
+   "options": {
+    "A": "দুর্বল",
+    "B": "শূন্য",
+    "C": "কোনোটিই নয়",
+    "D": "খুব শক্তিশালী"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "নিউট্রনের প্রতীক —",
+   "options": {
+    "A": "n⁰",
+    "B": "p⁺",
+    "C": "e⁻",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মৌলিক কণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "Z = ১১, A = ২৩ হলে নিউট্রন কত?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১২",
+    "C": "২৩",
+    "D": "১১"
+   },
+   "correctAnswer": "B",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "দ্বিতীয় শেলে সর্বোচ্চ ইলেকট্রন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৮",
+    "C": "৮",
+    "D": "২"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "রাদারফোর্ডের পরীক্ষায় অল্প কিছু আলফা কণা —",
+   "options": {
+    "A": "থেমে যায়",
+    "B": "বিচ্যুত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "সোজা চলে যায়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "আয়ন গঠনের সময় নিউট্রন সংখ্যা —",
+   "options": {
+    "A": "কমে",
+    "B": "অপরিবর্তিত থাকে",
+    "C": "শূন্য",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "নিউক্লিয়াসে প্রোটন ও নিউট্রন আবদ্ধ থাকে —",
+   "options": {
+    "A": "ঘর্ষণে",
+    "B": "কোনোটিই নয়",
+    "C": "নিউক্লিয় বলের কারণে",
+    "D": "মহাকর্ষে"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "সবচেয়ে হালকা কণা —",
+   "options": {
+    "A": "প্রোটন",
+    "B": "কোনোটিই নয়",
+    "C": "নিউট্রন",
+    "D": "ইলেকট্রন"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "কার্বনের পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১২",
+    "C": "৮",
+    "D": "৬"
+   },
+   "correctAnswer": "D",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "অক্সিজেনের যোজ্যতা —",
+   "options": {
+    "A": "৬",
+    "B": "৪",
+    "C": "কোনোটিই নয়",
+    "D": "২"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "ইলেকট্রন নিম্ন শেলে এলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপ হয়",
+    "C": "আলো নির্গত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "NaCl দ্রবণ বিদ্যুৎ —",
+   "options": {
+    "A": "পরিবহন করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পরিবহন করে না"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "নিউট্রন আবিষ্কার করেন —",
+   "options": {
+    "A": "চ্যাডউইক",
+    "B": "রাদারফোর্ড",
+    "C": "থমসন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "ইলেকট্রন আবিষ্কৃত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তড়িৎ বিশ্লেষণে",
+    "C": "আলফা পরীক্ষায়",
+    "D": "ক্যাথোড রশ্মি পরীক্ষায়"
+   },
+   "correctAnswer": "D",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "Z = ৮, A = ১৬ হলে নিউট্রন কত?",
+   "options": {
+    "A": "১৬",
+    "B": "৮",
+    "C": "২৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "হ্যালোজেন কোন গ্রুপে?",
+   "options": {
+    "A": "১৮",
+    "B": "১৬",
+    "C": "কোনোটিই নয়",
+    "D": "১৭"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "বোরের মডেলে শক্তি —",
+   "options": {
+    "A": "কোয়ান্টায়িত",
+    "B": "শূন্য",
+    "C": "কোনোটিই নয়",
+    "D": "অবিচ্ছিন্ন"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "ধাতু সাধারণত —",
+   "options": {
+    "A": "অ্যানায়ন গঠন করে",
+    "B": "আয়ন গঠন করে না",
+    "C": "কোনোটিই নয়",
+    "D": "ক্যাটায়ন গঠন করে"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "নিউক্লিয়াসে থাকে —",
+   "options": {
+    "A": "প্রোটন ও নিউট্রন",
+    "B": "শুধু প্রোটন",
+    "C": "কোনোটিই নয়",
+    "D": "ইলেকট্রন"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "প্রোটনের ভর ইলেকট্রনের ভরের প্রায় —",
+   "options": {
+    "A": "২ গুণ",
+    "B": "কোনোটিই নয়",
+    "C": "১৮৩৬ গুণ",
+    "D": "১০ গুণ"
+   },
+   "correctAnswer": "C",
+   "topic": "মৌলিক কণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "ভর সংখ্যা ২৩ ও পারমাণবিক সংখ্যা ১১ হলে নিউট্রন কত?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১২",
+    "C": "২৩",
+    "D": "১১"
+   },
+   "correctAnswer": "B",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "L শেল কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রথম শেল",
+    "C": "তৃতীয় শেল",
+    "D": "দ্বিতীয় শেল"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "ইলেকট্রন শক্তি শোষণ করে —",
+   "options": {
+    "A": "উচ্চ শেলে যায়",
+    "B": "নিম্ন শেলে যায়",
+    "C": "স্থির থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "আয়নিক যৌগ গলিত অবস্থায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পরিবহন করে না",
+    "C": "বিদ্যুৎ পরিবহন করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "নিউক্লিয়াসের চারপাশে ঘোরে —",
+   "options": {
+    "A": "ইলেকট্রন",
+    "B": "কোনোটিই নয়",
+    "C": "প্রোটন",
+    "D": "নিউট্রন"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "প্রোটন ও নিউট্রনের ভরের পার্থক্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সামান্য",
+    "C": "শূন্য নয়",
+    "D": "অনেক"
+   },
+   "correctAnswer": "B",
+   "topic": "মৌলিক কণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "মৌলের রাসায়নিক ধর্ম নির্ভর করে —",
+   "options": {
+    "A": "নিউট্রনের উপর",
+    "B": "কোনোটিই নয়",
+    "C": "পারমাণবিক সংখ্যার উপর",
+    "D": "ভর সংখ্যার উপর"
+   },
+   "correctAnswer": "C",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "ক্লোরিনের যোজ্যতা ইলেকট্রন —",
+   "options": {
+    "A": "৮",
+    "B": "১",
+    "C": "কোনোটিই নয়",
+    "D": "৭"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "হাইড্রোজেনের বর্ণালি ব্যাখ্যা করে —",
+   "options": {
+    "A": "ডাল্টনের মডেল",
+    "B": "বোরের মডেল",
+    "C": "কোনোটিই নয়",
+    "D": "থমসনের মডেল"
+   },
+   "correctAnswer": "B",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "Mg²⁺ আয়নে ইলেকট্রন সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১২",
+    "C": "১৪",
+    "D": "১০"
+   },
+   "correctAnswer": "D",
+   "topic": "আয়ন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "ভর সংখ্যা ২৭ ও পারমাণবিক সংখ্যা ১৩ হলে নিউট্রন কত?",
+   "options": {
+    "A": "১৩",
+    "B": "২৭",
+    "C": "১৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "অ্যালুমিনিয়ামের যোজ্যতা —",
+   "options": {
+    "A": "৩",
+    "B": "১",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "ইলেকট্রনের কক্ষপথ —",
+   "options": {
+    "A": "উপবৃত্তাকার শুধু",
+    "B": "সরলরৈখিক",
+    "C": "কোনোটিই নয়",
+    "D": "বৃত্তাকার"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "অধাতু সাধারণত —",
+   "options": {
+    "A": "আয়ন গঠন করে না",
+    "B": "কোনোটিই নয়",
+    "C": "অ্যানায়ন গঠন করে",
+    "D": "ক্যাটায়ন গঠন করে"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "পারমাণবিক সংখ্যা বদলালে —",
+   "options": {
+    "A": "নতুন মৌল হয়",
+    "B": "আয়ন হয়",
+    "C": "আইসোটোপ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "মৌলের যোজ্যতা নির্ধারণ হয় —",
+   "options": {
+    "A": "নিউট্রন থেকে",
+    "B": "যোজ্যতা ইলেকট্রন সংখ্যা থেকে",
+    "C": "ভর থেকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "রাদারফোর্ডের মডেলের সীমাবদ্ধতা সমাধান করেন —",
+   "options": {
+    "A": "ডাল্টন",
+    "B": "কোনোটিই নয়",
+    "C": "থমসন",
+    "D": "বোর"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "সমযোজী বন্ধনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ইলেকট্রন স্থানান্তর হয়",
+    "C": "ইলেকট্রন ভাগ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "পারমাণবিক সংখ্যা ২ হলে মৌল —",
+   "options": {
+    "A": "হিলিয়াম",
+    "B": "হাইড্রোজেন",
+    "C": "কোনোটিই নয়",
+    "D": "লিথিয়াম"
+   },
+   "correctAnswer": "A",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "প্রথম শেল (n=১) এ ইলেকট্রন —",
+   "options": {
+    "A": "১৮",
+    "B": "৮",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "বোরের মডেলে শক্তি স্তর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অনির্দিষ্ট",
+    "C": "শূন্য",
+    "D": "নির্দিষ্ট"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "NaCl এ আয়নিক বন্ধন —",
+   "options": {
+    "A": "কোনো বন্ধন নেই",
+    "B": "Na ও Cl পরমাণুর মধ্যে",
+    "C": "Na⁺ ও Cl⁻ এর মধ্যে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "নিউক্লিয়াসে প্রোটনের সংখ্যা —",
+   "options": {
+    "A": "ভর সংখ্যা",
+    "B": "নিউট্রন সংখ্যা",
+    "C": "পারমাণবিক সংখ্যা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "ক্লোরিনের (Cl, Z=১৭) ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "2, 8, 6",
+    "C": "2, 8, 8",
+    "D": "2, 8, 7"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "বোরের মডেল সফল —",
+   "options": {
+    "A": "হাইড্রোজেনের ক্ষেত্রে",
+    "B": "কোনোটিই নয়",
+    "C": "সব মৌলের ক্ষেত্রে",
+    "D": "কোনো মৌলের নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "আয়নিক যৌগের গলনাঙ্ক —",
+   "options": {
+    "A": "উচ্চ",
+    "B": "নিম্ন",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "পারমাণবিক সংখ্যা মৌলের —",
+   "options": {
+    "A": "পরিচয় নির্ধারণ করে",
+    "B": "রং নির্ধারণ করে",
+    "C": "কোনোটিই নয়",
+    "D": "ভর নির্ধারণ করে"
+   },
+   "correctAnswer": "A",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "মৌলের রাসায়নিক ধর্ম নির্ধারণ করে —",
+   "options": {
+    "A": "ভর সংখ্যা",
+    "B": "ইলেকট্রন বিন্যাস",
+    "C": "নিউট্রন সংখ্যা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "প্রতিটি শেলের শক্তি —",
+   "options": {
+    "A": "নির্দিষ্ট",
+    "B": "শূন্য",
+    "C": "কোনোটিই নয়",
+    "D": "অনির্দিষ্ট"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "আয়নিক যৌগ পানিতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দ্রবণীয়",
+    "C": "কোনোটিই নয়",
+    "D": "অদ্রবণীয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "নিউট্রন সংখ্যা = ?",
+   "options": {
+    "A": "A + Z",
+    "B": "Z − A",
+    "C": "কোনোটিই নয়",
+    "D": "A − Z"
+   },
+   "correctAnswer": "D",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "ক্লোরিন কোন গ্রুপে?",
+   "options": {
+    "A": "১৭",
+    "B": "কোনোটিই নয়",
+    "C": "১",
+    "D": "২"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "বোরের পরমাণু মডেল কত সালে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৯০৩",
+    "C": "১৯১৩",
+    "D": "১৮১৩"
+   },
+   "correctAnswer": "C",
+   "topic": "পরমাণু মডেল",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "আয়নিক যৌগের বিদ্যুৎ পরিবাহিতা —",
+   "options": {
+    "A": "প্রোটনের কারণে",
+    "B": "ইলেকট্রনের কারণে শুধু",
+    "C": "আয়নের চলাচলের কারণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "অক্সিজেনের পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৬",
+    "C": "৮",
+    "D": "৬"
+   },
+   "correctAnswer": "C",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "কার্বনের যোজ্যতা —",
+   "options": {
+    "A": "৪",
+    "B": "৩",
+    "C": "কোনোটিই নয়",
+    "D": "২"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "পরমাণু বিভাজনের প্রমাণ —",
+   "options": {
+    "A": "স্ফুটন",
+    "B": "গলন",
+    "C": "কোনোটিই নয়",
+    "D": "তেজস্ক্রিয়তা"
+   },
+   "correctAnswer": "D",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "আয়ন গঠনের সময় শুধু —",
+   "options": {
+    "A": "প্রোটন বদলায়",
+    "B": "নিউট্রন বদলায়",
+    "C": "ইলেকট্রন বদলায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আয়ন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "পারমাণবিক ভর ভগ্নাংশ হতে পারে — কারণ?",
+   "options": {
+    "A": "আইসোটোপের মিশ্রণ",
+    "B": "নিউট্রন ভগ্নাংশ",
+    "C": "কোনোটিই নয়",
+    "D": "প্রোটন ভগ্নাংশ"
+   },
+   "correctAnswer": "A",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "মৌলের যোজ্যতা ইলেকট্রন সংখ্যা = ?",
+   "options": {
+    "A": "গ্রুপ সংখ্যা (মূল গ্রুপে)",
+    "B": "পর্যায় সংখ্যা",
+    "C": "কক্ষপথ সংখ্যা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "ইলেকট্রন উচ্চ শেলে গেলে —",
+   "options": {
+    "A": "শক্তি শোষণ করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শক্তি নির্গত করে"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "পারমাণবিক সংখ্যা ১৮ হলে মৌল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আর্গন",
+    "C": "ক্লোরিন",
+    "D": "পটাসিয়াম"
+   },
+   "correctAnswer": "B",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "রাসায়নিক বন্ধন গঠনে অংশ নেয় —",
+   "options": {
+    "A": "ভেতরের ইলেকট্রন",
+    "B": "যোজ্যতা ইলেকট্রন",
+    "C": "কোনোটিই নয়",
+    "D": "নিউট্রন"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "রাদারফোর্ডের মডেলকে বলা হয় —",
+   "options": {
+    "A": "কোয়ান্টাম মডেল",
+    "B": "সৌরজগৎ মডেল",
+    "C": "প্লাম পুডিং মডেল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরমাণু মডেল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "পারমাণবিক সংখ্যার প্রতীক —",
+   "options": {
+    "A": "A",
+    "B": "কোনোটিই নয়",
+    "C": "Z",
+    "D": "N"
+   },
+   "correctAnswer": "C",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "K শেল কাকে বলে?",
+   "options": {
+    "A": "তৃতীয় শেল",
+    "B": "কোনোটিই নয়",
+    "C": "দ্বিতীয় শেল",
+    "D": "প্রথম শেল"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "একই মৌলের সব পরমাণু —",
+   "options": {
+    "A": "অভিন্ন",
+    "B": "ভিন্ন",
+    "C": "কোনোটিই নয়",
+    "D": "যৌগিক"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "প্রতিটি মৌলের পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "অনন্য",
+    "B": "একই",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "নিয়নের গ্রুপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৮",
+    "C": "১০",
+    "D": "৮"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "বোর পরমাণু মডেলের মূল ধারণা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইলেকট্রন নির্দিষ্ট কক্ষে ঘোরে",
+    "C": "ইলেকট্রন যেকোনো জায়গায়",
+    "D": "নিউক্লিয়াস নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "পরমাণু মডেল",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "ভর সংখ্যার প্রতীক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "N",
+    "C": "A",
+    "D": "Z"
+   },
+   "correctAnswer": "C",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "যোজ্যতা নির্ধারণ করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মৌলের ভর",
+    "C": "মৌলের সংযোগ ক্ষমতা",
+    "D": "মৌলের রং"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "ক্যালসিয়ামের পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৮",
+    "C": "৪০",
+    "D": "২০"
+   },
+   "correctAnswer": "D",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "ইলেকট্রন বিন্যাসের নিয়ম —",
+   "options": {
+    "A": "শেলের শক্তিক্রম অনুযায়ী",
+    "B": "রং অনুযায়ী",
+    "C": "ভর অনুযায়ী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "ইলেকট্রন সংখ্যা বদলালে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আয়ন হয়",
+    "C": "আইসোটোপ হয়",
+    "D": "নতুন মৌল হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পারমাণবিক সংখ্যা ও ভর সংখ্যা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "কার্বনের (C, Z=৬) ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "2, 2",
+    "B": "2, 6",
+    "C": "কোনোটিই নয়",
+    "D": "2, 4"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "লিথিয়াম ও সোডিয়ামের ধর্ম —",
+   "options": {
+    "A": "কোনো ধর্ম নেই",
+    "B": "কোনোটিই নয়",
+    "C": "ভিন্ন",
+    "D": "সদৃশ"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "পর্যায় সংখ্যা নির্ধারণ করে —",
+   "options": {
+    "A": "যোজ্যতা ইলেকট্রন",
+    "B": "নিউট্রন",
+    "C": "শেল সংখ্যা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "সিলিকনের (Si, Z=১৪) ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "2, 8, 2",
+    "C": "2, 8, 3",
+    "D": "2, 8, 4"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "ইলেকট্রন বিন্যাসে তৃতীয় শেল পূর্ণ হয় —",
+   "options": {
+    "A": "৮ ইলেকট্রনে (প্রথম ১৮ মৌল)",
+    "B": "২ ইলেকট্রনে",
+    "C": "কোনোটিই নয়",
+    "D": "৩২ ইলেকট্রনে"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "পরমাণুর ইলেকট্রন বিন্যাস লেখা হয় —",
+   "options": {
+    "A": "ভর অনুযায়ী",
+    "B": "শেল অনুযায়ী",
+    "C": "কোনোটিই নয়",
+    "D": "রং অনুযায়ী"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "যোজ্যতা ইলেকট্রন ৮ হলে মৌল —",
+   "options": {
+    "A": "নিষ্ক্রিয়",
+    "B": "মাঝারি",
+    "C": "কোনোটিই নয়",
+    "D": "খুব সক্রিয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "নিষ্ক্রিয় গ্যাসের যোজ্যতা —",
+   "options": {
+    "A": "৭",
+    "B": "১",
+    "C": "০",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "সালফারের ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "২, ৮, ৫",
+    "B": "২, ৮, ৭",
+    "C": "কোনোটিই নয়",
+    "D": "২, ৮, ৬"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "হাইড্রোজেনের (Z=১) কক্ষপথ সংখ্যা —",
+   "options": {
+    "A": "৩",
+    "B": "১",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "ইলেকট্রন নিম্ন শক্তি শেল থেকে —",
+   "options": {
+    "A": "শেষ হয়",
+    "B": "ভরাট হয় না",
+    "C": "কোনোটিই নয়",
+    "D": "ভরাট শুরু হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "তৃতীয় শেলে সর্বোচ্চ ইলেকট্রন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৮",
+    "C": "২",
+    "D": "১৮"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "আর্গনের গ্রুপ —",
+   "options": {
+    "A": "৮",
+    "B": "১৮",
+    "C": "১০",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "সোডিয়ামের গ্রুপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১",
+    "C": "২",
+    "D": "১৭"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "সোডিয়ামের (Na, Z=১১) ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "2, 9",
+    "C": "2, 8, 1",
+    "D": "2, 8, 8"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "পরমাণুর রাসায়নিক ধর্ম নির্ভর করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভরের উপর",
+    "C": "ইলেকট্রন সংখ্যার উপর",
+    "D": "রঙের উপর"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "ইলেকট্রন বিন্যাস লেখার সময় প্রথম শেল পূর্ণ হয় —",
+   "options": {
+    "A": "১৮ ইলেকট্রনে",
+    "B": "২ ইলেকট্রনে",
+    "C": "৮ ইলেকট্রনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "নিষ্ক্রিয় গ্যাসের যোজ্যতা ইলেকট্রন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৮ (হিলিয়ামে ২)",
+    "C": "৭",
+    "D": "১"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "ক্ষার ধাতু কোন গ্রুপে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৭",
+    "C": "২",
+    "D": "১"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "সোডিয়াম কোন গ্রুপে?",
+   "options": {
+    "A": "২",
+    "B": "১",
+    "C": "১৭",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "কার্বনের (Z=৬) কক্ষপথ সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২",
+    "C": "১",
+    "D": "৩"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "নিষ্ক্রিয় গ্যাসের বহিঃস্থ শেল —",
+   "options": {
+    "A": "অর্ধপূর্ণ",
+    "B": "পূর্ণ",
+    "C": "খালি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "হিলিয়ামের বহিঃস্থ শেলে ইলেকট্রন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২",
+    "C": "১",
+    "D": "৮"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "নিয়নের (Ne, Z=১০) ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "2, 7",
+    "C": "2, 6",
+    "D": "2, 8"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "ইলেকট্রন বিন্যাসের গুরুত্ব —",
+   "options": {
+    "A": "রাসায়নিক ধর্ম নির্ধারণ",
+    "B": "ভৌত ধর্ম নির্ধারণ",
+    "C": "কোনোটিই নয়",
+    "D": "রং নির্ধারণ"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "হ্যালোজেন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মাঝারি",
+    "C": "নিষ্ক্রিয়",
+    "D": "খুব সক্রিয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "পটাসিয়ামের ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২, ৮, ৮, ২",
+    "C": "২, ৮, ৮, ১",
+    "D": "২, ৮, ৮"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "হাইড্রোজেনের ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "২",
+    "B": "২,১",
+    "C": "কোনোটিই নয়",
+    "D": "১"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "বোরনের ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২, ২",
+    "C": "২, ৩",
+    "D": "২, ৪"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "ফ্লোরিনের গ্রুপ —",
+   "options": {
+    "A": "১৭",
+    "B": "৯",
+    "C": "৭",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "নিয়নের যোজ্যতা ইলেকট্রন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২",
+    "C": "৭",
+    "D": "৮"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "ফ্লোরিন ও ক্লোরিনের ধর্ম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভিন্ন",
+    "C": "কোনো ধর্ম নেই",
+    "D": "সদৃশ"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "একই গ্রুপের মৌলের —",
+   "options": {
+    "A": "ভিন্ন যোজ্যতা",
+    "B": "শূন্য যোজ্যতা",
+    "C": "একই যোজ্যতা ইলেকট্রন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "ফসফরাসের ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "২, ৮, ৫",
+    "B": "কোনোটিই নয়",
+    "C": "২, ৮, ৬",
+    "D": "২, ৮, ৪"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "মৌলের ধর্মের পর্যায়বৃত্ততা বুঝতে —",
+   "options": {
+    "A": "ভর",
+    "B": "ইলেকট্রন বিন্যাস",
+    "C": "কোনোটিই নয়",
+    "D": "রং"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "একই গ্রুপের মৌলগুলোর —",
+   "options": {
+    "A": "ভিন্ন রাসায়নিক ধর্ম",
+    "B": "সদৃশ রাসায়নিক ধর্ম",
+    "C": "কোনো ধর্ম নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "মৌলের পর্যায়বৃত্ত ধর্ম নির্ভর করে —",
+   "options": {
+    "A": "রঙের উপর",
+    "B": "কোনোটিই নয়",
+    "C": "ইলেকট্রন বিন্যাসের উপর",
+    "D": "ভরের উপর"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "সোডিয়ামের যোজ্যতা ইলেকট্রন —",
+   "options": {
+    "A": "২",
+    "B": "কোনোটিই নয়",
+    "C": "৭",
+    "D": "১"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "নিয়ন নিষ্ক্রিয় — কারণ?",
+   "options": {
+    "A": "৮টি যোজ্যতা ইলেকট্রন (পূর্ণ শেল)",
+    "B": "৭টি যোজ্যতা ইলেকট্রন",
+    "C": "কোনোটিই নয়",
+    "D": "১টি যোজ্যতা ইলেকট্রন"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "যোজ্যতা ইলেকট্রন ৭ হলে মৌল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইলেকট্রন ত্যাগ করে",
+    "C": "কিছুই করে না",
+    "D": "সহজে ১ ইলেকট্রন লাভ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "নাইট্রোজেনের যোজ্যতা —",
+   "options": {
+    "A": "৩",
+    "B": "৫",
+    "C": "৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "ক্লোরিনের (Z=১৭) কক্ষপথ সংখ্যা —",
+   "options": {
+    "A": "৩",
+    "B": "২",
+    "C": "৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "আর্গনের (Ar, Z=১৮) ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "2, 8, 8",
+    "B": "কোনোটিই নয়",
+    "C": "2, 8, 7",
+    "D": "2, 8, 6"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "সোডিয়াম ক্ষার ধাতু — কারণ?",
+   "options": {
+    "A": "৭টি যোজ্যতা ইলেকট্রন",
+    "B": "২টি যোজ্যতা ইলেকট্রন",
+    "C": "কোনোটিই নয়",
+    "D": "১টি যোজ্যতা ইলেকট্রন"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "তৃতীয় শেল (n=৩) এ ইলেকট্রন —",
+   "options": {
+    "A": "২",
+    "B": "১৮",
+    "C": "৮",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "ক্ষারীয় মৃত্তিকা ধাতু কোন গ্রুপে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১",
+    "C": "২",
+    "D": "১৬"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "ক্যালসিয়ামের (Z=২০) কক্ষপথ সংখ্যা —",
+   "options": {
+    "A": "২",
+    "B": "৪",
+    "C": "৩",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "নিয়নের (Z=১০) কক্ষপথ সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১",
+    "C": "৩",
+    "D": "২"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "ম্যাগনেসিয়ামের (Mg, Z=১২) ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "2, 8, 2",
+    "C": "2, 8, 1",
+    "D": "2, 8, 8"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "ইলেকট্রন বিন্যাসে দ্বিতীয় শেল পূর্ণ হয় —",
+   "options": {
+    "A": "২ ইলেকট্রনে",
+    "B": "কোনোটিই নয়",
+    "C": "১৮ ইলেকট্রনে",
+    "D": "৮ ইলেকট্রনে"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "ম্যাগনেসিয়ামের গ্রুপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৬",
+    "C": "১",
+    "D": "২"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "দ্বিতীয় শেল (n=২) এ ইলেকট্রন —",
+   "options": {
+    "A": "৮",
+    "B": "১৮",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "নিষ্ক্রিয় গ্যাস রাসায়নিকভাবে —",
+   "options": {
+    "A": "মাঝারি",
+    "B": "সক্রিয়",
+    "C": "কোনোটিই নয়",
+    "D": "নিষ্ক্রিয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "N শেল কাকে বলে?",
+   "options": {
+    "A": "প্রথম শেল",
+    "B": "চতুর্থ শেল",
+    "C": "কোনোটিই নয়",
+    "D": "দ্বিতীয় শেল"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "অক্সিজেনের গ্রুপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৮",
+    "C": "১৬",
+    "D": "৬"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "সোডিয়াম কোন পর্যায়ে?",
+   "options": {
+    "A": "১",
+    "B": "২",
+    "C": "কোনোটিই নয়",
+    "D": "৩"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "নাইট্রোজেনের (N, Z=৭) ইলেকট্রন বিন্যাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "2, 5",
+    "C": "2, 7",
+    "D": "2, 6"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "প্রথম শেলে সর্বোচ্চ ইলেকট্রন —",
+   "options": {
+    "A": "১৮",
+    "B": "২",
+    "C": "কোনোটিই নয়",
+    "D": "৮"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "ক্ষার ধাতুর যোজ্যতা ইলেকট্রন —",
+   "options": {
+    "A": "১",
+    "B": "কোনোটিই নয়",
+    "C": "৭",
+    "D": "২"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "গ্রুপ সংখ্যা নির্ধারণ করে —",
+   "options": {
+    "A": "নিউট্রন",
+    "B": "কোনোটিই নয়",
+    "C": "শেল সংখ্যা",
+    "D": "যোজ্যতা ইলেকট্রন সংখ্যা"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "বন্ধন গঠন বুঝতে —",
+   "options": {
+    "A": "ইলেকট্রন বিন্যাস জানা দরকার",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "জানা দরকার নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "ইলেকট্রন কক্ষপথ কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিউক্লিয়াসের চারপাশের পথ",
+    "C": "শূন্যস্থান",
+    "D": "নিউক্লিয়াস"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "নিষ্ক্রিয় গ্যাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সক্রিয়",
+    "C": "রাসায়নিকভাবে নিষ্ক্রিয়",
+    "D": "মাঝারি"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "মৌলের কক্ষপথ সংখ্যা = ?",
+   "options": {
+    "A": "গ্রুপ সংখ্যা",
+    "B": "যোজ্যতা",
+    "C": "পর্যায় সংখ্যা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "ক্লোরিন হ্যালোজেন — কারণ?",
+   "options": {
+    "A": "৮টি যোজ্যতা ইলেকট্রন",
+    "B": "কোনোটিই নয়",
+    "C": "৭টি যোজ্যতা ইলেকট্রন",
+    "D": "১টি যোজ্যতা ইলেকট্রন"
+   },
+   "correctAnswer": "C",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "যোজ্যতা ইলেকট্রন নির্ধারণ করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভৌত ধর্ম",
+    "C": "রং",
+    "D": "রাসায়নিক ধর্ম"
+   },
+   "correctAnswer": "D",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "ম্যাগনেসিয়ামের (Z=১২) কক্ষপথ সংখ্যা —",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "কোনোটিই নয়",
+    "D": "৪"
+   },
+   "correctAnswer": "B",
+   "topic": "ইলেকট্রন বিন্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "D",
+  "2": "D",
+  "3": "D",
+  "4": "C",
+  "5": "B",
+  "6": "A",
+  "7": "C",
+  "8": "D",
+  "9": "C",
+  "10": "D",
+  "11": "C",
+  "12": "A",
+  "13": "C",
+  "14": "C",
+  "15": "B",
+  "16": "A",
+  "17": "A",
+  "18": "C",
+  "19": "A",
+  "20": "D",
+  "21": "A",
+  "22": "D",
+  "23": "B",
+  "24": "C",
+  "25": "A",
+  "26": "D",
+  "27": "C",
+  "28": "D",
+  "29": "D",
+  "30": "C",
+  "31": "B",
+  "32": "D",
+  "33": "D",
+  "34": "C",
+  "35": "C",
+  "36": "A",
+  "37": "D",
+  "38": "B",
+  "39": "D",
+  "40": "D",
+  "41": "B",
+  "42": "D",
+  "43": "D",
+  "44": "A",
+  "45": "C",
+  "46": "C",
+  "47": "A",
+  "48": "A",
+  "49": "C",
+  "50": "D",
+  "51": "D",
+  "52": "D",
+  "53": "A",
+  "54": "B",
+  "55": "C",
+  "56": "D",
+  "57": "C",
+  "58": "C",
+  "59": "D",
+  "60": "A",
+  "61": "D",
+  "62": "C",
+  "63": "D",
+  "64": "D",
+  "65": "C",
+  "66": "C",
+  "67": "A",
+  "68": "C",
+  "69": "C",
+  "70": "B",
+  "71": "A",
+  "72": "A",
+  "73": "A",
+  "74": "B",
+  "75": "D",
+  "76": "B",
+  "77": "B",
+  "78": "B",
+  "79": "C",
+  "80": "D",
+  "81": "D",
+  "82": "A",
+  "83": "A",
+  "84": "D",
+  "85": "B",
+  "86": "C",
+  "87": "A",
+  "88": "A",
+  "89": "D",
+  "90": "D",
+  "91": "A",
+  "92": "B",
+  "93": "D",
+  "94": "D",
+  "95": "A",
+  "96": "B",
+  "97": "D",
+  "98": "D",
+  "99": "C",
+  "100": "C",
+  "101": "B",
+  "102": "C",
+  "103": "D",
+  "104": "D",
+  "105": "D",
+  "106": "B",
+  "107": "B",
+  "108": "D",
+  "109": "D",
+  "110": "B",
+  "111": "A",
+  "112": "A",
+  "113": "D",
+  "114": "A",
+  "115": "C",
+  "116": "A",
+  "117": "D",
+  "118": "A",
+  "119": "D",
+  "120": "C",
+  "121": "B",
+  "122": "A",
+  "123": "B",
+  "124": "D",
+  "125": "D",
+  "126": "D",
+  "127": "C",
+  "128": "B",
+  "129": "A",
+  "130": "D",
+  "131": "A",
+  "132": "C",
+  "133": "B",
+  "134": "A",
+  "135": "A",
+  "136": "D",
+  "137": "C",
+  "138": "C",
+  "139": "D",
+  "140": "B",
+  "141": "B",
+  "142": "C",
+  "143": "B",
+  "144": "C",
+  "145": "A",
+  "146": "A",
+  "147": "D",
+  "148": "B",
+  "149": "C",
+  "150": "D",
+  "151": "C",
+  "152": "B",
+  "153": "B",
+  "154": "A",
+  "155": "B",
+  "156": "D",
+  "157": "D",
+  "158": "D",
+  "159": "B",
+  "160": "C",
+  "161": "A",
+  "162": "A",
+  "163": "A",
+  "164": "C",
+  "165": "C",
+  "166": "A",
+  "167": "A",
+  "168": "C",
+  "169": "B",
+  "170": "D",
+  "171": "B",
+  "172": "D",
+  "173": "B",
+  "174": "B",
+  "175": "B",
+  "176": "A",
+  "177": "C",
+  "178": "A",
+  "179": "C",
+  "180": "C",
+  "181": "C",
+  "182": "B",
+  "183": "D",
+  "184": "C",
+  "185": "C",
+  "186": "A",
+  "187": "A",
+  "188": "A",
+  "189": "C",
+  "190": "D",
+  "191": "B",
+  "192": "D",
+  "193": "D",
+  "194": "B",
+  "195": "B",
+  "196": "C",
+  "197": "B",
+  "198": "B",
+  "199": "A",
+  "200": "A",
+  "201": "C",
+  "202": "C",
+  "203": "A",
+  "204": "B",
+  "205": "A",
+  "206": "B",
+  "207": "C",
+  "208": "D",
+  "209": "A",
+  "210": "D",
+  "211": "D",
+  "212": "A",
+  "213": "B",
+  "214": "C",
+  "215": "B",
+  "216": "C",
+  "217": "B",
+  "218": "A",
+  "219": "D",
+  "220": "D",
+  "221": "C",
+  "222": "B",
+  "223": "D",
+  "224": "C",
+  "225": "A",
+  "226": "C",
+  "227": "A",
+  "228": "D",
+  "229": "B",
+  "230": "A",
+  "231": "D",
+  "232": "B",
+  "233": "A",
+  "234": "D",
+  "235": "A",
+  "236": "B",
+  "237": "C",
+  "238": "B",
+  "239": "B",
+  "240": "C",
+  "241": "D",
+  "242": "D",
+  "243": "D",
+  "244": "C",
+  "245": "A",
+  "246": "A",
+  "247": "D",
+  "248": "B",
+  "249": "D",
+  "250": "A",
+  "251": "D",
+  "252": "A",
+  "253": "C",
+  "254": "B",
+  "255": "D",
+  "256": "A",
+  "257": "C",
+  "258": "A",
+  "259": "B",
+  "260": "C",
+  "261": "D",
+  "262": "B",
+  "263": "D",
+  "264": "C",
+  "265": "A",
+  "266": "D",
+  "267": "C",
+  "268": "A",
+  "269": "B",
+  "270": "D",
+  "271": "C",
+  "272": "A",
+  "273": "C",
+  "274": "D",
+  "275": "C",
+  "276": "C",
+  "277": "D",
+  "278": "A",
+  "279": "A",
+  "280": "A",
+  "281": "B",
+  "282": "A",
+  "283": "B",
+  "284": "D",
+  "285": "A",
+  "286": "C",
+  "287": "C",
+  "288": "C",
+  "289": "A",
+  "290": "D",
+  "291": "C",
+  "292": "A",
+  "293": "A",
+  "294": "A",
+  "295": "B",
+  "296": "B",
+  "297": "B",
+  "298": "C",
+  "299": "D",
+  "300": "A",
+  "301": "A",
+  "302": "B",
+  "303": "B",
+  "304": "C",
+  "305": "C",
+  "306": "D",
+  "307": "A",
+  "308": "B",
+  "309": "D",
+  "310": "D",
+  "311": "C",
+  "312": "D",
+  "313": "A",
+  "314": "B",
+  "315": "A",
+  "316": "C",
+  "317": "D",
+  "318": "B",
+  "319": "D",
+  "320": "D",
+  "321": "B",
+  "322": "B",
+  "323": "C",
+  "324": "C",
+  "325": "B",
+  "326": "B",
+  "327": "D",
+  "328": "B",
+  "329": "B",
+  "330": "B",
+  "331": "B",
+  "332": "D",
+  "333": "A",
+  "334": "D",
+  "335": "C",
+  "336": "D",
+  "337": "C",
+  "338": "A",
+  "339": "D",
+  "340": "D",
+  "341": "C",
+  "342": "A",
+  "343": "B",
+  "344": "B",
+  "345": "C",
+  "346": "D",
+  "347": "A",
+  "348": "D",
+  "349": "A",
+  "350": "A",
+  "351": "A",
+  "352": "D",
+  "353": "B",
+  "354": "C",
+  "355": "B",
+  "356": "D",
+  "357": "B",
+  "358": "D",
+  "359": "D",
+  "360": "A",
+  "361": "D",
+  "362": "B",
+  "363": "C",
+  "364": "D",
+  "365": "B",
+  "366": "B",
+  "367": "A",
+  "368": "D",
+  "369": "A",
+  "370": "B",
+  "371": "C",
+  "372": "C",
+  "373": "C",
+  "374": "D",
+  "375": "B"
+ }
+}
