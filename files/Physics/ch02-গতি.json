@@ -1,7 +1,7134 @@
 {
-  "subject": "পদার্থবিজ্ঞান",
-  "chapterNo": 2,
-  "chapter": "গতি",
-  "questions": [],
-  "answerBox": {}
+ "subject": "পদার্থবিজ্ঞান",
+ "chapterNo": 2,
+ "chapter": "গতি",
+ "questions": [
+  {
+   "question": "একটি বস্তু একই সময়ে স্থির ও গতিশীল হতে পারে —",
+   "options": {
+    "A": "না",
+    "B": "হ্যাঁ, ভিন্ন প্রসঙ্গ কাঠামোতে",
+    "C": "শুধু স্থির",
+    "D": "শুধু গতিশীল"
+   },
+   "correctAnswer": "B",
+   "topic": "স্থিতি ও গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "সূর্যের চারদিকে পৃথিবীর গতি কী ধরনের?",
+   "options": {
+    "A": "রৈখিক",
+    "B": "বৃত্তাকার",
+    "C": "দোলন",
+    "D": "স্থির"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "একটি বস্তু ৫ মিটার উপরে উঠে ফিরে আসলে দূরত্ব কত?",
+   "options": {
+    "A": "৫ মিটার",
+    "B": "১০ মিটার",
+    "C": "শূন্য",
+    "D": "২৫ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "দ্রুতি কী?",
+   "options": {
+    "A": "একক সময়ে সরণ",
+    "B": "একক সময়ে অতিক্রান্ত দূরত্ব",
+    "C": "একক সময়ে ত্বরণ",
+    "D": "একক সময়ে ভর"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "একটি বস্তুর বেগ ১০ সেকেন্ডে ৩০ মি/সে থেকে ১০ মি/সে হলে ত্বরণ কত?",
+   "options": {
+    "A": "−২ মি/সে²",
+    "B": "২ মি/সে²",
+    "C": "−৩ মি/সে²",
+    "D": "৩ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "একটি বস্তু আদি বেগ ৪ মি/সে ও ত্বরণ ২ মি/সে² হলে ২ সেকেন্ডে দূরত্ব কত?",
+   "options": {
+    "A": "৮ মিটার",
+    "B": "১২ মিটার",
+    "C": "১৬ মিটার",
+    "D": "২০ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "দূরত্ব-সময় লেখচিত্র সরলরেখা হলে দ্রুতি কীরূপ?",
+   "options": {
+    "A": "অসম",
+    "B": "সুষম",
+    "C": "শূন্য",
+    "D": "অসীম"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "নিচের দিকে পতনশীল বস্তুর ত্বরণ কত?",
+   "options": {
+    "A": "−৯.৮ মি/সে²",
+    "B": "+৯.৮ মি/সে²",
+    "C": "শূন্য",
+    "D": "১"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "একটি বস্তু r ব্যাসার্ধের বৃত্তে ω কৌণিক বেগে ঘুরলে রৈখিক বেগ কত?",
+   "options": {
+    "A": "rω",
+    "B": "ω/r",
+    "C": "r/ω",
+    "D": "rω²"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "দোলনকাল কাকে বলে?",
+   "options": {
+    "A": "অর্ধ দোলনের সময়",
+    "B": "একটি পূর্ণ দোলনের সময়",
+    "C": "দুটি দোলনের সময়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "প্রসঙ্গ কাঠামো কী?",
+   "options": {
+    "A": "যে বস্তুর সাপেক্ষে অন্য বস্তুর অবস্থান নির্ণয় করা হয়",
+    "B": "গতির একক",
+    "C": "বলের একক",
+    "D": "সময়ের একক"
+   },
+   "correctAnswer": "A",
+   "topic": "স্থিতি ও গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "সোজা রাস্তায় চলমান গাড়ির গতি কী ধরনের?",
+   "options": {
+    "A": "বৃত্তাকার",
+    "B": "রৈখিক",
+    "C": "দোলন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "দূরত্ব কী?",
+   "options": {
+    "A": "দুই বিন্দুর মধ্যে সরলরেখার দৈর্ঘ্য",
+    "B": "অতিক্রান্ত পথের মোট দৈর্ঘ্য",
+    "C": "সরণের অর্ধেক",
+    "D": "বেগের সমান"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "৩৬ কিমি/ঘণ্টা সমান কত মিটার/সেকেন্ড?",
+   "options": {
+    "A": "১০ মি/সে",
+    "B": "২০ মি/সে",
+    "C": "৩৬ মি/সে",
+    "D": "৫ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "ঋণাত্মক ত্বরণের অপর নাম কী?",
+   "options": {
+    "A": "মন্দন",
+    "B": "ত্বরণ",
+    "C": "দ্রুতি",
+    "D": "বেগ"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "স্থির থেকে ৩ মি/সে² ত্বরণে ৪ সেকেন্ড চললে দূরত্ব কত?",
+   "options": {
+    "A": "১২ মিটার",
+    "B": "২৪ মিটার",
+    "C": "৪৮ মিটার",
+    "D": "৬ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "বেগ-সময় লেখচিত্র সরলরেখা হলে ত্বরণ কীরূপ?",
+   "options": {
+    "A": "অসম",
+    "B": "সুষম",
+    "C": "শূন্য",
+    "D": "অসীম"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "মুক্ত পতনে বস্তুর গতিপথ কী?",
+   "options": {
+    "A": "সরলরেখা",
+    "B": "বৃত্ত",
+    "C": "পরাবৃত্ত",
+    "D": "উপবৃত্ত"
+   },
+   "correctAnswer": "A",
+   "topic": "মুক্ত পতন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "একটি বস্তু ২ সেকেন্ডে ১ বার বৃত্ত ঘুরলে কৌণিক বেগ কত?",
+   "options": {
+    "A": "π রেড/সে",
+    "B": "২π রেড/সে",
+    "C": "π/২ রেড/সে",
+    "D": "৪π রেড/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "সরল দোলকের দোলনকালের সূত্র কোনটি?",
+   "options": {
+    "A": "T = 2π√(l/g)",
+    "B": "T = 2π√(g/l)",
+    "C": "T = √(l/g)",
+    "D": "T = 2πl/g"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "স্থিতি ও গতি কীসের সাপেক্ষে নির্ধারিত হয়?",
+   "options": {
+    "A": "প্রসঙ্গ কাঠামো",
+    "B": "ভর",
+    "C": "সময়",
+    "D": "দূরত্ব"
+   },
+   "correctAnswer": "A",
+   "topic": "স্থিতি ও গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "বৃক্ষ থেকে পাতা পড়ার গতি কী ধরনের?",
+   "options": {
+    "A": "সরলরৈখিক",
+    "B": "বৃত্তাকার",
+    "C": "দোলন",
+    "D": "ঘূর্ণন"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "সরণের দিক কী নির্দেশ করে?",
+   "options": {
+    "A": "শুধু মান",
+    "B": "আদি থেকে শেষ অবস্থানের দিক",
+    "C": "গতির গড় দিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "একটি বস্তু প্রথম ২ সেকেন্ডে ১০ মিটার ও পরের ২ সেকেন্ডে ৩০ মিটার গেলে গড় দ্রুতি কত?",
+   "options": {
+    "A": "১০ মি/সে",
+    "B": "২০ মি/সে",
+    "C": "১৫ মি/সে",
+    "D": "৫ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "স্থির বস্তুর ত্বরণ কত?",
+   "options": {
+    "A": "শূন্য",
+    "B": "g",
+    "C": "১",
+    "D": "অসীম"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "s = ut + ½at² সমীকরণে t কী?",
+   "options": {
+    "A": "ত্বরণ",
+    "B": "সময়",
+    "C": "সরণ",
+    "D": "বেগ"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "দূরত্ব-সময় লেখচিত্রে ঢাল বেশি হলে দ্রুতি —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "শূন্য",
+    "D": "সমান"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "উপরের দিকে ২৯.৪ মি/সে বেগে নিক্ষিপ্ত বস্তু সর্বোচ্চ কত উচ্চতায় উঠবে?",
+   "options": {
+    "A": "২৯.৪ মিটার",
+    "B": "৪৪.১ মিটার",
+    "C": "৮৮.২ মিটার",
+    "D": "১৪.৭ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "২ কেজি বস্তু ৪ মি/সে বেগে ২ মিটার ব্যাসার্ধের বৃত্তে ঘুরলে কেন্দ্রমুখী বল কত?",
+   "options": {
+    "A": "৮ নিউটন",
+    "B": "১৬ নিউটন",
+    "C": "৪ নিউটন",
+    "D": "৩২ নিউটন"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "একটি দোলক ২৫ সেকেন্ডে ৫টি দোলন দিলে দোলনকাল কত?",
+   "options": {
+    "A": "৫ সেকেন্ড",
+    "B": "২৫ সেকেন্ড",
+    "C": "২ সেকেন্ড",
+    "D": "০.২ সেকেন্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "গতির বর্ণনায় সময়ের ভূমিকা কী?",
+   "options": {
+    "A": "অপরিহার্য",
+    "B": "অপ্রয়োজনীয়",
+    "C": "কখনো দরকার",
+    "D": "কখনো দরকার নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "স্থিতি ও গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "নিজ অক্ষের চারদিকে পৃথিবীর ঘূর্ণনের ফলে কী ঘটে?",
+   "options": {
+    "A": "ঋতু পরিবর্তন",
+    "B": "দিন-রাত্রি",
+    "C": "জোয়ার-ভাটা",
+    "D": "সূর্যগ্রহণ"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "একটি বস্তু ১২ মিটার পূর্বে ও ৫ মিটার উত্তরে গেলে সরণ কত?",
+   "options": {
+    "A": "১৩ মিটার",
+    "B": "১৭ মিটার",
+    "C": "৭ মিটার",
+    "D": "৬০ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "২৫ মি/সে = কত কিমি/ঘণ্টা?",
+   "options": {
+    "A": "৯০",
+    "B": "৪৫",
+    "C": "৫০",
+    "D": "৭২"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "ত্বরণ শূন্য হলে বেগ —",
+   "options": {
+    "A": "পরিবর্তিত হয়",
+    "B": "অপরিবর্তিত থাকে",
+    "C": "বাড়ে",
+    "D": "কমে"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "একটি বস্তু স্থির অবস্থা থেকে ৬ মি/সে² ত্বরণে ২ সেকেন্ড চললে শেষ বেগ কত?",
+   "options": {
+    "A": "৬ মি/সে",
+    "B": "১২ মি/সে",
+    "C": "১৮ মি/সে",
+    "D": "২৪ মি/সে"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "বেগ-সময় লেখচিত্রে ত্বরণযুক্ত গতি কীভাবে দেখানো হয়?",
+   "options": {
+    "A": "সমান্তরাল রেখা",
+    "B": "ঢালু সরলরেখা",
+    "C": "অনুভূমিক রেখা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "একটি বস্তু ৪৯ মিটার উচ্চতা থেকে পড়লে পড়তে কত সময় লাগবে?",
+   "options": {
+    "A": "২ সেকেন্ড",
+    "B": "৩.১৬ সেকেন্ড",
+    "C": "৫ সেকেন্ড",
+    "D": "১০ সেকেন্ড"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "কেন্দ্রমুখী বলের সূত্র কোনটি?",
+   "options": {
+    "A": "F = mv²/r",
+    "B": "F = mv/r",
+    "C": "F = mr/v",
+    "D": "F = mv²"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "দোলকের দৈর্ঘ্য ২ গুণ করলে দোলনকাল কত গুণ হয়?",
+   "options": {
+    "A": "√২",
+    "B": "২",
+    "C": "৪",
+    "D": "১/২"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "চলন্ত ট্রেনে বসা যাত্রী প্ল্যাটফর্মের সাপেক্ষে —",
+   "options": {
+    "A": "স্থির",
+    "B": "গতিশীল",
+    "C": "কখনো স্থির",
+    "D": "কখনো গতিশীল"
+   },
+   "correctAnswer": "B",
+   "topic": "স্থিতি ও গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "সরল দোলকের গতি কী ধরনের?",
+   "options": {
+    "A": "রৈখিক",
+    "B": "বৃত্তাকার",
+    "C": "দোলন",
+    "D": "ঘূর্ণন"
+   },
+   "correctAnswer": "C",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "সরণের একক কী?",
+   "options": {
+    "A": "মিটার/সেকেন্ড",
+    "B": "মিটার",
+    "C": "সেকেন্ড",
+    "D": "মিটার/সেকেন্ড²"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "সুষম দ্রুতি ও সুষম বেগের পার্থক্য কী?",
+   "options": {
+    "A": "দিক",
+    "B": "মান",
+    "C": "একক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "মন্দন কী?",
+   "options": {
+    "A": "ধনাত্মক ত্বরণ",
+    "B": "ঋণাত্মক ত্বরণ",
+    "C": "শূন্য ত্বরণ",
+    "D": "অসীম ত্বরণ"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "একটি বস্তু ২ মি/সে² ত্বরণে ১০ সেকেন্ড ধরে স্থির থেকে চললে মোট দূরত্ব কত?",
+   "options": {
+    "A": "১০০ মিটার",
+    "B": "২০০ মিটার",
+    "C": "৫০ মিটার",
+    "D": "২০ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "বেগ-সময় লেখচিত্রে অনুভূমিক অক্ষে কী থাকে?",
+   "options": {
+    "A": "বেগ",
+    "B": "সময়",
+    "C": "দূরত্ব",
+    "D": "ত্বরণ"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "অভিকর্ষজ ত্বরণ গভীরতা বাড়লে —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই থাকে",
+    "D": "অসীম হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "৪ কেজি বস্তু ২ মি/সে বেগে ২ মিটার ব্যাসার্ধের বৃত্তে ঘুরলে কেন্দ্রমুখী বল কত?",
+   "options": {
+    "A": "৪ নিউটন",
+    "B": "৮ নিউটন",
+    "C": "১৬ নিউটন",
+    "D": "২ নিউটন"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "মুক্ত পতন ও দোলক — দুটোতেই কোন রাশি জড়িত?",
+   "options": {
+    "A": "g",
+    "B": "ভর",
+    "C": "বিস্তার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "গতি নির্ভর করে কীসের উপর?",
+   "options": {
+    "A": "শুধু বস্তুর",
+    "B": "প্রসঙ্গ কাঠামোর",
+    "C": "শুধু সময়ের",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "স্থিতি ও গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "ক্যারোসেল (চরকি) এর গতি কী ধরনের?",
+   "options": {
+    "A": "রৈখিক",
+    "B": "বৃত্তাকার",
+    "C": "দোলন",
+    "D": "স্থির"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "একটি বস্তু ৪ মিটার পূর্বে ও ৩ মিটার উত্তরে গেলে দূরত্ব কত?",
+   "options": {
+    "A": "৫ মিটার",
+    "B": "৭ মিটার",
+    "C": "১ মিটার",
+    "D": "১২ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "একটি বস্তু ৬০ মিটার পথ ৩ সেকেন্ডে গেলে দ্রুতি কত?",
+   "options": {
+    "A": "২০ মি/সে",
+    "B": "৩০ মি/সে",
+    "C": "১৮০ মি/সে",
+    "D": "১০ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "একটি বস্তুর আদি বেগ ২০ মি/সে, মন্দন ৫ মি/সে² হলে থামতে কত সময় লাগবে?",
+   "options": {
+    "A": "৪ সেকেন্ড",
+    "B": "৫ সেকেন্ড",
+    "C": "২০ সেকেন্ড",
+    "D": "১০০ সেকেন্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "আদি বেগ ১০ মি/সে, ত্বরণ ২ মি/সে², সময় ৩ সেকেন্ড হলে শেষ বেগ কত?",
+   "options": {
+    "A": "১৩ মি/সে",
+    "B": "১৬ মি/সে",
+    "C": "২০ মি/সে",
+    "D": "২৩ মি/সে"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "দূরত্ব-সময় লেখচিত্রের ঢাল থেকে কী পাওয়া যায়?",
+   "options": {
+    "A": "দ্রুতি",
+    "B": "ত্বরণ",
+    "C": "সরণ",
+    "D": "বল"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির লেখচিত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "উপরের দিকে ১৯.৬ মি/সে বেগে নিক্ষিপ্ত বস্তু সর্বোচ্চ কত উচ্চতায় উঠবে?",
+   "options": {
+    "A": "৯.৮ মিটার",
+    "B": "১৯.৬ মিটার",
+    "C": "৩৯.২ মিটার",
+    "D": "৪.৯ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "কেন্দ্রবিমুখী বলের দিক কী?",
+   "options": {
+    "A": "কেন্দ্রের দিকে",
+    "B": "কেন্দ্র থেকে বাইরে",
+    "C": "স্পর্শকের দিকে",
+    "D": "নিচের দিকে"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "দোলকের সুতা লম্বা করলে কম্পাঙ্ক —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই থাকে",
+    "D": "শূন্য হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "একটি বস্তুর গতি বর্ণনা করতে কী কী প্রয়োজন?",
+   "options": {
+    "A": "শুধু দূরত্ব",
+    "B": "প্রসঙ্গ কাঠামো ও সময়",
+    "C": "শুধু ভর",
+    "D": "শুধু বেগ"
+   },
+   "correctAnswer": "B",
+   "topic": "স্থিতি ও গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "রৈখিক গতিতে দিক —",
+   "options": {
+    "A": "পরিবর্তিত হয়",
+    "B": "পরিবর্তিত হয় না",
+    "C": "কখনো বদলায়",
+    "D": "কখনো বদলায় না"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "একটি বস্তু ২০ মিটার পূর্বে ও ১৫ মিটার উত্তরে গেলে সরণ কত?",
+   "options": {
+    "A": "৩৫ মিটার",
+    "B": "২৫ মিটার",
+    "C": "৫ মিটার",
+    "D": "৩০০ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "গতিশীল বস্তুর বেগ শূন্য হতে পারে —",
+   "options": {
+    "A": "না",
+    "B": "হ্যাঁ, মুহূর্তের জন্য",
+    "C": "সবসময়",
+    "D": "কখনোই"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "একটি গাড়ি ২৫ মি/সে বেগে চলছিল, ৫ সেকেন্ডে থামলে মন্দন কত?",
+   "options": {
+    "A": "৫ মি/সে²",
+    "B": "২৫ মি/সে²",
+    "C": "২ মি/সে²",
+    "D": "৩০ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "স্থির থেকে ২ মি/সে² ত্বরণে ৫ সেকেন্ড চললে দূরত্ব কত?",
+   "options": {
+    "A": "১০ মিটার",
+    "B": "২৫ মিটার",
+    "C": "৫০ মিটার",
+    "D": "২০ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "বেগ-সময় লেখচিত্র সময় অক্ষের সমান্তরাল হলে বেগ কীরূপ?",
+   "options": {
+    "A": "পরিবর্তনশীল",
+    "B": "সুষম",
+    "C": "শূন্য",
+    "D": "অসীম"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "উপরের দিকে নিক্ষিপ্ত বস্তুর ত্বরণ কত?",
+   "options": {
+    "A": "শূন্য",
+    "B": "−৯.৮ মি/সে²",
+    "C": "+৯.৮ মি/সে²",
+    "D": "১ মি/সে²"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "বৃত্তাকার গতিতে বেগের দিক —",
+   "options": {
+    "A": "স্থির থাকে",
+    "B": "প্রতিনিয়ত পরিবর্তিত হয়",
+    "C": "কখনো বদলায়",
+    "D": "কখনো বদলায় না"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "দোলনকাল ও কম্পাঙ্কের গুণফল কত?",
+   "options": {
+    "A": "১",
+    "B": "০",
+    "C": "২",
+    "D": "১০"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "চলন্ত ট্রেনে বসা যাত্রী ট্রেনের সাপেক্ষে —",
+   "options": {
+    "A": "গতিশীল",
+    "B": "স্থির",
+    "C": "কখনো স্থির",
+    "D": "কখনো গতিশীল"
+   },
+   "correctAnswer": "B",
+   "topic": "স্থিতি ও গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "পাখার ঘূর্ণন কী ধরনের গতি?",
+   "options": {
+    "A": "রৈখিক",
+    "B": "দোলন",
+    "C": "ঘূর্ণন",
+    "D": "সরলরৈখিক"
+   },
+   "correctAnswer": "C",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "একটি বস্তু প্রথমে ৩ মিটার পূর্বে, পরে ৪ মিটার উত্তরে গেলে দূরত্ব ও সরণের পার্থক্য কত?",
+   "options": {
+    "A": "১ মিটার",
+    "B": "২ মিটার",
+    "C": "৩ মিটার",
+    "D": "৫ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "একটি বস্তুর গড় বেগ শূন্য হতে পারে যদি —",
+   "options": {
+    "A": "সরণ শূন্য হয়",
+    "B": "দূরত্ব শূন্য হয়",
+    "C": "দ্রুতি শূন্য হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "একটি বস্তুর বেগ ৫ মি/সে থেকে ২০ মি/সে হতে ৫ সেকেন্ড লাগলে ত্বরণ কত?",
+   "options": {
+    "A": "৩ মি/সে²",
+    "B": "৫ মি/সে²",
+    "C": "১৫ মি/সে²",
+    "D": "১ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "স্থির অবস্থা থেকে যাত্রা শুরু করলে আদি বেগ কত?",
+   "options": {
+    "A": "শূন্য",
+    "B": "g",
+    "C": "১",
+    "D": "অসীম"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "দূরত্ব-সময় লেখচিত্রে উল্লম্ব অক্ষে কী থাকে?",
+   "options": {
+    "A": "সময়",
+    "B": "দূরত্ব",
+    "C": "বেগ",
+    "D": "ত্বরণ"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "উপরের দিকে ৩৯.২ মি/সে বেগে নিক্ষিপ্ত বস্তু সর্বোচ্চ কত উচ্চতায় উঠবে?",
+   "options": {
+    "A": "৩৯.২ মিটার",
+    "B": "৭৮.৪ মিটার",
+    "C": "১৯.৬ মিটার",
+    "D": "৯৮ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "একটি চাকা ১ সেকেন্ডে ২ বার ঘুরলে পর্যায়কাল কত?",
+   "options": {
+    "A": "০.৫ সেকেন্ড",
+    "B": "২ সেকেন্ড",
+    "C": "১ সেকেন্ড",
+    "D": "৪ সেকেন্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "একটি দোলক ৫ সেকেন্ডে ১০টি পূর্ণ দোলন দিলে দোলনকাল কত?",
+   "options": {
+    "A": "০.৫ সেকেন্ড",
+    "B": "২ সেকেন্ড",
+    "C": "৫ সেকেন্ড",
+    "D": "১০ সেকেন্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "স্থির বস্তু কাকে বলে?",
+   "options": {
+    "A": "যা সময়ের সাথে অবস্থান পরিবর্তন করে না",
+    "B": "যা সর্বদা চলে",
+    "C": "যার বেগ বেশি",
+    "D": "যার ত্বরণ বেশি"
+   },
+   "correctAnswer": "A",
+   "topic": "স্থিতি ও গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "একটি বস্তু সরলরেখায় চললে তার গতি —",
+   "options": {
+    "A": "রৈখিক",
+    "B": "বৃত্তাকার",
+    "C": "দোলন",
+    "D": "ঘূর্ণন"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "একটি বস্তু ১০ মিটার পূর্বে ও ১০ মিটার উত্তরে গেলে সরণ কত?",
+   "options": {
+    "A": "১০ মিটার",
+    "B": "১৪.১৪ মিটার",
+    "C": "২০ মিটার",
+    "D": "৫ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "একটি গাড়ি ৫৪ কিমি/ঘণ্টা বেগে চললে মিটার/সেকেন্ডে কত?",
+   "options": {
+    "A": "১৫ মি/সে",
+    "B": "২০ মি/সে",
+    "C": "৫৪ মি/সে",
+    "D": "৩০ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "ত্বরণের মান ঋণাত্মক হওয়ার অর্থ কী?",
+   "options": {
+    "A": "বেগ বাড়ছে",
+    "B": "বেগ কমছে",
+    "C": "বেগ ধ্রুব",
+    "D": "গতি স্থির"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "একটি বস্তুর আদি বেগ ২০ মি/সে, মন্দন ৪ মি/সে² হলে থামতে সময় কত?",
+   "options": {
+    "A": "৪ সেকেন্ড",
+    "B": "৫ সেকেন্ড",
+    "C": "৮ সেকেন্ড",
+    "D": "২০ সেকেন্ড"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "দূরত্ব-সময় লেখচিত্রে অনুভূমিক অক্ষে কী থাকে?",
+   "options": {
+    "A": "দূরত্ব",
+    "B": "সময়",
+    "C": "বেগ",
+    "D": "ত্বরণ"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "উপরের দিকে নিক্ষিপ্ত বস্তুর গতি শেষে বেগ কত হয়?",
+   "options": {
+    "A": "শূন্য",
+    "B": "g",
+    "C": "৯.৮",
+    "D": "অসীম"
+   },
+   "correctAnswer": "A",
+   "topic": "মুক্ত পতন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "কেন্দ্রমুখী ত্বরণের দিক কী?",
+   "options": {
+    "A": "বাইরের দিকে",
+    "B": "কেন্দ্রের দিকে",
+    "C": "স্পর্শকের দিকে",
+    "D": "উপরের দিকে"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "সরল দোলকের দোলনকাল বিস্তারের উপর —",
+   "options": {
+    "A": "নির্ভর করে",
+    "B": "নির্ভর করে না",
+    "C": "সমানুপাতিক",
+    "D": "ব্যস্তানুপাতিক"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "গতিশীল বস্তু কাকে বলে?",
+   "options": {
+    "A": "যা স্থির থাকে",
+    "B": "যা সময়ের সাথে অবস্থান পরিবর্তন করে",
+    "C": "যার ভর বেশি",
+    "D": "যার দ্রুতি শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "স্থিতি ও গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "সেলাই মেশিনের সুঁইয়ের গতি কী ধরনের?",
+   "options": {
+    "A": "রৈখিক",
+    "B": "বৃত্তাকার",
+    "C": "দোলন",
+    "D": "ঘূর্ণন"
+   },
+   "correctAnswer": "C",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "একটি বস্তু ৮ মিটার পূর্বে ও ৬ মিটার উত্তরে গেলে দূরত্ব কত?",
+   "options": {
+    "A": "১০ মিটার",
+    "B": "১৪ মিটার",
+    "C": "২ মিটার",
+    "D": "৪৮ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "একটি বস্তু ১০ মিটার সরণ ২ সেকেন্ডে সম্পন্ন করলে বেগ কত?",
+   "options": {
+    "A": "৫ মি/সে",
+    "B": "২০ মি/সে",
+    "C": "২ মি/সে",
+    "D": "১০ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "একটি বস্তু ৫ মি/সে বেগে চলছে, ২ সেকেন্ড পর বেগ ৯ মি/সে হলে ত্বরণ কত?",
+   "options": {
+    "A": "২ মি/সে²",
+    "B": "৪ মি/সে²",
+    "C": "৭ মি/সে²",
+    "D": "১৪ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "একটি গাড়ি ২০ মি/সে বেগে চলছে, চালক ব্রেক করায় ৪ মি/সে² মন্দনে থামে। থামতে সময় কত?",
+   "options": {
+    "A": "৫ সেকেন্ড",
+    "B": "৪ সেকেন্ড",
+    "C": "৮ সেকেন্ড",
+    "D": "১০ সেকেন্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "একটি বস্তুর ত্বরণ ০ হলে বেগ-সময় লেখচিত্র কীরূপ?",
+   "options": {
+    "A": "ঢালু রেখা",
+    "B": "সময় অক্ষের সমান্তরাল",
+    "C": "উল্লম্ব",
+    "D": "বক্র"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "অভিকর্ষজ ত্বরণ কীসের উপর নির্ভর করে না?",
+   "options": {
+    "A": "উচ্চতা",
+    "B": "গভীরতা",
+    "C": "অক্ষাংশ",
+    "D": "বস্তুর ভর"
+   },
+   "correctAnswer": "D",
+   "topic": "মুক্ত পতন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "১ কেজি বস্তু ২ মি/সে বেগে ২ মিটার ব্যাসার্ধের বৃত্তে ঘুরলে কেন্দ্রমুখী ত্বরণ কত?",
+   "options": {
+    "A": "১ মি/সে²",
+    "B": "২ মি/সে²",
+    "C": "৪ মি/সে²",
+    "D": "৮ মি/সে²"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "একটি বস্তুর কম্পাঙ্ক ০.৫ হার্জ হলে দোলনকাল কত?",
+   "options": {
+    "A": "২ সেকেন্ড",
+    "B": "০.৫ সেকেন্ড",
+    "C": "১ সেকেন্ড",
+    "D": "৪ সেকেন্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "একটি বস্তুর গতিপথ সরলরেখা হলে গতি কী?",
+   "options": {
+    "A": "রৈখিক গতি",
+    "B": "বৃত্তাকার গতি",
+    "C": "দোলন গতি",
+    "D": "ঘূর্ণন গতি"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "একটি বস্তু ২৪ মিটার উত্তরে ও ৭ মিটার পশ্চিমে গেলে সরণ কত?",
+   "options": {
+    "A": "২৫ মিটার",
+    "B": "৩১ মিটার",
+    "C": "১৭ মিটার",
+    "D": "১৬৮ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "বেগ কোন ধরনের রাশি?",
+   "options": {
+    "A": "স্কেলার",
+    "B": "ভেক্টর",
+    "C": "মাত্রাহীন",
+    "D": "মৌলিক"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "একটি বস্তু ২০ মি/সে বেগে চলছিল, ৪ সেকেন্ডে থামলে মন্দন কত?",
+   "options": {
+    "A": "৪ মি/সে²",
+    "B": "৫ মি/সে²",
+    "C": "২০ মি/সে²",
+    "D": "৮০ মি/সে²"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "স্থির থেকে ২ মি/সে² ত্বরণে চলা বস্তুর ১ম সেকেন্ডে দূরত্ব কত?",
+   "options": {
+    "A": "১ মিটার",
+    "B": "২ মিটার",
+    "C": "৪ মিটার",
+    "D": "০.৫ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "একটি বস্তু সমত্বরণে চললে বেগ-সময় লেখচিত্রের ঢাল —",
+   "options": {
+    "A": "ধ্রুব",
+    "B": "পরিবর্তনশীল",
+    "C": "শূন্য",
+    "D": "অসীম"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির লেখচিত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "একটি বস্তু ৮০ মিটার উচ্চতা থেকে পড়লে কত সময় লাগবে?",
+   "options": {
+    "A": "৩ সেকেন্ড",
+    "B": "৪ সেকেন্ড",
+    "C": "৫ সেকেন্ড",
+    "D": "৬ সেকেন্ড"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "২ কেজি বস্তু ২ মি/সে বেগে ৪ মিটার ব্যাসার্ধের বৃত্তে ঘুরলে কেন্দ্রমুখী বল কত?",
+   "options": {
+    "A": "১ নিউটন",
+    "B": "২ নিউটন",
+    "C": "৪ নিউটন",
+    "D": "৮ নিউটন"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "একটি দোলক ১ মিনিটে ৬০টি দোলন দিলে কম্পাঙ্ক কত?",
+   "options": {
+    "A": "১ হার্জ",
+    "B": "২ হার্জ",
+    "C": "৬০ হার্জ",
+    "D": "০.৫ হার্জ"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "ঘূর্ণন গতির উদাহরণ কোনটি?",
+   "options": {
+    "A": "ট্রেনের গতি",
+    "B": "পাখার গতি",
+    "C": "দোলকের গতি",
+    "D": "গাড়ির গতি"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "একজন লোক ৩ মিটার উত্তর, ৪ মিটার পূর্ব, ৩ মিটার দক্ষিণে গেলে সরণ কত?",
+   "options": {
+    "A": "১০ মিটার",
+    "B": "৪ মিটার",
+    "C": "৫ মিটার",
+    "D": "৭ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "একটি বস্তু প্রথম ৫ সেকেন্ডে ৫০ মিটার ও পরের ৫ সেকেন্ডে ৭০ মিটার গেলে গড় দ্রুতি কত?",
+   "options": {
+    "A": "১২ মি/সে",
+    "B": "১৪ মি/সে",
+    "C": "১০ মি/সে",
+    "D": "২০ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "বেগের পরিবর্তন কয় ভাবে হতে পারে?",
+   "options": {
+    "A": "১",
+    "B": "২",
+    "C": "৩",
+    "D": "৪"
+   },
+   "correctAnswer": "C",
+   "topic": "ত্বরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "আদি বেগ ২ মি/সে, ত্বরণ ৪ মি/সে², সরণ ৬ মিটার হলে শেষ বেগ² কত?",
+   "options": {
+    "A": "৪",
+    "B": "২৮",
+    "C": "৫২",
+    "D": "১০০"
+   },
+   "correctAnswer": "C",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "বেগ-সময় লেখচিত্রের ঢাল থেকে কী পাওয়া যায়?",
+   "options": {
+    "A": "সরণ",
+    "B": "ত্বরণ",
+    "C": "দ্রুতি",
+    "D": "দূরত্ব"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "একটি বস্তু ১৯.৬ মিটার উচ্চতা থেকে পড়লে কত সময় লাগবে?",
+   "options": {
+    "A": "১ সেকেন্ড",
+    "B": "২ সেকেন্ড",
+    "C": "৩ সেকেন্ড",
+    "D": "৪ সেকেন্ড"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "বৃত্তাকার পথে কৌণিক বেগ ω হলে পর্যায়কাল T = ?",
+   "options": {
+    "A": "2π/ω",
+    "B": "ω/2π",
+    "C": "2πω",
+    "D": "1/2πω"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "সরল দোলক পূর্ণ দোলন কাকে বলে?",
+   "options": {
+    "A": "এক প্রান্ত থেকে অন্য প্রান্তে যাওয়া",
+    "B": "এক প্রান্ত থেকে ফিরে আবার সেই প্রান্তে আসা",
+    "C": "অর্ধেক যাওয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "দোলনা চেয়ার (swing) এর গতি কী ধরনের?",
+   "options": {
+    "A": "রৈখিক",
+    "B": "বৃত্তাকার",
+    "C": "দোলন",
+    "D": "ঘূর্ণন"
+   },
+   "correctAnswer": "C",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "একজন লোক ৩ মিটার উত্তর, ৪ মিটার পূর্ব, ৩ মিটার দক্ষিণে গেলে দূরত্ব কত?",
+   "options": {
+    "A": "১০ মিটার",
+    "B": "৪ মিটার",
+    "C": "৫ মিটার",
+    "D": "৭ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "সুষম দ্রুতি কাকে বলে?",
+   "options": {
+    "A": "সমান সময়ে সমান দূরত্ব",
+    "B": "সমান সময়ে অসমান দূরত্ব",
+    "C": "অসমান সময়ে সমান দূরত্ব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "ত্বরণের একক কোনটি?",
+   "options": {
+    "A": "মিটার/সেকেন্ড",
+    "B": "মিটার/সেকেন্ড²",
+    "C": "মিটার²/সেকেন্ড",
+    "D": "সেকেন্ড/মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "আদি বেগ ৪ মি/সে, ত্বরণ ৩ মি/সে², সরণ ১০ মিটার হলে শেষ বেগ² কত?",
+   "options": {
+    "A": "১৬",
+    "B": "৬৪",
+    "C": "৭৬",
+    "D": "১০০"
+   },
+   "correctAnswer": "C",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "বেগ-সময় লেখচিত্রের ক্ষেত্রফল দিয়ে কী মাপা হয়?",
+   "options": {
+    "A": "ত্বরণ",
+    "B": "সরণ",
+    "C": "বল",
+    "D": "দ্রুতি"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "মুক্ত পতনে ৪ সেকেন্ডে দূরত্ব কত?",
+   "options": {
+    "A": "৪৯ মিটার",
+    "B": "৭৮.৪ মিটার",
+    "C": "১৯.৬ মিটার",
+    "D": "৯৮ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "বৃত্তাকার গতিতে প্রয়োজনীয় বলের নাম কী?",
+   "options": {
+    "A": "মহাকর্ষ বল",
+    "B": "কেন্দ্রমুখী বল",
+    "C": "ঘর্ষণ বল",
+    "D": "স্থিতিস্থাপক বল"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "স্প্রিং এর সংকোচন-প্রসারণ কী ধরনের গতি?",
+   "options": {
+    "A": "রৈখিক",
+    "B": "বৃত্তাকার",
+    "C": "দোলন",
+    "D": "ঘূর্ণন"
+   },
+   "correctAnswer": "C",
+   "topic": "দোলন গতি",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "সূর্যের চারদিকে পৃথিবীর আবর্তনের ফলে কী ঘটে?",
+   "options": {
+    "A": "দিন-রাত্রি",
+    "B": "ঋতু পরিবর্তন",
+    "C": "জোয়ার-ভাটা",
+    "D": "চন্দ্রগ্রহণ"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "একটি বস্তু বৃত্তাকার পথে পুরো ঘুরে আসলে সরণ কত?",
+   "options": {
+    "A": "পরিধি",
+    "B": "ব্যাস",
+    "C": "শূন্য",
+    "D": "ব্যাসার্ধ"
+   },
+   "correctAnswer": "C",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "একটি বস্তু ২০০ মিটার পথ ১০ সেকেন্ডে গেলে দ্রুতি কত?",
+   "options": {
+    "A": "১০ মি/সে",
+    "B": "২০ মি/সে",
+    "C": "৩০ মি/সে",
+    "D": "২০০০ মি/সে"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "একটি বস্তুর মন্দন ২ মি/সে² বলতে বোঝায় —",
+   "options": {
+    "A": "প্রতি সেকেন্ডে বেগ ২ মি/সে বাড়ে",
+    "B": "প্রতি সেকেন্ডে বেগ ২ মি/সে কমে",
+    "C": "দূরত্ব ২ মিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "স্থির থেকে ২ মি/সে² ত্বরণে চলা বস্তুর ২য় সেকেন্ডে দূরত্ব কত?",
+   "options": {
+    "A": "২ মিটার",
+    "B": "৩ মিটার",
+    "C": "৪ মিটার",
+    "D": "১ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "বেগ-সময় লেখচিত্রের ঢাল কী নির্দেশ করে?",
+   "options": {
+    "A": "দ্রুতি",
+    "B": "ত্বরণ",
+    "C": "সরণ",
+    "D": "বল"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "একটি বস্তু উপর থেকে পড়ে ২ সেকেন্ডে ভূমিতে পৌঁছায়। উচ্চতা কত?",
+   "options": {
+    "A": "১৯.৬ মিটার",
+    "B": "৯.৮ মিটার",
+    "C": "৩৯.২ মিটার",
+    "D": "৪.৯ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "কেন্দ্রমুখী বলের কাজ কী?",
+   "options": {
+    "A": "বস্তুকে সরলরেখায় রাখা",
+    "B": "বস্তুকে বৃত্তাকার পথে রাখা",
+    "C": "বস্তু থামানো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "দোলক ঘড়ি কে আবিষ্কার করেন?",
+   "options": {
+    "A": "নিউটন",
+    "B": "হাইগেনস",
+    "C": "গ্যালিলিও",
+    "D": "আর্কিমিডিস"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "ঘড়ির কাঁটার গতি কী ধরনের?",
+   "options": {
+    "A": "রৈখিক",
+    "B": "বৃত্তাকার",
+    "C": "দোলন",
+    "D": "স্থির"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "একটি বস্তু বর্গক্ষেত্রের পরিধি বরাবর ঘুরে শুরু বিন্দুতে ফিরলে সরণ কত?",
+   "options": {
+    "A": "পরিধি",
+    "B": "শূন্য",
+    "C": "কর্ণ",
+    "D": "বাহু"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "একটি বস্তু প্রথম ৩ সেকেন্ডে ৩০ মিটার ও পরের ২ সেকেন্ডে ২০ মিটার গেলে গড় দ্রুতি কত?",
+   "options": {
+    "A": "১০ মি/সে",
+    "B": "২০ মি/সে",
+    "C": "১৫ মি/সে",
+    "D": "৫ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "একটি বস্তুর ত্বরণ ৩ মি/সে² বলতে বোঝায় —",
+   "options": {
+    "A": "প্রতি সেকেন্ডে বেগ ৩ মি/সে বাড়ে",
+    "B": "প্রতি সেকেন্ডে দূরত্ব ৩ মিটার",
+    "C": "বেগ ৩ মি/সে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "একটি গাড়ি ২০ মি/সে বেগে চলছে, ৪ মি/সে² মন্দনে থামতে দূরত্ব কত?",
+   "options": {
+    "A": "৪০ মিটার",
+    "B": "৫০ মিটার",
+    "C": "৮০ মিটার",
+    "D": "১০০ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "একটি বস্তু সুষম ত্বরণে চললে বেগ-সময় লেখচিত্র কীরূপ?",
+   "options": {
+    "A": "সমান্তরাল রেখা",
+    "B": "ঢালু সরলরেখা",
+    "C": "উল্লম্ব রেখা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "মুক্ত পতনে ১ সেকেন্ডে শেষ বেগ কত?",
+   "options": {
+    "A": "৯.৮ মি/সে",
+    "B": "৪.৯ মি/সে",
+    "C": "১৯.৬ মি/সে",
+    "D": "৩৯.২ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "কেন্দ্রমুখী ত্বরণের সূত্র কোনটি?",
+   "options": {
+    "A": "a = v²/r",
+    "B": "a = v/r",
+    "C": "a = r/v",
+    "D": "a = vr"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "সরল ছন্দিত গতিতে ত্বরণ সরণের —",
+   "options": {
+    "A": "সমানুপাতিক ও সমমুখী",
+    "B": "সমানুপাতিক ও বিপরীতমুখী",
+    "C": "ব্যস্তানুপাতিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "দোলন গতি কাকে বলে?",
+   "options": {
+    "A": "সরলরেখায় গতি",
+    "B": "নির্দিষ্ট বিন্দুর দুপাশে আন্দোলন",
+    "C": "বৃত্তাকার গতি",
+    "D": "স্থির থাকা"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "সরণ কী?",
+   "options": {
+    "A": "অতিক্রান্ত পথের মোট দৈর্ঘ্য",
+    "B": "আদি ও শেষ অবস্থানের মধ্যে সরলরৈখিক দূরত্ব",
+    "C": "দূরত্বের দ্বিগুণ",
+    "D": "দ্রুতির সমান"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "একটি বস্তু ২ ঘণ্টায় ৭০ কিমি গেলে গড় দ্রুতি কত?",
+   "options": {
+    "A": "৩৫ কিমি/ঘণ্টা",
+    "B": "৭০ কিমি/ঘণ্টা",
+    "C": "১৪০ কিমি/ঘণ্টা",
+    "D": "১৭.৫ কিমি/ঘণ্টা"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "ত্বরণ কাকে বলে?",
+   "options": {
+    "A": "সময়ের সাথে বেগের পরিবর্তনের হার",
+    "B": "সময়ের সাথে দূরত্বের পরিবর্তন",
+    "C": "বেগ × সময়",
+    "D": "সরণ × সময়"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "আদি বেগ ৬ মি/সে, ত্বরণ ২ মি/সে², সময় ৩ সেকেন্ড হলে দূরত্ব কত?",
+   "options": {
+    "A": "১৮ মিটার",
+    "B": "২৭ মিটার",
+    "C": "৩৬ মিটার",
+    "D": "৯ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "বেগ-সময় লেখচিত্র থেকে সরণ নির্ণয়ে কী করা হয়?",
+   "options": {
+    "A": "ঢাল মাপা",
+    "B": "ক্ষেত্রফল মাপা",
+    "C": "উচ্চতা মাপা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "মুক্ত পতন কাকে বলে?",
+   "options": {
+    "A": "শুধু অভিকর্ষের প্রভাবে পতন",
+    "B": "বল প্রয়োগে পতন",
+    "C": "বায়ুর প্রভাবে পতন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মুক্ত পতন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "কেন্দ্রবিমুখী বল ও কেন্দ্রমুখী বলের সম্পর্ক কী?",
+   "options": {
+    "A": "সমান ও বিপরীত",
+    "B": "সমান ও একমুখী",
+    "C": "অসমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "একটি দোলক ২০ সেকেন্ডে ১০টি দোলন দিলে কম্পাঙ্ক কত?",
+   "options": {
+    "A": "০.৫ হার্জ",
+    "B": "২ হার্জ",
+    "C": "১০ হার্জ",
+    "D": "২০ হার্জ"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "রৈখিক গতি কাকে বলে?",
+   "options": {
+    "A": "সরলরেখা বরাবর গতি",
+    "B": "বৃত্তাকার গতি",
+    "C": "দোলন গতি",
+    "D": "ঘূর্ণন গতি"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "দূরত্ব ও সরণ সমান হয় যখন গতি —",
+   "options": {
+    "A": "বাঁকা পথে",
+    "B": "সরলরেখায় একই দিকে",
+    "C": "বৃত্তাকার পথে",
+    "D": "দোলন পথে"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "একটি বস্তু ১২০ কিমি পথ ৬০ কিমি/ঘণ্টা বেগে যেতে কত সময় লাগবে?",
+   "options": {
+    "A": "১ ঘণ্টা",
+    "B": "২ ঘণ্টা",
+    "C": "৩ ঘণ্টা",
+    "D": "৪ ঘণ্টা"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "একটি বস্তুর বেগ ৪ মি/সে থেকে ১২ মি/সে হতে ৪ সেকেন্ড লাগলে ত্বরণ কত?",
+   "options": {
+    "A": "২ মি/সে²",
+    "B": "৩ মি/সে²",
+    "C": "৪ মি/সে²",
+    "D": "৮ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "বিশ্রাম থেকে ২ মি/সে² ত্বরণে ৩ সেকেন্ড চললে শেষ বেগ কত?",
+   "options": {
+    "A": "৩ মি/সে",
+    "B": "৬ মি/সে",
+    "C": "৯ মি/সে",
+    "D": "১২ মি/সে"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "একটি বস্তুর দূরত্ব-সময় লেখচিত্র সময়ের সাথে বাড়লে বস্তুটি —",
+   "options": {
+    "A": "স্থির",
+    "B": "গতিশীল",
+    "C": "পিছনে যাচ্ছে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "মুক্ত পতনের ত্বরণ কত?",
+   "options": {
+    "A": "শূন্য",
+    "B": "৯.৮ মি/সে²",
+    "C": "১ মি/সে²",
+    "D": "৯৮ মি/সে²"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "বৃত্তাকার পথে চলমান বস্তুর পর্যায়কাল T হলে কৌণিক বেগ ω = ?",
+   "options": {
+    "A": "2π/T",
+    "B": "T/2π",
+    "C": "2πT",
+    "D": "1/T"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "একটি দোলকের দৈর্ঘ্য ১ মিটার হলে দোলনকাল প্রায় কত?",
+   "options": {
+    "A": "১ সেকেন্ড",
+    "B": "২ সেকেন্ড",
+    "C": "৩ সেকেন্ড",
+    "D": "০.৫ সেকেন্ড"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "বৃত্তাকার গতি কাকে বলে?",
+   "options": {
+    "A": "সরলরেখায় গতি",
+    "B": "বৃত্তাকার পথে গতি",
+    "C": "দোলন গতি",
+    "D": "স্থির থাকা"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "৪ মিটার বাহুর বর্গক্ষেত্রের পরিধি বরাবর একবার ঘুরলে দূরত্ব কত?",
+   "options": {
+    "A": "৪ মিটার",
+    "B": "৮ মিটার",
+    "C": "১৬ মিটার",
+    "D": "৩২ মিটার"
+   },
+   "correctAnswer": "C",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "গড় দ্রুতি ও গড় বেগের সম্পর্ক কী?",
+   "options": {
+    "A": "গড় দ্রুতি ≥ গড় বেগ",
+    "B": "গড় দ্রুতি < গড় বেগ",
+    "C": "সবসময় সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "একটি বস্তু ১০ মি/সে বেগে চলছে, ৫ সেকেন্ড পর থেমে গেলে মন্দন কত?",
+   "options": {
+    "A": "২ মি/সে²",
+    "B": "৫ মি/সে²",
+    "C": "১০ মি/সে²",
+    "D": "৫০ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "একটি বস্তুর আদি বেগ ১০ মি/সে, ত্বরণ ৫ মি/সে², সময় ২ সেকেন্ড হলে শেষ বেগ কত?",
+   "options": {
+    "A": "১৫ মি/সে",
+    "B": "২০ মি/সে",
+    "C": "২৫ মি/সে",
+    "D": "৩০ মি/সে"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "দূরত্ব-সময় লেখচিত্রের ঢাল কী নির্দেশ করে?",
+   "options": {
+    "A": "ত্বরণ",
+    "B": "দ্রুতি",
+    "C": "বল",
+    "D": "ভর"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "চাঁদে g এর মান প্রায় কত?",
+   "options": {
+    "A": "১.৬ মি/সে²",
+    "B": "৯.৮ মি/সে²",
+    "C": "৩.৩ মি/সে²",
+    "D": "৬ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "মুক্ত পতন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "সুতায় বাঁধা পাথর ঘোরালে সুতা ছিঁড়ে গেলে পাথর কী দিকে যাবে?",
+   "options": {
+    "A": "কেন্দ্রের দিকে",
+    "B": "স্পর্শকের দিকে",
+    "C": "ব্যাসার্ধের দিকে",
+    "D": "নিচের দিকে"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "কম্পাঙ্কের একক কী?",
+   "options": {
+    "A": "সেকেন্ড",
+    "B": "হার্জ",
+    "C": "মিটার",
+    "D": "রেডিয়ান"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "টেবিল ফ্যানের ব্লেডের গতি কী ধরনের?",
+   "options": {
+    "A": "রৈখিক",
+    "B": "ঘূর্ণন",
+    "C": "দোলন",
+    "D": "স্থির"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "সরণের মান কখনো দূরত্বের চেয়ে —",
+   "options": {
+    "A": "বেশি হয়",
+    "B": "কম হয়",
+    "C": "বেশি বা সমান হয়",
+    "D": "কম বা সমান হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "অসম দ্রুতি কাকে বলে?",
+   "options": {
+    "A": "সমান সময়ে সমান দূরত্ব",
+    "B": "সমান সময়ে অসমান দূরত্ব",
+    "C": "শূন্য দূরত্ব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "একটি বস্তুর বেগ ৩০ মি/সে থেকে ১০ মি/সে হতে ৫ সেকেন্ড লাগলে ত্বরণ কত?",
+   "options": {
+    "A": "−৪ মি/সে²",
+    "B": "−৫ মি/সে²",
+    "C": "৪ মি/সে²",
+    "D": "৫ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "আদি বেগ ৮ মি/সে, ত্বরণ ৪ মি/সে², সময় ২ সেকেন্ড হলে দূরত্ব কত?",
+   "options": {
+    "A": "১৬ মিটার",
+    "B": "২৪ মিটার",
+    "C": "৩২ মিটার",
+    "D": "৮ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "দূরত্ব-সময় লেখচিত্রে ঢাল কম হলে দ্রুতি —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "শূন্য",
+    "D": "সমান"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির লেখচিত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "উপরের দিকে নিক্ষিপ্ত বস্তুর গতি কোন ধরনের?",
+   "options": {
+    "A": "সুষম ত্বরণ",
+    "B": "সুষম মন্দন",
+    "C": "সুষম বেগ",
+    "D": "স্থির"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "৩ কেজি বস্তু ২ মি/সে বেগে ২ মিটার ব্যাসার্ধের বৃত্তে ঘুরলে কেন্দ্রমুখী বল কত?",
+   "options": {
+    "A": "৩ নিউটন",
+    "B": "৬ নিউটন",
+    "C": "৯ নিউটন",
+    "D": "১২ নিউটন"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "একটি দোলক ২ সেকেন্ড দোলনকালের হলে কম্পাঙ্ক কত?",
+   "options": {
+    "A": "২ হার্জ",
+    "B": "০.৫ হার্জ",
+    "C": "৪ হার্জ",
+    "D": "১ হার্জ"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "বৃত্তাকার গতিতে দিক —",
+   "options": {
+    "A": "স্থির",
+    "B": "প্রতিনিয়ত পরিবর্তিত হয়",
+    "C": "কখনো বদলায়",
+    "D": "কখনো বদলায় না"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির প্রকারভেদ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "দূরত্বের একক কী?",
+   "options": {
+    "A": "মিটার",
+    "B": "মিটার/সেকেন্ড",
+    "C": "সেকেন্ড",
+    "D": "রেডিয়ান"
+   },
+   "correctAnswer": "A",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "একটি বস্তু বৃত্তাকার পথে ঘুরে আসলে গড় দ্রুতি কত?",
+   "options": {
+    "A": "শূন্য",
+    "B": "পরিধি/সময়",
+    "C": "ব্যাস/সময়",
+    "D": "অসীম"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "একটি গাড়ি ৪০ মি/সে বেগে চলছিল, ৫ মি/সে² মন্দনে থামতে কত সময় লাগবে?",
+   "options": {
+    "A": "৫ সেকেন্ড",
+    "B": "৮ সেকেন্ড",
+    "C": "৪০ সেকেন্ড",
+    "D": "২০০ সেকেন্ড"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "একটি বস্তু আদি বেগ ০ ও ত্বরণ ২ মি/সে², সরণ ১৬ মিটার হলে শেষ বেগ কত?",
+   "options": {
+    "A": "৪ মি/সে",
+    "B": "৮ মি/সে",
+    "C": "১৬ মি/সে",
+    "D": "৩২ মি/সে"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "বেগ-সময় লেখচিত্রের ক্ষেত্রফল কী নির্দেশ করে?",
+   "options": {
+    "A": "ত্বরণ",
+    "B": "দ্রুতি",
+    "C": "সরণ",
+    "D": "বল"
+   },
+   "correctAnswer": "C",
+   "topic": "গতির লেখচিত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "প্রাসের গতি (projectile) কোন ধরনের গতি?",
+   "options": {
+    "A": "রৈখিক",
+    "B": "দ্বিমাত্রিক",
+    "C": "একমাত্রিক",
+    "D": "স্থির"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "একটি বস্তু ৪ সেকেন্ডে ১ বার বৃত্ত ঘুরলে কৌণিক বেগ কত?",
+   "options": {
+    "A": "π/২ রেড/সে",
+    "B": "π/৪ রেড/সে",
+    "C": "২π রেড/সে",
+    "D": "π রেড/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "সরল দোলকের দোলনকাল বস্তুর ভরের উপর —",
+   "options": {
+    "A": "নির্ভর করে",
+    "B": "নির্ভর করে না",
+    "C": "সমানুপাতিক",
+    "D": "ব্যস্তানুপাতিক"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "একটি বস্তু ৪ মিটার পশ্চিমে ও ৩ মিটার দক্ষিণে গেলে সরণ কত?",
+   "options": {
+    "A": "৭ মিটার",
+    "B": "৫ মিটার",
+    "C": "১ মিটার",
+    "D": "১২ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "বৃত্তাকার পথে সুষম দ্রুতিতে চলা বস্তুর বেগ —",
+   "options": {
+    "A": "সুষম",
+    "B": "অসমান",
+    "C": "শূন্য",
+    "D": "অসীম"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "ত্বরণ ও বেগের দিক বিপরীত হলে গতি কীরূপ?",
+   "options": {
+    "A": "ত্বরণযুক্ত",
+    "B": "মন্দনযুক্ত",
+    "C": "সুষম",
+    "D": "স্থির"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "গতির তৃতীয় সমীকরণ কোনটি?",
+   "options": {
+    "A": "v = u + at",
+    "B": "s = ut + ½at²",
+    "C": "v² = u² + 2as",
+    "D": "s = ut"
+   },
+   "correctAnswer": "C",
+   "topic": "গতির সমীকরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "একটি বস্তু দোলন গতিতে চললে তার গতি —",
+   "options": {
+    "A": "সরলরৈখিক",
+    "B": "নির্দিষ্ট বিন্দুর দুপাশে",
+    "C": "বৃত্তাকার",
+    "D": "স্থির"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "অভিকর্ষজ ত্বরণের প্রতীক কী?",
+   "options": {
+    "A": "a",
+    "B": "g",
+    "C": "v",
+    "D": "F"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "একটি চাকা ২π রেডিয়ান কোণ ২ সেকেন্ডে ঘুরলে কৌণিক বেগ কত?",
+   "options": {
+    "A": "π রেড/সে",
+    "B": "২π রেড/সে",
+    "C": "π/২ রেড/সে",
+    "D": "৪π রেড/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "একটি দোলক ৮ সেকেন্ডে ৪টি দোলন দিলে দোলনকাল কত?",
+   "options": {
+    "A": "২ সেকেন্ড",
+    "B": "৪ সেকেন্ড",
+    "C": "৮ সেকেন্ড",
+    "D": "০.৫ সেকেন্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "দূরত্ব কোন ধরনের রাশি?",
+   "options": {
+    "A": "ভেক্টর",
+    "B": "স্কেলার",
+    "C": "মাত্রাহীন",
+    "D": "লব্ধ ভেক্টর"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "একটি গাড়ি ৩০ মি/সে বেগে ২ সেকেন্ড চললে সরণ কত?",
+   "options": {
+    "A": "৬০ মিটার",
+    "B": "১৫ মিটার",
+    "C": "৩২ মিটার",
+    "D": "২৮ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "ত্বরণের মাত্রা কোনটি?",
+   "options": {
+    "A": "[LT⁻¹]",
+    "B": "[LT⁻²]",
+    "C": "[MLT⁻²]",
+    "D": "[LT²]"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "আদি বেগ ৩ মি/সে, ত্বরণ ২ মি/সে², সরণ ১০ মিটার হলে শেষ বেগ² কত?",
+   "options": {
+    "A": "৯",
+    "B": "২৯",
+    "C": "৪৯",
+    "D": "৬৯"
+   },
+   "correctAnswer": "C",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "দূরত্ব-সময় লেখচিত্রে স্থির বস্তুকে কীভাবে দেখানো হয়?",
+   "options": {
+    "A": "ঢালু রেখা",
+    "B": "সময় অক্ষের সমান্তরাল রেখা",
+    "C": "বক্ররেখা",
+    "D": "উল্লম্ব রেখা"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "একটি বস্তু ২ সেকেন্ড মুক্ত পতনে পড়লে দূরত্ব কত?",
+   "options": {
+    "A": "৯.৮ মিটার",
+    "B": "১৯.৬ মিটার",
+    "C": "৪.৯ মিটার",
+    "D": "৩৯.২ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "বৃত্তাকার পথে চলা বস্তুর উপর কেন্দ্রমুখী বল কাজ করে —",
+   "options": {
+    "A": "না",
+    "B": "হ্যাঁ",
+    "C": "কখনো করে",
+    "D": "কখনো করে না"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "দোলনকাল T ও কম্পাঙ্ক f এর গুণফল কী?",
+   "options": {
+    "A": "১",
+    "B": "২",
+    "C": "১০",
+    "D": "০"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "সরণ কোন ধরনের রাশি?",
+   "options": {
+    "A": "স্কেলার",
+    "B": "ভেক্টর",
+    "C": "মাত্রাহীন",
+    "D": "মৌলিক"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "বেগ কী?",
+   "options": {
+    "A": "একক সময়ে দূরত্ব",
+    "B": "একক সময়ে সরণ",
+    "C": "একক সময়ে ত্বরণ",
+    "D": "একক সময়ে বল"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "বেগের মান পরিবর্তিত হয়ে যে ত্বরণ হয় তা কী?",
+   "options": {
+    "A": "দিক পরিবর্তন",
+    "B": "মান পরিবর্তনের ত্বরণ",
+    "C": "কেন্দ্রমুখী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "একটি বস্তুর আদি বেগ ১০ মি/সে, ত্বরণ শূন্য হলে ৫ সেকেন্ডে দূরত্ব কত?",
+   "options": {
+    "A": "১০ মিটার",
+    "B": "৫০ মিটার",
+    "C": "১৫ মিটার",
+    "D": "২ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "দূরত্ব-সময় লেখচিত্র সময় অক্ষের সমান্তরাল হলে বস্তুর গতি কীরূপ?",
+   "options": {
+    "A": "স্থির",
+    "B": "সুষম",
+    "C": "ত্বরণযুক্ত",
+    "D": "মন্দনযুক্ত"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির লেখচিত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "অনুভূমিকভাবে নিক্ষিপ্ত বস্তুর গতিপথ কী?",
+   "options": {
+    "A": "সরলরেখা",
+    "B": "পরাবৃত্ত",
+    "C": "বৃত্ত",
+    "D": "উপবৃত্ত"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "সুষম বৃত্তাকার গতিতে ত্বরণের দিক —",
+   "options": {
+    "A": "স্পর্শকের দিকে",
+    "B": "কেন্দ্রের দিকে",
+    "C": "বাইরের দিকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "একটি দোলক ০.৪ সেকেন্ড দোলনকালের হলে কম্পাঙ্ক কত?",
+   "options": {
+    "A": "২.৫ হার্জ",
+    "B": "০.৪ হার্জ",
+    "C": "৪ হার্জ",
+    "D": "৫ হার্জ"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "একটি বস্তুর সরণ শূন্য কিন্তু দূরত্ব অশূন্য — এটি সম্ভব কী গতিতে?",
+   "options": {
+    "A": "সরলরৈখিক",
+    "B": "বৃত্তাকার",
+    "C": "একমুখী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "একটি বস্তুর বেগ ৪ মি/সে, সময় ৩ সেকেন্ড হলে সরণ কত?",
+   "options": {
+    "A": "১২ মিটার",
+    "B": "৭ মিটার",
+    "C": "১ মিটার",
+    "D": "৪৮ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "ত্বরণ ও বেগের দিক একই হলে গতি কীরূপ?",
+   "options": {
+    "A": "মন্দনযুক্ত",
+    "B": "ত্বরণযুক্ত",
+    "C": "সুষম",
+    "D": "স্থির"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "একটি বস্তুর আদি বেগ ১৫ মি/সে ও ত্বরণ ২ মি/সে² হলে ৫ সেকেন্ডে দূরত্ব কত?",
+   "options": {
+    "A": "৭৫ মিটার",
+    "B": "১০০ মিটার",
+    "C": "১২৫ মিটার",
+    "D": "৫০ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "গতির লেখচিত্রে সময় সবসময় কোন অক্ষে থাকে?",
+   "options": {
+    "A": "উল্লম্ব",
+    "B": "অনুভূমিক",
+    "C": "দুটোতেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "উপরের দিকে ৯.৮ মি/সে বেগে নিক্ষিপ্ত বস্তু সর্বোচ্চ কত উচ্চতায় উঠবে?",
+   "options": {
+    "A": "৪.৯ মিটার",
+    "B": "৯.৮ মিটার",
+    "C": "১৯.৬ মিটার",
+    "D": "২৯.৪ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "২ কেজি ভরের বস্তু ৩ মি/সে বেগে ২ মিটার ব্যাসার্ধের বৃত্তে ঘুরলে কেন্দ্রমুখী বল কত?",
+   "options": {
+    "A": "৩ নিউটন",
+    "B": "৬ নিউটন",
+    "C": "৯ নিউটন",
+    "D": "১২ নিউটন"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "কম্পাঙ্ক f ও দোলনকাল T এর সম্পর্ক কোনটি?",
+   "options": {
+    "A": "f = 1/T",
+    "B": "f = T",
+    "C": "f = T²",
+    "D": "f = 2T"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "একটি বস্তু ৪ মিটার পূর্বে ও ৩ মিটার উত্তরে গেলে সরণ কত?",
+   "options": {
+    "A": "৭ মিটার",
+    "B": "৫ মিটার",
+    "C": "১ মিটার",
+    "D": "১২ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "১০ মি/সে সমান কত কিমি/ঘণ্টা?",
+   "options": {
+    "A": "১৮",
+    "B": "৩৬",
+    "C": "৫৪",
+    "D": "৭২"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "একটি বস্তুর বেগ ৮ মি/সে থেকে ২ মি/সে হতে ৩ সেকেন্ড লাগলে ত্বরণ কত?",
+   "options": {
+    "A": "২ মি/সে²",
+    "B": "−২ মি/সে²",
+    "C": "−৩ মি/সে²",
+    "D": "৩ মি/সে²"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "একটি বস্তু আদি বেগ ০ ও ত্বরণ ২ মি/সে², সরণ ৯ মিটার হলে শেষ বেগ কত?",
+   "options": {
+    "A": "৩ মি/সে",
+    "B": "৬ মি/সে",
+    "C": "৯ মি/সে",
+    "D": "১৮ মি/সে"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "একটি বস্তু সুষম বেগে চললে বেগ-সময় লেখচিত্র কীরূপ?",
+   "options": {
+    "A": "ঢালু রেখা",
+    "B": "সময় অক্ষের সমান্তরাল",
+    "C": "উল্লম্ব রেখা",
+    "D": "বক্ররেখা"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "একটি বস্তু ২ সেকেন্ড মুক্ত পতনে পড়লে শেষ বেগ কত?",
+   "options": {
+    "A": "৯.৮ মি/সে",
+    "B": "১৯.৬ মি/সে",
+    "C": "৪.৯ মি/সে",
+    "D": "৩৯.২ মি/সে"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "কেন্দ্রমুখী বলের কারণে বস্তু —",
+   "options": {
+    "A": "বাইরে ছিটকে পড়ে",
+    "B": "বৃত্তাকার পথে থাকে",
+    "C": "থেমে যায়",
+    "D": "সরলরেখায় যায়"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "একটি দোলক ১ মিনিটে ৩০টি দোলন দিলে দোলনকাল কত?",
+   "options": {
+    "A": "২ সেকেন্ড",
+    "B": "০.৫ সেকেন্ড",
+    "C": "৩০ সেকেন্ড",
+    "D": "১ সেকেন্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "দূরত্ব ও সরণের মধ্যে কোনটি বড় হতে পারে?",
+   "options": {
+    "A": "সবসময় সরণ",
+    "B": "সবসময় দূরত্ব",
+    "C": "কখনো দূরত্ব, কখনো সমান",
+    "D": "সবসময় সমান"
+   },
+   "correctAnswer": "C",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "গড় বেগ নির্ণয়ের সূত্র কোনটি?",
+   "options": {
+    "A": "মোট দূরত্ব/মোট সময়",
+    "B": "মোট সরণ/মোট সময়",
+    "C": "দূরত্ব × সময়",
+    "D": "সরণ × সময়"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "একটি গাড়ি ৩৬ মি/সে বেগে চলছিল, ৬ সেকেন্ডে থামলে মন্দন কত?",
+   "options": {
+    "A": "৬ মি/সে²",
+    "B": "১২ মি/সে²",
+    "C": "৩৬ মি/সে²",
+    "D": "১৮ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "একটি বস্তু আদি বেগ ৫ মি/সে ও ত্বরণ ৪ মি/সে² হলে ৩ সেকেন্ডে দূরত্ব কত?",
+   "options": {
+    "A": "১৫ মিটার",
+    "B": "৩৩ মিটার",
+    "C": "২৭ মিটার",
+    "D": "৪৫ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "বেগ-সময় লেখচিত্রে উল্লম্ব অক্ষে কী থাকে?",
+   "options": {
+    "A": "সময়",
+    "B": "বেগ",
+    "C": "দূরত্ব",
+    "D": "ত্বরণ"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির লেখচিত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "উপরের দিকে ১৯.৬ মি/সে বেগে নিক্ষিপ্ত বস্তু ভূমিতে ফিরতে মোট কত সময় লাগবে?",
+   "options": {
+    "A": "২ সেকেন্ড",
+    "B": "৪ সেকেন্ড",
+    "C": "৬ সেকেন্ড",
+    "D": "৮ সেকেন্ড"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "একটি বস্তু ২ মিটার ব্যাসার্ধের বৃত্তে ৪ মি/সে বেগে ঘুরলে কেন্দ্রমুখী ত্বরণ কত?",
+   "options": {
+    "A": "৪ মি/সে²",
+    "B": "৮ মি/সে²",
+    "C": "২ মি/সে²",
+    "D": "১৬ মি/সে²"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "দোলকের দৈর্ঘ্য ৪ গুণ করলে দোলনকাল কত গুণ হয়?",
+   "options": {
+    "A": "২",
+    "B": "৪",
+    "C": "৮",
+    "D": "১৬"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "একটি বস্তু বৃত্তাকার পথে পুরো ঘুরে আসলে দূরত্ব কত?",
+   "options": {
+    "A": "শূন্য",
+    "B": "পরিধি",
+    "C": "ব্যাস",
+    "D": "ব্যাসার্ধ"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "১৫ মি/সে = কত কিমি/ঘণ্টা?",
+   "options": {
+    "A": "৫৪",
+    "B": "৪৫",
+    "C": "৩০",
+    "D": "৬০"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "একটি বস্তুর বেগ ০ থেকে ১০ মি/সে হতে ২ সেকেন্ড লাগলে ত্বরণ কত?",
+   "options": {
+    "A": "২ মি/সে²",
+    "B": "৫ মি/সে²",
+    "C": "১০ মি/সে²",
+    "D": "২০ মি/সে²"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "ত্বরণ শূন্য হলে গতি কীরূপ?",
+   "options": {
+    "A": "সুষম",
+    "B": "অসম",
+    "C": "মন্দনযুক্ত",
+    "D": "স্থির"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "মুক্ত পতনে আদি বেগ কত?",
+   "options": {
+    "A": "শূন্য",
+    "B": "g",
+    "C": "৯.৮",
+    "D": "অসীম"
+   },
+   "correctAnswer": "A",
+   "topic": "মুক্ত পতন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "বৃত্তাকার গতিতে কৌণিক সরণের একক কী?",
+   "options": {
+    "A": "মিটার",
+    "B": "রেডিয়ান",
+    "C": "সেকেন্ড",
+    "D": "হার্জ"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "দোলকের দৈর্ঘ্য ৯ গুণ করলে দোলনকাল কত গুণ হয়?",
+   "options": {
+    "A": "৩",
+    "B": "৯",
+    "C": "৬",
+    "D": "২৭"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "একটি বস্তু ৫ মিটার উপরে উঠে ফিরে আসলে সরণ কত?",
+   "options": {
+    "A": "১০ মিটার",
+    "B": "৫ মিটার",
+    "C": "শূন্য",
+    "D": "২৫ মিটার"
+   },
+   "correctAnswer": "C",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "একটি বস্তু ৯ মি/সে দ্রুতিতে ৫ সেকেন্ড চললে দূরত্ব কত?",
+   "options": {
+    "A": "৪৫ মিটার",
+    "B": "১৪ মিটার",
+    "C": "৫৪ মিটার",
+    "D": "৪.৫ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "বেগের দিক পরিবর্তিত হয়ে যে ত্বরণ হয় তা কী?",
+   "options": {
+    "A": "মান পরিবর্তন",
+    "B": "দিক পরিবর্তনের ত্বরণ",
+    "C": "মন্দন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "v² = u² + 2as সমীকরণে s কী?",
+   "options": {
+    "A": "সরণ",
+    "B": "দ্রুতি",
+    "C": "বেগ",
+    "D": "ত্বরণ"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির সমীকরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "গ্যালিলিও কোন শহরের হেলানো মিনার থেকে পরীক্ষা করেন?",
+   "options": {
+    "A": "প্যারিস",
+    "B": "পিসা",
+    "C": "লন্ডন",
+    "D": "রোম"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "একটি বস্তু বৃত্তে ঘুরলে তার সরণ প্রতি মুহূর্তে —",
+   "options": {
+    "A": "স্থির",
+    "B": "পরিবর্তিত হয়",
+    "C": "শূন্য",
+    "D": "অসীম"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "একটি দোলক ১ মিনিটে ১২০টি দোলন দিলে কম্পাঙ্ক কত?",
+   "options": {
+    "A": "২ হার্জ",
+    "B": "০.৫ হার্জ",
+    "C": "১২০ হার্জ",
+    "D": "৬০ হার্জ"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "একটি বস্তু ৬ মিটার উত্তরে ও ৮ মিটার পূর্বে গেলে সরণ কত?",
+   "options": {
+    "A": "১৪ মিটার",
+    "B": "১০ মিটার",
+    "C": "২ মিটার",
+    "D": "৪৮ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "৭২ কিমি/ঘণ্টা সমান কত মিটার/সেকেন্ড?",
+   "options": {
+    "A": "১০ মি/সে",
+    "B": "২০ মি/সে",
+    "C": "৩০ মি/সে",
+    "D": "৪০ মি/সে"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "একটি বস্তুর বেগ ৫ সেকেন্ডে ১০ মি/সে থেকে ২০ মি/সে হলে ত্বরণ কত?",
+   "options": {
+    "A": "২ মি/সে²",
+    "B": "৫ মি/সে²",
+    "C": "১০ মি/সে²",
+    "D": "৩ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "গতির সমীকরণগুলো কত মাত্রার ত্বরণের জন্য প্রযোজ্য?",
+   "options": {
+    "A": "পরিবর্তনশীল",
+    "B": "সুষম",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "মুক্ত পতনে ৩ সেকেন্ডে শেষ বেগ কত?",
+   "options": {
+    "A": "৯.৮ মি/সে",
+    "B": "১৯.৬ মি/সে",
+    "C": "২৯.৪ মি/সে",
+    "D": "৩৯.২ মি/সে"
+   },
+   "correctAnswer": "C",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "১ কেজি বস্তু ৪ মি/সে বেগে ৪ মিটার ব্যাসার্ধের বৃত্তে ঘুরলে কেন্দ্রমুখী ত্বরণ কত?",
+   "options": {
+    "A": "১ মি/সে²",
+    "B": "৪ মি/সে²",
+    "C": "৮ মি/সে²",
+    "D": "১৬ মি/সে²"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "কম্পাঙ্কের একক হার্জ এর অপর নাম কী?",
+   "options": {
+    "A": "সেকেন্ড",
+    "B": "প্রতি সেকেন্ড",
+    "C": "মিটার",
+    "D": "রেডিয়ান"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "একটি বস্তু ৯ মিটার পূর্বে ও ১২ মিটার উত্তরে গেলে সরণ কত?",
+   "options": {
+    "A": "১৫ মিটার",
+    "B": "২১ মিটার",
+    "C": "৩ মিটার",
+    "D": "১০৮ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "দূরত্ব ও সরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "একটি বস্তু ২৫ মিটার দূরত্ব ৫ সেকেন্ডে গেলে দ্রুতি কত?",
+   "options": {
+    "A": "৫ মি/সে",
+    "B": "২০ মি/সে",
+    "C": "২৫ মি/সে",
+    "D": "১২৫ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "একটি বস্তুর বেগ প্রতি সেকেন্ডে ২ মি/সে হারে কমলে ত্বরণ কত?",
+   "options": {
+    "A": "২ মি/সে²",
+    "B": "−২ মি/সে²",
+    "C": "৪ মি/সে²",
+    "D": "−৪ মি/সে²"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "একটি বস্তুর আদি বেগ ১২ মি/সে ও ত্বরণ ৩ মি/সে² হলে ৪ সেকেন্ডে দূরত্ব কত?",
+   "options": {
+    "A": "৪৮ মিটার",
+    "B": "৭২ মিটার",
+    "C": "২৪ মিটার",
+    "D": "৬০ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "একটি বস্তু ১০০ মিটার উচ্চতা থেকে পড়লে ভূমিতে পৌঁছাতে কত সময় লাগবে?",
+   "options": {
+    "A": "৩ সেকেন্ড",
+    "B": "৪.৫ সেকেন্ড",
+    "C": "৫ সেকেন্ড",
+    "D": "৬ সেকেন্ড"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "বৃত্তাকার গতিতে দ্রুতি সুষম হলেও বেগ —",
+   "options": {
+    "A": "সুষম",
+    "B": "অসম",
+    "C": "শূন্য",
+    "D": "অসীম"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "দোলকের দৈর্ঘ্য ২৫ সেমি ও g = ৯.৮ মি/সে² হলে দোলনকাল কত?",
+   "options": {
+    "A": "≈১ সেকেন্ড",
+    "B": "≈২ সেকেন্ড",
+    "C": "≈০.৫ সেকেন্ড",
+    "D": "≈৩ সেকেন্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "একটি গাড়ি ১০০ মিটার পথ ২০ সেকেন্ডে অতিক্রম করলে দ্রুতি কত?",
+   "options": {
+    "A": "৫ মি/সে",
+    "B": "১০ মি/সে",
+    "C": "২০ মি/সে",
+    "D": "২০০০ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "একটি বস্তুর ত্বরণ ধনাত্মক হলে বেগ —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "স্থির থাকে",
+    "D": "শূন্য হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "গতির সমীকরণগুলো রৈখিক গতির জন্য —",
+   "options": {
+    "A": "প্রযোজ্য",
+    "B": "প্রযোজ্য নয়",
+    "C": "কখনো প্রযোজ্য",
+    "D": "কখনো প্রযোজ্য নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "পৃথিবীর কেন্দ্রে অভিকর্ষজ ত্বরণ কত?",
+   "options": {
+    "A": "সর্বোচ্চ",
+    "B": "শূন্য",
+    "C": "৯.৮",
+    "D": "অসীম"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "রৈখিক বেগ v ও কৌণিক বেগ ω এর সম্পর্ক কী?",
+   "options": {
+    "A": "v = rω",
+    "B": "v = ω/r",
+    "C": "v = r/ω",
+    "D": "v = ω²r"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "সরল দোলকের দোলনকাল কোনটির উপর নির্ভর করে?",
+   "options": {
+    "A": "ভর",
+    "B": "দৈর্ঘ্য",
+    "C": "বিস্তার",
+    "D": "রং"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "একটি বস্তু ৮০ মিটার সরণ ৪ সেকেন্ডে সম্পন্ন করলে বেগ কত?",
+   "options": {
+    "A": "২০ মি/সে",
+    "B": "৪০ মি/সে",
+    "C": "৮০ মি/সে",
+    "D": "১৬ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "ত্বরণ নির্ণয়ের সূত্র কোনটি?",
+   "options": {
+    "A": "(v−u)/t",
+    "B": "(v+u)/t",
+    "C": "v×t",
+    "D": "u/t"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "আদি বেগ ৫ মি/সে, ত্বরণ ২ মি/সে², সময় ৩ সেকেন্ড হলে দূরত্ব কত?",
+   "options": {
+    "A": "১৫ মিটার",
+    "B": "২৪ মিটার",
+    "C": "৩০ মিটার",
+    "D": "৪৫ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "একটি পাথর ৫০ মিটার উঁচু থেকে ফেলা হলে ভূমিতে আঘাতের বেগ কত?",
+   "options": {
+    "A": "৩১.৩ মি/সে",
+    "B": "৪৯ মি/সে",
+    "C": "২৫ মি/সে",
+    "D": "৯৮ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "একটি বস্তু ৪ মিটার ব্যাসার্ধের বৃত্তে ২ মি/সে বেগে ঘুরলে কেন্দ্রমুখী ত্বরণ কত?",
+   "options": {
+    "A": "১ মি/সে²",
+    "B": "২ মি/সে²",
+    "C": "৪ মি/সে²",
+    "D": "৮ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "একটি দোলকের দোলনকাল ২ সেকেন্ড হলে কম্পাঙ্ক কত?",
+   "options": {
+    "A": "০.৫ হার্জ",
+    "B": "২ হার্জ",
+    "C": "৪ হার্জ",
+    "D": "১ হার্জ"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "একটি বস্তু ৯০ কিমি পথ ৪৫ কিমি/ঘণ্টা বেগে যেতে কত সময় লাগবে?",
+   "options": {
+    "A": "১ ঘণ্টা",
+    "B": "২ ঘণ্টা",
+    "C": "৩ ঘণ্টা",
+    "D": "৪ ঘণ্টা"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "একটি গাড়ির বেগ ৪ সেকেন্ডে ০ থেকে ২০ মি/সে হলে ত্বরণ কত?",
+   "options": {
+    "A": "৪ মি/সে²",
+    "B": "৫ মি/সে²",
+    "C": "২০ মি/সে²",
+    "D": "৮০ মি/সে²"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "গতির দ্বিতীয় সমীকরণ কোনটি?",
+   "options": {
+    "A": "v = u + at",
+    "B": "s = ut + ½at²",
+    "C": "v² = u² + 2as",
+    "D": "s = vt"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "একটি বস্তু উপর থেকে পড়ে ৩ সেকেন্ডে ভূমিতে পৌঁছায়। উচ্চতা কত?",
+   "options": {
+    "A": "৪৪.১ মিটার",
+    "B": "২৯.৪ মিটার",
+    "C": "১৪.৭ মিটার",
+    "D": "৮৮.২ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "একটি বস্তু r ব্যাসার্ধের বৃত্তে v বেগে ঘুরলে কেন্দ্রমুখী ত্বরণ কত?",
+   "options": {
+    "A": "v²/r",
+    "B": "v/r",
+    "C": "r/v",
+    "D": "vr"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "দোলকের দৈর্ঘ্য অর্ধেক করলে দোলনকাল কী হয়?",
+   "options": {
+    "A": "দ্বিগুণ",
+    "B": "√২ গুণ কমে",
+    "C": "অর্ধেক",
+    "D": "চার গুণ"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "১৮ কিমি/ঘণ্টা = কত মিটার/সেকেন্ড?",
+   "options": {
+    "A": "৫ মি/সে",
+    "B": "১০ মি/সে",
+    "C": "১৮ মি/সে",
+    "D": "২০ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "একটি বস্তুর আদি বেগ ১০ মি/সে, ত্বরণ ২ মি/সে² হলে ৩ সেকেন্ড পর বেগ কত?",
+   "options": {
+    "A": "১৩ মি/সে",
+    "B": "১৬ মি/সে",
+    "C": "২০ মি/সে",
+    "D": "২৩ মি/সে"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "একটি বস্তু স্থির অবস্থা থেকে ৪ মি/সে² ত্বরণে ৩ সেকেন্ড চললে শেষ বেগ কত?",
+   "options": {
+    "A": "৪ মি/সে",
+    "B": "৮ মি/সে",
+    "C": "১২ মি/সে",
+    "D": "১৬ মি/সে"
+   },
+   "correctAnswer": "C",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "একটি বস্তু ৭৮.৪ মিটার থেকে পড়লে কত সময় লাগবে?",
+   "options": {
+    "A": "২ সেকেন্ড",
+    "B": "৩ সেকেন্ড",
+    "C": "৪ সেকেন্ড",
+    "D": "৫ সেকেন্ড"
+   },
+   "correctAnswer": "C",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "১ কেজি ভরের বস্তু ২ মি/সে বেগে ১ মিটার ব্যাসার্ধের বৃত্তে ঘুরলে কেন্দ্রমুখী বল কত?",
+   "options": {
+    "A": "১ নিউটন",
+    "B": "২ নিউটন",
+    "C": "৪ নিউটন",
+    "D": "৮ নিউটন"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "দোলকের দৈর্ঘ্য ০.২৫ মিটার হলে দোলনকাল প্রায় কত?",
+   "options": {
+    "A": "০.৫ সেকেন্ড",
+    "B": "১ সেকেন্ড",
+    "C": "২ সেকেন্ড",
+    "D": "৪ সেকেন্ড"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "একটি বস্তুর দ্রুতি ২০ মি/সে, সময় ৪ সেকেন্ড হলে দূরত্ব কত?",
+   "options": {
+    "A": "৫ মিটার",
+    "B": "৮০ মিটার",
+    "C": "২৪ মিটার",
+    "D": "১৬ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "একটি বস্তুর বেগ প্রতি সেকেন্ডে ৩ মি/সে হারে বাড়লে ত্বরণ কত?",
+   "options": {
+    "A": "৩ মি/সে²",
+    "B": "৬ মি/সে²",
+    "C": "৯ মি/সে²",
+    "D": "১ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "একটি গাড়ি ৩০ মি/সে বেগে চলছিল, ৩ মি/সে² মন্দনে থামতে কত দূরত্ব যাবে?",
+   "options": {
+    "A": "১৫০ মিটার",
+    "B": "৩০০ মিটার",
+    "C": "৪৫ মিটার",
+    "D": "৩০ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "উপরের দিকে ১৯.৬ মি/সে বেগে নিক্ষিপ্ত বস্তু সর্বোচ্চ বিন্দুতে পৌঁছাতে কত সময় লাগবে?",
+   "options": {
+    "A": "১ সেকেন্ড",
+    "B": "২ সেকেন্ড",
+    "C": "৩ সেকেন্ড",
+    "D": "৪ সেকেন্ড"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "১ কেজি বস্তু ১ মি/সে বেগে ১ মিটার ব্যাসার্ধের বৃত্তে ঘুরলে কেন্দ্রমুখী বল কত?",
+   "options": {
+    "A": "১ নিউটন",
+    "B": "২ নিউটন",
+    "C": "০.৫ নিউটন",
+    "D": "৪ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "দোলন গতির উদাহরণ কোনটি?",
+   "options": {
+    "A": "ট্রেনের গতি",
+    "B": "দোলকের গতি",
+    "C": "গাড়ির গতি",
+    "D": "পাখির গতি"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "একটি গাড়ি ৯০ কিমি/ঘণ্টা বেগে চললে মিটার/সেকেন্ডে কত?",
+   "options": {
+    "A": "২৫ মি/সে",
+    "B": "৩০ মি/সে",
+    "C": "৯০ মি/সে",
+    "D": "১৫ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "বেগ কমে গেলে তাকে কী বলে?",
+   "options": {
+    "A": "ত্বরণ",
+    "B": "মন্দন",
+    "C": "সুষম বেগ",
+    "D": "গড় বেগ"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "গতির প্রথম সমীকরণ কোনটি?",
+   "options": {
+    "A": "v = u + at",
+    "B": "s = ut + ½at²",
+    "C": "v² = u² + 2as",
+    "D": "F = ma"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির সমীকরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "একটি বস্তু ৪৫ মিটার উচ্চতা থেকে পড়লে ভূমিতে পৌঁছাতে কত সময় লাগবে?",
+   "options": {
+    "A": "২ সেকেন্ড",
+    "B": "৩ সেকেন্ড",
+    "C": "৪ সেকেন্ড",
+    "D": "৫ সেকেন্ড"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "একটি বস্তু ৩ মি/সে বেগে ৩ মিটার ব্যাসার্ধের বৃত্তে ঘুরলে কেন্দ্রমুখী ত্বরণ কত?",
+   "options": {
+    "A": "১ মি/সে²",
+    "B": "৩ মি/সে²",
+    "C": "৬ মি/সে²",
+    "D": "৯ মি/সে²"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "একটি দোলক ১০ সেকেন্ডে ২০টি দোলন দিলে দোলনকাল কত?",
+   "options": {
+    "A": "০.৫ সেকেন্ড",
+    "B": "২ সেকেন্ড",
+    "C": "২০ সেকেন্ড",
+    "D": "১০ সেকেন্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "একটি গাড়ি ৫০ কিমি/ঘণ্টা বেগে ৩ ঘণ্টা চলে। দূরত্ব কত?",
+   "options": {
+    "A": "১০০ কিমি",
+    "B": "১৫০ কিমি",
+    "C": "৫০ কিমি",
+    "D": "২০০ কিমি"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "একটি বস্তু সুষম বেগে চললে ত্বরণ কত?",
+   "options": {
+    "A": "শূন্য",
+    "B": "ধনাত্মক",
+    "C": "ঋণাত্মক",
+    "D": "অসীম"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "একটি বস্তু স্থির থেকে ৫ মি/সে² ত্বরণে ২ সেকেন্ড চললে দূরত্ব কত?",
+   "options": {
+    "A": "৫ মিটার",
+    "B": "১০ মিটার",
+    "C": "২০ মিটার",
+    "D": "২৫ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "মুক্ত পতনশীল বস্তুর প্রতিটি সেকেন্ডে বেগ কত বাড়ে?",
+   "options": {
+    "A": "৪.৯ মি/সে",
+    "B": "৯.৮ মি/সে",
+    "C": "১৯.৬ মি/সে",
+    "D": "২৯.৪ মি/সে"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "কৌণিক বেগ ও রৈখিক বেগের সম্পর্ক v = rω এ r কী?",
+   "options": {
+    "A": "ব্যাস",
+    "B": "ব্যাসার্ধ",
+    "C": "পরিধি",
+    "D": "কর্ণ"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "গ্যালিলিও কোন বস্তুর দোলন পর্যবেক্ষণ করে দোলকের সূত্র পান?",
+   "options": {
+    "A": "দোলনা",
+    "B": "ঝুলন্ত বাতি",
+    "C": "ঘড়ি",
+    "D": "পাখা"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "একটি বস্তু ১৮০ কিমি পথ ৬০ কিমি/ঘণ্টা বেগে যেতে কত সময় লাগবে?",
+   "options": {
+    "A": "২ ঘণ্টা",
+    "B": "৩ ঘণ্টা",
+    "C": "৪ ঘণ্টা",
+    "D": "৫ ঘণ্টা"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "একটি বস্তুর বেগ ০ থেকে ১২ মি/সে হতে ৩ সেকেন্ড লাগলে ত্বরণ কত?",
+   "options": {
+    "A": "৩ মি/সে²",
+    "B": "৪ মি/সে²",
+    "C": "১২ মি/সে²",
+    "D": "৩৬ মি/সে²"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "একটি বস্তু আদি বেগ ১০ মি/সে ও ত্বরণ ২ মি/সে² হলে ২ সেকেন্ডে দূরত্ব কত?",
+   "options": {
+    "A": "২০ মিটার",
+    "B": "২৪ মিটার",
+    "C": "২৮ মিটার",
+    "D": "১২ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "অভিকর্ষজ ত্বরণের মান কত?",
+   "options": {
+    "A": "৯.৮ মি/সে²",
+    "B": "৯.৮ সেমি/সে²",
+    "C": "৯৮ মি/সে²",
+    "D": "৯.৮ কিমি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "মুক্ত পতন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "কৌণিক বেগের একক কী?",
+   "options": {
+    "A": "রেডিয়ান/সেকেন্ড",
+    "B": "মিটার/সেকেন্ড",
+    "C": "রেডিয়ান",
+    "D": "সেকেন্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "দোলকের দৈর্ঘ্য ১৬ গুণ করলে দোলনকাল কত গুণ হয়?",
+   "options": {
+    "A": "২",
+    "B": "৪",
+    "C": "৮",
+    "D": "১৬"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "একটি বস্তু ৪৫ মিটার পথ ৯ সেকেন্ডে গেলে দ্রুতি কত?",
+   "options": {
+    "A": "৫ মি/সে",
+    "B": "৯ মি/সে",
+    "C": "৪৫ মি/সে",
+    "D": "৩৬ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "একটি গাড়ি ১৫ মি/সে বেগে চলছিল, ৩ সেকেন্ডে থামলে মন্দন কত?",
+   "options": {
+    "A": "৫ মি/সে²",
+    "B": "১৫ মি/সে²",
+    "C": "৪৫ মি/সে²",
+    "D": "৩ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "গতির সমীকরণ কে প্রতিষ্ঠা করেন?",
+   "options": {
+    "A": "নিউটন",
+    "B": "গ্যালিলিও",
+    "C": "আইনস্টাইন",
+    "D": "কেপলার"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির সমীকরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "অভিকর্ষজ ত্বরণ কোথায় সর্বোচ্চ?",
+   "options": {
+    "A": "বিষুবরেখায়",
+    "B": "মেরু অঞ্চলে",
+    "C": "সব জায়গায় সমান",
+    "D": "উঁচু পাহাড়ে"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "একটি চাকা ১ মিনিটে ৬০ বার ঘুরলে কম্পাঙ্ক কত?",
+   "options": {
+    "A": "১ হার্জ",
+    "B": "৬০ হার্জ",
+    "C": "২ হার্জ",
+    "D": "০.৫ হার্জ"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "একটি দোলকের কম্পাঙ্ক ২ হার্জ হলে দোলনকাল কত?",
+   "options": {
+    "A": "০.৫ সেকেন্ড",
+    "B": "২ সেকেন্ড",
+    "C": "৪ সেকেন্ড",
+    "D": "১ সেকেন্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "সুষম বেগ কাকে বলে?",
+   "options": {
+    "A": "মান ও দিক উভয়ই স্থির",
+    "B": "শুধু মান স্থির",
+    "C": "শুধু দিক স্থির",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "একটি বস্তুর ত্বরণ ঋণাত্মক হলে বেগ —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "স্থির থাকে",
+    "D": "অসীম হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ত্বরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "স্থির থেকে ২ মি/সে² ত্বরণে ১ সেকেন্ডে দূরত্ব কত?",
+   "options": {
+    "A": "১ মিটার",
+    "B": "২ মিটার",
+    "C": "৪ মিটার",
+    "D": "৩ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "একটি বস্তু ১ সেকেন্ড মুক্ত পতনে পড়লে শেষ বেগ ও দূরত্ব কত?",
+   "options": {
+    "A": "৯.৮ মি/সে, ৪.৯ মিটার",
+    "B": "৯.৮ মি/সে, ৯.৮ মিটার",
+    "C": "৪.৯ মি/সে, ৯.৮ মিটার",
+    "D": "১৯.৬ মি/সে, ৪.৯ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "বৃত্তাকার গতিতে রৈখিক বেগ v = ?",
+   "options": {
+    "A": "rω",
+    "B": "ω/r",
+    "C": "r/ω",
+    "D": "ω²r"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "একটি দোলক ১২ সেকেন্ডে ৬টি দোলন দিলে দোলনকাল কত?",
+   "options": {
+    "A": "২ সেকেন্ড",
+    "B": "৬ সেকেন্ড",
+    "C": "১২ সেকেন্ড",
+    "D": "০.৫ সেকেন্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "একটি বস্তু ৫ মি/সে বেগে ১০ সেকেন্ড চললে সরণ কত?",
+   "options": {
+    "A": "৫০ মিটার",
+    "B": "১৫ মিটার",
+    "C": "২ মিটার",
+    "D": "৫ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "একটি বস্তু সমবেগে চললে তার ত্বরণ —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "ঋণাত্মক",
+    "C": "শূন্য",
+    "D": "অসীম"
+   },
+   "correctAnswer": "C",
+   "topic": "ত্বরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "গতির সমীকরণ কয়টি?",
+   "options": {
+    "A": "২টি",
+    "B": "৩টি",
+    "C": "৪টি",
+    "D": "৫টি"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "উপরের দিকে ১০ মি/সে বেগে নিক্ষিপ্ত বস্তু ১ সেকেন্ড পর বেগ কত?",
+   "options": {
+    "A": "০.২ মি/সে",
+    "B": "৯.৮ মি/সে",
+    "C": "১০ মি/সে",
+    "D": "১৯.৮ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "বৃত্তাকার গতিতে বেগের মান সুষম হলে তাকে কী বলে?",
+   "options": {
+    "A": "সুষম বৃত্তাকার গতি",
+    "B": "অসম গতি",
+    "C": "রৈখিক গতি",
+    "D": "দোলন গতি"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃত্তাকার গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "দোলকের দৈর্ঘ্য l ও দোলনকাল T হলে T ∝ ?",
+   "options": {
+    "A": "l",
+    "B": "√l",
+    "C": "l²",
+    "D": "1/√l"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "একটি বস্তু ৭ মি/সে বেগে ৪ সেকেন্ড চললে সরণ কত?",
+   "options": {
+    "A": "২৮ মিটার",
+    "B": "১১ মিটার",
+    "C": "৩ মিটার",
+    "D": "২৮০ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "একটি গাড়ি ৫০ মি/সে বেগে চলছিল, ১০ সেকেন্ডে থামলে মন্দন কত?",
+   "options": {
+    "A": "৫ মি/সে²",
+    "B": "১০ মি/সে²",
+    "C": "৫০ মি/সে²",
+    "D": "২ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "ত্বরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "আদি বেগ ১৫ মি/সে, ত্বরণ ৩ মি/সে², সময় ৫ সেকেন্ড হলে শেষ বেগ কত?",
+   "options": {
+    "A": "১৮ মি/সে",
+    "B": "২০ মি/সে",
+    "C": "৩০ মি/সে",
+    "D": "৪৫ মি/সে"
+   },
+   "correctAnswer": "C",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "একটি পাথর ৪৪.১ মিটার উচ্চতা থেকে পড়লে কত সময় লাগবে?",
+   "options": {
+    "A": "২ সেকেন্ড",
+    "B": "৩ সেকেন্ড",
+    "C": "৪ সেকেন্ড",
+    "D": "৫ সেকেন্ড"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "একটি দোলকের দোলনকাল ০.২৫ সেকেন্ড হলে কম্পাঙ্ক কত?",
+   "options": {
+    "A": "৪ হার্জ",
+    "B": "০.২৫ হার্জ",
+    "C": "২ হার্জ",
+    "D": "৮ হার্জ"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "একটি বস্তুর সরণ ৫০ মিটার, সময় ৫ সেকেন্ড হলে বেগ কত?",
+   "options": {
+    "A": "৫ মি/সে",
+    "B": "১০ মি/সে",
+    "C": "২৫ মি/সে",
+    "D": "২৫০ মি/সে"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "একটি বস্তু আদি বেগ ২ মি/সে ও ত্বরণ ৩ মি/সে², সরণ ৮ মিটার হলে শেষ বেগ কত?",
+   "options": {
+    "A": "৪ মি/সে",
+    "B": "৬ মি/সে",
+    "C": "৮ মি/সে",
+    "D": "১০ মি/সে"
+   },
+   "correctAnswer": "C",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "মুক্ত পতনশীল বস্তুর গতি কোন ধরনের?",
+   "options": {
+    "A": "সুষম",
+    "B": "সুষম ত্বরণ",
+    "C": "সুষম মন্দন",
+    "D": "স্থির"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "সুর শলাকার কম্পন কী ধরনের গতি?",
+   "options": {
+    "A": "রৈখিক",
+    "B": "বৃত্তাকার",
+    "C": "দোলন",
+    "D": "ঘূর্ণন"
+   },
+   "correctAnswer": "C",
+   "topic": "দোলন গতি",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "প্রথম ১০ সেকেন্ডে ২০০ মিটার ও পরের ১০ সেকেন্ডে ৩০০ মিটার গেলে গড় দ্রুতি কত?",
+   "options": {
+    "A": "২৫ মি/সে",
+    "B": "৫০ মি/সে",
+    "C": "২০ মি/সে",
+    "D": "৩০ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "একটি বস্তু স্থির থেকে ২ মি/সে² ত্বরণে ৬ সেকেন্ড চললে দূরত্ব কত?",
+   "options": {
+    "A": "১২ মিটার",
+    "B": "৩৬ মিটার",
+    "C": "২৪ মিটার",
+    "D": "৭২ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "একটি বস্তু ৫ মি/সে বেগে উপরে নিক্ষিপ্ত হলে ০.৫ সেকেন্ড পর বেগ কত?",
+   "options": {
+    "A": "৫ মি/সে",
+    "B": "০.১ মি/সে",
+    "C": "৯.৮ মি/সে",
+    "D": "৪.৯ মি/সে"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "একটি দোলক ১ মিনিটে ১৫টি দোলন দিলে দোলনকাল কত?",
+   "options": {
+    "A": "৪ সেকেন্ড",
+    "B": "২ সেকেন্ড",
+    "C": "১৫ সেকেন্ড",
+    "D": "০.২৫ সেকেন্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "একটি বস্তু বৃত্তাকার পথে ঘুরে আসলে গড় বেগ কত?",
+   "options": {
+    "A": "পরিধি/সময়",
+    "B": "শূন্য",
+    "C": "ব্যাস/সময়",
+    "D": "অসীম"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "একটি বস্তু স্থির থেকে ৮ মি/সে² ত্বরণে ২ সেকেন্ড চললে শেষ বেগ কত?",
+   "options": {
+    "A": "৮ মি/সে",
+    "B": "১৬ মি/সে",
+    "C": "২৪ মি/সে",
+    "D": "৩২ মি/সে"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "মুক্ত পতনে ১ম ও ২য় সেকেন্ডের দূরত্বের অনুপাত কত?",
+   "options": {
+    "A": "১:২",
+    "B": "১:৩",
+    "C": "১:৪",
+    "D": "২:৩"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "একটি বস্তুর কম্পাঙ্ক ৫ হার্জ হলে দোলনকাল কত?",
+   "options": {
+    "A": "০.২ সেকেন্ড",
+    "B": "৫ সেকেন্ড",
+    "C": "২ সেকেন্ড",
+    "D": "০.৫ সেকেন্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "উপরের দিকে নিক্ষিপ্ত বস্তু সর্বোচ্চ বিন্দুতে বেগ কত?",
+   "options": {
+    "A": "সর্বোচ্চ",
+    "B": "শূন্য",
+    "C": "g",
+    "D": "অসীম"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "একটি গাড়ি ২০ মি/সে বেগে চলছিল, ২ মি/সে² মন্দনে থামতে কত দূরত্ব অতিক্রম করবে?",
+   "options": {
+    "A": "১০০ মিটার",
+    "B": "২০০ মিটার",
+    "C": "৪০ মিটার",
+    "D": "২০ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "একটি বস্তু ১ সেকেন্ড মুক্ত পতনে পড়লে দূরত্ব কত?",
+   "options": {
+    "A": "৪.৯ মিটার",
+    "B": "৯.৮ মিটার",
+    "C": "১৯.৬ মিটার",
+    "D": "২ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "একটি বস্তুর দোলনকাল ০.১ সেকেন্ড হলে কম্পাঙ্ক কত?",
+   "options": {
+    "A": "১০ হার্জ",
+    "B": "০.১ হার্জ",
+    "C": "১ হার্জ",
+    "D": "১০০ হার্জ"
+   },
+   "correctAnswer": "A",
+   "topic": "দোলন গতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "একটি গাড়ি ২ ঘণ্টায় ১২০ কিমি গেলে গড় দ্রুতি কত?",
+   "options": {
+    "A": "৬০ কিমি/ঘণ্টা",
+    "B": "১২০ কিমি/ঘণ্টা",
+    "C": "২৪০ কিমি/ঘণ্টা",
+    "D": "৩০ কিমি/ঘণ্টা"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "একটি বস্তু স্থির থেকে ২ মি/সে² ত্বরণে ১০ সেকেন্ড চললে শেষ বেগ কত?",
+   "options": {
+    "A": "১০ মি/সে",
+    "B": "২০ মি/সে",
+    "C": "৩০ মি/সে",
+    "D": "৪০ মি/সে"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "মুক্ত পতনে ভর ভিন্ন বস্তুর ত্বরণ —",
+   "options": {
+    "A": "ভিন্ন",
+    "B": "সমান",
+    "C": "ভরের সমানুপাতিক",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "সরল দোলকের দোলনকাল সূত্রে g কী?",
+   "options": {
+    "A": "মহাকর্ষ ধ্রুবক",
+    "B": "অভিকর্ষজ ত্বরণ",
+    "C": "দোলকের ভর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "একটি বস্তু প্রথম ১০ সেকেন্ডে ১০০ মিটার ও পরের ১০ সেকেন্ডে ২০০ মিটার গেলে গড় দ্রুতি কত?",
+   "options": {
+    "A": "১৫ মি/সে",
+    "B": "২০ মি/সে",
+    "C": "৩০ মি/সে",
+    "D": "২৫ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "স্থির থেকে ৪ মি/সে² ত্বরণে ২ সেকেন্ড চললে অতিক্রান্ত দূরত্ব কত?",
+   "options": {
+    "A": "৪ মিটার",
+    "B": "৮ মিটার",
+    "C": "১৬ মিটার",
+    "D": "৩২ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "উপরের দিকে ৯.৮ মি/সে বেগে নিক্ষিপ্ত বস্তু সর্বোচ্চ বিন্দুতে কত সময়ে পৌঁছাবে?",
+   "options": {
+    "A": "১ সেকেন্ড",
+    "B": "২ সেকেন্ড",
+    "C": "৩ সেকেন্ড",
+    "D": "০.৫ সেকেন্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "সরল দোলকের গতি কোন শর্তে সরল দোলন গতি?",
+   "options": {
+    "A": "বিস্তার বড় হলে",
+    "B": "বিস্তার ছোট হলে",
+    "C": "যেকোনো বিস্তারে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দোলন গতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "গড় দ্রুতি নির্ণয়ের সূত্র কোনটি?",
+   "options": {
+    "A": "মোট দূরত্ব/মোট সময়",
+    "B": "মোট সরণ/মোট সময়",
+    "C": "দূরত্ব × সময়",
+    "D": "সরণ × সময়"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "একটি বস্তু ৫ মি/সে বেগে চলছিল, ২ মি/সে² ত্বরণে ৩ সেকেন্ড চললে শেষ বেগ কত?",
+   "options": {
+    "A": "৮ মি/সে",
+    "B": "১১ মি/সে",
+    "C": "১৪ মি/সে",
+    "D": "১৭ মি/সে"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "মুক্ত পতনে ৫ সেকেন্ডে অতিক্রান্ত দূরত্ব কত?",
+   "options": {
+    "A": "২৪.৫ মিটার",
+    "B": "১২২.৫ মিটার",
+    "C": "৪৯ মিটার",
+    "D": "২৪৫ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "একটি গাড়ি ৬০ কিমি/ঘণ্টা বেগে ২ ঘণ্টা চলে। অতিক্রান্ত দূরত্ব কত?",
+   "options": {
+    "A": "৩০ কিমি",
+    "B": "১২০ কিমি",
+    "C": "৬০ কিমি",
+    "D": "২৪০ কিমি"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "একটি বস্তু স্থির অবস্থা থেকে ৫ মি/সে² ত্বরণে ৪ সেকেন্ড চললে শেষ বেগ কত?",
+   "options": {
+    "A": "৫ মি/সে",
+    "B": "৯ মি/সে",
+    "C": "২০ মি/সে",
+    "D": "২৫ মি/সে"
+   },
+   "correctAnswer": "C",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "একটি বস্তু ২ সেকেন্ড মুক্ত পতনে পড়লে গড় বেগ কত?",
+   "options": {
+    "A": "৯.৮ মি/সে",
+    "B": "৪.৯ মি/সে",
+    "C": "১৯.৬ মি/সে",
+    "D": "৩৯.২ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "বেগের একক কী?",
+   "options": {
+    "A": "মিটার/সেকেন্ড",
+    "B": "মিটার",
+    "C": "সেকেন্ড",
+    "D": "মিটার/সেকেন্ড²"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "একটি বস্তু ৩০ মি/সে বেগে চলছিল, ৬ মি/সে² মন্দনে থামতে দূরত্ব কত?",
+   "options": {
+    "A": "৭৫ মিটার",
+    "B": "১৫০ মিটার",
+    "C": "৯০ মিটার",
+    "D": "১৮০ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "অভিকর্ষজ ত্বরণ উচ্চতা বাড়লে —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই থাকে",
+    "D": "শূন্য হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "একটি ট্রেন ৩ ঘণ্টায় ১৮০ কিমি গেলে গড় দ্রুতি কত?",
+   "options": {
+    "A": "৩০ কিমি/ঘণ্টা",
+    "B": "৬০ কিমি/ঘণ্টা",
+    "C": "৯০ কিমি/ঘণ্টা",
+    "D": "১৮০ কিমি/ঘণ্টা"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "একটি বস্তু স্থির থেকে ৩ মি/সে² ত্বরণে ৩ সেকেন্ড চললে দূরত্ব কত?",
+   "options": {
+    "A": "৯ মিটার",
+    "B": "১৩.৫ মিটার",
+    "C": "২৭ মিটার",
+    "D": "১৮ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "গতির সমীকরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "একটি বস্তু উপর থেকে পড়ে ৪ সেকেন্ডে ভূমিতে পৌঁছায়। উচ্চতা কত?",
+   "options": {
+    "A": "৩৯.২ মিটার",
+    "B": "৭৮.৪ মিটার",
+    "C": "১৯.৬ মিটার",
+    "D": "৯৮ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "একটি ট্রেন ৪ ঘণ্টায় ২৪০ কিমি গেলে গড় দ্রুতি কত?",
+   "options": {
+    "A": "৬০ কিমি/ঘণ্টা",
+    "B": "৮০ কিমি/ঘণ্টা",
+    "C": "১২০ কিমি/ঘণ্টা",
+    "D": "২৪০ কিমি/ঘণ্টা"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্রুতি ও বেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "একটি বস্তু ২০ মিটার উচ্চতা থেকে মুক্ত পতনে পড়লে ভূমি স্পর্শের বেগ কত?",
+   "options": {
+    "A": "১৯.৮ মি/সে",
+    "B": "১৪ মি/সে",
+    "C": "২৮ মি/সে",
+    "D": "৩৯.২ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "মুক্ত পতন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "B",
+  "2": "B",
+  "3": "B",
+  "4": "B",
+  "5": "A",
+  "6": "B",
+  "7": "B",
+  "8": "B",
+  "9": "A",
+  "10": "B",
+  "11": "A",
+  "12": "B",
+  "13": "B",
+  "14": "A",
+  "15": "A",
+  "16": "B",
+  "17": "B",
+  "18": "A",
+  "19": "A",
+  "20": "A",
+  "21": "A",
+  "22": "A",
+  "23": "B",
+  "24": "A",
+  "25": "A",
+  "26": "B",
+  "27": "B",
+  "28": "B",
+  "29": "B",
+  "30": "A",
+  "31": "A",
+  "32": "B",
+  "33": "A",
+  "34": "A",
+  "35": "B",
+  "36": "B",
+  "37": "B",
+  "38": "B",
+  "39": "A",
+  "40": "A",
+  "41": "B",
+  "42": "C",
+  "43": "B",
+  "44": "A",
+  "45": "B",
+  "46": "A",
+  "47": "B",
+  "48": "B",
+  "49": "B",
+  "50": "A",
+  "51": "B",
+  "52": "B",
+  "53": "B",
+  "54": "A",
+  "55": "A",
+  "56": "B",
+  "57": "A",
+  "58": "B",
+  "59": "B",
+  "60": "B",
+  "61": "B",
+  "62": "B",
+  "63": "B",
+  "64": "B",
+  "65": "A",
+  "66": "B",
+  "67": "B",
+  "68": "B",
+  "69": "B",
+  "70": "A",
+  "71": "B",
+  "72": "C",
+  "73": "B",
+  "74": "A",
+  "75": "A",
+  "76": "A",
+  "77": "B",
+  "78": "B",
+  "79": "A",
+  "80": "A",
+  "81": "A",
+  "82": "A",
+  "83": "B",
+  "84": "A",
+  "85": "B",
+  "86": "B",
+  "87": "B",
+  "88": "A",
+  "89": "B",
+  "90": "B",
+  "91": "B",
+  "92": "C",
+  "93": "B",
+  "94": "A",
+  "95": "A",
+  "96": "A",
+  "97": "B",
+  "98": "D",
+  "99": "B",
+  "100": "A",
+  "101": "A",
+  "102": "A",
+  "103": "B",
+  "104": "B",
+  "105": "A",
+  "106": "A",
+  "107": "B",
+  "108": "B",
+  "109": "A",
+  "110": "B",
+  "111": "B",
+  "112": "A",
+  "113": "C",
+  "114": "C",
+  "115": "B",
+  "116": "B",
+  "117": "A",
+  "118": "B",
+  "119": "C",
+  "120": "A",
+  "121": "A",
+  "122": "B",
+  "123": "C",
+  "124": "B",
+  "125": "B",
+  "126": "B",
+  "127": "C",
+  "128": "B",
+  "129": "C",
+  "130": "B",
+  "131": "B",
+  "132": "B",
+  "133": "B",
+  "134": "A",
+  "135": "B",
+  "136": "B",
+  "137": "B",
+  "138": "B",
+  "139": "A",
+  "140": "A",
+  "141": "B",
+  "142": "B",
+  "143": "A",
+  "144": "A",
+  "145": "B",
+  "146": "B",
+  "147": "B",
+  "148": "A",
+  "149": "A",
+  "150": "B",
+  "151": "B",
+  "152": "A",
+  "153": "A",
+  "154": "A",
+  "155": "A",
+  "156": "B",
+  "157": "B",
+  "158": "A",
+  "159": "B",
+  "160": "B",
+  "161": "B",
+  "162": "A",
+  "163": "B",
+  "164": "B",
+  "165": "C",
+  "166": "A",
+  "167": "A",
+  "168": "B",
+  "169": "B",
+  "170": "A",
+  "171": "B",
+  "172": "B",
+  "173": "B",
+  "174": "D",
+  "175": "B",
+  "176": "A",
+  "177": "B",
+  "178": "A",
+  "179": "B",
+  "180": "B",
+  "181": "B",
+  "182": "B",
+  "183": "A",
+  "184": "B",
+  "185": "B",
+  "186": "B",
+  "187": "C",
+  "188": "B",
+  "189": "A",
+  "190": "B",
+  "191": "B",
+  "192": "B",
+  "193": "B",
+  "194": "C",
+  "195": "B",
+  "196": "B",
+  "197": "A",
+  "198": "A",
+  "199": "B",
+  "200": "A",
+  "201": "B",
+  "202": "C",
+  "203": "B",
+  "204": "B",
+  "205": "A",
+  "206": "A",
+  "207": "B",
+  "208": "B",
+  "209": "B",
+  "210": "B",
+  "211": "A",
+  "212": "B",
+  "213": "B",
+  "214": "A",
+  "215": "B",
+  "216": "A",
+  "217": "B",
+  "218": "B",
+  "219": "B",
+  "220": "A",
+  "221": "C",
+  "222": "A",
+  "223": "B",
+  "224": "B",
+  "225": "B",
+  "226": "B",
+  "227": "B",
+  "228": "B",
+  "229": "B",
+  "230": "A",
+  "231": "C",
+  "232": "B",
+  "233": "A",
+  "234": "B",
+  "235": "B",
+  "236": "B",
+  "237": "B",
+  "238": "A",
+  "239": "B",
+  "240": "A",
+  "241": "B",
+  "242": "A",
+  "243": "A",
+  "244": "B",
+  "245": "A",
+  "246": "C",
+  "247": "A",
+  "248": "B",
+  "249": "A",
+  "250": "B",
+  "251": "B",
+  "252": "A",
+  "253": "B",
+  "254": "B",
+  "255": "A",
+  "256": "B",
+  "257": "C",
+  "258": "B",
+  "259": "B",
+  "260": "A",
+  "261": "A",
+  "262": "B",
+  "263": "B",
+  "264": "B",
+  "265": "B",
+  "266": "A",
+  "267": "A",
+  "268": "A",
+  "269": "A",
+  "270": "B",
+  "271": "A",
+  "272": "B",
+  "273": "A",
+  "274": "A",
+  "275": "B",
+  "276": "A",
+  "277": "A",
+  "278": "A",
+  "279": "B",
+  "280": "B",
+  "281": "B",
+  "282": "A",
+  "283": "A",
+  "284": "B",
+  "285": "A",
+  "286": "B",
+  "287": "C",
+  "288": "C",
+  "289": "C",
+  "290": "B",
+  "291": "B",
+  "292": "A",
+  "293": "A",
+  "294": "B",
+  "295": "A",
+  "296": "B",
+  "297": "A",
+  "298": "B",
+  "299": "A",
+  "300": "B",
+  "301": "B",
+  "302": "A",
+  "303": "B",
+  "304": "A",
+  "305": "B",
+  "306": "B",
+  "307": "B",
+  "308": "B",
+  "309": "B",
+  "310": "B",
+  "311": "B",
+  "312": "A",
+  "313": "A",
+  "314": "B",
+  "315": "A",
+  "316": "A",
+  "317": "A",
+  "318": "B",
+  "319": "A",
+  "320": "A",
+  "321": "A",
+  "322": "B",
+  "323": "A",
+  "324": "A",
+  "325": "A",
+  "326": "A",
+  "327": "A",
+  "328": "C",
+  "329": "B",
+  "330": "A",
+  "331": "A",
+  "332": "B",
+  "333": "A",
+  "334": "A",
+  "335": "C",
+  "336": "B",
+  "337": "A",
+  "338": "B",
+  "339": "C",
+  "340": "B",
+  "341": "C",
+  "342": "A",
+  "343": "B",
+  "344": "B",
+  "345": "A",
+  "346": "B",
+  "347": "B",
+  "348": "B",
+  "349": "A",
+  "350": "B",
+  "351": "A",
+  "352": "A",
+  "353": "A",
+  "354": "A",
+  "355": "B",
+  "356": "B",
+  "357": "B",
+  "358": "A",
+  "359": "B",
+  "360": "A",
+  "361": "B",
+  "362": "A",
+  "363": "B",
+  "364": "B",
+  "365": "B",
+  "366": "C",
+  "367": "A",
+  "368": "A",
+  "369": "A",
+  "370": "B",
+  "371": "B",
+  "372": "B",
+  "373": "B",
+  "374": "A",
+  "375": "A"
+ }
 }
