@@ -1,0 +1,7134 @@
+{
+ "subject": "রসায়ন",
+ "chapterNo": 8,
+ "chapter": "রসায়ন ও শক্তি",
+ "questions": [
+  {
+   "question": "১ গ্রাম প্রোটিন থেকে শক্তি —",
+   "options": {
+    "A": "২ কিলোক্যালরি",
+    "B": "৯ কিলোক্যালরি",
+    "C": "৪ কিলোক্যালরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "ব্যাটারি একবার শেষ হলে —",
+   "options": {
+    "A": "ফেলে দেওয়া হয়",
+    "B": "কিছুই না",
+    "C": "রিচার্জ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "তাপ ইঞ্জিনে —",
+   "options": {
+    "A": "তাপ → যান্ত্রিক",
+    "B": "যান্ত্রিক → তাপ",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ → তড়িৎ"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি রূপান্তর",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "তাপগ্রাহী বিক্রিয়ায় পাত্র —",
+   "options": {
+    "A": "ঠান্ডা হয়",
+    "B": "গরম হয়",
+    "C": "কোনোটিই নয়",
+    "D": "একই থাকে"
+   },
+   "correctAnswer": "A",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "কয়লার ক্যালরিফিক মান হাইড্রোজেনের চেয়ে —",
+   "options": {
+    "A": "বেশি",
+    "B": "সমান",
+    "C": "কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দহনের তাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "বায়ুদূষণ কমাতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পরিচ্ছন্ন জ্বালানি",
+    "D": "আরও কয়লা"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "বিভব শক্তির সূত্র —",
+   "options": {
+    "A": "½mv²",
+    "B": "mv",
+    "C": "mgh",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "ব্যাটারি ডিসচার্জে —",
+   "options": {
+    "A": "তাপ → তড়িৎ",
+    "B": "রাসায়নিক → তড়িৎ",
+    "C": "তড়িৎ → রাসায়নিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "খাদ্য হজমে রাসায়নিক শক্তি → —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপ ও যান্ত্রিক শক্তি",
+    "C": "শুধু তাপ",
+    "D": "শুধু যান্ত্রিক"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি রূপান্তর",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "দহন বিক্রিয়া —",
+   "options": {
+    "A": "নিরপেক্ষ",
+    "B": "তাপমোচী",
+    "C": "কোনোটিই নয়",
+    "D": "তাপগ্রাহী"
+   },
+   "correctAnswer": "B",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "মিথেনের দহন সমীকরণ —",
+   "options": {
+    "A": "CH₄ + O₂ → CO₂",
+    "B": "CH₄ + 2O₂ → CO₂ + 2H₂O",
+    "C": "CH₄ → C + 2H₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দহনের তাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির দহনে —",
+   "options": {
+    "A": "O₂ নির্গত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "CO₂ নির্গত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "বায়োগ্যাস প্লান্টে তাপমাত্রা —",
+   "options": {
+    "A": "উষ্ণ দরকার",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ঠান্ডা দরকার"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "ক্লোরোফিলের রং —",
+   "options": {
+    "A": "সবুজ",
+    "B": "নীল",
+    "C": "লাল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "সালোকসংশ্লেষণে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সৌর শক্তি রাসায়নিক শক্তিতে জমা হয়",
+    "D": "রাসায়নিক শক্তি নষ্ট হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি রূপান্তর",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "তাপমোচী বিক্রিয়ায় তাপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "নির্গত হয়",
+    "D": "শোষিত হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "মিথেন একটি —",
+   "options": {
+    "A": "জ্বালানি",
+    "B": "কোনোটিই নয়",
+    "C": "খাদ্য",
+    "D": "অম্ল"
+   },
+   "correctAnswer": "A",
+   "topic": "দহনের তাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "পেট্রোল —",
+   "options": {
+    "A": "কঠিন জ্বালানি",
+    "B": "কোনোটিই নয়",
+    "C": "গ্যাসীয় জ্বালানি",
+    "D": "তরল জ্বালানি"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "বিদ্যুৎ বিল মাপা হয় —",
+   "options": {
+    "A": "kWh এ",
+    "B": "কোনোটিই নয়",
+    "C": "ক্যালরিতে",
+    "D": "জুলে"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "ATP এর পূর্ণরূপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যাডেনিন ট্রাইফসফেট",
+    "C": "অ্যাডেনোসিন ট্রাইফসফেট",
+    "D": "অ্যালানিন ট্রাইফসফেট"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "তাপবিদ্যুৎ কেন্দ্রে —",
+   "options": {
+    "A": "সৌর → তড়িৎ",
+    "B": "রাসায়নিক → তাপ → তড়িৎ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি রূপান্তর",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "তাপমোচী বিক্রিয়ায় শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শোষিত হয়",
+    "D": "নির্গত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "হাইড্রোজেনের ক্যালরিফিক মান —",
+   "options": {
+    "A": "শূন্য",
+    "B": "কোনোটিই নয়",
+    "C": "সর্বনিম্ন",
+    "D": "সর্বোচ্চ"
+   },
+   "correctAnswer": "D",
+   "topic": "দহনের তাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "সৌর শক্তি —",
+   "options": {
+    "A": "নবায়নযোগ্য",
+    "B": "অনবায়নযোগ্য",
+    "C": "কোনোটিই নয়",
+    "D": "উভয়ই"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "শক্তি অপচয়ের ফলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সংকট বাড়ে",
+    "D": "সংকট কমে"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "খাদ্যের শক্তি ব্যবহার হয় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "দেহের কাজে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "বিদ্যুৎ উৎপাদনে —",
+   "options": {
+    "A": "রাসায়নিক বা যান্ত্রিক → তড়িৎ",
+    "B": "তড়িৎ → যান্ত্রিক",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি রূপান্তর",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "তাপমোচী বিক্রিয়ায় পাত্র —",
+   "options": {
+    "A": "গরম হয়",
+    "B": "একই থাকে",
+    "C": "ঠান্ডা হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "দহনের তাপ কাকে বলে?",
+   "options": {
+    "A": "গলনের তাপ",
+    "B": "১ মোল জ্বালানির দহনে নির্গত তাপ",
+    "C": "বাষ্পীভবনের তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দহনের তাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাসের ব্যবহার —",
+   "options": {
+    "A": "রান্না, বিদ্যুৎ, সার",
+    "B": "শুধু রান্না",
+    "C": "শুধু বিদ্যুৎ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "১ জুল = কত ক্যালরি?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "০.২৪",
+    "C": "১০",
+    "D": "৪.১৮৬"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "সালোকসংশ্লেষণে সৌর শক্তি —",
+   "options": {
+    "A": "রাসায়নিক শক্তিতে জমা হয়",
+    "B": "নষ্ট হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "শ্বসনে শক্তি —",
+   "options": {
+    "A": "শোষিত হয়",
+    "B": "কিছুই না",
+    "C": "নির্গত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি রূপান্তর",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "তাপগ্রাহী বিক্রিয়ায় ΔH —",
+   "options": {
+    "A": "ঋণাত্মক",
+    "B": "কোনোটিই নয়",
+    "C": "ধনাত্মক",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "C",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "মিথেনের দহনে শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শোষিত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "নির্গত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "দহনের তাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "পারমাণবিক শক্তির সুবিধা —",
+   "options": {
+    "A": "কম শক্তি",
+    "B": "বিপুল শক্তি",
+    "C": "কোনোটিই নয়",
+    "D": "শক্তি নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "শক্তির একক —",
+   "options": {
+    "A": "কেজি",
+    "B": "মিটার",
+    "C": "কোনোটিই নয়",
+    "D": "জুল"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "ব্যাটারিতে বিষাক্ত ধাতু —",
+   "options": {
+    "A": "সোনা",
+    "B": "কোনোটিই নয়",
+    "C": "রুপা",
+    "D": "পারদ, সীসা, ক্যাডমিয়াম"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "সৌর কোষে —",
+   "options": {
+    "A": "সৌর → তড়িৎ",
+    "B": "তাপ → তড়িৎ",
+    "C": "কোনোটিই নয়",
+    "D": "তড়িৎ → সৌর"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি রূপান্তর",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "ΔH এর একক —",
+   "options": {
+    "A": "মিটার",
+    "B": "কোনোটিই নয়",
+    "C": "গ্রাম",
+    "D": "কিলোজুল/মোল"
+   },
+   "correctAnswer": "D",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাসের প্রধান উপাদান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রোপেন",
+    "C": "ইথেন",
+    "D": "মিথেন"
+   },
+   "correctAnswer": "D",
+   "topic": "দহনের তাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "জ্বালানির প্রকার —",
+   "options": {
+    "A": "কঠিন, তরল, গ্যাসীয়",
+    "B": "শুধু কঠিন",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু তরল"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "বায়োগ্যাস সংরক্ষণ —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "জরুরি",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "শর্করা ভাঙলে —",
+   "options": {
+    "A": "শক্তি নির্গত হয়",
+    "B": "শক্তি শোষিত হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "ডায়নামোতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তড়িৎ → যান্ত্রিক",
+    "C": "তাপ → তড়িৎ",
+    "D": "যান্ত্রিক → তড়িৎ"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি রূপান্তর",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "তাপগ্রাহী বিক্রিয়া কাকে বলে?",
+   "options": {
+    "A": "তাপ নির্গমনকারী",
+    "B": "কোনোটিই নয়",
+    "C": "তাপ শোষণকারী",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "C",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "মিথেনের দহনে উৎপন্ন —",
+   "options": {
+    "A": "CO",
+    "B": "কোনোটিই নয়",
+    "C": "O₂",
+    "D": "CO₂ ও H₂O"
+   },
+   "correctAnswer": "D",
+   "topic": "দহনের তাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "কয়লার দহনে —",
+   "options": {
+    "A": "O₂",
+    "B": "কোনোটিই নয়",
+    "C": "CO₂ ও তাপ",
+    "D": "H₂"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "যন্ত্রে শক্তির অপচয় —",
+   "options": {
+    "A": "ঘর্ষণে হয়",
+    "B": "কিছুই না",
+    "C": "মহাকর্ষে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "লিথিয়াম ব্যাটারি —",
+   "options": {
+    "A": "দুর্বল",
+    "B": "হালকা ও শক্তিশালী",
+    "C": "ভারী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "শক্তির রূপান্তর —",
+   "options": {
+    "A": "কোথাও ঘটে না",
+    "B": "কম ঘটে",
+    "C": "সর্বত্র ঘটে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি রূপান্তর",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "প্রশমনে তাপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নির্গত হয়",
+    "C": "কিছুই না",
+    "D": "শোষিত হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "দহনের তাপের একক —",
+   "options": {
+    "A": "গ্রাম",
+    "B": "কিলোজুল/মোল",
+    "C": "কোনোটিই নয়",
+    "D": "মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "দহনের তাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "শক্তি সংকট —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কাল্পনিক",
+    "C": "কোনোটিই নয়",
+    "D": "বাস্তব সমস্যা"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "শক্তির উৎস প্রধানত কয় প্রকার?",
+   "options": {
+    "A": "২",
+    "B": "কোনোটিই নয়",
+    "C": "৪",
+    "D": "৩"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "শ্বসন সমীকরণ —",
+   "options": {
+    "A": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+    "B": "কোনোটিই নয়",
+    "C": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O",
+    "D": "CO₂ → C + O₂"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "বৈদ্যুতিক বাল্বে —",
+   "options": {
+    "A": "তড়িৎ → আলো ও তাপ",
+    "B": "তাপ → আলো",
+    "C": "আলো → তড়িৎ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি রূপান্তর",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "সালোকসংশ্লেষণে শক্তি আসে —",
+   "options": {
+    "A": "তাপ থেকে",
+    "B": "কিছুই না",
+    "C": "সূর্যালোক থেকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "জ্বালানি নির্বাচনে —",
+   "options": {
+    "A": "ক্যালরিফিক মান বিবেচনা হয়",
+    "B": "হয় না",
+    "C": "কোনোটিই নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "দহনের তাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "বায়োগ্যাস পরিবেশের জন্য —",
+   "options": {
+    "A": "ক্ষতিকর",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বন্ধুত্বপূর্ণ"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "অপ্রয়োজনীয় বাতি বন্ধ রাখা —",
+   "options": {
+    "A": "শক্তি সাশ্রয়",
+    "B": "কিছুই না",
+    "C": "অপচয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "খাদ্যে কোন শক্তি সঞ্চিত?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রাসায়নিক",
+    "C": "গতি",
+    "D": "বিভব"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "বৈদ্যুতিক পাখায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "যান্ত্রিক → তড়িৎ",
+    "C": "তাপ → যান্ত্রিক",
+    "D": "তড়িৎ → যান্ত্রিক"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি রূপান্তর",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "তাপগ্রাহী বিক্রিয়ায় তাপমাত্রা —",
+   "options": {
+    "A": "একই",
+    "B": "বাড়ে",
+    "C": "শূন্য",
+    "D": "কমে"
+   },
+   "correctAnswer": "D",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "ক্যালরিফিক মান বেশি মানে জ্বালানি —",
+   "options": {
+    "A": "খারাপ",
+    "B": "কোনোটিই নয়",
+    "C": "সমান",
+    "D": "ভালো"
+   },
+   "correctAnswer": "D",
+   "topic": "দহনের তাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "জ্বালানি কোষ —",
+   "options": {
+    "A": "পরিচ্ছন্ন",
+    "B": "দূষণকারী",
+    "C": "ব্যয়বহুল শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "ক্যালরিমিটার দিয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চাপ মাপা হয়",
+    "C": "তাপ পরিমাপ হয়",
+    "D": "ভর মাপা হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "শ্বসনে উৎপন্ন শক্তির রূপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু তাপ",
+    "C": "তাপ ও ATP",
+    "D": "শুধু ATP"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "ব্যাটারিতে রাসায়নিক শক্তি → —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তড়িৎ শক্তি",
+    "C": "আলো শক্তি",
+    "D": "তাপ শক্তি"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি রূপান্তর",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "CaCO₃ বিয়োজন —",
+   "options": {
+    "A": "তাপমোচী",
+    "B": "নিরপেক্ষ",
+    "C": "তাপগ্রাহী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "ক্যালরিফিক মানের একক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্রাম",
+    "C": "মিটার",
+    "D": "কিলোজুল/গ্রাম"
+   },
+   "correctAnswer": "D",
+   "topic": "দহনের তাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "তেজস্ক্রিয় বর্জ্য সংরক্ষণ —",
+   "options": {
+    "A": "পানিতে",
+    "B": "খোলা জায়গায়",
+    "C": "গভীর ভূগর্ভে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "ফটোভোলটাইক কোষে —",
+   "options": {
+    "A": "তড়িৎ → আলো",
+    "B": "তাপ → আলো",
+    "C": "আলো → তড়িৎ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "ব্যবহৃত ব্যাটারি ফেলে দিলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পরিবেশ দূষণ হয়",
+    "D": "উপকার"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "শ্বসনে রাসায়নিক শক্তি → —",
+   "options": {
+    "A": "সৌর শক্তি",
+    "B": "তাপ ও যান্ত্রিক শক্তি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি রূপান্তর",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "NaOH + পানি দ্রবণ —",
+   "options": {
+    "A": "গরম হয়",
+    "B": "ঠান্ডা হয়",
+    "C": "একই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "দহন বিক্রিয়ায় —",
+   "options": {
+    "A": "তাপ শোষিত হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ ও আলো নির্গত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "দহনের তাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "ভালো জ্বালানির বৈশিষ্ট্য —",
+   "options": {
+    "A": "দূষণকারী",
+    "B": "কোনোটিই নয়",
+    "C": "কম ক্যালরিফিক মান",
+    "D": "উচ্চ ক্যালরিফিক মান"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "এলইডি বাল্ব সাধারণ বাল্বের চেয়ে —",
+   "options": {
+    "A": "সমান",
+    "B": "কম শক্তি খরচ করে",
+    "C": "কোনোটিই নয়",
+    "D": "বেশি শক্তি খরচ করে"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "দহন তাপমোচী — কারণ?",
+   "options": {
+    "A": "শোষিত > নির্গত",
+    "B": "নির্গত শক্তি > শোষিত শক্তি",
+    "C": "কোনোটিই নয়",
+    "D": "সমান"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "জ্বালানি পোড়ালে রাসায়নিক শক্তি → —",
+   "options": {
+    "A": "শুধু আলো",
+    "B": "তাপ ও আলো শক্তি",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু তাপ"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি রূপান্তর",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "ΔH কাকে বলে?",
+   "options": {
+    "A": "এনথালপির পরিবর্তন",
+    "B": "তাপমাত্রা",
+    "C": "কোনোটিই নয়",
+    "D": "ভর পরিবর্তন"
+   },
+   "correctAnswer": "A",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "দহনের তাপ মাপা হয় —",
+   "options": {
+    "A": "ক্যালরিমিটারে",
+    "B": "থার্মোমিটারে",
+    "C": "ব্যারোমিটারে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দহনের তাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "SO₂ নির্গমন —",
+   "options": {
+    "A": "উপকার",
+    "B": "অ্যাসিড বৃষ্টি ঘটায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "জোয়ার-ভাটা থেকে শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পাওয়া যায় না",
+    "C": "দরকার নেই",
+    "D": "পাওয়া যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "রাসায়নিক শক্তি → তড়িৎ —",
+   "options": {
+    "A": "দহনে",
+    "B": "কোনোটিই নয়",
+    "C": "গলনে",
+    "D": "ব্যাটারিতে"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "মোটরগাড়ির ইঞ্জিনে —",
+   "options": {
+    "A": "তাপ → রাসায়নিক",
+    "B": "যান্ত্রিক → রাসায়নিক",
+    "C": "কোনোটিই নয়",
+    "D": "রাসায়নিক → যান্ত্রিক"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি রূপান্তর",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "তাপমোচী বিক্রিয়া কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপ শোষণকারী",
+    "C": "তাপ নির্গমনকারী",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "C",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "মিথেনের দহনের তাপ —",
+   "options": {
+    "A": "−২৮৬ kJ/mol",
+    "B": "−৮৯০ kJ/mol",
+    "C": "কোনোটিই নয়",
+    "D": "−১৫৬০ kJ/mol"
+   },
+   "correctAnswer": "B",
+   "topic": "দহনের তাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "পারমাণবিক শক্তির ঝুঁকি —",
+   "options": {
+    "A": "তেজস্ক্রিয়তা",
+    "B": "সস্তা",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "শক্তি এক রূপ থেকে অন্য রূপে —",
+   "options": {
+    "A": "রূপান্তরিত হয়",
+    "B": "ধ্বংস হয়",
+    "C": "কোনোটিই নয়",
+    "D": "সৃষ্টি হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে শক্তি কমে —",
+   "options": {
+    "A": "আলো হিসেবে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "তাপ হিসেবে"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "শক্তি রূপান্তরের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "ব্যাটারি, দহন, শ্বসন"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি রূপান্তর",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "সালোকসংশ্লেষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপগ্রাহী",
+    "C": "তাপমোচী",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "B",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাসে মিথেন প্রায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৯০%",
+    "C": "২০%",
+    "D": "৫০%"
+   },
+   "correctAnswer": "B",
+   "topic": "দহনের তাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "বাংলাদেশের জলবিদ্যুৎ কেন্দ্র —",
+   "options": {
+    "A": "ঘোড়াশাল",
+    "B": "কোনোটিই নয়",
+    "C": "রূপপুর",
+    "D": "কাপ্তাই"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "বায়োমাস শক্তি —",
+   "options": {
+    "A": "পাথর থেকে",
+    "B": "কোনোটিই নয়",
+    "C": "ধাতু থেকে",
+    "D": "জৈব পদার্থ থেকে"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "ব্যাটারিতে কোন শক্তি?",
+   "options": {
+    "A": "গতি",
+    "B": "বিভব",
+    "C": "কোনোটিই নয়",
+    "D": "রাসায়নিক"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "সালোকসংশ্লেষণে সৌর শক্তি → —",
+   "options": {
+    "A": "রাসায়নিক শক্তি",
+    "B": "কোনোটিই নয়",
+    "C": "তাপ শক্তি",
+    "D": "গতি শক্তি"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি রূপান্তর",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "তাপগ্রাহী বিক্রিয়ায় শক্তি শোষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পরিবেশ থেকে হয়",
+    "C": "পরিবেশে হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "দহনের তাপ ঋণাত্মক — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শক্তি শোষিত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "শক্তি নির্গত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "দহনের তাপ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "জ্বালানি কোষে —",
+   "options": {
+    "A": "রাসায়নিক → তড়িৎ",
+    "B": "তাপ → তড়িৎ",
+    "C": "কোনোটিই নয়",
+    "D": "তড়িৎ → রাসায়নিক"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "শক্তির অপচয় —",
+   "options": {
+    "A": "আলো হিসেবে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ হিসেবে হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "জীবদেহ খাদ্য থেকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শক্তি পায় না",
+    "C": "শক্তি পায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "তাপমোচী বিক্রিয়ায় তাপমাত্রা —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "শূন্য",
+    "D": "একই"
+   },
+   "correctAnswer": "B",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "হাইড্রোজেনের ক্যালরিফিক মান প্রায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৫০ kJ/g",
+    "C": "১৫০ kJ/g",
+    "D": "২৫ kJ/g"
+   },
+   "correctAnswer": "C",
+   "topic": "দহনের তাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "হাইড্রোজেন জ্বালানির সুবিধা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দূষণকারী",
+    "C": "দূষণমুক্ত",
+    "D": "ব্যয়বহুল শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "পতনশীল বস্তুর গতিশক্তি —",
+   "options": {
+    "A": "শূন্য",
+    "B": "একই",
+    "C": "কমে",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "খাদ্য ছাড়া শরীর —",
+   "options": {
+    "A": "কাজ করতে পারে না",
+    "B": "কোনোটিই নয়",
+    "C": "কাজ করতে পারে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "প্রশমনের তাপ —",
+   "options": {
+    "A": "৫৭ kJ/mol",
+    "B": "১০ kJ/mol",
+    "C": "কোনোটিই নয়",
+    "D": "১০০ kJ/mol"
+   },
+   "correctAnswer": "A",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "সর্বোচ্চ ক্যালরিফিক মানের জ্বালানি —",
+   "options": {
+    "A": "হাইড্রোজেন",
+    "B": "কাঠ",
+    "C": "কয়লা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দহনের তাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "হাইড্রোজেন উৎপাদন —",
+   "options": {
+    "A": "সস্তা",
+    "B": "সহজ",
+    "C": "ব্যয়বহুল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "বিভব শক্তি নির্ভর করে —",
+   "options": {
+    "A": "শুধু ভর",
+    "B": "শুধু বেগ",
+    "C": "ভর ও উচ্চতার উপর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "সালোকসংশ্লেষণ সমীকরণ —",
+   "options": {
+    "A": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+    "B": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O",
+    "C": "CO₂ → C + O₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "NH₄Cl + পানি দ্রবণ —",
+   "options": {
+    "A": "একই",
+    "B": "কোনোটিই নয়",
+    "C": "ঠান্ডা হয়",
+    "D": "গরম হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "জ্বালানির ক্যালরিফিক মান কাকে বলে?",
+   "options": {
+    "A": "গলনের তাপ",
+    "B": "একক ভরের দহনে নির্গত তাপ",
+    "C": "বাষ্পীভবনের তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দহনের তাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "বায়োগ্যাসে মিথেন —",
+   "options": {
+    "A": "৯০%",
+    "B": "২০%",
+    "C": "প্রায় ৬০%",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "৪ কেজি বস্তু ২ মি/সে বেগে গতিশক্তি —",
+   "options": {
+    "A": "১৬ জুল",
+    "B": "৪ জুল",
+    "C": "৮ জুল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "জ্বালানিতে কোন শক্তি?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রাসায়নিক",
+    "C": "বিভব",
+    "D": "গতি"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "তাপমোচী বিক্রিয়ায় শক্তি নির্গমন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পরিবেশ থেকে হয়",
+    "D": "পরিবেশে হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "হাইড্রোজেনের দহনে উৎপন্ন —",
+   "options": {
+    "A": "CO₂",
+    "B": "CO",
+    "C": "কোনোটিই নয়",
+    "D": "পানি"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "শক্তির সঠিক ব্যবহার মানবসভ্যতার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অগ্রগতির চাবিকাঠি",
+    "C": "বাধা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "বন্ধন গঠনে শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শোষিত হয়",
+    "D": "নির্গত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "তাপগ্রাহী বিক্রিয়ায় শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শোষিত হয়",
+    "C": "নির্গত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "বায়োগ্যাস প্লান্টে —",
+   "options": {
+    "A": "গোবর ও জৈব বর্জ্য ব্যবহৃত হয়",
+    "B": "কয়লা",
+    "C": "কোনোটিই নয়",
+    "D": "তেল"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "গতিশক্তি নির্ভর করে —",
+   "options": {
+    "A": "শুধু ভর",
+    "B": "কোনোটিই নয়",
+    "C": "ভর ও বেগের উপর",
+    "D": "শুধু উচ্চতা"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "শক্তির চাহিদা মেটাতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জরুরি নয়",
+    "C": "সঠিক খাদ্য জরুরি",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "প্রশমন বিক্রিয়া —",
+   "options": {
+    "A": "তাপগ্রাহী",
+    "B": "কোনোটিই নয়",
+    "C": "নিরপেক্ষ",
+    "D": "তাপমোচী"
+   },
+   "correctAnswer": "D",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "জ্বালানির সহজলভ্যতা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গুরুত্বপূর্ণ",
+    "C": "অগুরুত্বপূর্ণ",
+    "D": "নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "যন্ত্রের কার্যকারিতা = ?",
+   "options": {
+    "A": "ইনপুট/আউটপুট",
+    "B": "আউটপুট × ইনপুট",
+    "C": "কোনোটিই নয়",
+    "D": "আউটপুট/ইনপুট"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "শুকনো কোষে কার্বন —",
+   "options": {
+    "A": "ধনাত্মক প্রান্ত",
+    "B": "ঋণাত্মক প্রান্ত",
+    "C": "নিরপেক্ষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "NH₄Cl দ্রবীভূত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিরপেক্ষ",
+    "C": "তাপমোচী",
+    "D": "তাপগ্রাহী"
+   },
+   "correctAnswer": "D",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "পরিবেশবান্ধব শক্তির ব্যবহার —",
+   "options": {
+    "A": "কমছে",
+    "B": "বাড়ছে",
+    "C": "নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "বায়োগ্যাস প্লান্টের গ্যাস ধরে রাখা হয় —",
+   "options": {
+    "A": "গ্যাস হোল্ডারে",
+    "B": "বোতলে",
+    "C": "কোনোটিই নয়",
+    "D": "পাত্রে"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে মাত্র ১০% শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পরবর্তী স্তরে যায়",
+    "C": "নষ্ট হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "তাপগ্রাহী বিক্রিয়ার উদাহরণ —",
+   "options": {
+    "A": "দহন",
+    "B": "প্রশমন",
+    "C": "কোনোটিই নয়",
+    "D": "CaCO₃ বিয়োজন, সালোকসংশ্লেষণ"
+   },
+   "correctAnswer": "D",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "কঠিন জ্বালানির উদাহরণ —",
+   "options": {
+    "A": "পেট্রোল, ডিজেল",
+    "B": "কোনোটিই নয়",
+    "C": "মিথেন, হাইড্রোজেন",
+    "D": "কয়লা, কাঠ"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "শক্তি সংরক্ষণ সূত্রে মোট শক্তি —",
+   "options": {
+    "A": "পরিবর্তনশীল",
+    "B": "কোনোটিই নয়",
+    "C": "ধ্রুব",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "রাসায়নিক শক্তি → তাপ —",
+   "options": {
+    "A": "স্ফুটনে",
+    "B": "গলনে",
+    "C": "দহনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "NaOH পানিতে দ্রবীভূত —",
+   "options": {
+    "A": "তাপগ্রাহী",
+    "B": "কোনোটিই নয়",
+    "C": "তাপমোচী",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "C",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "জ্বালানির দহন নিয়ন্ত্রণ —",
+   "options": {
+    "A": "নেই",
+    "B": "সহজ হতে হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কঠিন হতে হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "২ কেজি বস্তু ৫ মিটার উঁচুতে বিভব শক্তি (g=১০) —",
+   "options": {
+    "A": "১০০ জুল",
+    "B": "১০ জুল",
+    "C": "কোনোটিই নয়",
+    "D": "৫০ জুল"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "রাসায়নিক শক্তির উদাহরণ —",
+   "options": {
+    "A": "পতনশীল পাথর",
+    "B": "জ্বালানি, খাদ্য, ব্যাটারি",
+    "C": "চলন্ত গাড়ি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "তাপগ্রাহী বিক্রিয়ায় তাপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নির্গত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "শোষিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "বাংলাদেশে বায়োগ্যাস —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "হয় না",
+    "C": "ব্যবহৃত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "ক্যালরিমিটারে পানি — কারণ?",
+   "options": {
+    "A": "সস্তা",
+    "B": "কোনোটিই নয়",
+    "C": "আপেক্ষিক তাপ বেশি",
+    "D": "আপেক্ষিক তাপ কম"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "বন্ধন ভাঙতে শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শোষিত হয়",
+    "C": "কিছুই না",
+    "D": "নির্গত হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "NaOH দ্রবীভূত —",
+   "options": {
+    "A": "নিরপেক্ষ",
+    "B": "কোনোটিই নয়",
+    "C": "তাপমোচী",
+    "D": "তাপগ্রাহী"
+   },
+   "correctAnswer": "C",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "গ্রিনহাউস প্রভাব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কমায়",
+    "C": "গ্লোবাল ওয়ার্মিং বাড়ায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "শক্তির রূপান্তর না হলে —",
+   "options": {
+    "A": "জীবন স্বাভাবিক",
+    "B": "কিছুই না",
+    "C": "জীবন অচল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "ব্যাটারিতে —",
+   "options": {
+    "A": "তাপ → তড়িৎ",
+    "B": "তড়িৎ → রাসায়নিক",
+    "C": "রাসায়নিক → তড়িৎ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "তাপমোচী বিক্রিয়ায় ΔH —",
+   "options": {
+    "A": "ঋণাত্মক",
+    "B": "শূন্য",
+    "C": "কোনোটিই নয়",
+    "D": "ধনাত্মক"
+   },
+   "correctAnswer": "A",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "বায়োগ্যাসের ব্যবহার —",
+   "options": {
+    "A": "শুধু রান্না",
+    "B": "শুধু বিদ্যুৎ",
+    "C": "রান্না ও বিদ্যুৎ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "সৌর কোষে আলো পড়লে —",
+   "options": {
+    "A": "তড়িৎ উৎপন্ন হয়",
+    "B": "কোনোটিই নয়",
+    "C": "তাপ উৎপন্ন হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "মোবাইলে ব্যবহৃত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুকনো কোষ",
+    "C": "লিথিয়াম ব্যাটারি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "NH₄Cl পানিতে দ্রবীভূত —",
+   "options": {
+    "A": "নিরপেক্ষ",
+    "B": "তাপগ্রাহী",
+    "C": "কোনোটিই নয়",
+    "D": "তাপমোচী"
+   },
+   "correctAnswer": "B",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাস থেকে —",
+   "options": {
+    "A": "কিছুই হয় না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "সার উৎপন্ন হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "নবায়নযোগ্য শক্তির বৈশিষ্ট্য —",
+   "options": {
+    "A": "ফুরিয়ে যায়",
+    "B": "সীমিত",
+    "C": "কোনোটিই নয়",
+    "D": "ফুরায় না"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "শুকনো কোষে জিঙ্ক —",
+   "options": {
+    "A": "ঋণাত্মক প্রান্ত",
+    "B": "ধনাত্মক প্রান্ত",
+    "C": "কোনোটিই নয়",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "তাপমোচী বিক্রিয়ার উদাহরণ —",
+   "options": {
+    "A": "সালোকসংশ্লেষণ",
+    "B": "CaCO₃ বিয়োজন",
+    "C": "কোনোটিই নয়",
+    "D": "দহন, প্রশমন"
+   },
+   "correctAnswer": "D",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "বাংলাদেশে সোলার হোম সিস্টেম —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "গ্রামে ব্যবহৃত হয়",
+    "C": "হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "শক্তি সংকটের সমাধান —",
+   "options": {
+    "A": "নবায়নযোগ্য শক্তি ও সাশ্রয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "আরও অপচয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "রাসায়নিক শক্তির উৎস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গতিশক্তি",
+    "C": "বন্ধন শক্তি",
+    "D": "বিভব শক্তি"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "শ্বসন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপমোচী",
+    "C": "নিরপেক্ষ",
+    "D": "তাপগ্রাহী"
+   },
+   "correctAnswer": "B",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "বায়োগ্যাস —",
+   "options": {
+    "A": "উভয়ই",
+    "B": "নবায়নযোগ্য",
+    "C": "অনবায়নযোগ্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "শক্তির দক্ষ ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জরুরি",
+    "C": "দরকার নেই",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে প্রতিটি ধাপে শক্তি —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "প্রশমনের তাপ সব অম্ল-ক্ষারের জন্য —",
+   "options": {
+    "A": "ভিন্ন",
+    "B": "কোনোটিই নয়",
+    "C": "শূন্য",
+    "D": "প্রায় সমান"
+   },
+   "correctAnswer": "D",
+   "topic": "তাপগ্রাহী ও তাপমোচী",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "সৌর শক্তির অসুবিধা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সবসময় বেশি",
+    "C": "কিছুই না",
+    "D": "রাতে ও মেঘে কম"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "শক্তি কয় প্রকার?",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "শ্বসন ও সালোকসংশ্লেষণ —",
+   "options": {
+    "A": "একই",
+    "B": "কোনোটিই নয়",
+    "C": "পরস্পর বিপরীত",
+    "D": "সম্পর্কহীন"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "কয়লা —",
+   "options": {
+    "A": "কঠিন জ্বালানি",
+    "B": "গ্যাসীয় জ্বালানি",
+    "C": "তরল জ্বালানি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "রসায়ন ছাড়া শক্তি উৎপাদন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অসম্পূর্ণ",
+    "C": "সহজ",
+    "D": "সম্পূর্ণ"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "রাসায়নিক শক্তি সবচেয়ে বেশি সঞ্চিত —",
+   "options": {
+    "A": "বালিতে",
+    "B": "জীবাশ্ম জ্বালানিতে",
+    "C": "পানিতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "বাংলাদেশে সৌর শক্তি —",
+   "options": {
+    "A": "ব্যবহৃত হচ্ছে",
+    "B": "হচ্ছে না",
+    "C": "কোনোটিই নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "শক্তি ছাড়া জীবন —",
+   "options": {
+    "A": "চলমান",
+    "B": "কোনোটিই নয়",
+    "C": "স্বাভাবিক",
+    "D": "অচল"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "সবুজ উদ্ভিদ সৌর শক্তি —",
+   "options": {
+    "A": "নষ্ট করে",
+    "B": "কিছুই না",
+    "C": "রাসায়নিক শক্তিতে রূপান্তর করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "তরল জ্বালানির উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মিথেন, হাইড্রোজেন",
+    "C": "কয়লা, কাঠ",
+    "D": "পেট্রোল, ডিজেল, কেরোসিন"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "বায়োগ্যাস জ্বালিয়ে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "রান্না ও আলো",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "ব্যাটারির দুই প্রান্ত —",
+   "options": {
+    "A": "শুধু ধনাত্মক",
+    "B": "কোনোটিই নয়",
+    "C": "ধনাত্মক ও ঋণাত্মক",
+    "D": "শুধু ঋণাত্মক"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "CO₂ নির্গমন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কমায়",
+    "D": "গ্রিনহাউস প্রভাব বাড়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "রসায়ন ও শক্তি অধ্যায় —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "অগুরুত্বপূর্ণ",
+    "C": "ঐচ্ছিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "বাস্তুতন্ত্রে শক্তি প্রবাহ —",
+   "options": {
+    "A": "চক্রাকার",
+    "B": "দ্বিমুখী",
+    "C": "কোনোটিই নয়",
+    "D": "একমুখী"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "পরিচ্ছন্ন জ্বালানি —",
+   "options": {
+    "A": "তেল",
+    "B": "হাইড্রোজেন",
+    "C": "কোনোটিই নয়",
+    "D": "কয়লা"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "বায়োমাস —",
+   "options": {
+    "A": "অনবায়নযোগ্য",
+    "B": "নবায়নযোগ্য",
+    "C": "উভয়ই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "ATP → ADP + শক্তি বিক্রিয়া —",
+   "options": {
+    "A": "তাপমোচী",
+    "B": "কোনোটিই নয়",
+    "C": "নিরপেক্ষ",
+    "D": "তাপগ্রাহী"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "হাইড্রোজেন ভবিষ্যতের জ্বালানি — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দূষণমুক্ত",
+    "C": "দূষণকারী",
+    "D": "সস্তা শুধু"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "বেগ দ্বিগুণ করলে গতিশক্তি —",
+   "options": {
+    "A": "৮ গুণ",
+    "B": "২ গুণ",
+    "C": "৪ গুণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "সালোকসংশ্লেষণে ক্লোরোফিল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "আলো শোষণ করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "শক্তির উৎস নির্বাচনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দরকার নেই",
+    "C": "পরিবেশ বিবেচনা হয়",
+    "D": "হয় না"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "শক্তির দক্ষ ব্যবহারে —",
+   "options": {
+    "A": "পরিবেশ রক্ষা হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পরিবেশ নষ্ট হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "ব্যাটারির ঋণাত্মক প্রান্ত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্যাথোড",
+    "C": "ইলেকট্রোড",
+    "D": "অ্যানোড"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "পরিবেশবান্ধব শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সৌর, বায়ু, জল",
+    "C": "তেল",
+    "D": "কয়লা"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "পতনে বিভব শক্তি → —",
+   "options": {
+    "A": "আলো শক্তি",
+    "B": "কোনোটিই নয়",
+    "C": "গতিশক্তি",
+    "D": "তাপ শক্তি"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে শক্তি —",
+   "options": {
+    "A": "এক জীব থেকে অন্য জীবের যায়",
+    "B": "নষ্ট হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "গ্যাসীয় জ্বালানির উদাহরণ —",
+   "options": {
+    "A": "কয়লা, কাঠ",
+    "B": "মিথেন, হাইড্রোজেন",
+    "C": "কোনোটিই নয়",
+    "D": "পেট্রোল, ডিজেল"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "বায়ুকলে —",
+   "options": {
+    "A": "তাপ → তড়িৎ",
+    "B": "তড়িৎ → বায়ু",
+    "C": "কোনোটিই নয়",
+    "D": "বায়ু → তড়িৎ"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "সালোকসংশ্লেষণে কাঁচামাল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "CO₂ ও পানি",
+    "D": "O₂ ও গ্লুকোজ"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "পারমাণবিক শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উভয়ই",
+    "C": "নবায়নযোগ্য",
+    "D": "অনবায়নযোগ্য"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "সৌরবিদ্যুতের সুবিধা —",
+   "options": {
+    "A": "দূষণকারী",
+    "B": "ব্যয়বহুল শুধু",
+    "C": "দূষণমুক্ত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "কাজ করার শক্তি আসে —",
+   "options": {
+    "A": "বাতাস থেকে",
+    "B": "খাদ্য থেকে",
+    "C": "কোনোটিই নয়",
+    "D": "পানি থেকে"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "হাইড্রোজেন দহনে —",
+   "options": {
+    "A": "দূষণ হয়",
+    "B": "দূষণ হয় না",
+    "C": "বেশি দূষণ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "কার্যকারিতা শতকরা সর্বোচ্চ —",
+   "options": {
+    "A": "১০০%",
+    "B": "২০০%",
+    "C": "কোনোটিই নয়",
+    "D": "৫০%"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "জ্বালানির দহনে বন্ধন —",
+   "options": {
+    "A": "ভাঙে ও গঠিত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু ভাঙে",
+    "D": "শুধু গঠিত হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাসের অপচয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্ষতিকর",
+    "C": "কোনোটিই নয়",
+    "D": "উপকারী"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "অ্যানারোবিক ব্যাকটেরিয়া কাজ করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আলোতে",
+    "C": "অক্সিজেনে",
+    "D": "অক্সিজেন ছাড়া"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "দহনে পুরনো বন্ধন ভাঙতে শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "নির্গত হয়",
+    "D": "শোষিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি —",
+   "options": {
+    "A": "কাঠ",
+    "B": "কোনোটিই নয়",
+    "C": "কয়লা, তেল, গ্যাস",
+    "D": "বায়োগ্যাস"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "পতনশীল বস্তুর গতি ও বিভব শক্তির যোগফল —",
+   "options": {
+    "A": "শূন্য",
+    "B": "পরিবর্তনশীল",
+    "C": "ধ্রুব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "শুকনো কোষের ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "রিমোট, ঘড়ি, টর্চ",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "অ্যাসিড বৃষ্টির ক্ষতি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মাটি, পানি, ভবন",
+    "C": "উপকার",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "এলইডি বাল্ব —",
+   "options": {
+    "A": "শক্তি সাশ্রয়ী",
+    "B": "সমান",
+    "C": "অপচয়ী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "ATP কাকে বলে?",
+   "options": {
+    "A": "চর্বি",
+    "B": "শক্তির মুদ্রা",
+    "C": "কোনোটিই নয়",
+    "D": "প্রোটিন"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "বায়োগ্যাসের উপজাত —",
+   "options": {
+    "A": "জৈব সার",
+    "B": "কোনোটিই নয়",
+    "C": "কয়লা",
+    "D": "তেল"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "তাপ ইঞ্জিনে অপচয় —",
+   "options": {
+    "A": "দহনে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শীতলকরণে"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "শ্বসনে CO₂ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ব্যবহৃত হয়",
+    "C": "কিছুই না",
+    "D": "উৎপন্ন হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "পারমাণবিক চুল্লিতে —",
+   "options": {
+    "A": "ফিশন বিক্রিয়া",
+    "B": "কোনোটিই নয়",
+    "C": "দহন",
+    "D": "ফিউশন বিক্রিয়া"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "রসায়ন ও শক্তি বুঝলে —",
+   "options": {
+    "A": "কিছুই বোঝা যায় না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "জীবন বোঝা যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "পদার্থের চক্র —",
+   "options": {
+    "A": "একমুখী",
+    "B": "কোনোটিই নয়",
+    "C": "চক্রাকার",
+    "D": "নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "গ্রামাঞ্চলে বায়োগ্যাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অপকারী",
+    "C": "উপকারী",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "বায়োগ্যাসে CO₂ —",
+   "options": {
+    "A": "৯০%",
+    "B": "কোনোটিই নয়",
+    "C": "প্রায় ৪০%",
+    "D": "১০%"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "রিচার্জেবল ব্যাটারি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হয় না",
+    "C": "পুনরায় চার্জ হয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "জ্বালানি কোষের উৎপাদ —",
+   "options": {
+    "A": "CO₂",
+    "B": "পানি",
+    "C": "CO",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "অপ্রয়োজনে বাতি জ্বালিয়ে রাখা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অপচয়",
+    "C": "সাশ্রয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "রাসায়নিক শক্তি মানবজীবনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অপরিহার্য",
+    "C": "অপ্রয়োজনীয়",
+    "D": "ঐচ্ছিক"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "জলবিদ্যুৎ —",
+   "options": {
+    "A": "অনবায়নযোগ্য",
+    "B": "কোনোটিই নয়",
+    "C": "নবায়নযোগ্য",
+    "D": "উভয়ই"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "আতশবাজিতে —",
+   "options": {
+    "A": "আলো → রাসায়নিক",
+    "B": "শব্দ → রাসায়নিক",
+    "C": "কোনোটিই নয়",
+    "D": "রাসায়নিক → আলো, তাপ, শব্দ"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "সালোকসংশ্লেষণে উৎপাদ —",
+   "options": {
+    "A": "CO₂ ও পানি",
+    "B": "গ্লুকোজ ও O₂",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির বিকল্প —",
+   "options": {
+    "A": "আরও জীবাশ্ম",
+    "B": "নবায়নযোগ্য শক্তি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "শক্তি ও রসায়ন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ওতপ্রোতভাবে জড়িত",
+    "C": "সম্পর্কহীন",
+    "D": "দুর্বল"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "দহনে নতুন বন্ধন গঠনে শক্তি —",
+   "options": {
+    "A": "শোষিত হয়",
+    "B": "কিছুই না",
+    "C": "নির্গত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "মিথেন —",
+   "options": {
+    "A": "তরল জ্বালানি",
+    "B": "গ্যাসীয় জ্বালানি",
+    "C": "কোনোটিই নয়",
+    "D": "কঠিন জ্বালানি"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "ভূ-তাপীয় শক্তির উৎস —",
+   "options": {
+    "A": "ভূ-অভ্যন্তরের তাপ",
+    "B": "বায়ু",
+    "C": "কোনোটিই নয়",
+    "D": "সূর্য"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলের প্রথম স্তর —",
+   "options": {
+    "A": "উৎপাদক (উদ্ভিদ)",
+    "B": "কোনোটিই নয়",
+    "C": "বিয়োজক",
+    "D": "ভোক্তা"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির দহনে বায়ুদূষণ —",
+   "options": {
+    "A": "হয় না",
+    "B": "হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "১ কিলোক্যালরি = কত ক্যালরি?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১০",
+    "C": "১০০",
+    "D": "১০০০"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "জীবজগতের শক্তির মূল উৎস —",
+   "options": {
+    "A": "সূর্য",
+    "B": "চাঁদ",
+    "C": "কোনোটিই নয়",
+    "D": "তারা"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাস সংরক্ষণ —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "জরুরি",
+    "C": "জরুরি নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "সৌর প্যানেলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সৌর → তড়িৎ",
+    "C": "তড়িৎ → সৌর",
+    "D": "তাপ → তড়িৎ"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "বন্ধনে শক্তি —",
+   "options": {
+    "A": "ধ্বংস হয়",
+    "B": "থাকে না",
+    "C": "কোনোটিই নয়",
+    "D": "সঞ্চিত থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "নবায়নযোগ্য শক্তি —",
+   "options": {
+    "A": "তেল",
+    "B": "কয়লা",
+    "C": "কোনোটিই নয়",
+    "D": "সৌর, বায়ু, জল"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "শক্তি উৎপাদনে রসায়নের ভূমিকা —",
+   "options": {
+    "A": "সীমিত",
+    "B": "অপরিসীম",
+    "C": "কোনোটিই নয়",
+    "D": "নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে শক্তির —",
+   "options": {
+    "A": "প্রবাহ ঘটে",
+    "B": "কোনোটিই নয়",
+    "C": "প্রবাহ ঘটে না",
+    "D": "ধ্বংস হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "শক্তি সংকট মোকাবিলায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কাউকে নয়",
+    "C": "সবাইকে সচেতন হতে হবে",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "খাদ্যের শক্তি মাপা হয় —",
+   "options": {
+    "A": "কিলোক্যালরিতে",
+    "B": "কোনোটিই নয়",
+    "C": "গ্রামে",
+    "D": "মিটারে"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "ATP ভেঙে —",
+   "options": {
+    "A": "ADP ও শক্তি",
+    "B": "শুধু ADP",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "বায়োগ্যাস প্লান্টের সুবিধা —",
+   "options": {
+    "A": "দূষণ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পরিচ্ছন্ন জ্বালানি ও সার"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "বায়োগ্যাসের অপচয় —",
+   "options": {
+    "A": "হলে লাভ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "হলে ক্ষতি"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "খাদ্যে সঞ্চিত শক্তি —",
+   "options": {
+    "A": "বিভব",
+    "B": "গতি",
+    "C": "কোনোটিই নয়",
+    "D": "রাসায়নিক"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "অনবায়নযোগ্য শক্তি —",
+   "options": {
+    "A": "কয়লা, তেল, গ্যাস",
+    "B": "সৌর",
+    "C": "কোনোটিই নয়",
+    "D": "বায়ু"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "রসায়ন শক্তি উৎপাদনে —",
+   "options": {
+    "A": "ভূমিকা রাখে না",
+    "B": "গুরুত্বপূর্ণ ভূমিকা রাখে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "রাসায়নিক শক্তি কাকে বলে?",
+   "options": {
+    "A": "তাপ শক্তি",
+    "B": "গতির শক্তি",
+    "C": "কোনোটিই নয়",
+    "D": "রাসায়নিক বন্ধনে সঞ্চিত শক্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "জ্বালানি রসায়নের —",
+   "options": {
+    "A": "ঐচ্ছিক",
+    "B": "অগুরুত্বপূর্ণ",
+    "C": "কোনোটিই নয়",
+    "D": "গুরুত্বপূর্ণ বিষয়"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "ভূমিতে পৌঁছালে গতিশক্তি —",
+   "options": {
+    "A": "অর্ধেক",
+    "B": "শূন্য",
+    "C": "কোনোটিই নয়",
+    "D": "সর্বোচ্চ"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "ব্যাটারি চার্জে —",
+   "options": {
+    "A": "তড়িৎ → রাসায়নিক",
+    "B": "কোনোটিই নয়",
+    "C": "রাসায়নিক → তড়িৎ",
+    "D": "তাপ → তড়িৎ"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "জ্বালানি কোষ (fuel cell) —",
+   "options": {
+    "A": "হাইড্রোজেন থেকে বিদ্যুৎ",
+    "B": "কিছুই না",
+    "C": "কয়লা থেকে বিদ্যুৎ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "রাসায়নিক শক্তি → আলো —",
+   "options": {
+    "A": "গলন",
+    "B": "স্ফুটন",
+    "C": "কোনোটিই নয়",
+    "D": "মোমবাতি, আতশবাজি"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "দহনে পুরনো বন্ধন ভেঙে —",
+   "options": {
+    "A": "কিছুই হয় না",
+    "B": "শুধু ভাঙে",
+    "C": "নতুন বন্ধন গঠিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি গঠিত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পানি থেকে",
+    "C": "পাথর থেকে",
+    "D": "জীবের দেহাবশেষ থেকে"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "সূর্যের শক্তি আসে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গলন থেকে",
+    "C": "দহন থেকে",
+    "D": "নিউক্লিয় ফিউশন থেকে"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "দেহের কাজে শক্তি আসে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পানি থেকে",
+    "C": "বাতাস থেকে",
+    "D": "ATP থেকে"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "ভবিষ্যতের জ্বালানি —",
+   "options": {
+    "A": "হাইড্রোজেন",
+    "B": "কোনোটিই নয়",
+    "C": "কয়লা",
+    "D": "তেল"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "বায়ুকল ঘোরে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপে",
+    "C": "পানিতে",
+    "D": "বায়ুপ্রবাহে"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "শুকনো কোষে ইলেকট্রোলাইট —",
+   "options": {
+    "A": "তেল",
+    "B": "পানি",
+    "C": "NH₄Cl পেস্ট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "বায়ু শক্তির অসুবিধা —",
+   "options": {
+    "A": "সবসময়",
+    "B": "বায়ু নির্ভর",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "সূর্যের শক্তি পৃথিবীতে আসে —",
+   "options": {
+    "A": "শুধু আলো",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু তাপ",
+    "D": "আলো ও তাপ হিসেবে"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "শ্বসন ও সালোকসংশ্লেষণে শক্তির —",
+   "options": {
+    "A": "রূপান্তর ঘটে না",
+    "B": "রূপান্তর ঘটে",
+    "C": "কোনোটিই নয়",
+    "D": "ধ্বংস হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "বায়োগ্যাসের প্রধান উপাদান —",
+   "options": {
+    "A": "মিথেন",
+    "B": "কোনোটিই নয়",
+    "C": "নাইট্রোজেন",
+    "D": "অক্সিজেন"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "অ্যানারোবিক অর্থ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অক্সিজেনসহ",
+    "C": "অক্সিজেন ছাড়া",
+    "D": "আলোসহ"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "ব্যবহৃত ব্যাটারি —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "কোনোটিই নয়",
+    "C": "দরকার নেই",
+    "D": "সঠিকভাবে নিষ্কাশন জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "ভালো জ্বালানির শর্ত —",
+   "options": {
+    "A": "উচ্চ ক্যালরিফিক মান, কম দূষণ",
+    "B": "কম ক্যালরিফিক মান",
+    "C": "বেশি দূষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "শক্তির উৎস —",
+   "options": {
+    "A": "শুধু অনবায়নযোগ্য",
+    "B": "শুধু নবায়নযোগ্য",
+    "C": "নবায়নযোগ্য ও অনবায়নযোগ্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "শুকনো কোষের —",
+   "options": {
+    "A": "জিঙ্ক ও কার্বন",
+    "B": "সোনা",
+    "C": "তামা ও লোহা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "গ্যাসের সাশ্রয়ী ব্যবহার —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "জরুরি নয়",
+    "C": "কোনোটিই নয়",
+    "D": "জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "তাপ শক্তি উৎপন্ন হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গলনে",
+    "C": "স্ফুটনে",
+    "D": "দহনে"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "শক্তি প্রবাহ —",
+   "options": {
+    "A": "একমুখী",
+    "B": "কোনোটিই নয়",
+    "C": "চক্রাকার",
+    "D": "নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "জ্বালানির দাম —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "নেই",
+    "C": "কোনোটিই নয়",
+    "D": "অগুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "সোলার প্যানেলের প্রধান উপাদান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তামা",
+    "C": "সিলিকন",
+    "D": "লোহা"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "রাসায়নিক শক্তি সঞ্চিত থাকে —",
+   "options": {
+    "A": "গতিতে",
+    "B": "কোনোটিই নয়",
+    "C": "আলোতে",
+    "D": "বন্ধনে"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "সৌর শক্তির সুবিধা —",
+   "options": {
+    "A": "দূষণ",
+    "B": "সীমিত",
+    "C": "পরিবেশবান্ধব ও অফুরন্ত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "শক্তি সংরক্ষণে —",
+   "options": {
+    "A": "অপচয় কমানো জরুরি",
+    "B": "কোনোটিই নয়",
+    "C": "দরকার নেই",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "ব্যাটারির ধনাত্মক প্রান্ত —",
+   "options": {
+    "A": "ক্যাথোড",
+    "B": "কোনোটিই নয়",
+    "C": "অ্যানোড",
+    "D": "ইলেকট্রোড"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "বায়ু শক্তির সুবিধা —",
+   "options": {
+    "A": "দূষণ",
+    "B": "সীমিত",
+    "C": "কোনোটিই নয়",
+    "D": "পরিচ্ছন্ন"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "১ গ্রাম চর্বি থেকে শক্তি —",
+   "options": {
+    "A": "৪ কিলোক্যালরি",
+    "B": "কোনোটিই নয়",
+    "C": "২ কিলোক্যালরি",
+    "D": "৯ কিলোক্যালরি"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "সালোকসংশ্লেষণে শক্তি —",
+   "options": {
+    "A": "শোষিত হয়",
+    "B": "কিছুই না",
+    "C": "নির্গত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাস —",
+   "options": {
+    "A": "অনবায়নযোগ্য",
+    "B": "কোনোটিই নয়",
+    "C": "উভয়ই",
+    "D": "নবায়নযোগ্য"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "১ kWh = কত জুল?",
+   "options": {
+    "A": "৩.৬ × ১০³",
+    "B": "৩.৬ × ১০⁶",
+    "C": "কোনোটিই নয়",
+    "D": "১০⁶"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "সালোকসংশ্লেষণ ঘটে —",
+   "options": {
+    "A": "সবুজ উদ্ভিদে",
+    "B": "কোনোটিই নয়",
+    "C": "প্রাণীতে",
+    "D": "পাথরে"
+   },
+   "correctAnswer": "A",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "বায়ু শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উভয়ই",
+    "C": "অনবায়নযোগ্য",
+    "D": "নবায়নযোগ্য"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "শক্তি সাশ্রয়ী যন্ত্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উচিত নয়",
+    "C": "দরকার নেই",
+    "D": "ব্যবহার করা উচিত"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "গ্লুকোজ জারণে —",
+   "options": {
+    "A": "শক্তি শোষিত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "শক্তি নির্গত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "হাইড্রোজেন দহনে দূষণ —",
+   "options": {
+    "A": "হয় না",
+    "B": "হয়",
+    "C": "কোনোটিই নয়",
+    "D": "বেশি হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "দিয়াশলাইয়ে —",
+   "options": {
+    "A": "রাসায়নিক → তাপ ও আলো",
+    "B": "তাপ → আলো",
+    "C": "আলো → রাসায়নিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "শ্বসনে O₂ —",
+   "options": {
+    "A": "উৎপন্ন হয়",
+    "B": "ব্যবহৃত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "জলবিদ্যুতের সুবিধা —",
+   "options": {
+    "A": "পরিচ্ছন্ন ও সস্তা",
+    "B": "কোনোটিই নয়",
+    "C": "ব্যয়বহুল",
+    "D": "দূষণ"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "শক্তির সঠিক ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দরকার নেই",
+    "C": "জরুরি",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "জ্বালানির শক্তি নির্গত হয় —",
+   "options": {
+    "A": "স্ফুটনে",
+    "B": "কোনোটিই নয়",
+    "C": "দহনে",
+    "D": "গলনে"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "জ্বালানির সংরক্ষণ —",
+   "options": {
+    "A": "সহজ হতে হয়",
+    "B": "কঠিন হতে হয়",
+    "C": "নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "মাইক্রোফোনে —",
+   "options": {
+    "A": "তাপ → শব্দ",
+    "B": "কোনোটিই নয়",
+    "C": "শব্দ → তড়িৎ",
+    "D": "তড়িৎ → শব্দ"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "ATP শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সঞ্চিত ও সরবরাহ করে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "অ্যাসিড বৃষ্টির কারণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "SO₂ ও NOx",
+    "C": "N₂",
+    "D": "O₂"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "শক্তি পরিমাপের যন্ত্র —",
+   "options": {
+    "A": "ব্যারোমিটার",
+    "B": "কোনোটিই নয়",
+    "C": "থার্মোমিটার",
+    "D": "ক্যালরিমিটার"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "খাদ্য রাসায়নিক শক্তির —",
+   "options": {
+    "A": "ফল নয়",
+    "B": "কোনোটিই নয়",
+    "C": "উৎস",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাস থেকে ইউরিয়া সার —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "উৎপন্ন হয়",
+    "C": "হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "রসায়ন ও শক্তি মানবজীবনে —",
+   "options": {
+    "A": "অপরিহার্য",
+    "B": "কোনোটিই নয়",
+    "C": "অপ্রয়োজনীয়",
+    "D": "ঐচ্ছিক"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "রাসায়নিক শক্তির ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কোথাও না",
+    "C": "কম",
+    "D": "সর্বত্র"
+   },
+   "correctAnswer": "D",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাস কয়লার চেয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কম দূষণকারী",
+    "C": "সমান",
+    "D": "বেশি দূষণকারী"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "৩ কেজি বস্তু ২ মি/সে বেগে গতিশক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৬ জুল",
+    "C": "১২ জুল",
+    "D": "৯ জুল"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "দহনে নিট শক্তি —",
+   "options": {
+    "A": "শূন্য",
+    "B": "শোষিত হয়",
+    "C": "নির্গত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রাসায়নিক শক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "বাংলাদেশে প্রাকৃতিক গ্যাস —",
+   "options": {
+    "A": "নেই",
+    "B": "গুরুত্বপূর্ণ জ্বালানি",
+    "C": "অগুরুত্বপূর্ণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "বিভব শক্তি কাকে বলে?",
+   "options": {
+    "A": "তাপ শক্তি",
+    "B": "অবস্থানের কারণে শক্তি",
+    "C": "কোনোটিই নয়",
+    "D": "গতির কারণে শক্তি"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "কয়লার প্রধান উপাদান —",
+   "options": {
+    "A": "অক্সিজেন",
+    "B": "কার্বন",
+    "C": "কোনোটিই নয়",
+    "D": "হাইড্রোজেন"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "কার্যকারিতা সবসময় —",
+   "options": {
+    "A": "১ এর কম",
+    "B": "১ এর বেশি",
+    "C": "কোনোটিই নয়",
+    "D": "১ এর সমান"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "জ্বালানি কাকে বলে?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "তাপ শোষণকারী",
+    "C": "কোনোটিই নয়",
+    "D": "দহনে তাপ উৎপন্নকারী পদার্থ"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "শক্তির গুরুত্ব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সীমিত",
+    "C": "অপরিসীম",
+    "D": "নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "সবচেয়ে বেশি ব্যবহৃত কঠিন জ্বালানি —",
+   "options": {
+    "A": "কাঠ",
+    "B": "পাতা",
+    "C": "কোনোটিই নয়",
+    "D": "কয়লা"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "শক্তির SI একক —",
+   "options": {
+    "A": "ওয়াট",
+    "B": "ক্যালরি",
+    "C": "কোনোটিই নয়",
+    "D": "জুল"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "তেজস্ক্রিয় বর্জ্য —",
+   "options": {
+    "A": "বিপজ্জনক",
+    "B": "কোনোটিই নয়",
+    "C": "উপকারী",
+    "D": "নিরাপদ"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "শক্তির ব্যবহারিক একক —",
+   "options": {
+    "A": "জুল",
+    "B": "ক্যালরি",
+    "C": "কিলোওয়াট-ঘণ্টা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "বায়োগ্যাস উৎপন্ন হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পাথর থেকে",
+    "C": "পানি থেকে",
+    "D": "জৈব বর্জ্য থেকে"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "জড়িত নয়",
+    "D": "সবসময় জড়িত"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "কয়লা দহনে দূষণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হয়",
+    "C": "হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "গতিশক্তির সূত্র —",
+   "options": {
+    "A": "mv",
+    "B": "কোনোটিই নয়",
+    "C": "½mv²",
+    "D": "mgh"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "পারমাণবিক শক্তির উৎস —",
+   "options": {
+    "A": "নিউক্লিয় বিক্রিয়া",
+    "B": "কোনোটিই নয়",
+    "C": "দহন",
+    "D": "গলন"
+   },
+   "correctAnswer": "A",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "টর্চে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রাসায়নিক → আলো",
+    "C": "আলো → রাসায়নিক",
+    "D": "তাপ → আলো"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "হাইড্রোজেন উৎপাদনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তড়িৎ বিশ্লেষণ",
+    "C": "গলন",
+    "D": "স্ফুটন"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "লাউডস্পিকারে —",
+   "options": {
+    "A": "তড়িৎ → শব্দ",
+    "B": "কোনোটিই নয়",
+    "C": "তাপ → শব্দ",
+    "D": "শব্দ → তড়িৎ"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "পানির তড়িৎ বিশ্লেষণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "H₂ ও Cl₂",
+    "C": "O₂ ও N₂",
+    "D": "H₂ ও O₂"
+   },
+   "correctAnswer": "D",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "বায়োমাস থেকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বায়োগ্যাস উৎপন্ন হয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "কয়লা দহনে সালফার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "SO₂ নির্গত হয়",
+    "D": "O₂ নির্গত হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "তাপ ইঞ্জিনে জ্বালানি —",
+   "options": {
+    "A": "পোড়ানো হয়",
+    "B": "গলানো হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "শক্তি সংকট সমাধানে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নবায়নযোগ্য শক্তি",
+    "C": "জীবাশ্ম শুধু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "তাপ পরিমাপের একক —",
+   "options": {
+    "A": "কেজি",
+    "B": "মিটার",
+    "C": "কোনোটিই নয়",
+    "D": "ক্যালরি বা জুল"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "বাংলাদেশের পারমাণবিক বিদ্যুৎ কেন্দ্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কাপ্তাই",
+    "C": "রূপপুর",
+    "D": "ঘোড়াশাল"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "বায়োগ্যাস উৎপাদনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যানারোবিক ব্যাকটেরিয়া",
+    "C": "অক্সিজেন",
+    "D": "সূর্যালোক"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "দহনের অপকার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "দূষণ",
+    "D": "উপকার"
+   },
+   "correctAnswer": "C",
+   "topic": "জ্বালানি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "রসায়ন শক্তির —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "উৎস ও রূপান্তর ব্যাখ্যা করে",
+    "D": "কিছুই ব্যাখ্যা করে না"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "বৈদ্যুতিক মোটরে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "যান্ত্রিক → তড়িৎ",
+    "C": "তড়িৎ → যান্ত্রিক",
+    "D": "তাপ → তড়িৎ"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "শক্তি সাশ্রয়ে —",
+   "options": {
+    "A": "বাতি নেভানো উচিত",
+    "B": "দরকার নেই",
+    "C": "কোনোটিই নয়",
+    "D": "উচিত নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "১ ক্যালরি = কত জুল?",
+   "options": {
+    "A": "৪.১৮৬",
+    "B": "১০০",
+    "C": "কোনোটিই নয়",
+    "D": "১০"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "শক্তি কাকে বলে?",
+   "options": {
+    "A": "বস্তুর ভর",
+    "B": "কাজ করার সামর্থ্য",
+    "C": "কোনোটিই নয়",
+    "D": "বস্তুর তাপ"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "শক্তি অপচয় কমালে কার্যকারিতা —",
+   "options": {
+    "A": "একই",
+    "B": "বাড়ে",
+    "C": "শূন্য",
+    "D": "কমে"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "জেনারেটরে —",
+   "options": {
+    "A": "তড়িৎ → যান্ত্রিক",
+    "B": "কোনোটিই নয়",
+    "C": "যান্ত্রিক → তড়িৎ",
+    "D": "তাপ → তড়িৎ"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "মোমবাতিতে —",
+   "options": {
+    "A": "আলো → রাসায়নিক",
+    "B": "কোনোটিই নয়",
+    "C": "তাপ → আলো",
+    "D": "রাসায়নিক → আলো ও তাপ"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "রসায়ন শক্তির রূপান্তর —",
+   "options": {
+    "A": "ব্যাখ্যা করে",
+    "B": "করে না",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "উচ্চতা দ্বিগুণ করলে বিভব শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৪ গুণ",
+    "C": "২ গুণ",
+    "D": "অর্ধেক"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "ইলেকট্রিক আয়রনে —",
+   "options": {
+    "A": "তাপ → আলো",
+    "B": "তাপ → তড়িৎ",
+    "C": "তড়িৎ → তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "ভূ-তাপীয় শক্তি —",
+   "options": {
+    "A": "উভয়ই",
+    "B": "কোনোটিই নয়",
+    "C": "অনবায়নযোগ্য",
+    "D": "নবায়নযোগ্য"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "বায়ু শক্তি থেকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু তাপ",
+    "C": "কোনোটিই নয়",
+    "D": "বায়ুকল দিয়ে বিদ্যুৎ"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "বায়োমাসের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পাথর",
+    "C": "কাঠ, গোবর, আবর্জনা",
+    "D": "ধাতু"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "১ গ্রাম শর্করা থেকে শক্তি —",
+   "options": {
+    "A": "৪ কিলোক্যালরি",
+    "B": "কোনোটিই নয়",
+    "C": "৯ কিলোক্যালরি",
+    "D": "২ কিলোক্যালরি"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "রসায়ন ও শক্তি অধ্যায় শিক্ষায় —",
+   "options": {
+    "A": "ঐচ্ছিক",
+    "B": "অগুরুত্বপূর্ণ",
+    "C": "কোনোটিই নয়",
+    "D": "গুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "তাপ ইঞ্জিনে কিছু তাপ —",
+   "options": {
+    "A": "অপচয় হয়",
+    "B": "কোনোটিই নয়",
+    "C": "সংরক্ষিত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "সূর্যে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফিশন বিক্রিয়া ঘটে",
+    "C": "দহন হয়",
+    "D": "ফিউশন বিক্রিয়া ঘটে"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "ভূমিতে পৌঁছালে বিভব শক্তি —",
+   "options": {
+    "A": "শূন্য",
+    "B": "অর্ধেক",
+    "C": "সর্বোচ্চ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "মোট শক্তি —",
+   "options": {
+    "A": "ধ্বংস হয়",
+    "B": "সংরক্ষিত থাকে",
+    "C": "কোনোটিই নয়",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "সবচেয়ে বেশি শক্তি দেয় —",
+   "options": {
+    "A": "প্রোটিন",
+    "B": "চর্বি",
+    "C": "কোনোটিই নয়",
+    "D": "শর্করা"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "বৈদ্যুতিক হিটারে —",
+   "options": {
+    "A": "তড়িৎ → তাপ",
+    "B": "তাপ → তড়িৎ",
+    "C": "তাপ → যান্ত্রিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "শক্তির প্রকার —",
+   "options": {
+    "A": "গতি ও বিভব শক্তি",
+    "B": "শুধু বিভব",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু গতি"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "গতিশক্তি কাকে বলে?",
+   "options": {
+    "A": "গতির কারণে শক্তি",
+    "B": "কোনোটিই নয়",
+    "C": "তাপ শক্তি",
+    "D": "অবস্থানের কারণে শক্তি"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "২ কেজি বস্তু ৩ মি/সে বেগে চললে গতিশক্তি —",
+   "options": {
+    "A": "৯ জুল",
+    "B": "১৮ জুল",
+    "C": "৬ জুল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "অনবায়নযোগ্য শক্তির বৈশিষ্ট্য —",
+   "options": {
+    "A": "ফুরিয়ে যায়",
+    "B": "অফুরন্ত",
+    "C": "কোনোটিই নয়",
+    "D": "ফুরায় না"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "রসায়ন ও শক্তির সম্পর্ক —",
+   "options": {
+    "A": "ঘনিষ্ঠ",
+    "B": "কোনোটিই নয়",
+    "C": "নেই",
+    "D": "দুর্বল"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "শক্তির সঠিক ও দক্ষ ব্যবহার —",
+   "options": {
+    "A": "জরুরি",
+    "B": "জরুরি নয়",
+    "C": "কোনোটিই নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "তাপ ইঞ্জিনের কার্যকারিতা —",
+   "options": {
+    "A": "১০০% এর কম",
+    "B": "কোনোটিই নয়",
+    "C": "১০০% এর বেশি",
+    "D": "১০০% সমান"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "টেলিভিশনে —",
+   "options": {
+    "A": "তড়িৎ → আলো ও শব্দ",
+    "B": "আলো → তড়িৎ",
+    "C": "কোনোটিই নয়",
+    "D": "শব্দ → তড়িৎ"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "জলবিদ্যুতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "তাপে ঘোরে",
+    "D": "পানির প্রবাহে টারবাইন ঘোরে"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "প্রতিটি রাসায়নিক বিক্রিয়ায় শক্তির —",
+   "options": {
+    "A": "ধ্বংস হয়",
+    "B": "পরিবর্তন হয় না",
+    "C": "কোনোটিই নয়",
+    "D": "পরিবর্তন হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "বায়োগ্যাসে প্রধানত —",
+   "options": {
+    "A": "H₂ ও Cl₂",
+    "B": "কোনোটিই নয়",
+    "C": "মিথেন ও CO₂",
+    "D": "O₂ ও N₂"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "ক্যালরিমিটারে —",
+   "options": {
+    "A": "তেল ব্যবহৃত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "পানি ব্যবহৃত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "৫ কেজি বস্তু ৪ মিটার উঁচুতে বিভব শক্তি (g=১০) —",
+   "options": {
+    "A": "২০ জুল",
+    "B": "কোনোটিই নয়",
+    "C": "১০০ জুল",
+    "D": "২০০ জুল"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "পতনশীল বস্তুর বিভব শক্তি —",
+   "options": {
+    "A": "একই",
+    "B": "বাড়ে",
+    "C": "কমে",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "শক্তি সংরক্ষণে শিক্ষার্থীদের —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দরকার নেই",
+    "C": "ভূমিকা নেই",
+    "D": "ভূমিকা আছে"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "শক্তির সংরক্ষণ সূত্র —",
+   "options": {
+    "A": "শক্তি সৃষ্টি বা ধ্বংস হয় না",
+    "B": "শক্তি ধ্বংস হয়",
+    "C": "শক্তি সৃষ্টি হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "শক্তি সংরক্ষণ সূত্রের প্রয়োগ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কম",
+    "C": "সর্বত্র",
+    "D": "কোথাও না"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "C",
+  "2": "A",
+  "3": "A",
+  "4": "A",
+  "5": "C",
+  "6": "C",
+  "7": "C",
+  "8": "B",
+  "9": "B",
+  "10": "B",
+  "11": "B",
+  "12": "C",
+  "13": "A",
+  "14": "A",
+  "15": "C",
+  "16": "C",
+  "17": "A",
+  "18": "D",
+  "19": "A",
+  "20": "C",
+  "21": "B",
+  "22": "D",
+  "23": "D",
+  "24": "A",
+  "25": "C",
+  "26": "B",
+  "27": "A",
+  "28": "A",
+  "29": "B",
+  "30": "A",
+  "31": "B",
+  "32": "A",
+  "33": "C",
+  "34": "C",
+  "35": "D",
+  "36": "B",
+  "37": "D",
+  "38": "D",
+  "39": "A",
+  "40": "D",
+  "41": "D",
+  "42": "A",
+  "43": "B",
+  "44": "A",
+  "45": "D",
+  "46": "C",
+  "47": "D",
+  "48": "C",
+  "49": "A",
+  "50": "B",
+  "51": "C",
+  "52": "B",
+  "53": "B",
+  "54": "D",
+  "55": "A",
+  "56": "C",
+  "57": "A",
+  "58": "C",
+  "59": "A",
+  "60": "D",
+  "61": "A",
+  "62": "B",
+  "63": "D",
+  "64": "D",
+  "65": "D",
+  "66": "A",
+  "67": "C",
+  "68": "C",
+  "69": "B",
+  "70": "C",
+  "71": "D",
+  "72": "C",
+  "73": "C",
+  "74": "C",
+  "75": "B",
+  "76": "A",
+  "77": "D",
+  "78": "D",
+  "79": "B",
+  "80": "B",
+  "81": "B",
+  "82": "A",
+  "83": "A",
+  "84": "B",
+  "85": "D",
+  "86": "D",
+  "87": "D",
+  "88": "C",
+  "89": "B",
+  "90": "A",
+  "91": "A",
+  "92": "D",
+  "93": "D",
+  "94": "B",
+  "95": "B",
+  "96": "D",
+  "97": "D",
+  "98": "D",
+  "99": "A",
+  "100": "B",
+  "101": "D",
+  "102": "A",
+  "103": "D",
+  "104": "C",
+  "105": "B",
+  "106": "C",
+  "107": "C",
+  "108": "D",
+  "109": "A",
+  "110": "A",
+  "111": "A",
+  "112": "C",
+  "113": "C",
+  "114": "A",
+  "115": "C",
+  "116": "B",
+  "117": "C",
+  "118": "C",
+  "119": "B",
+  "120": "D",
+  "121": "D",
+  "122": "B",
+  "123": "D",
+  "124": "B",
+  "125": "A",
+  "126": "C",
+  "127": "C",
+  "128": "D",
+  "129": "B",
+  "130": "D",
+  "131": "A",
+  "132": "D",
+  "133": "B",
+  "134": "A",
+  "135": "B",
+  "136": "D",
+  "137": "D",
+  "138": "C",
+  "139": "C",
+  "140": "C",
+  "141": "B",
+  "142": "A",
+  "143": "B",
+  "144": "D",
+  "145": "C",
+  "146": "C",
+  "147": "B",
+  "148": "C",
+  "149": "C",
+  "150": "C",
+  "151": "C",
+  "152": "A",
+  "153": "C",
+  "154": "A",
+  "155": "C",
+  "156": "B",
+  "157": "D",
+  "158": "D",
+  "159": "A",
+  "160": "D",
+  "161": "B",
+  "162": "A",
+  "163": "C",
+  "164": "B",
+  "165": "B",
+  "166": "B",
+  "167": "B",
+  "168": "D",
+  "169": "D",
+  "170": "A",
+  "171": "C",
+  "172": "A",
+  "173": "B",
+  "174": "B",
+  "175": "A",
+  "176": "D",
+  "177": "C",
+  "178": "D",
+  "179": "B",
+  "180": "C",
+  "181": "D",
+  "182": "A",
+  "183": "D",
+  "184": "B",
+  "185": "B",
+  "186": "A",
+  "187": "B",
+  "188": "C",
+  "189": "B",
+  "190": "C",
+  "191": "A",
+  "192": "D",
+  "193": "B",
+  "194": "C",
+  "195": "A",
+  "196": "B",
+  "197": "D",
+  "198": "C",
+  "199": "D",
+  "200": "C",
+  "201": "B",
+  "202": "B",
+  "203": "A",
+  "204": "A",
+  "205": "B",
+  "206": "D",
+  "207": "D",
+  "208": "C",
+  "209": "C",
+  "210": "C",
+  "211": "B",
+  "212": "A",
+  "213": "B",
+  "214": "A",
+  "215": "D",
+  "216": "D",
+  "217": "A",
+  "218": "D",
+  "219": "C",
+  "220": "C",
+  "221": "C",
+  "222": "C",
+  "223": "B",
+  "224": "B",
+  "225": "B",
+  "226": "C",
+  "227": "D",
+  "228": "B",
+  "229": "B",
+  "230": "B",
+  "231": "C",
+  "232": "B",
+  "233": "A",
+  "234": "A",
+  "235": "B",
+  "236": "D",
+  "237": "A",
+  "238": "B",
+  "239": "B",
+  "240": "D",
+  "241": "D",
+  "242": "B",
+  "243": "A",
+  "244": "C",
+  "245": "A",
+  "246": "A",
+  "247": "D",
+  "248": "D",
+  "249": "D",
+  "250": "A",
+  "251": "B",
+  "252": "D",
+  "253": "D",
+  "254": "D",
+  "255": "A",
+  "256": "A",
+  "257": "D",
+  "258": "C",
+  "259": "D",
+  "260": "D",
+  "261": "D",
+  "262": "A",
+  "263": "D",
+  "264": "C",
+  "265": "B",
+  "266": "D",
+  "267": "B",
+  "268": "A",
+  "269": "C",
+  "270": "D",
+  "271": "A",
+  "272": "C",
+  "273": "A",
+  "274": "D",
+  "275": "D",
+  "276": "A",
+  "277": "A",
+  "278": "C",
+  "279": "D",
+  "280": "C",
+  "281": "A",
+  "282": "A",
+  "283": "D",
+  "284": "D",
+  "285": "A",
+  "286": "A",
+  "287": "B",
+  "288": "A",
+  "289": "D",
+  "290": "D",
+  "291": "C",
+  "292": "A",
+  "293": "A",
+  "294": "B",
+  "295": "A",
+  "296": "C",
+  "297": "C",
+  "298": "A",
+  "299": "C",
+  "300": "B",
+  "301": "B",
+  "302": "D",
+  "303": "C",
+  "304": "B",
+  "305": "A",
+  "306": "D",
+  "307": "B",
+  "308": "B",
+  "309": "C",
+  "310": "B",
+  "311": "B",
+  "312": "B",
+  "313": "A",
+  "314": "D",
+  "315": "C",
+  "316": "D",
+  "317": "D",
+  "318": "A",
+  "319": "C",
+  "320": "D",
+  "321": "D",
+  "322": "B",
+  "323": "C",
+  "324": "A",
+  "325": "B",
+  "326": "B",
+  "327": "A",
+  "328": "D",
+  "329": "B",
+  "330": "C",
+  "331": "A",
+  "332": "B",
+  "333": "D",
+  "334": "C",
+  "335": "B",
+  "336": "C",
+  "337": "C",
+  "338": "C",
+  "339": "A",
+  "340": "A",
+  "341": "B",
+  "342": "B",
+  "343": "C",
+  "344": "D",
+  "345": "A",
+  "346": "C",
+  "347": "C",
+  "348": "D",
+  "349": "D",
+  "350": "C",
+  "351": "A",
+  "352": "D",
+  "353": "A",
+  "354": "D",
+  "355": "A",
+  "356": "B",
+  "357": "B",
+  "358": "A",
+  "359": "A",
+  "360": "A",
+  "361": "A",
+  "362": "A",
+  "363": "A",
+  "364": "A",
+  "365": "A",
+  "366": "A",
+  "367": "D",
+  "368": "D",
+  "369": "C",
+  "370": "C",
+  "371": "D",
+  "372": "C",
+  "373": "D",
+  "374": "A",
+  "375": "C"
+ }
+}
