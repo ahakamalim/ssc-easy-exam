@@ -1,0 +1,7134 @@
+{
+ "subject": "রসায়ন",
+ "chapterNo": 7,
+ "chapter": "রাসায়নিক বিক্রিয়া",
+ "questions": [
+  {
+   "question": "সালোকসংশ্লেষণ —",
+   "options": {
+    "A": "নিরপেক্ষ",
+    "B": "তাপমোচী",
+    "C": "তাপগ্রাহী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "H₂ + O₂ → H₂O সমতা করলে —",
+   "options": {
+    "A": "2H₂ + O₂ → 2H₂O",
+    "B": "কোনোটিই নয়",
+    "C": "H₂ + 2O₂ → 2H₂O",
+    "D": "H₂ + O₂ → H₂O"
+   },
+   "correctAnswer": "A",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া কয় প্রকার?",
+   "options": {
+    "A": "৩",
+    "B": "৪",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার প্রকার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "সংযোজন বিক্রিয়ার উদাহরণ —",
+   "options": {
+    "A": "Zn + H₂SO₄ → ZnSO₄ + H₂",
+    "B": "H₂ + Cl₂ → 2HCl",
+    "C": "CaCO₃ → CaO + CO₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংযোজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "CaCO₃ বিয়োজনে তাপ —",
+   "options": {
+    "A": "প্রয়োজন হয়",
+    "B": "নির্গত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বিয়োজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "প্রতিস্থাপন বিক্রিয়া কাকে বলে?",
+   "options": {
+    "A": "এক ভেঙে দুই",
+    "B": "এক মৌল অন্য মৌলকে প্রতিস্থাপন",
+    "C": "দুই মিলে এক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "দ্বি-প্রতিস্থাপন বিক্রিয়ার উদাহরণ —",
+   "options": {
+    "A": "CaCO₃ → CaO + CO₂",
+    "B": "NaCl + AgNO₃ → AgCl + NaNO₃",
+    "C": "H₂ + Cl₂ → 2HCl",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "অ্যামোনিয়া উৎপাদনে অনুঘটক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "Pt",
+    "C": "MnO₂",
+    "D": "লোহা"
+   },
+   "correctAnswer": "D",
+   "topic": "অনুঘটক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "সংঘর্ষ বাড়লে বিক্রিয়ার হার —",
+   "options": {
+    "A": "শূন্য",
+    "B": "কমে",
+    "C": "একই",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার হার",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "H₂O তে H এর জারণ সংখ্যা —",
+   "options": {
+    "A": "+১",
+    "B": "কোনোটিই নয়",
+    "C": "−১",
+    "D": "০"
+   },
+   "correctAnswer": "A",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "প্রশমন বিক্রিয়া —",
+   "options": {
+    "A": "তাপগ্রাহী",
+    "B": "তাপমোচী",
+    "C": "কোনোটিই নয়",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্ল-ক্ষার বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "ইলেকট্রোপ্লেটিংয়ের উদ্দেশ্য —",
+   "options": {
+    "A": "সৌন্দর্য ও মরিচা রোধ",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "কার্বন মনোক্সাইড (CO) —",
+   "options": {
+    "A": "উপকারী",
+    "B": "কোনোটিই নয়",
+    "C": "নিরাপদ",
+    "D": "বিষাক্ত"
+   },
+   "correctAnswer": "D",
+   "topic": "দহন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "N₂ + 3H₂ ⇌ 2NH₃ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "উভমুখী বিক্রিয়া",
+    "D": "একমুখী"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "সমীকরণ সমতায় সহগ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পরমাণু সংখ্যা সমান করে",
+    "C": "ভর বাড়ায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার প্রকার —",
+   "options": {
+    "A": "শুধু সংযোজন",
+    "B": "শুধু বিয়োজন",
+    "C": "সংযোজন, বিয়োজন, প্রতিস্থাপন, দ্বি-প্রতিস্থাপন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার প্রকার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "দহন বিক্রিয়া একটি —",
+   "options": {
+    "A": "সংযোজন বিক্রিয়া",
+    "B": "বিয়োজন",
+    "C": "প্রতিস্থাপন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সংযোজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "2KClO₃ → 2KCl + 3O₂ বিক্রিয়াটি —",
+   "options": {
+    "A": "সংযোজন",
+    "B": "প্রতিস্থাপন",
+    "C": "কোনোটিই নয়",
+    "D": "বিয়োজন"
+   },
+   "correctAnswer": "D",
+   "topic": "বিয়োজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "সক্রিয়তা সিরিজে Cu Ag এর —",
+   "options": {
+    "A": "নিচে",
+    "B": "উপরে",
+    "C": "কোনোটিই নয়",
+    "D": "সমান"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "দ্বি-প্রতিস্থাপনে AB + CD → —",
+   "options": {
+    "A": "AD + CB",
+    "B": "AB + CD",
+    "C": "কোনোটিই নয়",
+    "D": "A + B + C + D"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "অনুঘটক কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গতি কমায়",
+    "C": "বিক্রিয়ক",
+    "D": "বিক্রিয়ার গতি বাড়ায় এমন পদার্থ"
+   },
+   "correctAnswer": "D",
+   "topic": "অনুঘটক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার হার কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "একক সময়ে বিক্রিয়ার পরিমাণ",
+    "D": "মোট বিক্রিয়া"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার হার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "বিজারণ কাকে বলে?",
+   "options": {
+    "A": "অক্সিজেন অপসারণ বা ইলেকট্রন লাভ",
+    "B": "কোনোটিই নয়",
+    "C": "অক্সিজেন যোগ",
+    "D": "হাইড্রোজেন অপসারণ"
+   },
+   "correctAnswer": "A",
+   "topic": "জারণ-বিজারণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "অম্ল-ক্ষার বিক্রিয়ার ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কৃষি, চিকিৎসা, শিল্প"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্ল-ক্ষার বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "তড়িৎ বিশ্লেষণে অ্যানোডে —",
+   "options": {
+    "A": "ধনাত্মক আয়ন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ঋণাত্মক আয়ন"
+   },
+   "correctAnswer": "D",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "দহন ত্রিভুজের উপাদান —",
+   "options": {
+    "A": "জ্বালানি, তাপ, অক্সিজেন",
+    "B": "শুধু জ্বালানি",
+    "C": "শুধু তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দহন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "তাপমোচী বিক্রিয়ায় ΔH —",
+   "options": {
+    "A": "শূন্য",
+    "B": "কোনোটিই নয়",
+    "C": "ঋণাত্মক",
+    "D": "ধনাত্মক"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "N₂ + H₂ → NH₃ সমতা করলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "N₂ + H₂ → NH₃",
+    "C": "N₂ + 3H₂ → 2NH₃",
+    "D": "2N₂ + H₂ → NH₃"
+   },
+   "correctAnswer": "C",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "H₂ + Cl₂ → 2HCl কোন বিক্রিয়া?",
+   "options": {
+    "A": "সংযোজন",
+    "B": "বিয়োজন",
+    "C": "কোনোটিই নয়",
+    "D": "প্রতিস্থাপন"
+   },
+   "correctAnswer": "A",
+   "topic": "সংযোজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "2H₂O → 2H₂ + O₂ কোন বিক্রিয়া?",
+   "options": {
+    "A": "প্রতিস্থাপন",
+    "B": "বিয়োজন",
+    "C": "সংযোজন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিয়োজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "প্রতিস্থাপন বিক্রিয়ায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সক্রিয় মৌল কম সক্রিয়কে প্রতিস্থাপন করে",
+    "C": "কিছুই না",
+    "D": "কম সক্রিয় সক্রিয়কে"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "KOH + HNO₃ → KNO₃ + H₂O কোন বিক্রিয়া?",
+   "options": {
+    "A": "প্রতিস্থাপন",
+    "B": "দ্বি-প্রতিস্থাপন",
+    "C": "কোনোটিই নয়",
+    "D": "সংযোজন"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "অনুঘটক অ্যামোনিয়া উৎপাদন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ধীর করে",
+    "C": "দ্রুত করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "অনুঘটক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "অনুঘটক যোগে বিক্রিয়ার হার —",
+   "options": {
+    "A": "শূন্য",
+    "B": "কমে",
+    "C": "বাড়ে",
+    "D": "একই"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার হার",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "জারণ-বিজারণে জারক —",
+   "options": {
+    "A": "বিজারিত হয়",
+    "B": "কিছুই না",
+    "C": "জারিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "কৃষিতে মাটির অম্লতা কমাতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অম্ল",
+    "C": "কোনোটিই নয়",
+    "D": "চুন (ক্ষার)"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্ল-ক্ষার বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "ইলেকট্রোপ্লেটিংয়ে প্রলেপের ধাতু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মাঝে থাকে",
+    "C": "অ্যানোড হয়",
+    "D": "ক্যাথোড হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "দহনে উৎপন্ন হয় —",
+   "options": {
+    "A": "O₂",
+    "B": "CO₂ ও তাপ",
+    "C": "N₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দহন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "প্লাস্টিক উৎপাদনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভৌত পরিবর্তন",
+    "C": "রাসায়নিক বিক্রিয়া",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "CH₄ + O₂ → CO₂ + H₂O সমতা করলে —",
+   "options": {
+    "A": "CH₄ + 2O₂ → CO₂ + 2H₂O",
+    "B": "CH₄ + 3O₂ → CO₂ + H₂O",
+    "C": "কোনোটিই নয়",
+    "D": "CH₄ + O₂ → CO₂ + H₂O"
+   },
+   "correctAnswer": "A",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "সংযোজন বিক্রিয়া কাকে বলে?",
+   "options": {
+    "A": "এক থেকে দুই",
+    "B": "দুই বা ততোধিক মিলে এক উৎপাদ",
+    "C": "কোনোটিই নয়",
+    "D": "প্রতিস্থাপন"
+   },
+   "correctAnswer": "B",
+   "topic": "সংযোজন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "2HgO → 2Hg + O₂ কোন বিক্রিয়া?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রতিস্থাপন",
+    "C": "সংযোজন",
+    "D": "বিয়োজন"
+   },
+   "correctAnswer": "D",
+   "topic": "বিয়োজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "সক্রিয়তা সিরিজে Zn Cu এর —",
+   "options": {
+    "A": "সমান",
+    "B": "উপরে",
+    "C": "নিচে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "NaOH + HCl → NaCl + H₂O কোন বিক্রিয়া?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রতিস্থাপন",
+    "C": "সংযোজন",
+    "D": "দ্বি-প্রতিস্থাপন"
+   },
+   "correctAnswer": "D",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "পরিপাকে এনজাইম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সহায়ক",
+    "C": "বাধক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অনুঘটক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "তাপমাত্রা বাড়ালে বিক্রিয়ার হার —",
+   "options": {
+    "A": "একই",
+    "B": "কমে",
+    "C": "শূন্য",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার হার",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "মরিচার রং —",
+   "options": {
+    "A": "নীল",
+    "B": "কোনোটিই নয়",
+    "C": "সাদা",
+    "D": "লালচে-বাদামি"
+   },
+   "correctAnswer": "D",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "মাটির ক্ষারত্ব কমাতে —",
+   "options": {
+    "A": "ক্ষার",
+    "B": "কোনোটিই নয়",
+    "C": "অম্ল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "অম্ল-ক্ষার বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "পানির তড়িৎ বিশ্লেষণে উৎপন্ন হয় —",
+   "options": {
+    "A": "H₂ ও Cl₂",
+    "B": "কোনোটিই নয়",
+    "C": "H₂ ও O₂",
+    "D": "O₂ ও N₂"
+   },
+   "correctAnswer": "C",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "দহনের অপকার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দূষণ",
+    "C": "কিছুই না",
+    "D": "উপকার"
+   },
+   "correctAnswer": "B",
+   "topic": "দহন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া পরীক্ষায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই লাগে না",
+    "C": "দরকার নেই",
+    "D": "সতর্কতা প্রয়োজন"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "সমীকরণে আলো নির্দেশ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "hv চিহ্নে",
+    "C": "Δ চিহ্নে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "সংযোজন বিক্রিয়ায় উৎপাদ —",
+   "options": {
+    "A": "তিনটি",
+    "B": "একটি",
+    "C": "দুইটি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংযোজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "বিয়োজন বিক্রিয়ায় উৎপাদ সংখ্যা —",
+   "options": {
+    "A": "শূন্য",
+    "B": "কোনোটিই নয়",
+    "C": "১",
+    "D": "২ বা ততোধিক"
+   },
+   "correctAnswer": "D",
+   "topic": "বিয়োজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "Zn + H₂SO₄ → ZnSO₄ + H₂ কোন বিক্রিয়া?",
+   "options": {
+    "A": "প্রতিস্থাপন",
+    "B": "কোনোটিই নয়",
+    "C": "সংযোজন",
+    "D": "বিয়োজন"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "অধঃক্ষেপ সৃষ্টির বিক্রিয়ায় —",
+   "options": {
+    "A": "দ্রবণীয় লবণ হয়",
+    "B": "অদ্রবণীয় লবণ হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "ধনাত্মক অনুঘটক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "গতি কমায়",
+    "C": "কোনোটিই নয়",
+    "D": "গতি বাড়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "অনুঘটক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "চাপ বাড়ালে গ্যাসের বিক্রিয়ার হার —",
+   "options": {
+    "A": "কমে",
+    "B": "শূন্য",
+    "C": "বাড়ে",
+    "D": "একই"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার হার",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "জারণ-বিজারণে বিজারক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জারিত হয়",
+    "C": "বিজারিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রশমন বিক্রিয়া",
+    "C": "বিয়োজন",
+    "D": "দহন"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্ল-ক্ষার বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "সোডিয়াম নিষ্কাশনে —",
+   "options": {
+    "A": "আলো",
+    "B": "কোনোটিই নয়",
+    "C": "তড়িৎ বিশ্লেষণ",
+    "D": "তাপ"
+   },
+   "correctAnswer": "C",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "দহনে দূষণকারী গ্যাস —",
+   "options": {
+    "A": "N₂",
+    "B": "কোনোটিই নয়",
+    "C": "O₂",
+    "D": "CO₂, CO"
+   },
+   "correctAnswer": "D",
+   "topic": "দহন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "বিক্রিয়ার ফলে অধঃক্ষেপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "কখনো হয় না",
+    "D": "সৃষ্টি হতে পারে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "সমীকরণে গ্যাস নির্গমন নির্দেশ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "↑ চিহ্নে",
+    "C": "কোনোটিই নয়",
+    "D": "↓ চিহ্নে"
+   },
+   "correctAnswer": "B",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "সংযোজন বিক্রিয়ায় শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সাধারণত নির্গত হয়",
+    "D": "শোষিত হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সংযোজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "বিয়োজন বিক্রিয়ায় AB → —",
+   "options": {
+    "A": "AB",
+    "B": "ABC",
+    "C": "কোনোটিই নয়",
+    "D": "A + B"
+   },
+   "correctAnswer": "D",
+   "topic": "বিয়োজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "প্রতিস্থাপন বিক্রিয়ায় A + BC → —",
+   "options": {
+    "A": "AB + C",
+    "B": "কোনোটিই নয়",
+    "C": "A + B + C",
+    "D": "AC + B"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "অধঃক্ষেপের রং শনাক্তে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সাহায্য করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "অনুঘটক বিক্রিয়ার সক্রিয়ণ শক্তি —",
+   "options": {
+    "A": "বাড়ায়",
+    "B": "শূন্য করে",
+    "C": "কমায়",
+    "D": "একই রাখে"
+   },
+   "correctAnswer": "C",
+   "topic": "অনুঘটক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার গতি মাপা হয় —",
+   "options": {
+    "A": "মোট পরিবর্তনে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "একক সময়ে পরিবর্তনে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার হার",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "গ্যালভানাইজিং কাকে বলে?",
+   "options": {
+    "A": "রঙের প্রলেপ",
+    "B": "তামার প্রলেপ",
+    "C": "কোনোটিই নয়",
+    "D": "দস্তার প্রলেপ"
+   },
+   "correctAnswer": "D",
+   "topic": "জারণ-বিজারণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "অ্যান্টাসিডে থাকে —",
+   "options": {
+    "A": "অম্লীয় পদার্থ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ক্ষারীয় পদার্থ"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্ল-ক্ষার বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "তড়িৎ বিশ্লেষণে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "তড়িৎদ্বার ব্যবহার হয়",
+    "C": "হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "CH₄ + 2O₂ → CO₂ + 2H₂O —",
+   "options": {
+    "A": "প্রতিস্থাপন",
+    "B": "দহন বিক্রিয়া",
+    "C": "বিয়োজন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দহন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "সাম্যাবস্থায় বিক্রিয়ক ও উৎপাদের ঘনত্ব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্থির থাকে",
+    "C": "কমে",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "সমীকরণে উভয় পাশে পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "শূন্য",
+    "B": "কোনোটিই নয়",
+    "C": "সমান",
+    "D": "ভিন্ন"
+   },
+   "correctAnswer": "C",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "সংযোজন বিক্রিয়ায় A + B → —",
+   "options": {
+    "A": "AB + C",
+    "B": "AB",
+    "C": "কোনোটিই নয়",
+    "D": "A + B"
+   },
+   "correctAnswer": "B",
+   "topic": "সংযোজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "2H₂O₂ → 2H₂O + O₂ কোন বিক্রিয়া?",
+   "options": {
+    "A": "প্রতিস্থাপন",
+    "B": "বিয়োজন",
+    "C": "কোনোটিই নয়",
+    "D": "সংযোজন"
+   },
+   "correctAnswer": "B",
+   "topic": "বিয়োজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "Cu + ZnSO₄ → বিক্রিয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ঘটে",
+    "D": "ঘটে না"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "AgNO₃ + NaCl → AgCl + NaNO₃ কোন বিক্রিয়া?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সংযোজন",
+    "C": "দ্বি-প্রতিস্থাপন",
+    "D": "প্রতিস্থাপন"
+   },
+   "correctAnswer": "C",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "অনুঘটক বিক্রিয়ার গতি —",
+   "options": {
+    "A": "একই রাখে",
+    "B": "বাড়ায়",
+    "C": "কমায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অনুঘটক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "ঘনত্ব বাড়ালে সংঘর্ষ —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "শূন্য",
+    "C": "কমে",
+    "D": "একই"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার হার",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "জারণের উদাহরণ —",
+   "options": {
+    "A": "CaCO₃ বিয়োজন",
+    "B": "কোনোটিই নয়",
+    "C": "বরফ গলন",
+    "D": "লোহায় মরিচা"
+   },
+   "correctAnswer": "D",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "প্রশমন বিক্রিয়ায় তাপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শোষিত হয়",
+    "D": "নির্গত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্ল-ক্ষার বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "ইলেকট্রোপ্লেটিং কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "রং করা",
+    "D": "তড়িৎ বিশ্লেষণে প্রলেপ"
+   },
+   "correctAnswer": "D",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "অসম্পূর্ণ দহনে —",
+   "options": {
+    "A": "CO উৎপন্ন হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "CO₂ উৎপন্ন হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দহন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া বিশ্লেষণে —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "নেই",
+    "C": "কোনোটিই নয়",
+    "D": "অগুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "সমীকরণে (aq) মানে —",
+   "options": {
+    "A": "কঠিন",
+    "B": "জলীয় দ্রবণ",
+    "C": "গ্যাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "C + O₂ → CO₂ কোন বিক্রিয়া?",
+   "options": {
+    "A": "সংযোজন",
+    "B": "কোনোটিই নয়",
+    "C": "প্রতিস্থাপন",
+    "D": "বিয়োজন"
+   },
+   "correctAnswer": "A",
+   "topic": "সংযোজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "বিয়োজন বিক্রিয়ায় শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নির্গত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "সাধারণত শোষিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বিয়োজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "2Na + 2H₂O → 2NaOH + H₂ কোন বিক্রিয়া?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সংযোজন",
+    "C": "বিয়োজন",
+    "D": "প্রতিস্থাপন"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "দ্বি-প্রতিস্থাপনে অধঃক্ষেপ —",
+   "options": {
+    "A": "কখনো হয় না",
+    "B": "কিছুই না",
+    "C": "সৃষ্টি হতে পারে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "সক্রিয়ণ শক্তি কমলে বিক্রিয়ার হার —",
+   "options": {
+    "A": "কমে",
+    "B": "শূন্য",
+    "C": "একই",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "অনুঘটক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "খাবার ফ্রিজে রাখলে ধীরে পচে — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "তাপমাত্রা কম",
+    "D": "তাপমাত্রা বেশি"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার হার",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "Fe₂O₃ → Fe এ লোহা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জারিত হয়",
+    "C": "বিজারিত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "অম্ল-ক্ষার বিক্রিয়া কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অম্ল ও ক্ষারের বিক্রিয়া",
+    "C": "বিয়োজন",
+    "D": "দহন"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্ল-ক্ষার বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "তড়িৎ বিশ্লেষণের শর্ত —",
+   "options": {
+    "A": "যেকোনো যৌগ",
+    "B": "আয়নিক যৌগের দ্রবণ বা গলিত অবস্থা",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "দহনের জন্য প্রয়োজন —",
+   "options": {
+    "A": "শুধু তাপ",
+    "B": "দাহ্য পদার্থ, অক্সিজেন, তাপ",
+    "C": "শুধু অক্সিজেন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দহন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "ΔH কাকে বলে?",
+   "options": {
+    "A": "ভরের পরিবর্তন",
+    "B": "কিছুই না",
+    "C": "এনথালপির পরিবর্তন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "সমীকরণে Δ চিহ্ন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ঠান্ডা নির্দেশ করে",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ প্রয়োগ নির্দেশ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "S + O₂ → SO₂ কোন বিক্রিয়া?",
+   "options": {
+    "A": "প্রতিস্থাপন",
+    "B": "বিয়োজন",
+    "C": "কোনোটিই নয়",
+    "D": "সংযোজন"
+   },
+   "correctAnswer": "D",
+   "topic": "সংযোজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "2KClO₃ → 2KCl + 3O₂ কোন বিক্রিয়া?",
+   "options": {
+    "A": "সংযোজন",
+    "B": "প্রতিস্থাপন",
+    "C": "কোনোটিই নয়",
+    "D": "বিয়োজন"
+   },
+   "correctAnswer": "D",
+   "topic": "বিয়োজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "Cu + H₂SO₄ → CuSO₄ + H₂ কোন বিক্রিয়া?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বিয়োজন",
+    "C": "সংযোজন",
+    "D": "প্রতিস্থাপন"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "AgNO₃ + NaCl → AgCl↓ + NaNO₃ এ অধঃক্ষেপ —",
+   "options": {
+    "A": "AgNO₃",
+    "B": "AgCl",
+    "C": "কোনোটিই নয়",
+    "D": "NaNO₃"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "সালফিউরিক অ্যাসিড উৎপাদনে অনুঘটক —",
+   "options": {
+    "A": "V₂O₅",
+    "B": "Fe",
+    "C": "MnO₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অনুঘটক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "বিক্রিয়ার হারের একক —",
+   "options": {
+    "A": "মোল/লিটার/সেকেন্ড",
+    "B": "গ্রাম",
+    "C": "মিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার হার",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "Na এর জারণ সংখ্যা —",
+   "options": {
+    "A": "−১",
+    "B": "কোনোটিই নয়",
+    "C": "+১",
+    "D": "০"
+   },
+   "correctAnswer": "D",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "প্রশমন বিক্রিয়ার ফল —",
+   "options": {
+    "A": "লবণ ও পানি",
+    "B": "শুধু পানি",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু লবণ"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্ল-ক্ষার বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "তড়িৎ বিশ্লেষণে দ্রবণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অপরিবাহী",
+    "C": "তড়িৎবিশ্লেষ্য",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "দহনের ব্যবহার —",
+   "options": {
+    "A": "রান্না, বিদ্যুৎ, যানবাহন",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দহন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া ছাড়া রসায়ন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সম্পূর্ণ",
+    "C": "কোনোটিই নয়",
+    "D": "অসম্পূর্ণ"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "Ca + O₂ → CaO সমতা করলে —",
+   "options": {
+    "A": "Ca + O₂ → CaO",
+    "B": "Ca + 2O₂ → CaO",
+    "C": "2Ca + O₂ → 2CaO",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "2Mg + O₂ → 2MgO কোন বিক্রিয়া?",
+   "options": {
+    "A": "সংযোজন",
+    "B": "প্রতিস্থাপন",
+    "C": "বিয়োজন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সংযোজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "বিয়োজন বিক্রিয়ায় বিক্রিয়ক —",
+   "options": {
+    "A": "দুইটি",
+    "B": "তিনটি",
+    "C": "একটি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিয়োজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "সক্রিয়তা সিরিজে Fe Cu এর —",
+   "options": {
+    "A": "নিচে",
+    "B": "সমান",
+    "C": "কোনোটিই নয়",
+    "D": "উপরে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "সালফেট আয়ন শনাক্তে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "NaOH",
+    "C": "AgNO₃",
+    "D": "BaCl₂ দ্রবণ"
+   },
+   "correctAnswer": "D",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "অনুঘটক বিক্রিয়ায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পরিবর্তিত হয়",
+    "C": "শেষ হয়",
+    "D": "অপরিবর্তিত থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "অনুঘটক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "তাপমাত্রা ১০°C বাড়ালে বিক্রিয়ার হার —",
+   "options": {
+    "A": "প্রায় দ্বিগুণ হয়",
+    "B": "একই",
+    "C": "অর্ধেক হয়",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার হার",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "লোহায় জিংকের প্রলেপ —",
+   "options": {
+    "A": "মরিচা রোধ করে",
+    "B": "কোনোটিই নয়",
+    "C": "মরিচা বাড়ায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "প্রশমনে তাপমাত্রা —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "শূন্য",
+    "C": "একই",
+    "D": "কমে"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্ল-ক্ষার বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "তড়িৎ বিশ্লেষণে ক্যাথোড —",
+   "options": {
+    "A": "ঋণাত্মক তড়িৎদ্বার",
+    "B": "ধনাত্মক তড়িৎদ্বার",
+    "C": "কোনোটিই নয়",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "মিথেনের দহনে —",
+   "options": {
+    "A": "CO",
+    "B": "CO₂ ও H₂O",
+    "C": "কোনোটিই নয়",
+    "D": "O₂"
+   },
+   "correctAnswer": "B",
+   "topic": "দহন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "কাচ উৎপাদনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "রাসায়নিক বিক্রিয়া",
+    "D": "ভৌত পরিবর্তন"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "সমীকরণে অধঃক্ষেপ নির্দেশ —",
+   "options": {
+    "A": "↓ চিহ্নে",
+    "B": "↑ চিহ্নে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "2H₂ + O₂ → 2H₂O কোন বিক্রিয়া?",
+   "options": {
+    "A": "সংযোজন",
+    "B": "কোনোটিই নয়",
+    "C": "প্রতিস্থাপন",
+    "D": "বিয়োজন"
+   },
+   "correctAnswer": "A",
+   "topic": "সংযোজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "বিয়োজন বিক্রিয়ার উদাহরণ —",
+   "options": {
+    "A": "Zn + H₂SO₄ → ZnSO₄ + H₂",
+    "B": "কোনোটিই নয়",
+    "C": "H₂ + Cl₂ → 2HCl",
+    "D": "CaCO₃ → CaO + CO₂"
+   },
+   "correctAnswer": "D",
+   "topic": "বিয়োজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "Ag + CuSO₄ → বিক্রিয়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ঘটে না",
+    "C": "ঘটে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "AgNO₃ দিয়ে ক্লোরাইড শনাক্তে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সাদা অধঃক্ষেপ",
+    "C": "কোনোটিই নয়",
+    "D": "হলুদ অধঃক্ষেপ"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "এনজাইম কী?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জৈব অনুঘটক",
+    "C": "অজৈব অনুঘটক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "অনুঘটক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "শিল্পে বিক্রিয়ার গতি নিয়ন্ত্রণ —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "নেই",
+    "C": "অগুরুত্বপূর্ণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার হার",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "গ্যালভানাইজিংয়ে —",
+   "options": {
+    "A": "রং",
+    "B": "কোনোটিই নয়",
+    "C": "তামার প্রলেপ",
+    "D": "জিংকের প্রলেপ"
+   },
+   "correctAnswer": "D",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "অম্বলের চিকিৎসায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যান্টাসিড",
+    "C": "অম্ল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্ল-ক্ষার বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "আয়নিক যৌগের তড়িৎ বিশ্লেষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হয় না",
+    "C": "কিছুই না",
+    "D": "হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "সম্পূর্ণ দহনে —",
+   "options": {
+    "A": "CO₂ উৎপন্ন হয়",
+    "B": "কোনোটিই নয়",
+    "C": "CO উৎপন্ন হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "দহন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "AgBr এর রং —",
+   "options": {
+    "A": "কালো",
+    "B": "কোনোটিই নয়",
+    "C": "হালকা হলুদ",
+    "D": "সাদা"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "Mg + O₂ → MgO সমতা করলে —",
+   "options": {
+    "A": "Mg + O₂ → MgO",
+    "B": "কোনোটিই নয়",
+    "C": "2Mg + O₂ → 2MgO",
+    "D": "Mg + 2O₂ → MgO"
+   },
+   "correctAnswer": "C",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "সংযোজন বিক্রিয়ায় উৎপাদ সংখ্যা —",
+   "options": {
+    "A": "২",
+    "B": "১",
+    "C": "কোনোটিই নয়",
+    "D": "৩"
+   },
+   "correctAnswer": "B",
+   "topic": "সংযোজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "CaCO₃ → CaO + CO₂ কোন বিক্রিয়া?",
+   "options": {
+    "A": "বিয়োজন",
+    "B": "কোনোটিই নয়",
+    "C": "প্রতিস্থাপন",
+    "D": "সংযোজন"
+   },
+   "correctAnswer": "A",
+   "topic": "বিয়োজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "সবচেয়ে কম সক্রিয় ধাতু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সোনা",
+    "C": "পটাসিয়াম",
+    "D": "সোডিয়াম"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "BaSO₄ পানিতে —",
+   "options": {
+    "A": "দ্রবণীয়",
+    "B": "আংশিক",
+    "C": "কোনোটিই নয়",
+    "D": "অদ্রবণীয়"
+   },
+   "correctAnswer": "D",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "এনজাইম ছাড়া পরিপাক —",
+   "options": {
+    "A": "ধীর বা অসম্ভব",
+    "B": "কোনোটিই নয়",
+    "C": "সহজ",
+    "D": "দ্রুত"
+   },
+   "correctAnswer": "A",
+   "topic": "অনুঘটক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার গতি নিয়ন্ত্রণ —",
+   "options": {
+    "A": "সম্ভব নয়",
+    "B": "সম্ভব",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার হার",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "মরিচা প্রতিরোধে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পানি লাগানো হয়",
+    "D": "রং বা তেল লাগানো হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "অম্ল-ক্ষার বিক্রিয়াকে বলা হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দহন",
+    "C": "বিয়োজন",
+    "D": "প্রশমন বিক্রিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্ল-ক্ষার বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "সমযোজী যৌগের তড়িৎ বিশ্লেষণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হয় না",
+    "C": "হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাসের প্রধান উপাদান —",
+   "options": {
+    "A": "ইথেন",
+    "B": "মিথেন",
+    "C": "কোনোটিই নয়",
+    "D": "প্রোপেন"
+   },
+   "correctAnswer": "B",
+   "topic": "দহন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার শর্ত —",
+   "options": {
+    "A": "শুধু আলো",
+    "B": "শুধু তাপ",
+    "C": "স্পর্শ, তাপ, আলো, চাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "রাসায়নিক সমীকরণ কাকে বলে?",
+   "options": {
+    "A": "সংকেত",
+    "B": "কোনোটিই নয়",
+    "C": "মৌলের প্রতীক",
+    "D": "বিক্রিয়ার সংক্ষিপ্ত প্রকাশ"
+   },
+   "correctAnswer": "D",
+   "topic": "সমীকরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "N₂ + 3H₂ → 2NH₃ কোন বিক্রিয়া?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রতিস্থাপন",
+    "C": "সংযোজন",
+    "D": "বিয়োজন"
+   },
+   "correctAnswer": "C",
+   "topic": "সংযোজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "বিয়োজন বিক্রিয়া কাকে বলে?",
+   "options": {
+    "A": "দুই মিলে এক",
+    "B": "প্রতিস্থাপন",
+    "C": "এক যৌগ ভেঙে দুই বা ততোধিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিয়োজন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "2Al + 6HCl → 2AlCl₃ + 3H₂ কোন বিক্রিয়া?",
+   "options": {
+    "A": "সংযোজন",
+    "B": "বিয়োজন",
+    "C": "কোনোটিই নয়",
+    "D": "প্রতিস্থাপন"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "দ্বি-প্রতিস্থাপনে —",
+   "options": {
+    "A": "এক মৌল বিনিময় হয়",
+    "B": "দুই যৌগের আয়ন বিনিময় হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "অনুঘটকের ভূমিকা শিল্পে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অগুরুত্বপূর্ণ",
+    "C": "গুরুত্বপূর্ণ",
+    "D": "নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "অনুঘটক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "কণার আকার ছোট হলে বিক্রিয়ার হার —",
+   "options": {
+    "A": "কমে",
+    "B": "একই",
+    "C": "শূন্য",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার হার",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "জারণ-বিজারণের ব্যবহার —",
+   "options": {
+    "A": "ধাতু নিষ্কাশন, ব্যাটারি",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "অম্ল-ক্ষার বিক্রিয়ায় পানি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "উৎপন্ন হয়",
+    "C": "উৎপন্ন হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অম্ল-ক্ষার বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "তড়িৎ বিশ্লেষণে ব্যবহৃত হয় —",
+   "options": {
+    "A": "তাপ",
+    "B": "আলো",
+    "C": "তড়িৎ প্রবাহ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "কয়লা পোড়ানো —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বিয়োজন",
+    "C": "প্রতিস্থাপন",
+    "D": "দহন বিক্রিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "দহন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "বিক্রিয়া শেষে বিক্রিয়ক —",
+   "options": {
+    "A": "শেষ হয়ে যায়",
+    "B": "বাড়ে",
+    "C": "কোনোটিই নয়",
+    "D": "একই থাকে"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "সমীকরণে (g) মানে —",
+   "options": {
+    "A": "গ্যাস",
+    "B": "কঠিন",
+    "C": "কোনোটিই নয়",
+    "D": "তরল"
+   },
+   "correctAnswer": "A",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "SO₂ + O₂ → SO₃ কোন বিক্রিয়া?",
+   "options": {
+    "A": "বিয়োজন",
+    "B": "কোনোটিই নয়",
+    "C": "সংযোজন",
+    "D": "প্রতিস্থাপন"
+   },
+   "correctAnswer": "C",
+   "topic": "সংযোজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "বিয়োজন বিক্রিয়ায় তাপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নির্গত হয়",
+    "C": "কিছুই না",
+    "D": "প্রয়োজন হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বিয়োজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "Mg + 2HCl → MgCl₂ + H₂ কোন বিক্রিয়া?",
+   "options": {
+    "A": "সংযোজন",
+    "B": "বিয়োজন",
+    "C": "প্রতিস্থাপন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "NaCl + AgNO₃ → AgCl + NaNO₃ কোন বিক্রিয়া?",
+   "options": {
+    "A": "প্রতিস্থাপন",
+    "B": "কোনোটিই নয়",
+    "C": "সংযোজন",
+    "D": "দ্বি-প্রতিস্থাপন"
+   },
+   "correctAnswer": "D",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "অনুঘটক ছাড়া অ্যামোনিয়া উৎপাদন —",
+   "options": {
+    "A": "দ্রুত",
+    "B": "কোনোটিই নয়",
+    "C": "সম্ভব নয়",
+    "D": "ধীর"
+   },
+   "correctAnswer": "D",
+   "topic": "অনুঘটক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "তাপমাত্রা বাড়ালে কণার সংঘর্ষ —",
+   "options": {
+    "A": "শূন্য",
+    "B": "কমে",
+    "C": "বাড়ে",
+    "D": "একই"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার হার",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "NaCl এ Na এর জারণ সংখ্যা —",
+   "options": {
+    "A": "−১",
+    "B": "০",
+    "C": "কোনোটিই নয়",
+    "D": "+১"
+   },
+   "correctAnswer": "D",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "অম্ল-ক্ষার বিক্রিয়ায় উৎপন্ন হয় —",
+   "options": {
+    "A": "লবণ ও পানি",
+    "B": "শুধু পানি",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু লবণ"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্ল-ক্ষার বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "অ্যালুমিনিয়াম নিষ্কাশনে —",
+   "options": {
+    "A": "তড়িৎ বিশ্লেষণ",
+    "B": "আলো",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "দহনে অক্সিজেন —",
+   "options": {
+    "A": "প্রয়োজন",
+    "B": "প্রয়োজন নেই",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দহন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "কিছু বিক্রিয়া ঘটে —",
+   "options": {
+    "A": "অন্ধকারে",
+    "B": "আলোতে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "Fe + O₂ → Fe₂O₃ সমতা করলে —",
+   "options": {
+    "A": "4Fe + 3O₂ → 2Fe₂O₃",
+    "B": "Fe + O₂ → Fe₂O₃",
+    "C": "কোনোটিই নয়",
+    "D": "2Fe + O₂ → Fe₂O₃"
+   },
+   "correctAnswer": "A",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "সংযোজন বিক্রিয়ায় তাপ —",
+   "options": {
+    "A": "সাধারণত নির্গত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "শোষিত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সংযোজন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "Zn + CuSO₄ → ZnSO₄ + Cu এ —",
+   "options": {
+    "A": "Cu Zn কে প্রতিস্থাপন করে",
+    "B": "Zn Cu কে প্রতিস্থাপন করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "NaCl পানিতে —",
+   "options": {
+    "A": "আংশিক",
+    "B": "কোনোটিই নয়",
+    "C": "দ্রবণীয়",
+    "D": "অদ্রবণীয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "অনুঘটকের উদাহরণ —",
+   "options": {
+    "A": "MnO₂, Pt",
+    "B": "H₂O",
+    "C": "কোনোটিই নয়",
+    "D": "NaCl"
+   },
+   "correctAnswer": "A",
+   "topic": "অনুঘটক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "গুঁড়া লোহা দ্রুত বিক্রিয়া করে — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্ষেত্রফল বেশি",
+    "C": "ক্ষেত্রফল কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার হার",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "জারক পদার্থ —",
+   "options": {
+    "A": "ইলেকট্রন গ্রহণ করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ইলেকট্রন ত্যাগ করে"
+   },
+   "correctAnswer": "A",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "অম্ল-ক্ষার বিক্রিয়ায় লবণ —",
+   "options": {
+    "A": "উৎপন্ন হয়",
+    "B": "কোনোটিই নয়",
+    "C": "উৎপন্ন হয় না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্ল-ক্ষার বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "গহনায় সোনার প্রলেপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ইলেকট্রোপ্লেটিংয়ে",
+    "C": "রং করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "বন্ধন গঠনে শক্তি —",
+   "options": {
+    "A": "প্রয়োজন",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "নির্গত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "সমীকরণে সহগ —",
+   "options": {
+    "A": "ভগ্নাংশ হয়",
+    "B": "শূন্য হয়",
+    "C": "কোনোটিই নয়",
+    "D": "পূর্ণ সংখ্যা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "সক্রিয়তা সিরিজের শীর্ষে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "K",
+    "C": "Ag",
+    "D": "Cu"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "BaCl₂ দিয়ে সালফেট শনাক্তে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সাদা অধঃক্ষেপ",
+    "D": "হলুদ অধঃক্ষেপ"
+   },
+   "correctAnswer": "C",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "এনজাইম —",
+   "options": {
+    "A": "খনিজ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "জীবদেহের অনুঘটক"
+   },
+   "correctAnswer": "D",
+   "topic": "অনুঘটক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "বিক্রিয়ার হার নির্ভর করে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "শুধু গন্ধ",
+    "C": "তাপমাত্রা, ঘনত্ব, অনুঘটক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার হার",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "NaCl এ Cl এর জারণ সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "+১",
+    "C": "০",
+    "D": "−১"
+   },
+   "correctAnswer": "D",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "HCl + NaOH → NaCl + H₂O —",
+   "options": {
+    "A": "অম্ল-ক্ষার বিক্রিয়া",
+    "B": "দহন",
+    "C": "কোনোটিই নয়",
+    "D": "বিয়োজন"
+   },
+   "correctAnswer": "A",
+   "topic": "অম্ল-ক্ষার বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "তড়িৎ বিশ্লেষণে আয়ন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "স্থির থাকে",
+    "D": "তড়িৎদ্বারে চলে"
+   },
+   "correctAnswer": "D",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "পরীক্ষাগারে বিক্রিয়া —",
+   "options": {
+    "A": "নিয়ন্ত্রিতভাবে করা হয়",
+    "B": "যেভাবে হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "Al + O₂ → Al₂O₃ সমতা করলে —",
+   "options": {
+    "A": "4Al + 3O₂ → 2Al₂O₃",
+    "B": "Al + O₂ → Al₂O₃",
+    "C": "2Al + O₂ → Al₂O₃",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "প্রতিস্থাপন বিক্রিয়ার উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "Zn + H₂SO₄ → ZnSO₄ + H₂",
+    "C": "CaCO₃ → CaO + CO₂",
+    "D": "H₂ + Cl₂ → 2HCl"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার মাধ্যমে —",
+   "options": {
+    "A": "আয়ন শনাক্ত করা যায়",
+    "B": "কিছুই করা যায় না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "2KClO₃ → 2KCl + 3O₂ এ অনুঘটক —",
+   "options": {
+    "A": "MnO₂",
+    "B": "Pt",
+    "C": "কোনোটিই নয়",
+    "D": "Fe"
+   },
+   "correctAnswer": "A",
+   "topic": "অনুঘটক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "ঘনত্ব বাড়ালে বিক্রিয়ার হার —",
+   "options": {
+    "A": "একই",
+    "B": "শূন্য",
+    "C": "কমে",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার হার",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "H₂O₂ তে O এর জারণ সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "−১",
+    "C": "−২",
+    "D": "০"
+   },
+   "correctAnswer": "B",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "অম্বলে অম্ল-ক্ষার বিক্রিয়া —",
+   "options": {
+    "A": "ক্ষার নিঃসরণ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "অম্ল নিঃসরণ"
+   },
+   "correctAnswer": "D",
+   "topic": "অম্ল-ক্ষার বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "তড়িৎ বিশ্লেষণ কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তড়িৎ প্রবাহে রাসায়নিক পরিবর্তন",
+    "C": "তাপে পরিবর্তন",
+    "D": "আলোতে পরিবর্তন"
+   },
+   "correctAnswer": "B",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "বিক্রিয়ায় বুদবুদ —",
+   "options": {
+    "A": "গ্যাস নির্গমন নির্দেশ করে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "সমীকরণে উভয় পাশে ভর —",
+   "options": {
+    "A": "শূন্য",
+    "B": "সমান",
+    "C": "ভিন্ন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "সক্রিয়তা সিরিজের নিচে —",
+   "options": {
+    "A": "K, Na",
+    "B": "Au, Ag",
+    "C": "Ca, Mg",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "AgCl পানিতে —",
+   "options": {
+    "A": "আংশিক দ্রবণীয়",
+    "B": "অদ্রবণীয়",
+    "C": "দ্রবণীয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "ঋণাত্মক অনুঘটক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "গতি কমায়",
+    "C": "কোনোটিই নয়",
+    "D": "গতি বাড়ায়"
+   },
+   "correctAnswer": "B",
+   "topic": "অনুঘটক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "জারণে জারণ সংখ্যা —",
+   "options": {
+    "A": "শূন্য",
+    "B": "কমে",
+    "C": "বাড়ে",
+    "D": "একই"
+   },
+   "correctAnswer": "C",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "তড়িৎ বিশ্লেষণে অ্যানোড —",
+   "options": {
+    "A": "নিরপেক্ষ",
+    "B": "ঋণাত্মক তড়িৎদ্বার",
+    "C": "ধনাত্মক তড়িৎদ্বার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "বিক্রিয়ায় শক্তির পরিবর্তন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "মাপা যায় না",
+    "D": "মাপা যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "H₂ + Cl₂ → HCl সমতা করলে —",
+   "options": {
+    "A": "H₂ + Cl₂ → 2HCl",
+    "B": "H₂ + Cl₂ → HCl",
+    "C": "কোনোটিই নয়",
+    "D": "2H₂ + Cl₂ → HCl"
+   },
+   "correctAnswer": "A",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "Fe + CuSO₄ → FeSO₄ + Cu কোন বিক্রিয়া?",
+   "options": {
+    "A": "সংযোজন",
+    "B": "প্রতিস্থাপন",
+    "C": "কোনোটিই নয়",
+    "D": "বিয়োজন"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "দ্বি-প্রতিস্থাপন বিক্রিয়া কাকে বলে?",
+   "options": {
+    "A": "দুই যৌগের মধ্যে বিনিময়",
+    "B": "কোনোটিই নয়",
+    "C": "এক মৌল প্রতিস্থাপন",
+    "D": "সংযোজন"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "বিজারক পদার্থ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ইলেকট্রন ত্যাগ করে",
+    "D": "ইলেকট্রন গ্রহণ করে"
+   },
+   "correctAnswer": "C",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "ইলেকট্রোপ্লেটিংয়ে তড়িৎবিশ্লেষ্য —",
+   "options": {
+    "A": "পানি",
+    "B": "প্রলেপ ধাতুর লবণ দ্রবণ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "তাপগ্রাহী বিক্রিয়ায় ΔH —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শূন্য",
+    "C": "ধনাত্মক",
+    "D": "ঋণাত্মক"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "রাসায়নিক সমীকরণ লেখার নিয়ম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সঠিক সংকেত ও সমতা",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "Ca(OH)₂ + 2HCl → CaCl₂ + 2H₂O কোন বিক্রিয়া?",
+   "options": {
+    "A": "সংযোজন",
+    "B": "কোনোটিই নয়",
+    "C": "প্রতিস্থাপন",
+    "D": "দ্বি-প্রতিস্থাপন"
+   },
+   "correctAnswer": "D",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "মরিচা পড়লে লোহা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শক্ত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "ক্ষয় হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "সোনার প্রলেপে সোনা —",
+   "options": {
+    "A": "ক্যাথোড",
+    "B": "মাঝে",
+    "C": "কোনোটিই নয়",
+    "D": "অ্যানোড"
+   },
+   "correctAnswer": "D",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "দুধ থেকে দই —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রাসায়নিক পরিবর্তন",
+    "C": "ভৌত পরিবর্তন",
+    "D": "উভয়ই"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার সমীকরণে অবস্থা নির্দেশ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "(s), (l), (g), (aq)",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "HCl + NaOH → NaCl + H₂O কোন বিক্রিয়া?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দ্বি-প্রতিস্থাপন",
+    "C": "সংযোজন",
+    "D": "প্রতিস্থাপন"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "বিজারণের উদাহরণ —",
+   "options": {
+    "A": "ধাতুর আকরিক থেকে ধাতু নিষ্কাশন",
+    "B": "মরিচা",
+    "C": "দহন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "NaCl দ্রবণের তড়িৎ বিশ্লেষণে —",
+   "options": {
+    "A": "Na, O₂",
+    "B": "কোনোটিই নয়",
+    "C": "NaOH, H₂, Cl₂",
+    "D": "NaCl"
+   },
+   "correctAnswer": "C",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "বিস্ফোরণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই হয় না",
+    "C": "শব্দ ও আলো হয়",
+    "D": "শুধু তাপ"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "K + O₂ → K₂O সমতা করলে —",
+   "options": {
+    "A": "2K + O₂ → K₂O",
+    "B": "কোনোটিই নয়",
+    "C": "4K + O₂ → 2K₂O",
+    "D": "K + O₂ → K₂O"
+   },
+   "correctAnswer": "C",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "ক্লোরাইড আয়ন শনাক্তে —",
+   "options": {
+    "A": "AgNO₃ দ্রবণ",
+    "B": "কোনোটিই নয়",
+    "C": "BaCl₂",
+    "D": "NaOH"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "জারক পদার্থ কাকে বলে?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "যা নিজে জারিত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "যা অন্যকে জারিত করে"
+   },
+   "correctAnswer": "D",
+   "topic": "জারণ-বিজারণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "ক্যাটায়ন চলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ক্যাথোডে",
+    "D": "অ্যানোডে"
+   },
+   "correctAnswer": "C",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার পর্যবেক্ষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গুরুত্বপূর্ণ",
+    "C": "নেই",
+    "D": "অগুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "সমীকরণে (l) মানে —",
+   "options": {
+    "A": "গ্যাস",
+    "B": "কঠিন",
+    "C": "কোনোটিই নয়",
+    "D": "তরল"
+   },
+   "correctAnswer": "D",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "BaCl₂ + H₂SO₄ → BaSO₄ + 2HCl কোন বিক্রিয়া?",
+   "options": {
+    "A": "সংযোজন",
+    "B": "দ্বি-প্রতিস্থাপন",
+    "C": "কোনোটিই নয়",
+    "D": "প্রতিস্থাপন"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "লোহায় মরিচা পড়া —",
+   "options": {
+    "A": "জারণ",
+    "B": "বিজারণ",
+    "C": "কোনোটিই নয়",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "A",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "টিনের প্রলেপ —",
+   "options": {
+    "A": "সৌন্দর্যে শুধু",
+    "B": "মরিচা রোধে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া শিখে —",
+   "options": {
+    "A": "কিছুই বোঝা যায় না",
+    "B": "বাস্তব জীবন বোঝা যায়",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "সমীকরণ সমতা করা হয় —",
+   "options": {
+    "A": "সৌন্দর্যে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ভরের সংরক্ষণ মেনে"
+   },
+   "correctAnswer": "D",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "BaCl₂ + Na₂SO₄ → BaSO₄ + 2NaCl কোন বিক্রিয়া?",
+   "options": {
+    "A": "সংযোজন",
+    "B": "কোনোটিই নয়",
+    "C": "প্রতিস্থাপন",
+    "D": "দ্বি-প্রতিস্থাপন"
+   },
+   "correctAnswer": "D",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "ব্যাটারিতে —",
+   "options": {
+    "A": "জারণ-বিজারণ",
+    "B": "কোনোটিই নয়",
+    "C": "দহন",
+    "D": "বিয়োজন"
+   },
+   "correctAnswer": "A",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "তড়িৎ বিশ্লেষণে ক্যাথোডে —",
+   "options": {
+    "A": "ঋণাত্মক আয়ন",
+    "B": "ধনাত্মক আয়ন",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "গ্যাসীয় বিক্রিয়ায় চাপ —",
+   "options": {
+    "A": "অগুরুত্বপূর্ণ",
+    "B": "নেই",
+    "C": "কোনোটিই নয়",
+    "D": "গুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "সমীকরণে (s) মানে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তরল",
+    "C": "কঠিন",
+    "D": "গ্যাস"
+   },
+   "correctAnswer": "C",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "রাসায়নিক বিশ্লেষণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অধঃক্ষেপ বিক্রিয়া ব্যবহৃত হয়",
+    "C": "হয় না",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "মুক্ত মৌলের জারণ সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১",
+    "C": "শূন্য",
+    "D": "২"
+   },
+   "correctAnswer": "C",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "ইলেকট্রোপ্লেটিংয়ে বস্তু —",
+   "options": {
+    "A": "অ্যানোড হয়",
+    "B": "মাঝে থাকে",
+    "C": "ক্যাথোড হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার পরীক্ষা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "যেভাবে হয়",
+    "D": "নিরাপদভাবে করা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "রাসায়নিক সমীকরণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অলংকার",
+    "C": "কোনোটিই নয়",
+    "D": "বিক্রিয়ার ভাষা"
+   },
+   "correctAnswer": "D",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "লবণের দ্রাব্যতা সারণি —",
+   "options": {
+    "A": "অধঃক্ষেপ পূর্বাভাসে সাহায্য করে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "শুষ্ক বাতাসে লোহায় মরিচা —",
+   "options": {
+    "A": "পড়ে",
+    "B": "কিছুই না",
+    "C": "পড়ে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "পানির তড়িৎ বিশ্লেষণে অ্যানোডে —",
+   "options": {
+    "A": "H₂",
+    "B": "Cl₂",
+    "C": "কোনোটিই নয়",
+    "D": "O₂"
+   },
+   "correctAnswer": "D",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "দহন বিক্রিয়া —",
+   "options": {
+    "A": "তাপমোচী",
+    "B": "নিরপেক্ষ",
+    "C": "তাপগ্রাহী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "সমীকরণে তীর চিহ্ন —",
+   "options": {
+    "A": "উৎপাদের দিকে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বিক্রিয়কের দিকে"
+   },
+   "correctAnswer": "A",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "BaCl₂ + Na₂SO₄ → BaSO₄↓ + 2NaCl এ অধঃক্ষেপ —",
+   "options": {
+    "A": "BaCl₂",
+    "B": "BaSO₄",
+    "C": "কোনোটিই নয়",
+    "D": "NaCl"
+   },
+   "correctAnswer": "B",
+   "topic": "দ্বি-প্রতিস্থাপন বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "বিজারণে জারণ সংখ্যা —",
+   "options": {
+    "A": "শূন্য",
+    "B": "বাড়ে",
+    "C": "কমে",
+    "D": "একই"
+   },
+   "correctAnswer": "C",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "পানির তড়িৎ বিশ্লেষণে ক্যাথোডে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "O₂",
+    "C": "Cl₂",
+    "D": "H₂"
+   },
+   "correctAnswer": "D",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় —",
+   "options": {
+    "A": "নতুন পদার্থ সৃষ্টি হয়",
+    "B": "কিছুই হয় না",
+    "C": "কোনোটিই নয়",
+    "D": "নতুন পদার্থ হয় না"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "সমীকরণে অনুঘটক —",
+   "options": {
+    "A": "তীরের উপরে লেখা হয়",
+    "B": "কিছুই না",
+    "C": "তীরের নিচে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "জারণ কাকে বলে?",
+   "options": {
+    "A": "হাইড্রোজেন যোগ",
+    "B": "কোনোটিই নয়",
+    "C": "অক্সিজেন যোগ বা ইলেকট্রন ত্যাগ",
+    "D": "অক্সিজেন অপসারণ"
+   },
+   "correctAnswer": "C",
+   "topic": "জারণ-বিজারণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "তড়িৎ বিশ্লেষণের ব্যবহার —",
+   "options": {
+    "A": "রান্না",
+    "B": "কোনোটিই নয়",
+    "C": "ধাতু নিষ্কাশন, প্রলেপ",
+    "D": "মাপা"
+   },
+   "correctAnswer": "C",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার শক্তির হিসাব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বন্ধন শক্তি থেকে হয়",
+    "D": "ভর থেকে হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "সমীকরণে বিক্রিয়ক —",
+   "options": {
+    "A": "মাঝে",
+    "B": "ডান পাশে",
+    "C": "বাম পাশে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "H₂O তে O এর জারণ সংখ্যা —",
+   "options": {
+    "A": "−২",
+    "B": "কোনোটিই নয়",
+    "C": "+২",
+    "D": "০"
+   },
+   "correctAnswer": "A",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "তড়িৎ বিশ্লেষণে রাসায়নিক —",
+   "options": {
+    "A": "পরিবর্তন হয় না",
+    "B": "কিছুই না",
+    "C": "পরিবর্তন হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় মোট ভর —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "অপরিবর্তিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "সমীকরণে তাপ নির্দেশ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "Δ চিহ্নে"
+   },
+   "correctAnswer": "D",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "জারণ-বিজারণ একসাথে —",
+   "options": {
+    "A": "ঘটে না",
+    "B": "ঘটে",
+    "C": "কখনো ঘটে না",
+    "D": "কখনো ঘটে"
+   },
+   "correctAnswer": "B",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "অ্যানায়ন চলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ক্যাথোডে",
+    "D": "অ্যানোডে"
+   },
+   "correctAnswer": "D",
+   "topic": "তড়িৎ বিশ্লেষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "লোহায় মরিচা —",
+   "options": {
+    "A": "ভৌত পরিবর্তন",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "রাসায়নিক বিক্রিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "সমীকরণে উৎপাদ —",
+   "options": {
+    "A": "ডান পাশে",
+    "B": "কোনোটিই নয়",
+    "C": "বাম পাশে",
+    "D": "মাঝে"
+   },
+   "correctAnswer": "A",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "মরিচা প্রতিরোধে রং —",
+   "options": {
+    "A": "বাতাস রোধ করে",
+    "B": "বাতাস বাড়ায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার সাহায্যে —",
+   "options": {
+    "A": "পদার্থ শনাক্ত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই হয় না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "রাসায়নিক সমীকরণ লেখার প্রথম ধাপ —",
+   "options": {
+    "A": "সঠিক সংকেত লেখা",
+    "B": "কিছুই না",
+    "C": "সমতা করা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "জারণ ও বিজারণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "আলাদা ঘটে",
+    "C": "একসাথে ঘটে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "কাগজ ছেঁড়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রাসায়নিক পরিবর্তন",
+    "C": "উভয়ই",
+    "D": "ভৌত পরিবর্তন"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "রাসায়নিক সমীকরণ লেখার দ্বিতীয় ধাপ —",
+   "options": {
+    "A": "সংকেত লেখা",
+    "B": "কিছুই না",
+    "C": "সমতা করা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "আর্দ্র বাতাসে লোহায় মরিচা —",
+   "options": {
+    "A": "পড়ে না",
+    "B": "পড়ে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় বিক্রিয়কের পরিমাণ —",
+   "options": {
+    "A": "একই",
+    "B": "বাড়ে",
+    "C": "শূন্য",
+    "D": "কমে যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "Na + Cl₂ → NaCl সমতা করলে —",
+   "options": {
+    "A": "Na + 2Cl₂ → NaCl",
+    "B": "কোনোটিই নয়",
+    "C": "Na + Cl₂ → NaCl",
+    "D": "2Na + Cl₂ → 2NaCl"
+   },
+   "correctAnswer": "D",
+   "topic": "সমীকরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "মরিচার রাসায়নিক নাম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আয়রন অক্সাইড",
+    "C": "আয়রন ক্লোরাইড",
+    "D": "আয়রন সালফাইড"
+   },
+   "correctAnswer": "B",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "লা শাতেলিয়ের নীতি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভর ব্যাখ্যা করে",
+    "C": "কিছুই না",
+    "D": "সাম্যাবস্থার পরিবর্তন ব্যাখ্যা করে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "মরিচা প্রতিরোধে তেল —",
+   "options": {
+    "A": "বাতাস রোধ করে",
+    "B": "বাতাস বাড়ায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "ভরের সংরক্ষণ সূত্রের প্রয়োগ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "সমীকরণ সমতায়"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "লোহার আকরিক থেকে লোহা নিষ্কাশন —",
+   "options": {
+    "A": "নিরপেক্ষ",
+    "B": "কোনোটিই নয়",
+    "C": "বিজারণ",
+    "D": "জারণ"
+   },
+   "correctAnswer": "C",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "সার শিল্পে রাসায়নিক বিক্রিয়া —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "কোনোটিই নয়",
+    "C": "হয় না",
+    "D": "ব্যবহৃত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "বিজারক পদার্থ কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "যা অন্যকে বিজারিত করে",
+    "D": "যা নিজে বিজারিত হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জারণ-বিজারণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "চাপ বাড়ালে অ্যামোনিয়া উৎপাদন —",
+   "options": {
+    "A": "শূন্য",
+    "B": "একই",
+    "C": "বাড়ে",
+    "D": "কমে"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "জারণে ইলেকট্রন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ত্যাগ হয়",
+    "D": "লাভ হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "ফটোগ্রাফিতে আলোর ভূমিকা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রাসায়নিক বিক্রিয়ায়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "C + O₂ → CO₂ তে কার্বন —",
+   "options": {
+    "A": "জারিত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "বিজারিত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার ব্যবহার চিকিৎসায় —",
+   "options": {
+    "A": "ওষুধ উৎপাদন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "জারণ-বিজারণে ইলেকট্রন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্থির থাকে",
+    "C": "স্থানান্তরিত হয়",
+    "D": "ধ্বংস হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া শিল্পে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ব্যবহৃত হয় না",
+    "C": "কম ব্যবহৃত",
+    "D": "ব্যাপক ব্যবহৃত"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "জারণে অক্সিজেন —",
+   "options": {
+    "A": "যোগ হয়",
+    "B": "অপসারিত হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "অম্ল-ক্ষার বিক্রিয়া পরীক্ষায় —",
+   "options": {
+    "A": "সাবধানতা প্রয়োজন",
+    "B": "কিছুই লাগে না",
+    "C": "কোনোটিই নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "বিজারণে ইলেকট্রন —",
+   "options": {
+    "A": "ত্যাগ হয়",
+    "B": "কিছুই না",
+    "C": "লাভ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "সিমেন্ট শিল্পে রাসায়নিক বিক্রিয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হয় না",
+    "C": "ব্যবহৃত হয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "জারণ সংখ্যা কাকে বলে?",
+   "options": {
+    "A": "মৌলের জারণ মাত্রা",
+    "B": "কোনোটিই নয়",
+    "C": "পারমাণবিক সংখ্যা",
+    "D": "ভর সংখ্যা"
+   },
+   "correctAnswer": "A",
+   "topic": "জারণ-বিজারণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার বৈশিষ্ট্য —",
+   "options": {
+    "A": "ভৌত পরিবর্তন",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "নতুন পদার্থ গঠন"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "মরিচা পড়ার শর্ত —",
+   "options": {
+    "A": "শুধু অক্সিজেন",
+    "B": "আর্দ্রতা ও অক্সিজেন",
+    "C": "শুধু আর্দ্রতা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় শব্দ —",
+   "options": {
+    "A": "কখনো হয় না",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "হতে পারে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "বিজারণে অক্সিজেন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অপসারিত হয়",
+    "C": "যোগ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জারণ-বিজারণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া অধ্যায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গুরুত্বপূর্ণ",
+    "C": "অগুরুত্বপূর্ণ",
+    "D": "ঐচ্ছিক"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "AgI এর রং —",
+   "options": {
+    "A": "কালো",
+    "B": "কোনোটিই নয়",
+    "C": "সাদা",
+    "D": "হলুদ"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "ম্যাগনেসিয়াম জ্বালালে —",
+   "options": {
+    "A": "উজ্জ্বল আলো",
+    "B": "কোনোটিই নয়",
+    "C": "অন্ধকার",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "পরীক্ষাগারে রাসায়নিক মেশানো —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শিক্ষকের নির্দেশে",
+    "C": "কোনোটিই নয়",
+    "D": "নিজে খুশিমতো"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া দৈনন্দিন জীবনে —",
+   "options": {
+    "A": "কম",
+    "B": "কোথাও না",
+    "C": "সর্বত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "ওষুধ শিল্পে রাসায়নিক বিক্রিয়া —",
+   "options": {
+    "A": "হয় না",
+    "B": "কোনোটিই নয়",
+    "C": "দরকার নেই",
+    "D": "ব্যবহৃত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া থেকে —",
+   "options": {
+    "A": "নতুন পদার্থ তৈরি হয়",
+    "B": "শুধু রং",
+    "C": "কিছুই হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার পর্যবেক্ষণে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রং, গন্ধ, অধঃক্ষেপ",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার প্রয়োগ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সীমিত",
+    "C": "নেই",
+    "D": "সর্বব্যাপী"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "তাপমোচী বিক্রিয়া কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিরপেক্ষ",
+    "C": "তাপ নির্গমনকারী বিক্রিয়া",
+    "D": "তাপ শোষণকারী"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "আতশবাজিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপে শুধু",
+    "C": "কিছুই না",
+    "D": "রাসায়নিক বিক্রিয়ায় আলো"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "উভমুখী বিক্রিয়ায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "আগে-পিছে দুই দিকে ঘটে",
+    "D": "এক দিকে ঘটে"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "সাবান উৎপাদনে —",
+   "options": {
+    "A": "ভৌত পরিবর্তন",
+    "B": "রাসায়নিক বিক্রিয়া",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "AgCl একটি —",
+   "options": {
+    "A": "অধঃক্ষেপ",
+    "B": "কোনোটিই নয়",
+    "C": "গ্যাস",
+    "D": "দ্রবণ"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় পরমাণুর সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাড়ে",
+    "C": "অপরিবর্তিত",
+    "D": "কমে"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "CO₂ শনাক্তে —",
+   "options": {
+    "A": "লবণ পানি",
+    "B": "চুনের পানি",
+    "C": "কোনোটিই নয়",
+    "D": "চিনির পানি"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া ছাড়া শিল্প —",
+   "options": {
+    "A": "একই",
+    "B": "সম্ভব",
+    "C": "কোনোটিই নয়",
+    "D": "অসম্ভব"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার লক্ষণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "রং পরিবর্তন, তাপ, গ্যাস"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "CaCO₃ এর বিয়োজন —",
+   "options": {
+    "A": "তাপগ্রাহী",
+    "B": "তাপমোচী",
+    "C": "নিরপেক্ষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "রান্না —",
+   "options": {
+    "A": "রাসায়নিক বিক্রিয়া",
+    "B": "ভৌত পরিবর্তন",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "বন্ধন ভাঙতে শক্তি —",
+   "options": {
+    "A": "নির্গত হয়",
+    "B": "প্রয়োজন",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "অ্যামোনিয়া উৎপাদনে —",
+   "options": {
+    "A": "নিম্ন চাপ",
+    "B": "কিছুই না",
+    "C": "উচ্চ চাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "শ্বসন —",
+   "options": {
+    "A": "তাপমোচী",
+    "B": "তাপগ্রাহী",
+    "C": "কোনোটিই নয়",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় শক্তি সংরক্ষণ —",
+   "options": {
+    "A": "মেনে চলে",
+    "B": "কোনোটিই নয়",
+    "C": "মেনে চলে না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "বিক্রিয়ার ফলে গ্যাস —",
+   "options": {
+    "A": "উৎপন্ন হতে পারে",
+    "B": "কখনো হয় না",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় গ্যাস উৎপন্ন হলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফ্যানে (হুডে) করা হয়",
+    "C": "খোলা জায়গায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় আলো —",
+   "options": {
+    "A": "কখনো হয় না",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "নির্গত হতে পারে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "তাপগ্রাহী বিক্রিয়া কাকে বলে?",
+   "options": {
+    "A": "নিরপেক্ষ",
+    "B": "তাপ নির্গমনকারী",
+    "C": "তাপ শোষণকারী বিক্রিয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "সালোকসংশ্লেষণ ঘটে —",
+   "options": {
+    "A": "অন্ধকারে",
+    "B": "আলোতে",
+    "C": "তাপে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "বিক্রিয়ায় বিক্রিয়কের বন্ধন —",
+   "options": {
+    "A": "ভাঙে",
+    "B": "কোনোটিই নয়",
+    "C": "গঠিত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "বিক্রিয়ায় উৎপাদের বন্ধন —",
+   "options": {
+    "A": "গঠিত হয়",
+    "B": "ভাঙে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "পানি জমে বরফ হওয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিরপেক্ষ",
+    "C": "তাপগ্রাহী",
+    "D": "তাপমোচী"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "বিক্রিয়ার ফলে নতুন পদার্থের ধর্ম —",
+   "options": {
+    "A": "একই",
+    "B": "শূন্য",
+    "C": "ভিন্ন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া বুঝে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই সম্ভব নয়",
+    "C": "শিল্প উন্নয়ন সম্ভব",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "রাসায়নিক পরীক্ষায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হয় না",
+    "C": "শনাক্তকরণ বিক্রিয়া ব্যবহৃত হয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া উভমুখী —",
+   "options": {
+    "A": "কখনো না",
+    "B": "কোনোটিই নয়",
+    "C": "হতে পারে",
+    "D": "হতে পারে না"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "রাসায়নিক শিল্পের ভিত্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ভৌত পরিবর্তন",
+    "D": "রাসায়নিক বিক্রিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "BaSO₄ একটি —",
+   "options": {
+    "A": "গ্যাস",
+    "B": "অধঃক্ষেপ",
+    "C": "দ্রবণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "রাসায়নিক সাম্যাবস্থা কাকে বলে?",
+   "options": {
+    "A": "অসাম্য",
+    "B": "কোনোটিই নয়",
+    "C": "বিক্রিয়ার ভারসাম্য অবস্থা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় বন্ধন —",
+   "options": {
+    "A": "ভাঙা ও গঠন হয়",
+    "B": "শুধু গঠিত হয়",
+    "C": "শুধু ভাঙে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া না থাকলে —",
+   "options": {
+    "A": "কিছুই বদলাত না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "পৃথিবী বদলে যেত"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "AgCl এর রং —",
+   "options": {
+    "A": "হলুদ",
+    "B": "সাদা",
+    "C": "কোনোটিই নয়",
+    "D": "কালো"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া কাকে বলে?",
+   "options": {
+    "A": "ভৌত পরিবর্তন",
+    "B": "নতুন পদার্থ সৃষ্টির প্রক্রিয়া",
+    "C": "কোনোটিই নয়",
+    "D": "গলন"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "অম্লে ধাতু যোগে বুদবুদ —",
+   "options": {
+    "A": "CO₂ গ্যাস",
+    "B": "কোনোটিই নয়",
+    "C": "H₂ গ্যাস",
+    "D": "O₂ গ্যাস"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া দিয়েই —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "জীবন চলে না",
+    "D": "জীবন চলে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় তাপমাত্রা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পরিবর্তন হতে পারে",
+    "D": "কখনো বদলায় না"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "বিক্রিয়ায় গন্ধ পরিবর্তন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লক্ষ করা যায়",
+    "C": "করা যায় না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "ভৌত পরিবর্তন ও রাসায়নিক পরিবর্তনের পার্থক্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "নতুন পদার্থ গঠনে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "জীবন রাসায়নিক বিক্রিয়ার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফল",
+    "C": "কিছুই না",
+    "D": "কারণ নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "সাম্যাবস্থায় সম্মুখ ও পশ্চাৎ বিক্রিয়ার হার —",
+   "options": {
+    "A": "শূন্য",
+    "B": "সমান",
+    "C": "ভিন্ন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া একমুখী —",
+   "options": {
+    "A": "হতে পারে না",
+    "B": "কখনো না",
+    "C": "কোনোটিই নয়",
+    "D": "হতে পারে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "রাসায়নিক সাম্যাবস্থা —",
+   "options": {
+    "A": "স্থির",
+    "B": "গতিশীল",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "খাবার হজম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রাসায়নিক বিক্রিয়া",
+    "C": "ভৌত পরিবর্তন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার ব্যবহার শিল্পে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "বহু পণ্য উৎপাদন"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া অধ্যায়ে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই নেই",
+    "D": "অনেক গুরুত্বপূর্ণ ধারণা আছে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার গুরুত্ব —",
+   "options": {
+    "A": "সীমিত",
+    "B": "অপরিসীম",
+    "C": "কোনোটিই নয়",
+    "D": "নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "পরীক্ষায় বিক্রিয়ার ফলাফল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "করা হয় না",
+    "C": "কিছুই না",
+    "D": "লিপিবদ্ধ করা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া রসায়নের —",
+   "options": {
+    "A": "অলংকার",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ভিত্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "দহন —",
+   "options": {
+    "A": "রাসায়নিক বিক্রিয়া",
+    "B": "ভৌত পরিবর্তন",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "শ্বসন, পরিপাক, সালোকসংশ্লেষণ —",
+   "options": {
+    "A": "ভৌত পরিবর্তন",
+    "B": "রাসায়নিক বিক্রিয়া",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "চুনের পানিতে CO₂ চালনা করলে —",
+   "options": {
+    "A": "দুধের মতো ঘোলা হয়",
+    "B": "শুধু রং",
+    "C": "কিছুই হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় ভর —",
+   "options": {
+    "A": "কমে",
+    "B": "কোনোটিই নয়",
+    "C": "সংরক্ষিত থাকে",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "কাঠ পোড়া —",
+   "options": {
+    "A": "রাসায়নিক পরিবর্তন",
+    "B": "ভৌত পরিবর্তন",
+    "C": "কোনোটিই নয়",
+    "D": "উভয়ই"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "সিমেন্ট উৎপাদনে —",
+   "options": {
+    "A": "রাসায়নিক বিক্রিয়া",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ভৌত পরিবর্তন"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "বরফ গলন —",
+   "options": {
+    "A": "তাপমোচী",
+    "B": "কোনোটিই নয়",
+    "C": "তাপগ্রাহী",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ার ব্যবহার কৃষিতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "সার উৎপাদন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "অজানা লবণ শনাক্তে —",
+   "options": {
+    "A": "বিক্রিয়া পরীক্ষা",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "উভমুখী বিক্রিয়ার চিহ্ন —",
+   "options": {
+    "A": "=",
+    "B": "⇌",
+    "C": "কোনোটিই নয়",
+    "D": "→"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় শক্তি —",
+   "options": {
+    "A": "ধ্বংস হয়",
+    "B": "কোনোটিই নয়",
+    "C": "পরিবর্তন হয় না",
+    "D": "শোষিত বা নির্গত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "ক্যালসিয়াম কার্বনেটে অম্ল যোগে বুদবুদ —",
+   "options": {
+    "A": "CO₂ গ্যাস",
+    "B": "কোনোটিই নয়",
+    "C": "O₂ গ্যাস",
+    "D": "H₂ গ্যাস"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "অধঃক্ষেপ কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দ্রবণীয় পদার্থ",
+    "C": "গ্যাস",
+    "D": "দ্রবণে অদ্রবণীয় কঠিন"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়া বুঝতে —",
+   "options": {
+    "A": "কিছুই দরকার নেই",
+    "B": "সমীকরণ জানা দরকার",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "কিছু বিক্রিয়া ঘটতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপ লাগে",
+    "C": "কিছুই না",
+    "D": "তাপ লাগে না"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় চাপ —",
+   "options": {
+    "A": "প্রভাব ফেলতে পারে",
+    "B": "প্রভাব ফেলে না",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "তাপমাত্রা কমালে তাপমোচী বিক্রিয়ার উৎপাদ —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় তাপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শোষিত বা নির্গত হয়",
+    "C": "পরিবর্তন হয় না",
+    "D": "ধ্বংস হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "বিক্রিয়ার ফলে রং —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কখনো বদলায় না",
+    "C": "কোনোটিই নয়",
+    "D": "পরিবর্তন হতে পারে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "রাসায়নিক বিক্রিয়ায় উৎপাদের পরিমাণ —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "একই",
+    "C": "কমে",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "বিক্রিয়ার ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "C",
+  "2": "A",
+  "3": "B",
+  "4": "B",
+  "5": "A",
+  "6": "B",
+  "7": "B",
+  "8": "D",
+  "9": "D",
+  "10": "A",
+  "11": "B",
+  "12": "A",
+  "13": "D",
+  "14": "C",
+  "15": "B",
+  "16": "C",
+  "17": "A",
+  "18": "D",
+  "19": "B",
+  "20": "A",
+  "21": "D",
+  "22": "C",
+  "23": "A",
+  "24": "D",
+  "25": "D",
+  "26": "A",
+  "27": "C",
+  "28": "C",
+  "29": "A",
+  "30": "B",
+  "31": "B",
+  "32": "B",
+  "33": "C",
+  "34": "C",
+  "35": "A",
+  "36": "D",
+  "37": "C",
+  "38": "B",
+  "39": "C",
+  "40": "A",
+  "41": "B",
+  "42": "D",
+  "43": "B",
+  "44": "D",
+  "45": "B",
+  "46": "D",
+  "47": "D",
+  "48": "C",
+  "49": "C",
+  "50": "B",
+  "51": "D",
+  "52": "B",
+  "53": "B",
+  "54": "D",
+  "55": "A",
+  "56": "B",
+  "57": "D",
+  "58": "C",
+  "59": "B",
+  "60": "B",
+  "61": "C",
+  "62": "D",
+  "63": "D",
+  "64": "B",
+  "65": "C",
+  "66": "D",
+  "67": "D",
+  "68": "C",
+  "69": "C",
+  "70": "D",
+  "71": "D",
+  "72": "D",
+  "73": "B",
+  "74": "B",
+  "75": "B",
+  "76": "C",
+  "77": "B",
+  "78": "B",
+  "79": "D",
+  "80": "C",
+  "81": "B",
+  "82": "A",
+  "83": "D",
+  "84": "D",
+  "85": "D",
+  "86": "A",
+  "87": "A",
+  "88": "B",
+  "89": "A",
+  "90": "D",
+  "91": "D",
+  "92": "C",
+  "93": "D",
+  "94": "C",
+  "95": "C",
+  "96": "B",
+  "97": "B",
+  "98": "B",
+  "99": "C",
+  "100": "D",
+  "101": "D",
+  "102": "D",
+  "103": "D",
+  "104": "B",
+  "105": "A",
+  "106": "A",
+  "107": "D",
+  "108": "A",
+  "109": "C",
+  "110": "A",
+  "111": "D",
+  "112": "C",
+  "113": "A",
+  "114": "C",
+  "115": "D",
+  "116": "D",
+  "117": "D",
+  "118": "A",
+  "119": "A",
+  "120": "A",
+  "121": "A",
+  "122": "B",
+  "123": "C",
+  "124": "A",
+  "125": "A",
+  "126": "D",
+  "127": "B",
+  "128": "B",
+  "129": "B",
+  "130": "A",
+  "131": "D",
+  "132": "B",
+  "133": "D",
+  "134": "A",
+  "135": "C",
+  "136": "C",
+  "137": "B",
+  "138": "A",
+  "139": "B",
+  "140": "D",
+  "141": "A",
+  "142": "B",
+  "143": "D",
+  "144": "D",
+  "145": "B",
+  "146": "B",
+  "147": "C",
+  "148": "D",
+  "149": "C",
+  "150": "C",
+  "151": "D",
+  "152": "B",
+  "153": "C",
+  "154": "D",
+  "155": "A",
+  "156": "B",
+  "157": "C",
+  "158": "D",
+  "159": "A",
+  "160": "A",
+  "161": "C",
+  "162": "D",
+  "163": "C",
+  "164": "D",
+  "165": "D",
+  "166": "C",
+  "167": "D",
+  "168": "A",
+  "169": "A",
+  "170": "A",
+  "171": "B",
+  "172": "A",
+  "173": "A",
+  "174": "B",
+  "175": "C",
+  "176": "A",
+  "177": "B",
+  "178": "A",
+  "179": "A",
+  "180": "B",
+  "181": "D",
+  "182": "D",
+  "183": "B",
+  "184": "C",
+  "185": "D",
+  "186": "C",
+  "187": "D",
+  "188": "A",
+  "189": "D",
+  "190": "A",
+  "191": "A",
+  "192": "B",
+  "193": "A",
+  "194": "A",
+  "195": "D",
+  "196": "B",
+  "197": "D",
+  "198": "B",
+  "199": "A",
+  "200": "B",
+  "201": "B",
+  "202": "B",
+  "203": "B",
+  "204": "C",
+  "205": "C",
+  "206": "D",
+  "207": "A",
+  "208": "B",
+  "209": "A",
+  "210": "C",
+  "211": "B",
+  "212": "C",
+  "213": "B",
+  "214": "D",
+  "215": "D",
+  "216": "D",
+  "217": "B",
+  "218": "C",
+  "219": "B",
+  "220": "A",
+  "221": "C",
+  "222": "C",
+  "223": "C",
+  "224": "A",
+  "225": "D",
+  "226": "C",
+  "227": "B",
+  "228": "D",
+  "229": "B",
+  "230": "A",
+  "231": "B",
+  "232": "B",
+  "233": "D",
+  "234": "D",
+  "235": "A",
+  "236": "B",
+  "237": "D",
+  "238": "C",
+  "239": "B",
+  "240": "C",
+  "241": "C",
+  "242": "D",
+  "243": "D",
+  "244": "A",
+  "245": "C",
+  "246": "D",
+  "247": "A",
+  "248": "A",
+  "249": "B",
+  "250": "C",
+  "251": "D",
+  "252": "A",
+  "253": "A",
+  "254": "C",
+  "255": "C",
+  "256": "C",
+  "257": "C",
+  "258": "A",
+  "259": "C",
+  "260": "C",
+  "261": "D",
+  "262": "B",
+  "263": "D",
+  "264": "D",
+  "265": "A",
+  "266": "A",
+  "267": "A",
+  "268": "A",
+  "269": "C",
+  "270": "D",
+  "271": "C",
+  "272": "B",
+  "273": "D",
+  "274": "D",
+  "275": "B",
+  "276": "D",
+  "277": "A",
+  "278": "D",
+  "279": "C",
+  "280": "D",
+  "281": "C",
+  "282": "C",
+  "283": "C",
+  "284": "B",
+  "285": "A",
+  "286": "A",
+  "287": "C",
+  "288": "D",
+  "289": "A",
+  "290": "A",
+  "291": "C",
+  "292": "C",
+  "293": "A",
+  "294": "D",
+  "295": "B",
+  "296": "D",
+  "297": "B",
+  "298": "B",
+  "299": "D",
+  "300": "A",
+  "301": "B",
+  "302": "C",
+  "303": "D",
+  "304": "A",
+  "305": "B",
+  "306": "D",
+  "307": "C",
+  "308": "D",
+  "309": "C",
+  "310": "B",
+  "311": "A",
+  "312": "C",
+  "313": "B",
+  "314": "D",
+  "315": "D",
+  "316": "A",
+  "317": "A",
+  "318": "B",
+  "319": "C",
+  "320": "A",
+  "321": "A",
+  "322": "A",
+  "323": "B",
+  "324": "D",
+  "325": "C",
+  "326": "B",
+  "327": "A",
+  "328": "A",
+  "329": "D",
+  "330": "C",
+  "331": "C",
+  "332": "C",
+  "333": "C",
+  "334": "D",
+  "335": "B",
+  "336": "C",
+  "337": "A",
+  "338": "D",
+  "339": "B",
+  "340": "B",
+  "341": "C",
+  "342": "D",
+  "343": "C",
+  "344": "B",
+  "345": "D",
+  "346": "B",
+  "347": "B",
+  "348": "D",
+  "349": "B",
+  "350": "B",
+  "351": "D",
+  "352": "D",
+  "353": "B",
+  "354": "D",
+  "355": "D",
+  "356": "A",
+  "357": "B",
+  "358": "A",
+  "359": "C",
+  "360": "A",
+  "361": "A",
+  "362": "C",
+  "363": "C",
+  "364": "A",
+  "365": "B",
+  "366": "D",
+  "367": "A",
+  "368": "D",
+  "369": "B",
+  "370": "B",
+  "371": "A",
+  "372": "B",
+  "373": "B",
+  "374": "D",
+  "375": "A"
+ }
+}
