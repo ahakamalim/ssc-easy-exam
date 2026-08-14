@@ -1,0 +1,7134 @@
+{
+ "subject": "রসায়ন",
+ "chapterNo": 4,
+ "chapter": "পর্যায় সারণি",
+ "questions": [
+  {
+   "question": "পর্যায় সারণির সাহায্যে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নতুন মৌলের ধর্ম অনুমান করা যায়",
+    "C": "কিছুই করা যায় না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "দীর্ঘ পর্যায় সারণি প্রণয়ন করেন —",
+   "options": {
+    "A": "ডাল্টন",
+    "B": "কোনোটিই নয়",
+    "C": "মেন্ডেলিভ শুধু",
+    "D": "রাং ও অন্যান্য"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "কার্বনের অবস্থান —",
+   "options": {
+    "A": "গ্রুপ ১৬, পর্যায় ২",
+    "B": "কোনোটিই নয়",
+    "C": "গ্রুপ ১৪, পর্যায় ২",
+    "D": "গ্রুপ ১৪, পর্যায় ৩"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "আর্গন ব্যবহৃত হয় —",
+   "options": {
+    "A": "বাল্বে",
+    "B": "মাপে",
+    "C": "কোনোটিই নয়",
+    "D": "রান্নায়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "লিথিয়াম ও সোডিয়ামের মধ্যে সক্রিয়তা বেশি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সোডিয়ামের",
+    "C": "লিথিয়ামের",
+    "D": "সমান"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "পর্যায় সারণি রাসায়নিক বিক্রিয়ার পূর্বাভাসে —",
+   "options": {
+    "A": "সহায়ক",
+    "B": "ঐচ্ছিক",
+    "C": "অসহায়ক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "পর্যায় সারণি বিজ্ঞানীদের —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "লজ্জা",
+    "D": "গর্ব"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "পর্যায় সারণিতে মৌলের পারমাণবিক ভর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্রমবর্ধমান",
+    "C": "এলোমেলো",
+    "D": "ক্রমহ্রাসমান"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "ক্ষার ধাতু পানিতে রেখে দিলে —",
+   "options": {
+    "A": "কিছুই হয় না",
+    "B": "ডুবে যায়",
+    "C": "তীব্র বিক্রিয়া করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "ধাতব ধর্ম গ্রুপ বরাবর —",
+   "options": {
+    "A": "একই",
+    "B": "কমে",
+    "C": "শূন্য",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "পর্যায় সারণিতে মৌল খোঁজা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কঠিন",
+    "C": "সহজ",
+    "D": "অসম্ভব"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "মেন্ডেলিভ একা-সিলিকন বলেছিলেন —",
+   "options": {
+    "A": "সিলিকনকে",
+    "B": "জার্মেনিয়ামকে",
+    "C": "কার্বনকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "চতুর্থ পর্যায়ে মৌল সংখ্যা —",
+   "options": {
+    "A": "৮",
+    "B": "১৮",
+    "C": "কোনোটিই নয়",
+    "D": "৩২"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "ক্ষার ধাতু ও হ্যালোজেনের বিক্রিয়ায় —",
+   "options": {
+    "A": "কিছুই হয় না",
+    "B": "আয়নিক যৌগ হয়",
+    "C": "সমযোজী যৌগ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "পর্যায়বৃত্ত ধর্মের ভিত্তি —",
+   "options": {
+    "A": "রং",
+    "B": "ইলেকট্রন বিন্যাস",
+    "C": "পারমাণবিক ভর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "পর্যায় সারণি ছাড়া মৌলসমূহ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "এলোমেলো থাকত",
+    "D": "সাজানো থাকত"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "পর্যায় সারণি বিজ্ঞানের —",
+   "options": {
+    "A": "সাধারণ ঘটনা",
+    "B": "মাইলফলক",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "পর্যায় সারণিতে ক্ষার ধাতুর সংখ্যা —",
+   "options": {
+    "A": "৬",
+    "B": "কোনোটিই নয়",
+    "C": "৫",
+    "D": "৭"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "সবচেয়ে কম সক্রিয় ক্ষার ধাতু —",
+   "options": {
+    "A": "সিজিয়াম",
+    "B": "কোনোটিই নয়",
+    "C": "পটাসিয়াম",
+    "D": "লিথিয়াম"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "প্রথম আয়নন শক্তি কাকে বলে?",
+   "options": {
+    "A": "২য় ইলেকট্রন অপসারণের শক্তি",
+    "B": "১ম ইলেকট্রন অপসারণের শক্তি",
+    "C": "কোনোটিই নয়",
+    "D": "ইলেকট্রন যোগের শক্তি"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "পর্যায় সারণির ব্যবহারিক গুরুত্ব —",
+   "options": {
+    "A": "নেই",
+    "B": "অপরিসীম",
+    "C": "সীমিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "মেন্ডেলিভের শূন্যস্থান পূরণ হয়েছিল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নতুন মৌল আবিষ্কারে",
+    "C": "কখনো হয়নি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "পর্যায় সারণিতে অ্যালুমিনিয়ামের ডানে —",
+   "options": {
+    "A": "সিলিকন",
+    "B": "কোনোটিই নয়",
+    "C": "ফসফরাস",
+    "D": "ম্যাগনেসিয়াম"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "গ্রুপ ১৭ কে বলা হয় —",
+   "options": {
+    "A": "নিষ্ক্রিয় গ্যাস",
+    "B": "ক্ষার ধাতু",
+    "C": "হ্যালোজেন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্রুপের নাম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "পারমাণবিক ব্যাসার্ধ মাপা হয় —",
+   "options": {
+    "A": "কিলোমিটারে",
+    "B": "মিটারে",
+    "C": "পিকোমিটারে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "পর্যায় সারণি মুখস্থের চেয়ে —",
+   "options": {
+    "A": "মুখস্থ জরুরি",
+    "B": "কিছুই না",
+    "C": "বোঝা জরুরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "মোজলির সূত্র —",
+   "options": {
+    "A": "ভর দিয়ে সাজানো",
+    "B": "কোনোটিই নয়",
+    "C": "বর্ণমালা দিয়ে",
+    "D": "পারমাণবিক সংখ্যা দিয়ে সাজানো"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "লিথিয়াম ও সোডিয়াম একই গ্রুপে — কারণ?",
+   "options": {
+    "A": "একই ভর",
+    "B": "একই যোজ্যতা ইলেকট্রন",
+    "C": "কোনোটিই নয়",
+    "D": "একই শেল সংখ্যা"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "ক্ষার ধাতু ছুরি দিয়ে কাটা যায় —",
+   "options": {
+    "A": "কখনো",
+    "B": "কখনো না",
+    "C": "না",
+    "D": "হ্যাঁ"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "নিষ্ক্রিয় গ্যাসের আয়নন শক্তি —",
+   "options": {
+    "A": "বেশি",
+    "B": "কোনোটিই নয়",
+    "C": "কম",
+    "D": "মাঝারি"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "পর্যায় সারণি রসায়ন শিক্ষায় —",
+   "options": {
+    "A": "ঐচ্ছিক",
+    "B": "সহায়ক",
+    "C": "কোনোটিই নয়",
+    "D": "অসহায়ক"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "পর্যায় সারণি আধুনিক রসায়নের —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শাখা",
+    "C": "ভিত্তি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "পর্যায় সারণিতে ফসফরাসের ডানে —",
+   "options": {
+    "A": "ক্লোরিন",
+    "B": "কোনোটিই নয়",
+    "C": "সিলিকন",
+    "D": "সালফার"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "হ্যালোজেনের অবস্থা —",
+   "options": {
+    "A": "শুধু কঠিন",
+    "B": "গ্যাস, তরল, কঠিন",
+    "C": "শুধু গ্যাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "একই গ্রুপে উপর থেকে নিচে —",
+   "options": {
+    "A": "একই থাকে",
+    "B": "ধাতব ধর্ম বাড়ে",
+    "C": "ধাতব ধর্ম কমে",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "পর্যায় সারণি থেকে মৌলের যোজ্যতা —",
+   "options": {
+    "A": "জানা যায় না",
+    "B": "জানা যায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "পর্যায় সারণির আধুনিক রূপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ত্রিভুজাকার সারণি",
+    "C": "সংক্ষিপ্ত সারণি",
+    "D": "দীর্ঘ পর্যায় সারণি"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "পারদ কোন অবস্থায় তরল ধাতু?",
+   "options": {
+    "A": "উচ্চ তাপমাত্রায়",
+    "B": "নিম্ন তাপমাত্রায়",
+    "C": "কোনোটিই নয়",
+    "D": "স্বাভাবিক তাপমাত্রায়"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "ম্যাগনেসিয়াম ক্লোরাইডের সংকেত —",
+   "options": {
+    "A": "MgCl₂",
+    "B": "কোনোটিই নয়",
+    "C": "MgCl",
+    "D": "Mg₂Cl"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "অধাতব ধর্ম সবচেয়ে বেশি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফ্রান্সিয়ামে",
+    "C": "ফ্লোরিনে",
+    "D": "লিথিয়ামে"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "পর্যায় সারণি শিক্ষার্থীদের —",
+   "options": {
+    "A": "ঐচ্ছিক",
+    "B": "অসহায়ক",
+    "C": "সহায়ক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "মেন্ডেলিভের সারণিতে মোট পর্যায় ছিল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৬",
+    "C": "৮",
+    "D": "৭"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "পর্যায় সারণিতে সোডিয়ামের নিচে —",
+   "options": {
+    "A": "ম্যাগনেসিয়াম",
+    "B": "লিথিয়াম",
+    "C": "পটাসিয়াম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "আয়োডিন —",
+   "options": {
+    "A": "তরল",
+    "B": "কোনোটিই নয়",
+    "C": "গ্যাস",
+    "D": "কঠিন"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "আয়নন শক্তির একক —",
+   "options": {
+    "A": "কেজি",
+    "B": "kJ/mol",
+    "C": "মিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "পর্যায় সারণি শিক্ষায় —",
+   "options": {
+    "A": "ব্যবহৃত হয় না",
+    "B": "কম ব্যবহৃত",
+    "C": "কোনোটিই নয়",
+    "D": "ব্যাপক ব্যবহৃত"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "পর্যায় সারণির বিবর্তন —",
+   "options": {
+    "A": "হয়নি",
+    "B": "একবারে হয়েছে",
+    "C": "কোনোটিই নয়",
+    "D": "ধাপে ধাপে হয়েছে"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "হিলিয়ামের অবস্থান —",
+   "options": {
+    "A": "গ্রুপ ১, পর্যায় ১",
+    "B": "কোনোটিই নয়",
+    "C": "গ্রুপ ২, পর্যায় ১",
+    "D": "গ্রুপ ১৮, পর্যায় ১"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "ব্রোমিন —",
+   "options": {
+    "A": "গ্যাস",
+    "B": "তরল",
+    "C": "কোনোটিই নয়",
+    "D": "কঠিন"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "ফ্লোরিন ও ক্লোরিনের মধ্যে সক্রিয়তা বেশি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফ্লোরিনের",
+    "C": "ক্লোরিনের",
+    "D": "সমান"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "পর্যায় সারণি থেকে মৌলের ধর্ম —",
+   "options": {
+    "A": "অনুমান করা যায় না",
+    "B": "অনুমান করা যায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "একা-অ্যালুমিনিয়াম পরে আবিষ্কৃত হয় —",
+   "options": {
+    "A": "বোরন নামে",
+    "B": "কোনোটিই নয়",
+    "C": "গ্যালিয়াম নামে",
+    "D": "অ্যালুমিনিয়াম নামে"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "অবস্থান্তর ধাতু —",
+   "options": {
+    "A": "কোনো যোজ্যতা নয়",
+    "B": "পরিবর্তনশীল যোজ্যতা দেখায়",
+    "C": "কোনোটিই নয়",
+    "D": "স্থির যোজ্যতা"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "নিষ্ক্রিয় গ্যাসের যোজ্যতা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১",
+    "C": "২",
+    "D": "০"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "পর্যায় সারণিতে হাইড্রোজেন বাদে সব মৌল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ধর্ম মেনে চলে না",
+    "D": "পর্যায়বৃত্ত ধর্ম মেনে চলে"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "পর্যায় সারণি শেখা —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "দরকার নেই",
+    "C": "কোনোটিই নয়",
+    "D": "জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "মেন্ডেলিভ কোন মৌলের ধর্ম আগে থেকে বলে দিয়েছিলেন?",
+   "options": {
+    "A": "গ্যালিয়াম",
+    "B": "লোহা",
+    "C": "তামা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "পর্যায় সারণির ডান দিকে —",
+   "options": {
+    "A": "ধাতু",
+    "B": "ধাতুকল্প",
+    "C": "অধাতু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "হ্যালোজেন −১ যোজ্যতা —",
+   "options": {
+    "A": "কখনো",
+    "B": "কখনো না",
+    "C": "না",
+    "D": "হ্যাঁ"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "ফ্লোরিনের তড়িৎ ঋণাত্মকতা —",
+   "options": {
+    "A": "৩.৫",
+    "B": "২.৫",
+    "C": "কোনোটিই নয়",
+    "D": "৪.০"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "পর্যায় সারণি রসায়নের —",
+   "options": {
+    "A": "অপ্রয়োজনীয়",
+    "B": "অপরিহার্য হাতিয়ার",
+    "C": "কোনোটিই নয়",
+    "D": "ঐচ্ছিক"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "মোজলির সূত্র প্রমাণ করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ভর মৌলের ভিত্তি",
+    "D": "পারমাণবিক সংখ্যা মৌলের ভিত্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "অবস্থান্তর মৌল কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "d-ব্লক মৌল",
+    "C": "p-ব্লক মৌল",
+    "D": "s-ব্লক মৌল"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "ক্যালসিয়াম অক্সাইডের সংকেত —",
+   "options": {
+    "A": "CaO",
+    "B": "CaO₂",
+    "C": "Ca₂O",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "পর্যায়বৃত্ত ধর্মের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পারমাণবিক ব্যাসার্ধ, আয়নন শক্তি",
+    "C": "শুধু রং",
+    "D": "শুধু গন্ধ"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "পর্যায় সারণি গবেষণায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হয় না",
+    "C": "ব্যবহৃত হয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "মেন্ডেলিভের সারণির ভিত্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ঘনত্ব",
+    "C": "পারমাণবিক সংখ্যা",
+    "D": "পারমাণবিক ভর"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "হিলিয়াম গ্রুপ ১৮ এ — কারণ?",
+   "options": {
+    "A": "পূর্ণ বহিঃস্থ শেল",
+    "B": "কোনোটিই নয়",
+    "C": "আংশিক শেল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "ক্ষার ধাতু পানিতে ভাসে — কারণ?",
+   "options": {
+    "A": "ভারি",
+    "B": "কোনোটিই নয়",
+    "C": "ঘনত্ব বেশি",
+    "D": "ঘনত্ব কম"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "ক্লোরিনের আয়নন শক্তি সোডিয়ামের চেয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সমান",
+    "C": "বেশি",
+    "D": "কম"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "পর্যায় সারণি পরীক্ষায় —",
+   "options": {
+    "A": "অগুরুত্বপূর্ণ",
+    "B": "গুরুত্বপূর্ণ",
+    "C": "কোনোটিই নয়",
+    "D": "প্রয়োজন নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "মেন্ডেলিভের পর্যায় সারণি কত সালে?",
+   "options": {
+    "A": "১৯৬৯",
+    "B": "কোনোটিই নয়",
+    "C": "১৭৬৯",
+    "D": "১৮৬৯"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "কিছু মৌলে ভর সংখ্যা ব্যতিক্রম —",
+   "options": {
+    "A": "কখনো না",
+    "B": "হ্যাঁ",
+    "C": "না",
+    "D": "কখনো"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "ক্ষার ধাতুর গলনাঙ্ক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মাঝারি",
+    "C": "উচ্চ",
+    "D": "নিম্ন"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "তড়িৎ ঋণাত্মকতার স্কেল প্রণয়ন করেন —",
+   "options": {
+    "A": "মোজলি",
+    "B": "মেন্ডেলিভ",
+    "C": "পলিং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "পর্যায় সারণি শিল্পে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দরকার নেই",
+    "C": "ব্যবহৃত হয়",
+    "D": "হয় না"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "পর্যায় সারণির জনক বলা হয় —",
+   "options": {
+    "A": "মেন্ডেলিভকে",
+    "B": "ডাল্টনকে",
+    "C": "মোজলিকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "পর্যায় সারণিতে তরল মৌল কতটি?",
+   "options": {
+    "A": "২",
+    "B": "১০",
+    "C": "কোনোটিই নয়",
+    "D": "৫"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "ক্ষার ধাতু সব —",
+   "options": {
+    "A": "নরম",
+    "B": "কোনোটিই নয়",
+    "C": "শক্ত",
+    "D": "ভঙ্গুর"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "অক্সিজেনের তড়িৎ ঋণাত্মকতা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৪.০",
+    "C": "৩.৫",
+    "D": "৩.০"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "পর্যায় সারণি থেকে মৌলের —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ধর্ম অনুমান করা যায়",
+    "D": "ধর্ম অনুমান করা যায় না"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "মেন্ডেলিভ মৌল সাজিয়েছিলেন —",
+   "options": {
+    "A": "পারমাণবিক ভর অনুযায়ী",
+    "B": "পারমাণবিক সংখ্যা অনুযায়ী",
+    "C": "বর্ণমালা অনুযায়ী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "ধাতুকল্প কাকে বলে?",
+   "options": {
+    "A": "ধাতু ও অধাতুর মধ্যবর্তী মৌল",
+    "B": "শুধু ধাতু",
+    "C": "শুধু অধাতু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "সবচেয়ে সক্রিয় ক্ষার ধাতু —",
+   "options": {
+    "A": "লিথিয়াম",
+    "B": "সোডিয়াম",
+    "C": "সিজিয়াম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "অক্সিজেন ও ফ্লোরিনের মধ্যে তড়িৎ ঋণাত্মকতা বেশি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফ্লোরিনের",
+    "C": "সমান",
+    "D": "অক্সিজেনের"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "পর্যায় সারণি মনে রাখতে —",
+   "options": {
+    "A": "কৌশল নেই",
+    "B": "কোনোটিই নয়",
+    "C": "বিভিন্ন কৌশল আছে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "আধুনিক পর্যায় সারণিতে মৌল সাজানো হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বর্ণমালা অনুযায়ী",
+    "C": "পারমাণবিক সংখ্যা অনুযায়ী",
+    "D": "পারমাণবিক ভর অনুযায়ী"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "ওগানেসনের পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "১১৮",
+    "B": "১০০",
+    "C": "কোনোটিই নয়",
+    "D": "৯২"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "নিয়ন ব্যবহৃত হয় —",
+   "options": {
+    "A": "বিজ্ঞাপন বাতিতে",
+    "B": "রান্নায়",
+    "C": "কোনোটিই নয়",
+    "D": "মাপে"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "সর্ববৃহৎ পারমাণবিক ব্যাসার্ধের মৌল —",
+   "options": {
+    "A": "ফ্লোরিন",
+    "B": "হিলিয়াম",
+    "C": "কোনোটিই নয়",
+    "D": "সিজিয়াম"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "পর্যায় সারণিতে মৌলসমূহ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "এলোমেলোভাবে সাজানো",
+    "D": "সুশৃঙ্খলভাবে সাজানো"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "পর্যায় সারণি আবিষ্কারের পর —",
+   "options": {
+    "A": "কোনো মৌল আবিষ্কৃত হয়নি",
+    "B": "কিছুই না",
+    "C": "অনেক মৌল আবিষ্কৃত হয়েছে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "পর্যায় সারণিতে অধাতু —",
+   "options": {
+    "A": "বেশি",
+    "B": "কোনোটিই নয়",
+    "C": "নেই",
+    "D": "কম"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "নিষ্ক্রিয় গ্যাসের অণু —",
+   "options": {
+    "A": "ত্রিপরমাণুক",
+    "B": "একপরমাণুক",
+    "C": "দ্বিপরমাণুক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "ফ্লোরিন ও ক্লোরিনের মধ্যে ব্যাসার্ধ বড় —",
+   "options": {
+    "A": "ক্লোরিনের",
+    "B": "কোনোটিই নয়",
+    "C": "সমান",
+    "D": "ফ্লোরিনের"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "পর্যায় সারণি —",
+   "options": {
+    "A": "মৌলের ভাণ্ডার",
+    "B": "যৌগের ভাণ্ডার",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "মেন্ডেলিভের সারণিতে মোট গ্রুপ ছিল —",
+   "options": {
+    "A": "৭",
+    "B": "কোনোটিই নয়",
+    "C": "৮",
+    "D": "১৮"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "গ্রুপ IA কে বলা হয় —",
+   "options": {
+    "A": "হ্যালোজেন",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষার ধাতু",
+    "D": "ক্ষারীয় মৃত্তিকা"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "ক্ষার ধাতুর অক্সাইড —",
+   "options": {
+    "A": "ক্ষারীয়",
+    "B": "অম্লীয়",
+    "C": "নিরপেক্ষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "ফ্লোরিন ও ক্লোরিনের মধ্যে আয়নন শক্তি বেশি —",
+   "options": {
+    "A": "ফ্লোরিনের",
+    "B": "ক্লোরিনের",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "পর্যায় সারণি ছাড়া রসায়ন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "একই",
+    "C": "সম্পূর্ণ",
+    "D": "অসম্পূর্ণ"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "আধুনিক পর্যায় সারণি প্রণয়ন করেন —",
+   "options": {
+    "A": "মেন্ডেলিভ",
+    "B": "মোজলি",
+    "C": "কোনোটিই নয়",
+    "D": "ডাল্টন"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "পর্যায় সারণিতে অক্সিজেন পরিবারের গ্রুপ —",
+   "options": {
+    "A": "১৫",
+    "B": "১৬",
+    "C": "কোনোটিই নয়",
+    "D": "১৭"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "গ্রুপ ২ কে বলা হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষার ধাতু",
+    "C": "হ্যালোজেন",
+    "D": "ক্ষারীয় মৃত্তিকা ধাতু"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "সর্বনিম্ন পারমাণবিক ব্যাসার্ধের মৌল —",
+   "options": {
+    "A": "লিথিয়াম",
+    "B": "কোনোটিই নয়",
+    "C": "ফ্লোরিন",
+    "D": "সিজিয়াম"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "পর্যায় সারণি ব্যবহারে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মৌলের ধর্ম মনে রাখা সহজ",
+    "C": "কোনোটিই নয়",
+    "D": "কঠিন"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "মেন্ডেলিভ কিছু মৌলের ভবিষ্যদ্বাণী করেছিলেন —",
+   "options": {
+    "A": "আবিষ্কারের আগেই",
+    "B": "কোনোটিই নয়",
+    "C": "আবিষ্কারের পরে",
+    "D": "কখনো করেননি"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "পর্যায় সারণিতে নাইট্রোজেন পরিবারের মৌল —",
+   "options": {
+    "A": "C, Si, Ge",
+    "B": "O, S, Se",
+    "C": "N, P, As, Sb",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "নিয়ন গ্যাসের সংকেত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "Ne₃",
+    "C": "Ne",
+    "D": "Ne₂"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "ক্ষার ধাতু সবচেয়ে —",
+   "options": {
+    "A": "সক্রিয় ধাতু",
+    "B": "নিষ্ক্রিয় ধাতু",
+    "C": "কোনোটিই নয়",
+    "D": "অধাতু"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "পর্যায় সারণি কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মিশ্রণের সারণি",
+    "C": "মৌলসমূহের সুশৃঙ্খল সারণি",
+    "D": "যৌগের সারণি"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "মেন্ডেলিভের সারণির ত্রুটি —",
+   "options": {
+    "A": "কোনো ত্রুটি নেই",
+    "B": "কোনোটিই নয়",
+    "C": "কিছু মৌলের অবস্থান ভুল",
+    "D": "গ্রুপ ভুল"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "অধাতু পর্যায় সারণির —",
+   "options": {
+    "A": "ডান দিকে",
+    "B": "বাম দিকে",
+    "C": "কোনোটিই নয়",
+    "D": "মাঝে শুধু"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "পটাসিয়াম অক্সাইডের সংকেত —",
+   "options": {
+    "A": "KO₂",
+    "B": "KO",
+    "C": "কোনোটিই নয়",
+    "D": "K₂O"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "ক্ষার ধাতুর আয়নন শক্তি —",
+   "options": {
+    "A": "মাঝারি",
+    "B": "কম",
+    "C": "বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "নতুন মৌল আবিষ্কারে পর্যায় সারণি —",
+   "options": {
+    "A": "সাহায্য করে",
+    "B": "কিছুই না",
+    "C": "সাহায্য করে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "পর্যায় সারণি আবিষ্কারের ফলে —",
+   "options": {
+    "A": "রসায়ন সুসংগঠিত হয়",
+    "B": "কিছুই হয়নি",
+    "C": "কোনোটিই নয়",
+    "D": "রসায়ন এলোমেলো হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "পর্যায় সারণির সর্বশেষ মৌল —",
+   "options": {
+    "A": "ইউরেনিয়াম",
+    "B": "হাইড্রোজেন",
+    "C": "কোনোটিই নয়",
+    "D": "ওগানেসন"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "নিষ্ক্রিয় গ্যাসের ব্যবহার —",
+   "options": {
+    "A": "বাতি ও বেলুনে",
+    "B": "মাপে",
+    "C": "রান্নায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "পর্যায়বৃত্ত ধর্ম কাকে বলে?",
+   "options": {
+    "A": "স্থির ধর্ম",
+    "B": "পর্যায়ক্রমে পুনরাবৃত্ত হওয়া ধর্ম",
+    "C": "একবারের ধর্ম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "পর্যায় সারণি মৌলসমূহকে —",
+   "options": {
+    "A": "এলোমেলো করেছে",
+    "B": "কোনোটিই নয়",
+    "C": "সুসংগঠিত করেছে",
+    "D": "কিছুই করেনি"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "আধুনিক পর্যায় সারণির ভিত্তি —",
+   "options": {
+    "A": "পারমাণবিক ভর",
+    "B": "কোনোটিই নয়",
+    "C": "ভর সংখ্যা",
+    "D": "পারমাণবিক সংখ্যা"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "পর্যায় সারণির উপগ্রুপ —",
+   "options": {
+    "A": "A ও B",
+    "B": "শুধু A",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু B"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "ক্ষার ধাতু ইলেকট্রন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ত্যাগ করে",
+    "C": "ভাগ করে",
+    "D": "লাভ করে"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "পারমাণবিক ব্যাসার্ধ সবচেয়ে বড় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফ্লোরিনে",
+    "C": "হাইড্রোজেনে",
+    "D": "ফ্রান্সিয়ামে"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "মোজলি মৌল সাজান —",
+   "options": {
+    "A": "পারমাণবিক ভর অনুযায়ী",
+    "B": "বর্ণমালা অনুযায়ী",
+    "C": "কোনোটিই নয়",
+    "D": "পারমাণবিক সংখ্যা অনুযায়ী"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "দ্বিতীয় পর্যায়ে মৌল সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২",
+    "C": "৮",
+    "D": "১৮"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "সোডিয়াম কেরোসিনে রাখা হয় — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাতাসে বিক্রিয়া রোধে",
+    "C": "ওজনে",
+    "D": "সৌন্দর্যে"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্রুপের নাম",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "দ্বিতীয় আয়নন শক্তি প্রথমের চেয়ে —",
+   "options": {
+    "A": "বেশি",
+    "B": "শূন্য",
+    "C": "সমান",
+    "D": "কম"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "পর্যায় সারণির আবিষ্কারকদের —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কোনো অবদান নেই",
+    "C": "অবদান স্মরণীয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "পর্যায় সারণিতে হ্যালোজেনের সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৬",
+    "C": "৫",
+    "D": "৭"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "ক্যালসিয়াম ক্লোরাইডের সংকেত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "CaCl",
+    "C": "Ca₂Cl",
+    "D": "CaCl₂"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "সবচেয়ে তড়িৎ ঋণাত্মক মৌল —",
+   "options": {
+    "A": "অক্সিজেন",
+    "B": "ক্লোরিন",
+    "C": "ফ্লোরিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "পারমাণবিক সংখ্যা = ?",
+   "options": {
+    "A": "নিউট্রন সংখ্যা",
+    "B": "কোনোটিই নয়",
+    "C": "প্রোটন সংখ্যা",
+    "D": "ভর সংখ্যা"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "পর্যায় সারণিতে ক্লোরিনের নিচে —",
+   "options": {
+    "A": "ফ্লোরিন",
+    "B": "কোনোটিই নয়",
+    "C": "আয়োডিন",
+    "D": "ব্রোমিন"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "নিষ্ক্রিয় গ্যাসের উদাহরণ —",
+   "options": {
+    "A": "লিথিয়াম, সোডিয়াম",
+    "B": "কোনোটিই নয়",
+    "C": "হিলিয়াম, নিয়ন, আর্গন",
+    "D": "ফ্লোরিন, ক্লোরিন"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "অধাতব ধর্ম গ্রুপ বরাবর —",
+   "options": {
+    "A": "শূন্য",
+    "B": "একই",
+    "C": "বাড়ে",
+    "D": "কমে"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "আধুনিক পর্যায় সারণির প্রবক্তা —",
+   "options": {
+    "A": "ডাল্টন",
+    "B": "নিউটন",
+    "C": "কোনোটিই নয়",
+    "D": "মেন্ডেলিভ"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "লিথিয়াম ও বেরিলিয়াম একই পর্যায়ে — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "একই যোজ্যতা ইলেকট্রন",
+    "C": "একই ভর",
+    "D": "একই শেল সংখ্যা"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "NaCl এ সোডিয়ামের যোজ্যতা —",
+   "options": {
+    "A": "+১",
+    "B": "−১",
+    "C": "+২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "গ্রুপ বরাবর তড়িৎ ঋণাত্মকতা —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "শূন্য",
+    "C": "একই",
+    "D": "কমে"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "আধুনিক সারণি মেন্ডেলিভের সারণির চেয়ে —",
+   "options": {
+    "A": "সমান",
+    "B": "কোনোটিই নয়",
+    "C": "উন্নত",
+    "D": "অনুন্নত"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "পর্যায় সারণির মৌলিক নীতি —",
+   "options": {
+    "A": "ভরের ক্রম",
+    "B": "পারমাণবিক সংখ্যার ক্রম",
+    "C": "বর্ণমালার ক্রম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "ম্যাগনেসিয়াম অক্সাইডের সংকেত —",
+   "options": {
+    "A": "MgO₂",
+    "B": "কোনোটিই নয়",
+    "C": "MgO",
+    "D": "Mg₂O"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্রুপের নাম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "পারমাণবিক ব্যাসার্ধ কমার কারণ —",
+   "options": {
+    "A": "ইলেকট্রন বাড়া",
+    "B": "নিউক্লিয় আধান বাড়া",
+    "C": "শেল বাড়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "পর্যায় সারণিতে মৌল সাজানোর মূল ভিত্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভর",
+    "C": "ঘনত্ব",
+    "D": "পারমাণবিক সংখ্যা"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "গ্রুপ ১৬ এর মৌলের যোজ্যতা —",
+   "options": {
+    "A": "২",
+    "B": "১",
+    "C": "৩",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "হ্যালোজেন ইলেকট্রন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ত্যাগ করে",
+    "C": "ভাগ করে",
+    "D": "লাভ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "সবচেয়ে সক্রিয় অধাতু —",
+   "options": {
+    "A": "ক্লোরিন",
+    "B": "ব্রোমিন",
+    "C": "ফ্লোরিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "মেন্ডেলিভের সারণিতে শূন্যস্থান রেখেছিলেন —",
+   "options": {
+    "A": "অনাবিষ্কৃত মৌলের জন্য",
+    "B": "কোনোটিই নয়",
+    "C": "সৌন্দর্যে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির ইতিহাস",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "ধাতুকল্পের বৈশিষ্ট্য —",
+   "options": {
+    "A": "শুধু অধাতু",
+    "B": "ধাতু ও অধাতুর মিশ্র",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু ধাতু"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "ক্ষারীয় মৃত্তিকা ধাতুর উদাহরণ —",
+   "options": {
+    "A": "লিথিয়াম, সোডিয়াম",
+    "B": "ফ্লোরিন, ক্লোরিন",
+    "C": "ম্যাগনেসিয়াম, ক্যালসিয়াম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "পর্যায় বরাবর তড়িৎ ঋণাত্মকতা —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "শূন্য",
+    "C": "কমে",
+    "D": "একই"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "পর্যায় সারণিতে মৌলের অবস্থান থেকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ধর্ম জানা যায় না",
+    "D": "ধর্ম জানা যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "গ্রুপ ১ কে বলা হয় —",
+   "options": {
+    "A": "ক্ষারীয় মৃত্তিকা ধাতু",
+    "B": "কোনোটিই নয়",
+    "C": "হ্যালোজেন",
+    "D": "ক্ষার ধাতু"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "ইলেকট্রন আসক্তি সবচেয়ে বেশি —",
+   "options": {
+    "A": "ফ্লোরিনে",
+    "B": "ক্লোরিনে",
+    "C": "ব্রোমিনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "লোহার অবস্থান —",
+   "options": {
+    "A": "গ্রুপ ৯, পর্যায় ৪",
+    "B": "কোনোটিই নয়",
+    "C": "গ্রুপ ৮, পর্যায় ৪",
+    "D": "গ্রুপ ৮, পর্যায় ৩"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "গ্রুপ ১ এর মৌল —",
+   "options": {
+    "A": "লিথিয়াম, সোডিয়াম, পটাসিয়াম",
+    "B": "ম্যাগনেসিয়াম, ক্যালসিয়াম",
+    "C": "ফ্লোরিন, ক্লোরিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "মৌলের ধর্ম পর্যায়ক্রমে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শূন্য",
+    "C": "পুনরাবৃত্ত হয় না",
+    "D": "পুনরাবৃত্ত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "সপ্তম পর্যায়ে মৌল সংখ্যা —",
+   "options": {
+    "A": "৩২",
+    "B": "কোনোটিই নয়",
+    "C": "৮",
+    "D": "১৮"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "ফ্লোরিন গ্যাসের সংকেত —",
+   "options": {
+    "A": "F₃",
+    "B": "কোনোটিই নয়",
+    "C": "F",
+    "D": "F₂"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "আয়নন শক্তি সবচেয়ে কম —",
+   "options": {
+    "A": "ফ্রান্সিয়ামে",
+    "B": "হিলিয়ামে",
+    "C": "ফ্লোরিনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "কার্বনের যোজ্যতা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২",
+    "C": "৪",
+    "D": "৩"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "ক্ষারীয় মৃত্তিকা ধাতু +২ যোজ্যতা —",
+   "options": {
+    "A": "না",
+    "B": "কখনো",
+    "C": "কখনো না",
+    "D": "হ্যাঁ"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "পারমাণবিক ব্যাসার্ধ সবচেয়ে ছোট —",
+   "options": {
+    "A": "লিথিয়ামে",
+    "B": "কোনোটিই নয়",
+    "C": "ফ্রান্সিয়ামে",
+    "D": "হিলিয়ামে"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "পর্যায় সারণিতে বোরনের ডানে —",
+   "options": {
+    "A": "বেরিলিয়াম",
+    "B": "কার্বন",
+    "C": "কোনোটিই নয়",
+    "D": "নাইট্রোজেন"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "ক্ষার ধাতু পানিতে —",
+   "options": {
+    "A": "অক্সিজেন দেয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই দেয় না",
+    "D": "হাইড্রোজেন গ্যাস দেয়"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "অধাতব ধর্ম পর্যায় বরাবর —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "পর্যায় সারণির মাঝখানে —",
+   "options": {
+    "A": "হ্যালোজেন",
+    "B": "ক্ষার ধাতু",
+    "C": "কোনোটিই নয়",
+    "D": "অবস্থান্তর ধাতু"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "ক্ষার ধাতুর উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফ্লোরিন, ক্লোরিন",
+    "C": "লিথিয়াম, সোডিয়াম",
+    "D": "ম্যাগনেসিয়াম, ক্যালসিয়াম"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "পর্যায় বরাবর ইলেকট্রন আসক্তি —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "একই",
+    "C": "কমে",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "একই গ্রুপের মৌলের রাসায়নিক ধর্ম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভিন্ন",
+    "C": "সদৃশ",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "ক্লোরিন গ্যাসের সংকেত —",
+   "options": {
+    "A": "Cl₃",
+    "B": "Cl",
+    "C": "Cl₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "সোডিয়াম ও ম্যাগনেসিয়ামের মধ্যে ধাতব ধর্ম বেশি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ম্যাগনেসিয়ামের",
+    "C": "সমান",
+    "D": "সোডিয়ামের"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "পর্যায় সারণিতে ক্লোরিনের ডানে —",
+   "options": {
+    "A": "পটাসিয়াম",
+    "B": "আর্গন",
+    "C": "কোনোটিই নয়",
+    "D": "সালফার"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "KOH কী?",
+   "options": {
+    "A": "পটাসিয়াম হাইড্রোক্সাইড",
+    "B": "কোনোটিই নয়",
+    "C": "পটাসিয়াম ক্লোরাইড",
+    "D": "পটাসিয়াম কার্বনেট"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "তড়িৎ ঋণাত্মকতা সবচেয়ে কম —",
+   "options": {
+    "A": "অক্সিজেনের",
+    "B": "কোনোটিই নয়",
+    "C": "ফ্লোরিনের",
+    "D": "সিজিয়ামের"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "পর্যায় সারণিতে কঠিন মৌল —",
+   "options": {
+    "A": "নেই",
+    "B": "কোনোটিই নয়",
+    "C": "কম",
+    "D": "বেশি"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "গ্রুপ বরাবর ক্ষার ধাতুর সক্রিয়তা —",
+   "options": {
+    "A": "শূন্য",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "কমে"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "ধাতব ধর্ম সবচেয়ে বেশি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফ্রান্সিয়ামে",
+    "C": "ফ্লোরিনে",
+    "D": "লিথিয়ামে"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "পঞ্চম পর্যায়ে মৌল সংখ্যা —",
+   "options": {
+    "A": "৮",
+    "B": "১৮",
+    "C": "কোনোটিই নয়",
+    "D": "৩২"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "ক্ষার ধাতু বাতাসে —",
+   "options": {
+    "A": "দ্রুত বিক্রিয়া করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বিক্রিয়া করে না"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "আয়নন শক্তি সবচেয়ে বেশি —",
+   "options": {
+    "A": "লিথিয়ামে",
+    "B": "ফ্রান্সিয়ামে",
+    "C": "হিলিয়ামে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "লোহা ব্যবহৃত হয় —",
+   "options": {
+    "A": "রান্নায় শুধু",
+    "B": "কোনোটিই নয়",
+    "C": "নির্মাণে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "নিষ্ক্রিয় গ্যাসের বৈশিষ্ট্য —",
+   "options": {
+    "A": "বিক্রিয়াহীন",
+    "B": "কোনোটিই নয়",
+    "C": "খুব সক্রিয়",
+    "D": "মাঝারি"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "আয়নন শক্তি যত কম, মৌল তত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সক্রিয়",
+    "C": "হালকা",
+    "D": "নিষ্ক্রিয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "অবস্থান্তর মৌলের উদাহরণ —",
+   "options": {
+    "A": "সোডিয়াম, পটাসিয়াম",
+    "B": "কোনোটিই নয়",
+    "C": "অক্সিজেন, নাইট্রোজেন",
+    "D": "লোহা, তামা"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "ক্ষার ধাতু নরম —",
+   "options": {
+    "A": "কখনো",
+    "B": "কখনো না",
+    "C": "না",
+    "D": "হ্যাঁ"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "লিথিয়াম ও সোডিয়ামের মধ্যে ব্যাসার্ধ বড় —",
+   "options": {
+    "A": "সোডিয়ামের",
+    "B": "লিথিয়ামের",
+    "C": "কোনোটিই নয়",
+    "D": "সমান"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "পর্যায় সারণিতে সবচেয়ে হালকা মৌল —",
+   "options": {
+    "A": "হাইড্রোজেন",
+    "B": "কোনোটিই নয়",
+    "C": "লিথিয়াম",
+    "D": "হিলিয়াম"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "নিষ্ক্রিয় গ্যাসের বহিঃস্থ শেল —",
+   "options": {
+    "A": "অর্ধপূর্ণ",
+    "B": "খালি",
+    "C": "কোনোটিই নয়",
+    "D": "পূর্ণ"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "পর্যায় বরাবর যোজ্যতা ইলেকট্রন —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "শূন্য",
+    "C": "কমে",
+    "D": "একই থাকে"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "অ্যালুমিনিয়ামের অবস্থান —",
+   "options": {
+    "A": "গ্রুপ ১৩, পর্যায় ২",
+    "B": "গ্রুপ ১৩, পর্যায় ৩",
+    "C": "কোনোটিই নয়",
+    "D": "গ্রুপ ১৪, পর্যায় ৩"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "ক্ষার ধাতু +১ যোজ্যতা —",
+   "options": {
+    "A": "না",
+    "B": "কখনো না",
+    "C": "হ্যাঁ",
+    "D": "কখনো"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "পর্যায় বরাবর বাম থেকে ডানে পারমাণবিক ব্যাসার্ধ —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "শূন্য",
+    "C": "কমে",
+    "D": "একই"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "পর্যায় সারণিতে অক্সিজেনের ডানে —",
+   "options": {
+    "A": "নিয়ন",
+    "B": "ফ্লোরিন",
+    "C": "কোনোটিই নয়",
+    "D": "নাইট্রোজেন"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "হ্যালোজেনের অণু —",
+   "options": {
+    "A": "ত্রিপরমাণুক",
+    "B": "দ্বিপরমাণুক",
+    "C": "কোনোটিই নয়",
+    "D": "একপরমাণুক"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "ক্লোরিনের অধাতব ধর্ম সোডিয়ামের চেয়ে —",
+   "options": {
+    "A": "সমান",
+    "B": "কোনোটিই নয়",
+    "C": "বেশি",
+    "D": "কম"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "পর্যায় সারণিতে সোডিয়ামের উপরে —",
+   "options": {
+    "A": "লিথিয়াম",
+    "B": "ম্যাগনেসিয়াম",
+    "C": "কোনোটিই নয়",
+    "D": "পটাসিয়াম"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "পটাসিয়াম ক্লোরাইডের সংকেত —",
+   "options": {
+    "A": "KCl₂",
+    "B": "K₂Cl",
+    "C": "কোনোটিই নয়",
+    "D": "KCl"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "পর্যায় বরাবর শেল সংখ্যা —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "শূন্য",
+    "D": "একই থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "পর্যায় কাকে বলে?",
+   "options": {
+    "A": "তির্যক রেখা",
+    "B": "অনুভূমিক সারি",
+    "C": "উল্লম্ব কলাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "ক্ষার ধাতুর ঘনত্ব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উচ্চ",
+    "C": "মাঝারি",
+    "D": "নিম্ন"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "সোডিয়ামের পারমাণবিক ব্যাসার্ধ ক্লোরিনের চেয়ে —",
+   "options": {
+    "A": "ছোট",
+    "B": "কোনোটিই নয়",
+    "C": "সমান",
+    "D": "বড়"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "লোহা কোন ব্লকের মৌল?",
+   "options": {
+    "A": "d-ব্লক",
+    "B": "s-ব্লক",
+    "C": "কোনোটিই নয়",
+    "D": "p-ব্লক"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "সোডিয়াম অক্সাইডের সংকেত —",
+   "options": {
+    "A": "Na₂O",
+    "B": "NaO₂",
+    "C": "NaO",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "পারমাণবিক ব্যাসার্ধ বাড়ার কারণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিউক্লিয় আধান বাড়া",
+    "C": "নতুন শেল যোগ",
+    "D": "ইলেকট্রন কমা"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "পর্যায় সারণির কলাম ও সারি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু পর্যায়",
+    "C": "গ্রুপ ও পর্যায়",
+    "D": "শুধু গ্রুপ"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "ফ্লোরিন ও ক্লোরিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কঠিন",
+    "C": "তরল",
+    "D": "গ্যাস"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "অক্সিজেন ও নাইট্রোজেনের মধ্যে তড়িৎ ঋণাত্মকতা বেশি —",
+   "options": {
+    "A": "অক্সিজেনের",
+    "B": "কোনোটিই নয়",
+    "C": "নাইট্রোজেনের",
+    "D": "সমান"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "ফসফরাসের অবস্থান —",
+   "options": {
+    "A": "গ্রুপ ১৫, পর্যায় ৩",
+    "B": "কোনোটিই নয়",
+    "C": "গ্রুপ ১৬, পর্যায় ৩",
+    "D": "গ্রুপ ১৪, পর্যায় ৩"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "ক্ষার ধাতুর হাইড্রোক্সাইড —",
+   "options": {
+    "A": "অম্লীয়",
+    "B": "ক্ষারীয়",
+    "C": "নিরপেক্ষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "আয়নন শক্তি যত বেশি, মৌল তত —",
+   "options": {
+    "A": "ভারী",
+    "B": "সক্রিয়",
+    "C": "কোনোটিই নয়",
+    "D": "নিষ্ক্রিয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "গ্রুপ কাকে বলে?",
+   "options": {
+    "A": "অনুভূমিক সারি",
+    "B": "উল্লম্ব কলাম",
+    "C": "কোনোটিই নয়",
+    "D": "তির্যক রেখা"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "সবচেয়ে সক্রিয় হ্যালোজেন —",
+   "options": {
+    "A": "ক্লোরিন",
+    "B": "ফ্লোরিন",
+    "C": "কোনোটিই নয়",
+    "D": "ব্রোমিন"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "ইলেকট্রন আসক্তি কাকে বলে?",
+   "options": {
+    "A": "তাপ",
+    "B": "ইলেকট্রন গ্রহণে নির্গত শক্তি",
+    "C": "ইলেকট্রন অপসারণের শক্তি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "সোনা ও রুপা —",
+   "options": {
+    "A": "মূল্যবান ধাতু",
+    "B": "ক্ষার ধাতু",
+    "C": "কোনোটিই নয়",
+    "D": "হ্যালোজেন"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "ক্ষার ধাতুর চকচকে ভাব —",
+   "options": {
+    "A": "সবসময় থাকে",
+    "B": "কখনো থাকে না",
+    "C": "কোনোটিই নয়",
+    "D": "কাটলে দেখা যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "একই পর্যায়ে বাম থেকে ডানে —",
+   "options": {
+    "A": "একই থাকে",
+    "B": "ধাতব ধর্ম কমে",
+    "C": "ধাতব ধর্ম বাড়ে",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "অধাতুর বৈশিষ্ট্য —",
+   "options": {
+    "A": "নমনীয়",
+    "B": "পরিবাহী",
+    "C": "কোনোটিই নয়",
+    "D": "বিদ্যুৎ অপরিবাহী"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "হ্যালোজেনের উদাহরণ —",
+   "options": {
+    "A": "লিথিয়াম, সোডিয়াম",
+    "B": "হিলিয়াম, নিয়ন",
+    "C": "কোনোটিই নয়",
+    "D": "ফ্লোরিন, ক্লোরিন, ব্রোমিন"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "ক্লোরিনের তড়িৎ ঋণাত্মকতা সোডিয়ামের চেয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বেশি",
+    "C": "কম",
+    "D": "সমান"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "পর্যায় সারণিতে পর্যায় সাজানো হয় —",
+   "options": {
+    "A": "তির্যকভাবে",
+    "B": "কোনোটিই নয়",
+    "C": "অনুভূমিকভাবে",
+    "D": "উল্লম্বভাবে"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "গ্রুপ ১৮ এর মৌল —",
+   "options": {
+    "A": "হিলিয়াম, নিয়ন, আর্গন",
+    "B": "কোনোটিই নয়",
+    "C": "লিথিয়াম, সোডিয়াম",
+    "D": "ফ্লোরিন, ক্লোরিন"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "গ্রুপ বরাবর শেল সংখ্যা —",
+   "options": {
+    "A": "শূন্য",
+    "B": "একই থাকে",
+    "C": "কমে",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "কৃত্রিম মৌলের সংখ্যা —",
+   "options": {
+    "A": "৯২",
+    "B": "২৬",
+    "C": "১০",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "সোডিয়াম ও ক্লোরিনের বিক্রিয়ায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "NaCl₂ হয়",
+    "C": "NaOH হয়",
+    "D": "NaCl হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "পর্যায় বরাবর বাম থেকে ডানে আয়নন শক্তি —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "শূন্য",
+    "C": "কমে",
+    "D": "একই"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "চতুর্থ পর্যায়ের মৌল —",
+   "options": {
+    "A": "Na থেকে Ar",
+    "B": "Rb থেকে Xe",
+    "C": "কোনোটিই নয়",
+    "D": "K থেকে Kr"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "NaCl এ ক্লোরিনের যোজ্যতা —",
+   "options": {
+    "A": "+১",
+    "B": "−২",
+    "C": "কোনোটিই নয়",
+    "D": "−১"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "ধাতব ধর্ম পর্যায় বরাবর —",
+   "options": {
+    "A": "কমে",
+    "B": "একই",
+    "C": "শূন্য",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "পর্যায় সারণিতে ১১৮টি মৌল —",
+   "options": {
+    "A": "সাজানো নেই",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সাজানো আছে"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "গ্রুপ ১৮ কে বলা হয় —",
+   "options": {
+    "A": "হ্যালোজেন",
+    "B": "কোনোটিই নয়",
+    "C": "নিষ্ক্রিয় গ্যাস",
+    "D": "ক্ষার ধাতু"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্রুপের নাম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "সোডিয়ামের ধাতব ধর্ম ক্লোরিনের চেয়ে —",
+   "options": {
+    "A": "বেশি",
+    "B": "কোনোটিই নয়",
+    "C": "সমান",
+    "D": "কম"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "পর্যায় সারণিতে কার্বন পরিবারের মৌল —",
+   "options": {
+    "A": "C, Si, Ge, Sn, Pb",
+    "B": "O, S, Se",
+    "C": "কোনোটিই নয়",
+    "D": "N, P, As"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "সোডিয়াম পানির বিক্রিয়ায় —",
+   "options": {
+    "A": "NaCl উৎপন্ন হয়",
+    "B": "কিছুই হয় না",
+    "C": "NaOH ও H₂ উৎপন্ন হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "গ্রুপ বরাবর উপর থেকে নিচে আয়নন শক্তি —",
+   "options": {
+    "A": "কমে",
+    "B": "শূন্য",
+    "C": "বাড়ে",
+    "D": "একই"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "পর্যায় সারণির প্রতিটি ঘরে লেখা থাকে —",
+   "options": {
+    "A": "শুধু ভর",
+    "B": "প্রতীক, সংখ্যা, ভর",
+    "C": "শুধু প্রতীক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "সোডিয়াম ক্লোরাইডের সংকেত —",
+   "options": {
+    "A": "NaCl",
+    "B": "কোনোটিই নয়",
+    "C": "NaCl₂",
+    "D": "Na₂Cl"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "তড়িৎ ঋণাত্মকতা সবচেয়ে বেশি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্লোরিনের",
+    "C": "অক্সিজেনের",
+    "D": "ফ্লোরিনের"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "পর্যায় সারণিতে ধাতু —",
+   "options": {
+    "A": "কম",
+    "B": "কোনোটিই নয়",
+    "C": "নেই",
+    "D": "বেশি"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "নিষ্ক্রিয় গ্যাস একক পরমাণু হিসেবে —",
+   "options": {
+    "A": "ত্রিপরমাণুক",
+    "B": "বিরাজ করে",
+    "C": "দ্বিপরমাণুক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "সোডিয়াম ও ম্যাগনেসিয়ামের মধ্যে আয়নন শক্তি বেশি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সোডিয়ামের",
+    "C": "ম্যাগনেসিয়ামের",
+    "D": "সমান"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "পর্যায় সারণিতে বেরিলিয়ামের ডানে —",
+   "options": {
+    "A": "কার্বন",
+    "B": "বোরন",
+    "C": "লিথিয়াম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "সবচেয়ে কম সক্রিয় হ্যালোজেন —",
+   "options": {
+    "A": "আয়োডিন",
+    "B": "কোনোটিই নয়",
+    "C": "ফ্লোরিন",
+    "D": "ক্লোরিন"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "গ্রুপ বরাবর উপর থেকে নিচে পারমাণবিক ব্যাসার্ধ —",
+   "options": {
+    "A": "কমে",
+    "B": "শূন্য",
+    "C": "একই",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "পর্যায় সারণিতে সোডিয়ামের ডানে —",
+   "options": {
+    "A": "লিথিয়াম",
+    "B": "কোনোটিই নয়",
+    "C": "ম্যাগনেসিয়াম",
+    "D": "নিয়ন"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "গ্রুপ ২ এর মৌল —",
+   "options": {
+    "A": "ফ্লোরিন, ক্লোরিন",
+    "B": "বেরিলিয়াম, ম্যাগনেসিয়াম, ক্যালসিয়াম",
+    "C": "কোনোটিই নয়",
+    "D": "লিথিয়াম, সোডিয়াম"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "সবচেয়ে সক্রিয় ধাতু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সিজিয়াম",
+    "C": "সোডিয়াম",
+    "D": "লিথিয়াম"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "পর্যায় সারণিতে গ্রুপ সাজানো হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উল্লম্বভাবে",
+    "C": "তির্যকভাবে",
+    "D": "অনুভূমিকভাবে"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "সোডিয়াম পানিতে ফেললে —",
+   "options": {
+    "A": "কিছুই হয় না",
+    "B": "কোনোটিই নয়",
+    "C": "অক্সিজেন নির্গত হয়",
+    "D": "হাইড্রোজেন নির্গত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "সোডিয়াম ও ম্যাগনেসিয়ামের মধ্যে ব্যাসার্ধ বড় —",
+   "options": {
+    "A": "সমান",
+    "B": "কোনোটিই নয়",
+    "C": "সোডিয়ামের",
+    "D": "ম্যাগনেসিয়ামের"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "গ্রুপ ০ কে বলা হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষার ধাতু",
+    "C": "নিষ্ক্রিয় গ্যাস",
+    "D": "হ্যালোজেন"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "গ্রুপ ১৭ এর মৌল —",
+   "options": {
+    "A": "হিলিয়াম, নিয়ন",
+    "B": "কোনোটিই নয়",
+    "C": "ফ্লোরিন, ক্লোরিন, ব্রোমিন, আয়োডিন",
+    "D": "লিথিয়াম, সোডিয়াম"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "লিথিয়াম ও সোডিয়ামের মধ্যে আয়নন শক্তি বেশি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লিথিয়ামের",
+    "C": "সোডিয়ামের",
+    "D": "সমান"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "গ্রুপ VIIA কে বলা হয় —",
+   "options": {
+    "A": "ক্ষার ধাতু",
+    "B": "নিষ্ক্রিয় গ্যাস",
+    "C": "হ্যালোজেন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "ক্ষারীয় মৃত্তিকা ধাতুর অক্সাইড —",
+   "options": {
+    "A": "ক্ষারীয়",
+    "B": "নিরপেক্ষ",
+    "C": "কোনোটিই নয়",
+    "D": "অম্লীয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "আয়নন শক্তি কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইলেকট্রন অপসারণে প্রয়োজনীয় শক্তি",
+    "C": "তাপ শক্তি",
+    "D": "ইলেকট্রন যোগের শক্তি"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "পর্যায় সারণিতে অধাতুর সংখ্যা প্রায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৮০",
+    "C": "২০",
+    "D": "৫০"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "ক্ষার ধাতু সংরক্ষণ করা হয় —",
+   "options": {
+    "A": "বাতাসে",
+    "B": "পানিতে",
+    "C": "কোনোটিই নয়",
+    "D": "কেরোসিনে"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "তড়িৎ ঋণাত্মকতা কাকে বলে?",
+   "options": {
+    "A": "ইলেকট্রন আকর্ষণের ক্ষমতা",
+    "B": "ইলেকট্রন ত্যাগের ক্ষমতা",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ ধারণ"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "পর্যায় সারণিতে লিথিয়ামের ডানে —",
+   "options": {
+    "A": "হিলিয়াম",
+    "B": "বেরিলিয়াম",
+    "C": "সোডিয়াম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "হ্যালোজেনের সক্রিয়তা গ্রুপ বরাবর —",
+   "options": {
+    "A": "শূন্য",
+    "B": "কমে",
+    "C": "একই",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "গ্রুপ বরাবর যোজ্যতা ইলেকট্রন —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "শূন্য",
+    "D": "একই থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায়বৃত্ত ধর্ম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "পর্যায় সারণির মূল গ্রুপ —",
+   "options": {
+    "A": "৮টি",
+    "B": "১৮টি",
+    "C": "১০টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "হিলিয়াম গ্যাসের সংকেত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "He₂",
+    "C": "He",
+    "D": "He₃"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "পর্যায় সারণির প্রতিটি ঘরে —",
+   "options": {
+    "A": "কিছুই থাকে না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "মৌলের তথ্য থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "হ্যালোজেনের হাইড্রাইড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষারীয়",
+    "C": "নিরপেক্ষ",
+    "D": "অম্লীয়"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "নাইট্রোজেনের অবস্থান —",
+   "options": {
+    "A": "গ্রুপ ১৫, পর্যায় ২",
+    "B": "গ্রুপ ১৪, পর্যায় ২",
+    "C": "গ্রুপ ১৬, পর্যায় ২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "হিলিয়াম ব্যবহৃত হয় —",
+   "options": {
+    "A": "বেলুনে",
+    "B": "রান্নায়",
+    "C": "মাপে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "পর্যায় সারণিতে মৌলের পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "এলোমেলো",
+    "B": "কোনোটিই নয়",
+    "C": "ক্রমবর্ধমান",
+    "D": "ক্রমহ্রাসমান"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "NaOH কী?",
+   "options": {
+    "A": "সোডিয়াম কার্বনেট",
+    "B": "কোনোটিই নয়",
+    "C": "সোডিয়াম হাইড্রোক্সাইড",
+    "D": "সোডিয়াম ক্লোরাইড"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্রুপের নাম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "অক্সিজেনের যোজ্যতা —",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "১",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "HF কী?",
+   "options": {
+    "A": "হাইড্রোফ্লোরিক অ্যাসিড",
+    "B": "কোনোটিই নয়",
+    "C": "হাইড্রোজেন ফ্লোরাইড শুধু",
+    "D": "ফ্লোরিন গ্যাস"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "পর্যায় সারণিতে হিলিয়াম রাখা হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্রুপ ১ এ",
+    "C": "গ্রুপ ১৮ এ",
+    "D": "গ্রুপ ২ এ"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "HCl কী?",
+   "options": {
+    "A": "হাইড্রোক্লোরিক অ্যাসিড",
+    "B": "কোনোটিই নয়",
+    "C": "ক্লোরিন গ্যাস",
+    "D": "হাইপোক্লোরাস অ্যাসিড"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্রুপের নাম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "পর্যায় সারণিতে একই পর্যায়ের মৌলের —",
+   "options": {
+    "A": "ক্রমপরিবর্তনশীল ধর্ম",
+    "B": "একই ধর্ম",
+    "C": "কোনোটিই নয়",
+    "D": "কোনো ধর্ম নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "পর্যায় সারণিতে মৌলের মোট সংখ্যা —",
+   "options": {
+    "A": "৯২",
+    "B": "১০০",
+    "C": "কোনোটিই নয়",
+    "D": "১১৮"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "হাইড্রোজেনকে গ্রুপ ১ ও ১৭ উভয়ে রাখা যায় — কারণ?",
+   "options": {
+    "A": "শুধু অধাতু",
+    "B": "শুধু ধাতু",
+    "C": "ধাতু ও অধাতু উভয়ের মতো আচরণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "ধাতুকল্পের উদাহরণ —",
+   "options": {
+    "A": "সিলিকন, জার্মেনিয়াম",
+    "B": "কোনোটিই নয়",
+    "C": "লোহা, তামা",
+    "D": "অক্সিজেন, নাইট্রোজেন"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "পর্যায় সারণিতে সবচেয়ে বেশি মৌল —",
+   "options": {
+    "A": "ধাতু",
+    "B": "ধাতুকল্প",
+    "C": "কোনোটিই নয়",
+    "D": "অধাতু"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "অক্সিজেন কোন ব্লকের মৌল?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "p-ব্লক",
+    "C": "s-ব্লক",
+    "D": "d-ব্লক"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "পর্যায় সারণিতে মোট গ্রুপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৮",
+    "C": "১০",
+    "D": "১৮"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "পর্যায় সারণি মৌলসমূহের —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অবস্থা নির্দেশ করে",
+    "C": "কোনোটিই নয়",
+    "D": "অবস্থা নির্দেশ করে না"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "পর্যায় সারণিতে সালফারের ডানে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আর্গন",
+    "C": "ক্লোরিন",
+    "D": "ফসফরাস"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "পটাসিয়ামের অবস্থান —",
+   "options": {
+    "A": "গ্রুপ ১, পর্যায় ৪",
+    "B": "কোনোটিই নয়",
+    "C": "গ্রুপ ২, পর্যায় ৪",
+    "D": "গ্রুপ ১, পর্যায় ৩"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "পর্যায় সারণিতে একই গ্রুপের মৌলের —",
+   "options": {
+    "A": "সদৃশ ধর্ম",
+    "B": "ভিন্ন ধর্ম",
+    "C": "কোনোটিই নয়",
+    "D": "কোনো ধর্ম নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "গ্রুপ ১৫ এর মৌলের যোজ্যতা —",
+   "options": {
+    "A": "৩ বা ৫",
+    "B": "শুধু ৩",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু ৫"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "পর্যায় সারণিতে নাইট্রোজেন পরিবারের গ্রুপ —",
+   "options": {
+    "A": "১৪",
+    "B": "১৬",
+    "C": "১৫",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "পর্যায় সারণিতে ধাতুকল্পের সংখ্যা প্রায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৭",
+    "C": "৫০",
+    "D": "২০"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "ক্ষার ধাতু কোন ব্লকে?",
+   "options": {
+    "A": "s-ব্লক",
+    "B": "p-ব্লক",
+    "C": "d-ব্লক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "পর্যায় সারণিতে গ্যাসীয় মৌল কতটি?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২০",
+    "C": "১১",
+    "D": "৫"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "পর্যায় সারণিতে অক্সিজেন পরিবারের মৌল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "O, S, Se, Te",
+    "C": "N, P, As",
+    "D": "C, Si, Ge"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "পর্যায় সারণির উপর থেকে নিচে পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "শূন্য",
+    "D": "একই"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "পর্যায় সারণিতে ম্যাগনেসিয়ামের নিচে —",
+   "options": {
+    "A": "বেরিলিয়াম",
+    "B": "ক্যালসিয়াম",
+    "C": "কোনোটিই নয়",
+    "D": "সোডিয়াম"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "পর্যায় সারণিতে সিলিকনের ডানে —",
+   "options": {
+    "A": "ফসফরাস",
+    "B": "অ্যালুমিনিয়াম",
+    "C": "সালফার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "পর্যায় সারণিতে মোট পর্যায় —",
+   "options": {
+    "A": "৭",
+    "B": "কোনোটিই নয়",
+    "C": "৮",
+    "D": "৬"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "দ্বিতীয় পর্যায়ের মৌল —",
+   "options": {
+    "A": "Na থেকে Ar",
+    "B": "কোনোটিই নয়",
+    "C": "H থেকে He",
+    "D": "Li থেকে Ne"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "সোডিয়াম কোন ব্লকের মৌল?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "s-ব্লক",
+    "C": "d-ব্লক",
+    "D": "p-ব্লক"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "পর্যায় সারণিতে তরল ধাতু —",
+   "options": {
+    "A": "লোহা",
+    "B": "তামা",
+    "C": "কোনোটিই নয়",
+    "D": "পারদ"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "সিলিকনের যোজ্যতা —",
+   "options": {
+    "A": "২",
+    "B": "কোনোটিই নয়",
+    "C": "৩",
+    "D": "৪"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "পর্যায় সারণিতে ফ্লোরিনের ডানে —",
+   "options": {
+    "A": "সোডিয়াম",
+    "B": "কোনোটিই নয়",
+    "C": "নিয়ন",
+    "D": "অক্সিজেন"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "ফ্লোরিনের অবস্থান —",
+   "options": {
+    "A": "গ্রুপ ১৭, পর্যায় ২",
+    "B": "গ্রুপ ১৭, পর্যায় ৩",
+    "C": "কোনোটিই নয়",
+    "D": "গ্রুপ ১৮, পর্যায় ২"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "সিলিকন ব্যবহৃত হয় —",
+   "options": {
+    "A": "সেমিকন্ডাক্টরে",
+    "B": "মাপে",
+    "C": "রান্নায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "জার্মেনিয়াম ব্যবহৃত হয় —",
+   "options": {
+    "A": "রান্নায়",
+    "B": "মাপে",
+    "C": "কোনোটিই নয়",
+    "D": "সেমিকন্ডাক্টরে"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "একই পর্যায়ের মৌলের শেল সংখ্যা —",
+   "options": {
+    "A": "ভিন্ন",
+    "B": "শূন্য",
+    "C": "কোনোটিই নয়",
+    "D": "সমান"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "পর্যায় সারণির গ্রুপ ৩-১২ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অবস্থান্তর ধাতু",
+    "C": "হ্যালোজেন",
+    "D": "ক্ষার ধাতু"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "পর্যায় সারণিতে ক্লোরিনের বামে —",
+   "options": {
+    "A": "আর্গন",
+    "B": "সালফার",
+    "C": "কোনোটিই নয়",
+    "D": "ফসফরাস"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "পর্যায় সারণিতে তরল অধাতু —",
+   "options": {
+    "A": "ফ্লোরিন",
+    "B": "ক্লোরিন",
+    "C": "ব্রোমিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "ফসফরাসের যোজ্যতা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু ৫",
+    "C": "৩ বা ৫",
+    "D": "শুধু ৩"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "পর্যায় সারণিতে কার্বন পরিবারের গ্রুপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৬",
+    "C": "১৪",
+    "D": "১৫"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "সোডিয়াম কোন গ্রুপ ও পর্যায়ে?",
+   "options": {
+    "A": "গ্রুপ ১, পর্যায় ৩",
+    "B": "কোনোটিই নয়",
+    "C": "গ্রুপ ১, পর্যায় ২",
+    "D": "গ্রুপ ২, পর্যায় ৩"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "পর্যায় সারণিতে মৌলের প্রতীক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লেখা থাকে না",
+    "C": "কিছুই না",
+    "D": "লেখা থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "পর্যায় সারণির বাম থেকে ডানে পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "শূন্য",
+    "B": "একই",
+    "C": "বাড়ে",
+    "D": "কমে"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "প্রথম পর্যায়ে মৌল সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১৮",
+    "C": "২",
+    "D": "৮"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "পর্যায় সারণিতে নিয়নের নিচে —",
+   "options": {
+    "A": "ফ্লোরিন",
+    "B": "আর্গন",
+    "C": "সোডিয়াম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "পর্যায় সারণিতে ধাতুকল্পের রেখা —",
+   "options": {
+    "A": "অনুভূমিক",
+    "B": "তির্যক",
+    "C": "কোনোটিই নয়",
+    "D": "উল্লম্ব"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "তামার যোজ্যতা —",
+   "options": {
+    "A": "শুধু ২",
+    "B": "কোনোটিই নয়",
+    "C": "১ ও ২",
+    "D": "শুধু ১"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "ধাতু পর্যায় সারণির —",
+   "options": {
+    "A": "বাম দিকে",
+    "B": "কোনোটিই নয়",
+    "C": "ডান দিকে",
+    "D": "মাঝে শুধু"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "ধাতুকল্পের ব্যবহার —",
+   "options": {
+    "A": "রান্নায়",
+    "B": "কোনোটিই নয়",
+    "C": "সেমিকন্ডাক্টরে",
+    "D": "মাপে"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "ল্যান্থানাইড ও অ্যাক্টিনাইড থাকে —",
+   "options": {
+    "A": "গ্রুপ ১ এ",
+    "B": "কোনোটিই নয়",
+    "C": "সারণির নিচে",
+    "D": "সারণির উপরে"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "অক্সিজেনের অবস্থান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্রুপ ১৭, পর্যায় ২",
+    "C": "গ্রুপ ১৬, পর্যায় ৩",
+    "D": "গ্রুপ ১৬, পর্যায় ২"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "সিলিকনের অবস্থান —",
+   "options": {
+    "A": "গ্রুপ ১৩, পর্যায় ৩",
+    "B": "গ্রুপ ১৫, পর্যায় ৩",
+    "C": "গ্রুপ ১৪, পর্যায় ৩",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "অবস্থান্তর ধাতুর বৈশিষ্ট্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রঙিন যৌগ গঠন",
+    "C": "বর্ণহীন যৌগ",
+    "D": "কোনো যৌগ নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "পারমাণবিক সংখ্যা বাড়লে পারমাণবিক ভর —",
+   "options": {
+    "A": "কমে",
+    "B": "সাধারণত বাড়ে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "ব্রোমিনের অবস্থা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্যাস",
+    "C": "কঠিন",
+    "D": "তরল"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "সালফারের যোজ্যতা —",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "কোনোটিই নয়",
+    "D": "১"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "পর্যায় সারণিতে কার্বনের নিচে —",
+   "options": {
+    "A": "নাইট্রোজেন",
+    "B": "সিলিকন",
+    "C": "বোরন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "তামা ব্যবহৃত হয় —",
+   "options": {
+    "A": "বিদ্যুতের তারে",
+    "B": "কোনোটিই নয়",
+    "C": "রান্নায় শুধু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "জার্মেনিয়াম কোন ধরনের মৌল?",
+   "options": {
+    "A": "ধাতু",
+    "B": "কোনোটিই নয়",
+    "C": "অধাতু",
+    "D": "ধাতুকল্প"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "হ্যালোজেন কোন ব্লকে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "d-ব্লক",
+    "C": "p-ব্লক",
+    "D": "s-ব্লক"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "পর্যায় সারণিতে মৌলসমূহের ক্রম —",
+   "options": {
+    "A": "বর্ণমালার ক্রম",
+    "B": "পারমাণবিক সংখ্যার ক্রম",
+    "C": "ভরের ক্রম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "নিষ্ক্রিয় গ্যাস কোন ব্লকে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "p-ব্লক",
+    "C": "s-ব্লক",
+    "D": "d-ব্লক"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "আর্গনের পারমাণবিক ভর পটাসিয়ামের চেয়ে —",
+   "options": {
+    "A": "কম",
+    "B": "সমান",
+    "C": "বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "পর্যায় সারণিতে কার্বনের ডানে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নাইট্রোজেন",
+    "C": "বোরন",
+    "D": "অক্সিজেন"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "লোহার যোজ্যতা —",
+   "options": {
+    "A": "শুধু ৩",
+    "B": "শুধু ২",
+    "C": "২ ও ৩",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "পর্যায় সারণিতে গ্যাসীয় মৌল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "একটি",
+    "C": "অনেক আছে",
+    "D": "নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "পর্যায় সারণির বাকি মৌলগুলো —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কঠিন",
+    "C": "গ্যাস",
+    "D": "তরল"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "আর্গনের অবস্থান —",
+   "options": {
+    "A": "গ্রুপ ১৭, পর্যায় ৩",
+    "B": "গ্রুপ ১৮, পর্যায় ৩",
+    "C": "কোনোটিই নয়",
+    "D": "গ্রুপ ১৮, পর্যায় ২"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "পর্যায় সারণিতে মৌলের অবস্থান নির্ধারণ করে —",
+   "options": {
+    "A": "পারমাণবিক ভর",
+    "B": "ইলেকট্রন বিন্যাস",
+    "C": "কোনোটিই নয়",
+    "D": "রং"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "পর্যায় সারণিতে বোরন পরিবারের গ্রুপ —",
+   "options": {
+    "A": "১৪",
+    "B": "১৩",
+    "C": "কোনোটিই নয়",
+    "D": "১২"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "পর্যায় সারণিতে নাইট্রোজেনের ডানে —",
+   "options": {
+    "A": "ফ্লোরিন",
+    "B": "কোনোটিই নয়",
+    "C": "কার্বন",
+    "D": "অক্সিজেন"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "পর্যায় সারণিতে ধাতুর সংখ্যা প্রায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৮০+",
+    "C": "৫০",
+    "D": "২০"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "তৃতীয় পর্যায়ে মৌল সংখ্যা —",
+   "options": {
+    "A": "১৮",
+    "B": "৮",
+    "C": "কোনোটিই নয়",
+    "D": "২"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "ধাতুকল্পের অবস্থান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সোজা রেখায়",
+    "C": "কিছুই না",
+    "D": "সিঁড়ির মতো"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "প্রাকৃতিক মৌলের সংখ্যা —",
+   "options": {
+    "A": "৫০",
+    "B": "প্রায় ৯২",
+    "C": "কোনোটিই নয়",
+    "D": "১১৮"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "পর্যায় সারণিতে নিষ্ক্রিয় গ্যাসের সংখ্যা —",
+   "options": {
+    "A": "৭",
+    "B": "কোনোটিই নয়",
+    "C": "৫",
+    "D": "৬"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "ক্যালসিয়ামের অবস্থান —",
+   "options": {
+    "A": "গ্রুপ ২, পর্যায় ৪",
+    "B": "গ্রুপ ২, পর্যায় ৩",
+    "C": "গ্রুপ ১, পর্যায় ৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "পর্যায় সারণির গ্যাসীয় মৌলের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অক্সিজেন, নাইট্রোজেন, হাইড্রোজেন",
+    "C": "পারদ, ব্রোমিন",
+    "D": "লোহা, তামা"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "পর্যায় সারণিতে লিথিয়ামের আগে —",
+   "options": {
+    "A": "হিলিয়াম",
+    "B": "হাইড্রোজেন",
+    "C": "বেরিলিয়াম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "নাইট্রোজেনের যোজ্যতা —",
+   "options": {
+    "A": "৫",
+    "B": "২",
+    "C": "৩",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "পর্যায় সারণিতে ভরের ব্যতিক্রম ব্যাখ্যা করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভর",
+    "C": "পারমাণবিক সংখ্যা",
+    "D": "ঘনত্ব"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "গ্রুপ ১৪ এর মৌলের যোজ্যতা —",
+   "options": {
+    "A": "৪",
+    "B": "৫",
+    "C": "কোনোটিই নয়",
+    "D": "৩"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "সিলিকন কোন ধরনের মৌল?",
+   "options": {
+    "A": "ধাতুকল্প",
+    "B": "ধাতু",
+    "C": "কোনোটিই নয়",
+    "D": "অধাতু"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "পারদের অবস্থা —",
+   "options": {
+    "A": "গ্যাস",
+    "B": "তরল",
+    "C": "কোনোটিই নয়",
+    "D": "কঠিন"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "হাইড্রোজেনের অবস্থান —",
+   "options": {
+    "A": "গ্রুপ ১, পর্যায় ১",
+    "B": "কোনোটিই নয়",
+    "C": "গ্রুপ ২, পর্যায় ১",
+    "D": "গ্রুপ ১৮, পর্যায় ১"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "পর্যায় সংখ্যা নির্ধারণ করে —",
+   "options": {
+    "A": "যোজ্যতা ইলেকট্রন",
+    "B": "শেল সংখ্যা",
+    "C": "কোনোটিই নয়",
+    "D": "নিউট্রন সংখ্যা"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "পর্যায় সারণিতে হাইড্রোজেনের পর —",
+   "options": {
+    "A": "কার্বন",
+    "B": "হিলিয়াম",
+    "C": "কোনোটিই নয়",
+    "D": "লিথিয়াম"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "সালফারের অবস্থান —",
+   "options": {
+    "A": "গ্রুপ ১৭, পর্যায় ৩",
+    "B": "গ্রুপ ১৬, পর্যায় ৩",
+    "C": "কোনোটিই নয়",
+    "D": "গ্রুপ ১৫, পর্যায় ৩"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "পর্যায় সারণিতে ক্লোরিনের উপরে —",
+   "options": {
+    "A": "সালফার",
+    "B": "ফ্লোরিন",
+    "C": "কোনোটিই নয়",
+    "D": "ব্রোমিন"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "পর্যায় সারণিতে নাইট্রোজেনের নিচে —",
+   "options": {
+    "A": "কার্বন",
+    "B": "অক্সিজেন",
+    "C": "কোনোটিই নয়",
+    "D": "ফসফরাস"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "পর্যায় সারণিতে প্রথম মৌল —",
+   "options": {
+    "A": "হিলিয়াম",
+    "B": "হাইড্রোজেন",
+    "C": "কোনোটিই নয়",
+    "D": "লিথিয়াম"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "পর্যায় সারণিতে অক্সিজেনের নিচে —",
+   "options": {
+    "A": "ফ্লোরিন",
+    "B": "কোনোটিই নয়",
+    "C": "সালফার",
+    "D": "নাইট্রোজেন"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "কোন মৌলে ভর সংখ্যার ব্যতিক্রম দেখা যায়?",
+   "options": {
+    "A": "সোডিয়ামে",
+    "B": "ক্লোরিনে",
+    "C": "আর্গন ও পটাসিয়ামে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "তৃতীয় পর্যায়ের মৌল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "K থেকে Kr",
+    "C": "Na থেকে Ar",
+    "D": "Li থেকে Ne"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "পর্যায় সারণিতে হিলিয়ামের নিচে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিয়ন",
+    "C": "হাইড্রোজেন",
+    "D": "লিথিয়াম"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "পর্যায় সারণির বাম দিকে —",
+   "options": {
+    "A": "নিষ্ক্রিয় গ্যাস",
+    "B": "অধাতু",
+    "C": "ধাতু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "ধাতুর বৈশিষ্ট্য —",
+   "options": {
+    "A": "বিদ্যুৎ পরিবাহী",
+    "B": "ভঙ্গুর",
+    "C": "অপরিবাহী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "ক্লোরিন কোন গ্রুপ ও পর্যায়ে?",
+   "options": {
+    "A": "গ্রুপ ১৭, পর্যায় ২",
+    "B": "গ্রুপ ১৭, পর্যায় ৩",
+    "C": "গ্রুপ ১৮, পর্যায় ৩",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "একই গ্রুপের মৌলের যোজ্যতা —",
+   "options": {
+    "A": "ভিন্ন",
+    "B": "শূন্য",
+    "C": "কোনোটিই নয়",
+    "D": "সমান"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "তামার অবস্থান —",
+   "options": {
+    "A": "গ্রুপ ১১, পর্যায় ৪",
+    "B": "কোনোটিই নয়",
+    "C": "গ্রুপ ১১, পর্যায় ৩",
+    "D": "গ্রুপ ১০, পর্যায় ৪"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "পর্যায় সারণিতে ধাতু ও অধাতুর সীমানায় —",
+   "options": {
+    "A": "নিষ্ক্রিয় গ্যাস",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষার ধাতু",
+    "D": "ধাতুকল্প"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "ষষ্ঠ পর্যায়ে মৌল সংখ্যা —",
+   "options": {
+    "A": "৩২",
+    "B": "কোনোটিই নয়",
+    "C": "৮",
+    "D": "১৮"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "গ্রুপ সংখ্যা নির্ধারণ করে —",
+   "options": {
+    "A": "যোজ্যতা ইলেকট্রন সংখ্যা",
+    "B": "কোনোটিই নয়",
+    "C": "নিউট্রন সংখ্যা",
+    "D": "শেল সংখ্যা"
+   },
+   "correctAnswer": "A",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "ম্যাগনেসিয়ামের অবস্থান —",
+   "options": {
+    "A": "গ্রুপ ১, পর্যায় ৩",
+    "B": "কোনোটিই নয়",
+    "C": "গ্রুপ ২, পর্যায় ২",
+    "D": "গ্রুপ ২, পর্যায় ৩"
+   },
+   "correctAnswer": "D",
+   "topic": "পর্যায় সারণির গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "B",
+  "2": "D",
+  "3": "C",
+  "4": "A",
+  "5": "B",
+  "6": "A",
+  "7": "D",
+  "8": "B",
+  "9": "C",
+  "10": "D",
+  "11": "C",
+  "12": "B",
+  "13": "B",
+  "14": "B",
+  "15": "B",
+  "16": "C",
+  "17": "B",
+  "18": "A",
+  "19": "D",
+  "20": "B",
+  "21": "B",
+  "22": "B",
+  "23": "A",
+  "24": "C",
+  "25": "C",
+  "26": "C",
+  "27": "D",
+  "28": "B",
+  "29": "D",
+  "30": "A",
+  "31": "B",
+  "32": "C",
+  "33": "D",
+  "34": "B",
+  "35": "B",
+  "36": "B",
+  "37": "D",
+  "38": "D",
+  "39": "A",
+  "40": "C",
+  "41": "C",
+  "42": "D",
+  "43": "C",
+  "44": "D",
+  "45": "B",
+  "46": "D",
+  "47": "D",
+  "48": "D",
+  "49": "B",
+  "50": "B",
+  "51": "B",
+  "52": "C",
+  "53": "B",
+  "54": "D",
+  "55": "D",
+  "56": "D",
+  "57": "A",
+  "58": "C",
+  "59": "D",
+  "60": "D",
+  "61": "B",
+  "62": "D",
+  "63": "B",
+  "64": "A",
+  "65": "B",
+  "66": "C",
+  "67": "D",
+  "68": "A",
+  "69": "D",
+  "70": "C",
+  "71": "B",
+  "72": "D",
+  "73": "B",
+  "74": "D",
+  "75": "C",
+  "76": "C",
+  "77": "A",
+  "78": "A",
+  "79": "A",
+  "80": "C",
+  "81": "C",
+  "82": "A",
+  "83": "A",
+  "84": "C",
+  "85": "B",
+  "86": "C",
+  "87": "C",
+  "88": "A",
+  "89": "A",
+  "90": "D",
+  "91": "D",
+  "92": "C",
+  "93": "D",
+  "94": "B",
+  "95": "A",
+  "96": "A",
+  "97": "C",
+  "98": "C",
+  "99": "A",
+  "100": "A",
+  "101": "D",
+  "102": "B",
+  "103": "B",
+  "104": "D",
+  "105": "C",
+  "106": "B",
+  "107": "A",
+  "108": "C",
+  "109": "C",
+  "110": "A",
+  "111": "C",
+  "112": "C",
+  "113": "A",
+  "114": "D",
+  "115": "B",
+  "116": "A",
+  "117": "A",
+  "118": "D",
+  "119": "A",
+  "120": "B",
+  "121": "C",
+  "122": "D",
+  "123": "A",
+  "124": "B",
+  "125": "D",
+  "126": "D",
+  "127": "C",
+  "128": "B",
+  "129": "A",
+  "130": "C",
+  "131": "C",
+  "132": "D",
+  "133": "C",
+  "134": "C",
+  "135": "D",
+  "136": "C",
+  "137": "D",
+  "138": "D",
+  "139": "D",
+  "140": "A",
+  "141": "D",
+  "142": "C",
+  "143": "B",
+  "144": "C",
+  "145": "B",
+  "146": "D",
+  "147": "A",
+  "148": "D",
+  "149": "C",
+  "150": "A",
+  "151": "B",
+  "152": "C",
+  "153": "A",
+  "154": "D",
+  "155": "D",
+  "156": "B",
+  "157": "C",
+  "158": "A",
+  "159": "D",
+  "160": "A",
+  "161": "D",
+  "162": "A",
+  "163": "C",
+  "164": "D",
+  "165": "D",
+  "166": "B",
+  "167": "D",
+  "168": "B",
+  "169": "D",
+  "170": "C",
+  "171": "A",
+  "172": "C",
+  "173": "C",
+  "174": "D",
+  "175": "B",
+  "176": "A",
+  "177": "D",
+  "178": "D",
+  "179": "B",
+  "180": "B",
+  "181": "B",
+  "182": "A",
+  "183": "C",
+  "184": "C",
+  "185": "A",
+  "186": "B",
+  "187": "D",
+  "188": "D",
+  "189": "A",
+  "190": "A",
+  "191": "D",
+  "192": "A",
+  "193": "B",
+  "194": "C",
+  "195": "C",
+  "196": "B",
+  "197": "B",
+  "198": "C",
+  "199": "A",
+  "200": "D",
+  "201": "D",
+  "202": "B",
+  "203": "D",
+  "204": "D",
+  "205": "A",
+  "206": "A",
+  "207": "C",
+  "208": "C",
+  "209": "D",
+  "210": "A",
+  "211": "A",
+  "212": "B",
+  "213": "D",
+  "214": "B",
+  "215": "B",
+  "216": "B",
+  "217": "A",
+  "218": "D",
+  "219": "B",
+  "220": "D",
+  "221": "D",
+  "222": "B",
+  "223": "C",
+  "224": "A",
+  "225": "D",
+  "226": "B",
+  "227": "D",
+  "228": "A",
+  "229": "D",
+  "230": "D",
+  "231": "A",
+  "232": "D",
+  "233": "C",
+  "234": "A",
+  "235": "A",
+  "236": "C",
+  "237": "A",
+  "238": "B",
+  "239": "A",
+  "240": "D",
+  "241": "D",
+  "242": "B",
+  "243": "C",
+  "244": "B",
+  "245": "A",
+  "246": "D",
+  "247": "C",
+  "248": "B",
+  "249": "B",
+  "250": "B",
+  "251": "D",
+  "252": "C",
+  "253": "C",
+  "254": "C",
+  "255": "B",
+  "256": "C",
+  "257": "A",
+  "258": "B",
+  "259": "C",
+  "260": "D",
+  "261": "A",
+  "262": "B",
+  "263": "B",
+  "264": "D",
+  "265": "A",
+  "266": "C",
+  "267": "D",
+  "268": "D",
+  "269": "A",
+  "270": "A",
+  "271": "C",
+  "272": "C",
+  "273": "A",
+  "274": "A",
+  "275": "C",
+  "276": "A",
+  "277": "A",
+  "278": "D",
+  "279": "C",
+  "280": "A",
+  "281": "A",
+  "282": "B",
+  "283": "D",
+  "284": "B",
+  "285": "C",
+  "286": "A",
+  "287": "A",
+  "288": "A",
+  "289": "C",
+  "290": "B",
+  "291": "A",
+  "292": "C",
+  "293": "B",
+  "294": "A",
+  "295": "B",
+  "296": "A",
+  "297": "A",
+  "298": "D",
+  "299": "B",
+  "300": "D",
+  "301": "D",
+  "302": "C",
+  "303": "A",
+  "304": "A",
+  "305": "D",
+  "306": "D",
+  "307": "B",
+  "308": "B",
+  "309": "C",
+  "310": "C",
+  "311": "C",
+  "312": "A",
+  "313": "D",
+  "314": "C",
+  "315": "C",
+  "316": "B",
+  "317": "B",
+  "318": "C",
+  "319": "A",
+  "320": "C",
+  "321": "C",
+  "322": "D",
+  "323": "C",
+  "324": "B",
+  "325": "B",
+  "326": "D",
+  "327": "A",
+  "328": "B",
+  "329": "A",
+  "330": "D",
+  "331": "C",
+  "332": "B",
+  "333": "B",
+  "334": "C",
+  "335": "B",
+  "336": "C",
+  "337": "C",
+  "338": "B",
+  "339": "B",
+  "340": "B",
+  "341": "B",
+  "342": "D",
+  "343": "B",
+  "344": "B",
+  "345": "D",
+  "346": "B",
+  "347": "A",
+  "348": "A",
+  "349": "B",
+  "350": "A",
+  "351": "C",
+  "352": "C",
+  "353": "A",
+  "354": "A",
+  "355": "B",
+  "356": "A",
+  "357": "B",
+  "358": "B",
+  "359": "B",
+  "360": "B",
+  "361": "D",
+  "362": "B",
+  "363": "C",
+  "364": "C",
+  "365": "C",
+  "366": "B",
+  "367": "C",
+  "368": "A",
+  "369": "B",
+  "370": "D",
+  "371": "A",
+  "372": "D",
+  "373": "A",
+  "374": "A",
+  "375": "D"
+ }
+}
