@@ -1,0 +1,7134 @@
+{
+ "subject": "পদার্থবিজ্ঞান",
+ "chapterNo": 14,
+ "chapter": "জীবন ও জগতের সাথে পদার্থবিজ্ঞান",
+ "questions": [
+  {
+   "question": "বৈদ্যুতিক মোটরে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপ → তড়িৎ",
+    "C": "তড়িৎ → যান্ত্রিক",
+    "D": "যান্ত্রিক → তড়িৎ"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "সোনার ব্যবহৃত হয় —",
+   "options": {
+    "A": "আলো মাপতে",
+    "B": "কোনোটিই নয়",
+    "C": "সমুদ্রের গভীরতা মাপতে",
+    "D": "তাপ মাপতে"
+   },
+   "correctAnswer": "C",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "সিটি স্ক্যানে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আলো",
+    "C": "এক্স-রে ব্যবহৃত হয়",
+    "D": "তাপ"
+   },
+   "correctAnswer": "C",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "ব্যাটারিতে —",
+   "options": {
+    "A": "তাপ",
+    "B": "কোনোটিই নয়",
+    "C": "AC",
+    "D": "DC থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "ডিভিডিতে ডেটা পড়া হয় —",
+   "options": {
+    "A": "চুম্বকে",
+    "B": "কোনোটিই নয়",
+    "C": "লেজারে",
+    "D": "তাপে"
+   },
+   "correctAnswer": "C",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "কৃত্রিম উপগ্রহ কক্ষপথে থাকে —",
+   "options": {
+    "A": "তাপে",
+    "B": "আলোতে",
+    "C": "কোনোটিই নয়",
+    "D": "কেন্দ্রমুখী ও মহাকর্ষ বলের ভারসাম্যে"
+   },
+   "correctAnswer": "D",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "পানির ঘনত্ব সর্বোচ্চ —",
+   "options": {
+    "A": "০°C এ",
+    "B": "৪°C এ",
+    "C": "কোনোটিই নয়",
+    "D": "১০০°C এ"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "মোবাইল ফোন কোন তরঙ্গে যোগাযোগ করে?",
+   "options": {
+    "A": "আলোক তরঙ্গ",
+    "B": "মাইক্রোওয়েভ/রেডিও তরঙ্গ",
+    "C": "শব্দ তরঙ্গ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "চোখের ছানি অপারেশনে —",
+   "options": {
+    "A": "ছুরি",
+    "B": "লেজার",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ"
+   },
+   "correctAnswer": "B",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "বিদ্যুৎ সঞ্চালনে —",
+   "options": {
+    "A": "হয় না",
+    "B": "কোনোটিই নয়",
+    "C": "ট্রান্সফরমার ব্যবহৃত হয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "ব্লু-রে ডিস্কে —",
+   "options": {
+    "A": "নীল লেজার ব্যবহৃত হয়",
+    "B": "লাল লেজার",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "বাংলাদেশের প্রথম কৃত্রিম উপগ্রহ —",
+   "options": {
+    "A": "স্পুটনিক",
+    "B": "ইনস্যাট",
+    "C": "বঙ্গবন্ধু-১",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "পদার্থবিজ্ঞান আমাদের জীবনকে —",
+   "options": {
+    "A": "কিছুই করেনি",
+    "B": "কঠিন করেছে",
+    "C": "কোনোটিই নয়",
+    "D": "সহজ করেছে"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "রেডিও তরঙ্গ কে আবিষ্কার করেন?",
+   "options": {
+    "A": "হার্ৎস",
+    "B": "মার্কনি",
+    "C": "নিউটন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "আল্ট্রাসাউন্ড কী?",
+   "options": {
+    "A": "তাপ",
+    "B": "আলো",
+    "C": "কোনোটিই নয়",
+    "D": "উচ্চ কম্পাঙ্কের শব্দ"
+   },
+   "correctAnswer": "D",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "বায়ু দূষণের কারণ —",
+   "options": {
+    "A": "বৃষ্টি",
+    "B": "কোনোটিই নয়",
+    "C": "গাছ",
+    "D": "কলকারখানার ধোঁয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "ট্রানজিস্টর আবিষ্কারে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বড় হয়েছে",
+    "C": "কম্পিউটার ছোট হয়েছে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "অ্যাপোলো-১১ কোন দেশের মিশন?",
+   "options": {
+    "A": "যুক্তরাষ্ট্র",
+    "B": "সোভিয়েত",
+    "C": "চীন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "সাইকেলের চাকায় ব্যবহৃত হয় —",
+   "options": {
+    "A": "কপিকল",
+    "B": "লিভার শুধু",
+    "C": "কোনোটিই নয়",
+    "D": "চাকা ও অক্ষ"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "জিপিএস কোন নীতিতে কাজ করে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চুম্বক",
+    "C": "তাপ",
+    "D": "স্যাটেলাইট সংকেত"
+   },
+   "correctAnswer": "D",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "ইইজি (EEG) মাপে —",
+   "options": {
+    "A": "তাপ",
+    "B": "আলো",
+    "C": "মস্তিষ্কের তড়িৎ সক্রিয়তা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "গ্লোবাল ওয়ার্মিংয়ের কারণ —",
+   "options": {
+    "A": "নাইট্রোজেন",
+    "B": "গ্রিনহাউস গ্যাস বৃদ্ধি",
+    "C": "কোনোটিই নয়",
+    "D": "অক্সিজেন"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "এসএসডি (SSD) তে ডেটা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চৌম্বকে",
+    "C": "তাপে",
+    "D": "ফ্ল্যাশ মেমোরিতে"
+   },
+   "correctAnswer": "D",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "পৃথিবীর বয়স আনুমানিক —",
+   "options": {
+    "A": "১ মিলিয়ন বছর",
+    "B": "কোনোটিই নয়",
+    "C": "১০০ মিলিয়ন বছর",
+    "D": "৪.৫ বিলিয়ন বছর"
+   },
+   "correctAnswer": "D",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "শীতকালে পশমি কাপড় গরম রাখে — কারণ?",
+   "options": {
+    "A": "পরিবাহী",
+    "B": "তাপ উৎপন্ন করে",
+    "C": "কোনোটিই নয়",
+    "D": "বাতাস আটকে রাখে"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "সিসমোগ্রাফ কী মাপে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আলো",
+    "C": "তাপ",
+    "D": "ভূমিকম্পের তীব্রতা"
+   },
+   "correctAnswer": "D",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "দাঁতের চিকিৎসায় —",
+   "options": {
+    "A": "আলো শুধু",
+    "B": "এক্স-রে ও লেজার",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ"
+   },
+   "correctAnswer": "B",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "বায়ু টারবাইনে —",
+   "options": {
+    "A": "গতি শক্তি → তড়িৎ",
+    "B": "কোনোটিই নয়",
+    "C": "তড়িৎ → গতি",
+    "D": "তাপ → তড়িৎ"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "ফ্ল্যাশ ড্রাইভে ডেটা —",
+   "options": {
+    "A": "ফ্ল্যাশ মেমোরিতে",
+    "B": "চৌম্বকে",
+    "C": "কোনোটিই নয়",
+    "D": "তাপে"
+   },
+   "correctAnswer": "A",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "বঙ্গবন্ধু-১ কোন ধরনের উপগ্রহ?",
+   "options": {
+    "A": "আবহাওয়া উপগ্রহ",
+    "B": "গুপ্তচর",
+    "C": "যোগাযোগ উপগ্রহ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "আধুনিক যন্ত্রপাতিতে —",
+   "options": {
+    "A": "পদার্থবিজ্ঞান",
+    "B": "আলো শুধু",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ শুধু"
+   },
+   "correctAnswer": "A",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "জাহাজ ও বিমানে দিক নির্ণয়ে —",
+   "options": {
+    "A": "ব্যারোমিটার",
+    "B": "থার্মোমিটার",
+    "C": "কোনোটিই নয়",
+    "D": "জিপিএস/রাডার"
+   },
+   "correctAnswer": "D",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "দাঁত সাদা করতে —",
+   "options": {
+    "A": "আলো শুধু",
+    "B": "লেজার",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "গ্রিনহাউস গ্যাস কোনটি?",
+   "options": {
+    "A": "কার্বন ডাই-অক্সাইড",
+    "B": "কোনোটিই নয়",
+    "C": "অক্সিজেন",
+    "D": "নাইট্রোজেন"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "ক্যালকুলেটরে —",
+   "options": {
+    "A": "রোধ",
+    "B": "কোনোটিই নয়",
+    "C": "আইসি",
+    "D": "ব্যাটারি শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "মঙ্গল অভিযানে —",
+   "options": {
+    "A": "আলো",
+    "B": "রোভার ব্যবহৃত হয়",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "ঘড়ির পেন্ডুলামে ইনভার ব্যবহৃত হয় — কারণ?",
+   "options": {
+    "A": "প্রসারণ সহগ কম",
+    "B": "সস্তা",
+    "C": "কোনোটিই নয়",
+    "D": "প্রসারণ সহগ বেশি"
+   },
+   "correctAnswer": "A",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "মোবাইল ফোনের টাওয়ার —",
+   "options": {
+    "A": "আলো দেয়",
+    "B": "তাপ দেয়",
+    "C": "সংকেত প্রেরণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "এক্স-রে থেকে রক্ষায় —",
+   "options": {
+    "A": "কাগজ",
+    "B": "কোনোটিই নয়",
+    "C": "কাঠ",
+    "D": "সীসার ঢাল"
+   },
+   "correctAnswer": "D",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "ওজোন স্তর কোথায়?",
+   "options": {
+    "A": "মাটিতে",
+    "B": "ট্রপোস্ফিয়ারে",
+    "C": "কোনোটিই নয়",
+    "D": "স্ট্র্যাটোস্ফিয়ারে"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "শিল্পে রোবট —",
+   "options": {
+    "A": "হয় না",
+    "B": "কোনোটিই নয়",
+    "C": "দরকার নেই",
+    "D": "ব্যবহৃত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "হাবল টেলিস্কোপ —",
+   "options": {
+    "A": "মহাকাশে অবস্থিত",
+    "B": "পানিতে",
+    "C": "কোনোটিই নয়",
+    "D": "পৃথিবীতে"
+   },
+   "correctAnswer": "A",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "গাড়ির হেডলাইটে —",
+   "options": {
+    "A": "উত্তল দর্পণ",
+    "B": "অবতল দর্পণ",
+    "C": "সমতল দর্পণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "ই-কমার্স কী?",
+   "options": {
+    "A": "তাপ",
+    "B": "কোনোটিই নয়",
+    "C": "আলো",
+    "D": "ইন্টারনেটে কেনাবেচা"
+   },
+   "correctAnswer": "D",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "শরীরের তাপমাত্রা মাপা হয় —",
+   "options": {
+    "A": "কম্পাসে",
+    "B": "কোনোটিই নয়",
+    "C": "থার্মোমিটারে",
+    "D": "ব্যারোমিটারে"
+   },
+   "correctAnswer": "C",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "বাংলাদেশের জলবিদ্যুৎ কেন্দ্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ঘোড়াশাল",
+    "C": "কাপ্তাই",
+    "D": "রূপপুর"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "কম্পিউটার কী?",
+   "options": {
+    "A": "ইলেকট্রনিক যন্ত্র",
+    "B": "আলো যন্ত্র",
+    "C": "তাপ যন্ত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "সূর্যের সবচেয়ে কাছে গ্রহ —",
+   "options": {
+    "A": "শুক্র",
+    "B": "কোনোটিই নয়",
+    "C": "পৃথিবী",
+    "D": "বুধ"
+   },
+   "correctAnswer": "D",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "মাটির কলসির পানি ঠান্ডা থাকে —",
+   "options": {
+    "A": "ঘনীভবনে",
+    "B": "বাষ্পীভবনে",
+    "C": "গলনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "মোবাইল ফোনের সুবিধা —",
+   "options": {
+    "A": "যেকোনো স্থান থেকে যোগাযোগ",
+    "B": "নেই",
+    "C": "কোনোটিই নয়",
+    "D": "সীমিত"
+   },
+   "correctAnswer": "A",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "কিডনির পাথর ভাঙতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লেজার শুধু",
+    "C": "আল্ট্রাসাউন্ড (লিথোট্রিপসি)",
+    "D": "এক্স-রে"
+   },
+   "correctAnswer": "C",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "গ্লোবাল ওয়ার্মিং কী?",
+   "options": {
+    "A": "বৈশ্বিক উষ্ণতা বৃদ্ধি",
+    "B": "ঠান্ডা",
+    "C": "কোনোটিই নয়",
+    "D": "বৃষ্টি"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "স্ক্যানারে —",
+   "options": {
+    "A": "শব্দ",
+    "B": "কোনোটিই নয়",
+    "C": "আলো ও ইলেকট্রনিক্স",
+    "D": "তাপ"
+   },
+   "correctAnswer": "C",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "সূর্যগ্রহণ দেখা যায় —",
+   "options": {
+    "A": "যেকোনো দিনে",
+    "B": "কোনোটিই নয়",
+    "C": "পূর্ণিমায়",
+    "D": "অমাবস্যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "প্রজেক্টরে —",
+   "options": {
+    "A": "সমতল",
+    "B": "অবতল লেন্স",
+    "C": "উত্তল লেন্স",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "জিপিএস (GPS) কী?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপ মাপা",
+    "C": "আলো মাপা",
+    "D": "অবস্থান নির্ণয় ব্যবস্থা"
+   },
+   "correctAnswer": "D",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "এক্স-রে কে আবিষ্কার করেন?",
+   "options": {
+    "A": "নিউটন",
+    "B": "রন্টজেন",
+    "C": "কোনোটিই নয়",
+    "D": "বেকারেল"
+   },
+   "correctAnswer": "B",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "বৃক্ষ অক্সিজেন —",
+   "options": {
+    "A": "নির্গত করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শোষণ করে"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "ড্রোনের ব্যবহার —",
+   "options": {
+    "A": "রান্না",
+    "B": "জরিপ ও উদ্ধার",
+    "C": "মাপা শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "মহাবিশ্বের সূচনা হয় —",
+   "options": {
+    "A": "আলোতে",
+    "B": "বিগ ব্যাংয়ে",
+    "C": "কোনোটিই নয়",
+    "D": "তাপে"
+   },
+   "correctAnswer": "B",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "রান্নাঘরে ব্যবহৃত কোন যন্ত্রে তাপের প্রভাব কাজ করে?",
+   "options": {
+    "A": "আয়না",
+    "B": "কম্পাস",
+    "C": "কোনোটিই নয়",
+    "D": "ইলেকট্রিক কেটলি"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "যোগাযোগে সবচেয়ে দ্রুত মাধ্যম —",
+   "options": {
+    "A": "তামার তার",
+    "B": "কোনোটিই নয়",
+    "C": "ফাইবার অপটিক",
+    "D": "বেতার শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "চিকিৎসায় তেজস্ক্রিয় আইসোটোপ —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "ব্যবহৃত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "হয় না"
+   },
+   "correctAnswer": "B",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "বিদ্যুৎ উৎপাদনের জন্য টারবাইন ঘোরানো হয় —",
+   "options": {
+    "A": "তাপে",
+    "B": "কোনোটিই নয়",
+    "C": "আলোতে",
+    "D": "গতিশক্তিতে"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "এলসিডি ডিসপ্লেতে —",
+   "options": {
+    "A": "মোমবাতি",
+    "B": "তরল স্ফটিক",
+    "C": "কোনোটিই নয়",
+    "D": "বাল্ব"
+   },
+   "correctAnswer": "B",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "দিন-রাত্রি হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চাঁদের ঘূর্ণনে",
+    "C": "পৃথিবীর ঘূর্ণনে",
+    "D": "সূর্যের ঘূর্ণনে"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "ড্রিল মেশিনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ব্যাটারি শুধু",
+    "C": "মোটর ব্যবহৃত হয়",
+    "D": "জেনারেটর"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "ভিডিও কলে —",
+   "options": {
+    "A": "শুধু শব্দ",
+    "B": "শুধু ছবি",
+    "C": "কোনোটিই নয়",
+    "D": "শব্দ ও ছবি উভয়ই যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "চোখের রেটিনা চিকিৎসায় —",
+   "options": {
+    "A": "ছুরি",
+    "B": "লেজার",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ"
+   },
+   "correctAnswer": "B",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "এলইডি বাল্ব সাধারণ বাল্বের চেয়ে —",
+   "options": {
+    "A": "সমান",
+    "B": "সাশ্রয়ী",
+    "C": "কোনোটিই নয়",
+    "D": "অপচয়ী"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "কম্পিউটারের ইনপুট যন্ত্র —",
+   "options": {
+    "A": "কিবোর্ড, মাউস",
+    "B": "মনিটর",
+    "C": "প্রিন্টার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "বঙ্গবন্ধু-১ উৎক্ষেপণ —",
+   "options": {
+    "A": "২০০০ সালে",
+    "B": "কোনোটিই নয়",
+    "C": "২০১৮ সালে",
+    "D": "২০১০ সালে"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "দাঁতের ডাক্তারের আয়না —",
+   "options": {
+    "A": "অবতল দর্পণ",
+    "B": "কোনোটিই নয়",
+    "C": "সমতল দর্পণ",
+    "D": "উত্তল দর্পণ"
+   },
+   "correctAnswer": "A",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "রাডার কোন তরঙ্গ ব্যবহার করে?",
+   "options": {
+    "A": "মাইক্রোওয়েভ",
+    "B": "আলো",
+    "C": "শব্দ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "পেসমেকারে —",
+   "options": {
+    "A": "আলো",
+    "B": "ক্ষুদ্র ব্যাটারি ও সার্কিট",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "সৌর শক্তির সুবিধা —",
+   "options": {
+    "A": "পরিবেশবান্ধব ও অফুরন্ত",
+    "B": "সীমিত",
+    "C": "দূষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "কম্পিউটারের মস্তিষ্ক —",
+   "options": {
+    "A": "কিবোর্ড",
+    "B": "মাইক্রোপ্রসেসর",
+    "C": "মনিটর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "মহাকাশ গবেষণায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আলো শুধু",
+    "C": "রোবট ও স্যাটেলাইট",
+    "D": "তাপ"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "চুম্বক ব্যবহৃত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মোটর, জেনারেটর, স্পিকারে",
+    "C": "ইস্ত্রিতে",
+    "D": "কেটলিতে"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "আবহাওয়া পূর্বাভাসে —",
+   "options": {
+    "A": "তাপ",
+    "B": "কোনোটিই নয়",
+    "C": "আলো",
+    "D": "স্যাটেলাইট ব্যবহৃত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "আল্ট্রাসাউন্ড এক্স-রের চেয়ে —",
+   "options": {
+    "A": "বিপজ্জনক",
+    "B": "নিরাপদ",
+    "C": "ক্ষতিকর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "গ্রিনহাউস গ্যাসের উদাহরণ —",
+   "options": {
+    "A": "অক্সিজেন",
+    "B": "CO₂, মিথেন",
+    "C": "কোনোটিই নয়",
+    "D": "নাইট্রোজেন"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "রোবট কী?",
+   "options": {
+    "A": "তাপ যন্ত্র",
+    "B": "কোনোটিই নয়",
+    "C": "স্বয়ংক্রিয় যন্ত্র",
+    "D": "আলো যন্ত্র"
+   },
+   "correctAnswer": "C",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "সৌরজগতের গ্রহ সংখ্যা —",
+   "options": {
+    "A": "৮",
+    "B": "৯",
+    "C": "৭",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "বারকোড স্ক্যানারে —",
+   "options": {
+    "A": "শব্দ",
+    "B": "লেজার",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "বেতার যোগাযোগের জনক বলা হয় কাকে?",
+   "options": {
+    "A": "বেল",
+    "B": "হার্ৎস",
+    "C": "কোনোটিই নয়",
+    "D": "মার্কনি"
+   },
+   "correctAnswer": "D",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "এক্স-রে ব্যবহৃত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আলোতে",
+    "C": "হাড়ের ছবিতে",
+    "D": "তাপে"
+   },
+   "correctAnswer": "C",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "অনবায়নযোগ্য শক্তি কোনটি?",
+   "options": {
+    "A": "কয়লা",
+    "B": "বায়ু",
+    "C": "কোনোটিই নয়",
+    "D": "সৌর"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "ROM কী?",
+   "options": {
+    "A": "স্থায়ী মেমোরি",
+    "B": "কোনোটিই নয়",
+    "C": "মনিটর",
+    "D": "অস্থায়ী মেমোরি"
+   },
+   "correctAnswer": "A",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "চাঁদে প্রথম মানুষ যায় —",
+   "options": {
+    "A": "১৯৫০ সালে",
+    "B": "কোনোটিই নয়",
+    "C": "১৯৬৯ সালে",
+    "D": "২০০০ সালে"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "গাড়ির রিয়ার ভিউ আয়না —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উত্তল দর্পণ",
+    "C": "অবতল দর্পণ",
+    "D": "সমতল দর্পণ"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "টিভি সম্প্রচারে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "যান্ত্রিক তরঙ্গ",
+    "C": "তড়িৎচুম্বকীয় তরঙ্গ",
+    "D": "শব্দ তরঙ্গ"
+   },
+   "correctAnswer": "C",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "হাড় ভাঙা শনাক্তে —",
+   "options": {
+    "A": "আল্ট্রাসাউন্ড শুধু",
+    "B": "এক্স-রে",
+    "C": "লেজার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "পরিবেশ রক্ষায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "দূষণ বাড়ানো",
+    "D": "বৃক্ষরোপণ ও দূষণ নিয়ন্ত্রণ"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "প্রিন্টারে —",
+   "options": {
+    "A": "তাপ",
+    "B": "ইলেকট্রনিক্স",
+    "C": "কোনোটিই নয়",
+    "D": "আলো শুধু"
+   },
+   "correctAnswer": "B",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "পদার্থবিজ্ঞান মহাকাশ গবেষণায় —",
+   "options": {
+    "A": "সীমিত",
+    "B": "অপ্রয়োজনীয়",
+    "C": "অপরিহার্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "পানিতে রাখা মুদ্রা উপরে দেখা যায় —",
+   "options": {
+    "A": "প্রতিসরণে",
+    "B": "কোনোটিই নয়",
+    "C": "শোষণে",
+    "D": "প্রতিফলনে"
+   },
+   "correctAnswer": "A",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "স্যাটেলাইট টিভিতে —",
+   "options": {
+    "A": "তাপ আসে",
+    "B": "আলো আসে",
+    "C": "উপগ্রহ থেকে সংকেত আসে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "ক্যানসারে কোবাল্ট-৬০ ব্যবহৃত হয় — কারণ?",
+   "options": {
+    "A": "আলফা",
+    "B": "গামা রশ্মি নির্গত করে",
+    "C": "কোনোটিই নয়",
+    "D": "বিটা"
+   },
+   "correctAnswer": "B",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "বায়ু শক্তির সুবিধা —",
+   "options": {
+    "A": "পরিচ্ছন্ন",
+    "B": "সীমিত",
+    "C": "দূষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "তথ্য প্রযুক্তির মূল —",
+   "options": {
+    "A": "আলো যন্ত্র",
+    "B": "তাপ যন্ত্র",
+    "C": "কম্পিউটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "চন্দ্রগ্রহণ হয় —",
+   "options": {
+    "A": "পৃথিবীর ছায়ায় চাঁদ পড়লে",
+    "B": "সূর্যের ছায়ায়",
+    "C": "কোনোটিই নয়",
+    "D": "চাঁদের ছায়ায় পৃথিবী"
+   },
+   "correctAnswer": "A",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "আর্থ তারের রং —",
+   "options": {
+    "A": "লাল",
+    "B": "সবুজ/হলুদ",
+    "C": "নীল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "রিখটার স্কেলে মাপা হয় —",
+   "options": {
+    "A": "আলো",
+    "B": "ভূমিকম্পের মাত্রা",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "এন্ডোস্কোপ দিয়ে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বাইরে দেখা",
+    "C": "কোনোটিই নয়",
+    "D": "দেহের ভেতর দেখা যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "ঘরের আলোতে —",
+   "options": {
+    "A": "DC",
+    "B": "AC ব্যবহৃত হয়",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "ডিজিটাল ক্যামেরার সেন্সর —",
+   "options": {
+    "A": "তাপে",
+    "B": "শব্দে",
+    "C": "আলোকে তড়িতে রূপান্তর করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "আন্তর্জাতিক মহাকাশ স্টেশন —",
+   "options": {
+    "A": "ISS",
+    "B": "তাপ",
+    "C": "আলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "বিজ্ঞান ও প্রযুক্তির উন্নয়নে পদার্থবিজ্ঞানের ভূমিকা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অপরিসীম",
+    "C": "নেই",
+    "D": "সীমিত"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "ডিজিটাল বাংলাদেশে —",
+   "options": {
+    "A": "ইন্টারনেট গুরুত্বপূর্ণ",
+    "B": "তাপ",
+    "C": "কোনোটিই নয়",
+    "D": "আলো"
+   },
+   "correctAnswer": "A",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "এন্ডোস্কোপ কোন নীতিতে কাজ করে?",
+   "options": {
+    "A": "শোষণ",
+    "B": "প্রতিসরণ",
+    "C": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি কোনটি?",
+   "options": {
+    "A": "সৌর, বায়ু",
+    "B": "কয়লা, তেল, গ্যাস",
+    "C": "কোনোটিই নয়",
+    "D": "জল"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "RAM কী?",
+   "options": {
+    "A": "স্থায়ী মেমোরি",
+    "B": "প্রিন্টার",
+    "C": "কোনোটিই নয়",
+    "D": "অস্থায়ী মেমোরি"
+   },
+   "correctAnswer": "D",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "জ্যোতির্বিজ্ঞানে —",
+   "options": {
+    "A": "হয় না",
+    "B": "দরকার নেই",
+    "C": "কোনোটিই নয়",
+    "D": "পদার্থবিজ্ঞান ব্যবহৃত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "পাখি শীতে পালক ফুলিয়ে রাখে — কারণ?",
+   "options": {
+    "A": "সৌন্দর্য",
+    "B": "বাতাস আটকে অন্তরক হিসেবে",
+    "C": "কোনোটিই নয়",
+    "D": "উড়তে"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "স্যাটেলাইট নেভিগেশনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আলো",
+    "C": "জিপিএস ব্যবহৃত হয়",
+    "D": "তাপ"
+   },
+   "correctAnswer": "C",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "এমআরআই তে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আলো",
+    "C": "শক্তিশালী চুম্বক ব্যবহৃত হয়",
+    "D": "তাপ"
+   },
+   "correctAnswer": "C",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "ভূ-তাপীয় শক্তি —",
+   "options": {
+    "A": "নবায়নযোগ্য",
+    "B": "নেই",
+    "C": "অনবায়নযোগ্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "আইসি (IC) কী?",
+   "options": {
+    "A": "রোধ",
+    "B": "একটি ট্রানজিস্টর",
+    "C": "অনেক ট্রানজিস্টরের সমন্বয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "পৃথিবীর সবচেয়ে কাছের গ্রহ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মঙ্গল",
+    "C": "শুক্র",
+    "D": "বৃহস্পতি"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "বৈদ্যুতিক ইস্ত্রিতে কোন রূপান্তর?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপ → তড়িৎ",
+    "C": "তড়িৎ → তাপ",
+    "D": "আলো → তাপ"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "সোশ্যাল মিডিয়া —",
+   "options": {
+    "A": "আলোতে",
+    "B": "কোনোটিই নয়",
+    "C": "ইন্টারনেটে চলে",
+    "D": "তাপে"
+   },
+   "correctAnswer": "C",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "পেসমেকার কী?",
+   "options": {
+    "A": "তাপ যন্ত্র",
+    "B": "আলো যন্ত্র",
+    "C": "কোনোটিই নয়",
+    "D": "হৃদস্পন্দন নিয়ন্ত্রক যন্ত্র"
+   },
+   "correctAnswer": "D",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "ওজোন স্তর কী রক্ষা করে?",
+   "options": {
+    "A": "অতিবেগুনি রশ্মি থেকে",
+    "B": "আলো থেকে",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ থেকে"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "ডিজিটাল ইলেকট্রনিক্সে —",
+   "options": {
+    "A": "০ ও ১",
+    "B": "শুধু ১",
+    "C": "শুধু ০",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "জ্যোতির্বিজ্ঞানী টেলিস্কোপে —",
+   "options": {
+    "A": "তাপ",
+    "B": "কোনোটিই নয়",
+    "C": "আকাশ পর্যবেক্ষণ হয়",
+    "D": "আলো শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "উপকূলের তাপমাত্রা সমভাবাপন্ন — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পানির আপেক্ষিক তাপ বেশি",
+    "C": "বাতাস",
+    "D": "পানির আপেক্ষিক তাপ কম"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "ভূমিকম্প শনাক্তে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ব্যারোমিটার",
+    "C": "থার্মোমিটার",
+    "D": "সিসমোগ্রাফ"
+   },
+   "correctAnswer": "D",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "চিকিৎসায় লেজারের ব্যবহার —",
+   "options": {
+    "A": "অপারেশন ও চিকিৎসা",
+    "B": "রান্না",
+    "C": "মাপা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "সূর্যের শক্তি উৎপন্ন হয় —",
+   "options": {
+    "A": "নিউক্লিয় ফিউশনে",
+    "B": "কোনোটিই নয়",
+    "C": "রাসায়নিকে",
+    "D": "ফিশনে"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "ড্রোনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্যামেরা ও সেন্সর",
+    "C": "আলো শুধু",
+    "D": "তাপ"
+   },
+   "correctAnswer": "B",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "স্পুটনিক-১ উৎক্ষেপণ করে —",
+   "options": {
+    "A": "যুক্তরাষ্ট্র",
+    "B": "কোনোটিই নয়",
+    "C": "চীন",
+    "D": "সোভিয়েত ইউনিয়ন"
+   },
+   "correctAnswer": "D",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "বৈদ্যুতিক পাখায় —",
+   "options": {
+    "A": "জেনারেটর",
+    "B": "কোনোটিই নয়",
+    "C": "ব্যাটারি শুধু",
+    "D": "মোটর ব্যবহৃত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "ফাইবার অপটিক কোন নীতিতে কাজ করে?",
+   "options": {
+    "A": "প্রতিসরণ",
+    "B": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "লেজার ব্যবহৃত হয় —",
+   "options": {
+    "A": "তাপে",
+    "B": "আলোতে শুধু",
+    "C": "কোনোটিই নয়",
+    "D": "চোখের অপারেশনে"
+   },
+   "correctAnswer": "D",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "ব্যাটারি চার্জিং —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপ",
+    "C": "DC প্রয়োজন",
+    "D": "AC প্রয়োজন"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "হার্ড ডিস্কে ডেটা সঞ্চয় —",
+   "options": {
+    "A": "আলোতে",
+    "B": "তাপে",
+    "C": "কোনোটিই নয়",
+    "D": "চৌম্বকীয়ভাবে"
+   },
+   "correctAnswer": "D",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "প্রথম কৃত্রিম উপগ্রহ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যাপোলো",
+    "C": "ইনস্যাট",
+    "D": "স্পুটনিক-১"
+   },
+   "correctAnswer": "D",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "রাবার তড়িতের —",
+   "options": {
+    "A": "পরিবাহী",
+    "B": "অপরিবাহী",
+    "C": "সুপরিবাহী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "ফাইবার অপটিকের সুবিধা —",
+   "options": {
+    "A": "উচ্চগতি ও কম ক্ষয়",
+    "B": "কোনোটিই নয়",
+    "C": "ধীর",
+    "D": "বেশি ক্ষয়"
+   },
+   "correctAnswer": "A",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "ক্যানসার চিকিৎসায় —",
+   "options": {
+    "A": "আলো থেরাপি",
+    "B": "তাপ থেরাপি",
+    "C": "কোনোটিই নয়",
+    "D": "বিকিরণ থেরাপি"
+   },
+   "correctAnswer": "D",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "রেকটিফায়ারের কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "DC কে AC",
+    "C": "তাপ",
+    "D": "AC কে DC তে রূপান্তর"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "স্মার্টফোনের টাচস্ক্রিন —",
+   "options": {
+    "A": "ক্যাপাসিটিভ/রেজিস্টিভ",
+    "B": "কোনোটিই নয়",
+    "C": "শব্দ",
+    "D": "তাপ"
+   },
+   "correctAnswer": "A",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "মঙ্গলে পাঠানো রোভার —",
+   "options": {
+    "A": "কিউরিওসিটি",
+    "B": "অ্যাপোলো",
+    "C": "স্পুটনিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "প্রতিধ্বনি শোনার ন্যূনতম দূরত্ব —",
+   "options": {
+    "A": "৫ মিটার",
+    "B": "১৭ মিটার",
+    "C": "কোনোটিই নয়",
+    "D": "৩৪ মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "ফাইবার অপটিকে তথ্য যায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপে",
+    "C": "আলোর স্পন্দনে",
+    "D": "শব্দে"
+   },
+   "correctAnswer": "C",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "ইসিজি (ECG) মাপে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আলো",
+    "C": "তাপ",
+    "D": "হৃদযন্ত্রের তড়িৎ সক্রিয়তা"
+   },
+   "correctAnswer": "D",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "নবায়নযোগ্য শক্তি কোনটি?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সৌর শক্তি",
+    "C": "তেল",
+    "D": "কয়লা"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "ট্রানজিস্টর আবিষ্কার —",
+   "options": {
+    "A": "১৯৫০ সালে",
+    "B": "১৯০০ সালে",
+    "C": "১৯৪৭ সালে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "মহাকাশে ওজনহীনতা —",
+   "options": {
+    "A": "তাপে",
+    "B": "মুক্ত পতনের কারণে",
+    "C": "কোনোটিই নয়",
+    "D": "আলোতে"
+   },
+   "correctAnswer": "B",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "গ্রীষ্মে সাদা কাপড় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অস্বস্তিকর",
+    "C": "কিছুই না",
+    "D": "আরামদায়ক"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "সুনামি সতর্কতায় —",
+   "options": {
+    "A": "আলো",
+    "B": "কোনোটিই নয়",
+    "C": "স্যাটেলাইট ও সেন্সর",
+    "D": "তাপ"
+   },
+   "correctAnswer": "C",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "হৃদস্পন্দন শোনা যায় —",
+   "options": {
+    "A": "ব্যারোমিটারে",
+    "B": "কোনোটিই নয়",
+    "C": "স্টেথোস্কোপে",
+    "D": "থার্মোমিটারে"
+   },
+   "correctAnswer": "C",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "বায়োগ্যাস প্লান্টে —",
+   "options": {
+    "A": "গোবর ব্যবহৃত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "তেল",
+    "D": "কয়লা"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "ই-মেইল কী?",
+   "options": {
+    "A": "তাপ",
+    "B": "কোনোটিই নয়",
+    "C": "আলো",
+    "D": "ইলেকট্রনিক চিঠি"
+   },
+   "correctAnswer": "D",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "গ্রহের গতির সূত্র —",
+   "options": {
+    "A": "গ্যালিলিওর",
+    "B": "কেপলারের",
+    "C": "কোনোটিই নয়",
+    "D": "নিউটনের"
+   },
+   "correctAnswer": "B",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "বজ্রপাতের সময় গাছের নিচে —",
+   "options": {
+    "A": "উপকারী",
+    "B": "কোনোটিই নয়",
+    "C": "দাঁড়ানো বিপজ্জনক",
+    "D": "নিরাপদ"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "সোনার (SONAR) কোন তরঙ্গ ব্যবহার করে?",
+   "options": {
+    "A": "আলো",
+    "B": "কোনোটিই নয়",
+    "C": "শব্দ তরঙ্গ",
+    "D": "রেডিও"
+   },
+   "correctAnswer": "C",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "তেজস্ক্রিয়তা থেকে রক্ষায় —",
+   "options": {
+    "A": "কাগজ",
+    "B": "সীসার ঢাল",
+    "C": "কাঠ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাস কোন ধরনের?",
+   "options": {
+    "A": "অনবায়নযোগ্য",
+    "B": "কোনোটিই নয়",
+    "C": "নবায়নযোগ্য",
+    "D": "উভয়ই"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "এলইডি ডিসপ্লেতে —",
+   "options": {
+    "A": "এলইডি ব্যবহৃত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "বাল্ব",
+    "D": "মোমবাতি"
+   },
+   "correctAnswer": "A",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "১ আলোকবর্ষ ≈ কত কিমি?",
+   "options": {
+    "A": "৯.৪৬ × ১০¹²",
+    "B": "৯.৪৬ × ১০⁶",
+    "C": "৯.৪৬ × ১০⁹",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "নিউট্রাল তারের রং —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লাল",
+    "C": "সবুজ",
+    "D": "নীল/কালো"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "স্যাটেলাইট যোগাযোগে ব্যবহৃত হয় —",
+   "options": {
+    "A": "কৃত্রিম উপগ্রহ",
+    "B": "কোনোটিই নয়",
+    "C": "ব্যাটারি",
+    "D": "কম্পাস"
+   },
+   "correctAnswer": "A",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "তেজস্ক্রিয় বর্জ্য —",
+   "options": {
+    "A": "উপকারী",
+    "B": "কোনোটিই নয়",
+    "C": "নিরাপদ",
+    "D": "বিপজ্জনক"
+   },
+   "correctAnswer": "D",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "বাংলাদেশে প্রাকৃতিক গ্যাসের প্রধান উৎস —",
+   "options": {
+    "A": "ভূগর্ভস্থ গ্যাসক্ষেত্র",
+    "B": "কোনোটিই নয়",
+    "C": "সমুদ্র",
+    "D": "আকাশ"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "কৃত্রিম বুদ্ধিমত্তা (AI) —",
+   "options": {
+    "A": "তাপ",
+    "B": "আলো",
+    "C": "কম্পিউটারের বুদ্ধিমত্তা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "সৌরজগতের কেন্দ্রে —",
+   "options": {
+    "A": "পৃথিবী",
+    "B": "কোনোটিই নয়",
+    "C": "সূর্য",
+    "D": "চাঁদ"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "এন্ডোস্কোপে —",
+   "options": {
+    "A": "তামার তার",
+    "B": "কোনোটিই নয়",
+    "C": "রোধ",
+    "D": "অপটিক্যাল ফাইবার"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "রাডার ব্যবহৃত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রান্নায়",
+    "C": "বিমান শনাক্তে",
+    "D": "মাপে"
+   },
+   "correctAnswer": "C",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "রক্তচাপ মাপা হয় —",
+   "options": {
+    "A": "স্ফিগমোম্যানোমিটারে",
+    "B": "ব্যারোমিটারে",
+    "C": "কোনোটিই নয়",
+    "D": "থার্মোমিটারে"
+   },
+   "correctAnswer": "A",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "বিদ্যুৎ সাশ্রয়ে —",
+   "options": {
+    "A": "এলইডি বাল্ব",
+    "B": "সাধারণ বাল্ব",
+    "C": "কোনোটিই নয়",
+    "D": "মোমবাতি"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "ওয়াই-ফাই কী?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আলো",
+    "C": "তাপ",
+    "D": "বেতার ইন্টারনেট"
+   },
+   "correctAnswer": "D",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "রকেট গ্যাস নিচে ছুড়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্থির থাকে",
+    "C": "উপরে ওঠে",
+    "D": "নিচে নামে"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "ঘাম শুকালে ঠান্ডা লাগে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাষ্পীভবনে তাপ শোষণে",
+    "C": "গলনে",
+    "D": "ঘনীভবনে"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "ইন্টারনেটে তথ্য যায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শব্দে",
+    "C": "ফাইবার অপটিক/তড়িৎ সংকেতে",
+    "D": "আলোতে শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "গর্ভবতী মায়ের আল্ট্রাসনোগ্রাফি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বিপজ্জনক",
+    "C": "নিরাপদ",
+    "D": "ক্ষতিকর"
+   },
+   "correctAnswer": "C",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "বাংলাদেশের পারমাণবিক বিদ্যুৎ কেন্দ্র —",
+   "options": {
+    "A": "কাপ্তাই",
+    "B": "রূপপুর",
+    "C": "ঘোড়াশাল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "ব্লুটুথ কী?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্বল্প দূরত্বের বেতার যোগাযোগ",
+    "C": "তাপ",
+    "D": "আলো"
+   },
+   "correctAnswer": "B",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "সূর্যের সবচেয়ে দূরে গ্রহ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নেপচুন",
+    "C": "বুধ",
+    "D": "পৃথিবী"
+   },
+   "correctAnswer": "B",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "সুইচ কোন তারে যুক্ত হয়?",
+   "options": {
+    "A": "আর্থে",
+    "B": "নিউট্রালে",
+    "C": "লাইভে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "টেলিফোন আবিষ্কার করেন —",
+   "options": {
+    "A": "আইনস্টাইন",
+    "B": "আলেকজান্ডার গ্রাহাম বেল",
+    "C": "মার্কনি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "ডায়ালাইসিস মেশিনে —",
+   "options": {
+    "A": "রক্ত পরিশোধন হয়",
+    "B": "কোনোটিই নয়",
+    "C": "আলো হয়",
+    "D": "তাপ হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "শক্তির প্রধান উৎস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সূর্য",
+    "C": "তারা শুধু",
+    "D": "চাঁদ"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "হার্ড ডিস্কে তথ্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপে",
+    "C": "আলোতে",
+    "D": "চৌম্বকীয়ভাবে সঞ্চিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "বিগ ব্যাং তত্ত্ব কী?",
+   "options": {
+    "A": "আলো তত্ত্ব",
+    "B": "তাপ তত্ত্ব",
+    "C": "কোনোটিই নয়",
+    "D": "মহাবিশ্বের সূচনার তত্ত্ব"
+   },
+   "correctAnswer": "D",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "ফাইবার অপটিকে আলো —",
+   "options": {
+    "A": "প্রতিসরণে চলে",
+    "B": "পূর্ণ প্রতিফলনে চলে",
+    "C": "শোষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "দুর্যোগ সতর্কতায় —",
+   "options": {
+    "A": "স্যাটেলাইট ও রাডার",
+    "B": "তাপ",
+    "C": "কোনোটিই নয়",
+    "D": "আলো"
+   },
+   "correctAnswer": "A",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "এক্স-রে বেশি ব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্ষতিকর",
+    "C": "কোনোটিই নয়",
+    "D": "উপকারী"
+   },
+   "correctAnswer": "B",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "সৌর শক্তির অসুবিধা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সস্তা",
+    "C": "রাতে ও মেঘে কম",
+    "D": "সবসময় বেশি"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "ডিজিটাল ঘড়িতে —",
+   "options": {
+    "A": "আইসি",
+    "B": "কোনোটিই নয়",
+    "C": "রোধ",
+    "D": "ব্যাটারি শুধু"
+   },
+   "correctAnswer": "A",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "মহাকাশ স্টেশন কী?",
+   "options": {
+    "A": "আলো কেন্দ্র",
+    "B": "তাপ কেন্দ্র",
+    "C": "কোনোটিই নয়",
+    "D": "মহাকাশে গবেষণা কেন্দ্র"
+   },
+   "correctAnswer": "D",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "গ্রীষ্মে রেললাইন বাঁকা হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফাঁক থাকলে",
+    "C": "লোহা নরম হলে",
+    "D": "ফাঁক না থাকলে"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "টিভিতে ছবি আসে —",
+   "options": {
+    "A": "তড়িৎচুম্বকীয় তরঙ্গে",
+    "B": "আলোতে শুধু",
+    "C": "কোনোটিই নয়",
+    "D": "শব্দে"
+   },
+   "correctAnswer": "A",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "এমআরআই (MRI) কোন নীতিতে কাজ করে?",
+   "options": {
+    "A": "তাপ",
+    "B": "কোনোটিই নয়",
+    "C": "চৌম্বক ক্ষেত্র",
+    "D": "আলো"
+   },
+   "correctAnswer": "C",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "সৌর কোষে কোন রূপান্তর?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপ → তড়িৎ",
+    "C": "তড়িৎ → সৌর",
+    "D": "সৌর → তড়িৎ"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "লেজার প্রিন্টারে —",
+   "options": {
+    "A": "আলো শুধু",
+    "B": "স্থির তড়িৎ ও লেজার",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ"
+   },
+   "correctAnswer": "B",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "চাঁদে প্রথম পা রাখেন —",
+   "options": {
+    "A": "নিউটন",
+    "B": "আইনস্টাইন",
+    "C": "নীল আর্মস্ট্রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "আয়নায় নিজেকে দেখি —",
+   "options": {
+    "A": "প্রতিসরণে",
+    "B": "শোষণে",
+    "C": "প্রতিফলনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "ফাইবার অপটিক যোগাযোগে —",
+   "options": {
+    "A": "আলো ব্যবহৃত হয়",
+    "B": "তাপ",
+    "C": "কোনোটিই নয়",
+    "D": "শব্দ"
+   },
+   "correctAnswer": "A",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "আল্ট্রাসনোগ্রাফিতে —",
+   "options": {
+    "A": "এক্স-রে",
+    "B": "কোনোটিই নয়",
+    "C": "আল্ট্রাসাউন্ড ব্যবহৃত হয়",
+    "D": "লেজার শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "শক্তির উৎস কত প্রকার?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৪",
+    "C": "৩",
+    "D": "২"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "এআই ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মাপা",
+    "C": "রান্না",
+    "D": "চ্যাটবট, ছবি শনাক্ত"
+   },
+   "correctAnswer": "D",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "মহাকাশচারীরা যোগাযোগ করে —",
+   "options": {
+    "A": "রেডিও তরঙ্গে",
+    "B": "শব্দে",
+    "C": "ইশারায় শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "সৌর কুকারে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সাদা পাত্র",
+    "D": "কালো পাত্র ব্যবহৃত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "রেডিও কোন তরঙ্গে কাজ করে?",
+   "options": {
+    "A": "যান্ত্রিক",
+    "B": "তড়িৎচুম্বকীয়",
+    "C": "শব্দ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "ত্বকের চিকিৎসায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আলো শুধু",
+    "C": "তাপ শুধু",
+    "D": "লেজার"
+   },
+   "correctAnswer": "D",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "সোলার হোম সিস্টেমে —",
+   "options": {
+    "A": "সৌর প্যানেল, ব্যাটারি, ইনভার্টার",
+    "B": "আলো শুধু",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "কম্পিউটারের মেমোরি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিবোর্ড",
+    "C": "মনিটর",
+    "D": "RAM ও ROM"
+   },
+   "correctAnswer": "D",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "মহাকাশে আলো —",
+   "options": {
+    "A": "চলে না",
+    "B": "চলে",
+    "C": "কোনোটিই নয়",
+    "D": "ধীরে চলে"
+   },
+   "correctAnswer": "B",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "শীতকালে সাদা কাপড় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ঠান্ডা লাগে",
+    "D": "গরম লাগে"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "রেডিও ও টিভির পার্থক্য —",
+   "options": {
+    "A": "কোনো পার্থক্য নেই",
+    "B": "রং",
+    "C": "কোনোটিই নয়",
+    "D": "শব্দ ও ছবি"
+   },
+   "correctAnswer": "D",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "চিকিৎসায় নিরাপত্তা —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "কোনোটিই নয়",
+    "C": "প্রয়োজন",
+    "D": "প্রয়োজন নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "শক্তি সংকট সমাধানে —",
+   "options": {
+    "A": "তেল শুধু",
+    "B": "কয়লা শুধু",
+    "C": "নবায়নযোগ্য শক্তি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "ড্রোন কী?",
+   "options": {
+    "A": "চালকবিহীন বিমান",
+    "B": "তাপ যন্ত্র",
+    "C": "আলো যন্ত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "ভূ-স্থির উপগ্রহের উচ্চতা প্রায় —",
+   "options": {
+    "A": "৩৬০ কিমি",
+    "B": "৩৬০০ কিমি",
+    "C": "৩৬০০০ কিমি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "অপটিক্যাল ফাইবার ব্যবহৃত হয় —",
+   "options": {
+    "A": "মাপে শুধু",
+    "B": "যোগাযোগ ও চিকিৎসায়",
+    "C": "রান্নায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "আবহাওয়ার পূর্বাভাসে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "থার্মোমিটার শুধু",
+    "C": "স্যাটেলাইট",
+    "D": "ব্যারোমিটার শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "লেজার কী?",
+   "options": {
+    "A": "শব্দ",
+    "B": "তীব্র একরঙা আলো",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "ইনভার্টারের কাজ —",
+   "options": {
+    "A": "তাপ",
+    "B": "DC কে AC তে রূপান্তর",
+    "C": "AC কে DC",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "মাইক্রোপ্রসেসরে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "একটি",
+    "D": "লক্ষ লক্ষ ট্রানজিস্টর"
+   },
+   "correctAnswer": "D",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "ঋতু পরিবর্তন হয় —",
+   "options": {
+    "A": "চাঁদে",
+    "B": "কোনোটিই নয়",
+    "C": "সূর্যে",
+    "D": "পৃথিবীর কক্ষপথের হেলানো অবস্থায়"
+   },
+   "correctAnswer": "D",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "সাদা আলো প্রিজমে —",
+   "options": {
+    "A": "শোষিত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "সাত রঙে বিভক্ত হয়",
+    "D": "এক রং হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "অনলাইন ক্লাস —",
+   "options": {
+    "A": "আলোতে",
+    "B": "কোনোটিই নয়",
+    "C": "ইন্টারনেটে হয়",
+    "D": "তাপে"
+   },
+   "correctAnswer": "C",
+   "topic": "যোগাযোগ প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "তেজস্ক্রিয় বর্জ্য সংরক্ষণ —",
+   "options": {
+    "A": "গভীর ভূগর্ভে",
+    "B": "পানিতে",
+    "C": "খোলা জায়গায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "টারবাইন ঘোরায় —",
+   "options": {
+    "A": "বাষ্প, পানি বা বায়ু",
+    "B": "তাপ শুধু",
+    "C": "আলো শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "কিউআর কোড পড়া হয় —",
+   "options": {
+    "A": "তাপে",
+    "B": "ক্যামেরায়",
+    "C": "শব্দে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "চন্দ্রগ্রহণ দেখা যায় —",
+   "options": {
+    "A": "পূর্ণিমায়",
+    "B": "অমাবস্যায়",
+    "C": "কোনোটিই নয়",
+    "D": "যেকোনো দিনে"
+   },
+   "correctAnswer": "A",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "ফ্রিজ কোন নীতিতে কাজ করে?",
+   "options": {
+    "A": "চুম্বকত্ব",
+    "B": "মহাকর্ষ",
+    "C": "তাপগতিবিদ্যা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "থাইরয়েড চিকিৎসায় —",
+   "options": {
+    "A": "লোহা",
+    "B": "কোবাল্ট",
+    "C": "কোনোটিই নয়",
+    "D": "আয়োডিন-১৩১"
+   },
+   "correctAnswer": "D",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "মোবাইল ফোনের ব্যাটারি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপ",
+    "C": "DC",
+    "D": "AC"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "টাচস্ক্রিনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপ",
+    "C": "স্পর্শ শনাক্ত হয়",
+    "D": "শব্দ"
+   },
+   "correctAnswer": "C",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "আবহাওয়া উপগ্রহ —",
+   "options": {
+    "A": "আলো দেয়",
+    "B": "ঝড়ের পূর্বাভাস দেয়",
+    "C": "তাপ দেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "কম্পাসের কাঁটা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পূর্ব-পশ্চিম",
+    "C": "যেকোনো",
+    "D": "উত্তর-দক্ষিণ নির্দেশ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "আল্ট্রাসাউন্ড ব্যবহৃত হয় —",
+   "options": {
+    "A": "তাপে",
+    "B": "আলোতে",
+    "C": "গর্ভের শিশু দেখতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "চিকিৎসা পদার্থবিজ্ঞান",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "বাংলাদেশে বায়োগ্যাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ব্যবহৃত হয়",
+    "C": "দরকার নেই",
+    "D": "হয় না"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "বারকোড রিডারে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লেজার/আলো",
+    "C": "শব্দ",
+    "D": "তাপ"
+   },
+   "correctAnswer": "B",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "মহাকাশে শব্দ —",
+   "options": {
+    "A": "চলে",
+    "B": "দ্রুত চলে",
+    "C": "চলে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "লেজার আলোর বৈশিষ্ট্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "একরঙা ও সমান্তরাল",
+    "C": "ছড়ানো",
+    "D": "বহুরঙা"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "ল্যাপটপের অ্যাডাপ্টারে —",
+   "options": {
+    "A": "AC কে DC রূপান্তর হয়",
+    "B": "DC কে AC",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "ইন্টারনেট কী?",
+   "options": {
+    "A": "বিশ্বব্যাপী নেটওয়ার্ক",
+    "B": "আলো যন্ত্র",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ যন্ত্র"
+   },
+   "correctAnswer": "A",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "ভূ-স্থির উপগ্রহ —",
+   "options": {
+    "A": "ঘোরে না",
+    "B": "স্থির থাকে",
+    "C": "পৃথিবীর সাথে ঘোরে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "তাপের কুপরিবাহী —",
+   "options": {
+    "A": "তামা",
+    "B": "কোনোটিই নয়",
+    "C": "লোহা",
+    "D": "বাতাস"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "গ্রিনহাউস প্রভাব কী?",
+   "options": {
+    "A": "তাপ আটকে রাখা",
+    "B": "আলো",
+    "C": "ঠান্ডা করা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "কম্পিউটারের আউটপুট যন্ত্র —",
+   "options": {
+    "A": "মনিটর, প্রিন্টার",
+    "B": "কোনোটিই নয়",
+    "C": "মাউস",
+    "D": "কিবোর্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "কৃত্রিম উপগ্রহের ব্যবহার —",
+   "options": {
+    "A": "রান্না",
+    "B": "কোনোটিই নয়",
+    "C": "যোগাযোগ, আবহাওয়া, নেভিগেশন",
+    "D": "মাপা শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "পদার্থবিজ্ঞান ও প্রযুক্তির সম্পর্ক —",
+   "options": {
+    "A": "কোনো সম্পর্ক নেই",
+    "B": "দুর্বল",
+    "C": "কোনোটিই নয়",
+    "D": "গভীরভাবে জড়িত"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "কাপ্তাই জলবিদ্যুৎ কেন্দ্র কোথায়?",
+   "options": {
+    "A": "ঢাকা",
+    "B": "কোনোটিই নয়",
+    "C": "চট্টগ্রাম",
+    "D": "রাঙ্গামাটি"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "আইসি তৈরি হয় —",
+   "options": {
+    "A": "লোহায়",
+    "B": "তামায়",
+    "C": "কোনোটিই নয়",
+    "D": "সিলিকন চিপে"
+   },
+   "correctAnswer": "D",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "মহাকাশে ওজনহীনতার কারণ —",
+   "options": {
+    "A": "আলো",
+    "B": "তাপ",
+    "C": "মুক্ত পতন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "মরীচিকা দেখা যায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মরুভূমিতে",
+    "C": "বনে",
+    "D": "সমুদ্রে শুধু"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "সোলার স্ট্রিট লাইটে —",
+   "options": {
+    "A": "আলো শুধু",
+    "B": "সৌর প্যানেল ও ব্যাটারি",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "রোবটে —",
+   "options": {
+    "A": "আলো শুধু",
+    "B": "সেন্সর ও মোটর",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "মহাকর্ষ সূত্র —",
+   "options": {
+    "A": "কেপলারের",
+    "B": "কোনোটিই নয়",
+    "C": "নিউটনের",
+    "D": "গ্যালিলিওর"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "থার্মোফ্লাস্কে ঠান্ডা পানি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দীর্ঘক্ষণ ঠান্ডা থাকে",
+    "C": "কিছুই না",
+    "D": "গরম হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "মোবাইল চার্জারে —",
+   "options": {
+    "A": "DC কে AC",
+    "B": "কোনোটিই নয়",
+    "C": "AC কে DC রূপান্তর হয়",
+    "D": "তাপ"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "ডিজিটাল ক্যামেরায় —",
+   "options": {
+    "A": "তাপ",
+    "B": "কোনোটিই নয়",
+    "C": "ইমেজ সেন্সর",
+    "D": "শব্দ"
+   },
+   "correctAnswer": "C",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "শনির বলয় —",
+   "options": {
+    "A": "নেই",
+    "B": "বিখ্যাত",
+    "C": "ছোট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "চশমা কোন লেন্স ব্যবহার করে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রিজম",
+    "C": "দর্পণ",
+    "D": "উত্তল/অবতল লেন্স"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "শক্তি সংরক্ষণে করণীয় —",
+   "options": {
+    "A": "অপ্রয়োজনীয় বাতি বন্ধ",
+    "B": "কিছুই না",
+    "C": "বাতি জ্বালানো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "বাইনারি সংখ্যা —",
+   "options": {
+    "A": "০ ও ১",
+    "B": "০–৯",
+    "C": "১–১০",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "সূর্য ও পৃথিবীর দূরত্ব —",
+   "options": {
+    "A": "১.৫ × ১০⁸ মিটার",
+    "B": "কোনোটিই নয়",
+    "C": "১.৫ × ১০¹¹ মিটার",
+    "D": "১.৫ × ১০⁹ মিটার"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "থার্মোফ্লাস্কের দুই দেয়ালের মাঝে —",
+   "options": {
+    "A": "পানি",
+    "B": "কোনোটিই নয়",
+    "C": "বাতাস",
+    "D": "শূন্যস্থান"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি কোটি বছর আগের —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পানি",
+    "C": "জীবের দেহাবশেষ",
+    "D": "পাথর"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "স্মার্টফোনে —",
+   "options": {
+    "A": "রোধ",
+    "B": "কোনোটিই নয়",
+    "C": "ব্যাটারি শুধু",
+    "D": "মাইক্রোপ্রসেসর"
+   },
+   "correctAnswer": "D",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "কৃত্রিম উপগ্রহ কী?",
+   "options": {
+    "A": "পৃথিবীকে ঘোরা যন্ত্র",
+    "B": "তাপ যন্ত্র",
+    "C": "আলো যন্ত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "স্কেটিং করার সময় বরফ গলে —",
+   "options": {
+    "A": "চাপে",
+    "B": "ঘর্ষণে",
+    "C": "তাপে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "বায়োগ্যাসের ব্যবহার —",
+   "options": {
+    "A": "রান্না ও বিদ্যুৎ",
+    "B": "শুধু রান্না",
+    "C": "শুধু বিদ্যুৎ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "কম্পিউটারে তথ্য সঞ্চয় হয় —",
+   "options": {
+    "A": "তাপে",
+    "B": "আলোতে",
+    "C": "কোনোটিই নয়",
+    "D": "হার্ড ডিস্কে"
+   },
+   "correctAnswer": "D",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "লাল গ্রহ বলা হয় —",
+   "options": {
+    "A": "মঙ্গলকে",
+    "B": "বৃহস্পতিকে",
+    "C": "শুক্রকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "বৈদ্যুতিক তার ঝুলিয়ে টানা হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সৌন্দর্য",
+    "C": "সংকোচনের জন্য",
+    "D": "প্রসারণের জন্য"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "তাপবিদ্যুৎ কেন্দ্রে প্রথমে —",
+   "options": {
+    "A": "সৌর হয়",
+    "B": "কোনোটিই নয়",
+    "C": "বায়ু হয়",
+    "D": "জ্বালানি পুড়িয়ে বাষ্প হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "ভার্চুয়াল রিয়ালিটি —",
+   "options": {
+    "A": "আলো শুধু",
+    "B": "কোনোটিই নয়",
+    "C": "তাপ",
+    "D": "কৃত্রিম পরিবেশ"
+   },
+   "correctAnswer": "D",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "সূর্য থেকে পৃথিবীর আলো আসতে সময় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রায় ৮ মিনিট",
+    "C": "১ ঘণ্টা",
+    "D": "১ সেকেন্ড"
+   },
+   "correctAnswer": "B",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "পুকুরের পানি কম গভীর মনে হয় —",
+   "options": {
+    "A": "প্রতিফলনে",
+    "B": "প্রতিসরণে",
+    "C": "শোষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির অসুবিধা —",
+   "options": {
+    "A": "পরিচ্ছন্ন",
+    "B": "কোনোটিই নয়",
+    "C": "দূষণ ও সীমিত",
+    "D": "নবায়নযোগ্য"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "কম্পিউটার কাজ করে —",
+   "options": {
+    "A": "দশমিকে",
+    "B": "কোনোটিই নয়",
+    "C": "বাইনারিতে",
+    "D": "অক্টালে"
+   },
+   "correctAnswer": "C",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "আলোকবর্ষ কীসের একক?",
+   "options": {
+    "A": "বেগ",
+    "B": "কোনোটিই নয়",
+    "C": "দূরত্ব",
+    "D": "সময়"
+   },
+   "correctAnswer": "C",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "সমুদ্রের পানি দিনে ধীরে গরম হয় — কারণ?",
+   "options": {
+    "A": "আপেক্ষিক তাপ বেশি",
+    "B": "গভীরতা",
+    "C": "কোনোটিই নয়",
+    "D": "আপেক্ষিক তাপ কম"
+   },
+   "correctAnswer": "A",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "বৃক্ষ কার্বন ডাই-অক্সাইড —",
+   "options": {
+    "A": "শোষণ করে",
+    "B": "নির্গত করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "লজিক গেট তৈরি হয় —",
+   "options": {
+    "A": "ব্যাটারি দিয়ে",
+    "B": "কোনোটিই নয়",
+    "C": "রোধ দিয়ে",
+    "D": "ট্রানজিস্টর দিয়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "রকেট কোন নীতিতে চলে?",
+   "options": {
+    "A": "প্রথম সূত্র",
+    "B": "নিউটনের তৃতীয় সূত্র",
+    "C": "দ্বিতীয় সূত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "তাপের সুপরিবাহী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তামা",
+    "C": "কাঠ",
+    "D": "বাতাস"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "পরিবেশ দূষণ কমাতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কয়লা",
+    "C": "নবায়নযোগ্য শক্তি",
+    "D": "তেল"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "সিডি/ডিভিডিতে ডেটা —",
+   "options": {
+    "A": "তাপে",
+    "B": "লেজারে লেখা-পড়া হয়",
+    "C": "কোনোটিই নয়",
+    "D": "চুম্বকে"
+   },
+   "correctAnswer": "B",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "সূর্যগ্রহণ হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চাঁদ সূর্যকে ঢাকলে",
+    "C": "সূর্য পৃথিবীকে",
+    "D": "পৃথিবী চাঁদকে ঢাকলে"
+   },
+   "correctAnswer": "B",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "ভেজা হাতে বৈদ্যুতিক কাজ —",
+   "options": {
+    "A": "করা উচিত",
+    "B": "করা উচিত নয়",
+    "C": "কোনোটিই নয়",
+    "D": "করতে হবে"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "গ্লোবাল ওয়ার্মিংয়ের ফল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ঠান্ডা",
+    "C": "কোনোটিই নয়",
+    "D": "সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধি"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "মেমোরি কার্ডে ডেটা —",
+   "options": {
+    "A": "ফ্ল্যাশ মেমোরিতে",
+    "B": "চৌম্বকে",
+    "C": "তাপে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তথ্য প্রযুক্তি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "সবচেয়ে বড় গ্রহ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পৃথিবী",
+    "C": "শনি",
+    "D": "বৃহস্পতি"
+   },
+   "correctAnswer": "D",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "শীতকালে পানির পাইপ ফেটে যায় — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পানি জমে আয়তন বাড়ে",
+    "C": "পানি কমে",
+    "D": "চাপ কমে"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "অ্যাসিড বৃষ্টির ক্ষতি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মাটি ও পানির ক্ষতি",
+    "C": "উপকার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "পৃথিবীর উপগ্রহ —",
+   "options": {
+    "A": "সূর্য",
+    "B": "মঙ্গল",
+    "C": "কোনোটিই নয়",
+    "D": "চাঁদ"
+   },
+   "correctAnswer": "D",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "বজ্রপাত থেকে বাঁচতে —",
+   "options": {
+    "A": "গাছে",
+    "B": "নিচু জায়গায়",
+    "C": "উঁচু জায়গায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "ওজোন স্তর ক্ষয়ে —",
+   "options": {
+    "A": "আলো বাড়ে",
+    "B": "তাপ বাড়ে",
+    "C": "কোনোটিই নয়",
+    "D": "অতিবেগুনি রশ্মি বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "দূরবীক্ষণ যন্ত্রে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপ",
+    "C": "আলো শুধু",
+    "D": "দূরের বস্তু দেখা যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "মহাকাশ বিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "বিদ্যুতের তারে তামা ব্যবহৃত হয় — কারণ?",
+   "options": {
+    "A": "কুপরিবাহী",
+    "B": "সুপরিবাহী",
+    "C": "কোনোটিই নয়",
+    "D": "সস্তা"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "স্টেপ-আপ ট্রান্সফরমার —",
+   "options": {
+    "A": "একই রাখে",
+    "B": "কোনোটিই নয়",
+    "C": "বিভব বাড়ায়",
+    "D": "বিভব কমায়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "এসি (AC) কী নিয়ন্ত্রণ করে?",
+   "options": {
+    "A": "আলো",
+    "B": "তাপমাত্রা ও আর্দ্রতা",
+    "C": "শব্দ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "বায়ু শক্তি কোন যন্ত্রে রূপান্তরিত হয়?",
+   "options": {
+    "A": "ব্যাটারি",
+    "B": "বায়ু টারবাইন",
+    "C": "কোনোটিই নয়",
+    "D": "সৌর প্যানেল"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "দালানে বজ্রনিরোধক দণ্ড —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "আধান জমায়",
+    "C": "আধান মাটিতে নামায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "সালোকসংশ্লেষণে —",
+   "options": {
+    "A": "CO₂ শোষিত হয়",
+    "B": "CO₂ নির্গত হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "চামচে মুখ উল্টো দেখায় — কারণ?",
+   "options": {
+    "A": "অবতল দর্পণ",
+    "B": "উত্তল দর্পণ",
+    "C": "সমতল দর্পণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "বায়ু শক্তির অসুবিধা —",
+   "options": {
+    "A": "সবসময়",
+    "B": "সস্তা",
+    "C": "কোনোটিই নয়",
+    "D": "বায়ু নির্ভর"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "থার্মোফ্লাস্কে গরম পানি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ঠান্ডা হয়",
+    "D": "দীর্ঘক্ষণ গরম থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "জোয়ার-ভাটার শক্তি —",
+   "options": {
+    "A": "নবায়নযোগ্য",
+    "B": "নেই",
+    "C": "অনবায়নযোগ্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "সভাকক্ষে প্রতিধ্বনি কমাতে —",
+   "options": {
+    "A": "শব্দ প্রতিফলক",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শব্দ শোষক ব্যবহৃত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "সৌর শক্তি কী?",
+   "options": {
+    "A": "তেলের শক্তি",
+    "B": "কয়লার শক্তি",
+    "C": "সূর্যের আলো থেকে শক্তি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "পদার্থবিজ্ঞান ছাড়া —",
+   "options": {
+    "A": "একই",
+    "B": "সম্ভব",
+    "C": "আধুনিক জীবন অসম্ভব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "বায়োগ্যাসে প্রধান গ্যাস —",
+   "options": {
+    "A": "অক্সিজেন",
+    "B": "নাইট্রোজেন",
+    "C": "মিথেন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "বজ্রনিরোধক দণ্ড আবিষ্কার করেন —",
+   "options": {
+    "A": "ফ্র্যাঙ্কলিন",
+    "B": "কুলম্ব",
+    "C": "কোনোটিই নয়",
+    "D": "নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "তাপবিদ্যুৎ কেন্দ্রে জ্বালানি —",
+   "options": {
+    "A": "কয়লা, গ্যাস বা তেল",
+    "B": "কোনোটিই নয়",
+    "C": "বায়ু",
+    "D": "সৌর"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "ক্রেনে ভারী লোহা তোলা হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইলেকট্রোম্যাগনেটে",
+    "C": "দড়িতে",
+    "D": "হাতে"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "অ্যাসিড বৃষ্টি কী?",
+   "options": {
+    "A": "পরিষ্কার বৃষ্টি",
+    "B": "দূষিত বৃষ্টি",
+    "C": "স্বাভাবিক বৃষ্টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "সিনেমা হলের দেয়াল নরম পদার্থে মোড়ানো —",
+   "options": {
+    "A": "শব্দ প্রতিফলনে",
+    "B": "শব্দ শোষণে",
+    "C": "সৌন্দর্যে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "উচ্চ বিভবে বিদ্যুৎ সঞ্চালনে —",
+   "options": {
+    "A": "অপচয় বেশি",
+    "B": "শক্তি অপচয় কম",
+    "C": "একই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "প্রেসার কুকারে পানি ফোটে —",
+   "options": {
+    "A": "কম তাপমাত্রায়",
+    "B": "কোনোটিই নয়",
+    "C": "উচ্চ তাপমাত্রায়",
+    "D": "সাধারণ তাপমাত্রায়"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "কার্বন ডাই-অক্সাইড বাড়ে —",
+   "options": {
+    "A": "জ্বালানি পোড়ালে",
+    "B": "কোনোটিই নয়",
+    "C": "বৃষ্টিতে",
+    "D": "গাছ লাগালে"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "ক্ষীণদৃষ্টি ত্রুটিতে —",
+   "options": {
+    "A": "অবতল লেন্স",
+    "B": "সমতল",
+    "C": "উত্তল লেন্স",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "বায়োগ্যাস কী?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তেল",
+    "C": "জৈব বর্জ্য থেকে গ্যাস",
+    "D": "কয়লা"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "বোতল ভর্তি পানি ফ্রিজে রাখলে বোতল ফাটে — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বরফের আয়তন বেশি",
+    "C": "চাপ কম",
+    "D": "বরফের আয়তন কম"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "কার্বন ডাই-অক্সাইড কমে —",
+   "options": {
+    "A": "বৃক্ষরোপণে",
+    "B": "কোনোটিই নয়",
+    "C": "জ্বালানিতে",
+    "D": "গাড়িতে"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "দূরদৃষ্টি ত্রুটিতে —",
+   "options": {
+    "A": "অবতল লেন্স",
+    "B": "উত্তল লেন্স",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "এলইডির পূর্ণরূপ —",
+   "options": {
+    "A": "Light Emitting Diode",
+    "B": "Laser Emitting Diode",
+    "C": "কোনোটিই নয়",
+    "D": "Light Emitting Device"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "মিক্সারে —",
+   "options": {
+    "A": "ব্যাটারি শুধু",
+    "B": "কোনোটিই নয়",
+    "C": "জেনারেটর",
+    "D": "মোটর ব্যবহৃত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "পারমাণবিক শক্তি কোন বিক্রিয়ায় উৎপন্ন হয়?",
+   "options": {
+    "A": "ফিশন",
+    "B": "কোনোটিই নয়",
+    "C": "ফিউশন",
+    "D": "রাসায়নিক"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "পানির অস্বাভাবিক প্রসারণে মাছ —",
+   "options": {
+    "A": "ভেসে ওঠে",
+    "B": "বাঁচে",
+    "C": "কোনোটিই নয়",
+    "D": "মরে"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "ওজোন স্তর ক্ষয়কারী গ্যাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অক্সিজেন",
+    "C": "সিএফসি",
+    "D": "নাইট্রোজেন"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "মেগাফোনে শব্দ —",
+   "options": {
+    "A": "একদিকে যায়",
+    "B": "সবদিকে যায়",
+    "C": "কমে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "গ্রিনহাউস প্রভাবের ফলে —",
+   "options": {
+    "A": "ঠান্ডা হয়",
+    "B": "কোনোটিই নয়",
+    "C": "পৃথিবী উষ্ণ হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "রংধনুর কারণ —",
+   "options": {
+    "A": "শুধু প্রতিফলন",
+    "B": "শুধু প্রতিসরণ",
+    "C": "বিচ্ছুরণ ও প্রতিফলন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "বাড়িতে বিদ্যুৎ পৌঁছায় —",
+   "options": {
+    "A": "স্টেপ-আপে",
+    "B": "স্টেপ-ডাউন ট্রান্সফরমারে",
+    "C": "সরাসরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "শীতকালে পুকুরের নিচের পানি —",
+   "options": {
+    "A": "জমে যায়",
+    "B": "উধাও হয়",
+    "C": "কোনোটিই নয়",
+    "D": "তরল থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "পারমাণবিক চুল্লিতে কোন শক্তি?",
+   "options": {
+    "A": "তাপ → আলো",
+    "B": "কোনোটিই নয়",
+    "C": "নিউক্লিয় → তাপ → তড়িৎ",
+    "D": "সৌর → তড়িৎ"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "হীরা ঝকঝক করে —",
+   "options": {
+    "A": "শোষণে",
+    "B": "কোনোটিই নয়",
+    "C": "পূর্ণ অভ্যন্তরীণ প্রতিফলনে",
+    "D": "প্রতিসরণে শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "অ্যাসিড বৃষ্টির কারণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নাইট্রোজেন",
+    "C": "অক্সিজেন",
+    "D": "SO₂ ও NOx"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "সিডি প্লেয়ারে —",
+   "options": {
+    "A": "তাপ",
+    "B": "শব্দ",
+    "C": "লেজার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "এলইডি বাল্বের সুবিধা —",
+   "options": {
+    "A": "কম শক্তি খরচ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বেশি শক্তি"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "বজ্রপাতের আলো আগে, শব্দ পরে — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শব্দের বেগ বেশি",
+    "C": "আলোর বেগ বেশি",
+    "D": "সমান"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "স্টেপ-ডাউন ট্রান্সফরমার —",
+   "options": {
+    "A": "বিভব বাড়ায়",
+    "B": "কোনোটিই নয়",
+    "C": "একই রাখে",
+    "D": "বিভব কমায়"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "ওয়াশিং মেশিনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জেনারেটর",
+    "C": "ব্যাটারি শুধু",
+    "D": "মোটর ব্যবহৃত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "নবায়নযোগ্য শক্তির সুবিধা —",
+   "options": {
+    "A": "পরিবেশবান্ধব",
+    "B": "সীমিত",
+    "C": "দূষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "মাইক্রোফোনে কোন রূপান্তর?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আলো → তড়িৎ",
+    "C": "তড়িৎ → শব্দ",
+    "D": "শব্দ → তড়িৎ"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "বাংলাদেশের তাপবিদ্যুৎ কেন্দ্র —",
+   "options": {
+    "A": "কাপ্তাই শুধু",
+    "B": "ঘোড়াশাল, আশুগঞ্জ",
+    "C": "রূপপুর শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "সেতুর এক প্রান্ত রোলারে রাখা হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ওজনের জন্য",
+    "C": "প্রসারণের জন্য",
+    "D": "সংকোচনের জন্য"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "শব্দ দূষণের একক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ওয়াট",
+    "C": "ভোল্ট",
+    "D": "ডেসিবেল"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "রান্নাঘরের প্রেসার কুকারে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চাপ কমিয়ে",
+    "C": "চাপ বাড়িয়ে রান্না হয়",
+    "D": "তাপ কমিয়ে"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "পানি দূষণের কারণ —",
+   "options": {
+    "A": "কলকারখানার বর্জ্য",
+    "B": "গাছ",
+    "C": "কোনোটিই নয়",
+    "D": "বৃষ্টি"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "দুই বরফখণ্ড চাপ দিলে জোড়া লাগে —",
+   "options": {
+    "A": "তাপে",
+    "B": "চাপে গলন ও পুনরায় জমায়",
+    "C": "ঘর্ষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "কয়লা কোন ধরনের জ্বালানি?",
+   "options": {
+    "A": "উভয়ই",
+    "B": "নবায়নযোগ্য",
+    "C": "কোনোটিই নয়",
+    "D": "অনবায়নযোগ্য"
+   },
+   "correctAnswer": "D",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "বরফ পানিতে ভাসে — কারণ?",
+   "options": {
+    "A": "বরফের ঘনত্ব কম",
+    "B": "বরফ গরম",
+    "C": "বরফ ভারী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "গ্রামাঞ্চলে সোলার হোম সিস্টেম —",
+   "options": {
+    "A": "ব্যবহৃত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "দরকার নেই",
+    "D": "হয় না"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "তারের আবরণ —",
+   "options": {
+    "A": "লোহা",
+    "B": "কোনোটিই নয়",
+    "C": "তামা",
+    "D": "প্লাস্টিক/রাবার"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "জেনারেটরে —",
+   "options": {
+    "A": "যান্ত্রিক → তড়িৎ",
+    "B": "তড়িৎ → যান্ত্রিক",
+    "C": "কোনোটিই নয়",
+    "D": "তাপ → তড়িৎ"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "নাবিকেরা দিক নির্ণয় করে —",
+   "options": {
+    "A": "কম্পাসে",
+    "B": "কোনোটিই নয়",
+    "C": "আলোতে",
+    "D": "তাপে"
+   },
+   "correctAnswer": "A",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "জলবিদ্যুৎ কেন্দ্রে —",
+   "options": {
+    "A": "তাপ → তড়িৎ",
+    "B": "বিভব শক্তি → তড়িৎ",
+    "C": "কোনোটিই নয়",
+    "D": "তড়িৎ → বিভব"
+   },
+   "correctAnswer": "B",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "আয়নায় নিজেকে দেখি — কোন ধর্মে?",
+   "options": {
+    "A": "শোষণ",
+    "B": "প্রতিসরণ",
+    "C": "প্রতিফলন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "জলবিদ্যুতের সুবিধা —",
+   "options": {
+    "A": "ব্যয়বহুল",
+    "B": "কোনোটিই নয়",
+    "C": "পরিচ্ছন্ন ও সস্তা",
+    "D": "দূষণ"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "স্টেথোস্কোপে শব্দ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শোষিত হয়",
+    "C": "প্রতিফলিত হয়ে কানে আসে",
+    "D": "ছড়ায়"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "সৌর প্যানেলে —",
+   "options": {
+    "A": "সিলিকন ব্যবহৃত হয়",
+    "B": "তামা শুধু",
+    "C": "কোনোটিই নয়",
+    "D": "লোহা"
+   },
+   "correctAnswer": "A",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "প্রযুক্তির ভিত্তি —",
+   "options": {
+    "A": "রসায়ন শুধু",
+    "B": "জীববিজ্ঞান শুধু",
+    "C": "পদার্থবিজ্ঞান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "জলবিদ্যুৎ উৎপন্ন হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাতাসে",
+    "C": "পানির প্রবাহে",
+    "D": "সূর্যে"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "রান্নার পাত্রের হাতল কাঠের — কারণ?",
+   "options": {
+    "A": "সস্তা",
+    "B": "কাঠ কুপরিবাহী",
+    "C": "কাঠ পরিবাহী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "বাংলাদেশে সৌর শক্তির ব্যবহার —",
+   "options": {
+    "A": "নেই",
+    "B": "কোনোটিই নয়",
+    "C": "বাড়ছে",
+    "D": "কমছে"
+   },
+   "correctAnswer": "C",
+   "topic": "শক্তি ও পরিবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "সৌর পানি গরম করার যন্ত্রে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সৌর শক্তি",
+    "C": "গ্যাস",
+    "D": "কয়লা"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "প্রেসার কুকারে খাবার দ্রুত সিদ্ধ হয় — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চাপে স্ফুটনাঙ্ক বাড়ে",
+    "C": "চাপে স্ফুটনাঙ্ক কমে",
+    "D": "তাপ কম"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "ভেজা হাতে সুইচ ধরা —",
+   "options": {
+    "A": "উপকারী",
+    "B": "কোনোটিই নয়",
+    "C": "বিপজ্জনক",
+    "D": "নিরাপদ"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "লেজারের ব্যবহার —",
+   "options": {
+    "A": "শুধু চিকিৎসা",
+    "B": "কোনোটিই নয়",
+    "C": "চিকিৎসা, যোগাযোগ, শিল্প",
+    "D": "শুধু যোগাযোগ"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "গাড়ি ফ্যারাডে খাঁচার মতো —",
+   "options": {
+    "A": "কখনো না",
+    "B": "না",
+    "C": "কখনো",
+    "D": "হ্যাঁ"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "ফ্যারাডে খাঁচায় ভেতরে বৈদ্যুতিক ক্ষেত্র —",
+   "options": {
+    "A": "মাঝারি",
+    "B": "কোনোটিই নয়",
+    "C": "শূন্য",
+    "D": "সর্বোচ্চ"
+   },
+   "correctAnswer": "C",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "দরজার হাতল কোন সরল যন্ত্র?",
+   "options": {
+    "A": "কপিকল",
+    "B": "চাকা ও অক্ষ",
+    "C": "লিভার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "পাহাড়ে পানি কম তাপমাত্রায় ফোটে — কারণ?",
+   "options": {
+    "A": "তাপ বেশি",
+    "B": "কোনোটিই নয়",
+    "C": "বায়ুচাপ বেশি",
+    "D": "বায়ুচাপ কম"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "চশমা কোন নীতিতে কাজ করে?",
+   "options": {
+    "A": "প্রতিসরণ",
+    "B": "কোনোটিই নয়",
+    "C": "প্রতিফলন",
+    "D": "শোষণ"
+   },
+   "correctAnswer": "A",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "কাঁচি কোন সরল যন্ত্র?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কপিকল",
+    "C": "চাকা",
+    "D": "লিভার"
+   },
+   "correctAnswer": "D",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "রাস্তার মোড়ে উত্তল দর্পণ —",
+   "options": {
+    "A": "চওড়া দৃশ্যের জন্য",
+    "B": "কোনোটিই নয়",
+    "C": "নিয়মে",
+    "D": "সৌন্দর্যে"
+   },
+   "correctAnswer": "A",
+   "topic": "দৈনন্দিন জীবনে পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "C",
+  "2": "C",
+  "3": "C",
+  "4": "D",
+  "5": "C",
+  "6": "D",
+  "7": "B",
+  "8": "B",
+  "9": "B",
+  "10": "C",
+  "11": "A",
+  "12": "C",
+  "13": "D",
+  "14": "A",
+  "15": "D",
+  "16": "D",
+  "17": "C",
+  "18": "A",
+  "19": "D",
+  "20": "D",
+  "21": "C",
+  "22": "B",
+  "23": "D",
+  "24": "D",
+  "25": "D",
+  "26": "D",
+  "27": "B",
+  "28": "A",
+  "29": "A",
+  "30": "C",
+  "31": "A",
+  "32": "D",
+  "33": "B",
+  "34": "A",
+  "35": "C",
+  "36": "B",
+  "37": "A",
+  "38": "C",
+  "39": "D",
+  "40": "D",
+  "41": "D",
+  "42": "A",
+  "43": "B",
+  "44": "D",
+  "45": "C",
+  "46": "C",
+  "47": "A",
+  "48": "D",
+  "49": "B",
+  "50": "A",
+  "51": "C",
+  "52": "A",
+  "53": "C",
+  "54": "D",
+  "55": "C",
+  "56": "D",
+  "57": "B",
+  "58": "A",
+  "59": "B",
+  "60": "B",
+  "61": "D",
+  "62": "C",
+  "63": "B",
+  "64": "D",
+  "65": "B",
+  "66": "C",
+  "67": "C",
+  "68": "D",
+  "69": "B",
+  "70": "B",
+  "71": "A",
+  "72": "C",
+  "73": "A",
+  "74": "A",
+  "75": "B",
+  "76": "A",
+  "77": "B",
+  "78": "C",
+  "79": "B",
+  "80": "D",
+  "81": "B",
+  "82": "B",
+  "83": "C",
+  "84": "A",
+  "85": "B",
+  "86": "D",
+  "87": "C",
+  "88": "A",
+  "89": "A",
+  "90": "C",
+  "91": "B",
+  "92": "C",
+  "93": "B",
+  "94": "D",
+  "95": "B",
+  "96": "C",
+  "97": "A",
+  "98": "C",
+  "99": "B",
+  "100": "A",
+  "101": "C",
+  "102": "A",
+  "103": "B",
+  "104": "B",
+  "105": "D",
+  "106": "B",
+  "107": "C",
+  "108": "A",
+  "109": "B",
+  "110": "A",
+  "111": "C",
+  "112": "B",
+  "113": "D",
+  "114": "D",
+  "115": "B",
+  "116": "C",
+  "117": "C",
+  "118": "A",
+  "119": "C",
+  "120": "C",
+  "121": "C",
+  "122": "C",
+  "123": "D",
+  "124": "A",
+  "125": "A",
+  "126": "C",
+  "127": "B",
+  "128": "D",
+  "129": "A",
+  "130": "A",
+  "131": "B",
+  "132": "D",
+  "133": "D",
+  "134": "B",
+  "135": "D",
+  "136": "C",
+  "137": "D",
+  "138": "D",
+  "139": "B",
+  "140": "A",
+  "141": "D",
+  "142": "D",
+  "143": "A",
+  "144": "A",
+  "145": "B",
+  "146": "C",
+  "147": "D",
+  "148": "B",
+  "149": "C",
+  "150": "B",
+  "151": "D",
+  "152": "C",
+  "153": "C",
+  "154": "A",
+  "155": "D",
+  "156": "B",
+  "157": "C",
+  "158": "C",
+  "159": "B",
+  "160": "A",
+  "161": "A",
+  "162": "A",
+  "163": "D",
+  "164": "A",
+  "165": "D",
+  "166": "A",
+  "167": "C",
+  "168": "C",
+  "169": "D",
+  "170": "C",
+  "171": "A",
+  "172": "A",
+  "173": "D",
+  "174": "C",
+  "175": "B",
+  "176": "C",
+  "177": "C",
+  "178": "B",
+  "179": "B",
+  "180": "B",
+  "181": "C",
+  "182": "B",
+  "183": "A",
+  "184": "B",
+  "185": "D",
+  "186": "D",
+  "187": "B",
+  "188": "A",
+  "189": "B",
+  "190": "C",
+  "191": "A",
+  "192": "D",
+  "193": "D",
+  "194": "A",
+  "195": "C",
+  "196": "D",
+  "197": "B",
+  "198": "C",
+  "199": "C",
+  "200": "A",
+  "201": "C",
+  "202": "D",
+  "203": "D",
+  "204": "A",
+  "205": "D",
+  "206": "B",
+  "207": "D",
+  "208": "A",
+  "209": "D",
+  "210": "B",
+  "211": "C",
+  "212": "D",
+  "213": "C",
+  "214": "C",
+  "215": "A",
+  "216": "C",
+  "217": "B",
+  "218": "C",
+  "219": "B",
+  "220": "B",
+  "221": "D",
+  "222": "D",
+  "223": "C",
+  "224": "C",
+  "225": "A",
+  "226": "A",
+  "227": "B",
+  "228": "A",
+  "229": "C",
+  "230": "D",
+  "231": "C",
+  "232": "C",
+  "233": "B",
+  "234": "D",
+  "235": "C",
+  "236": "B",
+  "237": "B",
+  "238": "C",
+  "239": "B",
+  "240": "A",
+  "241": "A",
+  "242": "C",
+  "243": "D",
+  "244": "A",
+  "245": "A",
+  "246": "C",
+  "247": "D",
+  "248": "D",
+  "249": "D",
+  "250": "C",
+  "251": "B",
+  "252": "B",
+  "253": "B",
+  "254": "C",
+  "255": "B",
+  "256": "C",
+  "257": "C",
+  "258": "B",
+  "259": "D",
+  "260": "A",
+  "261": "A",
+  "262": "C",
+  "263": "D",
+  "264": "C",
+  "265": "D",
+  "266": "A",
+  "267": "A",
+  "268": "A",
+  "269": "D",
+  "270": "A",
+  "271": "C",
+  "272": "D",
+  "273": "D",
+  "274": "B",
+  "275": "B",
+  "276": "C",
+  "277": "C",
+  "278": "C",
+  "279": "A",
+  "280": "A",
+  "281": "D",
+  "282": "B",
+  "283": "B",
+  "284": "C",
+  "285": "B",
+  "286": "B",
+  "287": "B",
+  "288": "D",
+  "289": "A",
+  "290": "D",
+  "291": "B",
+  "292": "B",
+  "293": "D",
+  "294": "B",
+  "295": "D",
+  "296": "D",
+  "297": "B",
+  "298": "C",
+  "299": "B",
+  "300": "B",
+  "301": "C",
+  "302": "A",
+  "303": "A",
+  "304": "D",
+  "305": "D",
+  "306": "A",
+  "307": "D",
+  "308": "C",
+  "309": "C",
+  "310": "C",
+  "311": "A",
+  "312": "A",
+  "313": "B",
+  "314": "B",
+  "315": "B",
+  "316": "B",
+  "317": "C",
+  "318": "A",
+  "319": "C",
+  "320": "C",
+  "321": "B",
+  "322": "A",
+  "323": "A",
+  "324": "A",
+  "325": "D",
+  "326": "A",
+  "327": "B",
+  "328": "C",
+  "329": "A",
+  "330": "C",
+  "331": "C",
+  "332": "B",
+  "333": "D",
+  "334": "C",
+  "335": "C",
+  "336": "D",
+  "337": "C",
+  "338": "A",
+  "339": "C",
+  "340": "D",
+  "341": "D",
+  "342": "A",
+  "343": "D",
+  "344": "B",
+  "345": "C",
+  "346": "D",
+  "347": "C",
+  "348": "A",
+  "349": "B",
+  "350": "D",
+  "351": "A",
+  "352": "A",
+  "353": "D",
+  "354": "A",
+  "355": "A",
+  "356": "B",
+  "357": "C",
+  "358": "C",
+  "359": "C",
+  "360": "A",
+  "361": "C",
+  "362": "C",
+  "363": "B",
+  "364": "C",
+  "365": "B",
+  "366": "B",
+  "367": "C",
+  "368": "C",
+  "369": "D",
+  "370": "C",
+  "371": "B",
+  "372": "D",
+  "373": "A",
+  "374": "D",
+  "375": "A"
+ }
+}
