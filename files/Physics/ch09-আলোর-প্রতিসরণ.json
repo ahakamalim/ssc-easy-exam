@@ -1,7 +1,7134 @@
 {
-  "subject": "পদার্থবিজ্ঞান",
-  "chapterNo": 9,
-  "chapter": "আলোর প্রতিসরণ",
-  "questions": [],
-  "answerBox": {}
+ "subject": "পদার্থবিজ্ঞান",
+ "chapterNo": 9,
+ "chapter": "আলোর প্রতিসরণ",
+ "questions": [
+  {
+   "question": "তারার আলো বায়ুমণ্ডলে —",
+   "options": {
+    "A": "বারবার প্রতিসরিত হয়",
+    "B": "প্রতিফলিত হয়",
+    "C": "শোষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "আপেক্ষিক প্রতিসরাঙ্ক n₁₂ = ?",
+   "options": {
+    "A": "n₂/n₁",
+    "B": "n₁/n₂",
+    "C": "n₁n₂",
+    "D": "n₁+n₂"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "অপটিক্যাল ফাইবার দিয়ে —",
+   "options": {
+    "A": "উচ্চগতির ইন্টারনেট",
+    "B": "ধীর ইন্টারনেট",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "অবতল লেন্স কাকে বলে?",
+   "options": {
+    "A": "কিনারায় মোটা",
+    "B": "মাঝখানে মোটা",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "উত্তল লেন্সের ক্ষমতা —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "ঋণাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "বেগুনি রঙের তরঙ্গদৈর্ঘ্য —",
+   "options": {
+    "A": "সবচেয়ে কম",
+    "B": "সবচেয়ে বেশি",
+    "C": "মাঝারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "আলোর প্রতিসরণ একটি —",
+   "options": {
+    "A": "তরঙ্গের ধর্ম",
+    "B": "কণার ধর্ম",
+    "C": "উভয়ের",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "পানির প্রতিসরাঙ্ক ১.৩৩ — আলোর বেগ পানিতে —",
+   "options": {
+    "A": "বাতাসের ৩/৪",
+    "B": "১.৩৩ গুণ",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "এন্ডোস্কোপে আলো —",
+   "options": {
+    "A": "ফাইবারে যায়",
+    "B": "তার দিয়ে",
+    "C": "বাতাসে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "উত্তল লেন্সকে কী বলা হয়?",
+   "options": {
+    "A": "অভিসারী লেন্স",
+    "B": "অপসারী লেন্স",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "ক্ষীণদৃষ্টিতে প্রতিবিম্ব গঠিত হয় —",
+   "options": {
+    "A": "রেটিনার পেছনে",
+    "B": "রেটিনার সামনে",
+    "C": "রেটিনায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "প্রতিসরাঙ্ক সবচেয়ে বেশি কোন রঙের?",
+   "options": {
+    "A": "বেগুনি",
+    "B": "লাল",
+    "C": "সবুজ",
+    "D": "হলুদ"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "আলো প্রতিসরণে শক্তি —",
+   "options": {
+    "A": "সংরক্ষিত থাকে",
+    "B": "ধ্বংস হয়",
+    "C": "সৃষ্টি হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "প্রতিসরাঙ্ক ১.৫ মানে —",
+   "options": {
+    "A": "মাধ্যমে আলোর বেগ বাতাসের ১/১.৫",
+    "B": "বেগ ১.৫ গুণ",
+    "C": "বেগ সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "সংকট কোণে প্রতিসরণ কোণ —",
+   "options": {
+    "A": "৯০°",
+    "B": "০°",
+    "C": "৪৫°",
+    "D": "১৮০°"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "লেন্সের ফোকাস দূরত্ব —",
+   "options": {
+    "A": "মেরু থেকে ফোকাস",
+    "B": "কেন্দ্র থেকে ফোকাস",
+    "C": "দুই ফোকাসের দূরত্ব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "উত্তল লেন্সের f = ২৪ সেমি, u = ৪৮ সেমি হলে v কত?",
+   "options": {
+    "A": "৪৮ সেমি",
+    "B": "২৪ সেমি",
+    "C": "৭২ সেমি",
+    "D": "১২ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "বেগুনি আলোর বিচ্যুতি —",
+   "options": {
+    "A": "সবচেয়ে বেশি",
+    "B": "সবচেয়ে কম",
+    "C": "মাঝারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "আপতন কোণ বাড়ালে প্রতিসরণ কোণ —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "পানির প্রতিসরাঙ্ক ১.৩৩ — মানে আলোর বেগ পানিতে বাতাসের —",
+   "options": {
+    "A": "১/১.৩৩ গুণ",
+    "B": "১.৩৩ গুণ",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "n = ২.৪২ হলে সংকট কোণ প্রায় কত?",
+   "options": {
+    "A": "২৪°",
+    "B": "৪২°",
+    "C": "৪৯°",
+    "D": "৬০°"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "অবতল লেন্স আলোকে —",
+   "options": {
+    "A": "ছড়ায়",
+    "B": "মিলিত করে",
+    "C": "শোষণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "অণুবীক্ষণ যন্ত্রে কোন লেন্স?",
+   "options": {
+    "A": "উত্তল",
+    "B": "অবতল",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "বর্ণালীতে লাল রং —",
+   "options": {
+    "A": "সবচেয়ে কম বাঁকে",
+    "B": "সবচেয়ে বেশি বাঁকে",
+    "C": "বাঁকে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "তারা মিটমিট করে কিন্তু গ্রহ করে না — কারণ?",
+   "options": {
+    "A": "তারা বিন্দু, গ্রহ বিস্তৃত",
+    "B": "তারা দূরে",
+    "C": "গ্রহ দূরে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "প্রতিসরাঙ্ক বেশি মাধ্যম আলোকীয়ভাবে —",
+   "options": {
+    "A": "ঘন",
+    "B": "হালকা",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "অপটিক্যাল ফাইবারে তথ্য —",
+   "options": {
+    "A": "আলোর মাধ্যমে যায়",
+    "B": "শব্দে যায়",
+    "C": "তাপে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "উত্তল লেন্সে সমান্তরাল রশ্মি —",
+   "options": {
+    "A": "ফোকাসে মিলিত হয়",
+    "B": "ছড়ায়",
+    "C": "শোষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "আলোক যন্ত্রের মূল উপাদান —",
+   "options": {
+    "A": "লেন্স",
+    "B": "দর্পণ শুধু",
+    "C": "প্রিজম শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "রংধনুতে বাইরের রং —",
+   "options": {
+    "A": "লাল",
+    "B": "বেগুনি",
+    "C": "সবুজ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "প্রতিসরণে আলোর কম্পাঙ্ক —",
+   "options": {
+    "A": "অপরিবর্তিত",
+    "B": "বাড়ে",
+    "C": "কমে",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "আপতন কোণ ৩০° ও প্রতিসরণ কোণ ১৯° হলে প্রতিসরাঙ্ক কত?",
+   "options": {
+    "A": "১.৫",
+    "B": "১.৩৩",
+    "C": "১",
+    "D": "২"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "অপটিক্যাল ফাইবারের গঠন —",
+   "options": {
+    "A": "সরু কাচের তন্তু",
+    "B": "মোটা কাচ",
+    "C": "ধাতব তার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "লেন্সের ফোকাস দূরত্ব f ও বক্রতা ব্যাসার্ধ R হলে —",
+   "options": {
+    "A": "1/f সম্পর্কিত",
+    "B": "f = R",
+    "C": "f = 2R",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "f = ৪০ সেমি উত্তল লেন্সের ক্ষমতা কত?",
+   "options": {
+    "A": "২.৫ ডায়াপ্টার",
+    "B": "০.৪ ডায়াপ্টার",
+    "C": "৪ ডায়াপ্টার",
+    "D": "২৫ ডায়াপ্টার"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "বেগুনি রঙের প্রতিসরাঙ্ক —",
+   "options": {
+    "A": "সবচেয়ে বেশি",
+    "B": "সবচেয়ে কম",
+    "C": "মাঝারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "তারা মিটমিট করে — কারণ?",
+   "options": {
+    "A": "বায়ুর প্রতিসরণের পরিবর্তন",
+    "B": "প্রতিফলন",
+    "C": "তারার তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "আলো হীরায় সবচেয়ে —",
+   "options": {
+    "A": "ধীরে চলে",
+    "B": "দ্রুত চলে",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "আলো পানি থেকে বাতাসে ৫০° কোণে পড়লে (c=৪৯°) —",
+   "options": {
+    "A": "পূর্ণ প্রতিফলন",
+    "B": "প্রতিসরণ",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "অবতল লেন্সকে কী বলা হয়?",
+   "options": {
+    "A": "অপসারী লেন্স",
+    "B": "অভিসারী লেন্স",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "উত্তল লেন্সে বস্তু f ও লেন্সের মাঝে থাকলে প্রতিবিম্ব —",
+   "options": {
+    "A": "অসদ, সোজা, বড়",
+    "B": "সদ, উল্টানো",
+    "C": "সদ, ছোট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "রংধনুর বাইরের দিকে —",
+   "options": {
+    "A": "লাল",
+    "B": "বেগুনি",
+    "C": "সবুজ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "আলোর রং নির্ভর করে —",
+   "options": {
+    "A": "কম্পাঙ্কের উপর",
+    "B": "বেগের উপর",
+    "C": "তরঙ্গদৈর্ঘ্যের উপর শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "আলো ১ নং থেকে ২ নং মাধ্যমে গেলে প্রতিসরাঙ্ক n₁₂ = sin i/sin r —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "হীরার সংকট কোণ ছোট হওয়ায় —",
+   "options": {
+    "A": "বেশি ঝকঝক করে",
+    "B": "কম ঝকঝক করে",
+    "C": "ঝকঝক করে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "অবতল লেন্সের ফোকাস দূরত্ব —",
+   "options": {
+    "A": "ঋণাত্মক",
+    "B": "ধনাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "লেন্সের বিবর্ধন m = ?",
+   "options": {
+    "A": "v/u",
+    "B": "u/v",
+    "C": "vu",
+    "D": "u−v"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "রংধনু দেখা যায় সূর্যের —",
+   "options": {
+    "A": "বিপরীত দিকে",
+    "B": "সামনের দিকে",
+    "C": "যেকোনো দিকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "প্রতিসরণে আলো ঘন মাধ্যমে —",
+   "options": {
+    "A": "ধীরে চলে",
+    "B": "দ্রুত চলে",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "প্রতিসরাঙ্ক কাকে বলে?",
+   "options": {
+    "A": "sin i/sin r",
+    "B": "sin r/sin i",
+    "C": "i/r",
+    "D": "r/i"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "অপটিক্যাল ফাইবারে আলো বাইরে যায় না —",
+   "options": {
+    "A": "পূর্ণ প্রতিফলনে",
+    "B": "প্রতিসরণে",
+    "C": "শোষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "উত্তল লেন্স মাঝখানে মোটা —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "লেন্সের ক্ষমতার একক কী?",
+   "options": {
+    "A": "ডায়াপ্টার",
+    "B": "জুল",
+    "C": "ওয়াট",
+    "D": "মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "বর্ণালীর রংগুলো —",
+   "options": {
+    "A": "লাল থেকে বেগুনি",
+    "B": "বেগুনি থেকে লাল",
+    "C": "এলোমেলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "দিন আসলে ২৪ ঘণ্টার চেয়ে —",
+   "options": {
+    "A": "বেশি মনে হয়",
+    "B": "কম মনে হয়",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "প্রতিসরাঙ্ক ১.২৫ মানে আলোর বেগ —",
+   "options": {
+    "A": "বাতাসের ০.৮ গুণ",
+    "B": "১.২৫ গুণ",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "পূর্ণ অভ্যন্তরীণ প্রতিফলনে আলোর —",
+   "options": {
+    "A": "সম্পূর্ণ প্রতিফলন",
+    "B": "আংশিক",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "উত্তল লেন্স আলোকে ফোকাসে —",
+   "options": {
+    "A": "মিলিত করে",
+    "B": "ছড়ায়",
+    "C": "শোষণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "লেন্সের প্রতিবিম্ব সদ হলে v —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "ঋণাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "বর্ণালীর সাত রং কী?",
+   "options": {
+    "A": "বেগুনি, নীল, আসমানি, সবুজ, হলুদ, কমলা, লাল",
+    "B": "শুধু লাল",
+    "C": "শুধু নীল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "প্রতিসরণে রঙের পরিবর্তন —",
+   "options": {
+    "A": "হয় না",
+    "B": "হয়",
+    "C": "কখনো হয়",
+    "D": "কখনো হয় না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "দুটি মাধ্যমের আপেক্ষিক প্রতিসরাঙ্ক —",
+   "options": {
+    "A": "দুই পরম প্রতিসরাঙ্কের অনুপাত",
+    "B": "একটির প্রতিসরাঙ্ক",
+    "C": "যোগফল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "সংকট কোণের সূত্র কোনটি?",
+   "options": {
+    "A": "sin c = 1/n",
+    "B": "sin c = n",
+    "C": "cos c = 1/n",
+    "D": "c = 1/n"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "অবতল লেন্স কিনারায় মোটা —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "উত্তল লেন্সের f = ১৫ সেমি, u = ৪৫ সেমি হলে v কত?",
+   "options": {
+    "A": "২২.৫ সেমি",
+    "B": "১৫ সেমি",
+    "C": "৩০ সেমি",
+    "D": "৬০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "প্রিজমে আলোর বিচ্যুতি রঙভেদে —",
+   "options": {
+    "A": "ভিন্ন",
+    "B": "একই",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "আলোর প্রতিসরণে তরঙ্গদৈর্ঘ্য ঘন মাধ্যমে —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "প্রতিসরাঙ্ক বেশি মাধ্যমকে কী বলে?",
+   "options": {
+    "A": "ঘন মাধ্যম",
+    "B": "হালকা মাধ্যম",
+    "C": "সম মাধ্যম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "n = ১.৫ হলে সংকট কোণ প্রায় কত?",
+   "options": {
+    "A": "৪২°",
+    "B": "৪৯°",
+    "C": "২৪°",
+    "D": "৬০°"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "লেন্সের আলোক কেন্দ্র কাকে বলে?",
+   "options": {
+    "A": "লেন্সের মধ্যবিন্দু",
+    "B": "ফোকাস",
+    "C": "কেন্দ্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "দূরদৃষ্টি সংশোধনে —",
+   "options": {
+    "A": "অবতল লেন্স",
+    "B": "উত্তল লেন্স",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "দুটি প্রিজম উল্টো করে রাখলে সাদা আলো —",
+   "options": {
+    "A": "পুনরায় সাদা হয়",
+    "B": "রঙিন থাকে",
+    "C": "শোষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "প্রতিসরণের সূত্র কয়টি?",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "৪",
+    "D": "৫"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "কাচ পানির চেয়ে আলোকীয়ভাবে —",
+   "options": {
+    "A": "ঘন",
+    "B": "হালকা",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "পূর্ণ অভ্যন্তরীণ প্রতিফলন ঘটে —",
+   "options": {
+    "A": "শুধু ঘন থেকে হালকা মাধ্যমে",
+    "B": "শুধু হালকা থেকে ঘন",
+    "C": "দুটোই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "উত্তল লেন্সের ফোকাস দূরত্ব —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "ঋণাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "ক্যামেরায় প্রতিবিম্ব —",
+   "options": {
+    "A": "সদ, উল্টানো, ছোট",
+    "B": "অসদ, সোজা",
+    "C": "সদ, বড়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "প্রিজম আলোকে —",
+   "options": {
+    "A": "বিচ্ছুরিত করে",
+    "B": "মিলিত করে",
+    "C": "শোষণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "প্রকৃত গভীরতা ৮ মিটার, n = ১.৩৩ হলে আপাত গভীরতা কত?",
+   "options": {
+    "A": "৬ মিটার",
+    "B": "৮ মিটার",
+    "C": "১০ মিটার",
+    "D": "৪ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "প্রতিসরাঙ্ক কম মাধ্যমকে কী বলে?",
+   "options": {
+    "A": "হালকা মাধ্যম",
+    "B": "ঘন মাধ্যম",
+    "C": "সম মাধ্যম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "অপটিক্যাল ফাইবার ব্যবহৃত হয় —",
+   "options": {
+    "A": "যোগাযোগে",
+    "B": "রান্নায়",
+    "C": "মাপে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "লেন্স কয় প্রকার?",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "৪",
+    "D": "৫"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "দূরদৃষ্টি (myopia) ত্রুটিতে কোন লেন্স?",
+   "options": {
+    "A": "অবতল",
+    "B": "উত্তল",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "বিচ্ছুরণে সাদা আলো —",
+   "options": {
+    "A": "রঙে বিভক্ত হয়",
+    "B": "মিলিত হয়",
+    "C": "শোষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "কাচ থেকে পানিতে আলো গেলে —",
+   "options": {
+    "A": "হালকা মাধ্যমে যায়",
+    "B": "ঘন মাধ্যমে যায়",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "হীরার প্রতিসরাঙ্ক কত?",
+   "options": {
+    "A": "২.৪২",
+    "B": "১.৫",
+    "C": "১.৩৩",
+    "D": "১"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "n = ১.২৫ হলে সংকট কোণ প্রায় কত?",
+   "options": {
+    "A": "৫৩°",
+    "B": "৪২°",
+    "C": "৪৯°",
+    "D": "২৪°"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "উত্তল লেন্সের আলোক কেন্দ্র দিয়ে রশ্মি —",
+   "options": {
+    "A": "সোজা চলে যায়",
+    "B": "বাঁকে",
+    "C": "থামে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "ম্যাগনিফাইং গ্লাসে প্রতিবিম্ব —",
+   "options": {
+    "A": "বড় ও সোজা",
+    "B": "ছোট",
+    "C": "উল্টানো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "সাদা আলো সাত রঙের সমষ্টি প্রমাণ করেন —",
+   "options": {
+    "A": "নিউটন",
+    "B": "হাইগেনস",
+    "C": "স্নেল",
+    "D": "ফার্মা"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "সাঁতার কাটার সময় পুকুরের তল কাছে মনে হয় —",
+   "options": {
+    "A": "প্রতিসরণে",
+    "B": "প্রতিফলনে",
+    "C": "শোষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "আলো শূন্যস্থানে সবচেয়ে —",
+   "options": {
+    "A": "দ্রুত চলে",
+    "B": "ধীরে চলে",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "মরীচিকা (mirage) কী?",
+   "options": {
+    "A": "মরুভূমিতে পানির আভাস",
+    "B": "বৃষ্টি",
+    "C": "কুয়াশা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "অবতল লেন্সে সমান্তরাল রশ্মি —",
+   "options": {
+    "A": "ছড়িয়ে পড়ে",
+    "B": "মিলিত হয়",
+    "C": "শোষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "দূরদৃষ্টিতে প্রতিবিম্ব গঠিত হয় —",
+   "options": {
+    "A": "রেটিনার সামনে",
+    "B": "রেটিনার পেছনে",
+    "C": "রেটিনায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "নিউটনের দ্বিতীয় প্রিজম পরীক্ষায় —",
+   "options": {
+    "A": "সাদা আলো ফিরে আসে",
+    "B": "রং থাকে",
+    "C": "শোষণ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "পানিতে রাখা মুদ্রা —",
+   "options": {
+    "A": "উপরে উঠে দেখা যায়",
+    "B": "নিচে দেখা যায়",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "প্রতিসরাঙ্ক ১.৫ মানে আলোর বেগ সেই মাধ্যমে —",
+   "options": {
+    "A": "বাতাসের ২/৩",
+    "B": "বাতাসের ১.৫ গুণ",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "কাচের সংকট কোণ কত?",
+   "options": {
+    "A": "৪২°",
+    "B": "৪৯°",
+    "C": "২৪°",
+    "D": "৬০°"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "উত্তল লেন্সের অপর নাম —",
+   "options": {
+    "A": "অভিসারী",
+    "B": "অপসারী",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "ক্ষমতা ১০ ডায়াপ্টার মানে ফোকাস দূরত্ব কত?",
+   "options": {
+    "A": "০.১ মিটার",
+    "B": "১০ মিটার",
+    "C": "১ মিটার",
+    "D": "১০০ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "বর্ণালীতে সবচেয়ে বেশি বিচ্যুত রং কোনটি?",
+   "options": {
+    "A": "বেগুনি",
+    "B": "লাল",
+    "C": "সবুজ",
+    "D": "হলুদ"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "আপাত গভীরতা = প্রকৃত গভীরতা / n —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "হীরার প্রতিসরাঙ্ক ২.৪২ হলে আলোর বেগ হীরায় কত?",
+   "options": {
+    "A": "১.২৪×১০⁸",
+    "B": "৩×১০⁸",
+    "C": "২×১০⁸",
+    "D": "১.৫×১০⁸"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "অপটিক্যাল ফাইবারে আলো হারিয়ে যায় না —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "লেন্স কাকে বলে?",
+   "options": {
+    "A": "স্বচ্ছ প্রতিসারক মাধ্যম",
+    "B": "অস্বচ্ছ",
+    "C": "দর্পণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "দূরদৃষ্টি ত্রুটিতে দূরের বস্তুর প্রতিবিম্ব —",
+   "options": {
+    "A": "রেটিনার সামনে",
+    "B": "রেটিনার পেছনে",
+    "C": "রেটিনায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "আলোর বিচ্ছুরণ ব্যাখ্যা করে —",
+   "options": {
+    "A": "প্রতিসরাঙ্ক রঙভেদে ভিন্ন",
+    "B": "প্রতিফলন",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "আলো প্রতিসরণে কম্পাঙ্ক অপরিবর্তিত —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "কাচের প্রতিসরাঙ্ক কত?",
+   "options": {
+    "A": "১.৫",
+    "B": "১",
+    "C": "১.৩৩",
+    "D": "২.৪২"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "মরুভূমিতে পানির আভাস —",
+   "options": {
+    "A": "মরীচিকা",
+    "B": "বৃষ্টি",
+    "C": "কুয়াশা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "লেন্সের প্রধান ফোকাস —",
+   "options": {
+    "A": "সমান্তরাল রশ্মির মিলন বিন্দু",
+    "B": "কেন্দ্র",
+    "C": "মেরু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "উত্তল লেন্সে বস্তু f এ থাকলে প্রতিবিম্ব —",
+   "options": {
+    "A": "অসীমে",
+    "B": "f এ",
+    "C": "2f এ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "রংধনু দেখা যায় —",
+   "options": {
+    "A": "বৃষ্টির পর সূর্যের বিপরীতে",
+    "B": "সূর্যের দিকে",
+    "C": "রাতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "মাছ ধরতে জেলেরা মাছের —",
+   "options": {
+    "A": "নিচে লক্ষ্য করে",
+    "B": "উপরে লক্ষ্য করে",
+    "C": "সোজা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "আলোকীয় ঘনত্ব ও ভরের ঘনত্ব —",
+   "options": {
+    "A": "ভিন্ন ধারণা",
+    "B": "একই",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "অপটিক্যাল ফাইবারে আলো যেতে —",
+   "options": {
+    "A": "শক্তি কম ক্ষয় হয়",
+    "B": "বেশি ক্ষয় হয়",
+    "C": "সব ক্ষয় হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "লেন্সের প্রকার কী?",
+   "options": {
+    "A": "উত্তল ও অবতল",
+    "B": "শুধু উত্তল",
+    "C": "শুধু অবতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "লেন্সের ক্ষমতা (power) P = ?",
+   "options": {
+    "A": "1/f (মিটারে)",
+    "B": "f",
+    "C": "1/f (সেমিতে)",
+    "D": "f²"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "সাদা আলোর বিচ্ছুরণে কয়টি রং পাওয়া যায়?",
+   "options": {
+    "A": "৭",
+    "B": "৫",
+    "C": "৬",
+    "D": "৮"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "প্রতিসরণ ঘটে —",
+   "options": {
+    "A": "মাধ্যম পরিবর্তনে",
+    "B": "একই মাধ্যমে",
+    "C": "শূন্যে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "বাতাসের প্রতিসরাঙ্ক কত?",
+   "options": {
+    "A": "১",
+    "B": "১.৩৩",
+    "C": "১.৫",
+    "D": "২.৪২"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "পানির সংকট কোণ কত?",
+   "options": {
+    "A": "৪৯°",
+    "B": "৪২°",
+    "C": "২৪°",
+    "D": "৬০°"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "অবতল লেন্সের অপর নাম —",
+   "options": {
+    "A": "অপসারী",
+    "B": "অভিসারী",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "উত্তল লেন্সের f —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "ঋণাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "প্রিজমে আলোর বিচ্যুতি —",
+   "options": {
+    "A": "হয়",
+    "B": "হয় না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "প্রতিসরণে কম্পাঙ্ক অপরিবর্তিত তাই রং —",
+   "options": {
+    "A": "অপরিবর্তিত",
+    "B": "বদলায়",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "প্রতিসরাঙ্কের একক কী?",
+   "options": {
+    "A": "এককবিহীন",
+    "B": "মিটার",
+    "C": "হার্জ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "পূর্ণ অভ্যন্তরীণ প্রতিফলন সাধারণ প্রতিফলনের চেয়ে —",
+   "options": {
+    "A": "উজ্জ্বল",
+    "B": "অনুজ্জ্বল",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "উত্তল লেন্স আলোকে —",
+   "options": {
+    "A": "মিলিত করে",
+    "B": "ছড়ায়",
+    "C": "শোষণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "উত্তল লেন্সে দূরের বস্তুর প্রতিবিম্ব —",
+   "options": {
+    "A": "সদ, উল্টানো, ছোট",
+    "B": "অসদ, সোজা",
+    "C": "সদ, বড়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "প্রিজমে আলো —",
+   "options": {
+    "A": "ভিত্তির দিকে বাঁকে",
+    "B": "শীর্ষের দিকে",
+    "C": "সোজা যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "পুকুরের পানি কম গভীর মনে হয় — কারণ?",
+   "options": {
+    "A": "প্রতিসরণ",
+    "B": "প্রতিফলন",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "প্রতিসরাঙ্কের সূত্র n = ?",
+   "options": {
+    "A": "c/v",
+    "B": "v/c",
+    "C": "cv",
+    "D": "c−v"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "গরম রাস্তায় দূরের গাড়ি পানিতে ভাসছে মনে হয় —",
+   "options": {
+    "A": "মরীচিকা",
+    "B": "বৃষ্টি",
+    "C": "কুয়াশা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "উত্তল লেন্স কাকে বলে?",
+   "options": {
+    "A": "মাঝখানে মোটা",
+    "B": "কিনারায় মোটা",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "ক্যামেরার লেন্স —",
+   "options": {
+    "A": "উত্তল",
+    "B": "অবতল",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "লাল রঙের প্রতিসরাঙ্ক —",
+   "options": {
+    "A": "সবচেয়ে কম",
+    "B": "সবচেয়ে বেশি",
+    "C": "মাঝারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "আলো কাচ থেকে বাতাসে গেলে বেগ —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "প্রতিসরাঙ্ক n = c/v এ c কী?",
+   "options": {
+    "A": "শূন্যস্থানে আলোর বেগ",
+    "B": "মাধ্যমে বেগ",
+    "C": "কম্পাঙ্ক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "পূর্ণ অভ্যন্তরীণ প্রতিফলনে শক্তির —",
+   "options": {
+    "A": "ক্ষয় হয় না",
+    "B": "ক্ষয় হয়",
+    "C": "অর্ধেক ক্ষয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "উত্তল লেন্সের f = ৩০ সেমি, u = ৬০ সেমি হলে v কত?",
+   "options": {
+    "A": "৬০ সেমি",
+    "B": "৩০ সেমি",
+    "C": "৯০ সেমি",
+    "D": "১৫ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "প্রিজম কাকে বলে?",
+   "options": {
+    "A": "ত্রিভুজাকার স্বচ্ছ মাধ্যম",
+    "B": "দর্পণ",
+    "C": "লেন্স",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "প্রকৃত গভীরতা d ও আপাত গভীরতা d' হলে n = ?",
+   "options": {
+    "A": "d/d'",
+    "B": "d'/d",
+    "C": "dd'",
+    "D": "d−d'"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "পানির চেয়ে ঘন কিন্তু কাচের চেয়ে হালকা মাধ্যমের প্রতিসরাঙ্ক —",
+   "options": {
+    "A": "১.৩৩ ও ১.৫ এর মাঝে",
+    "B": "১.৩৩ এর কম",
+    "C": "১.৫ এর বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "আলো কাচ থেকে বাতাসে ৪৫° পড়লে (c=৪২°) —",
+   "options": {
+    "A": "পূর্ণ প্রতিফলন",
+    "B": "প্রতিসরণ",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "প্রজেক্টরে প্রতিবিম্ব —",
+   "options": {
+    "A": "বড়, উল্টানো",
+    "B": "ছোট",
+    "C": "সোজা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "রংধনু গঠনের মূল কারণ —",
+   "options": {
+    "A": "বিচ্ছুরণ",
+    "B": "প্রতিফলন শুধু",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "সূর্যোদয়ের ২ মিনিট আগে সূর্য দেখা যায় —",
+   "options": {
+    "A": "প্রতিসরণে",
+    "B": "প্রতিফলনে",
+    "C": "শোষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "পানির প্রতিসরাঙ্ক কত?",
+   "options": {
+    "A": "১.৩৩",
+    "B": "১",
+    "C": "১.৫",
+    "D": "২.৪২"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "গরম মাটি সংলগ্ন বাতাসের ঘনত্ব —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "চশমা কোন নীতিতে কাজ করে?",
+   "options": {
+    "A": "লেন্সের প্রতিসরণ",
+    "B": "প্রতিফলন",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "বর্ণালীতে বেগুনি রং —",
+   "options": {
+    "A": "সবচেয়ে বেশি বাঁকে",
+    "B": "সবচেয়ে কম বাঁকে",
+    "C": "বাঁকে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "আলো কাচ থেকে বাতাসে ৩০° কোণে পড়লে প্রতিসরণ কোণ —",
+   "options": {
+    "A": "৩০° এর বেশি",
+    "B": "৩০° এর কম",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "প্রতিসরাঙ্ক বেশি হলে আলোর বেগ —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "সমান",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "সংকট কোণ কাকে বলে?",
+   "options": {
+    "A": "প্রতিসরণ কোণ ৯০° হওয়ার আপতন কোণ",
+    "B": "আপতন কোণ ৯০°",
+    "C": "প্রতিফলন কোণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "অবতল লেন্সের ক্ষমতা —",
+   "options": {
+    "A": "ঋণাত্মক",
+    "B": "ধনাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "লাল রঙের তরঙ্গদৈর্ঘ্য —",
+   "options": {
+    "A": "সবচেয়ে বেশি",
+    "B": "সবচেয়ে কম",
+    "C": "মাঝারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "আলো অভিলম্ব বরাবর পড়লে প্রতিসরণ —",
+   "options": {
+    "A": "হয় না (সোজা যায়)",
+    "B": "হয়",
+    "C": "বেশি হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "পানির প্রতিসরাঙ্ক ১.৩৩ হলে আলোর বেগ পানিতে কত? (c=৩×১০⁸)",
+   "options": {
+    "A": "২.২৫×১০⁸",
+    "B": "৩×১০⁸",
+    "C": "২×১০⁸",
+    "D": "১.৫×১০⁸"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "হীরা জ্বলজ্বল করে কারণ সংকট কোণ —",
+   "options": {
+    "A": "ছোট",
+    "B": "বড়",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "f = ১০ সেমি উত্তল লেন্সের ক্ষমতা কত?",
+   "options": {
+    "A": "১০ ডায়াপ্টার",
+    "B": "০.১ ডায়াপ্টার",
+    "C": "১ ডায়াপ্টার",
+    "D": "১০০ ডায়াপ্টার"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "আলোর প্রতিসরণে রং —",
+   "options": {
+    "A": "ভিন্নভাবে বেঁকে যায়",
+    "B": "একইভাবে",
+    "C": "বাঁকে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "আলো অভিলম্ব বরাবর পড়লে বাঁকে না —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "কাচের প্রতিসরাঙ্ক ১.৫ হলে আলোর বেগ কাচে কত?",
+   "options": {
+    "A": "২×১০⁸",
+    "B": "৩×১০⁸",
+    "C": "২.২৫×১০⁸",
+    "D": "১.৫×১০⁸"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "সংকট কোণের চেয়ে ছোট আপতন কোণে —",
+   "options": {
+    "A": "প্রতিসরণ",
+    "B": "পূর্ণ প্রতিফলন",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "দূরদৃষ্টি সংশোধনে ব্যবহৃত হয় —",
+   "options": {
+    "A": "অবতল লেন্স",
+    "B": "উত্তল লেন্স",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "রংধনুর কারণ —",
+   "options": {
+    "A": "বিচ্ছুরণ ও প্রতিফলন",
+    "B": "শুধু প্রতিফলন",
+    "C": "শুধু প্রতিসরণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "প্রতিসরণ ও প্রতিফলনের পার্থক্য —",
+   "options": {
+    "A": "মাধ্যম পরিবর্তন",
+    "B": "কোনো পার্থক্য নেই",
+    "C": "দিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "প্রতিসরাঙ্ক মাত্রাহীন রাশি —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "এন্ডোস্কোপ দিয়ে —",
+   "options": {
+    "A": "দেহের ভেতর দেখা যায়",
+    "B": "বাইরে দেখা যায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "দূরদৃষ্টি চশমার পাওয়ার —",
+   "options": {
+    "A": "ঋণাত্মক",
+    "B": "ধনাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "রংধনুতে ভেতরের রং —",
+   "options": {
+    "A": "বেগুনি",
+    "B": "লাল",
+    "C": "সবুজ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "আপতন কোণ ০° হলে প্রতিসরণ কোণ —",
+   "options": {
+    "A": "০°",
+    "B": "৯০°",
+    "C": "৪৫°",
+    "D": "১৮০°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "হীরার প্রতিসরাঙ্ক সবচেয়ে বেশি —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "আলো পানি থেকে বাতাসে ৪০° কোণে পড়লে (c=৪৯°) —",
+   "options": {
+    "A": "প্রতিসরণ",
+    "B": "পূর্ণ প্রতিফলন",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "চশমার পাওয়ার লেখা হয় —",
+   "options": {
+    "A": "ডায়াপ্টারে",
+    "B": "মিটারে",
+    "C": "জুলে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "প্রিজমে সাদা আলো ঢুকলে —",
+   "options": {
+    "A": "সাত রং বের হয়",
+    "B": "এক রং",
+    "C": "শোষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "আপাত গভীরতা ৩ মিটার, n = ১.৩৩ হলে প্রকৃত গভীরতা কত?",
+   "options": {
+    "A": "৪ মিটার",
+    "B": "৩ মিটার",
+    "C": "২ মিটার",
+    "D": "৫ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "হীরা সবচেয়ে আলোকীয়ভাবে —",
+   "options": {
+    "A": "ঘন",
+    "B": "হালকা",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "সংকট কোণে আপতন কোণ সমান হলে প্রতিসরণ কোণ —",
+   "options": {
+    "A": "৯০°",
+    "B": "০°",
+    "C": "৪৫°",
+    "D": "১৮০°"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "f = ৩৩.৩ সেমি উত্তল লেন্সের ক্ষমতা কত?",
+   "options": {
+    "A": "৩ ডায়াপ্টার",
+    "B": "০.৩ ডায়াপ্টার",
+    "C": "৩৩ ডায়াপ্টার",
+    "D": "০.০৩ ডায়াপ্টার"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "রংধনুতে কয়টি রং?",
+   "options": {
+    "A": "৭",
+    "B": "৫",
+    "C": "৬",
+    "D": "৮"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "পানির নিচের মাছ আসল অবস্থানের চেয়ে উপরে দেখা যায় —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "প্রতিসরাঙ্ক n = c/v এ v কী?",
+   "options": {
+    "A": "মাধ্যমে আলোর বেগ",
+    "B": "শূন্যস্থানে বেগ",
+    "C": "কম্পাঙ্ক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরাঙ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "পূর্ণ অভ্যন্তরীণ প্রতিফলনের শর্ত —",
+   "options": {
+    "A": "ঘন→হালকা, i > c",
+    "B": "হালকা→ঘন",
+    "C": "i < c",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "ক্ষমতা ২ ডায়াপ্টার মানে ফোকাস দূরত্ব কত?",
+   "options": {
+    "A": "০.৫ মিটার",
+    "B": "২ মিটার",
+    "C": "০.২ মিটার",
+    "D": "৫০ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "বৃষ্টির ফোঁটা প্রিজমের মতো কাজ করে —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "আপতন কোণ কমালে প্রতিসরণ কোণ —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "হীরা ঝকঝক করে — কারণ?",
+   "options": {
+    "A": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+    "B": "প্রতিসরণ",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "উত্তল লেন্সের f = ১২ সেমি, u = ২৪ সেমি হলে v কত?",
+   "options": {
+    "A": "২৪ সেমি",
+    "B": "১২ সেমি",
+    "C": "৩৬ সেমি",
+    "D": "৬ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "লাল আলোর বিচ্যুতি —",
+   "options": {
+    "A": "সবচেয়ে কম",
+    "B": "সবচেয়ে বেশি",
+    "C": "মাঝারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "কাচের স্ল্যাবে আলো প্রতিসরিত হয়ে —",
+   "options": {
+    "A": "সমান্তরাল সরে যায়",
+    "B": "বেঁকে যায়",
+    "C": "থেমে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "পূর্ণ অভ্যন্তরীণ প্রতিফলনের শর্ত কী?",
+   "options": {
+    "A": "ঘন থেকে হালকা মাধ্যমে, কোণ > সংকট কোণ",
+    "B": "হালকা থেকে ঘন",
+    "C": "যেকোনো কোণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "f = ৫০ সেমি উত্তল লেন্সের ক্ষমতা কত?",
+   "options": {
+    "A": "২ ডায়াপ্টার",
+    "B": "৫ ডায়াপ্টার",
+    "C": "০.৫ ডায়াপ্টার",
+    "D": "২০ ডায়াপ্টার"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "প্রিজমে আলো ঢুকে ও বের হয়ে —",
+   "options": {
+    "A": "দুইবার প্রতিসরিত হয়",
+    "B": "একবার",
+    "C": "তিনবার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "আলোর প্রতিসরণে কম্পাঙ্ক —",
+   "options": {
+    "A": "অপরিবর্তিত",
+    "B": "বাড়ে",
+    "C": "কমে",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "পানির সংকট কোণ ৪৯° — ৫০° আপতন কোণে কী ঘটবে?",
+   "options": {
+    "A": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+    "B": "প্রতিসরণ",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "দূরদৃষ্টিতে দূরের বস্তু —",
+   "options": {
+    "A": "পরিষ্কার দেখা যায় না",
+    "B": "কাছে দেখা যায়",
+    "C": "পরিষ্কার দেখা যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "সূর্যের আলো সাদা —",
+   "options": {
+    "A": "সাত রঙের মিশ্রণ",
+    "B": "এক রং",
+    "C": "দুই রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "মাছ পানির নিচে যে অবস্থানে থাকে তার চেয়ে —",
+   "options": {
+    "A": "উপরে দেখা যায়",
+    "B": "নিচে দেখা যায়",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "প্রতিসরাঙ্ক বেশি হলে সংকট কোণ —",
+   "options": {
+    "A": "ছোট",
+    "B": "বড়",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "টেলিস্কোপে কোন লেন্স?",
+   "options": {
+    "A": "উত্তল",
+    "B": "অবতল",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "প্রতিসরাঙ্ক সবচেয়ে কম কোন রঙের?",
+   "options": {
+    "A": "লাল",
+    "B": "বেগুনি",
+    "C": "সবুজ",
+    "D": "হলুদ"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "পানির গ্লাসে পেন্সিল —",
+   "options": {
+    "A": "ভাঙা দেখায়",
+    "B": "সোজা দেখায়",
+    "C": "লম্বা দেখায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "ফাইবার অপটিক যোগাযোগে —",
+   "options": {
+    "A": "আলো ব্যবহৃত হয়",
+    "B": "শব্দ",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "উত্তল লেন্সের f = ১০ সেমি, u = ১৫ সেমি হলে v কত?",
+   "options": {
+    "A": "৩০ সেমি",
+    "B": "১৫ সেমি",
+    "C": "২৫ সেমি",
+    "D": "৫ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "নিউটন সাদা আলোর বিচ্ছুরণ প্রমাণ করেন —",
+   "options": {
+    "A": "প্রিজমে",
+    "B": "দর্পণে",
+    "C": "লেন্সে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "প্রতিসরণের ১ম সূত্র কী?",
+   "options": {
+    "A": "আপতিত, প্রতিসৃত ও অভিলম্ব একই সমতলে",
+    "B": "ভিন্ন সমতলে",
+    "C": "কোনো সূত্র নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "sin c = 1/n এ n বাড়লে c —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "দূরবীক্ষণ যন্ত্রে —",
+   "options": {
+    "A": "উত্তল লেন্স",
+    "B": "অবতল লেন্স",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "প্রিজমে আলো কতবার প্রতিসরিত হয়?",
+   "options": {
+    "A": "২",
+    "B": "১",
+    "C": "৩",
+    "D": "৪"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "আলো বাতাস থেকে কাচে ৩০° কোণে পড়লে প্রতিসরণ কোণ —",
+   "options": {
+    "A": "৩০° এর কম",
+    "B": "৩০° এর বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "প্রতিসরাঙ্ক বেশি মাধ্যমের সংকট কোণ —",
+   "options": {
+    "A": "ছোট",
+    "B": "বড়",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "লেন্সের ক্ষমতা ৪ ডায়াপ্টার মানে f = ?",
+   "options": {
+    "A": "০.২৫ মিটার",
+    "B": "৪ মিটার",
+    "C": "০.৪ মিটার",
+    "D": "২৫ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "রংধনুর রং —",
+   "options": {
+    "A": "সাতটি",
+    "B": "পাঁচটি",
+    "C": "ছয়টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "বায়ুমণ্ডল আলোকে —",
+   "options": {
+    "A": "প্রতিসরিত করে",
+    "B": "প্রতিফলিত করে",
+    "C": "শোষণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "চিকিৎসায় এন্ডোস্কোপ দিয়ে —",
+   "options": {
+    "A": "পাকস্থলী দেখা যায়",
+    "B": "বাইরে দেখা",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "পাতলা লেন্সের ক্ষমতা P = 1/f — f নিতে হয় —",
+   "options": {
+    "A": "মিটারে",
+    "B": "সেমিতে",
+    "C": "মিমিতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "প্রিজমে আলো ভিত্তির দিকে —",
+   "options": {
+    "A": "বাঁকে",
+    "B": "শীর্ষের দিকে",
+    "C": "সোজা যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "গ্রহ মিটমিট করে না কারণ গ্রহ —",
+   "options": {
+    "A": "বিস্তৃত (বিন্দু নয়)",
+    "B": "দূরে",
+    "C": "ছোট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "মরীচিকায় দূরের বস্তু —",
+   "options": {
+    "A": "পানির মতো দেখা যায়",
+    "B": "উল্টো দেখা যায়",
+    "C": "দেখা যায় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "f = ২০ সেমি উত্তল লেন্সের ক্ষমতা কত?",
+   "options": {
+    "A": "৫ ডায়াপ্টার",
+    "B": "২ ডায়াপ্টার",
+    "C": "০.৫ ডায়াপ্টার",
+    "D": "২০ ডায়াপ্টার"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "সাদা আলো প্রিজমে ঢুকলে প্রথমে —",
+   "options": {
+    "A": "প্রতিসরণ",
+    "B": "প্রতিফলন",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "সূর্যোদয়ের আগেই সূর্য দেখা যায় — কারণ?",
+   "options": {
+    "A": "প্রতিসরণ",
+    "B": "প্রতিফলন",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "মরীচিকার কারণ —",
+   "options": {
+    "A": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+    "B": "প্রতিসরণ",
+    "C": "প্রতিফলন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "উত্তল লেন্সে বস্তু 2f এ থাকলে প্রতিবিম্ব —",
+   "options": {
+    "A": "2f এ, সমান, উল্টানো",
+    "B": "f এ",
+    "C": "অসীমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "বেগুনি রঙের বেগ —",
+   "options": {
+    "A": "সবচেয়ে কম",
+    "B": "সবচেয়ে বেশি",
+    "C": "মাঝারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "আলো বাতাস থেকে কাচে গেলে বেগ —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "এন্ডোস্কোপে কোন নীতি?",
+   "options": {
+    "A": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+    "B": "প্রতিসরণ",
+    "C": "প্রতিফলন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "অবতল লেন্সে প্রতিবিম্ব —",
+   "options": {
+    "A": "সবসময় অসদ, ছোট, সোজা",
+    "B": "সদ",
+    "C": "বড়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "বর্ণালীতে সবচেয়ে কম বিচ্যুত রং কোনটি?",
+   "options": {
+    "A": "লাল",
+    "B": "বেগুনি",
+    "C": "সবুজ",
+    "D": "হলুদ"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "আলো হালকা থেকে ঘন মাধ্যমে গেলে প্রতিসরণ কোণ আপতন কোণের চেয়ে —",
+   "options": {
+    "A": "ছোট",
+    "B": "বড়",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "ফাইবার অপটিক ক্যাবলে তথ্য যায় —",
+   "options": {
+    "A": "আলোর স্পন্দনে",
+    "B": "শব্দে",
+    "C": "তাপে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "উত্তল লেন্সের f = ১০ সেমি, u = ২০ সেমি হলে v কত?",
+   "options": {
+    "A": "২০ সেমি",
+    "B": "১০ সেমি",
+    "C": "৩০ সেমি",
+    "D": "৫ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "সাদা আলো প্রিজমে সাত রং —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "বায়ুমণ্ডলের প্রতিসরণে দিন —",
+   "options": {
+    "A": "প্রায় ৪ মিনিট লম্বা হয়",
+    "B": "ছোট হয়",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "n = ১.৩৩ হলে সংকট কোণ প্রায় কত?",
+   "options": {
+    "A": "৪৯°",
+    "B": "৪২°",
+    "C": "২৪°",
+    "D": "৬০°"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "উত্তল লেন্সে কাছে বস্তুর প্রতিবিম্ব —",
+   "options": {
+    "A": "অসদ, সোজা, বড়",
+    "B": "সদ, উল্টানো",
+    "C": "সদ, ছোট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "সাদা আলো প্রিজমে গেলে —",
+   "options": {
+    "A": "সাত রঙে বিভক্ত হয়",
+    "B": "এক রং হয়",
+    "C": "শোষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "সূর্যাস্তের ২ মিনিট পর সূর্য দেখা যায় —",
+   "options": {
+    "A": "প্রতিসরণে",
+    "B": "প্রতিফলনে",
+    "C": "শোষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "হীরার সংকট কোণ সবচেয়ে ছোট —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "ক্ষীণদৃষ্টির চশমার পাওয়ার —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "ঋণাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "পানির ফোঁটায় সূর্যের আলো —",
+   "options": {
+    "A": "বিচ্ছুরিত হয়",
+    "B": "শোষিত হয়",
+    "C": "মিলিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "আপাত গভীরতা ২.৫ মিটার, n = ১.২৫ হলে প্রকৃত গভীরতা কত?",
+   "options": {
+    "A": "৩.১২৫ মিটার",
+    "B": "২.৫ মিটার",
+    "C": "২ মিটার",
+    "D": "৪ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "সংকট কোণ ছোট হলে পূর্ণ অভ্যন্তরীণ প্রতিফলনের সম্ভাবনা —",
+   "options": {
+    "A": "বেশি",
+    "B": "কম",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "উত্তল লেন্সের ফোকাস দূরত্ব ২৫ সেমি হলে ক্ষমতা কত?",
+   "options": {
+    "A": "৪ ডায়াপ্টার",
+    "B": "০.২৫ ডায়াপ্টার",
+    "C": "২৫ ডায়াপ্টার",
+    "D": "০.০৪ ডায়াপ্টার"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "বৃষ্টির ফোঁটা আলোকে —",
+   "options": {
+    "A": "বিচ্ছুরিত করে",
+    "B": "শোষণ করে",
+    "C": "মিলিত করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "সমান্তরাল কাচের স্ল্যাব থেকে আলো বের হলে দিক —",
+   "options": {
+    "A": "আগের দিকের সমান্তরাল",
+    "B": "লম্ব",
+    "C": "বিপরীত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "ডাক্তারি পরীক্ষায় এন্ডোস্কোপ ব্যবহৃত হয় —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "লেন্স সূত্র কোনটি?",
+   "options": {
+    "A": "1/v − 1/u = 1/f",
+    "B": "1/v + 1/u = 1/f",
+    "C": "v − u = f",
+    "D": "v + u = f"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "আলোর বিচ্ছুরণ ঘটে —",
+   "options": {
+    "A": "প্রিজমে",
+    "B": "দর্পণে",
+    "C": "শোষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "আলোর প্রতিসরণের কারণ কী?",
+   "options": {
+    "A": "মাধ্যমের বেগের পরিবর্তন",
+    "B": "মাধ্যমের রং",
+    "C": "মাধ্যমের তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "হীরার সংকট কোণ কত?",
+   "options": {
+    "A": "২৪°",
+    "B": "৪২°",
+    "C": "৪৯°",
+    "D": "৬০°"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "অবতল লেন্সে বস্তু যেখানেই থাকুক প্রতিবিম্ব —",
+   "options": {
+    "A": "অসদ, সোজা, ছোট",
+    "B": "সদ, উল্টানো",
+    "C": "সদ, বড়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "রংধনু গঠনে —",
+   "options": {
+    "A": "বিচ্ছুরণ, প্রতিসরণ, প্রতিফলন",
+    "B": "শুধু প্রতিফলন",
+    "C": "শুধু প্রতিসরণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "পানির নিচ থেকে আকাশ দেখা যায় —",
+   "options": {
+    "A": "সরু কোণে",
+    "B": "চওড়া কোণে",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "হীরা ঝকঝকে কারণ —",
+   "options": {
+    "A": "বেশি পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+    "B": "কম প্রতিফলন",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "ক্ষীণদৃষ্টি সংশোধনে ব্যবহৃত হয় —",
+   "options": {
+    "A": "উত্তল লেন্স",
+    "B": "অবতল লেন্স",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "রংধনু কী?",
+   "options": {
+    "A": "বৃষ্টির ফোঁটায় বিচ্ছুরণ",
+    "B": "প্রতিফলন",
+    "C": "প্রতিসরণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "প্রতিসরণের কারণে পানির তল —",
+   "options": {
+    "A": "উপরে উঠে দেখা যায়",
+    "B": "নিচে নামে",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "অপটিক্যাল ফাইবারে আলো —",
+   "options": {
+    "A": "বারবার প্রতিফলিত হয়ে চলে",
+    "B": "শোষিত হয়",
+    "C": "ছড়ায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "উত্তল লেন্সের ফোকাস দূরত্ব ২০ সেমি হলে ক্ষমতা কত?",
+   "options": {
+    "A": "৫ ডায়াপ্টার",
+    "B": "০.০৫ ডায়াপ্টার",
+    "C": "২০ ডায়াপ্টার",
+    "D": "০.২ ডায়াপ্টার"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "লাল রঙের বেগ —",
+   "options": {
+    "A": "সবচেয়ে বেশি",
+    "B": "সবচেয়ে কম",
+    "C": "মাঝারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "প্রতিফলনে আলো ফিরে আসে, প্রতিসরণে —",
+   "options": {
+    "A": "ভেদ করে যায়",
+    "B": "ফিরে আসে",
+    "C": "শোষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "sin c = 1/n সূত্রে c কী?",
+   "options": {
+    "A": "সংকট কোণ",
+    "B": "আপতন কোণ",
+    "C": "প্রতিফলন কোণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "দূরদৃষ্টির চশমার পাওয়ার —",
+   "options": {
+    "A": "ঋণাত্মক",
+    "B": "ধনাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "সাদা আলো আসলে —",
+   "options": {
+    "A": "সাত রঙের মিশ্রণ",
+    "B": "এক রং",
+    "C": "দুই রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "পানির আপাত গভীরতা ৩ মিটার হলে প্রকৃত গভীরতা কত? (n=১.৩৩)",
+   "options": {
+    "A": "৪ মিটার",
+    "B": "৩ মিটার",
+    "C": "২ মিটার",
+    "D": "৫ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "কাচের সংকট কোণ ৪২° — ৪০° আপতন কোণে কী ঘটবে?",
+   "options": {
+    "A": "প্রতিসরণ",
+    "B": "পূর্ণ প্রতিফলন",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "ম্যাগনিফাইং গ্লাসে বস্তু —",
+   "options": {
+    "A": "ফোকাস ও লেন্সের মাঝে রাখা হয়",
+    "B": "দূরে রাখা হয়",
+    "C": "2f এ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "রংধনুতে রঙের ক্রম —",
+   "options": {
+    "A": "বেগুনি...লাল (ভেতর থেকে)",
+    "B": "লাল...বেগুনি",
+    "C": "এলোমেলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রিজম",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "প্রতিসরণের ফলে সূর্যাস্তের সময় সূর্য —",
+   "options": {
+    "A": "আকাশে থাকতেও দেখা যায়",
+    "B": "নিচে",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "সাধারণ প্রতিফলনে শক্তির কিছু —",
+   "options": {
+    "A": "ক্ষয় হয়",
+    "B": "ক্ষয় হয় না",
+    "C": "বাড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "f = ১০০ সেমি উত্তল লেন্সের ক্ষমতা কত?",
+   "options": {
+    "A": "১ ডায়াপ্টার",
+    "B": "১০ ডায়াপ্টার",
+    "C": "০.১ ডায়াপ্টার",
+    "D": "১০০ ডায়াপ্টার"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "পানিতে রাখা মুদ্রা উপরে দেখা যায় —",
+   "options": {
+    "A": "প্রতিসরণে",
+    "B": "প্রতিফলনে",
+    "C": "শোষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "অপটিক্যাল ফাইবারের সুবিধা —",
+   "options": {
+    "A": "উচ্চগতি, কম ক্ষয়",
+    "B": "ধীর",
+    "C": "বেশি ক্ষয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "ক্ষীণদৃষ্টি ত্রুটিতে কাছে বস্তুর প্রতিবিম্ব —",
+   "options": {
+    "A": "রেটিনার পেছনে",
+    "B": "রেটিনার সামনে",
+    "C": "রেটিনায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "খালি গ্লাসে মুদ্রা দেখা যায় না কিন্তু পানি ঢাললে দেখা যায় —",
+   "options": {
+    "A": "প্রতিসরণে",
+    "B": "প্রতিফলনে",
+    "C": "শোষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "আলো কাচ থেকে বাতাসে ৩০° পড়লে (c=৪২°) —",
+   "options": {
+    "A": "প্রতিসরণ",
+    "B": "পূর্ণ প্রতিফলন",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "উত্তল লেন্সের f = ১৫ সেমি, u = ৩০ সেমি হলে v কত?",
+   "options": {
+    "A": "৩০ সেমি",
+    "B": "১৫ সেমি",
+    "C": "৪৫ সেমি",
+    "D": "১০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "জেলেরা মাছ মারতে —",
+   "options": {
+    "A": "মাছের নিচে বর্শা নিক্ষেপ করে",
+    "B": "উপরে",
+    "C": "সোজা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "পূর্ণ অভ্যন্তরীণ প্রতিফলন কাকে বলে?",
+   "options": {
+    "A": "ঘন থেকে হালকা মাধ্যমে আলোর সম্পূর্ণ প্রতিফলন",
+    "B": "আংশিক প্রতিফলন",
+    "C": "প্রতিসরণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "উত্তল লেন্সের ফোকাস দূরত্ব ৫০ সেমি হলে ক্ষমতা কত?",
+   "options": {
+    "A": "২ ডায়াপ্টার",
+    "B": "০.৫ ডায়াপ্টার",
+    "C": "৫০ ডায়াপ্টার",
+    "D": "০.০২ ডায়াপ্টার"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "পুকুরের পানি আসলে যত গভীর, দেখায় তার চেয়ে —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "সংকট কোণের চেয়ে বড় আপতন কোণে —",
+   "options": {
+    "A": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+    "B": "প্রতিসরণ",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "মানুষের চোখের লেন্স —",
+   "options": {
+    "A": "উত্তল",
+    "B": "অবতল",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "বায়ুমণ্ডলে প্রতিসরণের ফলে সূর্য —",
+   "options": {
+    "A": "উপরে দেখা যায়",
+    "B": "নিচে দেখা যায়",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "অপটিক্যাল ফাইবার কোন নীতিতে কাজ করে?",
+   "options": {
+    "A": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+    "B": "প্রতিসরণ",
+    "C": "প্রতিফলন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "ক্ষীণদৃষ্টি (hypermetropia) ত্রুটিতে কোন লেন্স?",
+   "options": {
+    "A": "উত্তল",
+    "B": "অবতল",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "প্রতিসরণে আলোর বেগ —",
+   "options": {
+    "A": "পরিবর্তিত হয়",
+    "B": "অপরিবর্তিত",
+    "C": "শূন্য হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "মরীচিকায় আলো —",
+   "options": {
+    "A": "উপরের দিকে বাঁকে",
+    "B": "নিচের দিকে বাঁকে",
+    "C": "সোজা যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "উত্তল লেন্সে বস্তু অসীমে থাকলে প্রতিবিম্ব —",
+   "options": {
+    "A": "ফোকাসে",
+    "B": "কেন্দ্রে",
+    "C": "অসীমে",
+    "D": "মেরুতে"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "আপাত গভীরতা ২ মিটার, n = ১.৫ হলে প্রকৃত গভীরতা কত?",
+   "options": {
+    "A": "৩ মিটার",
+    "B": "২ মিটার",
+    "C": "১ মিটার",
+    "D": "৪ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "উত্তল লেন্সের f = ২৫ সেমি, u = ৫০ সেমি হলে v কত?",
+   "options": {
+    "A": "৫০ সেমি",
+    "B": "২৫ সেমি",
+    "C": "৭৫ সেমি",
+    "D": "১২.৫ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "বায়ুর ঘনত্বের তারতম্যে আলো —",
+   "options": {
+    "A": "বেঁকে যায়",
+    "B": "সোজা যায়",
+    "C": "থেমে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "অবতল লেন্সে প্রতিবিম্ব সবসময় —",
+   "options": {
+    "A": "অসদ, সোজা, ছোট",
+    "B": "সদ, উল্টানো",
+    "C": "সদ, বড়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "প্রকৃত গভীরতা ৬ মিটার, n = ১.৫ হলে আপাত গভীরতা কত?",
+   "options": {
+    "A": "৪ মিটার",
+    "B": "৬ মিটার",
+    "C": "৯ মিটার",
+    "D": "৩ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "অণুবীক্ষণ যন্ত্রে —",
+   "options": {
+    "A": "উত্তল লেন্স",
+    "B": "অবতল লেন্স",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "আলো হালকা থেকে ঘন মাধ্যমে গেলে প্রতিসরণ কোণ —",
+   "options": {
+    "A": "আপতন কোণের চেয়ে ছোট",
+    "B": "বড়",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "ক্ষমতা ৫ ডায়াপ্টার মানে ফোকাস দূরত্ব কত?",
+   "options": {
+    "A": "০.২ মিটার",
+    "B": "৫ মিটার",
+    "C": "০.৫ মিটার",
+    "D": "২০ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "মাছ পানির নিচে আসল গভীরতার চেয়ে —",
+   "options": {
+    "A": "কম গভীরে দেখা যায়",
+    "B": "বেশি গভীরে",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "অবতল লেন্সের f —",
+   "options": {
+    "A": "ঋণাত্মক",
+    "B": "ধনাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "আলো হালকা মাধ্যমে প্রবেশ করলে অভিলম্ব থেকে —",
+   "options": {
+    "A": "দূরে বেঁকে যায়",
+    "B": "কাছে আসে",
+    "C": "সোজা যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "উত্তল লেন্সের f = ২০ সেমি, u = ৩০ সেমি হলে v কত?",
+   "options": {
+    "A": "৬০ সেমি",
+    "B": "৩০ সেমি",
+    "C": "৫০ সেমি",
+    "D": "১০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "আপাত গভীরতা ও প্রকৃত গভীরতার সম্পর্ক —",
+   "options": {
+    "A": "প্রকৃত > আপাত",
+    "B": "আপাত > প্রকৃত",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "চোখের লেন্স প্রতিসরণে —",
+   "options": {
+    "A": "প্রতিবিম্ব গঠন করে",
+    "B": "আলো শোষণ করে",
+    "C": "আলো প্রতিফলিত করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "প্রতিসরণের ফলে আপাত গভীরতা প্রকৃত গভীরতার চেয়ে —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "উত্তল লেন্সের f = ১৮ সেমি, u = ৩৬ সেমি হলে v কত?",
+   "options": {
+    "A": "৩৬ সেমি",
+    "B": "১৮ সেমি",
+    "C": "৫৪ সেমি",
+    "D": "৯ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "পানি থেকে কাচে আলো গেলে —",
+   "options": {
+    "A": "ঘন মাধ্যমে যায়",
+    "B": "হালকা মাধ্যমে যায়",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "ম্যাগনিফাইং গ্লাস কোন লেন্স?",
+   "options": {
+    "A": "উত্তল",
+    "B": "অবতল",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "স্নেলের সূত্র কোনটি?",
+   "options": {
+    "A": "n = sin i/sin r",
+    "B": "n = sin r/sin i",
+    "C": "n = i/r",
+    "D": "n = r/i"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "ক্যামেরার লেন্স কোনটি?",
+   "options": {
+    "A": "উত্তল",
+    "B": "অবতল",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "আলো ঘন থেকে হালকা মাধ্যমে গেলে প্রতিসরণ কোণ আপতন কোণের চেয়ে —",
+   "options": {
+    "A": "বড়",
+    "B": "ছোট",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "লেন্সে সদ প্রতিবিম্ব —",
+   "options": {
+    "A": "উল্টানো",
+    "B": "সোজা",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "মাছ মারতে বর্শা —",
+   "options": {
+    "A": "মাছের নিচে ফেলতে হয়",
+    "B": "উপরে ফেলতে হয়",
+    "C": "সোজা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "উত্তল লেন্সের f = ১০ সেমি, u = ৩০ সেমি হলে v কত?",
+   "options": {
+    "A": "১৫ সেমি",
+    "B": "১০ সেমি",
+    "C": "২০ সেমি",
+    "D": "৪০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "তারা মিটমিট করে —",
+   "options": {
+    "A": "বায়ুর ঘনত্বের পরিবর্তনে",
+    "B": "তারার তাপে",
+    "C": "দূরত্বে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "চোখে প্রতিবিম্ব গঠিত হয় —",
+   "options": {
+    "A": "রেটিনায়",
+    "B": "কর্নিয়ায়",
+    "C": "লেন্সে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "প্রতিসরণের সময় আলোর বেগের পরিবর্তনে —",
+   "options": {
+    "A": "দিক বদলায়",
+    "B": "দিক একই থাকে",
+    "C": "রং বদলায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "উত্তল লেন্সের f = ২০ সেমি, u = ৬০ সেমি হলে v কত?",
+   "options": {
+    "A": "৩০ সেমি",
+    "B": "২০ সেমি",
+    "C": "৪০ সেমি",
+    "D": "৮০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "জেলে মাছকে যে অবস্থানে দেখে তার —",
+   "options": {
+    "A": "নিচে মাছ থাকে",
+    "B": "উপরে মাছ থাকে",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "লেন্সের ক্ষমতা ০.৫ ডায়াপ্টার মানে f = ?",
+   "options": {
+    "A": "২ মিটার",
+    "B": "০.৫ মিটার",
+    "C": "৫ মিটার",
+    "D": "২০ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "প্রতিসরণের ফলে পানির গভীরতা —",
+   "options": {
+    "A": "কম মনে হয়",
+    "B": "বেশি মনে হয়",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "আলোক যন্ত্রে লেন্সের ভূমিকা —",
+   "options": {
+    "A": "প্রতিবিম্ব গঠন",
+    "B": "শোষণ",
+    "C": "প্রতিফলন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "আলো পানি থেকে বাতাসে গেলে —",
+   "options": {
+    "A": "অভিলম্ব থেকে দূরে বাঁকে",
+    "B": "অভিলম্বের দিকে",
+    "C": "সোজা যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "লেন্সের প্রতিবিম্ব অসদ হলে v —",
+   "options": {
+    "A": "ঋণাত্মক",
+    "B": "ধনাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "কাচের স্ল্যাবে পার্শ্ব সরণ ঘটে —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "প্রজেক্টরে কোন লেন্স?",
+   "options": {
+    "A": "উত্তল",
+    "B": "অবতল",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "মাছ পানির নিচ থেকে বাইরের পৃথিবী দেখে —",
+   "options": {
+    "A": "সংকুচিত বৃত্তে",
+    "B": "সম্পূর্ণ",
+    "C": "বড়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "লেন্স সূত্রে u সবসময় —",
+   "options": {
+    "A": "ঋণাত্মক",
+    "B": "ধনাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "পানিতে আংশিক ডোবা লাঠি বাঁকা দেখায় — কারণ?",
+   "options": {
+    "A": "প্রতিসরণ",
+    "B": "প্রতিফলন",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "চোখের প্রতিবিম্ব —",
+   "options": {
+    "A": "সদ, উল্টানো, ছোট",
+    "B": "অসদ, সোজা",
+    "C": "সদ, বড়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "আলোর প্রতিসরণ কাকে বলে?",
+   "options": {
+    "A": "আলো এক মাধ্যম থেকে অন্য মাধ্যমে বেঁকে যাওয়া",
+    "B": "আলোর প্রতিফলন",
+    "C": "আলোর শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "চোখের লেন্স কোন ধরনের?",
+   "options": {
+    "A": "উত্তল",
+    "B": "অবতল",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "প্রকৃত গভীরতা ৫ মিটার, n = ১.২৫ হলে আপাত গভীরতা কত?",
+   "options": {
+    "A": "৪ মিটার",
+    "B": "৫ মিটার",
+    "C": "৬.২৫ মিটার",
+    "D": "২.৫ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "ক্ষীণদৃষ্টি চশমার পাওয়ার —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "ঋণাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "পানির নিচ থেকে আকাশ —",
+   "options": {
+    "A": "বৃত্তাকার জানালার মতো দেখা যায়",
+    "B": "সম্পূর্ণ দেখা যায়",
+    "C": "দেখা যায় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "লেন্সে অসদ প্রতিবিম্ব —",
+   "options": {
+    "A": "সোজা",
+    "B": "উল্টানো",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "গ্লাসে পানি ঢাললে নিচের মুদ্রা উপরে ওঠে দেখা যায় — কারণ?",
+   "options": {
+    "A": "প্রতিসরণ",
+    "B": "প্রতিফলন",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "উত্তল লেন্সের f = ১৬ সেমি, u = ৩২ সেমি হলে v কত?",
+   "options": {
+    "A": "৩২ সেমি",
+    "B": "১৬ সেমি",
+    "C": "৪৮ সেমি",
+    "D": "৮ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "তারা বিন্দুর মতো, গ্রহ —",
+   "options": {
+    "A": "বিস্তৃত",
+    "B": "বিন্দু",
+    "C": "ছোট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "উত্তল লেন্সে বস্তু f ও 2f এর মাঝে থাকলে প্রতিবিম্ব —",
+   "options": {
+    "A": "2f এর বাইরে, বড়, উল্টানো",
+    "B": "f এ",
+    "C": "অসীমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "প্রতিসরণের সময় আলোর দিক বদলায় —",
+   "options": {
+    "A": "হ্যাঁ (তির্যক আপতনে)",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "লেন্সের ক্ষমতা ৮ ডায়াপ্টার মানে f = ?",
+   "options": {
+    "A": "০.১২৫ মিটার",
+    "B": "৮ মিটার",
+    "C": "০.৮ মিটার",
+    "D": "১২.৫ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "সূর্যাস্তের পরে সূর্য দেখা যায় —",
+   "options": {
+    "A": "প্রতিসরণে",
+    "B": "প্রতিফলনে",
+    "C": "শোষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "f = ৫ সেমি উত্তল লেন্সের ক্ষমতা কত?",
+   "options": {
+    "A": "২০ ডায়াপ্টার",
+    "B": "৫ ডায়াপ্টার",
+    "C": "০.২ ডায়াপ্টার",
+    "D": "০.৫ ডায়াপ্টার"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "প্রতিসরণের ফলে লাঠি পানিতে —",
+   "options": {
+    "A": "বাঁকা দেখায়",
+    "B": "সোজা দেখায়",
+    "C": "ছোট দেখায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "ক্ষীণদৃষ্টি সংশোধনে —",
+   "options": {
+    "A": "উত্তল লেন্স",
+    "B": "অবতল লেন্স",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "সূর্যাস্তের পরেও সূর্য দেখা যায় — কারণ?",
+   "options": {
+    "A": "বায়ুমণ্ডলে প্রতিসরণ",
+    "B": "প্রতিফলন",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "লেন্সের ক্ষমতার একক ডায়াপ্টার = ?",
+   "options": {
+    "A": "১/মিটার",
+    "B": "মিটার",
+    "C": "সেমি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "প্রতিফলনে বেগ অপরিবর্তিত, প্রতিসরণে —",
+   "options": {
+    "A": "পরিবর্তিত",
+    "B": "অপরিবর্তিত",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "ম্যাগনিফাইং গ্লাসে বস্তু f ও লেন্সের মাঝে —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "পানির নিচ থেকে উপরের জিনিস —",
+   "options": {
+    "A": "উপরে দেখা যায়",
+    "B": "নিচে দেখা যায়",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "উত্তল লেন্সের f = ২০ সেমি, u = ৪০ সেমি হলে v কত?",
+   "options": {
+    "A": "৪০ সেমি",
+    "B": "২০ সেমি",
+    "C": "৬০ সেমি",
+    "D": "১০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "লেন্স সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "প্রতিসরণে আলো হালকা মাধ্যমে —",
+   "options": {
+    "A": "দ্রুত চলে",
+    "B": "ধীরে চলে",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "গ্রহ মিটমিট করে না — কারণ?",
+   "options": {
+    "A": "গ্রহ কাছে",
+    "B": "গ্রহ দূরে",
+    "C": "গ্রহ বড়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "আলো হালকা মাধ্যমে গেলে তরঙ্গদৈর্ঘ্য —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "আলো প্রতিসরণে বেগ ও তরঙ্গদৈর্ঘ্য বদলায় —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "সূর্যোদয়ের আগে সূর্য দেখা যায় —",
+   "options": {
+    "A": "বায়ুমণ্ডলের প্রতিসরণে",
+    "B": "প্রতিফলনে",
+    "C": "শোষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "আপাত গভীরতা ৪ মিটার, n = ১.২৫ হলে প্রকৃত গভীরতা কত?",
+   "options": {
+    "A": "৫ মিটার",
+    "B": "৪ মিটার",
+    "C": "৩.২ মিটার",
+    "D": "৬ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "আলো ঘন মাধ্যমে প্রবেশ করলে অভিলম্বের দিকে —",
+   "options": {
+    "A": "বেঁকে যায়",
+    "B": "সরে যায়",
+    "C": "সোজা যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "পানির গ্লাসে চামচ বাঁকা দেখায় — কারণ?",
+   "options": {
+    "A": "প্রতিসরণ",
+    "B": "প্রতিফলন",
+    "C": "শোষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "প্রতিসরণে রং বদলায় না কারণ —",
+   "options": {
+    "A": "কম্পাঙ্ক অপরিবর্তিত",
+    "B": "বেগ অপরিবর্তিত",
+    "C": "তরঙ্গদৈর্ঘ্য অপরিবর্তিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "প্রতিসরণের ২য় সূত্র কী?",
+   "options": {
+    "A": "sin i/sin r = ধ্রুবক",
+    "B": "sin i = sin r",
+    "C": "i = r",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "প্রতিফলনে মাধ্যম একটিই, প্রতিসরণে —",
+   "options": {
+    "A": "দুটি",
+    "B": "একটি",
+    "C": "তিনটি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "বায়ুর ঘনত্বের পরিবর্তনে তারার আলো —",
+   "options": {
+    "A": "বেঁকে যায়",
+    "B": "সোজা যায়",
+    "C": "থামে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "খালি বালতির নিচের মুদ্রা দেখা যায় না, পানি ঢাললে দেখা যায় —",
+   "options": {
+    "A": "প্রতিসরণে",
+    "B": "প্রতিফলনে",
+    "C": "শোষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "স্নেলের সূত্র কে প্রবর্তন করেন?",
+   "options": {
+    "A": "স্নেল",
+    "B": "নিউটন",
+    "C": "হাইগেনস",
+    "D": "ফার্মা"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "প্রকৃত গভীরতা ১০ মিটার, n = ১.২৫ হলে আপাত গভীরতা কত?",
+   "options": {
+    "A": "৮ মিটার",
+    "B": "১০ মিটার",
+    "C": "১২.৫ মিটার",
+    "D": "৫ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "প্রতিসরণে আলোর তরঙ্গদৈর্ঘ্য —",
+   "options": {
+    "A": "পরিবর্তিত হয়",
+    "B": "অপরিবর্তিত",
+    "C": "শূন্য হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "আলো ঘন মাধ্যমে গেলে তরঙ্গদৈর্ঘ্য —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "আলোর রং নির্ধারণ করে —",
+   "options": {
+    "A": "কম্পাঙ্ক",
+    "B": "তরঙ্গদৈর্ঘ্য শুধু",
+    "C": "বেগ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "পানির প্রকৃত গভীরতা ৪ মিটার হলে আপাত গভীরতা কত? (n=১.৩৩)",
+   "options": {
+    "A": "৩ মিটার",
+    "B": "৪ মিটার",
+    "C": "৫ মিটার",
+    "D": "২ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "প্রতিসরণের কারণে মাছ ধরতে —",
+   "options": {
+    "A": "নিচে লক্ষ্য করতে হয়",
+    "B": "উপরে লক্ষ্য",
+    "C": "সোজা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিসরণ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "A",
+  "2": "A",
+  "3": "A",
+  "4": "A",
+  "5": "A",
+  "6": "A",
+  "7": "A",
+  "8": "A",
+  "9": "A",
+  "10": "A",
+  "11": "A",
+  "12": "A",
+  "13": "A",
+  "14": "A",
+  "15": "A",
+  "16": "A",
+  "17": "A",
+  "18": "A",
+  "19": "A",
+  "20": "A",
+  "21": "A",
+  "22": "A",
+  "23": "A",
+  "24": "A",
+  "25": "A",
+  "26": "A",
+  "27": "A",
+  "28": "A",
+  "29": "A",
+  "30": "A",
+  "31": "A",
+  "32": "A",
+  "33": "A",
+  "34": "A",
+  "35": "A",
+  "36": "A",
+  "37": "A",
+  "38": "A",
+  "39": "A",
+  "40": "A",
+  "41": "A",
+  "42": "A",
+  "43": "A",
+  "44": "A",
+  "45": "A",
+  "46": "A",
+  "47": "A",
+  "48": "A",
+  "49": "A",
+  "50": "A",
+  "51": "A",
+  "52": "A",
+  "53": "A",
+  "54": "A",
+  "55": "A",
+  "56": "A",
+  "57": "A",
+  "58": "A",
+  "59": "A",
+  "60": "A",
+  "61": "A",
+  "62": "A",
+  "63": "A",
+  "64": "A",
+  "65": "A",
+  "66": "A",
+  "67": "A",
+  "68": "A",
+  "69": "A",
+  "70": "A",
+  "71": "A",
+  "72": "A",
+  "73": "A",
+  "74": "A",
+  "75": "A",
+  "76": "A",
+  "77": "A",
+  "78": "A",
+  "79": "A",
+  "80": "A",
+  "81": "A",
+  "82": "A",
+  "83": "A",
+  "84": "A",
+  "85": "A",
+  "86": "A",
+  "87": "A",
+  "88": "A",
+  "89": "A",
+  "90": "A",
+  "91": "A",
+  "92": "A",
+  "93": "A",
+  "94": "A",
+  "95": "A",
+  "96": "A",
+  "97": "A",
+  "98": "A",
+  "99": "A",
+  "100": "A",
+  "101": "A",
+  "102": "A",
+  "103": "A",
+  "104": "A",
+  "105": "A",
+  "106": "A",
+  "107": "A",
+  "108": "A",
+  "109": "A",
+  "110": "A",
+  "111": "A",
+  "112": "A",
+  "113": "A",
+  "114": "A",
+  "115": "A",
+  "116": "A",
+  "117": "A",
+  "118": "A",
+  "119": "A",
+  "120": "A",
+  "121": "A",
+  "122": "A",
+  "123": "A",
+  "124": "A",
+  "125": "A",
+  "126": "A",
+  "127": "A",
+  "128": "A",
+  "129": "A",
+  "130": "A",
+  "131": "A",
+  "132": "A",
+  "133": "A",
+  "134": "A",
+  "135": "A",
+  "136": "A",
+  "137": "A",
+  "138": "A",
+  "139": "A",
+  "140": "A",
+  "141": "A",
+  "142": "A",
+  "143": "A",
+  "144": "A",
+  "145": "A",
+  "146": "A",
+  "147": "A",
+  "148": "A",
+  "149": "A",
+  "150": "A",
+  "151": "A",
+  "152": "A",
+  "153": "A",
+  "154": "A",
+  "155": "A",
+  "156": "A",
+  "157": "A",
+  "158": "A",
+  "159": "A",
+  "160": "A",
+  "161": "A",
+  "162": "A",
+  "163": "A",
+  "164": "A",
+  "165": "A",
+  "166": "A",
+  "167": "A",
+  "168": "A",
+  "169": "A",
+  "170": "A",
+  "171": "A",
+  "172": "A",
+  "173": "A",
+  "174": "A",
+  "175": "A",
+  "176": "A",
+  "177": "A",
+  "178": "A",
+  "179": "A",
+  "180": "A",
+  "181": "A",
+  "182": "A",
+  "183": "A",
+  "184": "A",
+  "185": "A",
+  "186": "A",
+  "187": "A",
+  "188": "A",
+  "189": "A",
+  "190": "A",
+  "191": "A",
+  "192": "A",
+  "193": "A",
+  "194": "A",
+  "195": "A",
+  "196": "A",
+  "197": "A",
+  "198": "A",
+  "199": "A",
+  "200": "A",
+  "201": "A",
+  "202": "A",
+  "203": "A",
+  "204": "A",
+  "205": "A",
+  "206": "A",
+  "207": "A",
+  "208": "A",
+  "209": "A",
+  "210": "A",
+  "211": "A",
+  "212": "A",
+  "213": "A",
+  "214": "A",
+  "215": "A",
+  "216": "A",
+  "217": "A",
+  "218": "A",
+  "219": "A",
+  "220": "A",
+  "221": "A",
+  "222": "A",
+  "223": "A",
+  "224": "A",
+  "225": "A",
+  "226": "A",
+  "227": "A",
+  "228": "A",
+  "229": "A",
+  "230": "A",
+  "231": "A",
+  "232": "A",
+  "233": "A",
+  "234": "A",
+  "235": "A",
+  "236": "A",
+  "237": "A",
+  "238": "A",
+  "239": "A",
+  "240": "A",
+  "241": "A",
+  "242": "A",
+  "243": "A",
+  "244": "A",
+  "245": "A",
+  "246": "A",
+  "247": "A",
+  "248": "A",
+  "249": "A",
+  "250": "A",
+  "251": "A",
+  "252": "A",
+  "253": "A",
+  "254": "A",
+  "255": "A",
+  "256": "A",
+  "257": "A",
+  "258": "A",
+  "259": "A",
+  "260": "A",
+  "261": "A",
+  "262": "A",
+  "263": "A",
+  "264": "A",
+  "265": "A",
+  "266": "A",
+  "267": "A",
+  "268": "A",
+  "269": "A",
+  "270": "A",
+  "271": "A",
+  "272": "A",
+  "273": "A",
+  "274": "A",
+  "275": "A",
+  "276": "A",
+  "277": "A",
+  "278": "A",
+  "279": "A",
+  "280": "A",
+  "281": "A",
+  "282": "A",
+  "283": "A",
+  "284": "A",
+  "285": "A",
+  "286": "A",
+  "287": "A",
+  "288": "A",
+  "289": "A",
+  "290": "A",
+  "291": "A",
+  "292": "A",
+  "293": "A",
+  "294": "A",
+  "295": "A",
+  "296": "A",
+  "297": "A",
+  "298": "A",
+  "299": "A",
+  "300": "A",
+  "301": "A",
+  "302": "A",
+  "303": "A",
+  "304": "A",
+  "305": "A",
+  "306": "A",
+  "307": "A",
+  "308": "A",
+  "309": "A",
+  "310": "A",
+  "311": "A",
+  "312": "A",
+  "313": "A",
+  "314": "A",
+  "315": "A",
+  "316": "A",
+  "317": "A",
+  "318": "A",
+  "319": "A",
+  "320": "A",
+  "321": "A",
+  "322": "A",
+  "323": "A",
+  "324": "A",
+  "325": "A",
+  "326": "A",
+  "327": "A",
+  "328": "A",
+  "329": "A",
+  "330": "A",
+  "331": "A",
+  "332": "A",
+  "333": "A",
+  "334": "A",
+  "335": "A",
+  "336": "A",
+  "337": "A",
+  "338": "A",
+  "339": "A",
+  "340": "A",
+  "341": "A",
+  "342": "A",
+  "343": "A",
+  "344": "A",
+  "345": "A",
+  "346": "A",
+  "347": "A",
+  "348": "A",
+  "349": "A",
+  "350": "A",
+  "351": "A",
+  "352": "A",
+  "353": "A",
+  "354": "A",
+  "355": "A",
+  "356": "A",
+  "357": "A",
+  "358": "A",
+  "359": "A",
+  "360": "A",
+  "361": "A",
+  "362": "A",
+  "363": "A",
+  "364": "A",
+  "365": "A",
+  "366": "A",
+  "367": "A",
+  "368": "A",
+  "369": "A",
+  "370": "A",
+  "371": "A",
+  "372": "A",
+  "373": "A",
+  "374": "A",
+  "375": "A"
+ }
 }

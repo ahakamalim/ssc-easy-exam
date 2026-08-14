@@ -1,7 +1,7134 @@
 {
-  "subject": "পদার্থবিজ্ঞান",
-  "chapterNo": 5,
-  "chapter": "পদার্থের অবস্থা ও চাপ",
-  "questions": [],
-  "answerBox": {}
+ "subject": "পদার্থবিজ্ঞান",
+ "chapterNo": 5,
+ "chapter": "পদার্থের অবস্থা ও চাপ",
+ "questions": [
+  {
+   "question": "কঠিন পদার্থের আন্তঃআণবিক বল —",
+   "options": {
+    "A": "সবচেয়ে বেশি",
+    "B": "কম",
+    "C": "সবচেয়ে কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "চাপের মাত্রা [ML⁻¹T⁻²] এ M, L, T কী?",
+   "options": {
+    "A": "ভর, দৈর্ঘ্য, সময়",
+    "B": "ভর, আলো, তাপ",
+    "C": "দৈর্ঘ্য, ভর, তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "তরলের চাপ গভীরতার সাথে —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "প্যাসকেলের সূত্র কী?",
+   "options": {
+    "A": "আবদ্ধ তরলে চাপ সবদিকে সমানভাবে ছড়ায়",
+    "B": "চাপ গভীরতার সাথে বাড়ে",
+    "C": "প্লবতা ওজনের সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "বস্তুর ওজন ১২০ নিউটন ও প্লবতা ৭০ নিউটন হলে পানিতে আপাত ওজন কত?",
+   "options": {
+    "A": "৫০ নিউটন",
+    "B": "১৯০ নিউটন",
+    "C": "১২০ নিউটন",
+    "D": "৭০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "ঘনত্ব ৪ কেজি/মি³ ও আয়তন ৯ মিটার³ হলে ভর কত?",
+   "options": {
+    "A": "৩৬ কেজি",
+    "B": "১৩ কেজি",
+    "C": "৫ কেজি",
+    "D": "৪৫ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "হাইড্রোমিটার কোন সূত্রের উপর ভিত্তি করে কাজ করে?",
+   "options": {
+    "A": "আর্কিমিডিসের সূত্র",
+    "B": "প্যাসকেলের সূত্র",
+    "C": "হুকের সূত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "সাধারণ ব্যারোমিটারে কোন তরল ব্যবহৃত হয়?",
+   "options": {
+    "A": "পারদ",
+    "B": "পানি",
+    "C": "তেল",
+    "D": "অ্যালকোহল"
+   },
+   "correctAnswer": "A",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "বরফ গলতে যে তাপ লাগে তাকে কী বলে?",
+   "options": {
+    "A": "লীন তাপ",
+    "B": "সুপ্ত তাপ",
+    "C": "গুপ্ত তাপ",
+    "D": "সবগুলো"
+   },
+   "correctAnswer": "D",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "৬০ নিউটন বল ১২ মি² ক্ষেত্রে চাপ কত?",
+   "options": {
+    "A": "৫ প্যাসকেল",
+    "B": "৭২০ প্যাসকেল",
+    "C": "৭২ প্যাসকেল",
+    "D": "৪৮ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "পানিতে ২০ মিটার গভীরে চাপ কত? (ρ=১০০০, g=১০)",
+   "options": {
+    "A": "২০০০০০ প্যাসকেল",
+    "B": "২০০০০ প্যাসকেল",
+    "C": "২০০০ প্যাসকেল",
+    "D": "২০০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "প্যাসকেলের সূত্রের প্রয়োগ কোনটি?",
+   "options": {
+    "A": "হাইড্রোলিক প্রেস",
+    "B": "ব্যারোমিটার",
+    "C": "থার্মোমিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "একটি বস্তু তরলে আংশিক ডুবে ভাসলে প্লবতা কত?",
+   "options": {
+    "A": "বস্তুর ওজনের সমান",
+    "B": "বস্তুর ওজনের বেশি",
+    "C": "বস্তুর ওজনের কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "একটি বস্তুর ভর ১০০ গ্রাম ও ঘনত্ব ৫ গ্রাম/ঘন সেমি হলে আয়তন কত?",
+   "options": {
+    "A": "২০ ঘন সেমি",
+    "B": "১০০ ঘন সেমি",
+    "C": "৫০০ ঘন সেমি",
+    "D": "১০৫ ঘন সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "কোনো বস্তুর আপেক্ষিক গুরুত্ব ১ হলে তা পানিতে —",
+   "options": {
+    "A": "ডুববে না ভাসবেও না",
+    "B": "ভাসবে",
+    "C": "ডুববে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "ব্যারোমিটারে পারদ ব্যবহারের কারণ —",
+   "options": {
+    "A": "ঘনত্ব বেশি",
+    "B": "ঘনত্ব কম",
+    "C": "সস্তা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "গ্যাসের কণাগুলো —",
+   "options": {
+    "A": "আবদ্ধ",
+    "B": "মুক্তভাবে চলাচল করে",
+    "C": "স্থির",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "চাপের একক প্যাসকেল কার নামে?",
+   "options": {
+    "A": "নিউটন",
+    "B": "প্যাসকেল",
+    "C": "আর্কিমিডিস",
+    "D": "টরিসেলি"
+   },
+   "correctAnswer": "B",
+   "topic": "চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "পানিতে ১ মিটার গভীরে চাপ কত? (ρ=১০০০, g=১০)",
+   "options": {
+    "A": "১০০০০ প্যাসকেল",
+    "B": "১০০০ প্যাসকেল",
+    "C": "১০০ প্যাসকেল",
+    "D": "১০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "হাইড্রোলিক প্রেসে বড় পিস্টন ৯০ সেমি², ছোট পিস্টন ৬ সেমি² হলে যান্ত্রিক সুবিধা কত?",
+   "options": {
+    "A": "১৫",
+    "B": "৯০",
+    "C": "০.০৬৭",
+    "D": "৫৪০"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "একটি বস্তু পানিতে ৫০ নিউটন হালকা লাগে। অপসারিত পানির ওজন কত?",
+   "options": {
+    "A": "৫০ নিউটন",
+    "B": "৫০ কেজি",
+    "C": "১০০ নিউটন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "একটি বস্তুর ভর ৫০০ গ্রাম, আয়তন ২৫০ ঘন সেমি হলে ঘনত্ব কত?",
+   "options": {
+    "A": "২ গ্রাম/ঘন সেমি",
+    "B": "৫০০ গ্রাম/ঘন সেমি",
+    "C": "০.৫ গ্রাম/ঘন সেমি",
+    "D": "২৫০ গ্রাম/ঘন সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "বস্তুর ঘনত্ব ৩০০০ কেজি/মি³ হলে আপেক্ষিক গুরুত্ব কত?",
+   "options": {
+    "A": "৩",
+    "B": "৩০০০",
+    "C": "০.৩৩",
+    "D": "৩০০"
+   },
+   "correctAnswer": "A",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "পাহাড়ি রাস্তায় গাড়ি চলা কঠিন কেন?",
+   "options": {
+    "A": "বায়ুচাপ কম",
+    "B": "বায়ুচাপ বেশি",
+    "C": "তাপ কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "কার্বন ডাই-অক্সাইড কঠিন অবস্থাকে কী বলে?",
+   "options": {
+    "A": "শুকনো বরফ",
+    "B": "সাধারণ বরফ",
+    "C": "বরফ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "ধারালো ছুরি দিয়ে কাটা সহজ কেন?",
+   "options": {
+    "A": "চাপ বেশি",
+    "B": "চাপ কম",
+    "C": "বল কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "পানিতে ৭ মিটার গভীরে চাপ কত? (ρ=১০০০, g=১০)",
+   "options": {
+    "A": "৭০০০০ প্যাসকেল",
+    "B": "৭০০০ প্যাসকেল",
+    "C": "৭০০ প্যাসকেল",
+    "D": "৭০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "প্যাসকেলের সূত্রে চাপের সঞ্চারণ —",
+   "options": {
+    "A": "সমানভাবে",
+    "B": "অসমভাবে",
+    "C": "শুধু নিচে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "ইউরেকা শব্দের অর্থ কী?",
+   "options": {
+    "A": "পেয়েছি",
+    "B": "হারিয়েছি",
+    "C": "দেখেছি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "বোতল ভর্তি পানি ফ্রিজে রাখলে বোতল ফেটে যায় কেন?",
+   "options": {
+    "A": "বরফের আয়তন বেশি",
+    "B": "বরফের আয়তন কম",
+    "C": "চাপ কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "আপেক্ষিক গুরুত্ব নির্ণয়ে ব্যবহৃত হয় কোন যন্ত্র?",
+   "options": {
+    "A": "হাইড্রোমিটার",
+    "B": "ব্যারোমিটার",
+    "C": "থার্মোমিটার",
+    "D": "ম্যানোমিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "বায়ুমণ্ডলীয় চাপ কাকে বলে?",
+   "options": {
+    "A": "বায়ুর ওজনের চাপ",
+    "B": "পানির চাপ",
+    "C": "পারদের চাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "পানি ফুটার সময় তাপমাত্রা —",
+   "options": {
+    "A": "স্থির থাকে",
+    "B": "বাড়ে",
+    "C": "কমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "বল স্থির রেখে ক্ষেত্রফল ৪ গুণ করলে চাপ কত গুণ হয়?",
+   "options": {
+    "A": "১/৪",
+    "B": "৪",
+    "C": "২",
+    "D": "একই"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "পারদের ঘনত্ব কত কেজি/মি³?",
+   "options": {
+    "A": "১৩৬০০",
+    "B": "১০০০",
+    "C": "১৩৬০",
+    "D": "১৩৬"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "হাইড্রোলিক প্রেসে ছোট পিস্টনের সরণ বড় পিস্টনের চেয়ে —",
+   "options": {
+    "A": "বেশি",
+    "B": "কম",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "আর্কিমিডিস কোন দেশের বিজ্ঞানী?",
+   "options": {
+    "A": "গ্রিস",
+    "B": "ইতালি",
+    "C": "ফ্রান্স",
+    "D": "ইংল্যান্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "একটি বস্তুর ভর ১২০ কেজি, ঘনত্ব ৬ কেজি/মি³ হলে আয়তন কত?",
+   "options": {
+    "A": "২০ মিটার³",
+    "B": "৭২০ মিটার³",
+    "C": "১২৬ মিটার³",
+    "D": "১১৪ মিটার³"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "পারদের আপেক্ষিক গুরুত্ব কত?",
+   "options": {
+    "A": "১৩.৬",
+    "B": "১",
+    "C": "১০",
+    "D": "২০"
+   },
+   "correctAnswer": "A",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "১ অ্যাটমস্ফিয়ার = কত প্যাসকেল?",
+   "options": {
+    "A": "১.০১৩ × ১০⁵",
+    "B": "১.০১৩ × ১০³",
+    "C": "১.০১৩ × ১০⁶",
+    "D": "১০⁵"
+   },
+   "correctAnswer": "A",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "কঠিনের কণার গতিশক্তি —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "সবচেয়ে বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "স্টেথোস্কোপে কোন নীতি কাজ করে?",
+   "options": {
+    "A": "চাপের সঞ্চারণ",
+    "B": "প্লবতা",
+    "C": "ঘনত্ব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "তরলের ঘনত্ব ১২০০ কেজি/মি³, গভীরতা ৩ মিটার, g=১০ হলে চাপ কত?",
+   "options": {
+    "A": "৩৬০০০ প্যাসকেল",
+    "B": "৩৬০০ প্যাসকেল",
+    "C": "৩৬০ প্যাসকেল",
+    "D": "৩৬ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "হাইড্রোলিক প্রেসে ছোট পিস্টন ৪ সেমি², বড় পিস্টন ৮০ সেমি²। ছোট পিস্টনে ৫ নিউটন দিলে বড় পিস্টনে কত বল?",
+   "options": {
+    "A": "১০০ নিউটন",
+    "B": "৫ নিউটন",
+    "C": "২৫ নিউটন",
+    "D": "৪০০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "আর্কিমিডিসের সূত্র গ্যাসের ক্ষেত্রে —",
+   "options": {
+    "A": "প্রযোজ্য",
+    "B": "প্রযোজ্য নয়",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "পানির ঘনত্ব কত কেজি/মিটার³?",
+   "options": {
+    "A": "১০০০",
+    "B": "১০০",
+    "C": "১০০০০",
+    "D": "১"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "ল্যাকটোমিটার দিয়ে কী মাপা হয়?",
+   "options": {
+    "A": "দুধের বিশুদ্ধতা",
+    "B": "চাপ",
+    "C": "তাপ",
+    "D": "বেগ"
+   },
+   "correctAnswer": "A",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "বায়ুমণ্ডলীয় চাপের একক নয় কোনটি?",
+   "options": {
+    "A": "প্যাসকেল",
+    "B": "অ্যাটমস্ফিয়ার",
+    "C": "সেমি পারদ",
+    "D": "জুল"
+   },
+   "correctAnswer": "D",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "পানি বাষ্পীভবনের লীন তাপ কত?",
+   "options": {
+    "A": "৫৪০ ক্যালরি/গ্রাম",
+    "B": "৮০ ক্যালরি/গ্রাম",
+    "C": "১০০ ক্যালরি/গ্রাম",
+    "D": "১ ক্যালরি/গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "১ প্যাসকেল সমান কত?",
+   "options": {
+    "A": "১ নিউটন/মিটার²",
+    "B": "১ নিউটন·মিটার",
+    "C": "১ জুল/সেকেন্ড",
+    "D": "১ কেজি/মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "ঘনত্ব দ্বিগুণ করলে তরলের চাপ কত গুণ হয়?",
+   "options": {
+    "A": "২",
+    "B": "৪",
+    "C": "অর্ধেক",
+    "D": "একই"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "হাইড্রোলিক প্রেসে কাজের নীতি —",
+   "options": {
+    "A": "চাপের সমতা",
+    "B": "বলের সমতা",
+    "C": "শক্তির সমতা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "বায়ুতে বস্তুর ওজন ৬০ নিউটন, পানিতে ৪০ নিউটন হলে প্লবতা কত?",
+   "options": {
+    "A": "২০ নিউটন",
+    "B": "৬০ নিউটন",
+    "C": "৪০ নিউটন",
+    "D": "১০০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "ঘনত্ব ৯ কেজি/মি³ ও আয়তন ৩ মিটার³ হলে ভর কত?",
+   "options": {
+    "A": "২৭ কেজি",
+    "B": "১২ কেজি",
+    "C": "৬ কেজি",
+    "D": "৩ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "আপেক্ষিক গুরুত্বের অপর নাম কী?",
+   "options": {
+    "A": "আপেক্ষিক ঘনত্ব",
+    "B": "পরম ঘনত্ব",
+    "C": "ঘনত্ব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "বিমানে চাপ নিয়ন্ত্রণ করা হয় —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "কর্পূরের ঊর্ধ্বপাতন কোন রূপান্তর?",
+   "options": {
+    "A": "কঠিন → গ্যাস",
+    "B": "গ্যাস → কঠিন",
+    "C": "তরল → গ্যাস",
+    "D": "কঠিন → তরল"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "বল স্থির রেখে ক্ষেত্রফল অর্ধেক করলে চাপ কত গুণ হয়?",
+   "options": {
+    "A": "২",
+    "B": "১/২",
+    "C": "৪",
+    "D": "একই"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "পানিতে ১৬ মিটার গভীরে চাপ কত? (ρ=১০০০, g=১০)",
+   "options": {
+    "A": "১৬০০০০ প্যাসকেল",
+    "B": "১৬০০০ প্যাসকেল",
+    "C": "১৬০০ প্যাসকেল",
+    "D": "১৬০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "হাইড্রোলিক প্রেসে বড় পিস্টন ৬০ সেমি², ছোট পিস্টন ৫ সেমি² হলে যান্ত্রিক সুবিধা কত?",
+   "options": {
+    "A": "১২",
+    "B": "৬০",
+    "C": "০.০৮৩",
+    "D": "৩০০"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "একটি বস্তু পানিতে ৩০ নিউটন হালকা লাগে। অপসারিত পানির ওজন কত?",
+   "options": {
+    "A": "৩০ নিউটন",
+    "B": "৩০ কেজি",
+    "C": "৬০ নিউটন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "একটি বস্তুর ভর ২৪০ গ্রাম, আয়তন ৬০ ঘন সেমি হলে ঘনত্ব কত?",
+   "options": {
+    "A": "৪ গ্রাম/ঘন সেমি",
+    "B": "২৪০ গ্রাম/ঘন সেমি",
+    "C": "০.২৫ গ্রাম/ঘন সেমি",
+    "D": "৬০ গ্রাম/ঘন সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "আপেক্ষিক গুরুত্ব কাকে বলে?",
+   "options": {
+    "A": "পানির ঘনত্বের সাপেক্ষে বস্তুর ঘনত্ব",
+    "B": "বস্তুর ঘনত্ব",
+    "C": "পানির ঘনত্ব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "স্পেসে মহাকাশচারীদের বিশেষ পোশাক কেন?",
+   "options": {
+    "A": "চাপ বজায় রাখতে",
+    "B": "সৌন্দর্যের জন্য",
+    "C": "ওজনের জন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "বরফ গলিয়ে পানি ও পানি গরম করে বাষ্প করা হয় —",
+   "options": {
+    "A": "তাপ দিয়ে",
+    "B": "ঠান্ডা করে",
+    "C": "চাপ দিয়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "৭০ নিউটন বল ১৪ মি² ক্ষেত্রে চাপ কত?",
+   "options": {
+    "A": "৫ প্যাসকেল",
+    "B": "৯৮০ প্যাসকেল",
+    "C": "৮৪ প্যাসকেল",
+    "D": "৫৬ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "তরলের চাপ কোন দিকে ক্রিয়া করে?",
+   "options": {
+    "A": "সবদিকে",
+    "B": "শুধু নিচে",
+    "C": "শুধু পাশে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "হাইড্রোলিক প্রেসে ছোট পিস্টন ১ সেমি², বড় পিস্টন ৫০ সেমি²। ছোট পিস্টনে ২ নিউটন দিলে বড় পিস্টনে কত বল?",
+   "options": {
+    "A": "১০০ নিউটন",
+    "B": "২ নিউটন",
+    "C": "৫০ নিউটন",
+    "D": "২৫ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "পচা ডিম পানিতে ভাসে কেন?",
+   "options": {
+    "A": "ভেতরে গ্যাস জমে ঘনত্ব কমে",
+    "B": "ডিম ভারী",
+    "C": "পানি ঘন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "বরফের ঘনত্ব প্রায় কত কেজি/মি³?",
+   "options": {
+    "A": "৯১৭",
+    "B": "১০০০",
+    "C": "৫০০",
+    "D": "২০০০"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "আপেক্ষিক গুরুত্বের সূত্র কোনটি?",
+   "options": {
+    "A": "বস্তুর ঘনত্ব/পানির ঘনত্ব",
+    "B": "পানির ঘনত্ব/বস্তুর ঘনত্ব",
+    "C": "বস্তুর ঘনত্ব × পানির ঘনত্ব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "বায়ুচাপ বেশি হলে আবহাওয়া —",
+   "options": {
+    "A": "পরিষ্কার",
+    "B": "মেঘলা",
+    "C": "বৃষ্টিময়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "পদার্থের অবস্থা পরিবর্তনের প্রধান কারণ —",
+   "options": {
+    "A": "তাপ ও চাপ",
+    "B": "শুধু তাপ",
+    "C": "শুধু চাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "চাপ কাকে বলে?",
+   "options": {
+    "A": "একক ক্ষেত্রফলে প্রযুক্ত বল",
+    "B": "মোট বল",
+    "C": "বল × ক্ষেত্রফল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "পারদে ১ মিটার গভীরে চাপ কত? (ρ=১৩৬০০, g=১০)",
+   "options": {
+    "A": "১৩৬০০০ প্যাসকেল",
+    "B": "১৩৬০০ প্যাসকেল",
+    "C": "১৩৬০ প্যাসকেল",
+    "D": "১৩৬ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "হাইড্রোলিক প্রেসে ছোট পিস্টন ২ সেমি², বড় পিস্টন ৪০ সেমি²। ছোট পিস্টনে ৩ নিউটন বল দিলে বড় পিস্টনে কত বল?",
+   "options": {
+    "A": "৬০ নিউটন",
+    "B": "৩ নিউটন",
+    "C": "৬ নিউটন",
+    "D": "১২০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "বরফ পানিতে ভাসলে কত অংশ ডুবে থাকে?",
+   "options": {
+    "A": "৯/১০",
+    "B": "১/১০",
+    "C": "অর্ধেক",
+    "D": "পুরোটা"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "একটি বস্তুর ঘনত্ব ৫ গ্রাম/ঘন সেমি ও আয়তন ১২ ঘন সেমি হলে ভর কত?",
+   "options": {
+    "A": "৬০ গ্রাম",
+    "B": "৫ গ্রাম",
+    "C": "১৭ গ্রাম",
+    "D": "২.৪ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "বস্তুর ঘনত্ব ৫০০ কেজি/মি³ হলে আপেক্ষিক গুরুত্ব কত?",
+   "options": {
+    "A": "০.৫",
+    "B": "৫০০",
+    "C": "২",
+    "D": "৫"
+   },
+   "correctAnswer": "A",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "সমুদ্রপৃষ্ঠে বায়ুমণ্ডলীয় চাপ কত?",
+   "options": {
+    "A": "৭৬ সেমি পারদ",
+    "B": "৭৬ মিটার পারদ",
+    "C": "১০০ সেমি পারদ",
+    "D": "৫০ সেমি পারদ"
+   },
+   "correctAnswer": "A",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "LPG গ্যাস সিলিন্ডারে তরল অবস্থায় থাকে —",
+   "options": {
+    "A": "চাপে",
+    "B": "তাপে",
+    "C": "ঠান্ডায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "চাপের সূত্র কোনটি?",
+   "options": {
+    "A": "P = F/A",
+    "B": "P = FA",
+    "C": "P = A/F",
+    "D": "P = F/A²"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "পানির ট্যাংকের নিচে ছিদ্র করলে পানি —",
+   "options": {
+    "A": "বেগে বের হয়",
+    "B": "ধীরে বের হয়",
+    "C": "বের হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "হাইড্রোলিক ব্রেক কোন নীতিতে কাজ করে?",
+   "options": {
+    "A": "প্যাসকেলের সূত্র",
+    "B": "আর্কিমিডিসের সূত্র",
+    "C": "হুকের সূত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "বায়ুতে বস্তুর ওজন ৮০ নিউটন, পানিতে ৫০ নিউটন হলে প্লবতা কত?",
+   "options": {
+    "A": "৩০ নিউটন",
+    "B": "৮০ নিউটন",
+    "C": "৫০ নিউটন",
+    "D": "১৩০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "একটি বস্তুর ভর ৪৫০ গ্রাম, আয়তন ৯০ ঘন সেমি হলে ঘনত্ব কত?",
+   "options": {
+    "A": "৫ গ্রাম/ঘন সেমি",
+    "B": "৪৫০ গ্রাম/ঘন সেমি",
+    "C": "০.২ গ্রাম/ঘন সেমি",
+    "D": "৯০ গ্রাম/ঘন সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "ঘন তরলে হাইড্রোমিটার —",
+   "options": {
+    "A": "উঁচুতে ভাসে",
+    "B": "গভীরে ডোবে",
+    "C": "ডুবে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "পাহাড়ে নাক দিয়ে রক্ত পড়ে কেন?",
+   "options": {
+    "A": "চাপের পার্থক্য",
+    "B": "তাপ",
+    "C": "ঠান্ডা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "লীন তাপে তাপমাত্রা পরিবর্তন হয় —",
+   "options": {
+    "A": "না",
+    "B": "হ্যাঁ",
+    "C": "কখনো হয়",
+    "D": "কখনো হয় না"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "চাপ মাপার একক প্যাসকেলের সংক্ষেপ কী?",
+   "options": {
+    "A": "Pa",
+    "B": "P",
+    "C": "p",
+    "D": "ps"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "পানিতে ১৮ মিটার গভীরে চাপ কত? (ρ=১০০০, g=১০)",
+   "options": {
+    "A": "১৮০০০০ প্যাসকেল",
+    "B": "১৮০০০ প্যাসকেল",
+    "C": "১৮০০ প্যাসকেল",
+    "D": "১৮০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "হাইড্রোলিক প্রেসে ছোট পিস্টনে কম বল দিয়ে বড় পিস্টনে —",
+   "options": {
+    "A": "বেশি বল পাওয়া যায়",
+    "B": "কম বল পাওয়া যায়",
+    "C": "সমান বল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "বস্তুর ঘনত্ব তরলের চেয়ে বেশি হলে বস্তু —",
+   "options": {
+    "A": "ভাসে",
+    "B": "ডুবে যায়",
+    "C": "ঝুলে থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "শীতকালে পুকুরের উপরের পানি জমে বরফ হলেও নিচের পানি —",
+   "options": {
+    "A": "তরল থাকে",
+    "B": "জমে যায়",
+    "C": "উধাও হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "বস্তুর ঘনত্ব ২০০০ কেজি/মি³ হলে আপেক্ষিক গুরুত্ব কত?",
+   "options": {
+    "A": "২",
+    "B": "২০০০",
+    "C": "০.৫",
+    "D": "২০০"
+   },
+   "correctAnswer": "A",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "পাহাড়ে পানি কম তাপমাত্রায় ফোটে কারণ —",
+   "options": {
+    "A": "চাপ কম",
+    "B": "চাপ বেশি",
+    "C": "তাপ বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "চাপ প্রয়োগে গ্যাস তরল হয় — উদাহরণ কোনটি?",
+   "options": {
+    "A": "LPG",
+    "B": "পানি",
+    "C": "বরফ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "খড় দিয়ে পানি টানা হয় কীসের কারণে?",
+   "options": {
+    "A": "বায়ুচাপের পার্থক্য",
+    "B": "মহাকর্ষ",
+    "C": "ঘর্ষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "গভীর পানিতে ডুবুরির চাপ সহ্য করতে বিশেষ পোশাক —",
+   "options": {
+    "A": "প্রয়োজন",
+    "B": "প্রয়োজন নেই",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "হাইড্রোলিক প্রেসে ছোট পিস্টন ২ সেমি², বড় পিস্টন ২০ সেমি²। ছোট পিস্টনে ৫ নিউটন বল দিলে বড় পিস্টনে কত বল?",
+   "options": {
+    "A": "৫০ নিউটন",
+    "B": "৫ নিউটন",
+    "C": "০.৫ নিউটন",
+    "D": "২৫০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "সম্পূর্ণ নিমজ্জিত বস্তুর প্লবতা নির্ভর করে —",
+   "options": {
+    "A": "আয়তন ও তরলের ঘনত্ব",
+    "B": "বস্তুর ঘনত্ব",
+    "C": "গভীরতা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "একটি বস্তুর ভর ৭০ গ্রাম, আয়তন ৩৫ ঘন সেমি হলে ঘনত্ব কত?",
+   "options": {
+    "A": "২ গ্রাম/ঘন সেমি",
+    "B": "৭০ গ্রাম/ঘন সেমি",
+    "C": "০.৫ গ্রাম/ঘন সেমি",
+    "D": "৩৫ গ্রাম/ঘন সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "আপেক্ষিক গুরুত্ব ০.৮ বলতে বোঝায় —",
+   "options": {
+    "A": "বস্তুর ঘনত্ব পানির ০.৮ গুণ",
+    "B": "বস্তুর ঘনত্ব ০.৮",
+    "C": "বস্তু ডুববে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "ব্যারোমিটার আবিষ্কার করেন কে?",
+   "options": {
+    "A": "টরিসেলি",
+    "B": "নিউটন",
+    "C": "প্যাসকেল",
+    "D": "আর্কিমিডিস"
+   },
+   "correctAnswer": "A",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "মাটির কলসির পানি ঠান্ডা থাকে কেন?",
+   "options": {
+    "A": "বাষ্পীভবনে তাপ শোষণ",
+    "B": "ঘনীভবনে",
+    "C": "মাটির কারণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "চাপ ১০০ প্যাসকেল ও বল ২০০ নিউটন হলে ক্ষেত্রফল কত?",
+   "options": {
+    "A": "২ মি²",
+    "B": "২০০০০ মি²",
+    "C": "৩০০ মি²",
+    "D": "১০০ মি²"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "তরলের চাপ ঘনত্বের সাথে —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "তরলের চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "গাড়ি তোলার জ্যাক কোন নীতিতে কাজ করে?",
+   "options": {
+    "A": "প্যাসকেলের সূত্র",
+    "B": "আর্কিমিডিসের সূত্র",
+    "C": "হুকের সূত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "বরফের ঘনত্ব পানির ঘনত্বের —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "পানি ০°C থেকে ৪°C পর্যন্ত গরম করলে আয়তন —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "হালকা তরলে হাইড্রোমিটার —",
+   "options": {
+    "A": "উঁচুতে ভাসে",
+    "B": "গভীরে ডোবে",
+    "C": "ভাসে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "বায়ুমণ্ডলীয় চাপ মাপার যন্ত্র কী?",
+   "options": {
+    "A": "ব্যারোমিটার",
+    "B": "থার্মোমিটার",
+    "C": "হাইড্রোমিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "৫০ গ্রাম বরফ গলতে কত তাপ লাগে?",
+   "options": {
+    "A": "৪০০০ ক্যালরি",
+    "B": "৪০০ ক্যালরি",
+    "C": "৫০ ক্যালরি",
+    "D": "৪০ ক্যালরি"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "১৫ নিউটন বল ৩ মি² ক্ষেত্রে চাপ কত?",
+   "options": {
+    "A": "৫ প্যাসকেল",
+    "B": "৪৫ প্যাসকেল",
+    "C": "১৮ প্যাসকেল",
+    "D": "১২ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "পারদের ঘনত্ব পানির কত গুণ?",
+   "options": {
+    "A": "১৩.৬",
+    "B": "১০",
+    "C": "২০",
+    "D": "৫"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "হাইড্রোলিক প্রেসে বড় পিস্টন ৮০ সেমি², ছোট পিস্টন ৮ সেমি² হলে যান্ত্রিক সুবিধা কত?",
+   "options": {
+    "A": "১০",
+    "B": "৮০",
+    "C": "০.১",
+    "D": "৬৪০"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "আপাত ওজন হ্রাস = ?",
+   "options": {
+    "A": "প্লবতা",
+    "B": "ওজন",
+    "C": "ভর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "ঘনত্ব = ভর/আয়তন সূত্রে আয়তন কমালে ঘনত্ব —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "আপেক্ষিক গুরুত্বের একক কী?",
+   "options": {
+    "A": "কেজি/মি³",
+    "B": "এককবিহীন",
+    "C": "নিউটন",
+    "D": "প্যাসকেল"
+   },
+   "correctAnswer": "B",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "পানি ব্যারোমিটার বানালে টিউব কত লম্বা হতো?",
+   "options": {
+    "A": "প্রায় ১০ মিটার",
+    "B": "৭৬ সেমি",
+    "C": "১ মিটার",
+    "D": "২ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "কঠিন পদার্থের কণাগুলো —",
+   "options": {
+    "A": "শক্তভাবে আবদ্ধ",
+    "B": "আলগাভাবে আবদ্ধ",
+    "C": "মুক্ত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "১০ নিউটন বল ২ মিটার² ক্ষেত্রে প্রযুক্ত হলে চাপ কত?",
+   "options": {
+    "A": "৫ প্যাসকেল",
+    "B": "২০ প্যাসকেল",
+    "C": "১০ প্যাসকেল",
+    "D": "২ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "একই গভীরতায় পানি ও পারদের চাপের তুলনা —",
+   "options": {
+    "A": "পারদের বেশি",
+    "B": "পানির বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "হাইড্রোলিক প্রেসে ছোট পিস্টনের ক্ষেত্রফল ১ সেমি², বড় পিস্টন ১০ সেমি²। ছোট পিস্টনে ১০ নিউটন বল দিলে বড় পিস্টনে কত বল?",
+   "options": {
+    "A": "১০০ নিউটন",
+    "B": "১০ নিউটন",
+    "C": "১ নিউটন",
+    "D": "১০০০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "বস্তু তরলে ডুবে যায় যখন —",
+   "options": {
+    "A": "বস্তুর ঘনত্ব > তরলের ঘনত্ব",
+    "B": "বস্তুর ঘনত্ব < তরলের ঘনত্ব",
+    "C": "ঘনত্ব সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "পানি ৪°C এর উপরে গরম করলে আয়তন —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘনত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "আপেক্ষিক গুরুত্ব ২ বলতে বোঝায় —",
+   "options": {
+    "A": "বস্তুর ঘনত্ব পানির ২ গুণ",
+    "B": "বস্তুর ঘনত্ব পানির অর্ধেক",
+    "C": "বস্তুর ঘনত্ব ২ কেজি/মি³",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "মহাকাশে চাপ —",
+   "options": {
+    "A": "শূন্য",
+    "B": "সর্বোচ্চ",
+    "C": "সাধারণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "১০০°C বাষ্প ১০০°C পানির চেয়ে বেশি ক্ষতিকর — কারণ?",
+   "options": {
+    "A": "লীন তাপ",
+    "B": "তাপমাত্রা",
+    "C": "ভর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "উটের পা চওড়া হয় কেন?",
+   "options": {
+    "A": "চাপ কমাতে",
+    "B": "চাপ বাড়াতে",
+    "C": "দৌড়াতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "তরলের চাপ পাত্রের আকারের উপর —",
+   "options": {
+    "A": "নির্ভর করে",
+    "B": "নির্ভর করে না",
+    "C": "কখনো করে",
+    "D": "কখনো করে না"
+   },
+   "correctAnswer": "B",
+   "topic": "তরলের চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "আবদ্ধ তরলের এক অংশে চাপ দিলে তা —",
+   "options": {
+    "A": "সবদিকে সমানভাবে ছড়ায়",
+    "B": "শুধু নিচে যায়",
+    "C": "শুধু উপরে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "বায়ুতে বস্তুর ওজন ১৫০ নিউটন, পানিতে ৯০ নিউটন হলে প্লবতা কত?",
+   "options": {
+    "A": "৬০ নিউটন",
+    "B": "১৫০ নিউটন",
+    "C": "৯০ নিউটন",
+    "D": "২৪০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "পানির অস্বাভাবিক প্রসারণ হয় —",
+   "options": {
+    "A": "০°C থেকে ৪°C",
+    "B": "৪°C থেকে ১০০°C",
+    "C": "১০০°C এর বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "আপেক্ষিক গুরুত্ব ১ এর কম হলে বস্তু পানিতে —",
+   "options": {
+    "A": "ডুববে",
+    "B": "ভাসবে",
+    "C": "ঝুলবে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "উচ্চতা বাড়লে বায়ুমণ্ডলীয় চাপ —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "স্কেটিং করার সময় বরফ গলে যায় —",
+   "options": {
+    "A": "চাপে",
+    "B": "তাপে",
+    "C": "ঘর্ষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "বালির উপর হিল জুতা দিয়ে হাঁটা কঠিন কেন?",
+   "options": {
+    "A": "চাপ বেশি",
+    "B": "চাপ কম",
+    "C": "ওজন কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "পানিতে ৫ মিটার গভীরে চাপ কত? (ρ=১০০০, g=১০)",
+   "options": {
+    "A": "৫০০০০ প্যাসকেল",
+    "B": "৫০০০ প্যাসকেল",
+    "C": "৫০০ প্যাসকেল",
+    "D": "৫০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "হাইড্রোলিক প্রেস কোন শক্তির সংরক্ষণ সূত্র মেনে চলে?",
+   "options": {
+    "A": "শক্তি",
+    "B": "ভরবেগ",
+    "C": "ভর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "বস্তুর ওজন ৫০ নিউটন ও প্লবতা ৩০ নিউটন হলে পানিতে আপাত ওজন কত?",
+   "options": {
+    "A": "২০ নিউটন",
+    "B": "৮০ নিউটন",
+    "C": "৫০ নিউটন",
+    "D": "৩০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "একটি বস্তুর ভর ৩০০ কেজি, আয়তন ৩ মিটার³ হলে ঘনত্ব কত?",
+   "options": {
+    "A": "১০০ কেজি/মি³",
+    "B": "৩০০ কেজি/মি³",
+    "C": "৯০০ কেজি/মি³",
+    "D": "৩৩ কেজি/মি³"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "আপেক্ষিক গুরুত্ব ১ এর বেশি হলে বস্তু পানিতে —",
+   "options": {
+    "A": "ডুববে",
+    "B": "ভাসবে",
+    "C": "ঝুলবে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "বায়ুচাপ কম হলে আবহাওয়া —",
+   "options": {
+    "A": "পরিষ্কার",
+    "B": "বৃষ্টিময়",
+    "C": "রৌদ্রোজ্জ্বল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "পোড়ায় বাষ্প পানির চেয়ে বেশি ক্ষতি করে কারণ বাষ্পে —",
+   "options": {
+    "A": "লীন তাপ আছে",
+    "B": "লীন তাপ নেই",
+    "C": "তাপমাত্রা কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "পানি পান করার খড় কোন নীতিতে কাজ করে?",
+   "options": {
+    "A": "বায়ুচাপ",
+    "B": "প্লবতা",
+    "C": "ঘনত্ব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "একই উচ্চতার পানি ও তেলের চাপের তুলনা —",
+   "options": {
+    "A": "পানির বেশি",
+    "B": "তেলের বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "গাড়ির হাইড্রোলিক ব্রেকে কোন তরল ব্যবহৃত হয়?",
+   "options": {
+    "A": "ব্রেক তেল",
+    "B": "পানি",
+    "C": "পারদ",
+    "D": "অ্যালকোহল"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "ভাসমান বস্তুর প্লবতা ও ওজনের সম্পর্ক কী?",
+   "options": {
+    "A": "সমান",
+    "B": "প্লবতা বেশি",
+    "C": "ওজন বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "পানির ঘনত্ব ১ গ্রাম/ঘন সেমি = কত কেজি/মিটার³?",
+   "options": {
+    "A": "১০০০",
+    "B": "১০০",
+    "C": "১০",
+    "D": "১"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "হাইড্রোমিটার দিয়ে কী মাপা হয়?",
+   "options": {
+    "A": "আপেক্ষিক গুরুত্ব",
+    "B": "চাপ",
+    "C": "তাপমাত্রা",
+    "D": "বেগ"
+   },
+   "correctAnswer": "A",
+   "topic": "আপেক্ষিক গুরুত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "উচ্চতা বৃদ্ধির সাথে বায়ুচাপ কমার কারণ —",
+   "options": {
+    "A": "বায়ুর ঘনত্ব কমে",
+    "B": "বায়ুর ঘনত্ব বাড়ে",
+    "C": "তাপ বাড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বায়ুমণ্ডলীয় চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "বরফের গলনাঙ্ক কত?",
+   "options": {
+    "A": "০°C",
+    "B": "১০০°C",
+    "C": "−১০০°C",
+    "D": "৫০°C"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "৪০ নিউটন বল ৮ মি² ক্ষেত্রে চাপ কত?",
+   "options": {
+    "A": "৫ প্যাসকেল",
+    "B": "৩২০ প্যাসকেল",
+    "C": "৪৮ প্যাসকেল",
+    "D": "৩২ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "গভীরতা দ্বিগুণ করলে তরলের চাপ কত গুণ হয়?",
+   "options": {
+    "A": "২",
+    "B": "৪",
+    "C": "অর্ধেক",
+    "D": "একই"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "প্যাসকেলের সূত্রের শর্ত কী?",
+   "options": {
+    "A": "আবদ্ধ তরল",
+    "B": "মুক্ত তরল",
+    "C": "যেকোনো তরল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "সম্পূর্ণ নিমজ্জিত বস্তুর প্লবতা = ?",
+   "options": {
+    "A": "V × তরলের ঘনত্ব × g",
+    "B": "V × বস্তুর ঘনত্ব × g",
+    "C": "m × g",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "একটি বস্তুর ভর ২৪০ কেজি, ঘনত্ব ৮ কেজি/মি³ হলে আয়তন কত?",
+   "options": {
+    "A": "৩০ মিটার³",
+    "B": "১৯২০ মিটার³",
+    "C": "২৪৮ মিটার³",
+    "D": "২৩২ মিটার³"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "রেফ্রিজারেটরে শীতলতা আসে কোন প্রক্রিয়ায়?",
+   "options": {
+    "A": "বাষ্পীভবনে তাপ শোষণ",
+    "B": "ঘনীভবনে",
+    "C": "গলনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "১ বার = কত প্যাসকেল?",
+   "options": {
+    "A": "১০⁵",
+    "B": "১০³",
+    "C": "১০⁶",
+    "D": "১০⁷"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "বাঁধের নিচের অংশ মোটা হয় কেন?",
+   "options": {
+    "A": "চাপ বেশি",
+    "B": "চাপ কম",
+    "C": "সৌন্দর্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "প্যাসকেল কে ছিলেন?",
+   "options": {
+    "A": "ফরাসি বিজ্ঞানী",
+    "B": "ইংরেজ বিজ্ঞানী",
+    "C": "জার্মান বিজ্ঞানী",
+    "D": "ইতালিয় বিজ্ঞানী"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "আর্কিমিডিসের সূত্র আবিষ্কারের গল্প কোনটির সাথে জড়িত?",
+   "options": {
+    "A": "সোনার মুকুট",
+    "B": "আপেল",
+    "C": "দোলক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "ঘনত্ব ১০ কেজি/মি³ ও আয়তন ৬ মিটার³ হলে ভর কত?",
+   "options": {
+    "A": "৬০ কেজি",
+    "B": "১৬ কেজি",
+    "C": "৪ কেজি",
+    "D": "৬৬ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "পানির স্ফুটনাঙ্ক কত?",
+   "options": {
+    "A": "০°C",
+    "B": "১০০°C",
+    "C": "৫০°C",
+    "D": "২০০°C"
+   },
+   "correctAnswer": "B",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "১৬০ নিউটন বল ২০ মি² ক্ষেত্রে চাপ কত?",
+   "options": {
+    "A": "৮ প্যাসকেল",
+    "B": "৩২০০ প্যাসকেল",
+    "C": "১৮০ প্যাসকেল",
+    "D": "১৪০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "তরলের চাপ নির্ভর করে কোনটির উপর?",
+   "options": {
+    "A": "গভীরতা ও ঘনত্ব",
+    "B": "শুধু গভীরতা",
+    "C": "শুধু ঘনত্ব",
+    "D": "পাত্রের আকার"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "হাইড্রোলিক প্রেসে বড় পিস্টনের ক্ষেত্রফল ২৫ সেমি², ছোট পিস্টন ৫ সেমি² হলে যান্ত্রিক সুবিধা কত?",
+   "options": {
+    "A": "৫",
+    "B": "২৫",
+    "C": "০.২",
+    "D": "১২৫"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "বরফ পানিতে ভাসে কেন?",
+   "options": {
+    "A": "বরফের ঘনত্ব পানির চেয়ে কম",
+    "B": "বরফ ভারী",
+    "C": "বরফ গরম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "বরফ জমা পানিতে বরফ উপরে ভাসে — এটি কোন ধর্ম?",
+   "options": {
+    "A": "পানির অস্বাভাবিক প্রসারণ",
+    "B": "স্বাভাবিক প্রসারণ",
+    "C": "সংকোচন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "তরলের স্ফুটনাঙ্ক চাপের সাথে কীভাবে সম্পর্কিত?",
+   "options": {
+    "A": "চাপ বাড়লে স্ফুটনাঙ্ক বাড়ে",
+    "B": "চাপ বাড়লে স্ফুটনাঙ্ক কমে",
+    "C": "কোনো সম্পর্ক নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "বলের ক্ষেত্রফল বাড়ালে চাপ —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "তরলের চাপের দিক —",
+   "options": {
+    "A": "শুধু নিচে",
+    "B": "সবদিকে",
+    "C": "শুধু উপরে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "তরলের চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "ডেন্টিস্টের চেয়ার কোন নীতিতে ওঠানামা করে?",
+   "options": {
+    "A": "প্যাসকেলের সূত্র",
+    "B": "আর্কিমিডিসের সূত্র",
+    "C": "হুকের সূত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "বায়ুতে বস্তুর ওজন ৯০ নিউটন, পানিতে ৬০ নিউটন হলে প্লবতা কত?",
+   "options": {
+    "A": "৩০ নিউটন",
+    "B": "৯০ নিউটন",
+    "C": "৬০ নিউটন",
+    "D": "১৫০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "ঘনত্বের একক কোনটি?",
+   "options": {
+    "A": "কেজি/মিটার³",
+    "B": "কেজি/মিটার",
+    "C": "মিটার³/কেজি",
+    "D": "কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "১০০ গ্রাম পানি বাষ্প করতে কত তাপ লাগে?",
+   "options": {
+    "A": "৫৪০০০ ক্যালরি",
+    "B": "৫৪০০ ক্যালরি",
+    "C": "১০০ ক্যালরি",
+    "D": "৫৪০ ক্যালরি"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "একজন ব্যক্তির ওজন ৫০০ নিউটন, পায়ের ক্ষেত্রফল ০.২৫ মি² হলে চাপ কত?",
+   "options": {
+    "A": "২০০০ প্যাসকেল",
+    "B": "৫০০ প্যাসকেল",
+    "C": "১২৫ প্যাসকেল",
+    "D": "৫০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "গভীরতা যত বেশি, ছিদ্র থেকে পানি বের হওয়ার বেগ তত —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "তরলের চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "হাইড্রোলিক প্রেসে ছোট পিস্টন ৫ সেমি², বড় পিস্টন ৫০ সেমি²। ছোট পিস্টনে ৪ নিউটন দিলে বড় পিস্টনে কত বল?",
+   "options": {
+    "A": "৪০ নিউটন",
+    "B": "৪ নিউটন",
+    "C": "৮ নিউটন",
+    "D": "২০০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "বস্তু তরলে ভাসে যখন —",
+   "options": {
+    "A": "বস্তুর ঘনত্ব > তরলের ঘনত্ব",
+    "B": "বস্তুর ঘনত্ব < তরলের ঘনত্ব",
+    "C": "ঘনত্ব সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "পানি জমে বরফ হলে ঘনত্ব —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "১ গ্রাম বরফ গলতে কত তাপ লাগে?",
+   "options": {
+    "A": "৮০ ক্যালরি",
+    "B": "৫৪০ ক্যালরি",
+    "C": "১০০ ক্যালরি",
+    "D": "১ ক্যালরি"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "বলের ক্ষেত্রফল কমালে চাপ —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "তরলের ঘনত্ব ২০০০ কেজি/মি³, গভীরতা ২ মিটার, g=১০ হলে চাপ কত?",
+   "options": {
+    "A": "৪০০০০ প্যাসকেল",
+    "B": "৪০০০ প্যাসকেল",
+    "C": "৪০০ প্যাসকেল",
+    "D": "৪০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "হাইড্রোলিক প্রেসে কাজ —",
+   "options": {
+    "A": "সমান",
+    "B": "ভিন্ন",
+    "C": "কখনো সমান",
+    "D": "কখনো ভিন্ন"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "বস্তুর ওজন ৮০ নিউটন ও প্লবতা ৫০ নিউটন হলে পানিতে আপাত ওজন কত?",
+   "options": {
+    "A": "৩০ নিউটন",
+    "B": "১৩০ নিউটন",
+    "C": "৮০ নিউটন",
+    "D": "৫০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "একটি বস্তুর ভর ৩৬০ গ্রাম, আয়তন ১২০ ঘন সেমি হলে ঘনত্ব কত?",
+   "options": {
+    "A": "৩ গ্রাম/ঘন সেমি",
+    "B": "৩৬০ গ্রাম/ঘন সেমি",
+    "C": "০.৩৩ গ্রাম/ঘন সেমি",
+    "D": "১২০ গ্রাম/ঘন সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "শীতকালে কুয়াশা হয় — কোন প্রক্রিয়া?",
+   "options": {
+    "A": "ঘনীভবন",
+    "B": "বাষ্পীভবন",
+    "C": "গলন",
+    "D": "ঊর্ধ্বপাতন"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "চাপ ২০ প্যাসকেল ও ক্ষেত্রফল ২ মি² হলে বল কত?",
+   "options": {
+    "A": "৪০ নিউটন",
+    "B": "১০ নিউটন",
+    "C": "২২ নিউটন",
+    "D": "১৮ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "পানিতে ৩ মিটার গভীরে চাপ কত? (ρ=১০০০, g=১০)",
+   "options": {
+    "A": "৩০০০০ প্যাসকেল",
+    "B": "৩০০০ প্যাসকেল",
+    "C": "৩০০ প্যাসকেল",
+    "D": "৩০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "হাইড্রোলিক প্রেসে ছোট পিস্টন ১০ সেমি², বড় পিস্টন ২০০ সেমি²। ছোট পিস্টনে ৬ নিউটন দিলে বড় পিস্টনে কত বল?",
+   "options": {
+    "A": "১২০ নিউটন",
+    "B": "৬ নিউটন",
+    "C": "৬০ নিউটন",
+    "D": "১২০০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "লোহার পেরেক পানিতে ডুবে যায় কিন্তু জাহাজ ভাসে কেন?",
+   "options": {
+    "A": "জাহাজের গড় ঘনত্ব কম",
+    "B": "লোহা হালকা",
+    "C": "জাহাজ ছোট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "পানির ঘনত্ব কত গ্রাম/ঘন সেমি?",
+   "options": {
+    "A": "১",
+    "B": "১০",
+    "C": "০.১",
+    "D": "১০০"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "বাষ্প থেকে পানি হতে যে তাপ ত্যাগ হয় তাকে কী বলে?",
+   "options": {
+    "A": "ঘনীভবনের লীন তাপ",
+    "B": "গলনের লীন তাপ",
+    "C": "বাষ্পীভবনের লীন তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "হাতির পা চওড়া ও গোলাকার কেন?",
+   "options": {
+    "A": "চাপ কমাতে",
+    "B": "চাপ বাড়াতে",
+    "C": "দৌড়াতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "একটি পাত্রে পানি আছে, নিচে ও উপরে সমান ছিদ্র করলে কোনটি থেকে পানি দ্রুত বের হবে?",
+   "options": {
+    "A": "নিচেরটি",
+    "B": "উপরেরটি",
+    "C": "দুটো সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "হাইড্রোলিক প্রেস কোন সূত্রে কাজ করে?",
+   "options": {
+    "A": "প্যাসকেলের সূত্র",
+    "B": "আর্কিমিডিসের সূত্র",
+    "C": "হুকের সূত্র",
+    "D": "নিউটনের সূত্র"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "আর্কিমিডিসের সূত্র কোন তরলের ক্ষেত্রে প্রযোজ্য?",
+   "options": {
+    "A": "সব তরল",
+    "B": "শুধু পানি",
+    "C": "শুধু পারদ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "নদীর পানিতে সাঁতার কঠিন কারণ —",
+   "options": {
+    "A": "ঘনত্ব কম",
+    "B": "ঘনত্ব বেশি",
+    "C": "পানি বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "ঘাম শুকালে শরীর ঠান্ডা লাগে কেন?",
+   "options": {
+    "A": "বাষ্পীভবনে তাপ শোষণ",
+    "B": "ঘনীভবনে",
+    "C": "গলনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "বরফের উপর স্কেটিং-এ চাপ বেশি হয় —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "তেলের ঘনত্ব পানির চেয়ে —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "হাইড্রোলিক প্রেসে বড় পিস্টন ১০০ সেমি², ছোট পিস্টন ১০ সেমি² হলে যান্ত্রিক সুবিধা কত?",
+   "options": {
+    "A": "১০",
+    "B": "১০০",
+    "C": "০.১",
+    "D": "১০০০"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "বরফের কত অংশ পানির উপরে থাকে?",
+   "options": {
+    "A": "১/১০",
+    "B": "৯/১০",
+    "C": "অর্ধেক",
+    "D": "পুরোটা"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "একটি বস্তুর ভর ৬০ গ্রাম, আয়তন ৩০ ঘন সেমি হলে ঘনত্ব কত?",
+   "options": {
+    "A": "২ গ্রাম/ঘন সেমি",
+    "B": "৬০ গ্রাম/ঘন সেমি",
+    "C": "০.৫ গ্রাম/ঘন সেমি",
+    "D": "৩০ গ্রাম/ঘন সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "মেঘ থেকে বৃষ্টি হয় কোন প্রক্রিয়ায়?",
+   "options": {
+    "A": "ঘনীভবন",
+    "B": "বাষ্পীভবন",
+    "C": "গলন",
+    "D": "ঊর্ধ্বপাতন"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "২০ নিউটন বল ৪ মিটার² ক্ষেত্রে প্রযুক্ত হলে চাপ কত?",
+   "options": {
+    "A": "৫ প্যাসকেল",
+    "B": "৮০ প্যাসকেল",
+    "C": "২৪ প্যাসকেল",
+    "D": "১৬ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "পানিতে ২৫ মিটার গভীরে চাপ কত? (ρ=১০০০, g=১০)",
+   "options": {
+    "A": "২৫০০০০ প্যাসকেল",
+    "B": "২৫০০০ প্যাসকেল",
+    "C": "২৫০০ প্যাসকেল",
+    "D": "২৫০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "হাইড্রোলিক প্রেসে বড় পিস্টন ১৫০ সেমি², ছোট পিস্টন ১০ সেমি² হলে যান্ত্রিক সুবিধা কত?",
+   "options": {
+    "A": "১৫",
+    "B": "১৫০",
+    "C": "০.০৬৭",
+    "D": "১৫০০"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "গরম বাতাসের বেলুন উপরে ওঠে কেন?",
+   "options": {
+    "A": "গরম বাতাস হালকা",
+    "B": "গরম বাতাস ভারী",
+    "C": "বেলুন হালকা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "একটি বস্তুর ঘনত্ব ৪ গ্রাম/ঘন সেমি ও আয়তন ১০ ঘন সেমি হলে ভর কত?",
+   "options": {
+    "A": "৪০ গ্রাম",
+    "B": "৪ গ্রাম",
+    "C": "১৪ গ্রাম",
+    "D": "২.৫ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "১ গ্রাম পানি বাষ্প হতে কত তাপ লাগে?",
+   "options": {
+    "A": "৫৪০ ক্যালরি",
+    "B": "৮০ ক্যালরি",
+    "C": "১০০ ক্যালরি",
+    "D": "১ ক্যালরি"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "৯০ নিউটন বল ১৫ মি² ক্ষেত্রে চাপ কত?",
+   "options": {
+    "A": "৬ প্যাসকেল",
+    "B": "১৩৫০ প্যাসকেল",
+    "C": "১০৫ প্যাসকেল",
+    "D": "৭৫ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "তরলের চাপ মাপার যন্ত্র কোনটি?",
+   "options": {
+    "A": "ম্যানোমিটার",
+    "B": "ব্যারোমিটার",
+    "C": "থার্মোমিটার",
+    "D": "হাইড্রোমিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "হাইড্রোলিক প্রেসে বড় পিস্টনের ক্ষেত্রফল বড় হওয়ায় —",
+   "options": {
+    "A": "বল বেশি",
+    "B": "বল কম",
+    "C": "চাপ বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্যাসকেলের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "বস্তু তরলে সম্পূর্ণ নিমজ্জিত থেকে ঝুলে থাকে যখন —",
+   "options": {
+    "A": "ঘনত্ব সমান",
+    "B": "ঘনত্ব বেশি",
+    "C": "ঘনত্ব কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "পানির অস্বাভাবিক প্রসারণের ফলে জলজ প্রাণী —",
+   "options": {
+    "A": "রক্ষা পায়",
+    "B": "মারা যায়",
+    "C": "কষ্ট পায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "চাপ বাড়ালে বরফের গলনাঙ্ক —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "চাপের SI একক কী?",
+   "options": {
+    "A": "প্যাসকেল",
+    "B": "বার",
+    "C": "অ্যাটমস্ফিয়ার",
+    "D": "টর"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "পানির ঘনত্ব ১০০০ কেজি/মি³, গভীরতা ২ মিটার, g=১০ হলে চাপ কত?",
+   "options": {
+    "A": "২০০০০ প্যাসকেল",
+    "B": "২০০০ প্যাসকেল",
+    "C": "২০০ প্যাসকেল",
+    "D": "২০০০০০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "বস্তুর ওজন ২০০ নিউটন ও প্লবতা ৯০ নিউটন হলে আপাত ওজন কত?",
+   "options": {
+    "A": "১১০ নিউটন",
+    "B": "২৯০ নিউটন",
+    "C": "২০০ নিউটন",
+    "D": "৯০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "বরফ পানিতে ভাসে কারণ ৪°C পানির চেয়ে বরফের ঘনত্ব —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "পদার্থের চতুর্থ অবস্থা কী?",
+   "options": {
+    "A": "কঠিন",
+    "B": "তরল",
+    "C": "প্লাজমা",
+    "D": "গ্যাস"
+   },
+   "correctAnswer": "C",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "চাপ = বল/ক্ষেত্রফল — এই সূত্রটি কার?",
+   "options": {
+    "A": "প্যাসকেল",
+    "B": "নিউটন",
+    "C": "আর্কিমিডিস",
+    "D": "টরিসেলি"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "তরল চাপের ধর্মের কারণে তরল পাত্রের —",
+   "options": {
+    "A": "সবদিকে চাপ দেয়",
+    "B": "শুধু নিচে চাপ দেয়",
+    "C": "কোনো চাপ দেয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "বরফ গলে গেলে পানির উচ্চতা —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "১ কেজি/মিটার³ = কত গ্রাম/ঘন সেমি?",
+   "options": {
+    "A": "০.০০১",
+    "B": "১",
+    "C": "১০০০",
+    "D": "১০০"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "গলনাঙ্ক কাকে বলে?",
+   "options": {
+    "A": "কঠিন গলার তাপমাত্রা",
+    "B": "তরল ফুটার তাপমাত্রা",
+    "C": "গ্যাসের তাপমাত্রা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "একজন ব্যক্তির ওজন ৮০০ নিউটন, পায়ের ক্ষেত্রফল ০.২ মি² হলে চাপ কত?",
+   "options": {
+    "A": "৪০০০ প্যাসকেল",
+    "B": "৮০০ প্যাসকেল",
+    "C": "১৬০ প্যাসকেল",
+    "D": "৪০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "পানিতে ৮ মিটার গভীরে চাপ কত? (ρ=১০০০, g=১০)",
+   "options": {
+    "A": "৮০০০০ প্যাসকেল",
+    "B": "৮০০০ প্যাসকেল",
+    "C": "৮০০ প্যাসকেল",
+    "D": "৮০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "ডিম লবণ পানিতে ভাসে কেন?",
+   "options": {
+    "A": "লবণ পানির ঘনত্ব বেশি",
+    "B": "ডিম হালকা",
+    "C": "ডিমের ঘনত্ব কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "একটি বস্তুর ভর ৪০ গ্রাম, আয়তন ৮ ঘন সেমি হলে ঘনত্ব কত?",
+   "options": {
+    "A": "৫ গ্রাম/ঘন সেমি",
+    "B": "৪০ গ্রাম/ঘন সেমি",
+    "C": "৮ গ্রাম/ঘন সেমি",
+    "D": "০.২ গ্রাম/ঘন সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "১০০ গ্রাম বরফ গলতে কত তাপ লাগে?",
+   "options": {
+    "A": "৮০০০ ক্যালরি",
+    "B": "৮০০ ক্যালরি",
+    "C": "১০০ ক্যালরি",
+    "D": "৮০ ক্যালরি"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "৫০ নিউটন বল ১০ মিটার² ক্ষেত্রে প্রযুক্ত হলে চাপ কত?",
+   "options": {
+    "A": "৫ প্যাসকেল",
+    "B": "৫০০ প্যাসকেল",
+    "C": "৬০ প্যাসকেল",
+    "D": "৪০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "পারদে ০.৫ মিটার গভীরে চাপ কত? (ρ=১৩৬০০, g=১০)",
+   "options": {
+    "A": "৬৮০০০ প্যাসকেল",
+    "B": "৬৮০০ প্যাসকেল",
+    "C": "৬৮০ প্যাসকেল",
+    "D": "৬৮ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "তরলে বস্তুর আপাত ওজন কম লাগে কীসের কারণে?",
+   "options": {
+    "A": "প্লবতা",
+    "B": "মহাকর্ষ",
+    "C": "ঘর্ষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "ঘনত্ব ৬ কেজি/মি³ ও আয়তন ৭ মিটার³ হলে ভর কত?",
+   "options": {
+    "A": "৪২ কেজি",
+    "B": "১৩ কেজি",
+    "C": "১ কেজি",
+    "D": "৪৯ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "পাহাড়ে পানি ১০০°C এর কমে ফোটে কারণ —",
+   "options": {
+    "A": "চাপ কম",
+    "B": "চাপ বেশি",
+    "C": "তাপ বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "চাপ ৫০ প্যাসকেল ও বল ২৫০ নিউটন হলে ক্ষেত্রফল কত?",
+   "options": {
+    "A": "৫ মি²",
+    "B": "১২৫০০ মি²",
+    "C": "৩০০ মি²",
+    "D": "২০০ মি²"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "পানির গভীরতা বেশি হলে চাপ —",
+   "options": {
+    "A": "বেশি",
+    "B": "কম",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "সাবমেরিন পানিতে ডোবে বা ভাসে কীভাবে?",
+   "options": {
+    "A": "ব্যালাস্ট ট্যাংকে পানি ভরে/খালি করে",
+    "B": "ইঞ্জিনে",
+    "C": "পালে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "পানির অস্বাভাবিক প্রসারণের ফলে শীতকালে মাছ —",
+   "options": {
+    "A": "বাঁচে",
+    "B": "মরে",
+    "C": "ভেসে ওঠে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "তাপ প্রয়োগে পদার্থের অবস্থার পরিবর্তন —",
+   "options": {
+    "A": "হয়",
+    "B": "হয় না",
+    "C": "কখনো হয়",
+    "D": "কখনো হয় না"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "১২০ নিউটন বল ২০ মি² ক্ষেত্রে চাপ কত?",
+   "options": {
+    "A": "৬ প্যাসকেল",
+    "B": "২৪০০ প্যাসকেল",
+    "C": "১৪০ প্যাসকেল",
+    "D": "১০০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "পানিতে ৬ মিটার গভীরে চাপ কত? (ρ=১০০০, g=১০)",
+   "options": {
+    "A": "৬০০০০ প্যাসকেল",
+    "B": "৬০০০ প্যাসকেল",
+    "C": "৬০০ প্যাসকেল",
+    "D": "৬০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "বায়ুতে বস্তুর ওজন ৪০ নিউটন, পানিতে ২৫ নিউটন হলে প্লবতা কত?",
+   "options": {
+    "A": "১৫ নিউটন",
+    "B": "৪০ নিউটন",
+    "C": "২৫ নিউটন",
+    "D": "৬৫ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "পানির ঘনত্ব সবচেয়ে বেশি কত ডিগ্রিতে?",
+   "options": {
+    "A": "৪°C",
+    "B": "০°C",
+    "C": "১০০°C",
+    "D": "২৫°C"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "বরফের উপর চাপ দিলে বরফ —",
+   "options": {
+    "A": "গলে যায়",
+    "B": "শক্ত হয়",
+    "C": "একই থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "চাপ ও ক্ষেত্রফলের সম্পর্ক কী?",
+   "options": {
+    "A": "চাপ ∝ ক্ষেত্রফল",
+    "B": "চাপ ∝ ১/ক্ষেত্রফল",
+    "C": "কোনো সম্পর্ক নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "পানিতে ১২ মিটার গভীরে চাপ কত? (ρ=১০০০, g=১০)",
+   "options": {
+    "A": "১২০০০০ প্যাসকেল",
+    "B": "১২০০০ প্যাসকেল",
+    "C": "১২০০ প্যাসকেল",
+    "D": "১২০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "বস্তুর ওজন ১৫০ নিউটন ও প্লবতা ৬০ নিউটন হলে আপাত ওজন কত?",
+   "options": {
+    "A": "৯০ নিউটন",
+    "B": "২১০ নিউটন",
+    "C": "১৫০ নিউটন",
+    "D": "৬০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "একটি বস্তুর ভর ৬০ গ্রাম ও ঘনত্ব ৩ গ্রাম/ঘন সেমি হলে আয়তন কত?",
+   "options": {
+    "A": "২০ ঘন সেমি",
+    "B": "৬০ ঘন সেমি",
+    "C": "১৮০ ঘন সেমি",
+    "D": "৬৩ ঘন সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "তরলের বৈশিষ্ট্য কী?",
+   "options": {
+    "A": "নির্দিষ্ট আকার ও আয়তন",
+    "B": "নির্দিষ্ট আয়তন, আকার নেই",
+    "C": "আকার-আয়তন কিছুই নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "চাপ ২৫ প্যাসকেল ও বল ১০০ নিউটন হলে ক্ষেত্রফল কত?",
+   "options": {
+    "A": "৪ মি²",
+    "B": "২৫০০ মি²",
+    "C": "১২৫ মি²",
+    "D": "৭৫ মি²"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "পানিতে ১০ মিটার গভীরে চাপ কত? (ρ=১০০০, g=১০)",
+   "options": {
+    "A": "১০০০০০ প্যাসকেল",
+    "B": "১০০০০ প্যাসকেল",
+    "C": "১০০০ প্যাসকেল",
+    "D": "১০০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "মাছ পানিতে উঠানামা করে কীভাবে?",
+   "options": {
+    "A": "বায়ুথলি সংকুচিত-প্রসারিত করে",
+    "B": "পাখনায়",
+    "C": "লেজে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "৪°C পানির ঘনত্ব কত কেজি/মি³?",
+   "options": {
+    "A": "১০০০",
+    "B": "৯১৭",
+    "C": "৯৯৯",
+    "D": "১১০০"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "গ্যাসের বৈশিষ্ট্য কী?",
+   "options": {
+    "A": "নির্দিষ্ট আকার ও আয়তন",
+    "B": "নির্দিষ্ট আয়তন",
+    "C": "নির্দিষ্ট আকার-আয়তন কিছুই নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "চাপের একক কোনটি?",
+   "options": {
+    "A": "নিউটন",
+    "B": "প্যাসকেল",
+    "C": "জুল",
+    "D": "ওয়াট"
+   },
+   "correctAnswer": "B",
+   "topic": "চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "তরলের চাপ নির্ণয়ের সূত্র কোনটি?",
+   "options": {
+    "A": "P = hρg",
+    "B": "P = h/ρg",
+    "C": "P = ρg/h",
+    "D": "P = hρ/g"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "বায়ুতে বস্তুর ওজন ১০০ নিউটন, পানিতে ৭৫ নিউটন হলে প্লবতা কত?",
+   "options": {
+    "A": "২৫ নিউটন",
+    "B": "১০০ নিউটন",
+    "C": "৭৫ নিউটন",
+    "D": "১৭৫ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "একটি বস্তুর ভর ৯০ গ্রাম, আয়তন ৩০ ঘন সেমি হলে ঘনত্ব কত?",
+   "options": {
+    "A": "৩ গ্রাম/ঘন সেমি",
+    "B": "৯০ গ্রাম/ঘন সেমি",
+    "C": "০.৩৩ গ্রাম/ঘন সেমি",
+    "D": "৩০ গ্রাম/ঘন সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "ভেজা কাপড় শুকায় কোন প্রক্রিয়ায়?",
+   "options": {
+    "A": "বাষ্পীভবন",
+    "B": "ঘনীভবন",
+    "C": "গলন",
+    "D": "ঊর্ধ্বপাতন"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "২৪০ নিউটন বল ৩০ মি² ক্ষেত্রে চাপ কত?",
+   "options": {
+    "A": "৮ প্যাসকেল",
+    "B": "৭২০০ প্যাসকেল",
+    "C": "২৭০ প্যাসকেল",
+    "D": "২১০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "পানিতে ১৫ মিটার গভীরে চাপ কত? (ρ=১০০০, g=১০)",
+   "options": {
+    "A": "১৫০০০০ প্যাসকেল",
+    "B": "১৫০০০ প্যাসকেল",
+    "C": "১৫০০ প্যাসকেল",
+    "D": "১৫০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "বায়ুতে বস্তুর ওজন ১২০ নিউটন, পানিতে ৮০ নিউটন হলে প্লবতা কত?",
+   "options": {
+    "A": "৪০ নিউটন",
+    "B": "১২০ নিউটন",
+    "C": "৮০ নিউটন",
+    "D": "২০০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "একটি বস্তুর ঘনত্ব ২ গ্রাম/ঘন সেমি ও আয়তন ৪০ ঘন সেমি হলে ভর কত?",
+   "options": {
+    "A": "৮০ গ্রাম",
+    "B": "২০ গ্রাম",
+    "C": "৪২ গ্রাম",
+    "D": "৩৮ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "সমুদ্রের পানি বাষ্প হয়ে মেঘ হয় — কোন প্রক্রিয়া?",
+   "options": {
+    "A": "বাষ্পীভবন",
+    "B": "ঘনীভবন",
+    "C": "গলন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "চাপের মাত্রা কোনটি?",
+   "options": {
+    "A": "[ML⁻¹T⁻²]",
+    "B": "[MLT⁻²]",
+    "C": "[ML⁻²T⁻²]",
+    "D": "[ML⁻¹T⁻¹]"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "পানিতে ৪ মিটার গভীরে চাপ কত? (ρ=১০০০, g=১০)",
+   "options": {
+    "A": "৪০০০০ প্যাসকেল",
+    "B": "৪০০০ প্যাসকেল",
+    "C": "৪০০ প্যাসকেল",
+    "D": "৪০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "প্লবতা কতটুকু তরল অপসারণের সমান?",
+   "options": {
+    "A": "অপসারিত তরলের ওজন",
+    "B": "বস্তুর ওজন",
+    "C": "বস্তুর ভর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "একটি বস্তুর ভর ২০০ গ্রাম ও ঘনত্ব ১০ গ্রাম/ঘন সেমি হলে আয়তন কত?",
+   "options": {
+    "A": "২০ ঘন সেমি",
+    "B": "২০০ ঘন সেমি",
+    "C": "২০০০ ঘন সেমি",
+    "D": "২১০ ঘন সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "তরলের কণাগুলো —",
+   "options": {
+    "A": "সম্পূর্ণ মুক্ত",
+    "B": "আংশিক মুক্ত",
+    "C": "সম্পূর্ণ আবদ্ধ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "চাপ মাপার একক নয় কোনটি?",
+   "options": {
+    "A": "প্যাসকেল",
+    "B": "বার",
+    "C": "অ্যাটমস্ফিয়ার",
+    "D": "জুল"
+   },
+   "correctAnswer": "D",
+   "topic": "চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "পানিতে ৯ মিটার গভীরে চাপ কত? (ρ=১০০০, g=১০)",
+   "options": {
+    "A": "৯০০০০ প্যাসকেল",
+    "B": "৯০০০ প্যাসকেল",
+    "C": "৯০০ প্যাসকেল",
+    "D": "৯০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "আপাত ওজন = ?",
+   "options": {
+    "A": "আসল ওজন − প্লবতা",
+    "B": "আসল ওজন + প্লবতা",
+    "C": "প্লবতা − ওজন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "একটি বস্তুর ঘনত্ব ৬ গ্রাম/ঘন সেমি ও আয়তন ২৫ ঘন সেমি হলে ভর কত?",
+   "options": {
+    "A": "১৫০ গ্রাম",
+    "B": "৩১ গ্রাম",
+    "C": "১৯ গ্রাম",
+    "D": "৪.১৭ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "বরফ গলনের লীন তাপ কত?",
+   "options": {
+    "A": "৮০ ক্যালরি/গ্রাম",
+    "B": "৫৪০ ক্যালরি/গ্রাম",
+    "C": "১০০ ক্যালরি/গ্রাম",
+    "D": "১ ক্যালরি/গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "১০০ নিউটন বল ৫ মিটার² ক্ষেত্রে প্রযুক্ত হলে চাপ কত?",
+   "options": {
+    "A": "২০ প্যাসকেল",
+    "B": "৫০০ প্যাসকেল",
+    "C": "১০৫ প্যাসকেল",
+    "D": "৯৫ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "ট্যাংকের উপরে ছিদ্র করলে পানি বেগে বের হয় —",
+   "options": {
+    "A": "না",
+    "B": "হ্যাঁ",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "তরলে নিমজ্জিত বস্তুর ওজন হ্রাসের পরিমাণ = ?",
+   "options": {
+    "A": "অপসারিত তরলের ওজন",
+    "B": "বস্তুর ওজন",
+    "C": "বস্তুর ভর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "পানির এই অস্বাভাবিক ধর্মকে কী বলা হয়?",
+   "options": {
+    "A": "অসামঞ্জস্য প্রসারণ",
+    "B": "স্বাভাবিক প্রসারণ",
+    "C": "সংকোচন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "প্রেসার কুকারে খাবার দ্রুত রান্না হয় কেন?",
+   "options": {
+    "A": "চাপ বেশি, স্ফুটনাঙ্ক বেশি",
+    "B": "চাপ কম",
+    "C": "তাপ কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "একজন ব্যক্তির ওজন ৬০০ নিউটন, পায়ের ক্ষেত্রফল ০.১ মি² হলে চাপ কত?",
+   "options": {
+    "A": "৬০০০ প্যাসকেল",
+    "B": "৬০ প্যাসকেল",
+    "C": "৬০০ প্যাসকেল",
+    "D": "৬ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "তরলের ঘনত্ব ৮০০ কেজি/মি³, গভীরতা ৫ মিটার, g=১০ হলে চাপ কত?",
+   "options": {
+    "A": "৪০০০০ প্যাসকেল",
+    "B": "৪০০০ প্যাসকেল",
+    "C": "৪০০ প্যাসকেল",
+    "D": "৪০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "তরলের চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "তরলে বস্তু ভাসে বা ডুবে — এটি কীসের উপর নির্ভর করে?",
+   "options": {
+    "A": "ঘনত্ব",
+    "B": "আকার",
+    "C": "রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "৪°C এর নিচে পানি ঠান্ডা হলে ঘনত্ব —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "রেফ্রিজারেটরে অ্যামোনিয়া কোন প্রক্রিয়ায় কাজ করে?",
+   "options": {
+    "A": "বাষ্পীভবন ও ঘনীভবন",
+    "B": "গলন",
+    "C": "ঊর্ধ্বপাতন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "১৮০ নিউটন বল ২০ মি² ক্ষেত্রে চাপ কত?",
+   "options": {
+    "A": "৯ প্যাসকেল",
+    "B": "৩৬০০ প্যাসকেল",
+    "C": "২০০ প্যাসকেল",
+    "D": "১৬০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "বায়ুতে বস্তুর ওজন ৭০ নিউটন, পানিতে ৫০ নিউটন হলে প্লবতা কত?",
+   "options": {
+    "A": "২০ নিউটন",
+    "B": "৭০ নিউটন",
+    "C": "৫০ নিউটন",
+    "D": "১২০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "সমুদ্রের পানিতে সাঁতার সহজ কারণ —",
+   "options": {
+    "A": "ঘনত্ব বেশি, প্লবতা বেশি",
+    "B": "ঘনত্ব কম",
+    "C": "পানি কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "গরমে কুকুর হাঁপায় কেন?",
+   "options": {
+    "A": "বাষ্পীভবনে ঠান্ডা হতে",
+    "B": "ঘনীভবনে",
+    "C": "গলনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "চাপ ৫০ প্যাসকেল ও ক্ষেত্রফল ৪ মি² হলে বল কত?",
+   "options": {
+    "A": "২০০ নিউটন",
+    "B": "১২.৫ নিউটন",
+    "C": "৫৪ নিউটন",
+    "D": "৪৬ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "বায়ুতে বস্তুর ওজন ১৮০ নিউটন, পানিতে ১২০ নিউটন হলে প্লবতা কত?",
+   "options": {
+    "A": "৬০ নিউটন",
+    "B": "১৮০ নিউটন",
+    "C": "১২০ নিউটন",
+    "D": "৩০০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "একটি বস্তুর ভর ১৫০ কেজি, ঘনত্ব ৫ কেজি/মি³ হলে আয়তন কত?",
+   "options": {
+    "A": "৩০ মিটার³",
+    "B": "৭৫০ মিটার³",
+    "C": "১৫৫ মিটার³",
+    "D": "১৪৫ মিটার³"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "তাপ দিলে কঠিন পদার্থ —",
+   "options": {
+    "A": "তরলে পরিণত হয়",
+    "B": "কঠিন থাকে",
+    "C": "গ্যাসে সরাসরি যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "২০০ নিউটন বল ২৫ মি² ক্ষেত্রে চাপ কত?",
+   "options": {
+    "A": "৮ প্যাসকেল",
+    "B": "৫০০০ প্যাসকেল",
+    "C": "২২৫ প্যাসকেল",
+    "D": "১৭৫ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "আর্কিমিডিসের সূত্র কী?",
+   "options": {
+    "A": "প্লবতা = অপসারিত তরলের ওজন",
+    "B": "চাপ = বল/ক্ষেত্রফল",
+    "C": "চাপ = hρg",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "মৃত সাগরে কোনো মানুষ ডোবে না কারণ —",
+   "options": {
+    "A": "ঘনত্ব খুব বেশি",
+    "B": "পানি কম",
+    "C": "গভীরতা কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "পদার্থের অবস্থা কয়টি?",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "৪",
+    "D": "৫"
+   },
+   "correctAnswer": "B",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "চাপ ও বলের সম্পর্ক কী?",
+   "options": {
+    "A": "চাপ ∝ বল",
+    "B": "চাপ ∝ ১/বল",
+    "C": "কোনো সম্পর্ক নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "একটি বস্তু পানিতে ২০ নিউটন হালকা লাগে। অপসারিত পানির ওজন কত?",
+   "options": {
+    "A": "২০ নিউটন",
+    "B": "২০ কেজি",
+    "C": "৪০ নিউটন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "একটি বস্তুর ভর ১০০ কেজি, ঘনত্ব ২০ কেজি/মি³ হলে আয়তন কত?",
+   "options": {
+    "A": "৫ মিটার³",
+    "B": "২০০০ মিটার³",
+    "C": "১২০ মিটার³",
+    "D": "৮০ মিটার³"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "মেঘ থেকে বৃষ্টি হয় — কোন প্রক্রিয়া?",
+   "options": {
+    "A": "ঘনীভবন",
+    "B": "বাষ্পীভবন",
+    "C": "গলন",
+    "D": "ঊর্ধ্বপাতন"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "পেরেকের আগা ধারালো হয় কেন?",
+   "options": {
+    "A": "চাপ বাড়াতে",
+    "B": "চাপ কমাতে",
+    "C": "সৌন্দর্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "বায়ুতে বস্তুর ওজন ২০০ নিউটন, পানিতে ১৪০ নিউটন হলে প্লবতা কত?",
+   "options": {
+    "A": "৬০ নিউটন",
+    "B": "২০০ নিউটন",
+    "C": "১৪০ নিউটন",
+    "D": "৩৪০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "একটি বস্তুর ভর ৮০ গ্রাম ও ঘনত্ব ৪ গ্রাম/ঘন সেমি হলে আয়তন কত?",
+   "options": {
+    "A": "২০ ঘন সেমি",
+    "B": "৮০ ঘন সেমি",
+    "C": "৩২০ ঘন সেমি",
+    "D": "৮৪ ঘন সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "গ্যাসের কণার গতিশক্তি —",
+   "options": {
+    "A": "কম",
+    "B": "মাঝারি",
+    "C": "সবচেয়ে বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "চাপ ৩০ প্যাসকেল ও ক্ষেত্রফল ৩ মি² হলে বল কত?",
+   "options": {
+    "A": "৯০ নিউটন",
+    "B": "১০ নিউটন",
+    "C": "৩৩ নিউটন",
+    "D": "২৭ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "বস্তুর ওজন ৯০ নিউটন ও প্লবতা ৪০ নিউটন হলে আপাত ওজন কত?",
+   "options": {
+    "A": "৫০ নিউটন",
+    "B": "১৩০ নিউটন",
+    "C": "৯০ নিউটন",
+    "D": "৪০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "ঘনত্ব কাকে বলে?",
+   "options": {
+    "A": "একক আয়তনে ভর",
+    "B": "একক ভরে আয়তন",
+    "C": "ভর × আয়তন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "শীতকালে শিশির পড়ে — কোন প্রক্রিয়া?",
+   "options": {
+    "A": "ঘনীভবন",
+    "B": "বাষ্পীভবন",
+    "C": "গলন",
+    "D": "ঊর্ধ্বপাতন"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "৩০ নিউটন বল ৬ মিটার² ক্ষেত্রে প্রযুক্ত হলে চাপ কত?",
+   "options": {
+    "A": "৫ প্যাসকেল",
+    "B": "১৮০ প্যাসকেল",
+    "C": "৩৬ প্যাসকেল",
+    "D": "২৪ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "হিলিয়াম বেলুন উপরে ওঠে কেন?",
+   "options": {
+    "A": "হিলিয়াম বাতাসের চেয়ে হালকা",
+    "B": "হিলিয়াম ভারী",
+    "C": "বেলুন হালকা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "ঘনত্ব ৭ কেজি/মি³ ও আয়তন ৫ মিটার³ হলে ভর কত?",
+   "options": {
+    "A": "৩৫ কেজি",
+    "B": "১২ কেজি",
+    "C": "২ কেজি",
+    "D": "৪০ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "অ্যামোনিয়া গ্যাস চাপে —",
+   "options": {
+    "A": "তরল হয়",
+    "B": "কঠিন হয়",
+    "C": "গ্যাসই থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "২৫ নিউটন বল ৫ মি² ক্ষেত্রে চাপ কত?",
+   "options": {
+    "A": "৫ প্যাসকেল",
+    "B": "১২৫ প্যাসকেল",
+    "C": "৩০ প্যাসকেল",
+    "D": "২০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "বেলুনে প্লবতা কীসের কারণে?",
+   "options": {
+    "A": "বায়ুর প্লবতা",
+    "B": "মহাকর্ষ",
+    "C": "ঘর্ষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "পানি বরফ হলে আয়তন প্রায় কত শতাংশ বাড়ে?",
+   "options": {
+    "A": "৯%",
+    "B": "১%",
+    "C": "৫০%",
+    "D": "১০০%"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "দুই বরফখণ্ড চাপ দিলে জোড়া লেগে যায় — কারণ?",
+   "options": {
+    "A": "চাপে গলন ও পুনরায় জমা",
+    "B": "তাপ",
+    "C": "ঘর্ষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "বল ও চাপের মধ্যে সম্পর্ক —",
+   "options": {
+    "A": "চাপ = বল/ক্ষেত্রফল",
+    "B": "চাপ = বল × ক্ষেত্রফল",
+    "C": "চাপ = ক্ষেত্রফল/বল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "প্লবতা কাকে বলে?",
+   "options": {
+    "A": "তরলে নিমজ্জিত বস্তুর উপর ঊর্ধ্বমুখী বল",
+    "B": "নিম্নমুখী বল",
+    "C": "পার্শ্ব বল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "ঘনত্বের মাত্রা কোনটি?",
+   "options": {
+    "A": "[ML⁻³]",
+    "B": "[ML³]",
+    "C": "[ML⁻²]",
+    "D": "[ML²]"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "গ্যাসের আন্তঃআণবিক বল —",
+   "options": {
+    "A": "সবচেয়ে বেশি",
+    "B": "মাঝারি",
+    "C": "সবচেয়ে কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "ভোঁতা ছুরি দিয়ে কাটা কঠিন কেন?",
+   "options": {
+    "A": "চাপ কম",
+    "B": "চাপ বেশি",
+    "C": "বল বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "প্লবতা গভীরতার সাথে —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "নির্ভর করে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "পানিতে লবণ মেশালে ঘনত্ব —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "পদার্থের অবস্থা পরিবর্তনের সময় তাপমাত্রা —",
+   "options": {
+    "A": "স্থির থাকে",
+    "B": "বাড়ে",
+    "C": "কমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "তীক্ষ্ণ ফলার যন্ত্র সহজে কাটে কারণ —",
+   "options": {
+    "A": "চাপ বেশি",
+    "B": "চাপ কম",
+    "C": "বল কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "বস্তুর ঘনত্ব তরলের ঘনত্বের চেয়ে কম হলে বস্তু —",
+   "options": {
+    "A": "ভাসে",
+    "B": "ডুবে যায়",
+    "C": "ঝুলে থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "ভর ৮০ কেজি ও ঘনত্ব ৪ কেজি/মি³ হলে আয়তন কত?",
+   "options": {
+    "A": "২০ মিটার³",
+    "B": "৩২০ মিটার³",
+    "C": "৮৪ মিটার³",
+    "D": "৭৬ মিটার³"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "বাষ্প ঘনীভূত করে পানি করা হয় —",
+   "options": {
+    "A": "ঠান্ডা করে",
+    "B": "গরম করে",
+    "C": "চাপ বাড়িয়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "একটি টেবিলের ওজন ২০০ নিউটন, ৪ পায়ের প্রতিটির ক্ষেত্রফল ০.০১ মি² হলে মোট চাপ কত?",
+   "options": {
+    "A": "৫০০০ প্যাসকেল",
+    "B": "২০০০ প্যাসকেল",
+    "C": "৫০০ প্যাসকেল",
+    "D": "২০০ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "পানিতে পাথর হালকা লাগে কেন?",
+   "options": {
+    "A": "প্লবতার কারণে",
+    "B": "মহাকর্ষের কারণে",
+    "C": "ঘর্ষণের কারণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "ঘনত্বের SI একক কেজি/মিটার³ এর অপর রূপ কী?",
+   "options": {
+    "A": "কেজি/মি³",
+    "B": "গ্রাম/সেমি³",
+    "C": "কেজি/লিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "বরফ গলার সময় তাপমাত্রা —",
+   "options": {
+    "A": "স্থির থাকে",
+    "B": "বাড়ে",
+    "C": "কমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "চাপ কোন ধরনের রাশি?",
+   "options": {
+    "A": "ভেক্টর",
+    "B": "স্কেলার",
+    "C": "মাত্রাহীন",
+    "D": "মৌলিক"
+   },
+   "correctAnswer": "B",
+   "topic": "চাপ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "বায়ুতে বস্তুর ওজন ৫০ নিউটন, পানিতে ৩০ নিউটন হলে প্লবতা কত?",
+   "options": {
+    "A": "২০ নিউটন",
+    "B": "৫০ নিউটন",
+    "C": "৩০ নিউটন",
+    "D": "৮০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "একটি বস্তুর ভর ৩০০ গ্রাম ও ঘনত্ব ১৫ গ্রাম/ঘন সেমি হলে আয়তন কত?",
+   "options": {
+    "A": "২০ ঘন সেমি",
+    "B": "৩০০ ঘন সেমি",
+    "C": "৪৫০০ ঘন সেমি",
+    "D": "৩১৫ ঘন সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "তরল থেকে গ্যাসে রূপান্তরকে কী বলে?",
+   "options": {
+    "A": "গলন",
+    "B": "বাষ্পীভবন",
+    "C": "ঘনীভবন",
+    "D": "ঊর্ধ্বপাতন"
+   },
+   "correctAnswer": "B",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "ছুরির ধার ধারালো করা হয় —",
+   "options": {
+    "A": "চাপ বাড়াতে",
+    "B": "চাপ কমাতে",
+    "C": "ওজন কমাতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "মৃত সাগরে মানুষ সহজে ভাসে কেন?",
+   "options": {
+    "A": "লবণাক্ততায় ঘনত্ব বেশি",
+    "B": "পানি কম",
+    "C": "গভীরতা কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আর্কিমিডিসের সূত্র",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "লবণ পানিতে ডিম ভাসে কারণ ঘনত্ব —",
+   "options": {
+    "A": "বেশি",
+    "B": "কম",
+    "C": "একই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "আয়োডিন উত্তপ্ত করলে বেগুনি বাষ্প হয় — কোন প্রক্রিয়া?",
+   "options": {
+    "A": "ঊর্ধ্বপাতন",
+    "B": "গলন",
+    "C": "বাষ্পীভবন",
+    "D": "ঘনীভবন"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "সরু হিলের জুতা মেঝেতে দাগ ফেলে কেন?",
+   "options": {
+    "A": "চাপ বেশি",
+    "B": "চাপ কম",
+    "C": "ওজন বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "ঘনত্ব ৫ কেজি/মি³ ও আয়তন ৪ মিটার³ হলে ভর কত?",
+   "options": {
+    "A": "২০ কেজি",
+    "B": "১.২৫ কেজি",
+    "C": "৯ কেজি",
+    "D": "৫ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "পদার্থের তিনটি অবস্থা কী?",
+   "options": {
+    "A": "কঠিন, তরল, বায়বীয়",
+    "B": "কঠিন, তরল, প্লাজমা",
+    "C": "কঠিন, গ্যাস, প্লাজমা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "১০ নিউটন বল ২ মি² ক্ষেত্রে চাপ কত?",
+   "options": {
+    "A": "৫ প্যাসকেল",
+    "B": "২০ প্যাসকেল",
+    "C": "১২ প্যাসকেল",
+    "D": "৮ প্যাসকেল"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "ঘনত্ব = ভর/আয়তন সূত্রে ভর বাড়ালে ঘনত্ব —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "তাপ দিলে কণার গতিশক্তি —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "ড্রপার বা সিরিঞ্জ কোন নীতিতে কাজ করে?",
+   "options": {
+    "A": "চাপ",
+    "B": "প্লবতা",
+    "C": "ঘনত্ব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "শীতকালে পানির পাইপ ফেটে যায় কেন?",
+   "options": {
+    "A": "পানি জমে আয়তন বাড়ে",
+    "B": "পানি কমে",
+    "C": "চাপ কমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "শুকনো বরফ বাতাসে ছেড়ে দিলে —",
+   "options": {
+    "A": "সরাসরি গ্যাস হয়",
+    "B": "পানি হয়",
+    "C": "বরফ থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "কম্বল বা নরম বিছানায় শোয়া আরামদায়ক কেন?",
+   "options": {
+    "A": "চাপ কম",
+    "B": "চাপ বেশি",
+    "C": "তাপ কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চাপ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "একটি বস্তুর ঘনত্ব ৩ গ্রাম/ঘন সেমি ও আয়তন ১৫ ঘন সেমি হলে ভর কত?",
+   "options": {
+    "A": "৪৫ গ্রাম",
+    "B": "৩ গ্রাম",
+    "C": "১৮ গ্রাম",
+    "D": "৫ গ্রাম"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "কর্পূর বাতাসে ছেড়ে দিলে ধীরে ধীরে —",
+   "options": {
+    "A": "অদৃশ্য হয় (ঊর্ধ্বপাতন)",
+    "B": "গলে যায়",
+    "C": "জমে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "একটি বস্তুর ভর ৫০০ গ্রাম ও ঘনত্ব ২৫ গ্রাম/ঘন সেমি হলে আয়তন কত?",
+   "options": {
+    "A": "২০ ঘন সেমি",
+    "B": "৫০০ ঘন সেমি",
+    "C": "১২৫০০ ঘন সেমি",
+    "D": "৫২৫ ঘন সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "পদার্থের অবস্থা পরিবর্তনে চাপের ভূমিকা —",
+   "options": {
+    "A": "আছে",
+    "B": "নেই",
+    "C": "কখনো আছে",
+    "D": "কখনো নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "ঘনত্ব ৮ কেজি/মি³ ও আয়তন ৫ মিটার³ হলে ভর কত?",
+   "options": {
+    "A": "৪০ কেজি",
+    "B": "১৩ কেজি",
+    "C": "১.৬ কেজি",
+    "D": "৮ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "বৃষ্টির পানির চক্রে কোন প্রক্রিয়া জড়িত?",
+   "options": {
+    "A": "বাষ্পীভবন ও ঘনীভবন",
+    "B": "শুধু গলন",
+    "C": "শুধু ঊর্ধ্বপাতন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "ঘনত্বের সূত্র কোনটি?",
+   "options": {
+    "A": "ρ = m/V",
+    "B": "ρ = V/m",
+    "C": "ρ = mV",
+    "D": "ρ = m/V²"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "নিশাদল (অ্যামোনিয়াম ক্লোরাইড) উত্তপ্ত করলে —",
+   "options": {
+    "A": "ঊর্ধ্বপাতন হয়",
+    "B": "গলে",
+    "C": "ফোটে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "একটি বস্তুর ভর ২০০ কেজি, আয়তন ২ মিটার³ হলে ঘনত্ব কত?",
+   "options": {
+    "A": "১০০ কেজি/মি³",
+    "B": "২০০ কেজি/মি³",
+    "C": "৪০০ কেজি/মি³",
+    "D": "৫০ কেজি/মি³"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "কঠিন পদার্থের বৈশিষ্ট্য কী?",
+   "options": {
+    "A": "নির্দিষ্ট আকার ও আয়তন",
+    "B": "নির্দিষ্ট আয়তন, আকার নেই",
+    "C": "আকার-আয়তন কিছুই নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "ভর ৬০ কেজি ও ঘনত্ব ৩ কেজি/মি³ হলে আয়তন কত?",
+   "options": {
+    "A": "২০ মিটার³",
+    "B": "১৮০ মিটার³",
+    "C": "৬৩ মিটার³",
+    "D": "৫৭ মিটার³"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "২০ গ্রাম পানি বাষ্প করতে কত তাপ লাগে?",
+   "options": {
+    "A": "১০৮০০ ক্যালরি",
+    "B": "১০৮০ ক্যালরি",
+    "C": "২০ ক্যালরি",
+    "D": "৫৪০ ক্যালরি"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "পানি জমে বরফ হলে আয়তন —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "কঠিন থেকে তরলে রূপান্তরকে কী বলে?",
+   "options": {
+    "A": "গলন",
+    "B": "স্ফুটন",
+    "C": "ঘনীভবন",
+    "D": "ঊর্ধ্বপাতন"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "একটি বস্তুর ভর ১০০ গ্রাম, আয়তন ৫০ ঘন সেমি হলে ঘনত্ব কত?",
+   "options": {
+    "A": "২ গ্রাম/ঘন সেমি",
+    "B": "৫ গ্রাম/ঘন সেমি",
+    "C": "০.৫ গ্রাম/ঘন সেমি",
+    "D": "১০০ গ্রাম/ঘন সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "গ্যাস থেকে তরলে রূপান্তরকে কী বলে?",
+   "options": {
+    "A": "বাষ্পীভবন",
+    "B": "ঘনীভবন",
+    "C": "গলন",
+    "D": "ঊর্ধ্বপাতন"
+   },
+   "correctAnswer": "B",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "১ গ্রাম/ঘন সেমি = কত কেজি/মিটার³?",
+   "options": {
+    "A": "১০০০",
+    "B": "১০০",
+    "C": "১০",
+    "D": "১"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "স্ফুটনাঙ্ক কাকে বলে?",
+   "options": {
+    "A": "কঠিন গলার তাপমাত্রা",
+    "B": "তরল ফুটার তাপমাত্রা",
+    "C": "গ্যাসের তাপমাত্রা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "কোন তাপমাত্রায় পানির ঘনত্ব সর্বোচ্চ?",
+   "options": {
+    "A": "৪°C",
+    "B": "০°C",
+    "C": "১০০°C",
+    "D": "২৫°C"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘনত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "গ্যাসকে চাপ দিলে —",
+   "options": {
+    "A": "তরলে পরিণত হয়",
+    "B": "কঠিন হয়",
+    "C": "গ্যাসই থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পদার্থের অবস্থা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "A",
+  "2": "A",
+  "3": "A",
+  "4": "A",
+  "5": "A",
+  "6": "A",
+  "7": "A",
+  "8": "A",
+  "9": "D",
+  "10": "A",
+  "11": "A",
+  "12": "A",
+  "13": "A",
+  "14": "A",
+  "15": "A",
+  "16": "A",
+  "17": "B",
+  "18": "B",
+  "19": "A",
+  "20": "A",
+  "21": "A",
+  "22": "A",
+  "23": "A",
+  "24": "A",
+  "25": "A",
+  "26": "A",
+  "27": "A",
+  "28": "A",
+  "29": "A",
+  "30": "A",
+  "31": "A",
+  "32": "A",
+  "33": "A",
+  "34": "A",
+  "35": "A",
+  "36": "A",
+  "37": "A",
+  "38": "A",
+  "39": "A",
+  "40": "A",
+  "41": "A",
+  "42": "A",
+  "43": "A",
+  "44": "A",
+  "45": "A",
+  "46": "A",
+  "47": "A",
+  "48": "D",
+  "49": "A",
+  "50": "A",
+  "51": "A",
+  "52": "A",
+  "53": "A",
+  "54": "A",
+  "55": "A",
+  "56": "A",
+  "57": "A",
+  "58": "A",
+  "59": "A",
+  "60": "A",
+  "61": "A",
+  "62": "A",
+  "63": "A",
+  "64": "A",
+  "65": "A",
+  "66": "A",
+  "67": "A",
+  "68": "A",
+  "69": "A",
+  "70": "A",
+  "71": "A",
+  "72": "A",
+  "73": "A",
+  "74": "A",
+  "75": "A",
+  "76": "A",
+  "77": "A",
+  "78": "A",
+  "79": "A",
+  "80": "A",
+  "81": "A",
+  "82": "A",
+  "83": "A",
+  "84": "A",
+  "85": "A",
+  "86": "A",
+  "87": "A",
+  "88": "A",
+  "89": "A",
+  "90": "A",
+  "91": "A",
+  "92": "A",
+  "93": "B",
+  "94": "A",
+  "95": "A",
+  "96": "A",
+  "97": "A",
+  "98": "A",
+  "99": "A",
+  "100": "A",
+  "101": "A",
+  "102": "A",
+  "103": "A",
+  "104": "A",
+  "105": "A",
+  "106": "A",
+  "107": "B",
+  "108": "A",
+  "109": "A",
+  "110": "A",
+  "111": "B",
+  "112": "A",
+  "113": "A",
+  "114": "A",
+  "115": "A",
+  "116": "A",
+  "117": "A",
+  "118": "A",
+  "119": "B",
+  "120": "A",
+  "121": "A",
+  "122": "A",
+  "123": "A",
+  "124": "A",
+  "125": "A",
+  "126": "B",
+  "127": "A",
+  "128": "A",
+  "129": "A",
+  "130": "A",
+  "131": "B",
+  "132": "A",
+  "133": "A",
+  "134": "A",
+  "135": "B",
+  "136": "B",
+  "137": "A",
+  "138": "A",
+  "139": "A",
+  "140": "A",
+  "141": "A",
+  "142": "A",
+  "143": "A",
+  "144": "B",
+  "145": "A",
+  "146": "A",
+  "147": "A",
+  "148": "A",
+  "149": "A",
+  "150": "A",
+  "151": "A",
+  "152": "A",
+  "153": "A",
+  "154": "A",
+  "155": "A",
+  "156": "A",
+  "157": "A",
+  "158": "A",
+  "159": "A",
+  "160": "A",
+  "161": "A",
+  "162": "A",
+  "163": "A",
+  "164": "A",
+  "165": "B",
+  "166": "A",
+  "167": "A",
+  "168": "A",
+  "169": "A",
+  "170": "A",
+  "171": "A",
+  "172": "B",
+  "173": "B",
+  "174": "A",
+  "175": "A",
+  "176": "A",
+  "177": "A",
+  "178": "A",
+  "179": "B",
+  "180": "A",
+  "181": "B",
+  "182": "A",
+  "183": "A",
+  "184": "A",
+  "185": "A",
+  "186": "A",
+  "187": "A",
+  "188": "A",
+  "189": "A",
+  "190": "A",
+  "191": "A",
+  "192": "A",
+  "193": "A",
+  "194": "A",
+  "195": "A",
+  "196": "A",
+  "197": "A",
+  "198": "A",
+  "199": "A",
+  "200": "A",
+  "201": "A",
+  "202": "A",
+  "203": "A",
+  "204": "A",
+  "205": "A",
+  "206": "A",
+  "207": "A",
+  "208": "A",
+  "209": "A",
+  "210": "A",
+  "211": "A",
+  "212": "A",
+  "213": "A",
+  "214": "A",
+  "215": "A",
+  "216": "A",
+  "217": "A",
+  "218": "A",
+  "219": "A",
+  "220": "A",
+  "221": "A",
+  "222": "A",
+  "223": "A",
+  "224": "C",
+  "225": "A",
+  "226": "A",
+  "227": "C",
+  "228": "A",
+  "229": "A",
+  "230": "A",
+  "231": "A",
+  "232": "A",
+  "233": "A",
+  "234": "A",
+  "235": "A",
+  "236": "A",
+  "237": "A",
+  "238": "A",
+  "239": "A",
+  "240": "A",
+  "241": "A",
+  "242": "A",
+  "243": "A",
+  "244": "A",
+  "245": "A",
+  "246": "A",
+  "247": "A",
+  "248": "A",
+  "249": "A",
+  "250": "B",
+  "251": "A",
+  "252": "A",
+  "253": "A",
+  "254": "B",
+  "255": "A",
+  "256": "A",
+  "257": "A",
+  "258": "A",
+  "259": "C",
+  "260": "B",
+  "261": "A",
+  "262": "A",
+  "263": "A",
+  "264": "A",
+  "265": "A",
+  "266": "A",
+  "267": "A",
+  "268": "A",
+  "269": "A",
+  "270": "A",
+  "271": "A",
+  "272": "A",
+  "273": "A",
+  "274": "B",
+  "275": "D",
+  "276": "A",
+  "277": "A",
+  "278": "A",
+  "279": "A",
+  "280": "A",
+  "281": "A",
+  "282": "A",
+  "283": "A",
+  "284": "A",
+  "285": "A",
+  "286": "A",
+  "287": "A",
+  "288": "A",
+  "289": "A",
+  "290": "A",
+  "291": "A",
+  "292": "A",
+  "293": "A",
+  "294": "A",
+  "295": "A",
+  "296": "A",
+  "297": "A",
+  "298": "A",
+  "299": "A",
+  "300": "A",
+  "301": "B",
+  "302": "A",
+  "303": "A",
+  "304": "A",
+  "305": "A",
+  "306": "A",
+  "307": "A",
+  "308": "A",
+  "309": "C",
+  "310": "A",
+  "311": "A",
+  "312": "A",
+  "313": "A",
+  "314": "A",
+  "315": "A",
+  "316": "A",
+  "317": "A",
+  "318": "A",
+  "319": "A",
+  "320": "A",
+  "321": "A",
+  "322": "A",
+  "323": "A",
+  "324": "A",
+  "325": "C",
+  "326": "A",
+  "327": "C",
+  "328": "A",
+  "329": "A",
+  "330": "A",
+  "331": "A",
+  "332": "A",
+  "333": "A",
+  "334": "A",
+  "335": "A",
+  "336": "A",
+  "337": "A",
+  "338": "B",
+  "339": "A",
+  "340": "A",
+  "341": "B",
+  "342": "A",
+  "343": "A",
+  "344": "A",
+  "345": "A",
+  "346": "A",
+  "347": "A",
+  "348": "A",
+  "349": "A",
+  "350": "A",
+  "351": "A",
+  "352": "A",
+  "353": "A",
+  "354": "A",
+  "355": "A",
+  "356": "A",
+  "357": "A",
+  "358": "A",
+  "359": "A",
+  "360": "A",
+  "361": "A",
+  "362": "A",
+  "363": "A",
+  "364": "A",
+  "365": "A",
+  "366": "A",
+  "367": "A",
+  "368": "A",
+  "369": "A",
+  "370": "A",
+  "371": "B",
+  "372": "A",
+  "373": "B",
+  "374": "A",
+  "375": "A"
+ }
 }

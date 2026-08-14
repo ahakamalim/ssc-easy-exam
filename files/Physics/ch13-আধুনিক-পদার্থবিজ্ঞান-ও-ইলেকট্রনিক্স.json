@@ -1,7 +1,7134 @@
 {
-  "subject": "পদার্থবিজ্ঞান",
-  "chapterNo": 13,
-  "chapter": "আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স",
-  "questions": [],
-  "answerBox": {}
+ "subject": "পদার্থবিজ্ঞান",
+ "chapterNo": 13,
+ "chapter": "আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স",
+ "questions": [
+  {
+   "question": "আলোর তরঙ্গ ধর্ম প্রমাণ করে —",
+   "options": {
+    "A": "ব্যতিচার, অপবর্তন",
+    "B": "আলোক তড়িৎ ক্রিয়া",
+    "C": "কণা ধর্ম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "পারমাণবিক সংখ্যার প্রতীক —",
+   "options": {
+    "A": "Z",
+    "B": "A",
+    "C": "N",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "আলফা নিঃসরণে ভর সংখ্যা —",
+   "options": {
+    "A": "৪ কমে",
+    "B": "৪ বাড়ে",
+    "C": "একই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "২টি অর্ধায়ুর পর অবশিষ্ট —",
+   "options": {
+    "A": "১/৪",
+    "B": "১/২",
+    "C": "১/৮",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "নিউক্লিয় ফিশনে —",
+   "options": {
+    "A": "নিউট্রন দিয়ে বিভাজন হয়",
+    "B": "সংযোজন হয়",
+    "C": "তাপ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "ট্রানজিস্টর অ্যামপ্লিফায়ারে —",
+   "options": {
+    "A": "সিগনাল বাড়ায়",
+    "B": "কমায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "এক্স-রে বেশি ব্যবহার —",
+   "options": {
+    "A": "ক্ষতিকর",
+    "B": "উপকারী",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "E = hf এ f কী?",
+   "options": {
+    "A": "কম্পাঙ্ক",
+    "B": "ধ্রুবক",
+    "C": "শক্তি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "ফসফরাস-৩২ ব্যবহার —",
+   "options": {
+    "A": "কৃষিতে",
+    "B": "রান্নায়",
+    "C": "মাপে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "আলফা কণার আধান —",
+   "options": {
+    "A": "ধনাত্মক (+২)",
+    "B": "ঋণাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "একটি মৌলের অর্ধায়ু ২ দিন হলে ৪ দিনে কত অংশ অবশিষ্ট থাকে?",
+   "options": {
+    "A": "১/৪",
+    "B": "১/২",
+    "C": "১/৮",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "কন্ট্রোল রড নিউট্রন —",
+   "options": {
+    "A": "শোষণ করে",
+    "B": "নির্গত করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "কম্পিউটারের মেমোরিতে —",
+   "options": {
+    "A": "IC",
+    "B": "রোধ",
+    "C": "ব্যাটারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "এক্স-রে থামে —",
+   "options": {
+    "A": "হাড়ে",
+    "B": "নরম টিস্যুতে",
+    "C": "বাতাসে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "প্লাঙ্কের ধ্রুবক h = ?",
+   "options": {
+    "A": "৬.৬৩ × ১০⁻³⁴",
+    "B": "৬.৬৩ × ১০³⁴",
+    "C": "৬.৬৩ × ১০⁻³⁰",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "নিউট্রন সংখ্যা = ?",
+   "options": {
+    "A": "A − Z",
+    "B": "Z − A",
+    "C": "A + Z",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "গাইগার কাউন্টার দিয়ে —",
+   "options": {
+    "A": "তেজস্ক্রিয়তা মাপা হয়",
+    "B": "তাপ মাপা হয়",
+    "C": "আলো মাপা হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "অর্ধায়ুর প্রতীক —",
+   "options": {
+    "A": "t½",
+    "B": "t",
+    "C": "T²",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "নিউক্লিয় ফিউশন কাকে বলে?",
+   "options": {
+    "A": "নিউক্লিয়াসের সংযোজন",
+    "B": "বিভাজন",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "রিভার্স বায়াসে প্রবাহ —",
+   "options": {
+    "A": "প্রায় শূন্য",
+    "B": "সর্বোচ্চ",
+    "C": "মাঝারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "এক্স-রে হাড় —",
+   "options": {
+    "A": "ভেদ করে না",
+    "B": "ভেদ করে",
+    "C": "থামে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "E = mc² এ E কী?",
+   "options": {
+    "A": "শক্তি",
+    "B": "ভর",
+    "C": "বেগ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "পরমাণুর ভর কেন্দ্রীভূত —",
+   "options": {
+    "A": "নিউক্লিয়াসে",
+    "B": "ইলেকট্রনে",
+    "C": "শেলে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "গামা রশ্মির আধান —",
+   "options": {
+    "A": "শূন্য",
+    "B": "ধনাত্মক",
+    "C": "ঋণাত্মক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "কার্বন-১৪ এর অর্ধায়ু —",
+   "options": {
+    "A": "৫৭৩০ বছর",
+    "B": "১০০ বছর",
+    "C": "১০০০ বছর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "নিউক্লিয় চুল্লিতে নিয়ন্ত্রক রড —",
+   "options": {
+    "A": "বোরন/ক্যাডমিয়াম",
+    "B": "লোহা",
+    "C": "তামা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "p-টাইপ সেমিকন্ডাক্টরে —",
+   "options": {
+    "A": "হোল বেশি",
+    "B": "ইলেকট্রন বেশি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "এক্স-রে ফটোগ্রাফিতে হাড় —",
+   "options": {
+    "A": "সাদা দেখায়",
+    "B": "কালো দেখায়",
+    "C": "দেখা যায় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "ফোটনের শক্তি E = ?",
+   "options": {
+    "A": "hf",
+    "B": "h/f",
+    "C": "hf²",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "আইসোটোপের ব্যবহার —",
+   "options": {
+    "A": "চিকিৎসা, কৃষি",
+    "B": "শুধু চিকিৎসা",
+    "C": "শুধু কৃষি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "আলফা কণা চৌম্বক ক্ষেত্রে —",
+   "options": {
+    "A": "বাঁকে",
+    "B": "বাঁকে না",
+    "C": "থামে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "অর্ধায়ু ৫ দিন হলে ১০ দিনে অবশিষ্ট —",
+   "options": {
+    "A": "১/৪",
+    "B": "১/২",
+    "C": "১/৮",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "ফিশনে শৃঙ্খল বিক্রিয়া —",
+   "options": {
+    "A": "হয়",
+    "B": "হয় না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "এলইডি তে ব্যবহৃত হয় —",
+   "options": {
+    "A": "গ্যালিয়াম আর্সেনাইড",
+    "B": "লোহা",
+    "C": "তামা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "এক্স-রে মেশিনে —",
+   "options": {
+    "A": "উচ্চ বিভব ব্যবহৃত হয়",
+    "B": "নিম্ন বিভব",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "E = mc² এ m কী?",
+   "options": {
+    "A": "ভর",
+    "B": "শক্তি",
+    "C": "বেগ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "Z = ১৩, A = ২৭ হলে নিউট্রন কত?",
+   "options": {
+    "A": "১৪",
+    "B": "১৩",
+    "C": "২৭",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "ক্যানসারে —",
+   "options": {
+    "A": "কোবাল্ট-৬০ ব্যবহৃত হয়",
+    "B": "লোহা",
+    "C": "তামা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "৪টি অর্ধায়ুর পর অবশিষ্ট —",
+   "options": {
+    "A": "১/১৬",
+    "B": "১/৮",
+    "C": "১/৩২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "তারায় শক্তি উৎপন্ন হয় —",
+   "options": {
+    "A": "ফিউশনে",
+    "B": "ফিশনে",
+    "C": "রাসায়নিকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "লজিক গেটে —",
+   "options": {
+    "A": "০ ও ১ নিয়ে কাজ",
+    "B": "তাপ",
+    "C": "আলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "এক্স-রে উৎপাদনে —",
+   "options": {
+    "A": "ইলেকট্রনের আঘাত",
+    "B": "তাপ",
+    "C": "আলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "আলোক তড়িৎ ক্রিয়া কাকে বলে?",
+   "options": {
+    "A": "আলোতে ইলেকট্রন নির্গমন",
+    "B": "তাপে ইলেকট্রন",
+    "C": "আলোতে প্রোটন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "নিউক্লিয়াসে থাকে —",
+   "options": {
+    "A": "প্রোটন ও নিউট্রন",
+    "B": "ইলেকট্রন",
+    "C": "শুধু প্রোটন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "আলফা রশ্মি কী?",
+   "options": {
+    "A": "হিলিয়াম নিউক্লিয়াস",
+    "B": "ইলেকট্রন",
+    "C": "তড়িৎচুম্বকীয় তরঙ্গ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "৫টি অর্ধায়ুর পর অবশিষ্ট —",
+   "options": {
+    "A": "১/৩২",
+    "B": "১/১৬",
+    "C": "১/৬৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "নিউক্লিয় বিক্রিয়া কাকে বলে?",
+   "options": {
+    "A": "নিউক্লিয়াসের পরিবর্তন",
+    "B": "রাসায়নিক বিক্রিয়া",
+    "C": "তাপ বিক্রিয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "ট্রানজিস্টরের প্রকার —",
+   "options": {
+    "A": "npn ও pnp",
+    "B": "শুধু npn",
+    "C": "শুধু pnp",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "এক্স-রে ভেদন ক্ষমতা —",
+   "options": {
+    "A": "বেশি",
+    "B": "কম",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "নবায়নযোগ্য শক্তি —",
+   "options": {
+    "A": "সৌর",
+    "B": "কয়লা",
+    "C": "তেল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "পরমাণুর কেন্দ্রে থাকে —",
+   "options": {
+    "A": "নিউক্লিয়াস",
+    "B": "ইলেকট্রন",
+    "C": "শূন্যস্থান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "বিটা কণার গতি আলোর গতির প্রায় —",
+   "options": {
+    "A": "৯/১০",
+    "B": "১/১০",
+    "C": "১/২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "অর্ধায়ু নির্ভর করে না —",
+   "options": {
+    "A": "তাপমাত্রা ও চাপে",
+    "B": "মৌলে",
+    "C": "প্রকৃতিতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "পারমাণবিক চুল্লিতে উৎপন্ন হয় —",
+   "options": {
+    "A": "তাপ → বিদ্যুৎ",
+    "B": "আলো",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "p-n জাংশন কাকে বলে?",
+   "options": {
+    "A": "p ও n এর সংযোগস্থল",
+    "B": "শুধু p",
+    "C": "শুধু n",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "সিটি স্ক্যানে —",
+   "options": {
+    "A": "এক্স-রে ব্যবহৃত হয়",
+    "B": "তাপ",
+    "C": "আলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "শক্তি ভরে রূপান্তরিত হতে পারে —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "ভর সংখ্যা A = ?",
+   "options": {
+    "A": "Z + N",
+    "B": "Z − N",
+    "C": "N − Z",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "তেজস্ক্রিয় রশ্মির মধ্যে ভেদন ক্ষমতার ক্রম —",
+   "options": {
+    "A": "গামা > বিটা > আলফা",
+    "B": "আলফা > বিটা > গামা",
+    "C": "বিটা > গামা > আলফা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "১৬০ গ্রাম পদার্থের ৩ অর্ধায়ুর পর অবশিষ্ট —",
+   "options": {
+    "A": "২০ গ্রাম",
+    "B": "৪০ গ্রাম",
+    "C": "১০ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "নিউক্লিয় চুল্লিতে মডারেটর —",
+   "options": {
+    "A": "নিউট্রন ধীর করে",
+    "B": "দ্রুত করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "ক্যালকুলেটরে —",
+   "options": {
+    "A": "IC",
+    "B": "রোধ",
+    "C": "ব্যাটারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "এক্স-রে টিউবে —",
+   "options": {
+    "A": "ক্যাথোড থেকে ইলেকট্রন নির্গত হয়",
+    "B": "প্রোটন",
+    "C": "নিউট্রন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "কোয়ান্টাম তত্ত্বের প্রবক্তা —",
+   "options": {
+    "A": "ম্যাক্স প্লাঙ্ক",
+    "B": "নিউটন",
+    "C": "গ্যালিলিও",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "প্রোটন আবিষ্কার করেন —",
+   "options": {
+    "A": "রাদারফোর্ড",
+    "B": "থমসন",
+    "C": "চ্যাডউইক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "তেজস্ক্রিয়তার ক্ষতিকর প্রভাব —",
+   "options": {
+    "A": "ক্যানসার",
+    "B": "কিছুই না",
+    "C": "উপকার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "অর্ধায়ুর ব্যবহার —",
+   "options": {
+    "A": "বয়স নির্ণয়, চিকিৎসা",
+    "B": "শুধু চিকিৎসা",
+    "C": "শুধু বয়স",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "ফিশনের জ্বালানি —",
+   "options": {
+    "A": "ইউরেনিয়াম-২৩৫",
+    "B": "হাইড্রোজেন",
+    "C": "লোহা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "ডায়োডের অ্যানোড —",
+   "options": {
+    "A": "p পাশ",
+    "B": "n পাশ",
+    "C": "মাঝে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "এক্স-রের ব্যবহার —",
+   "options": {
+    "A": "হাড়ের ছবি",
+    "B": "তাপ মাপা",
+    "C": "আলো মাপা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "সোলার সেলে —",
+   "options": {
+    "A": "সূর্যের আলো → তড়িৎ",
+    "B": "তড়িৎ → আলো",
+    "C": "তাপ → আলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "কার্বন-১৪ ডেটিং ব্যবহৃত হয় —",
+   "options": {
+    "A": "বয়স নির্ণয়ে",
+    "B": "তাপে",
+    "C": "আলোতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "গামা রশ্মি কী?",
+   "options": {
+    "A": "তড়িৎচুম্বকীয় তরঙ্গ",
+    "B": "কণা",
+    "C": "নিউক্লিয়াস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "৫০ গ্রাম পদার্থের ২ অর্ধায়ুর পর অবশিষ্ট —",
+   "options": {
+    "A": "১২.৫ গ্রাম",
+    "B": "২৫ গ্রাম",
+    "C": "৬.২৫ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "পারমাণবিক দুর্ঘটনা রোধে —",
+   "options": {
+    "A": "নিরাপত্তা ব্যবস্থা",
+    "B": "কিছুই না",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "ডায়োডের প্রতীক —",
+   "options": {
+    "A": "ত্রিভুজ ও রেখা",
+    "B": "বৃত্ত",
+    "C": "বর্গ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "চিকিৎসায় এক্স-রে —",
+   "options": {
+    "A": "ব্যাপক ব্যবহৃত",
+    "B": "হয় না",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "আপেক্ষিক তত্ত্বের প্রবক্তা —",
+   "options": {
+    "A": "আইনস্টাইন",
+    "B": "নিউটন",
+    "C": "প্লাঙ্ক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "ভর সংখ্যা A ও পারমাণবিক সংখ্যা Z হলে নিউট্রন N = ?",
+   "options": {
+    "A": "A − Z",
+    "B": "Z − A",
+    "C": "A + Z",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "তেজস্ক্রিয়তা কাকে বলে?",
+   "options": {
+    "A": "নিউক্লিয়াস থেকে বিকিরণ",
+    "B": "তাপ বিকিরণ",
+    "C": "আলো বিকিরণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "২০০ গ্রাম পদার্থের ৩ অর্ধায়ুর পর অবশিষ্ট —",
+   "options": {
+    "A": "২৫ গ্রাম",
+    "B": "৫০ গ্রাম",
+    "C": "১২.৫ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "নিউক্লিয় ফিশন কাকে বলে?",
+   "options": {
+    "A": "নিউক্লিয়াসের বিভাজন",
+    "B": "সংযোজন",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "ট্রানজিস্টর আবিষ্কার —",
+   "options": {
+    "A": "১৯৪৭ সালে",
+    "B": "১৯০০ সালে",
+    "C": "১৯৫০ সালে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "এক্স-রে নরম টিস্যু —",
+   "options": {
+    "A": "ভেদ করে",
+    "B": "ভেদ করে না",
+    "C": "থামে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "লেজার কোন বিজ্ঞানের অবদান?",
+   "options": {
+    "A": "আধুনিক পদার্থবিজ্ঞান",
+    "B": "রসায়ন",
+    "C": "জীববিজ্ঞান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "প্রোটন ও নিউট্রনকে একত্রে বলা হয় —",
+   "options": {
+    "A": "নিউক্লিয়ন",
+    "B": "ইলেকট্রন",
+    "C": "ফোটন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "গাইগার-মুলার কাউন্টার —",
+   "options": {
+    "A": "বিকিরণ শনাক্ত করে",
+    "B": "তাপ",
+    "C": "আলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "অর্ধায়ু ধ্রুবক —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "ফিশনে শক্তি —",
+   "options": {
+    "A": "নির্গত হয়",
+    "B": "শোষিত হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "IC তে লক্ষ লক্ষ —",
+   "options": {
+    "A": "ট্রানজিস্টর",
+    "B": "ভ্যাকুয়াম টিউব",
+    "C": "রোধ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "এক্স-রে আবিষ্কৃত হয় —",
+   "options": {
+    "A": "১৮৯৫ সালে",
+    "B": "১৮৯৬ সালে",
+    "C": "১৯০০ সালে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "আলো কণা ও তরঙ্গ উভয় —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "আয়োডিন-১৩১ ব্যবহার —",
+   "options": {
+    "A": "থাইরয়েড চিকিৎসায়",
+    "B": "রান্নায়",
+    "C": "মাপে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "বিটা নিঃসরণে পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "১ বাড়ে",
+    "B": "১ কমে",
+    "C": "একই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "৬০ গ্রাম পদার্থের ২ অর্ধায়ুর পর অবশিষ্ট —",
+   "options": {
+    "A": "১৫ গ্রাম",
+    "B": "৩০ গ্রাম",
+    "C": "৭.৫ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "মডারেটর হিসেবে ব্যবহৃত হয় —",
+   "options": {
+    "A": "ভারী পানি/গ্রাফাইট",
+    "B": "লোহা",
+    "C": "তামা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "n-টাইপ সেমিকন্ডাক্টরে —",
+   "options": {
+    "A": "ইলেকট্রন বেশি",
+    "B": "হোল বেশি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "এক্স-রে ফটোগ্রাফিতে নরম টিস্যু কালো — কারণ?",
+   "options": {
+    "A": "এক্স-রে ভেদ করে",
+    "B": "শোষণ করে",
+    "C": "প্রতিফলিত করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "ভর শক্তিতে রূপান্তরিত হতে পারে —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "পরমাণুর আকার নির্ধারণ করে —",
+   "options": {
+    "A": "ইলেকট্রন",
+    "B": "নিউক্লিয়াস",
+    "C": "প্রোটন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "বিকিরণের মাত্রা মাপা হয় —",
+   "options": {
+    "A": "গ্রেতে/সিভার্টে",
+    "B": "ওহমে",
+    "C": "ভোল্টে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "অর্ধায়ু নির্ভর করে —",
+   "options": {
+    "A": "শুধু মৌলের প্রকৃতি",
+    "B": "তাপমাত্রা",
+    "C": "চাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "ফিউশনে উৎপন্ন হয় —",
+   "options": {
+    "A": "হিলিয়াম",
+    "B": "ইউরেনিয়াম",
+    "C": "লোহা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "ভ্যাকুয়াম টিউবের পর —",
+   "options": {
+    "A": "ট্রানজিস্টর",
+    "B": "ডায়োড",
+    "C": "IC",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "এক্স-রে থেকে রক্ষায় —",
+   "options": {
+    "A": "সীসার ঢাল",
+    "B": "কাগজ",
+    "C": "কাঠ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "আলোক তড়িৎ ক্রিয়ার ব্যবহার —",
+   "options": {
+    "A": "সোলার সেল, ফটোডায়োড",
+    "B": "ইস্ত্রি",
+    "C": "কেটলি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "Z = ২৯, A = ৬৪ হলে নিউট্রন কত?",
+   "options": {
+    "A": "৩৫",
+    "B": "২৯",
+    "C": "৬৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "আলফা কণার গতি আলোর গতির প্রায় —",
+   "options": {
+    "A": "১/১০",
+    "B": "১/২",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "অর্ধায়ু ১ দিন হলে ৩ দিনে অবশিষ্ট —",
+   "options": {
+    "A": "১/৮",
+    "B": "১/২",
+    "C": "১/৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "নিউক্লিয় শক্তির সুবিধা —",
+   "options": {
+    "A": "বিপুল শক্তি",
+    "B": "কম শক্তি",
+    "C": "শক্তি নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "ট্রানজিস্টর আবিষ্কারক —",
+   "options": {
+    "A": "বারডিন, ব্র্যাটেন, শকলি",
+    "B": "নিউটন",
+    "C": "আইনস্টাইন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "এক্স-রে টিউবের টার্গেট —",
+   "options": {
+    "A": "টাংস্টেন",
+    "B": "লোহা",
+    "C": "তামা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "আলোর কণা ধর্ম প্রমাণ করে —",
+   "options": {
+    "A": "আলোক তড়িৎ ক্রিয়া",
+    "B": "ব্যতিচার",
+    "C": "অপবর্তন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "ইলেকট্রন নিম্ন কক্ষে গেলে —",
+   "options": {
+    "A": "শক্তি নির্গত করে",
+    "B": "শোষণ করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "গামা রশ্মি থামাতে —",
+   "options": {
+    "A": "মোটা সীসা",
+    "B": "কাগজ",
+    "C": "অ্যালুমিনিয়াম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "অর্ধায়ু t½ হলে n অর্ধায়ুর পর অবশিষ্ট —",
+   "options": {
+    "A": "(১/২)ⁿ",
+    "B": "(১/২)n",
+    "C": "২ⁿ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "ফিউশনের জ্বালানি —",
+   "options": {
+    "A": "হাইড্রোজেন আইসোটোপ",
+    "B": "ইউরেনিয়াম",
+    "C": "লোহা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "এলইডি —",
+   "options": {
+    "A": "আলো দেয়",
+    "B": "তাপ দেয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "এক্স-রে কে আবিষ্কার করেন?",
+   "options": {
+    "A": "রন্টজেন",
+    "B": "বেকারেল",
+    "C": "নিউটন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "আধুনিক পদার্থবিজ্ঞান ছাড়া —",
+   "options": {
+    "A": "আধুনিক প্রযুক্তি অসম্ভব",
+    "B": "সম্ভব",
+    "C": "একই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "পরমাণুর শক্তিস্তর —",
+   "options": {
+    "A": "কোয়ান্টায়িত",
+    "B": "অবিচ্ছিন্ন",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "সবচেয়ে বেশি ভেদন ক্ষমতা —",
+   "options": {
+    "A": "গামার",
+    "B": "আলফার",
+    "C": "বিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "৮০ গ্রাম পদার্থের অর্ধায়ু ৩ দিন হলে ৬ দিনে অবশিষ্ট কত?",
+   "options": {
+    "A": "২০ গ্রাম",
+    "B": "৪০ গ্রাম",
+    "C": "১০ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "ফিউশনের জন্য প্রয়োজন —",
+   "options": {
+    "A": "অতি উচ্চ তাপমাত্রা",
+    "B": "নিম্ন তাপমাত্রা",
+    "C": "স্বাভাবিক তাপমাত্রা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "ট্রানজিস্টর ব্যবহারে —",
+   "options": {
+    "A": "কম্পিউটার ছোট হয়েছে",
+    "B": "বড় হয়েছে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "এক্স-রে কী ধরনের তরঙ্গ?",
+   "options": {
+    "A": "তড়িৎচুম্বকীয়",
+    "B": "যান্ত্রিক",
+    "C": "শব্দ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "আলোর গতির কাছাকাছি বেগে সময় —",
+   "options": {
+    "A": "ধীর হয়",
+    "B": "দ্রুত হয়",
+    "C": "ধ্রুব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "শক্তি কোয়ান্টায়িত ধারণা দেন —",
+   "options": {
+    "A": "বোর",
+    "B": "নিউটন",
+    "C": "গ্যালিলিও",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "তেজস্ক্রিয় বর্জ্য —",
+   "options": {
+    "A": "বিপজ্জনক",
+    "B": "নিরাপদ",
+    "C": "উপকারী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "অর্ধায়ু তাপমাত্রার উপর —",
+   "options": {
+    "A": "নির্ভর করে না",
+    "B": "নির্ভর করে",
+    "C": "কখনো করে",
+    "D": "কখনো করে না"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "ফিউশনে ফিশনের চেয়ে —",
+   "options": {
+    "A": "বেশি শক্তি",
+    "B": "কম শক্তি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "সিলিকন ব্যবহৃত হয় —",
+   "options": {
+    "A": "IC, সোলার সেলে",
+    "B": "ইস্ত্রিতে",
+    "C": "কেটলিতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "এক্স-রে তরঙ্গদৈর্ঘ্য —",
+   "options": {
+    "A": "খুব ছোট",
+    "B": "বড়",
+    "C": "মাঝারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "আলোক তড়িৎ ক্রিয়া ব্যাখ্যা করেন —",
+   "options": {
+    "A": "আইনস্টাইন",
+    "B": "নিউটন",
+    "C": "প্লাঙ্ক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "আইসোটোপের রাসায়নিক ধর্ম —",
+   "options": {
+    "A": "একই",
+    "B": "ভিন্ন",
+    "C": "দ্বিগুণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "বিটা কণা চৌম্বক ক্ষেত্রে —",
+   "options": {
+    "A": "আলফার বিপরীতে বাঁকে",
+    "B": "বাঁকে না",
+    "C": "থামে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "১০০ গ্রাম পদার্থের ৩ অর্ধায়ুর পর অবশিষ্ট —",
+   "options": {
+    "A": "১২.৫ গ্রাম",
+    "B": "২৫ গ্রাম",
+    "C": "৬.২৫ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "সূর্যের শক্তির উৎস —",
+   "options": {
+    "A": "ফিউশন",
+    "B": "ফিশন",
+    "C": "রাসায়নিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "ডায়োডের ব্রেকডাউন —",
+   "options": {
+    "A": "রিভার্স বায়াসে উচ্চ বিভবে",
+    "B": "ফরোয়ার্ডে",
+    "C": "কখনো না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "এক্স-রে ফটোগ্রাফিতে হাড় সাদা — কারণ?",
+   "options": {
+    "A": "এক্স-রে শোষণ করে",
+    "B": "প্রতিফলিত করে",
+    "C": "ভেদ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "ফাইবার অপটিক যোগাযোগে —",
+   "options": {
+    "A": "লেজার/আলো",
+    "B": "শব্দ",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "নিউক্লিয়ন সংখ্যা = ?",
+   "options": {
+    "A": "ভর সংখ্যা",
+    "B": "পারমাণবিক সংখ্যা",
+    "C": "ইলেকট্রন সংখ্যা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "আলফা কণা ধনাত্মক আধান +২ —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "৩২০ গ্রাম পদার্থের ৪ অর্ধায়ুর পর অবশিষ্ট —",
+   "options": {
+    "A": "২০ গ্রাম",
+    "B": "৪০ গ্রাম",
+    "C": "১০ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "ফিউশনে হাইড্রোজেনের আইসোটোপ —",
+   "options": {
+    "A": "ডিউটেরিয়াম ও ট্রিটিয়াম",
+    "B": "শুধু ডিউটেরিয়াম",
+    "C": "শুধু ট্রিটিয়াম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "ত্রিযোজী মৌলের উদাহরণ —",
+   "options": {
+    "A": "বোরন, গ্যালিয়াম",
+    "B": "ফসফরাস",
+    "C": "আর্সেনিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "ক্যানসার চিকিৎসায় —",
+   "options": {
+    "A": "বিকিরণ থেরাপি",
+    "B": "তাপ থেরাপি",
+    "C": "আলো থেরাপি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "আলোক তড়িৎ ক্রিয়ায় —",
+   "options": {
+    "A": "ফোটন ইলেকট্রন নির্গত করে",
+    "B": "তাপ",
+    "C": "প্রোটন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "পরমাণু Z = ৮, A = ১৬ হলে নিউট্রন কত?",
+   "options": {
+    "A": "৮",
+    "B": "১৬",
+    "C": "২৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "তেজস্ক্রিয় আইসোটোপ চিকিৎসায় —",
+   "options": {
+    "A": "ব্যবহৃত হয়",
+    "B": "হয় না",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "৩টি অর্ধায়ুর পর অবশিষ্ট —",
+   "options": {
+    "A": "১/৮",
+    "B": "১/৪",
+    "C": "১/১৬",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "পারমাণবিক বিদ্যুৎ কেন্দ্রে কোন বিক্রিয়া?",
+   "options": {
+    "A": "ফিশন",
+    "B": "ফিউশন",
+    "C": "রাসায়নিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "ট্রানজিস্টরের বিবর্ধন ক্ষমতা —",
+   "options": {
+    "A": "β (বিটা)",
+    "B": "α শুধু",
+    "C": "γ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "টাংস্টেন টার্গেট — কারণ?",
+   "options": {
+    "A": "উচ্চ গলনাঙ্ক",
+    "B": "কম গলনাঙ্ক",
+    "C": "সস্তা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "সোলার প্যানেলে —",
+   "options": {
+    "A": "সিলিকন ব্যবহৃত হয়",
+    "B": "লোহা",
+    "C": "তামা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "কোবাল্ট-৬০ ব্যবহার —",
+   "options": {
+    "A": "ক্যানসার চিকিৎসায়",
+    "B": "রান্নায়",
+    "C": "মাপে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "তেজস্ক্রিয় রশ্মির প্রকার —",
+   "options": {
+    "A": "আলফা, বিটা, গামা",
+    "B": "শুধু আলফা",
+    "C": "শুধু বিটা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "১০০ গ্রাম পদার্থের অর্ধায়ু ২ দিন হলে ৪ দিনে অবশিষ্ট কত?",
+   "options": {
+    "A": "২৫ গ্রাম",
+    "B": "৫০ গ্রাম",
+    "C": "১২.৫ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "ফিউশন এখনো নিয়ন্ত্রণ করা —",
+   "options": {
+    "A": "কঠিন",
+    "B": "সহজ",
+    "C": "সম্ভব নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "ডায়োড রিভার্স বায়াসে —",
+   "options": {
+    "A": "প্রবাহ চলে না",
+    "B": "প্রবাহ চলে",
+    "C": "বাড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "এক্স-রে ব্যবহারে সতর্কতা —",
+   "options": {
+    "A": "প্রয়োজন",
+    "B": "প্রয়োজন নেই",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "ফোটনের ভর —",
+   "options": {
+    "A": "শূন্য",
+    "B": "ধনাত্মক",
+    "C": "ঋণাত্মক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "আইসোটোপ কাকে বলে?",
+   "options": {
+    "A": "সমান প্রোটন, ভিন্ন নিউট্রন",
+    "B": "সমান নিউট্রন",
+    "C": "সমান ভর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "বিটা কণা ইলেকট্রন —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "৮০ গ্রাম পদার্থের ৩ অর্ধায়ুর পর অবশিষ্ট —",
+   "options": {
+    "A": "১০ গ্রাম",
+    "B": "২০ গ্রাম",
+    "C": "৫ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "ফিশনে ইউরেনিয়াম —",
+   "options": {
+    "A": "দুটি খণ্ডে বিভক্ত হয়",
+    "B": "সংযোজিত হয়",
+    "C": "গলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "সেমিকন্ডাক্টর কাকে বলে?",
+   "options": {
+    "A": "মাঝারি পরিবাহিতা",
+    "B": "বেশি পরিবাহিতা",
+    "C": "কম পরিবাহিতা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "এক্স-রে ভেদ করতে পারে —",
+   "options": {
+    "A": "নরম টিস্যু",
+    "B": "হাড়",
+    "C": "ধাতু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "এক্স-রে",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "শক্তির কোয়ান্টামকে বলে —",
+   "options": {
+    "A": "ফোটন",
+    "B": "ইলেকট্রন",
+    "C": "প্রোটন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "পরমাণু নিরপেক্ষ — কারণ?",
+   "options": {
+    "A": "প্রোটন = ইলেকট্রন",
+    "B": "প্রোটন > ইলেকট্রন",
+    "C": "নিউট্রন বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "তেজস্ক্রিয় রশ্মি কয় প্রকার?",
+   "options": {
+    "A": "৩",
+    "B": "২",
+    "C": "৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "৪০ গ্রাম পদার্থের ২ অর্ধায়ুর পর অবশিষ্ট —",
+   "options": {
+    "A": "১০ গ্রাম",
+    "B": "২০ গ্রাম",
+    "C": "৫ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "বাংলাদেশের পারমাণবিক বিদ্যুৎ কেন্দ্র —",
+   "options": {
+    "A": "রূপপুর",
+    "B": "কাপ্তাই",
+    "C": "ঘোড়াশাল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "রেকটিফায়ার কাকে বলে?",
+   "options": {
+    "A": "AC কে DC তে রূপান্তর",
+    "B": "DC কে AC",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "E = hf এ h কী?",
+   "options": {
+    "A": "প্লাঙ্কের ধ্রুবক",
+    "B": "কম্পাঙ্ক",
+    "C": "শক্তি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "আইসোটোপের ভর সংখ্যা —",
+   "options": {
+    "A": "ভিন্ন",
+    "B": "সমান",
+    "C": "দ্বিগুণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "বেকারেল কোন মৌল থেকে তেজস্ক্রিয়তা আবিষ্কার করেন?",
+   "options": {
+    "A": "ইউরেনিয়াম",
+    "B": "লোহা",
+    "C": "তামা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "অর্ধায়ু কাকে বলে?",
+   "options": {
+    "A": "অর্ধেক পরমাণু ক্ষয়ের সময়",
+    "B": "পূর্ণ ক্ষয়ের সময়",
+    "C": "দ্বিগুণের সময়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "তেজস্ক্রিয় বর্জ্য সংরক্ষণ —",
+   "options": {
+    "A": "গভীর ভূগর্ভে",
+    "B": "খোলা জায়গায়",
+    "C": "পানিতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "এলইডি থেকে আলো নির্গত হয় —",
+   "options": {
+    "A": "ফরোয়ার্ড বায়াসে",
+    "B": "রিভার্সে",
+    "C": "কখনো না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "আধুনিক পদার্থবিজ্ঞানের গুরুত্ব —",
+   "options": {
+    "A": "প্রযুক্তির অগ্রগতি",
+    "B": "কিছুই না",
+    "C": "সীমিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "পরমাণুতে ঋণাত্মক আধান —",
+   "options": {
+    "A": "ইলেকট্রন",
+    "B": "প্রোটন",
+    "C": "নিউট্রন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "তেজস্ক্রিয়তা আবিষ্কার করেন —",
+   "options": {
+    "A": "বেকারেল",
+    "B": "রন্টজেন",
+    "C": "নিউটন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "অর্ধায়ুর পর মৌলের পরিমাণ —",
+   "options": {
+    "A": "অর্ধেক",
+    "B": "একই",
+    "C": "দ্বিগুণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "পারমাণবিক বিদ্যুৎ কেন্দ্রে —",
+   "options": {
+    "A": "নিউক্লিয় শক্তি",
+    "B": "সৌর শক্তি",
+    "C": "বায়ু শক্তি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "জার্মেনিয়ামের পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "৩২",
+    "B": "১৪",
+    "C": "২৮",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "লেজারের ব্যবহার —",
+   "options": {
+    "A": "চিকিৎসা, যোগাযোগ",
+    "B": "শুধু চিকিৎসা",
+    "C": "শুধু যোগাযোগ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "আইসোটোপের পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "সমান",
+    "B": "ভিন্ন",
+    "C": "দ্বিগুণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "গামা রশ্মি দিয়ে —",
+   "options": {
+    "A": "ক্যানসার চিকিৎসা হয়",
+    "B": "তাপ হয়",
+    "C": "আলো হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "অর্ধায়ু ৩ দিন হলে ৬ দিনে অবশিষ্ট —",
+   "options": {
+    "A": "১/৪",
+    "B": "১/২",
+    "C": "১/৮",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অর্ধায়ু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্র কোথায়?",
+   "options": {
+    "A": "পাবনা",
+    "B": "ঢাকা",
+    "C": "চট্টগ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "IC এর সুবিধা —",
+   "options": {
+    "A": "ছোট, দ্রুত, সস্তা",
+    "B": "বড়",
+    "C": "ধীর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "আধুনিক পদার্থবিজ্ঞান কাকে বলে?",
+   "options": {
+    "A": "পরমাণু ও নিউক্লিয় নিয়ে বিজ্ঞান",
+    "B": "চিরায়ত বিজ্ঞান",
+    "C": "বলবিদ্যা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "পরমাণুর ইলেকট্রন কক্ষপথে ঘোরে —",
+   "options": {
+    "A": "কেন্দ্রমুখী বলের কারণে",
+    "B": "মহাকর্ষে",
+    "C": "ঘর্ষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "তেজস্ক্রিয়তা আবিষ্কৃত হয় —",
+   "options": {
+    "A": "১৮৯৬ সালে",
+    "B": "১৮০০ সালে",
+    "C": "১৯০০ সালে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "ফুকুশিমা দুর্ঘটনা —",
+   "options": {
+    "A": "পারমাণবিক",
+    "B": "সৌর",
+    "C": "বায়ু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "ট্রানজিস্টরের পর —",
+   "options": {
+    "A": "IC",
+    "B": "ভ্যাকুয়াম টিউব",
+    "C": "ডায়োড",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "কোয়ান্টাম তত্ত্বে শক্তি —",
+   "options": {
+    "A": "প্যাকেটে নির্গত হয়",
+    "B": "অবিচ্ছিন্ন",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "পরমাণুর অধিকাংশ স্থান —",
+   "options": {
+    "A": "শূন্য",
+    "B": "পূর্ণ",
+    "C": "ঘন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "বিটা নিঃসরণে ভর সংখ্যা —",
+   "options": {
+    "A": "একই থাকে",
+    "B": "১ কমে",
+    "C": "১ বাড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "শৃঙ্খল বিক্রিয়া নিয়ন্ত্রণে —",
+   "options": {
+    "A": "কন্ট্রোল রড",
+    "B": "কিছুই না",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "প্রথম কম্পিউটারে —",
+   "options": {
+    "A": "ভ্যাকুয়াম টিউব",
+    "B": "IC",
+    "C": "ট্রানজিস্টর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "আপেক্ষিক তত্ত্বে সময় —",
+   "options": {
+    "A": "আপেক্ষিক",
+    "B": "পরম",
+    "C": "ধ্রুব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "পারমাণবিক সংখ্যা কাকে বলে?",
+   "options": {
+    "A": "প্রোটনের সংখ্যা",
+    "B": "নিউট্রনের সংখ্যা",
+    "C": "ভর সংখ্যা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "গামা রশ্মির ভেদন ক্ষমতা সর্বোচ্চ —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "তেজস্ক্রিয় বর্জ্যের অর্ধায়ু —",
+   "options": {
+    "A": "দীর্ঘ",
+    "B": "সংক্ষিপ্ত",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "NOT গেটে ইনপুট ০ হলে আউটপুট —",
+   "options": {
+    "A": "১",
+    "B": "০",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "এমআরআই, সিটি স্ক্যান, এক্স-রে —",
+   "options": {
+    "A": "আধুনিক পদার্থবিজ্ঞান",
+    "B": "রসায়ন",
+    "C": "জীববিজ্ঞান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "প্রোটনের ভর ইলেকট্রনের ভরের প্রায় —",
+   "options": {
+    "A": "১৮৩৬ গুণ",
+    "B": "২ গুণ",
+    "C": "১০ গুণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "গামা নিঃসরণে পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "একই থাকে",
+    "B": "কমে",
+    "C": "বাড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "ফিউশনে শক্তি —",
+   "options": {
+    "A": "নির্গত হয়",
+    "B": "শোষিত হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "ফরোয়ার্ড বায়াসে p পাশ —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "ঋণাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "নিউক্লিয় বিক্রিয়ায় ভরের —",
+   "options": {
+    "A": "ক্ষয় হয়",
+    "B": "বৃদ্ধি হয়",
+    "C": "কোনো পরিবর্তন নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "ইলেকট্রন কক্ষপথে ঘুরতে —",
+   "options": {
+    "A": "শক্তি ক্ষয় হয় না",
+    "B": "শক্তি ক্ষয় হয়",
+    "C": "থামে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "সবচেয়ে বেশি আয়নায়ন ক্ষমতা —",
+   "options": {
+    "A": "আলফার",
+    "B": "বিটার",
+    "C": "গামার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "হাইড্রোজেন বোমা কোন বিক্রিয়া?",
+   "options": {
+    "A": "ফিউশন",
+    "B": "ফিশন",
+    "C": "রাসায়নিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "এলইডির সুবিধা —",
+   "options": {
+    "A": "কম শক্তি খরচ",
+    "B": "বেশি শক্তি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "সোলার শক্তির সুবিধা —",
+   "options": {
+    "A": "পরিবেশবান্ধব",
+    "B": "দূষণ",
+    "C": "ব্যয়বহুল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "Z = ৩, A = ৭ হলে নিউট্রন কত?",
+   "options": {
+    "A": "৪",
+    "B": "৩",
+    "C": "৭",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "কোবাল্ট-৬০ থেকে —",
+   "options": {
+    "A": "গামা রশ্মি নির্গত হয়",
+    "B": "আলফা",
+    "C": "বিটা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "নিউক্লিয় শক্তি —",
+   "options": {
+    "A": "পরিচ্ছন্ন কিন্তু ঝুঁকিপূর্ণ",
+    "B": "দূষণমুক্ত সম্পূর্ণ",
+    "C": "ঝুঁকিহীন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "ট্রানজিস্টরের তিন অঞ্চল —",
+   "options": {
+    "A": "সক্রিয়, সম্পৃক্ত, বিচ্ছিন্ন",
+    "B": "শুধু সক্রিয়",
+    "C": "শুধু সম্পৃক্ত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "চোখের অপারেশনে —",
+   "options": {
+    "A": "লেজার",
+    "B": "ছুরি",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "পরমাণু Z = ৬, A = ১২ হলে নিউট্রন কত?",
+   "options": {
+    "A": "৬",
+    "B": "১২",
+    "C": "১৮",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "গামা রশ্মি আধানহীন —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "নিউক্লিয় শক্তির ঝুঁকি —",
+   "options": {
+    "A": "তেজস্ক্রিয়তা, দুর্ঘটনা",
+    "B": "কিছুই না",
+    "C": "সস্তা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "হোল কাকে বলে?",
+   "options": {
+    "A": "ইলেকট্রনের শূন্যস্থান",
+    "B": "ইলেকট্রন",
+    "C": "প্রোটন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "আধুনিক পদার্থবিজ্ঞানের সূচনা —",
+   "options": {
+    "A": "২০ শতকে",
+    "B": "১৭ শতকে",
+    "C": "১৮ শতকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "Z = ৩০, A = ৬৫ হলে নিউট্রন কত?",
+   "options": {
+    "A": "৩৫",
+    "B": "৩০",
+    "C": "৬৫",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "তেজস্ক্রিয়তা থেকে রক্ষা —",
+   "options": {
+    "A": "সীসার ঢাল",
+    "B": "কাগজ",
+    "C": "কাঠ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "সূর্যে কোন বিক্রিয়া ঘটে?",
+   "options": {
+    "A": "ফিউশন",
+    "B": "ফিশন",
+    "C": "রাসায়নিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "ট্রানজিস্টরের ব্যবহার —",
+   "options": {
+    "A": "অ্যামপ্লিফায়ার",
+    "B": "রোধ",
+    "C": "ব্যাটারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "আলোর দ্বৈত প্রকৃতি —",
+   "options": {
+    "A": "কণা ও তরঙ্গ",
+    "B": "শুধু কণা",
+    "C": "শুধু তরঙ্গ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "পরমাণুর পারমাণবিক মডেল প্রস্তাব করেন —",
+   "options": {
+    "A": "বোর",
+    "B": "নিউটন",
+    "C": "আইনস্টাইন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "তেজস্ক্রিয়তা মাপার একক —",
+   "options": {
+    "A": "বেকারেল",
+    "B": "ওহম",
+    "C": "ভোল্ট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "চেরনোবিল দুর্ঘটনা —",
+   "options": {
+    "A": "পারমাণবিক",
+    "B": "সৌর",
+    "C": "বায়ু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "ট্রানজিস্টর কাকে বলে?",
+   "options": {
+    "A": "৩ স্তরের সেমিকন্ডাক্টর যন্ত্র",
+    "B": "২ স্তরের",
+    "C": "রোধ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "E = mc² সমীকরণের প্রবক্তা —",
+   "options": {
+    "A": "আইনস্টাইন",
+    "B": "নিউটন",
+    "C": "প্লাঙ্ক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "ইলেকট্রন কক্ষপথ বদলালে —",
+   "options": {
+    "A": "শক্তি শোষণ/নির্গমন করে",
+    "B": "কিছুই না",
+    "C": "থামে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "গামা রশ্মির গতি —",
+   "options": {
+    "A": "আলোর গতির সমান",
+    "B": "কম",
+    "C": "বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "নিউক্লিয় শক্তির অসুবিধা —",
+   "options": {
+    "A": "তেজস্ক্রিয় বর্জ্য",
+    "B": "কিছুই না",
+    "C": "সস্তা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "ট্রানজিস্টরের কাজ —",
+   "options": {
+    "A": "বিবর্ধন ও সুইচিং",
+    "B": "শুধু বিবর্ধন",
+    "C": "শুধু সুইচিং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "সোলার সেল কোন নীতিতে কাজ করে?",
+   "options": {
+    "A": "আলোক তড়িৎ ক্রিয়া",
+    "B": "তাপ",
+    "C": "চুম্বক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "ইলেকট্রন নিম্ন কক্ষে এলে —",
+   "options": {
+    "A": "আলো নির্গত হয়",
+    "B": "তাপ হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "বিটা কণা চৌম্বক ক্ষেত্রে আলফার —",
+   "options": {
+    "A": "বিপরীতে বাঁকে",
+    "B": "একই দিকে",
+    "C": "বাঁকে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "পারমাণবিক বোমা কোন বিক্রিয়া?",
+   "options": {
+    "A": "ফিশন",
+    "B": "ফিউশন",
+    "C": "রাসায়নিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউক্লিয় বিক্রিয়া",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "ট্রাফিক লাইটে —",
+   "options": {
+    "A": "এলইডি",
+    "B": "বাল্ব",
+    "C": "মোমবাতি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "আধুনিক পদার্থবিজ্ঞানের দুই স্তম্ভ —",
+   "options": {
+    "A": "কোয়ান্টাম ও আপেক্ষিক তত্ত্ব",
+    "B": "নিউটনের সূত্র",
+    "C": "ওহমের সূত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "ইলেকট্রন উচ্চ কক্ষে গেলে —",
+   "options": {
+    "A": "শক্তি শোষণ করে",
+    "B": "নির্গত করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "আলফা কণা থামাতে পারে —",
+   "options": {
+    "A": "কাগজ",
+    "B": "সীসা",
+    "C": "কংক্রিট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "ইলেকট্রনিক্সের অগ্রগতি —",
+   "options": {
+    "A": "কম্পিউটার ছোট করেছে",
+    "B": "বড় করেছে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "E = mc² এ c কী?",
+   "options": {
+    "A": "আলোর বেগ",
+    "B": "ভর",
+    "C": "শক্তি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "ভর সংখ্যার প্রতীক —",
+   "options": {
+    "A": "A",
+    "B": "Z",
+    "C": "N",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "বিটা কণা কী?",
+   "options": {
+    "A": "ইলেকট্রন",
+    "B": "হিলিয়াম নিউক্লিয়াস",
+    "C": "তরঙ্গ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "আধুনিক কম্পিউটারে —",
+   "options": {
+    "A": "IC",
+    "B": "ভ্যাকুয়াম টিউব",
+    "C": "ডায়োড শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "ভরের ক্ষয় শক্তিতে রূপান্তরিত হয় —",
+   "options": {
+    "A": "E = mc² অনুযায়ী",
+    "B": "কোনো সূত্র নেই",
+    "C": "তাপে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "Z = ১৯, A = ৩৯ হলে নিউট্রন কত?",
+   "options": {
+    "A": "২০",
+    "B": "১৯",
+    "C": "৩৯",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "বিটা কণা থামাতে —",
+   "options": {
+    "A": "অ্যালুমিনিয়াম পাত",
+    "B": "কাগজ শুধু",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "লজিক গেট তৈরি হয় —",
+   "options": {
+    "A": "ট্রানজিস্টর দিয়ে",
+    "B": "রোধ দিয়ে",
+    "C": "ব্যাটারি দিয়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "আলোর বেগ c = ?",
+   "options": {
+    "A": "৩ × ১০⁸ মি/সে",
+    "B": "৩ × ১০⁶ মি/সে",
+    "C": "৩৪০ মি/সে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "নিউট্রন আবিষ্কার করেন —",
+   "options": {
+    "A": "চ্যাডউইক",
+    "B": "রাদারফোর্ড",
+    "C": "থমসন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "বিটা কণার আধান —",
+   "options": {
+    "A": "ঋণাত্মক",
+    "B": "ধনাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "টেলিভিশন ডিসপ্লেতে —",
+   "options": {
+    "A": "এলইডি",
+    "B": "বাল্ব",
+    "C": "মোমবাতি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "আপেক্ষিক তত্ত্বে দৈর্ঘ্য —",
+   "options": {
+    "A": "সংকুচিত হয়",
+    "B": "প্রসারিত হয়",
+    "C": "ধ্রুব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "ভর সংখ্যা কাকে বলে?",
+   "options": {
+    "A": "প্রোটন + নিউট্রন",
+    "B": "শুধু প্রোটন",
+    "C": "শুধু নিউট্রন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "তেজস্ক্রিয় বর্জ্য নিষ্কাশন —",
+   "options": {
+    "A": "কঠিন",
+    "B": "সহজ",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "NOT গেট —",
+   "options": {
+    "A": "ইনপুট উল্টায়",
+    "B": "যোগ করে",
+    "C": "গুণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "চিরায়ত পদার্থবিজ্ঞান ব্যাখ্যা করতে পারে না —",
+   "options": {
+    "A": "পারমাণবিক ঘটনা",
+    "B": "গতি",
+    "C": "বল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "Z = ২৬, A = ৫৬ হলে নিউট্রন কত?",
+   "options": {
+    "A": "৩০",
+    "B": "২৬",
+    "C": "৫৬",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "তেজস্ক্রিয়তা দিয়ে —",
+   "options": {
+    "A": "বিদ্যুৎ উৎপন্ন হয়",
+    "B": "তাপ শুধু",
+    "C": "আলো শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "OR গেটে ০ ও ০ হলে আউটপুট —",
+   "options": {
+    "A": "০",
+    "B": "১",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "ভর ও শক্তির সম্পর্ক —",
+   "options": {
+    "A": "E = mc²",
+    "B": "F = ma",
+    "C": "V = IR",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "হাইড্রোজেনের আইসোটোপ —",
+   "options": {
+    "A": "প্রোটিয়াম, ডিউটেরিয়াম, ট্রিটিয়াম",
+    "B": "শুধু প্রোটিয়াম",
+    "C": "শুধু ডিউটেরিয়াম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "তেজস্ক্রিয়তার ব্যবহার —",
+   "options": {
+    "A": "চিকিৎসা, শিল্প, কৃষি",
+    "B": "শুধু চিকিৎসা",
+    "C": "শুধু শিল্প",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "ট্রানজিস্টরের pnp এ মাঝের স্তর —",
+   "options": {
+    "A": "n",
+    "B": "p",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "চিকিৎসায় আধুনিক পদার্থবিজ্ঞান —",
+   "options": {
+    "A": "ব্যাপক ব্যবহৃত",
+    "B": "হয় না",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আধুনিক পদার্থবিজ্ঞান",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "আইসোটোপের ভৌত ধর্ম —",
+   "options": {
+    "A": "ভিন্ন",
+    "B": "একই",
+    "C": "দ্বিগুণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "তেজস্ক্রিয় রশ্মির আয়নায়ন ক্রম —",
+   "options": {
+    "A": "আলফা > বিটা > গামা",
+    "B": "গামা > বিটা > আলফা",
+    "C": "বিটা > আলফা > গামা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "কম্পিউটারের প্রসেসরে —",
+   "options": {
+    "A": "IC ব্যবহৃত হয়",
+    "B": "হয় না",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "কার্বন-১৪ ডেটিংয়ে মাপা হয় —",
+   "options": {
+    "A": "জীবাশ্মের বয়স",
+    "B": "তাপ",
+    "C": "আলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "গামা নিঃসরণে ভর সংখ্যা —",
+   "options": {
+    "A": "একই থাকে",
+    "B": "কমে",
+    "C": "বাড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "OR গেটের আউটপুট ১ হয় —",
+   "options": {
+    "A": "যেকোনো ইনপুট ১ হলে",
+    "B": "সব ১ হলে",
+    "C": "সব ০ হলে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "পরমাণু Z = ১১, A = ২৩ হলে নিউট্রন কত?",
+   "options": {
+    "A": "১২",
+    "B": "১১",
+    "C": "২৩",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "আলফার আয়নায়ন ক্ষমতা সর্বোচ্চ —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "ডায়োড একমুখী প্রবাহ দেয় —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "Z = ২০, A = ৪০ হলে নিউট্রন কত?",
+   "options": {
+    "A": "২০",
+    "B": "৪০",
+    "C": "৬০",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "গামা রশ্মি চৌম্বক ক্ষেত্রে —",
+   "options": {
+    "A": "বাঁকে না",
+    "B": "বাঁকে",
+    "C": "থামে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "আধুনিক ইলেকট্রনিক্সের ভিত্তি —",
+   "options": {
+    "A": "সেমিকন্ডাক্টর",
+    "B": "পরিবাহী",
+    "C": "অপরিবাহী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "পরমাণুর নিউক্লিয়াস আবিষ্কার করেন —",
+   "options": {
+    "A": "রাদারফোর্ড",
+    "B": "বোর",
+    "C": "থমসন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "১ কিউরি = কত বেকারেল?",
+   "options": {
+    "A": "৩.৭ × ১০¹⁰",
+    "B": "৩.৭ × ১০⁶",
+    "C": "৩.৭ × ১০⁸",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "ভ্যাকুয়াম টিউব —",
+   "options": {
+    "A": "বড় ও তাপ উৎপন্ন করে",
+    "B": "ছোট",
+    "C": "ঠান্ডা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "হাইড্রোজেনের আইসোটোপ কয়টি?",
+   "options": {
+    "A": "৩",
+    "B": "২",
+    "C": "৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "আলফা নিঃসরণে পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "২ কমে",
+    "B": "২ বাড়ে",
+    "C": "একই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "লজিক গেটের প্রকার —",
+   "options": {
+    "A": "AND, OR, NOT",
+    "B": "শুধু AND",
+    "C": "শুধু OR",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "পরমাণুর কেন্দ্রে ধনাত্মক আধান —",
+   "options": {
+    "A": "নিউক্লিয়াস",
+    "B": "ইলেকট্রন",
+    "C": "শেল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "সবচেয়ে কম ভেদন ক্ষমতা —",
+   "options": {
+    "A": "আলফার",
+    "B": "বিটার",
+    "C": "গামার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তেজস্ক্রিয়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "ট্রানজিস্টর সুইচ হিসেবে —",
+   "options": {
+    "A": "কাজ করে",
+    "B": "কাজ করে না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "Z = ১৭, A = ৩৫ হলে নিউট্রন কত?",
+   "options": {
+    "A": "১৮",
+    "B": "১৭",
+    "C": "৩৫",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "ইলেকট্রনিক্স কাকে বলে?",
+   "options": {
+    "A": "ইলেকট্রনের প্রবাহ নিয়ন্ত্রণের বিজ্ঞান",
+    "B": "তাপ বিজ্ঞান",
+    "C": "আলো বিজ্ঞান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "নিউক্লিয়াসের আকার পরমাণুর তুলনায় —",
+   "options": {
+    "A": "অতি ক্ষুদ্র",
+    "B": "বড়",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "সিলিকন সবচেয়ে ব্যবহৃত —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "বোরের মডেলে ইলেকট্রন —",
+   "options": {
+    "A": "নির্দিষ্ট কক্ষপথে",
+    "B": "যেকোনো পথে",
+    "C": "থামে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "ডোপিংয়ের ফলে —",
+   "options": {
+    "A": "পরিবাহিতা বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "ইলেকট্রন আবিষ্কার করেন —",
+   "options": {
+    "A": "থমসন",
+    "B": "রাদারফোর্ড",
+    "C": "নিউটন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "সেমিকন্ডাক্টরের উদাহরণ —",
+   "options": {
+    "A": "সিলিকন, জার্মেনিয়াম",
+    "B": "তামা",
+    "C": "কাঠ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "বর্ণালি সৃষ্টি হয় —",
+   "options": {
+    "A": "ইলেকট্রনের কক্ষ বদলে",
+    "B": "তাপে",
+    "C": "আলোতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরমাণুর গঠন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "রেডিওতে ট্রানজিস্টর —",
+   "options": {
+    "A": "সিগনাল বিবর্ধন করে",
+    "B": "কমায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "ডায়োড ফরোয়ার্ড বায়াসে —",
+   "options": {
+    "A": "প্রবাহ চলে",
+    "B": "প্রবাহ চলে না",
+    "C": "থামে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "ট্রানজিস্টর অ্যামপ্লিফায়ার হিসেবে —",
+   "options": {
+    "A": "সক্রিয় অঞ্চলে",
+    "B": "সম্পৃক্তে",
+    "C": "বিচ্ছিন্নে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "পাওয়ার সাপ্লাইতে —",
+   "options": {
+    "A": "রেকটিফায়ার",
+    "B": "ইস্ত্রি",
+    "C": "কেটলি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "AND গেটে ১ ও ০ হলে আউটপুট —",
+   "options": {
+    "A": "০",
+    "B": "১",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "ট্রানজিস্টরের তিন প্রান্ত —",
+   "options": {
+    "A": "বেস, এমিটার, কালেক্টর",
+    "B": "অ্যানোড, ক্যাথোড",
+    "C": "ধনাত্মক, ঋণাত্মক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "ট্রানজিস্টরে কালেক্টর —",
+   "options": {
+    "A": "বড়",
+    "B": "ছোট",
+    "C": "মাঝারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "হোলের আধান —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "ঋণাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "ডিজিটাল ঘড়িতে —",
+   "options": {
+    "A": "IC",
+    "B": "রোধ",
+    "C": "ব্যাটারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "ডোপড সেমিকন্ডাক্টরকে কী বলে?",
+   "options": {
+    "A": "এক্সট্রিনসিক",
+    "B": "ইনট্রিনসিক",
+    "C": "বিশুদ্ধ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "ট্রানজিস্টরে তিন স্তর থাকে —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "ট্রানজিস্টরের pnp এ বেস —",
+   "options": {
+    "A": "n টাইপ",
+    "B": "p টাইপ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "রেকটিফায়ারের কাজ —",
+   "options": {
+    "A": "AC → DC",
+    "B": "DC → AC",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "টেলিভিশনে —",
+   "options": {
+    "A": "ইলেকট্রনিক্স",
+    "B": "তাপ",
+    "C": "আলো শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "OR গেটে ১ ও ০ হলে আউটপুট —",
+   "options": {
+    "A": "১",
+    "B": "০",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "মোবাইল চার্জারে —",
+   "options": {
+    "A": "রেকটিফায়ার",
+    "B": "ইস্ত্রি",
+    "C": "কেটলি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "বাইনারি সংখ্যা —",
+   "options": {
+    "A": "০ ও ১",
+    "B": "০–৯",
+    "C": "১–১০",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "NOT গেটে ইনপুট ১ হলে আউটপুট —",
+   "options": {
+    "A": "০",
+    "B": "১",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "ডায়োড কাকে বলে?",
+   "options": {
+    "A": "p-n জাংশন যন্ত্র",
+    "B": "রোধ",
+    "C": "ব্যাটারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "ট্রানজিস্টরে বেস —",
+   "options": {
+    "A": "পাতলা",
+    "B": "মোটা",
+    "C": "মাঝারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "p-টাইপে ডোপিংয়ে —",
+   "options": {
+    "A": "ত্রিযোজী মৌল",
+    "B": "পঞ্চযোজী মৌল",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "রেডিওতে —",
+   "options": {
+    "A": "ইলেকট্রনিক্স",
+    "B": "তাপ",
+    "C": "আলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "এলইডির রং —",
+   "options": {
+    "A": "লাল, সবুজ, নীল ইত্যাদি",
+    "B": "শুধু লাল",
+    "C": "শুধু সাদা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "ডায়োডে ফরোয়ার্ড বায়াসে বিভব —",
+   "options": {
+    "A": "০.৭ ভোল্ট (সিলিকন)",
+    "B": "১০ ভোল্ট",
+    "C": "১০০ ভোল্ট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "আধুনিক যোগাযোগে —",
+   "options": {
+    "A": "ইলেকট্রনিক্স",
+    "B": "তাপ",
+    "C": "আলো শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "ইন্টারনেটে —",
+   "options": {
+    "A": "ইলেকট্রনিক্স",
+    "B": "তাপ",
+    "C": "আলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "সেমিকন্ডাক্টরের ধরন —",
+   "options": {
+    "A": "n-টাইপ ও p-টাইপ",
+    "B": "শুধু n",
+    "C": "শুধু p",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "IC তে —",
+   "options": {
+    "A": "অনেক যন্ত্র এক চিপে",
+    "B": "এক যন্ত্র",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "ট্রানজিস্টর ভ্যাকুয়াম টিউবের চেয়ে —",
+   "options": {
+    "A": "ছোট ও দক্ষ",
+    "B": "বড়",
+    "C": "কম দক্ষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "সেমিকন্ডাক্টর ছাড়া —",
+   "options": {
+    "A": "ইলেকট্রনিক্স অসম্ভব",
+    "B": "সম্ভব",
+    "C": "একই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "IC তৈরি হয় —",
+   "options": {
+    "A": "সিলিকন চিপে",
+    "B": "লোহায়",
+    "C": "তামায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "সিলিকন ডায়োডের থ্রেশহোল্ড ভোল্টেজ —",
+   "options": {
+    "A": "০.৭ ভোল্ট",
+    "B": "০.৩ ভোল্ট",
+    "C": "১ ভোল্ট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "জার্মেনিয়াম ডায়োডের থ্রেশহোল্ড —",
+   "options": {
+    "A": "০.৩ ভোল্ট",
+    "B": "০.৭ ভোল্ট",
+    "C": "১ ভোল্ট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "ব্রিজ রেকটিফায়ারে —",
+   "options": {
+    "A": "৪টি ডায়োড",
+    "B": "২টি",
+    "C": "১টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "সিলিকনের যোজ্যতা —",
+   "options": {
+    "A": "৪",
+    "B": "২",
+    "C": "৩",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "ডায়োডে প্রবাহ —",
+   "options": {
+    "A": "একমুখী",
+    "B": "দ্বিমুখী",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "কম্পিউটারে —",
+   "options": {
+    "A": "মাইক্রোপ্রসেসর",
+    "B": "ভ্যাকুয়াম টিউব",
+    "C": "ডায়োড শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "মাইক্রোপ্রসেসরে —",
+   "options": {
+    "A": "লক্ষ লক্ষ ট্রানজিস্টর",
+    "B": "এক ট্রানজিস্টর",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "ইলেকট্রনিক্সের যুগ শুরু —",
+   "options": {
+    "A": "ট্রানজিস্টর আবিষ্কারে",
+    "B": "ভ্যাকুয়াম টিউবে",
+    "C": "ডায়োডে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "মোবাইল ফোনে —",
+   "options": {
+    "A": "IC ব্যবহৃত হয়",
+    "B": "হয় না",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "অর্ধতরঙ্গ রেকটিফায়ারে —",
+   "options": {
+    "A": "১টি ডায়োড",
+    "B": "২টি ডায়োড",
+    "C": "৪টি ডায়োড",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "মাইক্রোপ্রসেসর —",
+   "options": {
+    "A": "কম্পিউটারের মস্তিষ্ক",
+    "B": "রোধ",
+    "C": "ব্যাটারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "সেমিকন্ডাক্টর কয় ধরনের?",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "ডায়োডের কাজ —",
+   "options": {
+    "A": "একদিকে প্রবাহ",
+    "B": "দুদিকে প্রবাহ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "ট্রানজিস্টরের সুবিধা —",
+   "options": {
+    "A": "ছোট, কম শক্তি, দীর্ঘস্থায়ী",
+    "B": "বড়",
+    "C": "বেশি শক্তি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "ডিজিটাল ইলেকট্রনিক্সে —",
+   "options": {
+    "A": "০ ও ১",
+    "B": "শুধু ০",
+    "C": "শুধু ১",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "স্মার্টফোনে —",
+   "options": {
+    "A": "মাইক্রোপ্রসেসর",
+    "B": "রোধ",
+    "C": "ব্যাটারি শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "এলইডির পূর্ণরূপ —",
+   "options": {
+    "A": "Light Emitting Diode",
+    "B": "Light Emitting Device",
+    "C": "Laser Emitting Diode",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "ডায়োড অ্যানোড থেকে ক্যাথোডে —",
+   "options": {
+    "A": "প্রবাহ চলে",
+    "B": "চলে না",
+    "C": "থামে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "কম্পিউটার কাজ করে —",
+   "options": {
+    "A": "বাইনারিতে",
+    "B": "দশমিকে",
+    "C": "অক্টালে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "ট্রানজিস্টরের npn এ মাঝের স্তর —",
+   "options": {
+    "A": "p",
+    "B": "n",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "ট্রানজিস্টরে এমিটার —",
+   "options": {
+    "A": "অধিক ডোপড",
+    "B": "কম ডোপড",
+    "C": "মাঝারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "n-টাইপে ডোপিংয়ে —",
+   "options": {
+    "A": "পঞ্চযোজী মৌল",
+    "B": "ত্রিযোজী মৌল",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "এলইডির ব্যবহার —",
+   "options": {
+    "A": "ইন্ডিকেটর, ডিসপ্লে",
+    "B": "ইস্ত্রি",
+    "C": "কেটলি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "ডায়োডের ব্যবহার —",
+   "options": {
+    "A": "রেকটিফায়ার",
+    "B": "রোধ",
+    "C": "ব্যাটারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "ফরোয়ার্ড বায়াসে n পাশ —",
+   "options": {
+    "A": "ঋণাত্মক",
+    "B": "ধনাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "পূর্ণতরঙ্গ রেকটিফায়ারে —",
+   "options": {
+    "A": "২ বা ৪টি ডায়োড",
+    "B": "১টি ডায়োড",
+    "C": "৩টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "ট্রানজিস্টরের স্তর —",
+   "options": {
+    "A": "৩টি",
+    "B": "২টি",
+    "C": "৪টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "এলইডি কী?",
+   "options": {
+    "A": "আলো নিঃসরণকারী ডায়োড",
+    "B": "রোধ",
+    "C": "ব্যাটারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "জেনার ডায়োড ব্যবহৃত হয় —",
+   "options": {
+    "A": "ভোল্টেজ নিয়ন্ত্রণে",
+    "B": "আলোতে",
+    "C": "তাপে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "ডোপিং কাকে বলে?",
+   "options": {
+    "A": "অপদ্রব্য মেশানো",
+    "B": "বিশুদ্ধ রাখা",
+    "C": "গরম করা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "ইন্টিগ্রেটেড সার্কিট (IC) কী?",
+   "options": {
+    "A": "অনেক ট্রানজিস্টরের সমন্বয়",
+    "B": "একটি ট্রানজিস্টর",
+    "C": "রোধ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "AND গেটের আউটপুট ১ হয় —",
+   "options": {
+    "A": "সব ইনপুট ১ হলে",
+    "B": "একটি ১ হলে",
+    "C": "সব ০ হলে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "সিলিকনের পারমাণবিক সংখ্যা —",
+   "options": {
+    "A": "১৪",
+    "B": "১২",
+    "C": "১৬",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "AND গেটে ১ ও ১ হলে আউটপুট —",
+   "options": {
+    "A": "১",
+    "B": "০",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "বিশুদ্ধ সেমিকন্ডাক্টরকে কী বলে?",
+   "options": {
+    "A": "ইনট্রিনসিক",
+    "B": "এক্সট্রিনসিক",
+    "C": "ডোপড",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "রেকটিফায়ারে —",
+   "options": {
+    "A": "ডায়োড ব্যবহৃত হয়",
+    "B": "রোধ",
+    "C": "ব্যাটারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "সিলিকনে যোজ্য ইলেকট্রন —",
+   "options": {
+    "A": "৪",
+    "B": "২",
+    "C": "৩",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "ডায়োডের ক্যাথোড —",
+   "options": {
+    "A": "n পাশ",
+    "B": "p পাশ",
+    "C": "মাঝে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইলেকট্রনিক্স",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "A",
+  "2": "A",
+  "3": "A",
+  "4": "A",
+  "5": "A",
+  "6": "A",
+  "7": "A",
+  "8": "A",
+  "9": "A",
+  "10": "A",
+  "11": "A",
+  "12": "A",
+  "13": "A",
+  "14": "A",
+  "15": "A",
+  "16": "A",
+  "17": "A",
+  "18": "A",
+  "19": "A",
+  "20": "A",
+  "21": "A",
+  "22": "A",
+  "23": "A",
+  "24": "A",
+  "25": "A",
+  "26": "A",
+  "27": "A",
+  "28": "A",
+  "29": "A",
+  "30": "A",
+  "31": "A",
+  "32": "A",
+  "33": "A",
+  "34": "A",
+  "35": "A",
+  "36": "A",
+  "37": "A",
+  "38": "A",
+  "39": "A",
+  "40": "A",
+  "41": "A",
+  "42": "A",
+  "43": "A",
+  "44": "A",
+  "45": "A",
+  "46": "A",
+  "47": "A",
+  "48": "A",
+  "49": "A",
+  "50": "A",
+  "51": "A",
+  "52": "A",
+  "53": "A",
+  "54": "A",
+  "55": "A",
+  "56": "A",
+  "57": "A",
+  "58": "A",
+  "59": "A",
+  "60": "A",
+  "61": "A",
+  "62": "A",
+  "63": "A",
+  "64": "A",
+  "65": "A",
+  "66": "A",
+  "67": "A",
+  "68": "A",
+  "69": "A",
+  "70": "A",
+  "71": "A",
+  "72": "A",
+  "73": "A",
+  "74": "A",
+  "75": "A",
+  "76": "A",
+  "77": "A",
+  "78": "A",
+  "79": "A",
+  "80": "A",
+  "81": "A",
+  "82": "A",
+  "83": "A",
+  "84": "A",
+  "85": "A",
+  "86": "A",
+  "87": "A",
+  "88": "A",
+  "89": "A",
+  "90": "A",
+  "91": "A",
+  "92": "A",
+  "93": "A",
+  "94": "A",
+  "95": "A",
+  "96": "A",
+  "97": "A",
+  "98": "A",
+  "99": "A",
+  "100": "A",
+  "101": "A",
+  "102": "A",
+  "103": "A",
+  "104": "A",
+  "105": "A",
+  "106": "A",
+  "107": "A",
+  "108": "A",
+  "109": "A",
+  "110": "A",
+  "111": "A",
+  "112": "A",
+  "113": "A",
+  "114": "A",
+  "115": "A",
+  "116": "A",
+  "117": "A",
+  "118": "A",
+  "119": "A",
+  "120": "A",
+  "121": "A",
+  "122": "A",
+  "123": "A",
+  "124": "A",
+  "125": "A",
+  "126": "A",
+  "127": "A",
+  "128": "A",
+  "129": "A",
+  "130": "A",
+  "131": "A",
+  "132": "A",
+  "133": "A",
+  "134": "A",
+  "135": "A",
+  "136": "A",
+  "137": "A",
+  "138": "A",
+  "139": "A",
+  "140": "A",
+  "141": "A",
+  "142": "A",
+  "143": "A",
+  "144": "A",
+  "145": "A",
+  "146": "A",
+  "147": "A",
+  "148": "A",
+  "149": "A",
+  "150": "A",
+  "151": "A",
+  "152": "A",
+  "153": "A",
+  "154": "A",
+  "155": "A",
+  "156": "A",
+  "157": "A",
+  "158": "A",
+  "159": "A",
+  "160": "A",
+  "161": "A",
+  "162": "A",
+  "163": "A",
+  "164": "A",
+  "165": "A",
+  "166": "A",
+  "167": "A",
+  "168": "A",
+  "169": "A",
+  "170": "A",
+  "171": "A",
+  "172": "A",
+  "173": "A",
+  "174": "A",
+  "175": "A",
+  "176": "A",
+  "177": "A",
+  "178": "A",
+  "179": "A",
+  "180": "A",
+  "181": "A",
+  "182": "A",
+  "183": "A",
+  "184": "A",
+  "185": "A",
+  "186": "A",
+  "187": "A",
+  "188": "A",
+  "189": "A",
+  "190": "A",
+  "191": "A",
+  "192": "A",
+  "193": "A",
+  "194": "A",
+  "195": "A",
+  "196": "A",
+  "197": "A",
+  "198": "A",
+  "199": "A",
+  "200": "A",
+  "201": "A",
+  "202": "A",
+  "203": "A",
+  "204": "A",
+  "205": "A",
+  "206": "A",
+  "207": "A",
+  "208": "A",
+  "209": "A",
+  "210": "A",
+  "211": "A",
+  "212": "A",
+  "213": "A",
+  "214": "A",
+  "215": "A",
+  "216": "A",
+  "217": "A",
+  "218": "A",
+  "219": "A",
+  "220": "A",
+  "221": "A",
+  "222": "A",
+  "223": "A",
+  "224": "A",
+  "225": "A",
+  "226": "A",
+  "227": "A",
+  "228": "A",
+  "229": "A",
+  "230": "A",
+  "231": "A",
+  "232": "A",
+  "233": "A",
+  "234": "A",
+  "235": "A",
+  "236": "A",
+  "237": "A",
+  "238": "A",
+  "239": "A",
+  "240": "A",
+  "241": "A",
+  "242": "A",
+  "243": "A",
+  "244": "A",
+  "245": "A",
+  "246": "A",
+  "247": "A",
+  "248": "A",
+  "249": "A",
+  "250": "A",
+  "251": "A",
+  "252": "A",
+  "253": "A",
+  "254": "A",
+  "255": "A",
+  "256": "A",
+  "257": "A",
+  "258": "A",
+  "259": "A",
+  "260": "A",
+  "261": "A",
+  "262": "A",
+  "263": "A",
+  "264": "A",
+  "265": "A",
+  "266": "A",
+  "267": "A",
+  "268": "A",
+  "269": "A",
+  "270": "A",
+  "271": "A",
+  "272": "A",
+  "273": "A",
+  "274": "A",
+  "275": "A",
+  "276": "A",
+  "277": "A",
+  "278": "A",
+  "279": "A",
+  "280": "A",
+  "281": "A",
+  "282": "A",
+  "283": "A",
+  "284": "A",
+  "285": "A",
+  "286": "A",
+  "287": "A",
+  "288": "A",
+  "289": "A",
+  "290": "A",
+  "291": "A",
+  "292": "A",
+  "293": "A",
+  "294": "A",
+  "295": "A",
+  "296": "A",
+  "297": "A",
+  "298": "A",
+  "299": "A",
+  "300": "A",
+  "301": "A",
+  "302": "A",
+  "303": "A",
+  "304": "A",
+  "305": "A",
+  "306": "A",
+  "307": "A",
+  "308": "A",
+  "309": "A",
+  "310": "A",
+  "311": "A",
+  "312": "A",
+  "313": "A",
+  "314": "A",
+  "315": "A",
+  "316": "A",
+  "317": "A",
+  "318": "A",
+  "319": "A",
+  "320": "A",
+  "321": "A",
+  "322": "A",
+  "323": "A",
+  "324": "A",
+  "325": "A",
+  "326": "A",
+  "327": "A",
+  "328": "A",
+  "329": "A",
+  "330": "A",
+  "331": "A",
+  "332": "A",
+  "333": "A",
+  "334": "A",
+  "335": "A",
+  "336": "A",
+  "337": "A",
+  "338": "A",
+  "339": "A",
+  "340": "A",
+  "341": "A",
+  "342": "A",
+  "343": "A",
+  "344": "A",
+  "345": "A",
+  "346": "A",
+  "347": "A",
+  "348": "A",
+  "349": "A",
+  "350": "A",
+  "351": "A",
+  "352": "A",
+  "353": "A",
+  "354": "A",
+  "355": "A",
+  "356": "A",
+  "357": "A",
+  "358": "A",
+  "359": "A",
+  "360": "A",
+  "361": "A",
+  "362": "A",
+  "363": "A",
+  "364": "A",
+  "365": "A",
+  "366": "A",
+  "367": "A",
+  "368": "A",
+  "369": "A",
+  "370": "A",
+  "371": "A",
+  "372": "A",
+  "373": "A",
+  "374": "A",
+  "375": "A"
+ }
 }
