@@ -1,7 +1,7134 @@
 {
-  "subject": "পদার্থবিজ্ঞান",
-  "chapterNo": 3,
-  "chapter": "বল",
-  "questions": [],
-  "answerBox": {}
+ "subject": "পদার্থবিজ্ঞান",
+ "chapterNo": 3,
+ "chapter": "বল",
+ "questions": [
+  {
+   "question": "বল ও সরণ পরস্পর লম্ব হলে কাজ —",
+   "options": {
+    "A": "সর্বোচ্চ",
+    "B": "শূন্য",
+    "C": "ঋণাত্মক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "বলকে কয় ভাগে ভাগ করা যায়?",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "৪",
+    "D": "৫"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের প্রকারভেদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "৯ কেজি ভরের বস্তুর উপর ৩৬ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "৪ মি/সে²",
+    "B": "৯ মি/সে²",
+    "C": "২৭ মি/সে²",
+    "D": "৪৫ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "গতি জড়তা কী?",
+   "options": {
+    "A": "স্থির থাকার প্রবণতা",
+    "B": "গতিশীল বস্তুর গতিতে থাকার প্রবণতা",
+    "C": "বস্তুর ওজন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জড়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "ভরবেগের পরিবর্তনের হার কিসের সমান?",
+   "options": {
+    "A": "কাজ",
+    "B": "বল",
+    "C": "শক্তি",
+    "D": "ক্ষমতা"
+   },
+   "correctAnswer": "B",
+   "topic": "ভরবেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "১ কেজি-ওজন = কত নিউটন?",
+   "options": {
+    "A": "৯.৮",
+    "B": "১",
+    "C": "১০",
+    "D": "৯৮"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের একক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "একটি বস্তুকে টানতে যে বল লাগে তা ঘর্ষণ বলের —",
+   "options": {
+    "A": "কম",
+    "B": "সমান বা বেশি",
+    "C": "সবসময় কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "১২ নিউটন বল ৩ সেকেন্ড প্রয়োগ করলে আবেগ কত?",
+   "options": {
+    "A": "৩৬ নিউটন·সে",
+    "B": "১৫ নিউটন·সে",
+    "C": "৯ নিউটন·সে",
+    "D": "৪ নিউটন·সে"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "মেরু অঞ্চলে g বেশি হওয়ায় ওজন —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "অস্পর্শ বলের উদাহরণ নয় কোনটি?",
+   "options": {
+    "A": "মহাকর্ষ",
+    "B": "চৌম্বক",
+    "C": "তড়িৎ",
+    "D": "ঘর্ষণ"
+   },
+   "correctAnswer": "D",
+   "topic": "বলের প্রকারভেদ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "একটি বস্তুর উপর ২৫ নিউটন বল প্রযুক্ত হয়ে ৫ মি/সে² ত্বরণ হলে ভর কত?",
+   "options": {
+    "A": "৫ কেজি",
+    "B": "৩০ কেজি",
+    "C": "২০ কেজি",
+    "D": "১২৫ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "ভর যত বেশি জড়তা তত —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "শূন্য",
+    "D": "একই"
+   },
+   "correctAnswer": "B",
+   "topic": "জড়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "একটি বস্তুর ভরবেগ ২০ কেজি·মি/সে, ভর ৫ কেজি হলে বেগ কত?",
+   "options": {
+    "A": "৪ মি/সে",
+    "B": "১০০ মি/সে",
+    "C": "১৫ মি/সে",
+    "D": "২৫ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "বলের একক নিউটন কার নামে?",
+   "options": {
+    "A": "গ্যালিলিও",
+    "B": "নিউটন",
+    "C": "আইনস্টাইন",
+    "D": "আর্কিমিডিস"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের একক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "টায়ারের খাঁজ কাটা থাকে কেন?",
+   "options": {
+    "A": "ঘর্ষণ বাড়াতে",
+    "B": "ঘর্ষণ কমাতে",
+    "C": "সৌন্দর্যের জন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "১৫ নিউটন বল ২ সেকেন্ড প্রয়োগ করলে আবেগ কত?",
+   "options": {
+    "A": "৩০ নিউটন·সে",
+    "B": "১৭ নিউটন·সে",
+    "C": "১৩ নিউটন·সে",
+    "D": "৭.৫ নিউটন·সে"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "পৃথিবীতে ৬০ কেজি ভরের মানুষের ওজন কত? (g = ৯.৮)",
+   "options": {
+    "A": "৫৮৮ নিউটন",
+    "B": "৬০ নিউটন",
+    "C": "৯৮ নিউটন",
+    "D": "৫৮ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "স্পর্শ বলের উদাহরণ কোনটি?",
+   "options": {
+    "A": "মহাকর্ষ",
+    "B": "টান বল",
+    "C": "তড়িৎ বল",
+    "D": "চৌম্বক বল"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের প্রকারভেদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "নিউটন কোন দেশের বিজ্ঞানী?",
+   "options": {
+    "A": "ফ্রান্স",
+    "B": "ইংল্যান্ড",
+    "C": "জার্মানি",
+    "D": "ইতালি"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "জড়তা পরিমাপের একক কী?",
+   "options": {
+    "A": "কিলোগ্রাম",
+    "B": "নিউটন",
+    "C": "জুল",
+    "D": "মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "জড়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "ভরবেগ শূন্য হতে পারে যখন —",
+   "options": {
+    "A": "বেগ শূন্য",
+    "B": "ভর শূন্য",
+    "C": "ত্বরণ শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "বলের একক ডাইন কোন পদ্ধতির?",
+   "options": {
+    "A": "SI",
+    "B": "CGS",
+    "C": "FPS",
+    "D": "MKS"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের একক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "স্কেটিং করা সহজ কারণ ঘর্ষণ —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "১৮ নিউটন বল ২ সেকেন্ড প্রয়োগ করলে আবেগ কত?",
+   "options": {
+    "A": "৩৬ নিউটন·সে",
+    "B": "২০ নিউটন·সে",
+    "C": "১৬ নিউটন·সে",
+    "D": "৯ নিউটন·সে"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "ভর কোন ধরনের রাশি?",
+   "options": {
+    "A": "ভেক্টর",
+    "B": "স্কেলার",
+    "C": "লব্ধ",
+    "D": "মাত্রাহীন"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "স্পর্শ বলের উদাহরণ নয় কোনটি?",
+   "options": {
+    "A": "ঘর্ষণ",
+    "B": "টান",
+    "C": "প্রতিক্রিয়া",
+    "D": "তড়িৎ বল"
+   },
+   "correctAnswer": "D",
+   "topic": "বলের প্রকারভেদ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "নিউটনের তৃতীয় সূত্র কী?",
+   "options": {
+    "A": "ক্রিয়া ও প্রতিক্রিয়া",
+    "B": "জড়তা",
+    "C": "বল = ভর × ত্বরণ",
+    "D": "মহাকর্ষ"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "ভেজা কাপড় ঝেড়ে শুকানো কোন ধর্মের প্রয়োগ?",
+   "options": {
+    "A": "জড়তা",
+    "B": "ঘর্ষণ",
+    "C": "মহাকর্ষ",
+    "D": "চৌম্বক"
+   },
+   "correctAnswer": "A",
+   "topic": "জড়তা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "২ কেজি ভরের বস্তু ৩ মি/সে বেগে চললে ভরবেগ কত?",
+   "options": {
+    "A": "৫ কেজি·মি/সে",
+    "B": "৬ কেজি·মি/সে",
+    "C": "১.৫ কেজি·মি/সে",
+    "D": "৯ কেজি·মি/সে"
+   },
+   "correctAnswer": "B",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "১ ডাইন = কত নিউটন?",
+   "options": {
+    "A": "১০⁻⁵",
+    "B": "১০⁵",
+    "C": "১০⁻³",
+    "D": "১০³"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের একক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "ঘর্ষণের অসুবিধা কোনটি?",
+   "options": {
+    "A": "হাঁটা",
+    "B": "শক্তি অপচয়",
+    "C": "গাড়ি থামানো",
+    "D": "লেখা"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "একটি বস্তুর ভরবেগ ২ সেকেন্ডে ১৪ কেজি·মি/সে পরিবর্তন হলে গড় বল কত?",
+   "options": {
+    "A": "৭ নিউটন",
+    "B": "১৬ নিউটন",
+    "C": "১২ নিউটন",
+    "D": "২৮ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "স্প্রিং চাপলে ছোট হয় — কী ঘটে?",
+   "options": {
+    "A": "বিকৃতি",
+    "B": "গতি",
+    "C": "ভরবেগ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "দুটি বস্তুর সংস্পর্শে যে বল উৎপন্ন হয় তা কী?",
+   "options": {
+    "A": "অস্পর্শ বল",
+    "B": "স্পর্শ বল",
+    "C": "মহাকর্ষ",
+    "D": "চৌম্বক"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের প্রকারভেদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "সমবেগে চলমান বস্তুতে লব্ধি বল কত?",
+   "options": {
+    "A": "শূন্য",
+    "B": "সর্বোচ্চ",
+    "C": "অসীম",
+    "D": "গ"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "নিউটনের কোন সূত্র থেকে জড়তার ধারণা পাওয়া যায়?",
+   "options": {
+    "A": "দ্বিতীয়",
+    "B": "তৃতীয়",
+    "C": "প্রথম",
+    "D": "মহাকর্ষ"
+   },
+   "correctAnswer": "C",
+   "topic": "জড়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "ভরবেগ কাকে বলে?",
+   "options": {
+    "A": "ভর × বেগ",
+    "B": "ভর × ত্বরণ",
+    "C": "ভর/বেগ",
+    "D": "বল × সময়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "১ নিউটন বল কাকে বলে?",
+   "options": {
+    "A": "১ কেজি ভরে ১ মি/সে² ত্বরণ সৃষ্টিকারী বল",
+    "B": "১ গ্রাম ভরে ১ সেমি/সে² ত্বরণ",
+    "C": "১ কেজি ভরের ওজন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের একক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "বস্তুকে চলন্ত রাখতে যে বল লাগে তা স্থিতি ঘর্ষণ অপেক্ষা —",
+   "options": {
+    "A": "বেশি",
+    "B": "কম",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "আবেগ (impulse) কাকে বলে?",
+   "options": {
+    "A": "বল × সময়",
+    "B": "বল × দূরত্ব",
+    "C": "ভর × বেগ",
+    "D": "ভর × ত্বরণ"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "তড়িৎ আধান দুটির মধ্যে কোন বল কাজ করে?",
+   "options": {
+    "A": "মহাকর্ষ",
+    "B": "তড়িৎ বল",
+    "C": "ঘর্ষণ",
+    "D": "টান"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "মহাকর্ষ বল কোন ধরনের বল?",
+   "options": {
+    "A": "স্পর্শ বল",
+    "B": "অস্পর্শ বল",
+    "C": "ঘর্ষণ বল",
+    "D": "পেশি বল"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের প্রকারভেদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "২ কেজি ভরের বস্তুর উপর ৬ নিউটন বল ৩ সেকেন্ড প্রয়োগ করলে বেগের পরিবর্তন কত?",
+   "options": {
+    "A": "৯ মি/সে",
+    "B": "৩ মি/সে",
+    "C": "১৮ মি/সে",
+    "D": "৬ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "চলন্ত বাস থেকে লাফ দিলে সামনে পড়ে যাওয়া কোন ধর্ম?",
+   "options": {
+    "A": "গতিজড়তা",
+    "B": "স্থিতিজড়তা",
+    "C": "ঘর্ষণ",
+    "D": "মহাকর্ষ"
+   },
+   "correctAnswer": "A",
+   "topic": "জড়তা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "একটি বস্তুর ভরবেগ ৪০ কেজি·মি/সে, বেগ ৮ মি/সে হলে ভর কত?",
+   "options": {
+    "A": "৫ কেজি",
+    "B": "৪৮ কেজি",
+    "C": "৩২ কেজি",
+    "D": "৮ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "কোনটি বলের একক নয়?",
+   "options": {
+    "A": "নিউটন",
+    "B": "ডাইন",
+    "C": "কেজি·মি/সে²",
+    "D": "জুল"
+   },
+   "correctAnswer": "D",
+   "topic": "বলের একক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "আবর্ত ঘর্ষণের উদাহরণ কোনটি?",
+   "options": {
+    "A": "চাকা ঘোরা",
+    "B": "বক্স টানা",
+    "C": "দেয়ালে ঘষা",
+    "D": "হাঁটা"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "একটি বস্তুর ভরবেগ ২ সেকেন্ডে ১২ কেজি·মি/সে পরিবর্তন হলে গড় বল কত?",
+   "options": {
+    "A": "৬ নিউটন",
+    "B": "২৪ নিউটন",
+    "C": "১৪ নিউটন",
+    "D": "১০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "বল কী ধরনের রাশি?",
+   "options": {
+    "A": "স্কেলার",
+    "B": "ভেক্টর",
+    "C": "মাত্রাহীন",
+    "D": "মৌলিক"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "স্পর্শ বল কোনটি?",
+   "options": {
+    "A": "মহাকর্ষ বল",
+    "B": "ঘর্ষণ বল",
+    "C": "তড়িৎ বল",
+    "D": "চৌম্বক বল"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের প্রকারভেদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "১১ কেজি ভরের বস্তুর উপর ২২ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "২ মি/সে²",
+    "B": "১১ মি/সে²",
+    "C": "৩৩ মি/সে²",
+    "D": "২৪২ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "ঝাঁকুনি দিয়ে গাছ থেকে আম পাড়া কোন ধর্ম?",
+   "options": {
+    "A": "জড়তা",
+    "B": "ঘর্ষণ",
+    "C": "মহাকর্ষ",
+    "D": "ত্বরণ"
+   },
+   "correctAnswer": "A",
+   "topic": "জড়তা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "একটি বস্তুর ভরবেগ দ্বিগুণ করতে কী করা যায়?",
+   "options": {
+    "A": "ভর দ্বিগুণ বা বেগ দ্বিগুণ",
+    "B": "ভর অর্ধেক",
+    "C": "বেগ অর্ধেক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "বল পরিমাপে ব্যবহৃত হয় —",
+   "options": {
+    "A": "স্প্রিং নিক্তি",
+    "B": "তুলা যন্ত্র",
+    "C": "ঘড়ি",
+    "D": "ক্যালিপার্স"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের একক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "ঘর্ষণ বল কী?",
+   "options": {
+    "A": "দুটি বস্তুর সংস্পর্শে গতির বিরুদ্ধে বাধা",
+    "B": "মহাকর্ষ বল",
+    "C": "চৌম্বক বল",
+    "D": "তড়িৎ বল"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "রকেটের গতি কোন নীতির উপর ভিত্তি করে?",
+   "options": {
+    "A": "জড়তা",
+    "B": "ভরবেগের সংরক্ষণ",
+    "C": "ঘর্ষণ",
+    "D": "মহাকর্ষ"
+   },
+   "correctAnswer": "B",
+   "topic": "সংঘর্ষ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "নিচের কোনটি বল প্রয়োগের ফল?",
+   "options": {
+    "A": "গতির পরিবর্তন",
+    "B": "আকারের পরিবর্তন",
+    "C": "দিকের পরিবর্তন",
+    "D": "সবগুলো"
+   },
+   "correctAnswer": "D",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "ঘর্ষণ ও মহাকর্ষের মধ্যে কোনটি স্পর্শ বল?",
+   "options": {
+    "A": "মহাকর্ষ",
+    "B": "ঘর্ষণ",
+    "C": "দুটোই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের প্রকারভেদ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "নিউটনের দ্বিতীয় সূত্র থেকে কোনটি পাওয়া যায়?",
+   "options": {
+    "A": "জড়তা",
+    "B": "বলের পরিমাপ",
+    "C": "ক্রিয়া-প্রতিক্রিয়া",
+    "D": "মহাকর্ষ"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "জড়তার দুই প্রকার কী কী?",
+   "options": {
+    "A": "স্থিতি ও গতি জড়তা",
+    "B": "স্পর্শ ও অস্পর্শ",
+    "C": "মহাকর্ষ ও চৌম্বক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জড়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "ভরবেগের SI একক কোনটি?",
+   "options": {
+    "A": "কেজি·মি/সে",
+    "B": "কেজি·মি/সে²",
+    "C": "গ্রাম·সেমি/সে",
+    "D": "নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "বলের SI একক নিউটন সমান —",
+   "options": {
+    "A": "কেজি·মি/সে²",
+    "B": "কেজি·মি/সে",
+    "C": "গ্রাম·সেমি/সে²",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের একক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "ঘর্ষণ না থাকলে লেখা —",
+   "options": {
+    "A": "সহজ হতো",
+    "B": "কঠিন হতো",
+    "C": "একই থাকত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "আবেগ কিসের পরিবর্তনের সমান?",
+   "options": {
+    "A": "গতিশক্তি",
+    "B": "ভরবেগ",
+    "C": "বেগ",
+    "D": "ত্বরণ"
+   },
+   "correctAnswer": "B",
+   "topic": "সংঘর্ষ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "ভর পরিবর্তন হয় না কিন্তু ওজন পরিবর্তন হয় —",
+   "options": {
+    "A": "উচ্চতার সাথে",
+    "B": "শুধু ভরের সাথে",
+    "C": "কখনো নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "অস্পর্শ বলের উদাহরণ কোনটি?",
+   "options": {
+    "A": "ঘর্ষণ",
+    "B": "প্রতিক্রিয়া",
+    "C": "চৌম্বক বল",
+    "D": "পেশি বল"
+   },
+   "correctAnswer": "C",
+   "topic": "বলের প্রকারভেদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "২ কেজি ভরের বস্তুর উপর ৬ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "৩ মি/সে²",
+    "B": "১২ মি/সে²",
+    "C": "৮ মি/সে²",
+    "D": "৪ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "স্থির গাড়ি হঠাৎ চললে যাত্রী পেছনে হেলে পড়ে — এটি কী?",
+   "options": {
+    "A": "গতিজড়তা",
+    "B": "স্থিতিজড়তা",
+    "C": "ঘর্ষণ",
+    "D": "বল"
+   },
+   "correctAnswer": "B",
+   "topic": "জড়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "বৃত্তাকার পথে ঘূর্ণায়মান বস্তুর ভরবেগ সংরক্ষিত —",
+   "options": {
+    "A": "হয়",
+    "B": "হয় না",
+    "C": "কখনো হয়",
+    "D": "কখনো হয় না"
+   },
+   "correctAnswer": "B",
+   "topic": "ভরবেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "১ কেজি ওজনের বল = ? (g = ৯.৮)",
+   "options": {
+    "A": "৯.৮ নিউটন",
+    "B": "১ নিউটন",
+    "C": "১০ নিউটন",
+    "D": "৯৮ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের একক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "স্থিতি ঘর্ষণ ও গতি ঘর্ষণের মধ্যে কোনটি বেশি?",
+   "options": {
+    "A": "গতি ঘর্ষণ",
+    "B": "স্থিতি ঘর্ষণ",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "লম্বা লাফ দিলে বালিতে পড়লে আঘাত কম লাগে কেন?",
+   "options": {
+    "A": "সময় বেশি তাই বল কম",
+    "B": "ভর কম",
+    "C": "বেগ কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "বিষুব অঞ্চলে g কম হওয়ায় ওজন —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "অস্পর্শ বল কোনটি?",
+   "options": {
+    "A": "ঘর্ষণ বল",
+    "B": "প্রতিক্রিয়া বল",
+    "C": "মহাকর্ষ বল",
+    "D": "টান বল"
+   },
+   "correctAnswer": "C",
+   "topic": "বলের প্রকারভেদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "নিউটনের সূত্রগুলো কোন গ্রন্থে প্রকাশিত হয়?",
+   "options": {
+    "A": "প্রিন্সিপিয়া",
+    "B": "অরিগিন অব স্পিসিস",
+    "C": "অপটিক্স",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "চলন্ত গাড়ি হঠাৎ থামলে যাত্রী সামনে ঝুঁকে পড়ে — এটি কীসের উদাহরণ?",
+   "options": {
+    "A": "গতিজড়তা",
+    "B": "স্থিতিজড়তা",
+    "C": "ঘর্ষণ",
+    "D": "মহাকর্ষ"
+   },
+   "correctAnswer": "A",
+   "topic": "জড়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "৮ কেজি ভরের বস্তু ৩ মি/সে বেগে চললে ভরবেগ কত?",
+   "options": {
+    "A": "২৪ কেজি·মি/সে",
+    "B": "১১ কেজি·মি/সে",
+    "C": "৫ কেজি·মি/সে",
+    "D": "৪৮ কেজি·মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "বলের একক নিউটন কোন পদ্ধতির?",
+   "options": {
+    "A": "CGS",
+    "B": "SI",
+    "C": "FPS",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের একক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "ঘর্ষণ বল সবসময় গতির —",
+   "options": {
+    "A": "অনুকূলে",
+    "B": "বিপরীতে",
+    "C": "লম্বে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "বন্দুকের গুলি ছোড়ার সময় বন্দুক পেছনে সরে যায় — একে কী বলে?",
+   "options": {
+    "A": "প্রতিক্রিয়া",
+    "B": "রিকয়েল",
+    "C": "জড়তা",
+    "D": "ঘর্ষণ"
+   },
+   "correctAnswer": "B",
+   "topic": "সংঘর্ষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "ওজন মাপার যন্ত্র কোনটি?",
+   "options": {
+    "A": "স্প্রিং নিক্তি",
+    "B": "মিটার স্কেল",
+    "C": "ঘড়ি",
+    "D": "ক্যালিপার্স"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "নিচের কোনটি স্পর্শ বল?",
+   "options": {
+    "A": "মহাকর্ষ",
+    "B": "চৌম্বক",
+    "C": "ঘর্ষণ",
+    "D": "তড়িৎ"
+   },
+   "correctAnswer": "C",
+   "topic": "বলের প্রকারভেদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "৫ কেজি ভরের বস্তুর উপর ২৫ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "৫ মি/সে²",
+    "B": "২৫ মি/সে²",
+    "C": "৩০ মি/সে²",
+    "D": "২০ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "জড়তার কারণে স্থির বাস হঠাৎ চালু হলে যাত্রী —",
+   "options": {
+    "A": "সামনে ঝুঁকে পড়ে",
+    "B": "পেছনে হেলে পড়ে",
+    "C": "স্থির থাকে",
+    "D": "নিচে পড়ে"
+   },
+   "correctAnswer": "B",
+   "topic": "জড়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "৬ কেজি ভরের বস্তু ২ মি/সে বেগে চললে ভরবেগ কত?",
+   "options": {
+    "A": "১২ কেজি·মি/সে",
+    "B": "৮ কেজি·মি/সে",
+    "C": "৩ কেজি·মি/সে",
+    "D": "৪ কেজি·মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "১ নিউটন = কত ডাইন?",
+   "options": {
+    "A": "১০³",
+    "B": "১০⁵",
+    "C": "১০⁷",
+    "D": "১০⁹"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের একক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "কাদায় গাড়ির চাকা পিছলে যায় কারণ ঘর্ষণ —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "একটি বস্তুর ভরবেগ ২ সেকেন্ডে ১০ কেজি·মি/সে পরিবর্তিত হলে গড় বল কত?",
+   "options": {
+    "A": "৫ নিউটন",
+    "B": "২০ নিউটন",
+    "C": "১২ নিউটন",
+    "D": "৮ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "ভর ও ওজনের সম্পর্ক কোনটি?",
+   "options": {
+    "A": "W = mg",
+    "B": "W = m/g",
+    "C": "W = mg²",
+    "D": "W = m+g"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "নিচের কোনটি অস্পর্শ বল?",
+   "options": {
+    "A": "ঘর্ষণ",
+    "B": "টান",
+    "C": "প্রতিক্রিয়া",
+    "D": "মহাকর্ষ"
+   },
+   "correctAnswer": "D",
+   "topic": "বলের প্রকারভেদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "৭ কেজি ভরের বস্তুর উপর ২৮ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "৪ মি/সে²",
+    "B": "৭ মি/সে²",
+    "C": "২১ মি/সে²",
+    "D": "৩৫ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "কোন বস্তুর জড়তা বেশি?",
+   "options": {
+    "A": "১০ কেজি লোহা",
+    "B": "১ কেজি তুলা",
+    "C": "২ কেজি কাগজ",
+    "D": "৫ কেজি পানি"
+   },
+   "correctAnswer": "A",
+   "topic": "জড়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "ভরবেগের সূত্র কোনটি?",
+   "options": {
+    "A": "p = mv",
+    "B": "p = ma",
+    "C": "p = m/v",
+    "D": "p = Ft"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "১ কেজি·মি/সে² সমান কত?",
+   "options": {
+    "A": "১ ডাইন",
+    "B": "১ নিউটন",
+    "C": "১ জুল",
+    "D": "১ ওয়াট"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের একক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "ঘর্ষণ বল উৎপন্ন হয় কীসের কারণে?",
+   "options": {
+    "A": "দুটি পৃষ্ঠের সংস্পর্শ",
+    "B": "মহাকর্ষ",
+    "C": "চৌম্বক",
+    "D": "তড়িৎ"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "সংঘর্ষ কয় প্রকার?",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "৪",
+    "D": "৫"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "প্রোটন ও নিউট্রনকে নিউক্লিয়াসে আবদ্ধ রাখে কোন বল?",
+   "options": {
+    "A": "মহাকর্ষ",
+    "B": "সবল নিউক্লিয় বল",
+    "C": "দুর্বল নিউক্লিয়",
+    "D": "তড়িৎচৌম্বক"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "দুটি চুম্বকের মধ্যে বিকর্ষণ কোন বল?",
+   "options": {
+    "A": "স্পর্শ বল",
+    "B": "অস্পর্শ বল",
+    "C": "ঘর্ষণ",
+    "D": "টান"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের প্রকারভেদ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "একই বল প্রয়োগে ভর বেশি হলে ত্বরণ —",
+   "options": {
+    "A": "বেশি",
+    "B": "কম",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "জড়তার পরিমাপ কোনটি?",
+   "options": {
+    "A": "ওজন",
+    "B": "ভর",
+    "C": "ঘনত্ব",
+    "D": "আয়তন"
+   },
+   "correctAnswer": "B",
+   "topic": "জড়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "স্থির বস্তুর ভরবেগ কত?",
+   "options": {
+    "A": "শূন্য",
+    "B": "সর্বোচ্চ",
+    "C": "অসীম",
+    "D": "১"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "১ ডাইন বল কাকে বলে?",
+   "options": {
+    "A": "১ গ্রাম ভরে ১ সেমি/সে² ত্বরণ",
+    "B": "১ কেজি ভরে ১ মি/সে² ত্বরণ",
+    "C": "১ গ্রাম ভরের ওজন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের একক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "ঘর্ষণ কয় প্রকার?",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "৪",
+    "D": "৫"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "দীর্ঘ সময় ধরে বল প্রয়োগ করলে আবেগ —",
+   "options": {
+    "A": "বেশি",
+    "B": "কম",
+    "C": "শূন্য",
+    "D": "একই"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "দুটি বলের লব্ধি সর্বোচ্চ হয় যখন তারা —",
+   "options": {
+    "A": "বিপরীত দিকে",
+    "B": "একই দিকে",
+    "C": "লম্বভাবে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "দুটি বস্তুর সংস্পর্শ ছাড়া যে বল কাজ করে তা কী?",
+   "options": {
+    "A": "স্পর্শ বল",
+    "B": "অস্পর্শ বল",
+    "C": "ঘর্ষণ",
+    "D": "টান"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের প্রকারভেদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "বল প্রয়োগের ফলে বস্তুর ত্বরণ হয় — এটি কোন সূত্র?",
+   "options": {
+    "A": "প্রথম",
+    "B": "দ্বিতীয়",
+    "C": "তৃতীয়",
+    "D": "মহাকর্ষ"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "ভরের পরিমাণই জড়তার পরিমাপ — এটি কার কথা?",
+   "options": {
+    "A": "নিউটন",
+    "B": "গ্যালিলিও",
+    "C": "আইনস্টাইন",
+    "D": "আর্কিমিডিস"
+   },
+   "correctAnswer": "A",
+   "topic": "জড়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "চলন্ত বস্তুর ভরবেগ শূন্য হতে পারে —",
+   "options": {
+    "A": "না",
+    "B": "হ্যাঁ",
+    "C": "সবসময়",
+    "D": "কখনো"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "গতির ঘর্ষণ স্থিতি ঘর্ষণের চেয়ে —",
+   "options": {
+    "A": "বেশি",
+    "B": "কম",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "২২ নিউটন বল ২ সেকেন্ড প্রয়োগ করলে আবেগ কত?",
+   "options": {
+    "A": "৪৪ নিউটন·সে",
+    "B": "২৪ নিউটন·সে",
+    "C": "২০ নিউটন·সে",
+    "D": "১১ নিউটন·সে"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "তেজস্ক্রিয়তার সাথে কোন বল জড়িত?",
+   "options": {
+    "A": "সবল নিউক্লিয়",
+    "B": "দুর্বল নিউক্লিয় বল",
+    "C": "মহাকর্ষ",
+    "D": "তড়িৎচৌম্বক"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "বস্তুর উপর মহাকর্ষ বল কাজ করে —",
+   "options": {
+    "A": "স্পর্শে",
+    "B": "দূর থেকেও",
+    "C": "শুধু কাছ থেকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের প্রকারভেদ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "৪ কেজি ভরের বস্তুর উপর ৮ নিউটন বল ২ সেকেন্ড প্রয়োগ করলে বেগের পরিবর্তন কত?",
+   "options": {
+    "A": "৪ মি/সে",
+    "B": "২ মি/সে",
+    "C": "১৬ মি/সে",
+    "D": "৮ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "স্থিতি জড়তা কী?",
+   "options": {
+    "A": "স্থির বস্তুর স্থির থাকার প্রবণতা",
+    "B": "গতিশীল বস্তুর চলার প্রবণতা",
+    "C": "বস্তুর ভর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জড়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "ভরবেগের মাত্রা কোনটি?",
+   "options": {
+    "A": "[MLT⁻¹]",
+    "B": "[MLT⁻²]",
+    "C": "[ML²T⁻¹]",
+    "D": "[MT⁻¹]"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "গতিশীল বস্তু থামাতে কোন বল সাহায্য করে?",
+   "options": {
+    "A": "মহাকর্ষ",
+    "B": "ঘর্ষণ",
+    "C": "চৌম্বক",
+    "D": "তড়িৎ"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "২০ নিউটন বল ৩ সেকেন্ড প্রয়োগ করলে আবেগ কত?",
+   "options": {
+    "A": "৬০ নিউটন·সে",
+    "B": "২৩ নিউটন·সে",
+    "C": "১৭ নিউটন·সে",
+    "D": "৬.৬৭ নিউটন·সে"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "৮ কেজি ভরের বস্তুর ওজন কত? (g = ৯.৮)",
+   "options": {
+    "A": "৭৮.৪ নিউটন",
+    "B": "৮ নিউটন",
+    "C": "১৭.৮ নিউটন",
+    "D": "৮০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "সুতা দিয়ে বাঁধা বস্তু ঝুলালে সুতায় যে বল উৎপন্ন হয় তা কী?",
+   "options": {
+    "A": "মহাকর্ষ",
+    "B": "টান বল",
+    "C": "ঘর্ষণ",
+    "D": "চৌম্বক"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের প্রকারভেদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "ক্রিয়া ও প্রতিক্রিয়া বল দুটি ভিন্ন বস্তুতে কাজ করায় তারা পরস্পরকে —",
+   "options": {
+    "A": "বাতিল করে",
+    "B": "বাতিল করে না",
+    "C": "যোগ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "বাস হঠাৎ চালু হলে যাত্রী পেছনে হেলে পড়ে — কোন জড়তা?",
+   "options": {
+    "A": "স্থিতি জড়তা",
+    "B": "গতি জড়তা",
+    "C": "উভয়ই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জড়তা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "২ কেজি ও ৪ কেজি ভরের দুটি বস্তুর বেগ যথাক্রমে ৬ মি/সে ও ৩ মি/সে হলে কার ভরবেগ বেশি?",
+   "options": {
+    "A": "২ কেজির",
+    "B": "৪ কেজির",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "স্থিতি ঘর্ষণ গুণাঙ্কের প্রতীক কী?",
+   "options": {
+    "A": "μs",
+    "B": "μk",
+    "C": "μ",
+    "D": "k"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "অস্থিতিস্থাপক সংঘর্ষে কী সংরক্ষিত থাকে?",
+   "options": {
+    "A": "গতিশক্তি",
+    "B": "ভরবেগ",
+    "C": "উভয়ই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংঘর্ষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "মৌলিক বলগুলোর মধ্যে সবচেয়ে দুর্বল ও সবচেয়ে শক্তিশালী বল যথাক্রমে —",
+   "options": {
+    "A": "মহাকর্ষ ও সবল নিউক্লিয়",
+    "B": "সবল ও মহাকর্ষ",
+    "C": "তড়িৎচৌম্বক ও মহাকর্ষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "টান বল কোন ধরনের বল?",
+   "options": {
+    "A": "অস্পর্শ বল",
+    "B": "স্পর্শ বল",
+    "C": "মহাকর্ষ",
+    "D": "চৌম্বক"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের প্রকারভেদ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "বল অর্ধেক করলে ত্বরণ (ভর স্থির) —",
+   "options": {
+    "A": "অর্ধেক",
+    "B": "দ্বিগুণ",
+    "C": "একই",
+    "D": "চার গুণ"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "জড়তা কোন রাশির উপর নির্ভর করে?",
+   "options": {
+    "A": "ভর",
+    "B": "দ্রুতি",
+    "C": "আয়তন",
+    "D": "ঘনত্ব"
+   },
+   "correctAnswer": "A",
+   "topic": "জড়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "৩ কেজি ভরের বস্তু ৪ মি/সে বেগে চললে ভরবেগ কত?",
+   "options": {
+    "A": "১২ কেজি·মি/সে",
+    "B": "৭ কেজি·মি/সে",
+    "C": "১ কেজি·মি/সে",
+    "D": "৪৮ কেজি·মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "ঘর্ষণ কমানোর উপায় কোনটি?",
+   "options": {
+    "A": "তেল দেওয়া",
+    "B": "বালি দেওয়া",
+    "C": "পৃষ্ঠ খসখসে করা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "একটি বস্তুর ভরবেগ ২ সেকেন্ডে ৮ কেজি·মি/সে পরিবর্তন হলে গড় বল কত?",
+   "options": {
+    "A": "৪ নিউটন",
+    "B": "১৬ নিউটন",
+    "C": "১০ নিউটন",
+    "D": "৬ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "দুটি বল একই দিকে কাজ করলে লব্ধি —",
+   "options": {
+    "A": "বিয়োগ হয়",
+    "B": "যোগ হয়",
+    "C": "গুণ হয়",
+    "D": "ভাগ হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "ঘর্ষণ বল কোন ধরনের বল?",
+   "options": {
+    "A": "স্পর্শ বল",
+    "B": "অস্পর্শ বল",
+    "C": "মহাকর্ষ বল",
+    "D": "চৌম্বক বল"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের প্রকারভেদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "হেলিকপ্টার উপরে ওঠে কীভাবে?",
+   "options": {
+    "A": "বাতাস নিচে ঠেলে",
+    "B": "মহাকর্ষে",
+    "C": "ঘর্ষণে",
+    "D": "জড়তায়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "ভর বেশি হলে জড়তা —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "শূন্য",
+    "D": "একই"
+   },
+   "correctAnswer": "B",
+   "topic": "জড়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "৭ কেজি ভরের বস্তু ৫ মি/সে বেগে চললে ভরবেগ কত?",
+   "options": {
+    "A": "৩৫ কেজি·মি/সে",
+    "B": "১২ কেজি·মি/সে",
+    "C": "২ কেজি·মি/সে",
+    "D": "৭৫ কেজি·মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "ঘর্ষণ কোণ কাকে বলে?",
+   "options": {
+    "A": "ঘর্ষণ বল ও অভিলম্ব প্রতিক্রিয়ার লব্ধির কোণ",
+    "B": "দুটি পৃষ্ঠের কোণ",
+    "C": "গতির কোণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "ভারী বন্দুকের রিকয়েল হালকা বন্দুকের চেয়ে —",
+   "options": {
+    "A": "বেশি",
+    "B": "কম",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংঘর্ষ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "ওজন শূন্য হয় কোথায়?",
+   "options": {
+    "A": "মহাকাশে মুক্ত অবস্থায়",
+    "B": "মেরুতে",
+    "C": "বিষুবে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "একটি বস্তুর উপর ২০ নিউটন বল প্রযুক্ত হয়ে ৪ মি/সে² ত্বরণ হলে ভর কত?",
+   "options": {
+    "A": "৫ কেজি",
+    "B": "৮০ কেজি",
+    "C": "১৬ কেজি",
+    "D": "২৪ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "জড়তা কাকে বলে?",
+   "options": {
+    "A": "বস্তুর নিজের অবস্থা বজায় রাখার ধর্ম",
+    "B": "বস্তুর ওজন",
+    "C": "বস্তুর দ্রুতি",
+    "D": "বস্তুর ত্বরণ"
+   },
+   "correctAnswer": "A",
+   "topic": "জড়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "১০ কেজি ভরের বস্তু ২ মি/সে বেগে চললে ভরবেগ কত?",
+   "options": {
+    "A": "১২ কেজি·মি/সে",
+    "B": "২০ কেজি·মি/সে",
+    "C": "৫ কেজি·মি/সে",
+    "D": "৮ কেজি·মি/সে"
+   },
+   "correctAnswer": "B",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "ঘর্ষণ বল বস্তুর ভরের সাথে —",
+   "options": {
+    "A": "সমানুপাতিক",
+    "B": "ব্যস্তানুপাতিক",
+    "C": "কোনো সম্পর্ক নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "ক্রিকেটার বল ধরার সময় হাত পেছনে নেয় কেন?",
+   "options": {
+    "A": "আবেগ কমাতে",
+    "B": "বল কমাতে",
+    "C": "ভরবেগ কমাতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংঘর্ষ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "দেয়ালে ধাক্কা দিলে কাজ হয় না কেন?",
+   "options": {
+    "A": "বল নেই",
+    "B": "সরণ নেই",
+    "C": "ভর নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "নিউটনের প্রথম সূত্রে বাইরের বল না থাকলে বস্তু —",
+   "options": {
+    "A": "ত্বরণ পায়",
+    "B": "স্থির বা সমবেগে চলে",
+    "C": "থেমে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "জড়তার কারণে চলন্ত বাস হঠাৎ ব্রেক করলে যাত্রী —",
+   "options": {
+    "A": "সামনে ঝুঁকে পড়ে",
+    "B": "পেছনে হেলে পড়ে",
+    "C": "স্থির থাকে",
+    "D": "উপরে ওঠে"
+   },
+   "correctAnswer": "A",
+   "topic": "জড়তা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "সমান ভরবেগে হালকা বস্তুর বেগ ভারী বস্তুর চেয়ে —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ভরবেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "তেল বা গ্রিজ ঘর্ষণ —",
+   "options": {
+    "A": "বাড়ায়",
+    "B": "কমায়",
+    "C": "একই রাখে",
+    "D": "শূন্য করে"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "৮ নিউটন বল ৫ সেকেন্ড প্রয়োগ করলে আবেগ কত?",
+   "options": {
+    "A": "৪০ নিউটন·সে",
+    "B": "১৩ নিউটন·সে",
+    "C": "৩ নিউটন·সে",
+    "D": "১.৬ নিউটন·সে"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "৩ কেজি ভরের বস্তুর ওজন (g = ১০) কত?",
+   "options": {
+    "A": "৩০ নিউটন",
+    "B": "৩ নিউটন",
+    "C": "১৩ নিউটন",
+    "D": "২৯.৪ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "বল ও ত্বরণের সম্পর্ক কী?",
+   "options": {
+    "A": "সমানুপাতিক",
+    "B": "ব্যস্তানুপাতিক",
+    "C": "কোনো সম্পর্ক নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "গাড়ির আসনে হঠাৎ থামলে যাত্রী সামনে ঝুঁকে পড়ে — কোন জড়তা?",
+   "options": {
+    "A": "স্থিতি জড়তা",
+    "B": "গতি জড়তা",
+    "C": "উভয়ই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জড়তা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "একটি বস্তুর ভরবেগ ৩০ কেজি·মি/সে, ভর ৬ কেজি হলে বেগ কত?",
+   "options": {
+    "A": "৫ মি/সে",
+    "B": "৩৬ মি/সে",
+    "C": "২৪ মি/সে",
+    "D": "১৮০ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "ঘর্ষণ না থাকলে চলন্ত গাড়ি থামানো —",
+   "options": {
+    "A": "সহজ হতো",
+    "B": "কঠিন হতো",
+    "C": "অসম্ভব হতো না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "বন্দুকের গুলি ও বন্দুকের ভরবেগের সম্পর্ক কী?",
+   "options": {
+    "A": "সমান ও একই দিকে",
+    "B": "সমান ও বিপরীত দিকে",
+    "C": "অসমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংঘর্ষ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "একটি বস্তুর উপর ৯ নিউটন ও ১২ নিউটন বল পরস্পর লম্বভাবে কাজ করলে লব্ধি কত?",
+   "options": {
+    "A": "১৫ নিউটন",
+    "B": "২১ নিউটন",
+    "C": "৩ নিউটন",
+    "D": "১০৮ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "জড়তা সম্পর্কিত সূত্র কোনটি?",
+   "options": {
+    "A": "প্রথম",
+    "B": "দ্বিতীয়",
+    "C": "তৃতীয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "একটি বস্তুর ভরবেগ ৪৮ কেজি·মি/সে, ভর ৮ কেজি হলে বেগ কত?",
+   "options": {
+    "A": "৬ মি/সে",
+    "B": "৫৬ মি/সে",
+    "C": "৪০ মি/সে",
+    "D": "৩৮৪ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "ঘর্ষণ বল F = ?",
+   "options": {
+    "A": "μN",
+    "B": "μ/N",
+    "C": "N/μ",
+    "D": "μN²"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "১০ নিউটন বল ২ সেকেন্ড ধরে প্রয়োগ করলে আবেগ কত?",
+   "options": {
+    "A": "২০ নিউটন·সে",
+    "B": "৫ নিউটন·সে",
+    "C": "১২ নিউটন·সে",
+    "D": "৮ নিউটন·সে"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "১০ নিউটন ও ৪ নিউটন বল বিপরীত দিকে কাজ করলে লব্ধি কত?",
+   "options": {
+    "A": "১৪ নিউটন",
+    "B": "৬ নিউটন",
+    "C": "৪০ নিউটন",
+    "D": "১০ নিউটন"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "১২ কেজি ভরের বস্তুর উপর ৩৬ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "৩ মি/সে²",
+    "B": "১২ মি/সে²",
+    "C": "৪৮ মি/সে²",
+    "D": "২৪ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "৩ কেজি ভরের বস্তু ২ মি/সে বেগে ও ৬ কেজি ভরের বস্তু ১ মি/সে বেগে চললে কার ভরবেগ বেশি?",
+   "options": {
+    "A": "প্রথমটির",
+    "B": "দ্বিতীয়টির",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "বস্তুর ওজন বেশি হলে ঘর্ষণ বল —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "শূন্য",
+    "D": "একই"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "সংঘর্ষে ভরবেগ সংরক্ষণের কারণ কী?",
+   "options": {
+    "A": "বাইরের বল কাজ করে",
+    "B": "বাইরের বল শূন্য",
+    "C": "ঘর্ষণ বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংঘর্ষ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "রাবার ব্যান্ড টানলে লম্বা হয় — এটি কীসের উদাহরণ?",
+   "options": {
+    "A": "বলের প্রভাবে বিকৃতি",
+    "B": "গতি",
+    "C": "ঘর্ষণ",
+    "D": "মহাকর্ষ"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "৭ কেজি ভরের বস্তুর উপর ২১ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "৩ মি/সে²",
+    "B": "৭ মি/সে²",
+    "C": "২১ মি/সে²",
+    "D": "১৪ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "ভরবেগ কোন ধরনের রাশি?",
+   "options": {
+    "A": "স্কেলার",
+    "B": "ভেক্টর",
+    "C": "মাত্রাহীন",
+    "D": "মৌলিক"
+   },
+   "correctAnswer": "B",
+   "topic": "ভরবেগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "ঘর্ষণ বলের SI একক কী?",
+   "options": {
+    "A": "জুল",
+    "B": "নিউটন",
+    "C": "ওয়াট",
+    "D": "প্যাসকেল"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "দুটি বস্তুর সংঘর্ষে ভরবেগের সংরক্ষণ সূত্র কোনটি?",
+   "options": {
+    "A": "m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂",
+    "B": "m₁u₁ = m₂u₂",
+    "C": "F = ma",
+    "D": "p = mv"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "একটি বস্তুর ওজন ৯৮ নিউটন হলে ভর কত? (g = ৯.৮)",
+   "options": {
+    "A": "১০ কেজি",
+    "B": "৯৮ কেজি",
+    "C": "৯.৮ কেজি",
+    "D": "৫ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "একটি বস্তুর উপর ৬০ নিউটন বল প্রযুক্ত হয়ে ৪ মি/সে² ত্বরণ হলে ভর কত?",
+   "options": {
+    "A": "১৫ কেজি",
+    "B": "৬৪ কেজি",
+    "C": "৫৬ কেজি",
+    "D": "২৪০ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "ভরবেগ ও আবেগের একক —",
+   "options": {
+    "A": "ভিন্ন",
+    "B": "একই",
+    "C": "কখনো সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ভরবেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "দুই হাত ঘষলে হাত গরম হয় কেন?",
+   "options": {
+    "A": "ঘর্ষণে তাপ",
+    "B": "মহাকর্ষ",
+    "C": "চৌম্বক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "আবেগের মাত্রা কোনটি?",
+   "options": {
+    "A": "[MLT⁻¹]",
+    "B": "[MLT⁻²]",
+    "C": "[ML²T⁻¹]",
+    "D": "[MT⁻¹]"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "বলের সাহায্যে বস্তুর দিক পরিবর্তন সম্ভব — উদাহরণ কোনটি?",
+   "options": {
+    "A": "ক্রিকেট ব্যাটে বল",
+    "B": "পাথর পড়া",
+    "C": "পাতা ঝরা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "নৌকা থেকে লাফ দিলে নৌকা পিছিয়ে যায় — কোন সূত্র?",
+   "options": {
+    "A": "প্রথম",
+    "B": "দ্বিতীয়",
+    "C": "তৃতীয়",
+    "D": "মহাকর্ষ"
+   },
+   "correctAnswer": "C",
+   "topic": "নিউটনের সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "৪ কেজি ভরের বস্তু ৫ মি/সে বেগে চললে ভরবেগ কত?",
+   "options": {
+    "A": "২০ কেজি·মি/সে",
+    "B": "৯ কেজি·মি/সে",
+    "C": "১ কেজি·মি/সে",
+    "D": "৪৫ কেজি·মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "ঘর্ষণ বল গতির দিকের সাথে কত কোণে কাজ করে?",
+   "options": {
+    "A": "০°",
+    "B": "১৮০°",
+    "C": "৯০°",
+    "D": "৪৫°"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "রকেট উৎক্ষেপণ কোন সূত্রের প্রয়োগ?",
+   "options": {
+    "A": "প্রথম",
+    "B": "দ্বিতীয়",
+    "C": "তৃতীয়",
+    "D": "মহাকর্ষ"
+   },
+   "correctAnswer": "C",
+   "topic": "সংঘর্ষ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "৫০ নিউটন ওজনের বস্তুর ভর কত? (g = ১০)",
+   "options": {
+    "A": "৫ কেজি",
+    "B": "৫০ কেজি",
+    "C": "১০ কেজি",
+    "D": "৫০০ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "১ কেজি ভরের বস্তুর উপর ১ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "১ মি/সে²",
+    "B": "৯.৮ মি/সে²",
+    "C": "০.১ মি/সে²",
+    "D": "১০ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "একটি বস্তুর ভরবেগ ১৫ কেজি·মি/সে, ভর ৩ কেজি হলে বেগ কত?",
+   "options": {
+    "A": "৫ মি/সে",
+    "B": "৪৫ মি/সে",
+    "C": "১২ মি/সে",
+    "D": "১৮ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "আবর্ত ঘর্ষণ কোন ক্ষেত্রে?",
+   "options": {
+    "A": "বস্তু টানা",
+    "B": "বস্তু গড়ানো",
+    "C": "দেয়াল ঘষা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "স্থিতিস্থাপক সংঘর্ষে কী সংরক্ষিত থাকে?",
+   "options": {
+    "A": "শুধু ভরবেগ",
+    "B": "শুধু গতিশক্তি",
+    "C": "ভরবেগ ও গতিশক্তি উভয়ই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সংঘর্ষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "ওজন কোন ধরনের রাশি?",
+   "options": {
+    "A": "স্কেলার",
+    "B": "ভেক্টর",
+    "C": "মাত্রাহীন",
+    "D": "মৌলিক"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "২ কেজি ভরের বস্তুর উপর ৪ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "১ মি/সে²",
+    "B": "২ মি/সে²",
+    "C": "৪ মি/সে²",
+    "D": "৮ মি/সে²"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "ভরবেগের একক কোনটি?",
+   "options": {
+    "A": "কেজি·মি/সে",
+    "B": "কেজি·মি/সে²",
+    "C": "নিউটন",
+    "D": "জুল"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "ঘর্ষণ গুণাঙ্ক μ এর একক কী?",
+   "options": {
+    "A": "নিউটন",
+    "B": "এককবিহীন",
+    "C": "জুল",
+    "D": "মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "আবেগের একক কোনটি?",
+   "options": {
+    "A": "নিউটন·সেকেন্ড",
+    "B": "নিউটন·মিটার",
+    "C": "জুল",
+    "D": "ওয়াট"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "স্থির বস্তুকে গতিশীল করতে বল —",
+   "options": {
+    "A": "লাগে",
+    "B": "লাগে না",
+    "C": "কখনো লাগে",
+    "D": "কখনো লাগে না"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "৮ কেজি ভরের বস্তুর উপর ২৪ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "৩ মি/সে²",
+    "B": "৪ মি/সে²",
+    "C": "৮ মি/সে²",
+    "D": "২৪ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "একটি বস্তুর ভরবেগ ৩৬ কেজি·মি/সে, বেগ ৯ মি/সে হলে ভর কত?",
+   "options": {
+    "A": "৪ কেজি",
+    "B": "৪৫ কেজি",
+    "C": "২৭ কেজি",
+    "D": "৩২৪ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "ঘর্ষণ বল কোন শক্তিতে রূপান্তরিত হয়?",
+   "options": {
+    "A": "তাপ",
+    "B": "শব্দ",
+    "C": "আলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "স্থিতিস্থাপক সংঘর্ষের উদাহরণ কোনটি?",
+   "options": {
+    "A": "গ্যাস অণুর সংঘর্ষ",
+    "B": "কাদার সংঘর্ষ",
+    "C": "দুটি মোমের সংঘর্ষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "দুটি সমান ও বিপরীত বলের লব্ধি কত?",
+   "options": {
+    "A": "শূন্য",
+    "B": "দ্বিগুণ",
+    "C": "বল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "১০ কেজি ভরের বস্তুর উপর ২০ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "২ মি/সে²",
+    "B": "১০ মি/সে²",
+    "C": "৩০ মি/সে²",
+    "D": "২০০ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "একটি বস্তু বৃত্তাকার পথে ঘুরলে ভরবেগের —",
+   "options": {
+    "A": "শুধু মান বদলায়",
+    "B": "শুধু দিক বদলায়",
+    "C": "মান ও দিক বদলায়",
+    "D": "কিছুই বদলায় না"
+   },
+   "correctAnswer": "B",
+   "topic": "ভরবেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "ঘর্ষণ বলের দিক গতির —",
+   "options": {
+    "A": "অনুকূলে",
+    "B": "প্রতিকূলে",
+    "C": "লম্বভাবে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "একটি বস্তুর ভরবেগ ৩ সেকেন্ডে ১৫ কেজি·মি/সে পরিবর্তন হলে গড় বল কত?",
+   "options": {
+    "A": "৫ নিউটন",
+    "B": "১৮ নিউটন",
+    "C": "১২ নিউটন",
+    "D": "৪৫ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "একটি বস্তুর ওজন ১৯.৬ নিউটন হলে ভর কত? (g = ৯.৮)",
+   "options": {
+    "A": "২ কেজি",
+    "B": "১৯.৬ কেজি",
+    "C": "৯.৮ কেজি",
+    "D": "৪ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "নিউটনের সূত্রগুলো কবে প্রকাশিত হয়?",
+   "options": {
+    "A": "১৬৮৭",
+    "B": "১৬৬৭",
+    "C": "১৭০০",
+    "D": "১৭৫০"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "বল ও ভরবেগের সম্পর্ক কোনটি?",
+   "options": {
+    "A": "F = Δp/Δt",
+    "B": "F = p·t",
+    "C": "F = p/t",
+    "D": "F = m/p"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "ঘর্ষণের সুবিধা কোনটি?",
+   "options": {
+    "A": "হাঁটা সম্ভব হয়",
+    "B": "শক্তি নষ্ট হয়",
+    "C": "যন্ত্র ক্ষয় হয়",
+    "D": "তাপ উৎপন্ন হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "একটি বস্তুর আবেগ ৪০ নিউটন·সে, বল ৮ নিউটন হলে সময় কত?",
+   "options": {
+    "A": "৫ সেকেন্ড",
+    "B": "৩২ সেকেন্ড",
+    "C": "৪৮ সেকেন্ড",
+    "D": "০.২ সেকেন্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "২০ নিউটন ও ৮ নিউটন বল একই দিকে কাজ করলে লব্ধি কত?",
+   "options": {
+    "A": "২৮ নিউটন",
+    "B": "১২ নিউটন",
+    "C": "১৬০ নিউটন",
+    "D": "২০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "প্রতিটি ক্রিয়ার সমান ও বিপরীত প্রতিক্রিয়া আছে — এটি কোন সূত্র?",
+   "options": {
+    "A": "প্রথম",
+    "B": "দ্বিতীয়",
+    "C": "তৃতীয়",
+    "D": "মহাকর্ষ"
+   },
+   "correctAnswer": "C",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "একটি বস্তুর ভরবেগ ৫৪ কেজি·মি/সে, বেগ ৯ মি/সে হলে ভর কত?",
+   "options": {
+    "A": "৬ কেজি",
+    "B": "৬৩ কেজি",
+    "C": "৪৫ কেজি",
+    "D": "৪৮৬ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "দিয়াশলাই জ্বালানো হয় কীসের সাহায্যে?",
+   "options": {
+    "A": "ঘর্ষণ",
+    "B": "মহাকর্ষ",
+    "C": "চৌম্বক",
+    "D": "তড়িৎ"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "একটি বস্তুর আবেগ ৩০ নিউটন·সে, সময় ৬ সেকেন্ড হলে গড় বল কত?",
+   "options": {
+    "A": "৫ নিউটন",
+    "B": "৩৬ নিউটন",
+    "C": "২৪ নিউটন",
+    "D": "১৮০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "১০ নিউটন ও ৪ নিউটন বল একই দিকে কাজ করলে লব্ধি কত?",
+   "options": {
+    "A": "১৪ নিউটন",
+    "B": "৬ নিউটন",
+    "C": "৪০ নিউটন",
+    "D": "১০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "বল পরিমাপের যন্ত্র কোনটি?",
+   "options": {
+    "A": "স্প্রিং নিক্তি",
+    "B": "মিটার স্কেল",
+    "C": "ঘড়ি",
+    "D": "থার্মোমিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "৯ কেজি ভরের বস্তু ৪ মি/সে বেগে চললে ভরবেগ কত?",
+   "options": {
+    "A": "৩৬ কেজি·মি/সে",
+    "B": "১৩ কেজি·মি/সে",
+    "C": "৫ কেজি·মি/সে",
+    "D": "৪৫ কেজি·মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "পিচ্ছিল রাস্তায় গাড়ি চালানো কঠিন কেন?",
+   "options": {
+    "A": "ঘর্ষণ কম",
+    "B": "ঘর্ষণ বেশি",
+    "C": "মহাকর্ষ কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "একটি বস্তুর ভরবেগ ৫ সেকেন্ডে ৩০ কেজি·মি/সে পরিবর্তন হলে গড় বল কত?",
+   "options": {
+    "A": "৬ নিউটন",
+    "B": "৩৫ নিউটন",
+    "C": "২৫ নিউটন",
+    "D": "১৫০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "৫ নিউটন ও ৩ নিউটন বল একই দিকে কাজ করলে লব্ধি কত?",
+   "options": {
+    "A": "৮ নিউটন",
+    "B": "২ নিউটন",
+    "C": "১৫ নিউটন",
+    "D": "৫ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "ত্বরণ উৎপন্ন হয় যখন —",
+   "options": {
+    "A": "লব্ধি বল শূন্য",
+    "B": "লব্ধি বল অশূন্য",
+    "C": "বল নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "একটি বস্তুর ভরবেগ ২৪ কেজি·মি/সে, বেগ ৬ মি/সে হলে ভর কত?",
+   "options": {
+    "A": "৪ কেজি",
+    "B": "৩০ কেজি",
+    "C": "১৮ কেজি",
+    "D": "১৪৪ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "বরফের উপর হাঁটা কঠিন কেন?",
+   "options": {
+    "A": "ঘর্ষণ কম",
+    "B": "ঘর্ষণ বেশি",
+    "C": "মহাকর্ষ বেশি",
+    "D": "তাপমাত্রা কম"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "বন্দুকের গুলি ছোড়া কোন সূত্রের প্রয়োগ?",
+   "options": {
+    "A": "প্রথম",
+    "B": "দ্বিতীয়",
+    "C": "তৃতীয়",
+    "D": "মহাকর্ষ"
+   },
+   "correctAnswer": "C",
+   "topic": "সংঘর্ষ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "৩০ নিউটন ওজনের বস্তুর ভর কত? (g = ১০)",
+   "options": {
+    "A": "৩ কেজি",
+    "B": "৩০ কেজি",
+    "C": "১০ কেজি",
+    "D": "৩০০ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "বলের মান ভরবেগের পরিবর্তনের হারের সমান — কোন সূত্র?",
+   "options": {
+    "A": "প্রথম",
+    "B": "দ্বিতীয়",
+    "C": "তৃতীয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "সমান ভরবেগের দুটি বস্তুর মধ্যে ভারী বস্তুটির বেগ —",
+   "options": {
+    "A": "বেশি",
+    "B": "কম",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ভরবেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "পাহাড়ে গাড়ির চাকা ও রাস্তায় ঘর্ষণ —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "সংঘর্ষের সময় তাপ উৎপন্ন হয় কোন সংঘর্ষে?",
+   "options": {
+    "A": "স্থিতিস্থাপক",
+    "B": "অস্থিতিস্থাপক",
+    "C": "দুটোতেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংঘর্ষ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "পরমাণুর ইলেকট্রন ও নিউক্লিয়াসের মধ্যে কোন বল?",
+   "options": {
+    "A": "মহাকর্ষ",
+    "B": "তড়িৎচৌম্বক বল",
+    "C": "সবল নিউক্লিয়",
+    "D": "দুর্বল নিউক্লিয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "নিউটনের প্রথম সূত্রের অপর নাম কী?",
+   "options": {
+    "A": "জড়তার সূত্র",
+    "B": "বলের সূত্র",
+    "C": "ক্রিয়া-প্রতিক্রিয়া",
+    "D": "মহাকর্ষ সূত্র"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "১১ কেজি ভরের বস্তু ২ মি/সে বেগে চললে ভরবেগ কত?",
+   "options": {
+    "A": "২২ কেজি·মি/সে",
+    "B": "১৩ কেজি·মি/সে",
+    "C": "৯ কেজি·মি/সে",
+    "D": "৫.৫ কেজি·মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "ঘর্ষণ বলের কারণে চলন্ত বস্তু শেষে —",
+   "options": {
+    "A": "থেমে যায়",
+    "B": "দ্রুত চলে",
+    "C": "চিরকাল চলে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "সংঘর্ষ কাকে বলে?",
+   "options": {
+    "A": "দুটি বস্তুর সংক্ষিপ্ত সময়ের মিথস্ক্রিয়া",
+    "B": "দুটি বস্তুর মিলন",
+    "C": "বস্তুর পতন",
+    "D": "বস্তুর ঘূর্ণন"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "বল ও সরণ একই দিকে হলে কাজ —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "ঋণাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "বাইরের বল প্রয়োগ না করলে স্থির বস্তু স্থির থাকে — এটি কোন সূত্র?",
+   "options": {
+    "A": "দ্বিতীয়",
+    "B": "তৃতীয়",
+    "C": "প্রথম",
+    "D": "মহাকর্ষ"
+   },
+   "correctAnswer": "C",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "৫ কেজি ভরের বস্তু ৪ মি/সে বেগে চললে ভরবেগ কত?",
+   "options": {
+    "A": "২০ কেজি·মি/সে",
+    "B": "৯ কেজি·মি/সে",
+    "C": "১.২৫ কেজি·মি/সে",
+    "D": "২৫ কেজি·মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "বস্তুকে গড়ানো ঘর্ষণ টানার ঘর্ষণের চেয়ে —",
+   "options": {
+    "A": "বেশি",
+    "B": "কম",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "সংঘর্ষে সবসময় কোনটি সংরক্ষিত থাকে?",
+   "options": {
+    "A": "গতিশক্তি",
+    "B": "ভরবেগ",
+    "C": "তাপ",
+    "D": "শব্দ"
+   },
+   "correctAnswer": "B",
+   "topic": "সংঘর্ষ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "১০ কেজি ভরের বস্তুর ওজন কত? (g = ৯.৮)",
+   "options": {
+    "A": "৯৮ নিউটন",
+    "B": "১০ নিউটন",
+    "C": "১৯.৮ নিউটন",
+    "D": "৯.৮ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "নিউটনের দ্বিতীয় সূত্রের গাণিতিক রূপ কোনটি?",
+   "options": {
+    "A": "F = Δp/Δt",
+    "B": "F = Δp·Δt",
+    "C": "F = p/t²",
+    "D": "F = mv"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "ভরবেগের পরিবর্তন = ?",
+   "options": {
+    "A": "বল × সময়",
+    "B": "বল/সময়",
+    "C": "ভর × দূরত্ব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভরবেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "ঘর্ষণ না থাকলে হাঁটা —",
+   "options": {
+    "A": "সহজ হতো",
+    "B": "অসম্ভব হতো",
+    "C": "একই থাকত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "৩০ নিউটন বল ২ সেকেন্ড প্রয়োগ করলে আবেগ কত?",
+   "options": {
+    "A": "৬০ নিউটন·সে",
+    "B": "৩২ নিউটন·সে",
+    "C": "২৮ নিউটন·সে",
+    "D": "১৫ নিউটন·সে"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "একটি গতিশীল বস্তু থামাতে বল —",
+   "options": {
+    "A": "লাগে",
+    "B": "লাগে না",
+    "C": "কখনো লাগে",
+    "D": "কখনো লাগে না"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "পাখি উড়ে কীভাবে?",
+   "options": {
+    "A": "বাতাসে ঠেলে",
+    "B": "মহাকর্ষে",
+    "C": "ঘর্ষণে",
+    "D": "জড়তায়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "আবেগ ও ভরবেগের মাত্রা —",
+   "options": {
+    "A": "ভিন্ন",
+    "B": "একই",
+    "C": "কখনো সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ভরবেগ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "ঘর্ষণ বল কোথায় উৎপন্ন হয়?",
+   "options": {
+    "A": "দুটি পৃষ্ঠের মাঝে",
+    "B": "বাতাসে",
+    "C": "শূন্যে",
+    "D": "পানিতে"
+   },
+   "correctAnswer": "A",
+   "topic": "ঘর্ষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "কাচের গ্লাস পড়ে ভাঙে কিন্তু মাদুরে পড়লে ভাঙে না — কারণ কী?",
+   "options": {
+    "A": "বল কম",
+    "B": "সময় বেশি তাই বল কম",
+    "C": "ভর কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংঘর্ষ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "পৃথিবী ও চাঁদের মধ্যে কোন বল কাজ করে?",
+   "options": {
+    "A": "ঘর্ষণ",
+    "B": "মহাকর্ষ বল",
+    "C": "চৌম্বক বল",
+    "D": "টান বল"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "একটি বস্তুর উপর ১৮ নিউটন বল প্রযুক্ত হয়ে ৬ মি/সে² ত্বরণ হলে ভর কত?",
+   "options": {
+    "A": "৩ কেজি",
+    "B": "২৪ কেজি",
+    "C": "১২ কেজি",
+    "D": "১০৮ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "অভিলম্ব প্রতিক্রিয়া N বেশি হলে ঘর্ষণ বল —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "শূন্য",
+    "D": "একই"
+   },
+   "correctAnswer": "B",
+   "topic": "ঘর্ষণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "ভরবেগের সংরক্ষণ সূত্র কোন ক্ষেত্রে প্রযোজ্য?",
+   "options": {
+    "A": "বাইরের বল থাকলে",
+    "B": "বাইরের বল শূন্য হলে",
+    "C": "সবসময়",
+    "D": "কখনো নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংঘর্ষ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "বল ভেক্টর রাশি হওয়ায় এর —",
+   "options": {
+    "A": "শুধু মান আছে",
+    "B": "মান ও দিক আছে",
+    "C": "শুধু দিক আছে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "২ কেজি ভরের বস্তুর উপর ১০ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "৫ মি/সে²",
+    "B": "২০ মি/সে²",
+    "C": "২ মি/সে²",
+    "D": "১০ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "বন্দুক ছোড়ার পর পিছনে ধাক্কা লাগে কেন?",
+   "options": {
+    "A": "জড়তার জন্য",
+    "B": "প্রতিক্রিয়া বলের জন্য",
+    "C": "ঘর্ষণের জন্য",
+    "D": "মহাকর্ষের জন্য"
+   },
+   "correctAnswer": "B",
+   "topic": "সংঘর্ষ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "দুটি বল বিপরীত দিকে কাজ করলে লব্ধি —",
+   "options": {
+    "A": "যোগ হয়",
+    "B": "বিয়োগ হয়",
+    "C": "গুণ হয়",
+    "D": "ভাগ হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "আপেল পড়া দেখে কোন বিজ্ঞানী মহাকর্ষ আবিষ্কার করেন?",
+   "options": {
+    "A": "নিউটন",
+    "B": "গ্যালিলিও",
+    "C": "আইনস্টাইন",
+    "D": "কেপলার"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "একটি বস্তুর ভরবেগ ৪ সেকেন্ডে ২০ কেজি·মি/সে পরিবর্তিত হলে গড় বল কত?",
+   "options": {
+    "A": "৫ নিউটন",
+    "B": "২৪ নিউটন",
+    "C": "১৬ নিউটন",
+    "D": "৮০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "প্রকৃতিতে মৌলিক বল কয়টি?",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "৪",
+    "D": "৫"
+   },
+   "correctAnswer": "C",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "৫ কেজি ভরের বস্তুতে ২ মি/সে² ত্বরণ সৃষ্টি করতে বল কত?",
+   "options": {
+    "A": "১০ নিউটন",
+    "B": "২.৫ নিউটন",
+    "C": "৭ নিউটন",
+    "D": "২০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "একটি বস্তুর আবেগ ২৪ নিউটন·সে, বল ৬ নিউটন হলে সময় কত?",
+   "options": {
+    "A": "৪ সেকেন্ড",
+    "B": "৩০ সেকেন্ড",
+    "C": "১৮ সেকেন্ড",
+    "D": "১৪৪ সেকেন্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "একটি বস্তুতে দুটি সমান বিপরীত বল কাজ করলে বস্তু —",
+   "options": {
+    "A": "ত্বরণ পায়",
+    "B": "স্থির বা সমবেগে থাকে",
+    "C": "ঘোরে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "নিউটনের সূত্রগুলো কোন বলের ক্ষেত্রে প্রযোজ্য?",
+   "options": {
+    "A": "লব্ধি বল",
+    "B": "একক বল",
+    "C": "মহাকর্ষ বল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "৫ নিউটন বল ৪ সেকেন্ড প্রয়োগ করলে আবেগ কত?",
+   "options": {
+    "A": "২০ নিউটন·সে",
+    "B": "৯ নিউটন·সে",
+    "C": "১ নিউটন·সে",
+    "D": "৪৫ নিউটন·সে"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "একটি বস্তুর উপর ৬ নিউটন ও ৮ নিউটন বল পরস্পর লম্বভাবে কাজ করলে লব্ধি কত?",
+   "options": {
+    "A": "১০ নিউটন",
+    "B": "১৪ নিউটন",
+    "C": "২ নিউটন",
+    "D": "৪৮ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "একটি টেনিস বল দেয়ালে ছুড়লে ফিরে আসে — কারণ কী?",
+   "options": {
+    "A": "প্রতিক্রিয়া বল",
+    "B": "মহাকর্ষ",
+    "C": "ঘর্ষণ",
+    "D": "জড়তা"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "একটি বস্তুর ভরবেগ ৩ সেকেন্ডে ১৮ কেজি·মি/সে পরিবর্তন হলে গড় বল কত?",
+   "options": {
+    "A": "৬ নিউটন",
+    "B": "২১ নিউটন",
+    "C": "১৫ নিউটন",
+    "D": "৫৪ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "৪ কেজি ভরের বস্তুর ওজন (g = ৯.৮) কত?",
+   "options": {
+    "A": "৩৯.২ নিউটন",
+    "B": "৪ নিউটন",
+    "C": "১৩.৮ নিউটন",
+    "D": "৩৬ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "একটি বস্তু সমবেগে চললে তার উপর লব্ধি বল —",
+   "options": {
+    "A": "অশূন্য",
+    "B": "শূন্য",
+    "C": "সর্বোচ্চ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "১৪ নিউটন বল ৩ সেকেন্ড প্রয়োগ করলে আবেগ কত?",
+   "options": {
+    "A": "৪২ নিউটন·সে",
+    "B": "১৭ নিউটন·সে",
+    "C": "১১ নিউটন·সে",
+    "D": "৪.৬৭ নিউটন·সে"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "ওজনের একক কী?",
+   "options": {
+    "A": "কেজি",
+    "B": "নিউটন",
+    "C": "জুল",
+    "D": "মিটার"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "৬ কেজি ভরের বস্তুর উপর ২৪ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "৪ মি/সে²",
+    "B": "৬ মি/সে²",
+    "C": "১৮ মি/সে²",
+    "D": "৩০ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "আবেগের সূত্র কোনটি?",
+   "options": {
+    "A": "J = Ft",
+    "B": "J = F/t",
+    "C": "J = mv",
+    "D": "J = ma"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "বল প্রয়োগে গতির দিক পরিবর্তন হতে পারে —",
+   "options": {
+    "A": "না",
+    "B": "হ্যাঁ",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "একটি বস্তুর ভর ৫ কেজি, এর উপর ১৫ নিউটন বল প্রয়োগে ত্বরণ কত?",
+   "options": {
+    "A": "৩ মি/সে²",
+    "B": "৫ মি/সে²",
+    "C": "২০ মি/সে²",
+    "D": "৭৫ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "বলের মান শূন্য হলে ভরবেগের পরিবর্তন কত?",
+   "options": {
+    "A": "শূন্য",
+    "B": "অসীম",
+    "C": "বল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "একটি বস্তুর ওজন ৪৯ নিউটন হলে ভর কত? (g = ৯.৮)",
+   "options": {
+    "A": "৫ কেজি",
+    "B": "৪৯ কেজি",
+    "C": "৯.৮ কেজি",
+    "D": "১০ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "১০ কেজি ভরের বস্তুতে ৫ মি/সে² ত্বরণ সৃষ্টি করতে কত বল লাগবে?",
+   "options": {
+    "A": "৫০ নিউটন",
+    "B": "২ নিউটন",
+    "C": "১৫ নিউটন",
+    "D": "৫ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "দুটি বস্তুর সংঘর্ষের সময় মোট ভরবেগ —",
+   "options": {
+    "A": "পরিবর্তিত হয়",
+    "B": "সংরক্ষিত থাকে",
+    "C": "কমে",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "B",
+   "topic": "সংঘর্ষ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "১২ নিউটন ও ৫ নিউটন বল বিপরীত দিকে কাজ করলে লব্ধি কত?",
+   "options": {
+    "A": "১৭ নিউটন",
+    "B": "৭ নিউটন",
+    "C": "৬০ নিউটন",
+    "D": "১২ নিউটন"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "নিউটনের প্রথম সূত্র থেকে কী বোঝা যায়?",
+   "options": {
+    "A": "বল ছাড়া গতির পরিবর্তন হয় না",
+    "B": "বল ছাড়াই গতি হয়",
+    "C": "ভর নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "অস্থিতিস্থাপক সংঘর্ষের উদাহরণ কোনটি?",
+   "options": {
+    "A": "দুটি বিলিয়ার্ড বল",
+    "B": "কাদার বল দেয়ালে লাগা",
+    "C": "গ্যাস অণু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংঘর্ষ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "বলের একক কোনটি?",
+   "options": {
+    "A": "জুল",
+    "B": "নিউটন",
+    "C": "ওয়াট",
+    "D": "প্যাসকেল"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "নিউটনের সূত্র কয়টি?",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "৪",
+    "D": "৫"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "দুটি বস্তুর সংঘর্ষে গতিশক্তি সংরক্ষিত থাকলে সংঘর্ষটি —",
+   "options": {
+    "A": "অস্থিতিস্থাপক",
+    "B": "স্থিতিস্থাপক",
+    "C": "আধা-স্থিতিস্থাপক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংঘর্ষ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "চাঁদে বস্তুর ওজন পৃথিবীর কত অংশ?",
+   "options": {
+    "A": "১/২",
+    "B": "১/৬",
+    "C": "১/৩",
+    "D": "১/৪"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "৪ কেজি ভরের বস্তুর উপর ৮ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "২ মি/সে²",
+    "B": "৪ মি/সে²",
+    "C": "৮ মি/সে²",
+    "D": "৩২ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "দুটি বস্তু সংঘর্ষের পর একসাথে লেগে গেলে সংঘর্ষটি —",
+   "options": {
+    "A": "স্থিতিস্থাপক",
+    "B": "সম্পূর্ণ অস্থিতিস্থাপক",
+    "C": "আধা-স্থিতিস্থাপক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংঘর্ষ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "বল ছাড়া গতির পরিবর্তন —",
+   "options": {
+    "A": "সম্ভব",
+    "B": "সম্ভব নয়",
+    "C": "কখনো সম্ভব",
+    "D": "কখনো সম্ভব নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "৬ কেজি ভরের বস্তুতে ৩ মি/সে² ত্বরণ সৃষ্টি করতে কত বল লাগবে?",
+   "options": {
+    "A": "১৮ নিউটন",
+    "B": "২ নিউটন",
+    "C": "৯ নিউটন",
+    "D": "৩ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "২৫ নিউটন বল ২ সেকেন্ড প্রয়োগ করলে আবেগ কত?",
+   "options": {
+    "A": "৫০ নিউটন·সে",
+    "B": "২৭ নিউটন·সে",
+    "C": "২৩ নিউটন·সে",
+    "D": "১২.৫ নিউটন·সে"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "ভর শূন্য হতে পারে —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "ভর দ্বিগুণ করলে ত্বরণ (বল স্থির) —",
+   "options": {
+    "A": "দ্বিগুণ",
+    "B": "অর্ধেক",
+    "C": "একই",
+    "D": "চার গুণ"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "একটি বস্তুর ভরবেগ ৫ সেকেন্ডে ২৫ কেজি·মি/সে পরিবর্তিত হলে গড় বল কত?",
+   "options": {
+    "A": "৫ নিউটন",
+    "B": "৩০ নিউটন",
+    "C": "২০ নিউটন",
+    "D": "১২৫ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "সংঘর্ষ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "পরমাণুর নিউক্লিয়াসকে ধরে রাখে কোন বল?",
+   "options": {
+    "A": "মহাকর্ষ",
+    "B": "সবল নিউক্লিয় বল",
+    "C": "তড়িৎচৌম্বক",
+    "D": "ঘর্ষণ"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "ক্রিয়া ও প্রতিক্রিয়া বল কখনো —",
+   "options": {
+    "A": "বাতিল হয় না",
+    "B": "বাতিল হয়",
+    "C": "একই দিকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "ভর স্থির কিন্তু ওজন পরিবর্তনশীল — কারণ কী?",
+   "options": {
+    "A": "g পরিবর্তনশীল",
+    "B": "ভর পরিবর্তনশীল",
+    "C": "আয়তন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "রকেট গ্যাস নিচে ছুড়ে উপরে যায় — কোন সূত্র?",
+   "options": {
+    "A": "প্রথম",
+    "B": "দ্বিতীয়",
+    "C": "তৃতীয়",
+    "D": "মহাকর্ষ"
+   },
+   "correctAnswer": "C",
+   "topic": "নিউটনের সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "আপেল মাটিতে পড়ে কোন বলের কারণে?",
+   "options": {
+    "A": "ঘর্ষণ",
+    "B": "মহাকর্ষ বল",
+    "C": "চৌম্বক বল",
+    "D": "তড়িৎ বল"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "৪ কেজি ভরের বস্তুর উপর ১২ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "৩ মি/সে²",
+    "B": "১৬ মি/সে²",
+    "C": "৪৮ মি/সে²",
+    "D": "৮ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "বল প্রয়োগে বস্তুর কী কী পরিবর্তন ঘটতে পারে?",
+   "options": {
+    "A": "বেগ",
+    "B": "আকার",
+    "C": "দিক",
+    "D": "সবগুলো"
+   },
+   "correctAnswer": "D",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "একটি বস্তুর উপর ৫০ নিউটন বল প্রযুক্ত হয়ে ১০ মি/সে² ত্বরণ হলে ভর কত?",
+   "options": {
+    "A": "৫ কেজি",
+    "B": "৫০ কেজি",
+    "C": "৪০ কেজি",
+    "D": "৫০০ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "ওজন কাকে বলে?",
+   "options": {
+    "A": "ভর × অভিকর্ষজ ত্বরণ",
+    "B": "ভর/ত্বরণ",
+    "C": "ভর × বেগ",
+    "D": "ভর × দূরত্ব"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "F = ma সূত্রে m ও a স্থির থাকলে F —",
+   "options": {
+    "A": "স্থির",
+    "B": "পরিবর্তিত",
+    "C": "শূন্য",
+    "D": "অসীম"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "সবচেয়ে শক্তিশালী বল কোনটি?",
+   "options": {
+    "A": "মহাকর্ষ",
+    "B": "তড়িৎচৌম্বক",
+    "C": "সবল নিউক্লিয় বল",
+    "D": "দুর্বল নিউক্লিয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "বল প্রয়োগের ফলে বস্তুর বেগের পরিবর্তন —",
+   "options": {
+    "A": "হয়",
+    "B": "হয় না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "বলের সংযোজন কোন নিয়মে হয়?",
+   "options": {
+    "A": "বীজগণিত",
+    "B": "ভেক্টর নিয়মে",
+    "C": "পাটিগণিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "একটি বস্তুর উপর ৪৮ নিউটন বল প্রযুক্ত হয়ে ৮ মি/সে² ত্বরণ হলে ভর কত?",
+   "options": {
+    "A": "৬ কেজি",
+    "B": "৫৬ কেজি",
+    "C": "৪০ কেজি",
+    "D": "৩৮৪ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "চাঁদে ৬০ কেজি ভরের মানুষের ওজন কত? (gচাঁদ = ১.৬৩)",
+   "options": {
+    "A": "৯৭.৮ নিউটন",
+    "B": "৬০ নিউটন",
+    "C": "৫৮৮ নিউটন",
+    "D": "১০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "নিউটনের তৃতীয় সূত্রের অপর নাম কী?",
+   "options": {
+    "A": "জড়তার সূত্র",
+    "B": "বলের সূত্র",
+    "C": "ক্রিয়া-প্রতিক্রিয়া সূত্র",
+    "D": "মহাকর্ষ সূত্র"
+   },
+   "correctAnswer": "C",
+   "topic": "নিউটনের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "৭ কেজি ভরের বস্তুর ওজন কত? (g = ৯.৮)",
+   "options": {
+    "A": "৬৮.৬ নিউটন",
+    "B": "৭ নিউটন",
+    "C": "১৬.৮ নিউটন",
+    "D": "৭০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "নিউটনের দ্বিতীয় সূত্রের অপর নাম কী?",
+   "options": {
+    "A": "জড়তার সূত্র",
+    "B": "বলের সূত্র",
+    "C": "ক্রিয়া-প্রতিক্রিয়া",
+    "D": "মহাকর্ষ সূত্র"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "মৌলিক বলগুলো হলো —",
+   "options": {
+    "A": "মহাকর্ষ, তড়িৎচৌম্বক, সবল ও দুর্বল নিউক্লিয়",
+    "B": "ঘর্ষণ, টান",
+    "C": "মহাকর্ষ, ঘর্ষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "হাঁটার সময় আমরা সামনে যাই কীসের জন্য?",
+   "options": {
+    "A": "প্রতিক্রিয়া বল",
+    "B": "মহাকর্ষ",
+    "C": "ঘর্ষণ",
+    "D": "জড়তা"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "দুটি সমান বল পরস্পর লম্বভাবে কাজ করলে লব্ধি কত?",
+   "options": {
+    "A": "√2 × বল",
+    "B": "২ × বল",
+    "C": "বল/২",
+    "D": "বল"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "দেয়ালে মুষ্টি মারলে হাতে ব্যথা লাগে — কারণ কী?",
+   "options": {
+    "A": "ক্রিয়া-প্রতিক্রিয়া",
+    "B": "মহাকর্ষ",
+    "C": "ঘর্ষণ",
+    "D": "জড়তা"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "৫ নিউটন ও ৩ নিউটন বল বিপরীত দিকে কাজ করলে লব্ধি কত?",
+   "options": {
+    "A": "৮ নিউটন",
+    "B": "২ নিউটন",
+    "C": "১৫ নিউটন",
+    "D": "৫ নিউটন"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "৯ কেজি ভরের বস্তুতে ২ মি/সে² ত্বরণ সৃষ্টি করতে বল কত?",
+   "options": {
+    "A": "১৮ নিউটন",
+    "B": "১১ নিউটন",
+    "C": "৯ নিউটন",
+    "D": "২ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "বল ও সরণ বিপরীত দিকে হলে কাজ —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "ঋণাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "নিউটনের প্রথম সূত্রকে কী বলা হয়?",
+   "options": {
+    "A": "জড়তার সূত্র",
+    "B": "বলের সূত্র",
+    "C": "ক্রিয়া-প্রতিক্রিয়া সূত্র",
+    "D": "মহাকর্ষ সূত্র"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "সবচেয়ে দুর্বল বল কোনটি?",
+   "options": {
+    "A": "মহাকর্ষ বল",
+    "B": "তড়িৎচৌম্বক বল",
+    "C": "সবল নিউক্লিয় বল",
+    "D": "দুর্বল নিউক্লিয় বল"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "মাছ সাঁতারে পানি পেছনে ঠেলে দেয় — কোন সূত্র?",
+   "options": {
+    "A": "প্রথম",
+    "B": "দ্বিতীয়",
+    "C": "তৃতীয়",
+    "D": "মহাকর্ষ"
+   },
+   "correctAnswer": "C",
+   "topic": "নিউটনের সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "বল কাকে বলে?",
+   "options": {
+    "A": "যা বস্তুর অবস্থার পরিবর্তন ঘটায় বা ঘটাতে চায়",
+    "B": "বস্তুর ভর",
+    "C": "বস্তুর দ্রুতি",
+    "D": "বস্তুর তাপমাত্রা"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "৩ কেজি ভরের বস্তুর উপর ৬ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "১ মি/সে²",
+    "B": "২ মি/সে²",
+    "C": "৩ মি/সে²",
+    "D": "১৮ মি/সে²"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "৬০ নিউটন ওজনের বস্তুর ভর কত? (g = ১০)",
+   "options": {
+    "A": "৬ কেজি",
+    "B": "৬০ কেজি",
+    "C": "১০ কেজি",
+    "D": "৬০০ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "৯ কেজি ভরের বস্তুর উপর ২৭ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "৩ মি/সে²",
+    "B": "৩৬ মি/সে²",
+    "C": "১৮ মি/সে²",
+    "D": "৯ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "ওজন = ভর × ?",
+   "options": {
+    "A": "বেগ",
+    "B": "অভিকর্ষজ ত্বরণ",
+    "C": "দূরত্ব",
+    "D": "সময়"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "বল দ্বিগুণ করলে ত্বরণ (ভর স্থির) —",
+   "options": {
+    "A": "দ্বিগুণ হয়",
+    "B": "অর্ধেক হয়",
+    "C": "একই থাকে",
+    "D": "চার গুণ হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "৯ কেজি ভরের বস্তুর ওজন কত? (g = ৯.৮)",
+   "options": {
+    "A": "৮৮.২ নিউটন",
+    "B": "৯ নিউটন",
+    "C": "১৮.৮ নিউটন",
+    "D": "৯০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "একটি বস্তুর ভর ১০ কেজি, এর উপর ৫০ নিউটন বল প্রয়োগে ত্বরণ কত?",
+   "options": {
+    "A": "৫ মি/সে²",
+    "B": "১০ মি/সে²",
+    "C": "৪০ মি/সে²",
+    "D": "৫০০ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "সূর্য ও গ্রহের মধ্যে কোন বল কাজ করে?",
+   "options": {
+    "A": "ঘর্ষণ",
+    "B": "মহাকর্ষ বল",
+    "C": "চৌম্বক",
+    "D": "তড়িৎ"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "স্প্রিং নিক্তি কোন নীতিতে কাজ করে?",
+   "options": {
+    "A": "হুকের সূত্র",
+    "B": "নিউটনের সূত্র",
+    "C": "প্যাসকেলের সূত্র",
+    "D": "আর্কিমিডিসের সূত্র"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "৬ কেজি ভরের বস্তুর ওজন কত? (g = ৯.৮)",
+   "options": {
+    "A": "৫৮.৮ নিউটন",
+    "B": "৬ নিউটন",
+    "C": "১৫.৮ নিউটন",
+    "D": "৬০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "একটি বস্তুর উপর ৪০ নিউটন বল প্রযুক্ত হয়ে ৫ মি/সে² ত্বরণ হলে ভর কত?",
+   "options": {
+    "A": "৮ কেজি",
+    "B": "৪৫ কেজি",
+    "C": "৩৫ কেজি",
+    "D": "২০০ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "চুম্বক লোহাকে আকর্ষণ করে কোন বলে?",
+   "options": {
+    "A": "মহাকর্ষ",
+    "B": "চৌম্বক বল",
+    "C": "ঘর্ষণ",
+    "D": "টান বল"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "নিউটনের দ্বিতীয় সূত্রে F = ma, m স্থির ধরা হয় —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "একটি বস্তুর উপর ৫ নিউটন ও ১২ নিউটন বল পরস্পর লম্বভাবে কাজ করলে লব্ধি কত?",
+   "options": {
+    "A": "১৩ নিউটন",
+    "B": "১৭ নিউটন",
+    "C": "৭ নিউটন",
+    "D": "৬০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "একটি বস্তুর উপর ৩৬ নিউটন বল প্রযুক্ত হয়ে ৯ মি/সে² ত্বরণ হলে ভর কত?",
+   "options": {
+    "A": "৪ কেজি",
+    "B": "৪৫ কেজি",
+    "C": "২৭ কেজি",
+    "D": "৩২৪ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "বল প্রয়োগে বস্তুর বিকৃতি ঘটে —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "নিউটনের দ্বিতীয় সূত্র কোনটি?",
+   "options": {
+    "A": "F = ma",
+    "B": "F = mv",
+    "C": "F = mg",
+    "D": "F = m/a"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "ভর মাপার যন্ত্র কোনটি?",
+   "options": {
+    "A": "সাধারণ নিক্তি",
+    "B": "স্প্রিং নিক্তি",
+    "C": "ঘড়ি",
+    "D": "থার্মোমিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "৫ কেজি ভরের বস্তুর উপর ১০ নিউটন বল ২ সেকেন্ড প্রয়োগ করলে বেগের পরিবর্তন কত?",
+   "options": {
+    "A": "৪ মি/সে",
+    "B": "২ মি/সে",
+    "C": "২০ মি/সে",
+    "D": "১০ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "একটি বস্তুর উপর বল প্রয়োগ করেও কাজ নাও হতে পারে —",
+   "options": {
+    "A": "সরণ না হলে",
+    "B": "ভর থাকলে",
+    "C": "ত্বরণ থাকলে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "৭ কেজি ভরের বস্তুতে ৩ মি/সে² ত্বরণ সৃষ্টি করতে বল কত?",
+   "options": {
+    "A": "২১ নিউটন",
+    "B": "১০ নিউটন",
+    "C": "৭ নিউটন",
+    "D": "৩ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "বলের প্রতীক কী?",
+   "options": {
+    "A": "F",
+    "B": "f",
+    "C": "B",
+    "D": "P"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "একটি বস্তু ত্বরণে চললে তার উপর লব্ধি বল —",
+   "options": {
+    "A": "অশূন্য",
+    "B": "শূন্য",
+    "C": "ঋণাত্মক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "কেন্দ্রমুখী বলের কাজ কত?",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "শূন্য",
+    "C": "ঋণাত্মক",
+    "D": "সর্বোচ্চ"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "সাঁতারু পানি পেছনে ঠেলে দিয়ে সামনে যায় — কোন সূত্রের প্রয়োগ?",
+   "options": {
+    "A": "প্রথম",
+    "B": "দ্বিতীয়",
+    "C": "তৃতীয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "নিউটনের সূত্র",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "৪০ নিউটন ওজনের বস্তুর ভর কত? (g = ১০)",
+   "options": {
+    "A": "৪ কেজি",
+    "B": "৪০ কেজি",
+    "C": "১০ কেজি",
+    "D": "৪০০ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "১ কেজি ভরের বস্তুর উপর ২ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "০.৫ মি/সে²",
+    "B": "২ মি/সে²",
+    "C": "৩ মি/সে²",
+    "D": "৪ মি/সে²"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "বল প্রয়োগে কী পরিবর্তন হতে পারে?",
+   "options": {
+    "A": "শুধু গতি",
+    "B": "শুধু আকার",
+    "C": "গতি, আকার বা উভয়ই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "একটি বস্তুর উপর ৫ নিউটন বল প্রযুক্ত হয়ে ২ মি/সে² ত্বরণ হলে ভর কত?",
+   "options": {
+    "A": "২.৫ কেজি",
+    "B": "১০ কেজি",
+    "C": "৭ কেজি",
+    "D": "৩ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "১ কেজি ভরের বস্তুর ওজন (g = ১০) কত?",
+   "options": {
+    "A": "১০ নিউটন",
+    "B": "১ নিউটন",
+    "C": "৯.৮ নিউটন",
+    "D": "১০০ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "একটি বস্তুর উপর ১২ নিউটন বল প্রযুক্ত হয়ে ৩ মি/সে² ত্বরণ হলে ভর কত?",
+   "options": {
+    "A": "৪ কেজি",
+    "B": "৩৬ কেজি",
+    "C": "৯ কেজি",
+    "D": "১৫ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "দুটি বলের লব্ধি সর্বনিম্ন হয় যখন তারা —",
+   "options": {
+    "A": "একই দিকে",
+    "B": "বিপরীত দিকে",
+    "C": "লম্বভাবে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "৫ কেজি ভরের বস্তুর উপর ১৫ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "৩ মি/সে²",
+    "B": "৭৫ মি/সে²",
+    "C": "৫ মি/সে²",
+    "D": "১৫ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "৫ কেজি ভরের বস্তুর ওজন কত? (g = ৯.৮)",
+   "options": {
+    "A": "৪৯ নিউটন",
+    "B": "৫ নিউটন",
+    "C": "৯.৮ নিউটন",
+    "D": "১৪.৮ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "বল প্রয়োগ না করলে গতিশীল বস্তু —",
+   "options": {
+    "A": "চিরকাল চলে (ঘর্ষণহীন হলে)",
+    "B": "থেমে যায়",
+    "C": "ত্বরণ পায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "একটি বস্তুর উপর ৩ নিউটন ও ৪ নিউটন বল পরস্পর লম্বভাবে কাজ করলে লব্ধি কত?",
+   "options": {
+    "A": "৫ নিউটন",
+    "B": "৭ নিউটন",
+    "C": "১ নিউটন",
+    "D": "১২ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "৬ কেজি ভরের বস্তুর উপর ১৮ নিউটন বল প্রযুক্ত হলে ত্বরণ কত?",
+   "options": {
+    "A": "৩ মি/সে²",
+    "B": "২৪ মি/সে²",
+    "C": "১২ মি/সে²",
+    "D": "১০৮ মি/সে²"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "বৃত্তাকার পথে কেন্দ্রমুখী বল কাজ করে না কারণ —",
+   "options": {
+    "A": "বল ও সরণ লম্ব",
+    "B": "বল শূন্য",
+    "C": "সরণ শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "ক্রিয়া ও প্রতিক্রিয়া বলের মান —",
+   "options": {
+    "A": "ভিন্ন",
+    "B": "সমান",
+    "C": "কখনো সমান",
+    "D": "কখনো ভিন্ন"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "২ কেজি ভরের বস্তুর ওজন কত? (g = ৯.৮)",
+   "options": {
+    "A": "১৯.৬ নিউটন",
+    "B": "২ নিউটন",
+    "C": "৯.৮ নিউটন",
+    "D": "১১.৮ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "নিউটন কোন শতকে জন্মগ্রহণ করেন?",
+   "options": {
+    "A": "১৭ শতক",
+    "B": "১৬ শতক",
+    "C": "১৮ শতক",
+    "D": "১৯ শতক"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "কোন বলটি মৌলিক বল?",
+   "options": {
+    "A": "ঘর্ষণ বল",
+    "B": "মহাকর্ষ বল",
+    "C": "টান বল",
+    "D": "পেশি বল"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "ক্রিয়া ও প্রতিক্রিয়া বল —",
+   "options": {
+    "A": "একই বস্তুতে কাজ করে",
+    "B": "ভিন্ন বস্তুতে কাজ করে",
+    "C": "সবসময় বাতিল হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "বল ও কাজের সম্পর্ক কী?",
+   "options": {
+    "A": "বল প্রয়োগে সরণ হলে কাজ হয়",
+    "B": "শুধু বল প্রয়োগেই কাজ",
+    "C": "কোনো সম্পর্ক নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "একটি বস্তুর উপর ৩০ নিউটন বল প্রযুক্ত হয়ে ৬ মি/সে² ত্বরণ হলে ভর কত?",
+   "options": {
+    "A": "৫ কেজি",
+    "B": "৩৬ কেজি",
+    "C": "২৪ কেজি",
+    "D": "১৮০ কেজি"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "বল প্রয়োগের ফলে বস্তুর আকার পরিবর্তনকে কী বলে?",
+   "options": {
+    "A": "বিকৃতি",
+    "B": "গতি",
+    "C": "ত্বরণ",
+    "D": "ভরবেগ"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "বলের সূত্র F = ma এ a কী?",
+   "options": {
+    "A": "বেগ",
+    "B": "ত্বরণ",
+    "C": "সরণ",
+    "D": "দূরত্ব"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "ফুটবলে কিক মারলে বলের গতি ও দিক বদলায় — কারণ কী?",
+   "options": {
+    "A": "বল প্রয়োগ",
+    "B": "মহাকর্ষ",
+    "C": "ঘর্ষণ",
+    "D": "জড়তা"
+   },
+   "correctAnswer": "A",
+   "topic": "বলের ধারণা",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "২ কেজি ভরের বস্তুতে ৪ মি/সে² ত্বরণ সৃষ্টি করতে কত বল লাগবে?",
+   "options": {
+    "A": "৮ নিউটন",
+    "B": "২ নিউটন",
+    "C": "৬ নিউটন",
+    "D": "১৬ নিউটন"
+   },
+   "correctAnswer": "A",
+   "topic": "নিউটনের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "বলের মাত্রা কোনটি?",
+   "options": {
+    "A": "[MLT⁻¹]",
+    "B": "[MLT⁻²]",
+    "C": "[ML²T⁻²]",
+    "D": "[MLT]"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "ক্রিয়া ও প্রতিক্রিয়া বল একই বস্তুতে কাজ করে —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "ভরের একক কী?",
+   "options": {
+    "A": "নিউটন",
+    "B": "কিলোগ্রাম",
+    "C": "জুল",
+    "D": "প্যাসকেল"
+   },
+   "correctAnswer": "B",
+   "topic": "বলের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "একটি বস্তুর উপর লব্ধি বল শূন্য হলে বস্তুটি —",
+   "options": {
+    "A": "ত্বরণ পায়",
+    "B": "সমবেগে চলে বা স্থির থাকে",
+    "C": "অনিয়মিত চলে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "নিউটনের সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "B",
+  "2": "A",
+  "3": "A",
+  "4": "B",
+  "5": "B",
+  "6": "A",
+  "7": "B",
+  "8": "A",
+  "9": "B",
+  "10": "D",
+  "11": "A",
+  "12": "B",
+  "13": "A",
+  "14": "B",
+  "15": "A",
+  "16": "A",
+  "17": "A",
+  "18": "B",
+  "19": "B",
+  "20": "A",
+  "21": "A",
+  "22": "B",
+  "23": "A",
+  "24": "A",
+  "25": "B",
+  "26": "D",
+  "27": "A",
+  "28": "A",
+  "29": "B",
+  "30": "A",
+  "31": "B",
+  "32": "A",
+  "33": "A",
+  "34": "B",
+  "35": "A",
+  "36": "C",
+  "37": "A",
+  "38": "A",
+  "39": "B",
+  "40": "A",
+  "41": "B",
+  "42": "B",
+  "43": "A",
+  "44": "A",
+  "45": "A",
+  "46": "D",
+  "47": "A",
+  "48": "A",
+  "49": "B",
+  "50": "B",
+  "51": "A",
+  "52": "A",
+  "53": "A",
+  "54": "A",
+  "55": "A",
+  "56": "B",
+  "57": "D",
+  "58": "B",
+  "59": "B",
+  "60": "A",
+  "61": "A",
+  "62": "A",
+  "63": "B",
+  "64": "B",
+  "65": "A",
+  "66": "C",
+  "67": "A",
+  "68": "B",
+  "69": "B",
+  "70": "A",
+  "71": "B",
+  "72": "A",
+  "73": "A",
+  "74": "C",
+  "75": "A",
+  "76": "A",
+  "77": "A",
+  "78": "B",
+  "79": "B",
+  "80": "B",
+  "81": "A",
+  "82": "C",
+  "83": "A",
+  "84": "B",
+  "85": "A",
+  "86": "B",
+  "87": "A",
+  "88": "A",
+  "89": "A",
+  "90": "D",
+  "91": "A",
+  "92": "A",
+  "93": "A",
+  "94": "B",
+  "95": "A",
+  "96": "A",
+  "97": "B",
+  "98": "B",
+  "99": "B",
+  "100": "B",
+  "101": "A",
+  "102": "A",
+  "103": "B",
+  "104": "A",
+  "105": "B",
+  "106": "B",
+  "107": "B",
+  "108": "A",
+  "109": "A",
+  "110": "B",
+  "111": "A",
+  "112": "B",
+  "113": "B",
+  "114": "A",
+  "115": "A",
+  "116": "A",
+  "117": "B",
+  "118": "A",
+  "119": "A",
+  "120": "B",
+  "121": "B",
+  "122": "A",
+  "123": "C",
+  "124": "A",
+  "125": "B",
+  "126": "A",
+  "127": "B",
+  "128": "A",
+  "129": "A",
+  "130": "A",
+  "131": "A",
+  "132": "A",
+  "133": "B",
+  "134": "A",
+  "135": "A",
+  "136": "B",
+  "137": "A",
+  "138": "A",
+  "139": "B",
+  "140": "A",
+  "141": "A",
+  "142": "A",
+  "143": "B",
+  "144": "A",
+  "145": "B",
+  "146": "B",
+  "147": "B",
+  "148": "A",
+  "149": "B",
+  "150": "B",
+  "151": "A",
+  "152": "A",
+  "153": "A",
+  "154": "B",
+  "155": "A",
+  "156": "B",
+  "157": "B",
+  "158": "A",
+  "159": "A",
+  "160": "A",
+  "161": "A",
+  "162": "A",
+  "163": "B",
+  "164": "A",
+  "165": "C",
+  "166": "B",
+  "167": "B",
+  "168": "A",
+  "169": "A",
+  "170": "B",
+  "171": "B",
+  "172": "A",
+  "173": "A",
+  "174": "A",
+  "175": "B",
+  "176": "A",
+  "177": "A",
+  "178": "A",
+  "179": "C",
+  "180": "A",
+  "181": "B",
+  "182": "C",
+  "183": "A",
+  "184": "A",
+  "185": "A",
+  "186": "B",
+  "187": "C",
+  "188": "B",
+  "189": "B",
+  "190": "A",
+  "191": "B",
+  "192": "A",
+  "193": "A",
+  "194": "A",
+  "195": "A",
+  "196": "A",
+  "197": "A",
+  "198": "A",
+  "199": "A",
+  "200": "B",
+  "201": "B",
+  "202": "A",
+  "203": "A",
+  "204": "A",
+  "205": "A",
+  "206": "A",
+  "207": "A",
+  "208": "A",
+  "209": "C",
+  "210": "A",
+  "211": "A",
+  "212": "A",
+  "213": "A",
+  "214": "A",
+  "215": "A",
+  "216": "A",
+  "217": "A",
+  "218": "A",
+  "219": "B",
+  "220": "A",
+  "221": "A",
+  "222": "C",
+  "223": "A",
+  "224": "B",
+  "225": "B",
+  "226": "B",
+  "227": "B",
+  "228": "B",
+  "229": "A",
+  "230": "A",
+  "231": "A",
+  "232": "A",
+  "233": "A",
+  "234": "C",
+  "235": "A",
+  "236": "B",
+  "237": "B",
+  "238": "A",
+  "239": "A",
+  "240": "A",
+  "241": "B",
+  "242": "A",
+  "243": "A",
+  "244": "A",
+  "245": "B",
+  "246": "A",
+  "247": "B",
+  "248": "B",
+  "249": "A",
+  "250": "B",
+  "251": "B",
+  "252": "B",
+  "253": "A",
+  "254": "B",
+  "255": "B",
+  "256": "A",
+  "257": "A",
+  "258": "C",
+  "259": "A",
+  "260": "A",
+  "261": "B",
+  "262": "A",
+  "263": "A",
+  "264": "A",
+  "265": "A",
+  "266": "A",
+  "267": "A",
+  "268": "B",
+  "269": "A",
+  "270": "B",
+  "271": "A",
+  "272": "A",
+  "273": "B",
+  "274": "A",
+  "275": "A",
+  "276": "A",
+  "277": "A",
+  "278": "B",
+  "279": "B",
+  "280": "A",
+  "281": "B",
+  "282": "B",
+  "283": "B",
+  "284": "B",
+  "285": "B",
+  "286": "A",
+  "287": "B",
+  "288": "B",
+  "289": "A",
+  "290": "A",
+  "291": "B",
+  "292": "B",
+  "293": "A",
+  "294": "B",
+  "295": "A",
+  "296": "A",
+  "297": "C",
+  "298": "B",
+  "299": "A",
+  "300": "D",
+  "301": "A",
+  "302": "A",
+  "303": "A",
+  "304": "C",
+  "305": "A",
+  "306": "B",
+  "307": "A",
+  "308": "A",
+  "309": "C",
+  "310": "A",
+  "311": "B",
+  "312": "A",
+  "313": "A",
+  "314": "A",
+  "315": "A",
+  "316": "B",
+  "317": "A",
+  "318": "B",
+  "319": "A",
+  "320": "A",
+  "321": "C",
+  "322": "A",
+  "323": "B",
+  "324": "A",
+  "325": "A",
+  "326": "B",
+  "327": "A",
+  "328": "A",
+  "329": "A",
+  "330": "B",
+  "331": "A",
+  "332": "A",
+  "333": "A",
+  "334": "B",
+  "335": "A",
+  "336": "A",
+  "337": "A",
+  "338": "A",
+  "339": "A",
+  "340": "A",
+  "341": "A",
+  "342": "A",
+  "343": "A",
+  "344": "A",
+  "345": "A",
+  "346": "B",
+  "347": "C",
+  "348": "A",
+  "349": "B",
+  "350": "C",
+  "351": "A",
+  "352": "A",
+  "353": "A",
+  "354": "B",
+  "355": "A",
+  "356": "A",
+  "357": "A",
+  "358": "A",
+  "359": "A",
+  "360": "A",
+  "361": "B",
+  "362": "A",
+  "363": "A",
+  "364": "B",
+  "365": "B",
+  "366": "A",
+  "367": "A",
+  "368": "A",
+  "369": "B",
+  "370": "A",
+  "371": "A",
+  "372": "B",
+  "373": "B",
+  "374": "B",
+  "375": "B"
+ }
 }
