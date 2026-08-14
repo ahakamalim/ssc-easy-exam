@@ -1,0 +1,7134 @@
+{
+ "subject": "রসায়ন",
+ "chapterNo": 10,
+ "chapter": "খনিজ সম্পদ: ধাতু-অধাতু",
+ "questions": [
+  {
+   "question": "খনিজ সম্পদের সাশ্রয়ী ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দরকার নেই",
+    "C": "জরুরি",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "সোনা ও প্লাটিনাম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিষ্ক্রিয় ধাতু",
+    "C": "কিছুই না",
+    "D": "সক্রিয় ধাতু"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "তরল অধাতু —",
+   "options": {
+    "A": "অক্সিজেন",
+    "B": "কোনোটিই নয়",
+    "C": "ব্রোমিন",
+    "D": "ক্লোরিন"
+   },
+   "correctAnswer": "C",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "সোডিয়াম পানিতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বিক্রিয়া করে না",
+    "C": "কোনোটিই নয়",
+    "D": "তীব্র বিক্রিয়া করে"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "সংকর ধাতু বিশুদ্ধ ধাতুর চেয়ে —",
+   "options": {
+    "A": "সমান",
+    "B": "নরম",
+    "C": "কঠিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "আকরিকের অপদ্রব্য দূর করা হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ঘনত্ব বৃদ্ধিতে (কনসেনট্রেশন)",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "টিনিং —",
+   "options": {
+    "A": "লোহায় টিনের প্রলেপ",
+    "B": "লোহায় রং",
+    "C": "লোহায় দস্তা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "বিমানে অ্যালুমিনিয়াম — কারণ?",
+   "options": {
+    "A": "ভারী",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "হালকা ও মজবুত"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "ফসফরাস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সার ও হাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "অধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "FeSO₄ দ্রবণের রং —",
+   "options": {
+    "A": "নীল",
+    "B": "সবুজ",
+    "C": "কোনোটিই নয়",
+    "D": "লাল"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "CO₂ + H₂O → ?",
+   "options": {
+    "A": "H₂CO₃",
+    "B": "কোনোটিই নয়",
+    "C": "CO",
+    "D": "C"
+   },
+   "correctAnswer": "A",
+   "topic": "অধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "খনিজ সম্পদের টেকসই ব্যবহার —",
+   "options": {
+    "A": "জরুরি",
+    "B": "জরুরি নয়",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "ধাতুর বৈশিষ্ট্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অপরিবাহী, ভঙ্গুর",
+    "C": "দীপ্তিময়, পরিবাহী, ঘাতসহ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "অধাতু পিটিয়ে পাত করা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "যায় না",
+    "C": "কিছুই না",
+    "D": "যায়"
+   },
+   "correctAnswer": "B",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "সবচেয়ে সক্রিয় ধাতু —",
+   "options": {
+    "A": "সোনা",
+    "B": "পটাসিয়াম",
+    "C": "প্লাটিনাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "দাঁতের ফিলিংয়ে —",
+   "options": {
+    "A": "রুপার আমালগাম",
+    "B": "তামা",
+    "C": "কোনোটিই নয়",
+    "D": "লোহা"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "ইস্পাত —",
+   "options": {
+    "A": "কার্বন শূন্য",
+    "B": "কার্বন বেশি",
+    "C": "কোনোটিই নয়",
+    "D": "কার্বন কম (০.১–১.৫%)"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "গ্যালভানাইজড লোহা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "টিনের পাত, বালতিতে"
+   },
+   "correctAnswer": "D",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "অ্যালুমিনিয়ামের ব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "বিমান, বাসন, তার"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "কার্বন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "জীবজগতের মূল উপাদান",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "অধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "Cu অম্লের সাথে বিক্রিয়া করে না — কারণ?",
+   "options": {
+    "A": "সক্রিয়তা সিরিজে H এর নিচে",
+    "B": "কোনোটিই নয়",
+    "C": "সক্রিয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "4P + 5O₂ → ?",
+   "options": {
+    "A": "2P₂O₅",
+    "B": "PO₂",
+    "C": "P₂O₃",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "আকরিকের উদাহরণ —",
+   "options": {
+    "A": "বিশুদ্ধ লোহা",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "হেমাটাইট, বক্সাইট"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "সবচেয়ে ভারী ধাতু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অসমিয়াম/ইরিডিয়াম",
+    "C": "তামা",
+    "D": "লোহা"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "অধাতু কাকে বলে?",
+   "options": {
+    "A": "তাপ ও বিদ্যুৎ অপরিবাহী মৌল",
+    "B": "কোনোটিই নয়",
+    "C": "পরিবাহী মৌল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "লোহা পানিতে —",
+   "options": {
+    "A": "সাধারণ তাপমাত্রায় ধীরে বিক্রিয়া",
+    "B": "কিছুই না",
+    "C": "তীব্র বিক্রিয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "পিতল কিসের সংকর?",
+   "options": {
+    "A": "তামা + দস্তা",
+    "B": "তামা + টিন",
+    "C": "লোহা + কার্বন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "তড়িৎ বিশ্লেষণে তড়িৎ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অ্যানোড থেকে ক্যাথোডে",
+    "D": "ক্যাথোড থেকে অ্যানোডে"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "শুষ্ক বাতাসে লোহা —",
+   "options": {
+    "A": "মরিচা ধরে",
+    "B": "মরিচা ধরে না",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "লোহা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "রক্তে হিমোগ্লোবিনে"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "হাইড্রোজেন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ভবিষ্যতের জ্বালানি"
+   },
+   "correctAnswer": "D",
+   "topic": "অধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "ধাতব অক্সাইড পানিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অম্ল তৈরি করে",
+    "C": "কিছুই না",
+    "D": "ক্ষার তৈরি করে"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "P₂O₅ + 3H₂O → ?",
+   "options": {
+    "A": "H₃PO₃",
+    "B": "কোনোটিই নয়",
+    "C": "2H₃PO₄",
+    "D": "PO₄"
+   },
+   "correctAnswer": "C",
+   "topic": "অধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "আকরিক কাকে বলে?",
+   "options": {
+    "A": "সংকর ধাতু",
+    "B": "যে খনিজ থেকে ধাতু নিষ্কাশন হয়",
+    "C": "কোনোটিই নয়",
+    "D": "বিশুদ্ধ ধাতু"
+   },
+   "correctAnswer": "B",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "ধাতুর গলনাঙ্ক সাধারণত —",
+   "options": {
+    "A": "নিম্ন",
+    "B": "উচ্চ",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "অধাতু তাপ —",
+   "options": {
+    "A": "অপরিবাহী",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পরিবাহী"
+   },
+   "correctAnswer": "A",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "আয়নিক যৌগ গলিত অবস্থায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অপরিবাহী",
+    "D": "পরিবাহী"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "সংকর ধাতুর সুবিধা —",
+   "options": {
+    "A": "নরম",
+    "B": "কঠিন ও মরিচা প্রতিরোধী",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "ব্লাস্ট ফার্নেসে লোহা নিষ্কাশনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অক্সিজেন বিজারক",
+    "C": "কার্বন বিজারক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "জাহাজের তলায় দস্তার পাত —",
+   "options": {
+    "A": "ক্ষয় বাড়ায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ক্ষয় রোধ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "সোনার ব্যবহার গহনায় — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "দীপ্তি ও নিষ্ক্রিয়তা",
+    "D": "সক্রিয়তা"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "পানি বিশুদ্ধকরণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্লোরিন",
+    "C": "নাইট্রোজেন",
+    "D": "অক্সিজেন শুধু"
+   },
+   "correctAnswer": "B",
+   "topic": "অধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "সক্রিয়তা সিরিজ ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "বিক্রিয়ার পূর্বাভাসে"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "S + O₂ → ?",
+   "options": {
+    "A": "SO₃",
+    "B": "কোনোটিই নয়",
+    "C": "S₂O",
+    "D": "SO₂"
+   },
+   "correctAnswer": "D",
+   "topic": "অধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "খনিজ সম্পদ সংরক্ষণে —",
+   "options": {
+    "A": "অপচয়",
+    "B": "কিছুই না",
+    "C": "সাশ্রয় ও পুনর্ব্যবহার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "বিদ্যুৎ তারে ব্যবহৃত —",
+   "options": {
+    "A": "তামা ও অ্যালুমিনিয়াম",
+    "B": "কোনোটিই নয়",
+    "C": "সোডিয়াম",
+    "D": "লোহা শুধু"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "ধাতব দীপ্তি নেই —",
+   "options": {
+    "A": "অধাতুতে",
+    "B": "কোনোটিই নয়",
+    "C": "ধাতুতে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "ধাতুর সক্রিয়তা সিরিজে Au —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মাঝে",
+    "C": "উপরে",
+    "D": "নিচে"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "সংকর ধাতুর ব্যবহার —",
+   "options": {
+    "A": "নেই",
+    "B": "কোনোটিই নয়",
+    "C": "ব্যাপক",
+    "D": "সীমিত"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "লোহা নিষ্কাশন হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ব্লাস্ট ফার্নেসে",
+    "C": "তড়িৎ বিশ্লেষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "লোহার গেটে রং করা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সৌন্দর্যে শুধু",
+    "C": "মরিচা রোধে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "লোহা সবচেয়ে বেশি ব্যবহৃত — কারণ?",
+   "options": {
+    "A": "সহজলভ্য ও সস্তা",
+    "B": "কোনোটিই নয়",
+    "C": "দুর্লভ",
+    "D": "দামি"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "অক্সিজেন —",
+   "options": {
+    "A": "শ্বসনের জন্য জরুরি",
+    "B": "কিছুই না",
+    "C": "জরুরি নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "বিক্রিয়া হবে কিনা জানা যায় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "সক্রিয়তা সিরিজ থেকে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "SO₂ + 2NaOH → ?",
+   "options": {
+    "A": "Na₂SO₃ + H₂O",
+    "B": "Na₂SO₄",
+    "C": "NaCl",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "ভূগর্ভস্থ খনিতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "গভীর খনিজ উত্তোলন হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "ক্ষার ধাতু —",
+   "options": {
+    "A": "Fe, Cu",
+    "B": "Li, Na, K, Rb, Cs",
+    "C": "কোনোটিই নয়",
+    "D": "Au, Ag"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "গ্রাফাইট —",
+   "options": {
+    "A": "বিদ্যুৎ পরিবাহী অধাতু",
+    "B": "অপরিবাহী",
+    "C": "কোনোটিই নয়",
+    "D": "ধাতু"
+   },
+   "correctAnswer": "A",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "অধাতু-অধাতুর যৌগ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আয়নিক",
+    "C": "ধাতব",
+    "D": "সমযোজী"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "ব্রোঞ্জ যুগে ব্যবহৃত —",
+   "options": {
+    "A": "অ্যালুমিনিয়াম",
+    "B": "লোহা",
+    "C": "ব্রোঞ্জ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "Fe₂O₃ + 3CO → ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "Fe + CO₂",
+    "C": "2Fe + 3CO₂",
+    "D": "2Fe + 3CO"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "সমুদ্রের কাছে লোহা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্ষয় হয় না",
+    "C": "কোনোটিই নয়",
+    "D": "দ্রুত ক্ষয় হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "ক্যালসিয়াম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "হাড় ও দাঁতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "অধাতুর গুরুত্ব —",
+   "options": {
+    "A": "অপ্রয়োজনীয়",
+    "B": "নেই",
+    "C": "জীবনের জন্য অপরিহার্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "CuO + H₂SO₄ → ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "Cu + H₂O",
+    "C": "CuSO₄ + H₂",
+    "D": "CuSO₄ + H₂O"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "SO₂ + H₂O → ?",
+   "options": {
+    "A": "SO₃",
+    "B": "H₂SO₃",
+    "C": "কোনোটিই নয়",
+    "D": "H₂SO₄"
+   },
+   "correctAnswer": "B",
+   "topic": "অধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "খনিজ সম্পদ ফুরিয়ে গেলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "উপকার",
+    "C": "কোনোটিই নয়",
+    "D": "শিল্প ক্ষতিগ্রস্ত হবে"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "ধাতু তাপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "করে না",
+    "C": "কোনোটিই নয়",
+    "D": "পরিবহণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "অধাতু ঋণাত্মক আয়ন (অ্যানায়ন) —",
+   "options": {
+    "A": "গঠন করে না",
+    "B": "গঠন করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "Mg + O₂ → ?",
+   "options": {
+    "A": "MgO₂",
+    "B": "MgO",
+    "C": "Mg₂O",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "আমালগাম —",
+   "options": {
+    "A": "পারদের সংকর",
+    "B": "লোহার সংকর",
+    "C": "তামার সংকর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "ম্যাগনেটাইট —",
+   "options": {
+    "A": "Fe₂O₃",
+    "B": "Fe₃O₄",
+    "C": "কোনোটিই নয়",
+    "D": "FeO"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "লোহা সম্পূর্ণ শুকনো রাখলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ধরে",
+    "C": "কিছুই না",
+    "D": "মরিচা ধরে না"
+   },
+   "correctAnswer": "D",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "Al₂O₃ স্তর অ্যালুমিনিয়ামকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্ষয় বাড়ায়",
+    "C": "ক্ষয় থেকে রক্ষা করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "ক্লোরিন —",
+   "options": {
+    "A": "পানি বিশুদ্ধকরণে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "অধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "MgO এর রং —",
+   "options": {
+    "A": "কালো",
+    "B": "নীল",
+    "C": "কোনোটিই নয়",
+    "D": "সাদা"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "অধাতব অক্সাইড ক্ষারের সাথে —",
+   "options": {
+    "A": "লবণ + H₂",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "লবণ + পানি"
+   },
+   "correctAnswer": "D",
+   "topic": "অধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "খনন পরিবেশে —",
+   "options": {
+    "A": "প্রভাব ফেলে",
+    "B": "কোনোটিই নয়",
+    "C": "ফেলে না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "ধাতু কাকে বলে?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অপরিবাহী মৌল",
+    "C": "তাপ ও বিদ্যুৎ পরিবাহী মৌল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "অধাতু জারক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হিসেবে কাজ করে",
+    "C": "কোনোটিই নয়",
+    "D": "বিজারক হিসেবে"
+   },
+   "correctAnswer": "B",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "ধাতু ও অধাতু চেনা যায় —",
+   "options": {
+    "A": "ভৌত ধর্মে",
+    "B": "শুধু নামে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "সংকর ধাতুর উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লোহা",
+    "C": "পিতল, ব্রোঞ্জ, ইস্পাত",
+    "D": "তামা"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "আকরিক ঘনীভূত করার পদ্ধতি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ফ্রথ ফ্লোটেশন",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "দস্তা লোহার আগে —",
+   "options": {
+    "A": "পরে ক্ষয় হয়",
+    "B": "ক্ষয় হয় (লোহা রক্ষা পায়)",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "হাড়ে থাকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সোডিয়াম",
+    "C": "লোহা শুধু",
+    "D": "ক্যালসিয়াম ও ফসফরাস"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "সালফার —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কীটনাশক, বারুদ, অম্লে"
+   },
+   "correctAnswer": "D",
+   "topic": "অধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "CuSO₄ দ্রবণে Fe পেরেক ডুবালে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "লালচে Cu জমে",
+    "C": "Fe জমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "CO₂ + 2NaOH → ?",
+   "options": {
+    "A": "Na₂CO₃ + H₂O",
+    "B": "NaCl + H₂O",
+    "C": "NaHCO₃",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "স্ক্র্যাপ ধাতু গলিয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পুনর্ব্যবহার হয়",
+    "D": "ফেলে দেওয়া হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "ধাতু আঘাতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ঝনঝন শব্দ করে",
+    "C": "শব্দ করে না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "অধাতুর বৈশিষ্ট্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পরিবাহী, ঘাতসহ",
+    "C": "অপরিবাহী, ভঙ্গুর, দীপ্তিহীন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "Na + Cl → NaCl —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ধাতব বন্ধন",
+    "C": "আয়নিক বন্ধন",
+    "D": "সমযোজী বন্ধন"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "পিতলের ব্যবহার —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বাসন, যন্ত্র, দরজার হাতলে"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "ব্লাস্ট ফার্নেসে কাঁচামাল —",
+   "options": {
+    "A": "শুধু কোক",
+    "B": "আকরিক, কোক, চুনাপাথর",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু আকরিক"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "টিনিংয়ে ব্যবহৃত —",
+   "options": {
+    "A": "টিন (Sn)",
+    "B": "সোনা",
+    "C": "দস্তা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "হিমোগ্লোবিনে থাকে —",
+   "options": {
+    "A": "সোডিয়াম",
+    "B": "ক্যালসিয়াম",
+    "C": "কোনোটিই নয়",
+    "D": "লোহা"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "নাইট্রোজেন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সার ও প্রোটিনে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "অধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "MgO + 2HCl → ?",
+   "options": {
+    "A": "Mg + H₂O",
+    "B": "MgCl₂ + H₂O",
+    "C": "MgCl₂ + H₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "অধাতব অক্সাইড পানিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অম্ল তৈরি করে",
+    "D": "ক্ষার তৈরি করে"
+   },
+   "correctAnswer": "C",
+   "topic": "অধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "বাংলাদেশে প্রাকৃতিক গ্যাস —",
+   "options": {
+    "A": "প্রধান খনিজ সম্পদ",
+    "B": "নেই",
+    "C": "অপ্রধান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "ধাতুর ঔজ্জ্বল্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নেই",
+    "C": "কিছুই না",
+    "D": "ধাতব দীপ্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "Cl + e⁻ → Cl⁻ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বিজারণ",
+    "D": "জারণ"
+   },
+   "correctAnswer": "C",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "ধাতুর অক্সাইড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিরপেক্ষ",
+    "C": "অম্লীয়",
+    "D": "ক্ষারীয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "তামা ও দস্তার সংকর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পিতল",
+    "C": "ব্রোঞ্জ",
+    "D": "ইস্পাত"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "কাঁচা লোহার অপদ্রব্য —",
+   "options": {
+    "A": "শুধু কার্বন",
+    "B": "কার্বন, Si, P, S",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "ইলেকট্রোপ্লেটিংয়ে —",
+   "options": {
+    "A": "রং",
+    "B": "ধাতুর পাতলা প্রলেপ",
+    "C": "তেল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "বিদ্যুৎ তারে তামা — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অপরিবাহী",
+    "D": "ভালো পরিবাহী ও প্রসারণক্ষম"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "আয়োডিন —",
+   "options": {
+    "A": "থাইরয়েড গ্রন্থির জন্য",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "অধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "Mg + 2HCl → ?",
+   "options": {
+    "A": "MgCl₂ + H₂",
+    "B": "MgCl₂ + O₂",
+    "C": "কোনোটিই নয়",
+    "D": "MgO + H₂"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "রিসাইক্লিং পরিবেশ —",
+   "options": {
+    "A": "নষ্ট করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "রক্ষা করে"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "পটাসিয়াম —",
+   "options": {
+    "A": "সমান",
+    "B": "কোনোটিই নয়",
+    "C": "কম সক্রিয়",
+    "D": "সোডিয়ামের চেয়ে সক্রিয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "অধাতুর উদাহরণ —",
+   "options": {
+    "A": "O, N, C, S, Cl",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "Fe, Cu, Na"
+   },
+   "correctAnswer": "A",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "সক্রিয়তা সিরিজে Au, Ag, Pt —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কম সক্রিয়",
+    "C": "কিছুই না",
+    "D": "সক্রিয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "তামা ও টিনের সংকর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পিতল",
+    "C": "ইস্পাত",
+    "D": "ব্রোঞ্জ"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "Fe₂O₃ + 3C → ?",
+   "options": {
+    "A": "2Fe + 3CO",
+    "B": "Fe + CO",
+    "C": "কোনোটিই নয়",
+    "D": "2Fe + 3CO₂"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "সোনার গহনায় —",
+   "options": {
+    "A": "সোনার প্রলেপ (গোল্ড প্লেটিং)",
+    "B": "তেল",
+    "C": "রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "সোডিয়াম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "খাদ্য লবণে"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "CuSO₄ নীল দ্রবণে Fe ডুবালে FeSO₄ —",
+   "options": {
+    "A": "নীল",
+    "B": "লাল",
+    "C": "কোনোটিই নয়",
+    "D": "সবুজ"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "খনিজ সম্পদ অধ্যায় —",
+   "options": {
+    "A": "অগুরুত্বপূর্ণ",
+    "B": "ঐচ্ছিক",
+    "C": "গুরুত্বপূর্ণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "ধাতুর ঘনত্ব সাধারণত —",
+   "options": {
+    "A": "উচ্চ",
+    "B": "কোনোটিই নয়",
+    "C": "শূন্য",
+    "D": "নিম্ন"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "অধাতুর ঔজ্জ্বল্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "আছে",
+    "C": "নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "অধাতু-অধাতুর যৌগে —",
+   "options": {
+    "A": "স্থানান্তর হয়",
+    "B": "ইলেকট্রন শেয়ার হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "ইস্পাত কিসের সংকর?",
+   "options": {
+    "A": "লোহা + কার্বন",
+    "B": "তামা + দস্তা",
+    "C": "কোনোটিই নয়",
+    "D": "তামা + টিন"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "লোহা নিষ্কাশনে বিজারক —",
+   "options": {
+    "A": "অক্সিজেন",
+    "B": "কার্বন (কোক)",
+    "C": "হাইড্রোজেন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "মরিচা ধরলে লোহার ওজন —",
+   "options": {
+    "A": "একই",
+    "B": "কমে",
+    "C": "বাড়ে",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "C",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "রুপা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "গহনা ও আয়নায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "CuSO₄ দ্রবণে Fe পেরেক ডুবালে দ্রবণ —",
+   "options": {
+    "A": "সবুজ হয়",
+    "B": "লাল হয়",
+    "C": "নীল থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "ধাতব খনিজ —",
+   "options": {
+    "A": "গ্যাস",
+    "B": "লোহা, তামা, অ্যালুমিনিয়াম আকরিক",
+    "C": "কোনোটিই নয়",
+    "D": "কয়লা"
+   },
+   "correctAnswer": "B",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "ঘণ্টা তৈরি হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ধাতু দিয়ে",
+    "D": "অধাতু দিয়ে"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "অধাতু ঝনঝন শব্দ —",
+   "options": {
+    "A": "দেয় না",
+    "B": "কিছুই না",
+    "C": "দেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "ধাতব অক্সাইড ক্ষারীয়, অধাতব অক্সাইড —",
+   "options": {
+    "A": "ক্ষারীয়",
+    "B": "কোনোটিই নয়",
+    "C": "নিরপেক্ষ",
+    "D": "অম্লীয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "রুপার আমালগাম —",
+   "options": {
+    "A": "রুপা + সোনা",
+    "B": "কোনোটিই নয়",
+    "C": "পারদ + তামা",
+    "D": "পারদ + রুপা"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "বিজারণে ধাতব অক্সাইড থেকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ধাতু পাওয়া যায়",
+    "D": "অক্সাইড থাকে"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "মরিচা ধরলে লোহার শক্তি —",
+   "options": {
+    "A": "শূন্য",
+    "B": "কমে",
+    "C": "বাড়ে",
+    "D": "একই"
+   },
+   "correctAnswer": "B",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "সোনা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "গহনায় ব্যবহৃত",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "Zn + 2HCl → ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ZnCl₂ + H₂",
+    "C": "ZnO + H₂",
+    "D": "ZnCl₂ + O₂"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "সব আকরিক খনিজ, কিন্তু সব খনিজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "আকরিক নয়",
+    "D": "আকরিক"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "ধাতু তড়িৎ-ধনাত্মক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "না",
+    "C": "কিছুই না",
+    "D": "হ্যাঁ"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "অধাতু —",
+   "options": {
+    "A": "ঘাতসহ",
+    "B": "কোনোটিই নয়",
+    "C": "প্রসারণক্ষম",
+    "D": "ভঙ্গুর"
+   },
+   "correctAnswer": "D",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "Na + পানি → ?",
+   "options": {
+    "A": "NaOH + O₂",
+    "B": "NaOH + H₂",
+    "C": "Na₂O + H₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "লোহা ও কার্বনের সংকর —",
+   "options": {
+    "A": "ইস্পাত",
+    "B": "কোনোটিই নয়",
+    "C": "ব্রোঞ্জ",
+    "D": "পিতল"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "সালফাইড আকরিক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ভস্মীকরণ (রোস্টিং) হয়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "গ্যালভানাইজিংয়ে Zn —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্যাথোডিক সুরক্ষা দেয়",
+    "C": "অ্যানোডিক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "অ্যালুমিনিয়াম ফয়েল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "খাদ্য মোড়ানোয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "CaO + H₂O → ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "CaCO₃",
+    "C": "CaCl₂",
+    "D": "Ca(OH)₂"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "আকরিক থেকে ধাতু নিষ্কাশন লাভজনক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হলে খনন হয়",
+    "C": "কিছুই না",
+    "D": "নাহলে হয় না"
+   },
+   "correctAnswer": "B",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "ধাতুর সোনোরাস ধর্ম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ঝনঝন শব্দ",
+    "C": "নিঃশব্দ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "অধাতু বিদ্যুৎ —",
+   "options": {
+    "A": "পরিবাহী",
+    "B": "কিছুই না",
+    "C": "অপরিবাহী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "NaCl —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সমযোজী যৌগ",
+    "C": "ধাতব",
+    "D": "আয়নিক যৌগ"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "লৌহ যুগে ব্যবহৃত —",
+   "options": {
+    "A": "লোহা",
+    "B": "তামা",
+    "C": "কোনোটিই নয়",
+    "D": "ব্রোঞ্জ"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "কাঁচা লোহা —",
+   "options": {
+    "A": "ঘাতসহ",
+    "B": "প্রসারণক্ষম",
+    "C": "কোনোটিই নয়",
+    "D": "ভঙ্গুর"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "জাহাজের তলায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রং লাগানো হয় শুধু",
+    "C": "কোনোটিই নয়",
+    "D": "দস্তার পাত লাগানো হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "তামার ব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "বিদ্যুৎ তার, বাসনপত্র"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "সক্রিয়তা সিরিজ —",
+   "options": {
+    "A": "অধাতুর ক্রম",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ধাতুর সক্রিয়তার ক্রম"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "ধাতুর পুনর্ব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "খনিজ সাশ্রয় করে",
+    "C": "কোনোটিই নয়",
+    "D": "অপচয় করে"
+   },
+   "correctAnswer": "B",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "ধাতুর গলনাঙ্ক —",
+   "options": {
+    "A": "সাধারণত কম",
+    "B": "শূন্য",
+    "C": "সাধারণত বেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "অধাতুর ঘনত্ব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শূন্য",
+    "C": "সাধারণত বেশি",
+    "D": "সাধারণত কম"
+   },
+   "correctAnswer": "D",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "ক্যালসিয়াম পানিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "করে না",
+    "D": "বিক্রিয়া করে"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "ব্রোঞ্জ কিসের সংকর?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তামা + টিন",
+    "C": "তামা + দস্তা",
+    "D": "লোহা + কার্বন"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "কম সক্রিয় ধাতু (Fe, Zn) নিষ্কাশনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কার্বন বিজারণ",
+    "D": "তড়িৎ বিশ্লেষণ"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "গ্যালভানাইজিং —",
+   "options": {
+    "A": "লোহায় দস্তার প্রলেপ",
+    "B": "লোহায় তেল",
+    "C": "কোনোটিই নয়",
+    "D": "লোহায় রঙ"
+   },
+   "correctAnswer": "A",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "অ্যালুমিনিয়াম জারণরোধী — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সক্রিয়",
+    "D": "পৃষ্ঠে Al₂O₃ স্তর"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "ধাতুর প্রতিস্থাপন বিক্রিয়া —",
+   "options": {
+    "A": "সক্রিয় ধাতু কম সক্রিয়কে সরায়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "আকরিক থেকে —",
+   "options": {
+    "A": "ধাতু নিষ্কাশন করা হয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "ধাতু সাধারণত —",
+   "options": {
+    "A": "গ্যাস",
+    "B": "তরল",
+    "C": "কোনোটিই নয়",
+    "D": "কঠিন"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "গ্রাফাইট ব্যতিক্রমী — কারণ?",
+   "options": {
+    "A": "ভঙ্গুর",
+    "B": "বিদ্যুৎ পরিবাহী",
+    "C": "কঠিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "সমযোজী যৌগ বিদ্যুৎ —",
+   "options": {
+    "A": "সাধারণত অপরিবাহী",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পরিবাহী"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "স্টেইনলেস স্টিলের ব্যবহার —",
+   "options": {
+    "A": "বাসন, অস্ত্রোপচার যন্ত্রে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "Fe₂O₃ বিজারণে —",
+   "options": {
+    "A": "লোহা হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অক্সাইড থাকে"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "মরিচা ধরার জন্য —",
+   "options": {
+    "A": "আর্দ্রতা ও অক্সিজেন",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু CO₂",
+    "D": "শুধু আর্দ্রতা"
+   },
+   "correctAnswer": "A",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "থার্মোমিটারে পারদ — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সঙ্কুচিত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "তাপে প্রসারিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "ধাতুর সাথে অম্লের বিক্রিয়ায় —",
+   "options": {
+    "A": "লবণ + CO₂",
+    "B": "কোনোটিই নয়",
+    "C": "লবণ + H₂",
+    "D": "লবণ + O₂"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "আকরিক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "এক ধরনের খনিজ",
+    "C": "অধাতু",
+    "D": "ধাতু"
+   },
+   "correctAnswer": "B",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "সবচেয়ে দামি ধাতু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্লাটিনাম/রোডিয়াম",
+    "C": "তামা",
+    "D": "লোহা"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "অধাতুর গলনাঙ্ক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শূন্য",
+    "C": "সাধারণত বেশি",
+    "D": "সাধারণত কম"
+   },
+   "correctAnswer": "D",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "পটাসিয়াম পানিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ধীরে",
+    "D": "আগুন জ্বলে ওঠে"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "প্রাচীনতম ব্যবহৃত ধাতু —",
+   "options": {
+    "A": "তামা",
+    "B": "কোনোটিই নয়",
+    "C": "অ্যালুমিনিয়াম",
+    "D": "সোডিয়াম"
+   },
+   "correctAnswer": "A",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "গলিত NaCl তড়িৎ বিশ্লেষণে অ্যানোডে —",
+   "options": {
+    "A": "Cl₂",
+    "B": "কোনোটিই নয়",
+    "C": "H₂",
+    "D": "Na"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "গ্যালভানাইজিংয়ে লোহা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্যাথোড হয়",
+    "C": "অ্যানোড হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "অ্যালুমিনিয়ামের পৃষ্ঠে —",
+   "options": {
+    "A": "মরিচা",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "Al₂O₃ এর পাতলা স্তর"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "Fe + H₂SO₄ → ?",
+   "options": {
+    "A": "FeO + H₂",
+    "B": "FeSO₄ + O₂",
+    "C": "কোনোটিই নয়",
+    "D": "FeSO₄ + H₂"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "বাংলাদেশের খনিজ সম্পদ —",
+   "options": {
+    "A": "প্রাকৃতিক গ্যাস, কয়লা, চুনাপাথর",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "ধাতু বিদ্যুৎ পরিবহণ করে —",
+   "options": {
+    "A": "মুক্ত ইলেকট্রনের কারণে",
+    "B": "কিছুই না",
+    "C": "প্রোটনের কারণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "অধাতু ইলেকট্রন গ্রহণ করে —",
+   "options": {
+    "A": "জারক",
+    "B": "বিজারক",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "আয়নিক যৌগ কঠিন অবস্থায় —",
+   "options": {
+    "A": "পরিবাহী",
+    "B": "অপরিবাহী",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "আমালগামে —",
+   "options": {
+    "A": "লোহা থাকে",
+    "B": "পারদ থাকে",
+    "C": "কোনোটিই নয়",
+    "D": "তামা থাকে"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "কাঁচা লোহায় কার্বন —",
+   "options": {
+    "A": "২–৪%",
+    "B": "শূন্য",
+    "C": "০.১%",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "ক্রোম প্লেটিং —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষয়",
+    "D": "মরিচা রোধ ও চকচকে"
+   },
+   "correctAnswer": "D",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "লোহার প্রধান ব্যবহার —",
+   "options": {
+    "A": "নির্মাণ ও যন্ত্রপাতিতে",
+    "B": "কোনোটিই নয়",
+    "C": "গহনায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "Fe CuSO₄ দ্রবণ থেকে Cu সরায় — কারণ?",
+   "options": {
+    "A": "Fe Cu এর চেয়ে সক্রিয়",
+    "B": "Fe কম সক্রিয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "আকরিক থেকে ধাতু আলাদা করা হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "নিষ্কাশনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "ধাতুর পরিবাহিতার কারণ —",
+   "options": {
+    "A": "মুক্ত ইলেকট্রন",
+    "B": "নিউট্রন",
+    "C": "কোনোটিই নয়",
+    "D": "প্রোটন"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "অধাতু তড়িৎ-ঋণাত্মক —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "ধাতু ক্যাটায়ন, অধাতু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যানায়ন গঠন করে",
+    "C": "ক্যাটায়ন গঠন করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "ব্রোঞ্জের ব্যবহার —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "মূর্তি, মুদ্রা, যন্ত্রে"
+   },
+   "correctAnswer": "D",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "CaCO₃ উত্তপ্ত করলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "CaO + CO₂",
+    "C": "CaO + O₂",
+    "D": "Ca + CO₂"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "মরিচা রোধে —",
+   "options": {
+    "A": "পানি",
+    "B": "কোনোটিই নয়",
+    "C": "রং, গ্যালভানাইজিং, তেল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "অ্যালুমিনিয়ামের ধর্ম —",
+   "options": {
+    "A": "ভারী",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "হালকা, মজবুত, জারণরোধী"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "Na₂O + H₂O → ?",
+   "options": {
+    "A": "Na₂CO₃",
+    "B": "কোনোটিই নয়",
+    "C": "2NaOH",
+    "D": "NaCl"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "খনি থেকে উত্তোলন —",
+   "options": {
+    "A": "গলন বলে",
+    "B": "কোনোটিই নয়",
+    "C": "খনন বলে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "ক্ষার ধাতুর প্রকৃতি —",
+   "options": {
+    "A": "অত্যন্ত সক্রিয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "নিষ্ক্রিয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "অধাতু আয়ন গঠনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ইলেকট্রন ত্যাগ করে",
+    "D": "ইলেকট্রন গ্রহণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "আয়নিক যৌগ বিদ্যুৎ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সবসময় অপরিবাহী",
+    "D": "গলিত/দ্রবীভূত অবস্থায় পরিবাহী"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "সংকর ধাতু কাকে বলে?",
+   "options": {
+    "A": "বিশুদ্ধ ধাতু",
+    "B": "কোনোটিই নয়",
+    "C": "দুই বা ততোধিক ধাতুর মিশ্রণ",
+    "D": "অধাতু"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "খুব কম সক্রিয় ধাতু (Au, Ag) —",
+   "options": {
+    "A": "মুক্ত অবস্থায় পাওয়া যায়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "আকরিকে"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "গ্যালভানাইজিংয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তামা",
+    "C": "দস্তা (Zn) ব্যবহৃত হয়",
+    "D": "সোনা"
+   },
+   "correctAnswer": "C",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "তামা —",
+   "options": {
+    "A": "অপরিবাহী",
+    "B": "ভালো বিদ্যুৎ পরিবাহী",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "2Cu + O₂ → ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "2CuO",
+    "C": "CuO₂",
+    "D": "Cu₂O"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "খনিজ সম্পদ কাকে বলে?",
+   "options": {
+    "A": "প্রকৃতিতে প্রাপ্ত মূল্যবান খনিজ পদার্থ",
+    "B": "কোনোটিই নয়",
+    "C": "কৃত্রিম পদার্থ",
+    "D": "প্লাস্টিক"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "সোনা মরিচা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ধরে না",
+    "C": "ধরে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "অধাতু সাধারণত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তরল",
+    "C": "গ্যাস বা কঠিন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "অধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "সবচেয়ে কম সক্রিয় ধাতু —",
+   "options": {
+    "A": "সোনা/প্লাটিনাম",
+    "B": "কোনোটিই নয়",
+    "C": "সোডিয়াম",
+    "D": "পটাসিয়াম"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "সংকর ধাতুর ধর্ম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মূল ধাতুর চেয়ে ভালো",
+    "C": "খারাপ",
+    "D": "সমান"
+   },
+   "correctAnswer": "B",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "ব্লাস্ট ফার্নেসে কোক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বিজারক ও জ্বালানি",
+    "D": "শুধু জ্বালানি"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "মরিচা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "লোহার ক্ষয়",
+    "C": "কোনোটিই নয়",
+    "D": "লোহার গঠন"
+   },
+   "correctAnswer": "B",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "তামার রং —",
+   "options": {
+    "A": "হলুদ",
+    "B": "রুপালি সাদা",
+    "C": "কোনোটিই নয়",
+    "D": "লালচে-বাদামি"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "Fe + CuSO₄ → ?",
+   "options": {
+    "A": "FeSO₄ + Cu",
+    "B": "কোনোটিই নয়",
+    "C": "FeSO₄ + CuO",
+    "D": "Fe + Cu"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "অ্যালুমিনিয়াম ক্যান রিসাইক্লিং —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শক্তি ও খনিজ সাশ্রয়",
+    "C": "অপচয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "ধাতু আয়ন গঠনে —",
+   "options": {
+    "A": "ইলেকট্রন গ্রহণ করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ইলেকট্রন ত্যাগ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "MgO পানিতে দ্রবীভূত হয়ে —",
+   "options": {
+    "A": "নিরপেক্ষ",
+    "B": "ক্ষারীয় দ্রবণ",
+    "C": "কোনোটিই নয়",
+    "D": "অম্লীয় দ্রবণ"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "পিতল —",
+   "options": {
+    "A": "সাদা",
+    "B": "কোনোটিই নয়",
+    "C": "হলুদ রঙের",
+    "D": "লাল"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "ইস্পাতের ব্যবহার —",
+   "options": {
+    "A": "নির্মাণ, যন্ত্র, বাসনপত্র",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "লোহার মরিচা —",
+   "options": {
+    "A": "FeO",
+    "B": "কোনোটিই নয়",
+    "C": "Fe₃O₄",
+    "D": "Fe₂O₃·xH₂O"
+   },
+   "correctAnswer": "D",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "পারদ —",
+   "options": {
+    "A": "থার্মোমিটারে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "সক্রিয়তা সিরিজে উপরের ধাতু —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "নিচের ধাতুকে প্রতিস্থাপন করে",
+    "D": "করে না"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "ধাতুর পুনর্ব্যবহার (রিসাইক্লিং) —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অপচয়",
+    "C": "সংরক্ষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "সোডিয়াম কেরোসিনে রাখা হয় — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সুন্দর লাগে",
+    "C": "বাতাস-পানির সাথে তীব্র বিক্রিয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "ধাতু-অধাতুর যৌগ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আয়নিক",
+    "C": "ধাতব",
+    "D": "সমযোজী"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "স্টেইনলেস স্টিল —",
+   "options": {
+    "A": "লোহা + কার্বন",
+    "B": "কোনোটিই নয়",
+    "C": "লোহা + ক্রোমিয়াম + নিকেল",
+    "D": "তামা + দস্তা"
+   },
+   "correctAnswer": "C",
+   "topic": "সংকর ধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "ভস্মীকরণে আকরিক —",
+   "options": {
+    "A": "পানিতে ডোবানো হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বাতাসে উত্তপ্ত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "দস্তা লোহার চেয়ে —",
+   "options": {
+    "A": "সক্রিয়",
+    "B": "কোনোটিই নয়",
+    "C": "সমান",
+    "D": "কম সক্রিয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "রান্নার পাত্রে —",
+   "options": {
+    "A": "পটাসিয়াম",
+    "B": "কোনোটিই নয়",
+    "C": "অ্যালুমিনিয়াম",
+    "D": "সোডিয়াম"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "Cu + HCl → ?",
+   "options": {
+    "A": "বিক্রিয়া হয় না",
+    "B": "CuCl₂ + H₂",
+    "C": "CuCl₂ + O₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "খনিজ সম্পদের টেকসই উত্তোলন —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "জরুরি",
+    "C": "জরুরি নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "ধাতুর ঘনত্ব —",
+   "options": {
+    "A": "সাধারণত বেশি",
+    "B": "সাধারণত কম",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "ধাতু ও অধাতুর মিলনে লবণ —",
+   "options": {
+    "A": "ধাতব",
+    "B": "আয়নিক যৌগ",
+    "C": "কোনোটিই নয়",
+    "D": "সমযোজী যৌগ"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "ধাতু নিষ্কাশনে তড়িৎ বিশ্লেষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিষ্ক্রিয় ধাতুর জন্য",
+    "C": "সক্রিয় ধাতুর জন্য",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "মরিচার রং —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নীল",
+    "C": "সবুজ",
+    "D": "লালচে-বাদামি"
+   },
+   "correctAnswer": "D",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "অ্যালুমিনিয়াম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হালকা",
+    "C": "কিছুই না",
+    "D": "ভারী"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর ব্যবহার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "ধাতব অক্সাইড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অম্লীয়",
+    "C": "ক্ষারীয়",
+    "D": "নিরপেক্ষ"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "রসায়ন খনিজ সম্পদকে —",
+   "options": {
+    "A": "করে না",
+    "B": "কিছুই না",
+    "C": "ব্যাখ্যা ও ব্যবহারে সাহায্য করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "হালকা ধাতু —",
+   "options": {
+    "A": "সোডিয়াম, পটাসিয়াম",
+    "B": "কোনোটিই নয়",
+    "C": "সোনা",
+    "D": "প্লাটিনাম"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "সমযোজী যৌগ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "উচ্চ গলনাঙ্ক",
+    "D": "নিম্ন গলনাঙ্ক"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "অ্যালুমিনিয়াম নিষ্কাশন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তড়িৎ বিশ্লেষণে",
+    "C": "ব্লাস্ট ফার্নেসে",
+    "D": "দহনে"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "মরিচা ধরার শর্ত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু অক্সিজেন",
+    "C": "শুধু পানি",
+    "D": "অক্সিজেন ও পানি"
+   },
+   "correctAnswer": "D",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "2Mg + O₂ → ?",
+   "options": {
+    "A": "MgO₂",
+    "B": "Mg₂O",
+    "C": "2MgO",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি —",
+   "options": {
+    "A": "কয়লা, পেট্রোলিয়াম, গ্যাস",
+    "B": "কোনোটিই নয়",
+    "C": "লোহা",
+    "D": "তামা"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "সোডিয়াম বাতাসে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দ্রুত জারিত হয়",
+    "C": "কিছুই না",
+    "D": "জারিত হয় না"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "ধাতু ও অধাতু উভয়ই —",
+   "options": {
+    "A": "জীবনের জন্য প্রয়োজন",
+    "B": "প্রয়োজন নয়",
+    "C": "কোনোটিই নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "কাঁচা লোহা (pig iron) —",
+   "options": {
+    "A": "সংকর",
+    "B": "ব্লাস্ট ফার্নেসের উৎপাদ",
+    "C": "কোনোটিই নয়",
+    "D": "বিশুদ্ধ লোহা"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "মরিচা ধরা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "তড়িৎরাসায়নিক প্রক্রিয়া",
+    "C": "কোনোটিই নয়",
+    "D": "ভৌত প্রক্রিয়া"
+   },
+   "correctAnswer": "B",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "4Na + O₂ → ?",
+   "options": {
+    "A": "2Na₂O",
+    "B": "NaO",
+    "C": "কোনোটিই নয়",
+    "D": "Na₂O₂"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "ধাতু ও অধাতু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নেই",
+    "C": "অপ্রয়োজনীয়",
+    "D": "আধুনিক সভ্যতার ভিত্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "ধাতু ধনাত্মক আয়ন (ক্যাটায়ন) —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "গঠন করে",
+    "C": "কোনোটিই নয়",
+    "D": "গঠন করে না"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "সক্রিয়তা সিরিজে K, Na, Ca, Mg —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিষ্ক্রিয়",
+    "C": "সক্রিয় ধাতু",
+    "D": "কম সক্রিয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "নিষ্ক্রিয় ধাতু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আকরিকে",
+    "C": "মুক্ত অবস্থায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "মরিচা রোধে ক্রোমিয়াম প্লেটিং —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষয়কারী",
+    "D": "চকচকে ও রোধক"
+   },
+   "correctAnswer": "D",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "CuO এর রং —",
+   "options": {
+    "A": "নীল",
+    "B": "কোনোটিই নয়",
+    "C": "কালো",
+    "D": "সাদা"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "আকরিকে ধাতু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "থাকে না",
+    "D": "লাভজনক পরিমাণে থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "সোনা ও রুপা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষয় হয়",
+    "C": "কিছুই না",
+    "D": "ক্ষয় হয় না"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "ধাতু ও অধাতুর পার্থক্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রঙে শুধু",
+    "C": "কোনোটিই নয়",
+    "D": "পরিবাহিতা, দীপ্তি, ঘাতসহতায়"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "ব্লাস্ট ফার্নেসে গরম বাতাস —",
+   "options": {
+    "A": "প্রবাহিত করা হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "করা হয় না"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "মরিচা ধরার জন্য অক্সিজেন —",
+   "options": {
+    "A": "প্রয়োজন",
+    "B": "প্রয়োজন নয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "Cu + FeSO₄ → ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বিক্রিয়া হয় না",
+    "D": "CuSO₄ + Fe"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "খনিজ সম্পদ ও রসায়ন —",
+   "options": {
+    "A": "দুর্বল",
+    "B": "কোনোটিই নয়",
+    "C": "ওতপ্রোতভাবে জড়িত",
+    "D": "সম্পর্কহীন"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "তরল ধাতু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তামা",
+    "C": "লোহা",
+    "D": "পারদ (Hg)"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "আয়নিক যৌগের বৈশিষ্ট্য —",
+   "options": {
+    "A": "নিম্ন গলনাঙ্ক",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "উচ্চ গলনাঙ্ক, পানিতে দ্রবণীয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "তড়িৎ বিশ্লেষণে অ্যানোডে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "জারণ হয়",
+    "D": "বিজারণ হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "মরিচা ধরার জন্য আর্দ্র বাতাস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্রয়োজন",
+    "C": "প্রয়োজন নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "Zn + CuSO₄ → ?",
+   "options": {
+    "A": "ZnSO₄ + CuO",
+    "B": "কোনোটিই নয়",
+    "C": "Zn + Cu",
+    "D": "ZnSO₄ + Cu"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "খনিজ সম্পদ ভবিষ্যৎ প্রজন্মের জন্য —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "জরুরি নয়",
+    "C": "সংরক্ষণ জরুরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "ঘণ্টায় ঝনঝন শব্দ — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ধাতুর সোনোরাস ধর্ম",
+    "C": "কিছুই না",
+    "D": "অধাতুর ধর্ম"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "ধাতুর সক্রিয়তা সিরিজে Na —",
+   "options": {
+    "A": "নিচে",
+    "B": "মাঝে",
+    "C": "উপরে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "বক্সাইট —",
+   "options": {
+    "A": "Fe₂O₃",
+    "B": "CuO",
+    "C": "Al₂O₃",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "লবণাক্ত পানিতে লোহা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ধরে না",
+    "D": "দ্রুত মরিচা ধরে"
+   },
+   "correctAnswer": "D",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "অম্লের সাথে বিক্রিয়ায় H₂ দেয় —",
+   "options": {
+    "A": "H এর উপরের ধাতু",
+    "B": "H এর নিচের ধাতু",
+    "C": "কোনোটিই নয়",
+    "D": "সব ধাতু"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "বাংলাদেশের কয়লা খনি —",
+   "options": {
+    "A": "কাপ্তাই",
+    "B": "রূপপুর",
+    "C": "কোনোটিই নয়",
+    "D": "বড়পুকুরিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "ধাতুকে টেনে তার করা যায় — ধর্ম?",
+   "options": {
+    "A": "প্রসারণক্ষমতা",
+    "B": "ভঙ্গুরতা",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "সোনা পানিতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "তীব্র বিক্রিয়া",
+    "C": "বিক্রিয়া করে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "সোনা প্রকৃতিতে —",
+   "options": {
+    "A": "আকরিকে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "মুক্ত অবস্থায়"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "লোহা পানিতে ডুবিয়ে বাতাস ছাড়া রাখলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মরিচা ধরে না",
+    "C": "ধরে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "ধাতব অক্সাইড অম্লের সাথে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "লবণ + H₂",
+    "C": "লবণ + পানি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর রাসায়নিক ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "খনিজ সম্পদ অধ্যায় শিক্ষায় —",
+   "options": {
+    "A": "ঐচ্ছিক",
+    "B": "অগুরুত্বপূর্ণ",
+    "C": "কোনোটিই নয়",
+    "D": "গুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "ধাতু বিজারক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "হিসেবে কাজ করে",
+    "D": "জারক হিসেবে"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "H₂O —",
+   "options": {
+    "A": "ধাতব",
+    "B": "সমযোজী যৌগ",
+    "C": "কোনোটিই নয়",
+    "D": "আয়নিক যৌগ"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "স্ল্যাগের কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অপদ্রব্য অপসারণ",
+    "D": "ধাতু তৈরি"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "মরিচা ধরলে লোহা —",
+   "options": {
+    "A": "ক্ষয় হয়",
+    "B": "কিছুই না",
+    "C": "মজবুত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "খনিজের শ্রেণিবিভাগ —",
+   "options": {
+    "A": "ধাতব ও অধাতব",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু অধাতব",
+    "D": "শুধু ধাতব"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "ধাতু ইলেকট্রন দান করে —",
+   "options": {
+    "A": "বিজারক",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "জারক"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "ধাতু-অধাতুর যৌগে —",
+   "options": {
+    "A": "ইলেকট্রন স্থানান্তর হয়",
+    "B": "শেয়ার হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "ইস্পাতের কঠিনতা —",
+   "options": {
+    "A": "বেশি",
+    "B": "কোনোটিই নয়",
+    "C": "কম",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "সক্রিয় ধাতু (Zn) লোহার চেয়ে —",
+   "options": {
+    "A": "পরে ক্ষয় হয়",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষয় হয় না",
+    "D": "আগে ক্ষয় হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "রিসাইক্লিংয়ে শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অপচয় হয়",
+    "C": "সাশ্রয় হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "Na → Na⁺ + e⁻ —",
+   "options": {
+    "A": "জারণ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বিজারণ"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "ধাতু তড়িৎ-ধনাত্মক, অধাতু —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "তড়িৎ-ঋণাত্মক",
+    "D": "তড়িৎ-ধনাত্মক"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "রুপা প্রকৃতিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আকরিকে",
+    "C": "মুক্ত অবস্থায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "মরিচা রোধের সস্তা পদ্ধতি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্রোম প্লেটিং",
+    "C": "রং করা",
+    "D": "গ্যালভানাইজিং"
+   },
+   "correctAnswer": "C",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "বাংলাদেশের গ্যাসক্ষেত্র —",
+   "options": {
+    "A": "বড়পুকুরিয়া",
+    "B": "কাপ্তাই",
+    "C": "কোনোটিই নয়",
+    "D": "তিতাস, বাখরাবাদ"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "সবচেয়ে হালকা ধাতু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লোহা",
+    "C": "তামা",
+    "D": "লিথিয়াম"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "ধাতু অক্সিজেনে পুড়ে —",
+   "options": {
+    "A": "ক্ষারীয় অক্সাইড",
+    "B": "অম্লীয় অক্সাইড",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "Al₂O₃ গলানোর জন্য —",
+   "options": {
+    "A": "ক্রায়োলাইট ব্যবহৃত হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পানি"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "ক্যাথোডিক সুরক্ষা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষয়",
+    "C": "মরিচা রোধের পদ্ধতি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "খনন পরবর্তী পুনর্বাসন —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "দরকার নেই",
+    "C": "কোনোটিই নয়",
+    "D": "জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "ধাতু বিদ্যুৎ —",
+   "options": {
+    "A": "করে না",
+    "B": "পরিবহণ করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "ধাতু ও অধাতুর মিলনে —",
+   "options": {
+    "A": "আয়নিক যৌগ হয়",
+    "B": "কোনোটিই নয়",
+    "C": "সমযোজী যৌগ হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "ইস্পাত তৈরিতে কাঁচা লোহা থেকে —",
+   "options": {
+    "A": "ধাতু যোগ হয়",
+    "B": "কোনোটিই নয়",
+    "C": "অপদ্রব্য দূর করা হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "ইলেকট্রোপ্লেটিং —",
+   "options": {
+    "A": "তেল লাগানো",
+    "B": "রং করা",
+    "C": "তড়িৎ বিশ্লেষণে ধাতুর প্রলেপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "আধুনিক শিল্প —",
+   "options": {
+    "A": "নির্ভরশীল নয়",
+    "B": "ধাতুর উপর নির্ভরশীল",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "ধাতু —",
+   "options": {
+    "A": "ঘাতসহ (ম্যালিয়েবল)",
+    "B": "ভঙ্গুর",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "ধাতু পানির সাথে বিক্রিয়া করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষার ও H₂",
+    "C": "অম্ল ও H₂",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "তামার আকরিক —",
+   "options": {
+    "A": "হেমাটাইট",
+    "B": "কোনোটিই নয়",
+    "C": "বক্সাইট",
+    "D": "কপার পাইরাইট (CuFeS₂)"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "মরিচা রোধে তেল/গ্রিজ —",
+   "options": {
+    "A": "বাতাস ও পানি আটকায়",
+    "B": "কিছুই না",
+    "C": "ক্ষয় বাড়ায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "খনিজ সম্পদের উদাহরণ —",
+   "options": {
+    "A": "লোহা, তামা, কয়লা, গ্যাস",
+    "B": "কোনোটিই নয়",
+    "C": "কাগজ",
+    "D": "প্লাস্টিক"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "ভারী ধাতু —",
+   "options": {
+    "A": "সোডিয়াম",
+    "B": "কোনোটিই নয়",
+    "C": "লোহা, তামা, সোনা",
+    "D": "পটাসিয়াম"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "CO₂ পানিতে দ্রবীভূত হয়ে —",
+   "options": {
+    "A": "অম্লীয় দ্রবণ",
+    "B": "নিরপেক্ষ",
+    "C": "কোনোটিই নয়",
+    "D": "ক্ষারীয় দ্রবণ"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "ধাতু নিষ্কাশনে আকরিককে আগে —",
+   "options": {
+    "A": "ফেলে দেওয়া হয়",
+    "B": "কোনোটিই নয়",
+    "C": "বিশুদ্ধ করা হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "গ্যালভানাইজিং লোহাকে —",
+   "options": {
+    "A": "ক্ষয় বাড়ায়",
+    "B": "মরিচা থেকে রক্ষা করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "খনিজ —",
+   "options": {
+    "A": "কৃত্রিম পদার্থ",
+    "B": "প্রাকৃতিক অজৈব পদার্থ",
+    "C": "জৈব পদার্থ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "ধাতু ঘণ্টায় ঝনঝন শব্দ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দেয়",
+    "C": "কোনোটিই নয়",
+    "D": "দেয় না"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "C + O₂ → ?",
+   "options": {
+    "A": "CO₂",
+    "B": "C₂O",
+    "C": "কোনোটিই নয়",
+    "D": "CO"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "কোক থেকে উৎপন্ন CO —",
+   "options": {
+    "A": "জারক",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বিজারক"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "মরিচা রোধে রং —",
+   "options": {
+    "A": "ক্ষয় বাড়ায়",
+    "B": "বাতাস-পানি রোধ করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "খনন পদ্ধতি —",
+   "options": {
+    "A": "শুধু ভূগর্ভ",
+    "B": "কোনোটিই নয়",
+    "C": "খোলা খনি ও ভূগর্ভস্থ খনি",
+    "D": "শুধু খোলা"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "সোডিয়াম ধাতু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নরম, ছুরিতে কাটা যায়",
+    "C": "কঠিন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "অধাতুর অক্সাইড —",
+   "options": {
+    "A": "নিরপেক্ষ",
+    "B": "ক্ষারীয়",
+    "C": "অম্লীয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "ক্যালসাইট/চুনাপাথর —",
+   "options": {
+    "A": "Al₂O₃",
+    "B": "কোনোটিই নয়",
+    "C": "CaCO₃",
+    "D": "Fe₂O₃"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "গ্যালভানাইজিংয়ে দস্তা —",
+   "options": {
+    "A": "অ্যানোড হয়",
+    "B": "ক্যাথোড হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মরিচা ও ক্ষয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "খনিজ সম্পদের গুরুত্ব —",
+   "options": {
+    "A": "শিল্প ও অর্থনীতিতে",
+    "B": "নেই",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "ধাতব বন্ধনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ইলেকট্রন থাকে না",
+    "C": "মুক্ত ইলেকট্রন থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "অধাতু অক্সিজেনে পুড়ে —",
+   "options": {
+    "A": "ক্ষারীয় অক্সাইড",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অম্লীয় অক্সাইড"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু-অধাতু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "অ্যালুমিনিয়াম নিষ্কাশনে বিদ্যুৎ —",
+   "options": {
+    "A": "বেশি লাগে",
+    "B": "কম লাগে",
+    "C": "লাগে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "অধাতব খনিজ —",
+   "options": {
+    "A": "তামার আকরিক",
+    "B": "কয়লা, পেট্রোলিয়াম, গ্যাস",
+    "C": "লোহার আকরিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "ধাতব বন্ধনের মুক্ত ইলেকট্রন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পরিবাহিতা দেয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "কাঁচা লোহার অপদ্রব্য দূর করে —",
+   "options": {
+    "A": "ইস্পাত তৈরি হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কাঁচা লোহাই থাকে"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "খনিজ সম্পদ —",
+   "options": {
+    "A": "সীমিত",
+    "B": "অসীম",
+    "C": "অফুরন্ত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "সবচেয়ে ভালো বিদ্যুৎ পরিবাহী —",
+   "options": {
+    "A": "রুপা",
+    "B": "লোহা",
+    "C": "তামা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "লোহার আকরিক —",
+   "options": {
+    "A": "বক্সাইট",
+    "B": "ক্যালসাইট",
+    "C": "কোনোটিই নয়",
+    "D": "হেমাটাইট (Fe₂O₃), ম্যাগনেটাইট (Fe₃O₄)"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "খনিজ সম্পদের অপচয় —",
+   "options": {
+    "A": "ক্ষতিকর",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "উপকারী"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "ধাতব দীপ্তি আছে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অধাতুতে",
+    "D": "ধাতুতে"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "ব্লাস্ট ফার্নেসে তাপমাত্রা —",
+   "options": {
+    "A": "স্বাভাবিক",
+    "B": "খুব উঁচু",
+    "C": "কোনোটিই নয়",
+    "D": "কম"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "বাংলাদেশে চুনাপাথর —",
+   "options": {
+    "A": "সিলেটে পাওয়া যায়",
+    "B": "চট্টগ্রামে",
+    "C": "ঢাকায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "ধাতুকে পিটিয়ে পাত করা যায় — ধর্ম?",
+   "options": {
+    "A": "ঘাতসহতা",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ভঙ্গুরতা"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "ব্লাস্ট ফার্নেসের নাম — কারণ?",
+   "options": {
+    "A": "ঠান্ডা বাতাস",
+    "B": "কোনোটিই নয়",
+    "C": "গরম বাতাস প্রবাহিত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "খনিজ সম্পদের সঠিক ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দরকার নেই",
+    "C": "জরুরি নয়",
+    "D": "জাতীয় উন্নয়নে জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "সোডিয়াম পানিতে ভাসে — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভারী",
+    "C": "কিছুই না",
+    "D": "পানির চেয়ে হালকা"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতুর ধর্ম",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "স্প্রিং, ছুরি, কাঁচি —",
+   "options": {
+    "A": "ইস্পাতের তৈরি",
+    "B": "অধাতুর",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "খনিজ সম্পদের পুনর্ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "করে না",
+    "C": "সংরক্ষণে সাহায্য করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "গলিত NaCl তড়িৎ বিশ্লেষণে ক্যাথোডে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "Na",
+    "C": "H₂",
+    "D": "Cl₂"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "ধাতু-অধাতু অধ্যায়ের মূল —",
+   "options": {
+    "A": "গতি",
+    "B": "ধর্ম, নিষ্কাশন, ব্যবহার",
+    "C": "শব্দ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "অ্যালুমিনিয়াম নিষ্কাশনে গলিত —",
+   "options": {
+    "A": "Fe₂O₃",
+    "B": "কোনোটিই নয়",
+    "C": "Al₂O₃",
+    "D": "CuO"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "খনিজ পদার্থ পাওয়া যায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সমুদ্র থেকে শুধু",
+    "D": "খনি থেকে"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "অ্যালুমিনিয়ামের আকরিক —",
+   "options": {
+    "A": "ক্যালসাইট",
+    "B": "কোনোটিই নয়",
+    "C": "বক্সাইট (Al₂O₃)",
+    "D": "হেমাটাইট"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "খনিজ সম্পদ সংরক্ষণ —",
+   "options": {
+    "A": "জরুরি",
+    "B": "কোনোটিই নয়",
+    "C": "দরকার নেই",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "ক্যালসিনেশনে আকরিক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বাতাসে উত্তপ্ত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "বাতাস ছাড়া উত্তপ্ত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "খননের পরিবেশগত প্রভাব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মাটি ক্ষয়, দূষণ",
+    "C": "উপকার",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "খনিজ সম্পদ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "হেমাটাইট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "FeO",
+    "C": "Fe₂O₃",
+    "D": "Fe₃O₄"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "ব্লাস্ট ফার্নেসে চুনাপাথর —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বিজারক",
+    "C": "কোনোটিই নয়",
+    "D": "অপদ্রব্য দূর করে"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "চুনাপাথর স্ল্যাগ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "করে না",
+    "C": "গঠন করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "আকরিক থেকে ধাতু নিষ্কাশন —",
+   "options": {
+    "A": "গলানো/বিজারণে",
+    "B": "দহনে",
+    "C": "গলনে শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "মাঝারি সক্রিয় ধাতু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "কার্বন বিজারণে নিষ্কাশন",
+    "D": "তড়িৎ বিশ্লেষণে"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "কার্বনেট আকরিক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্যালসিনেশন হয়",
+    "C": "কোনোটিই নয়",
+    "D": "রোস্টিং হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "সক্রিয় ধাতু আকরিক থেকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কার্বন বিজারণে",
+    "C": "কোনোটিই নয়",
+    "D": "তড়িৎ বিশ্লেষণে নিষ্কাশন"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "সক্রিয় ধাতু (Na, Al) নিষ্কাশনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কার্বন বিজারণ",
+    "C": "তড়িৎ বিশ্লেষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "ইস্পাতে কার্বন —",
+   "options": {
+    "A": "২–৪%",
+    "B": "০.১–১.৫%",
+    "C": "কোনোটিই নয়",
+    "D": "৫%"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "লোহা নিষ্কাশন —",
+   "options": {
+    "A": "ব্যয়বহুল",
+    "B": "অ্যালুমিনিয়ামের চেয়ে সস্তা",
+    "C": "কোনোটিই নয়",
+    "D": "সমান"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "লোহার আকরিক থেকে লোহা —",
+   "options": {
+    "A": "বিজারণে নিষ্কাশন হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "জারণে"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "ফ্রথ ফ্লোটেশনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "আকরিক আলাদা হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "ক্রায়োলাইট —",
+   "options": {
+    "A": "Al₂O₃ এর গলনাঙ্ক কমায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বাড়ায়"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "তড়িৎ বিশ্লেষণে ধাতু নিষ্কাশন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কম সক্রিয়ের জন্য",
+    "D": "সক্রিয় ধাতুর জন্য"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "সোডিয়াম নিষ্কাশন —",
+   "options": {
+    "A": "দহনে",
+    "B": "ব্লাস্ট ফার্নেসে",
+    "C": "কোনোটিই নয়",
+    "D": "তড়িৎ বিশ্লেষণে"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "তড়িৎ বিশ্লেষণে ইলেকট্রন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অ্যানোড থেকে ক্যাথোডে",
+    "D": "ক্যাথোড থেকে অ্যানোডে প্রবাহিত"
+   },
+   "correctAnswer": "D",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "তড়িৎ বিশ্লেষণে ক্যাথোডে —",
+   "options": {
+    "A": "ধাতু জমে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "গ্যাস জমে"
+   },
+   "correctAnswer": "A",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "ঢালাই লোহা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বিশুদ্ধ লোহা",
+    "C": "কাঁচা লোহার শোধন",
+    "D": "সংকর নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "ধাতু নিষ্কাশনের পদ্ধতি নির্ভর করে —",
+   "options": {
+    "A": "রঙের উপর",
+    "B": "সক্রিয়তার উপর",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "স্ল্যাগ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অপদ্রব্যের স্তর",
+    "C": "কোনোটিই নয়",
+    "D": "বিশুদ্ধ ধাতু"
+   },
+   "correctAnswer": "B",
+   "topic": "ধাতু নিষ্কাশন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "C",
+  "2": "B",
+  "3": "C",
+  "4": "D",
+  "5": "C",
+  "6": "C",
+  "7": "A",
+  "8": "D",
+  "9": "D",
+  "10": "B",
+  "11": "A",
+  "12": "A",
+  "13": "C",
+  "14": "B",
+  "15": "B",
+  "16": "A",
+  "17": "D",
+  "18": "D",
+  "19": "D",
+  "20": "C",
+  "21": "A",
+  "22": "A",
+  "23": "D",
+  "24": "B",
+  "25": "A",
+  "26": "A",
+  "27": "A",
+  "28": "C",
+  "29": "B",
+  "30": "D",
+  "31": "D",
+  "32": "D",
+  "33": "C",
+  "34": "B",
+  "35": "B",
+  "36": "A",
+  "37": "D",
+  "38": "B",
+  "39": "C",
+  "40": "D",
+  "41": "C",
+  "42": "B",
+  "43": "D",
+  "44": "D",
+  "45": "C",
+  "46": "A",
+  "47": "A",
+  "48": "D",
+  "49": "C",
+  "50": "B",
+  "51": "C",
+  "52": "A",
+  "53": "A",
+  "54": "B",
+  "55": "A",
+  "56": "C",
+  "57": "B",
+  "58": "A",
+  "59": "D",
+  "60": "C",
+  "61": "C",
+  "62": "D",
+  "63": "C",
+  "64": "C",
+  "65": "D",
+  "66": "B",
+  "67": "D",
+  "68": "D",
+  "69": "B",
+  "70": "B",
+  "71": "A",
+  "72": "B",
+  "73": "D",
+  "74": "C",
+  "75": "A",
+  "76": "D",
+  "77": "D",
+  "78": "A",
+  "79": "C",
+  "80": "B",
+  "81": "A",
+  "82": "C",
+  "83": "B",
+  "84": "B",
+  "85": "D",
+  "86": "D",
+  "87": "B",
+  "88": "A",
+  "89": "C",
+  "90": "B",
+  "91": "C",
+  "92": "C",
+  "93": "D",
+  "94": "B",
+  "95": "A",
+  "96": "D",
+  "97": "C",
+  "98": "B",
+  "99": "C",
+  "100": "A",
+  "101": "D",
+  "102": "C",
+  "103": "D",
+  "104": "B",
+  "105": "B",
+  "106": "B",
+  "107": "D",
+  "108": "A",
+  "109": "A",
+  "110": "D",
+  "111": "D",
+  "112": "A",
+  "113": "B",
+  "114": "D",
+  "115": "A",
+  "116": "A",
+  "117": "D",
+  "118": "D",
+  "119": "C",
+  "120": "A",
+  "121": "C",
+  "122": "B",
+  "123": "A",
+  "124": "B",
+  "125": "C",
+  "126": "B",
+  "127": "A",
+  "128": "B",
+  "129": "C",
+  "130": "A",
+  "131": "D",
+  "132": "D",
+  "133": "C",
+  "134": "B",
+  "135": "C",
+  "136": "B",
+  "137": "C",
+  "138": "D",
+  "139": "D",
+  "140": "B",
+  "141": "A",
+  "142": "B",
+  "143": "B",
+  "144": "D",
+  "145": "D",
+  "146": "B",
+  "147": "B",
+  "148": "C",
+  "149": "D",
+  "150": "A",
+  "151": "D",
+  "152": "D",
+  "153": "D",
+  "154": "D",
+  "155": "B",
+  "156": "C",
+  "157": "D",
+  "158": "D",
+  "159": "B",
+  "160": "C",
+  "161": "A",
+  "162": "D",
+  "163": "A",
+  "164": "A",
+  "165": "D",
+  "166": "B",
+  "167": "A",
+  "168": "A",
+  "169": "A",
+  "170": "A",
+  "171": "D",
+  "172": "C",
+  "173": "B",
+  "174": "B",
+  "175": "D",
+  "176": "D",
+  "177": "A",
+  "178": "A",
+  "179": "B",
+  "180": "D",
+  "181": "D",
+  "182": "A",
+  "183": "A",
+  "184": "A",
+  "185": "B",
+  "186": "B",
+  "187": "A",
+  "188": "D",
+  "189": "A",
+  "190": "A",
+  "191": "C",
+  "192": "A",
+  "193": "A",
+  "194": "B",
+  "195": "D",
+  "196": "B",
+  "197": "C",
+  "198": "D",
+  "199": "C",
+  "200": "C",
+  "201": "A",
+  "202": "D",
+  "203": "D",
+  "204": "C",
+  "205": "A",
+  "206": "C",
+  "207": "B",
+  "208": "B",
+  "209": "A",
+  "210": "B",
+  "211": "C",
+  "212": "A",
+  "213": "B",
+  "214": "C",
+  "215": "B",
+  "216": "D",
+  "217": "A",
+  "218": "B",
+  "219": "D",
+  "220": "B",
+  "221": "C",
+  "222": "A",
+  "223": "D",
+  "224": "A",
+  "225": "C",
+  "226": "C",
+  "227": "C",
+  "228": "B",
+  "229": "C",
+  "230": "D",
+  "231": "A",
+  "232": "C",
+  "233": "A",
+  "234": "B",
+  "235": "A",
+  "236": "B",
+  "237": "C",
+  "238": "D",
+  "239": "B",
+  "240": "C",
+  "241": "C",
+  "242": "A",
+  "243": "D",
+  "244": "B",
+  "245": "D",
+  "246": "C",
+  "247": "A",
+  "248": "B",
+  "249": "A",
+  "250": "B",
+  "251": "B",
+  "252": "A",
+  "253": "D",
+  "254": "B",
+  "255": "C",
+  "256": "C",
+  "257": "D",
+  "258": "C",
+  "259": "D",
+  "260": "D",
+  "261": "D",
+  "262": "A",
+  "263": "A",
+  "264": "C",
+  "265": "C",
+  "266": "D",
+  "267": "D",
+  "268": "C",
+  "269": "B",
+  "270": "D",
+  "271": "C",
+  "272": "B",
+  "273": "C",
+  "274": "C",
+  "275": "D",
+  "276": "A",
+  "277": "D",
+  "278": "A",
+  "279": "C",
+  "280": "D",
+  "281": "B",
+  "282": "C",
+  "283": "D",
+  "284": "C",
+  "285": "B",
+  "286": "C",
+  "287": "A",
+  "288": "A",
+  "289": "A",
+  "290": "A",
+  "291": "A",
+  "292": "D",
+  "293": "C",
+  "294": "A",
+  "295": "C",
+  "296": "C",
+  "297": "C",
+  "298": "D",
+  "299": "D",
+  "300": "A",
+  "301": "A",
+  "302": "C",
+  "303": "D",
+  "304": "B",
+  "305": "A",
+  "306": "C",
+  "307": "C",
+  "308": "B",
+  "309": "A",
+  "310": "B",
+  "311": "D",
+  "312": "A",
+  "313": "A",
+  "314": "C",
+  "315": "A",
+  "316": "C",
+  "317": "B",
+  "318": "B",
+  "319": "B",
+  "320": "A",
+  "321": "D",
+  "322": "B",
+  "323": "C",
+  "324": "B",
+  "325": "C",
+  "326": "C",
+  "327": "A",
+  "328": "A",
+  "329": "C",
+  "330": "D",
+  "331": "A",
+  "332": "B",
+  "333": "B",
+  "334": "A",
+  "335": "A",
+  "336": "A",
+  "337": "D",
+  "338": "A",
+  "339": "D",
+  "340": "B",
+  "341": "A",
+  "342": "A",
+  "343": "C",
+  "344": "D",
+  "345": "D",
+  "346": "A",
+  "347": "C",
+  "348": "B",
+  "349": "B",
+  "350": "C",
+  "351": "D",
+  "352": "C",
+  "353": "A",
+  "354": "D",
+  "355": "B",
+  "356": "C",
+  "357": "D",
+  "358": "C",
+  "359": "A",
+  "360": "C",
+  "361": "B",
+  "362": "D",
+  "363": "C",
+  "364": "B",
+  "365": "B",
+  "366": "A",
+  "367": "C",
+  "368": "A",
+  "369": "D",
+  "370": "D",
+  "371": "D",
+  "372": "A",
+  "373": "C",
+  "374": "B",
+  "375": "B"
+ }
+}
