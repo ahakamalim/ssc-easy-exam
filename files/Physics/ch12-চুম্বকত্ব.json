@@ -1,7 +1,7058 @@
 {
-  "subject": "পদার্থবিজ্ঞান",
-  "chapterNo": 12,
-  "chapter": "চুম্বকত্ব",
-  "questions": [],
-  "answerBox": {}
+ "subject": "পদার্থবিজ্ঞান",
+ "chapterNo": 12,
+ "chapter": "চুম্বকত্ব",
+ "questions": [
+  {
+   "question": "অচুম্বকায়িত পদার্থে ডোমেইন —",
+   "options": {
+    "A": "এলোমেলো",
+    "B": "সমান্তরাল",
+    "C": "গলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "উত্তর ও দক্ষিণ মেরু —",
+   "options": {
+    "A": "আকর্ষণ করে",
+    "B": "বিকর্ষণ করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "চৌম্বক ক্ষেত্রে চলমান আধানে বল —",
+   "options": {
+    "A": "লরেঞ্জ বল",
+    "B": "মহাকর্ষ বল",
+    "C": "ঘর্ষণ বল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "চৌম্বক বিনতি (dip) কাকে বলে?",
+   "options": {
+    "A": "অনুভূমিক থেকে কোণ",
+    "B": "উল্লম্ব কোণ",
+    "C": "যেকোনো কোণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "ইস্পাত সহজে চুম্বকিত হয় —",
+   "options": {
+    "A": "না (ধীরে)",
+    "B": "হ্যাঁ",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "তড়িৎচুম্বকীয় আবেশ কে আবিষ্কার করেন?",
+   "options": {
+    "A": "ফ্যারাডে",
+    "B": "অরস্টেড",
+    "C": "ওহম",
+    "D": "কুলম্ব"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "কিউরি তাপমাত্রায় চুম্বক —",
+   "options": {
+    "A": "চুম্বকত্ব হারায়",
+    "B": "চুম্বকত্ব লাভ করে",
+    "C": "গলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "দুটি উত্তর মেরু —",
+   "options": {
+    "A": "বিকর্ষণ করে",
+    "B": "আকর্ষণ করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "চৌম্বক ক্ষেত্র প্রাবল্য দূরত্ব বাড়লে —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "নাবিকেরা দিক নির্ণয় করে —",
+   "options": {
+    "A": "কম্পাসে",
+    "B": "তাপে",
+    "C": "আলোতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "চুম্বকীয় ধারণ ক্ষমতা (retentivity) —",
+   "options": {
+    "A": "ইস্পাতের বেশি",
+    "B": "নরম লোহার বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "কয়েলের মধ্যে চুম্বক ঢোকালে —",
+   "options": {
+    "A": "তড়িৎ আবেশিত হয়",
+    "B": "তাপ হয়",
+    "C": "আলো হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "চুম্বকত্ব তথ্য সংরক্ষণে —",
+   "options": {
+    "A": "হার্ড ডিস্কে ব্যবহৃত হয়",
+    "B": "হয় না",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "চৌম্বক মেরুর বলের সূত্র —",
+   "options": {
+    "A": "কুলম্বের সূত্রের অনুরূপ",
+    "B": "ওহমের সূত্র",
+    "C": "জুলের সূত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "বলরেখার ঘনত্ব ক্ষেত্রের প্রাবল্যের —",
+   "options": {
+    "A": "সমানুপাতিক",
+    "B": "ব্যস্তানুপাতিক",
+    "C": "কোনো সম্পর্ক নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "বিনতি কোণ ০° হয় —",
+   "options": {
+    "A": "চৌম্বক বিষুবরেখায়",
+    "B": "মেরুতে",
+    "C": "সব জায়গায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেট নরম লোহার — কারণ?",
+   "options": {
+    "A": "দ্রুত বিচুম্বকায়ন",
+    "B": "স্থায়ী চুম্বকত্ব",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "চুম্বক থেকে তড়িৎ —",
+   "options": {
+    "A": "জেনারেটর",
+    "B": "ইলেকট্রোম্যাগনেট",
+    "C": "মোটর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "অচুম্বকীয় পদার্থ —",
+   "options": {
+    "A": "তামা, কাঠ, কাচ",
+    "B": "লোহা, নিকেল",
+    "C": "কোবাল্ট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "একক মেরু (monopole) —",
+   "options": {
+    "A": "পাওয়া যায় না",
+    "B": "পাওয়া যায়",
+    "C": "সাধারণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "চৌম্বক ক্ষেত্রে আধান চললে —",
+   "options": {
+    "A": "বল লাভ করে",
+    "B": "বল লাভ করে না",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "ভূ-চৌম্বকত্বের ব্যবহার —",
+   "options": {
+    "A": "দিক নির্ণয়, নৌচালনা",
+    "B": "রান্না",
+    "C": "মাপা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "নরম লোহা —",
+   "options": {
+    "A": "অস্থায়ী চুম্বক",
+    "B": "স্থায়ী চুম্বক",
+    "C": "চুম্বক নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "সোলেনয়েডের পাক সংখ্যা বাড়ালে ক্ষেত্র —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "ডোমেইন এলোমেলো থাকলে বস্তু —",
+   "options": {
+    "A": "চুম্বক নয়",
+    "B": "চুম্বক",
+    "C": "প্রবল চুম্বক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "ঝুলন্ত চুম্বক —",
+   "options": {
+    "A": "উত্তর-দক্ষিণে স্থির হয়",
+    "B": "পূর্ব-পশ্চিমে",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "দুটি চুম্বকের বিপরীত মেরু কাছে আনলে বলরেখা —",
+   "options": {
+    "A": "এক মেরু থেকে অন্য মেরুতে যায়",
+    "B": "ছেদ করে",
+    "C": "শূন্য হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "ভৌগোলিক উত্তর মেরুর কাছে —",
+   "options": {
+    "A": "চৌম্বক দক্ষিণ মেরু",
+    "B": "চৌম্বক উত্তর মেরু",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "কম্পাসের কাঁটা ইস্পাতের — কারণ?",
+   "options": {
+    "A": "স্থায়ী চুম্বকত্ব",
+    "B": "অস্থায়ী",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "উচ্চ বিভবে বিদ্যুৎ সঞ্চালনে —",
+   "options": {
+    "A": "শক্তি অপচয় কম",
+    "B": "অপচয় বেশি",
+    "C": "একই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "চুম্বক দূর থেকে লোহা আকর্ষণ করে — কারণ?",
+   "options": {
+    "A": "চৌম্বক বল অস্পর্শ বল",
+    "B": "স্পর্শ বল",
+    "C": "ঘর্ষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "উত্তর ও দক্ষিণ মেরু কাছে আনলে —",
+   "options": {
+    "A": "আকর্ষণ হয়",
+    "B": "বিকর্ষণ হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "চৌম্বক বলরেখা পরস্পর —",
+   "options": {
+    "A": "ছেদ করে না",
+    "B": "ছেদ করে",
+    "C": "স্পর্শ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "চৌম্বক বিষুবরেখায় বিনতি কোণ —",
+   "options": {
+    "A": "০°",
+    "B": "৯০°",
+    "C": "৪৫°",
+    "D": "১৮০°"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "চুম্বকীয় আবেশ কাকে বলে?",
+   "options": {
+    "A": "চুম্বকের সান্নিধ্যে চুম্বকত্ব লাভ",
+    "B": "তাপ লাভ",
+    "C": "আলো লাভ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "তড়িৎ থেকে চুম্বক —",
+   "options": {
+    "A": "ইলেকট্রোম্যাগনেট",
+    "B": "জেনারেটর",
+    "C": "ট্রান্সফরমার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "চুম্বক কী আকর্ষণ করে?",
+   "options": {
+    "A": "লোহা, নিকেল, কোবাল্ট",
+    "B": "তামা",
+    "C": "কাঠ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "ঝুলন্ত চুম্বকের উত্তরমুখী প্রান্ত —",
+   "options": {
+    "A": "উত্তর মেরু",
+    "B": "দক্ষিণ মেরু",
+    "C": "নিরপেক্ষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "চুম্বক থেকে দূরে গেলে ক্ষেত্র —",
+   "options": {
+    "A": "দুর্বল",
+    "B": "প্রবল",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "পৃথিবীর চৌম্বক মেরু —",
+   "options": {
+    "A": "ভৌগোলিক মেরুর কাছে",
+    "B": "ভৌগোলিক মেরুতে",
+    "C": "কোথাও নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "আবেশে চুম্বকীয় পদার্থ —",
+   "options": {
+    "A": "চুম্বকিত হয়",
+    "B": "গলে যায়",
+    "C": "তাপ দেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "তড়িৎবাহী তারের চৌম্বক ক্ষেত্র বৃত্তাকার —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "কিউরি তাপমাত্রার উপরে —",
+   "options": {
+    "A": "ফেরোম্যাগনেটিক ধর্ম হারায়",
+    "B": "চুম্বকত্ব বাড়ে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "ঝুলন্ত চুম্বকের দক্ষিণমুখী মেরু —",
+   "options": {
+    "A": "দক্ষিণ মেরু",
+    "B": "উত্তর মেরু",
+    "C": "নিরপেক্ষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "চৌম্বক ক্ষেত্রে স্থির আধান —",
+   "options": {
+    "A": "বল লাভ করে না",
+    "B": "বল লাভ করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "চৌম্বক মেরুতে বিনতি —",
+   "options": {
+    "A": "৯০°",
+    "B": "০°",
+    "C": "৪৫°",
+    "D": "১৮০°"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "নরম লোহার ধারণ ক্ষমতা —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "স্টেপ-ডাউন ট্রান্সফরমার —",
+   "options": {
+    "A": "বিভব কমায়",
+    "B": "বিভব বাড়ায়",
+    "C": "একই রাখে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "অ্যালুমিনিয়াম চুম্বক দ্বারা —",
+   "options": {
+    "A": "আকৃষ্ট হয় না",
+    "B": "আকৃষ্ট হয়",
+    "C": "বিকর্ষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "লোহার গুঁড়া চুম্বকের মাঝে —",
+   "options": {
+    "A": "কম লেগে থাকে",
+    "B": "বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "চৌম্বক ক্ষেত্রের দিক নির্দেশ করে —",
+   "options": {
+    "A": "কম্পাসের উত্তর মেরু",
+    "B": "দক্ষিণ মেরু",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "চৌম্বক মেরুতে বিনতি কোণ —",
+   "options": {
+    "A": "৯০°",
+    "B": "০°",
+    "C": "৪৫°",
+    "D": "১৮০°"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "চুম্বক সরিয়ে নিলে ইস্পাতের চুম্বকত্ব —",
+   "options": {
+    "A": "থেকে যায়",
+    "B": "চলে যায়",
+    "C": "কমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেটের ব্যবহার ক্রেনে —",
+   "options": {
+    "A": "লোহা তুলতে",
+    "B": "পানি তুলতে",
+    "C": "কাঠ তুলতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "চুম্বক গরম করে কিউরি তাপমাত্রায় নিলে —",
+   "options": {
+    "A": "চুম্বকত্ব নষ্ট হয়",
+    "B": "চুম্বকত্ব বাড়ে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "চুম্বক সুতায় ঝুলিয়ে দিলে —",
+   "options": {
+    "A": "উত্তর-দক্ষিণে থাকে",
+    "B": "পূর্ব-পশ্চিমে",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "চৌম্বক বলরেখা বদ্ধ —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "চৌম্বক বিনতি কোণ মাপার যন্ত্র —",
+   "options": {
+    "A": "ডিপ নিডল",
+    "B": "কম্পাস",
+    "C": "ব্যারোমিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "চুম্বকীয় আবেশে বস্তু —",
+   "options": {
+    "A": "চুম্বকত্ব লাভ করে",
+    "B": "তাপ লাভ করে",
+    "C": "আলো লাভ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেটে প্রবাহ বাড়ালে শক্তি —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "চুম্বকের যত্ন —",
+   "options": {
+    "A": "আঘাত ও তাপ থেকে রক্ষা",
+    "B": "গরম রাখা",
+    "C": "আঘাত করা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "দুটি চুম্বকের দূরত্ব ৩ গুণ করলে বল কত গুণ হয়?",
+   "options": {
+    "A": "১/৯",
+    "B": "১/৩",
+    "C": "৩",
+    "D": "৯"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "চৌম্বক ক্ষেত্র প্রাবল্যের একক —",
+   "options": {
+    "A": "টেসলা",
+    "B": "নিউটন",
+    "C": "জুল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "পৃথিবীর অভ্যন্তরে —",
+   "options": {
+    "A": "গলিত লোহা প্রবাহিত হয়",
+    "B": "কঠিন লোহা",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "চুম্বক লোহা আকর্ষণ করে —",
+   "options": {
+    "A": "আবেশের কারণে",
+    "B": "তাপে",
+    "C": "আলোতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "তড়িৎ প্রবাহ চুম্বক ক্ষেত্র তৈরি করে —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "লোহা চুম্বক দ্বারা —",
+   "options": {
+    "A": "আকৃষ্ট হয়",
+    "B": "বিকর্ষিত হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "চুম্বককে যত ভাঙা হোক প্রতিটি অংশে —",
+   "options": {
+    "A": "দুই মেরু",
+    "B": "এক মেরু",
+    "C": "মেরু নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "লোহার গুঁড়া দিয়ে —",
+   "options": {
+    "A": "বলরেখা দেখানো হয়",
+    "B": "তাপ মাপা হয়",
+    "C": "আলো মাপা হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "পৃথিবী একটি বিশাল —",
+   "options": {
+    "A": "চুম্বক",
+    "B": "তাপ উৎস",
+    "C": "আলো উৎস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "আবেশে লোহার কাছে —",
+   "options": {
+    "A": "বিপরীত মেরু",
+    "B": "সম মেরু",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "চলমান আধান চৌম্বক ক্ষেত্র তৈরি করে —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "চুম্বকীয় পদার্থের উদাহরণ নয় —",
+   "options": {
+    "A": "তামা",
+    "B": "লোহা",
+    "C": "নিকেল",
+    "D": "কোবাল্ট"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "চুম্বকের মেরু কয়টি?",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "৪",
+    "D": "৫"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "চৌম্বক ক্ষেত্র মাপা হয় —",
+   "options": {
+    "A": "টেসলায়",
+    "B": "ওহমে",
+    "C": "ভোল্টে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "কম্পাসের কাঁটা উত্তর দিকে ঘোরে — কারণ?",
+   "options": {
+    "A": "পৃথিবীর চুম্বকত্ব",
+    "B": "সূর্য",
+    "C": "চাঁদ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "আবেশে চুম্বকীয় পদার্থে —",
+   "options": {
+    "A": "আকর্ষণ হয়",
+    "B": "বিকর্ষণ হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেটের চুম্বকত্ব প্রবাহ দিয়ে —",
+   "options": {
+    "A": "নিয়ন্ত্রণ করা যায়",
+    "B": "নিয়ন্ত্রণ হয় না",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "MRI তে —",
+   "options": {
+    "A": "শক্তিশালী চুম্বক ব্যবহৃত হয়",
+    "B": "তাপ হয়",
+    "C": "আলো হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "চুম্বকীয় শক্তি সবচেয়ে বেশি —",
+   "options": {
+    "A": "মেরুতে",
+    "B": "মাঝে",
+    "C": "সব জায়গায় সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "চৌম্বক ফ্লাক্সের একক —",
+   "options": {
+    "A": "ওয়েবার",
+    "B": "টেসলা",
+    "C": "ওহম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "কম্পাসের উত্তরমুখী মেরু আসলে —",
+   "options": {
+    "A": "চৌম্বক দক্ষিণ মেরুর দিকে",
+    "B": "উত্তর দিকে",
+    "C": "পূর্বে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "অস্থায়ী চুম্বক তৈরি হয় —",
+   "options": {
+    "A": "নরম লোহায়",
+    "B": "ইস্পাতে",
+    "C": "তামায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "তড়িৎ ও চুম্বক একই মুদ্রার দুই পিঠ —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "অচুম্বকীয় পদার্থে ডোমেইন —",
+   "options": {
+    "A": "নেই",
+    "B": "আছে",
+    "C": "গলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "চুম্বকের মেরু শক্তি মাপার একক —",
+   "options": {
+    "A": "অ্যাম্পিয়ার-মিটার",
+    "B": "ওহম",
+    "C": "ভোল্ট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "চুম্বকের মাঝে বলরেখা —",
+   "options": {
+    "A": "কম ঘন",
+    "B": "বেশি ঘন",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "কম্পাসের ব্যবহার —",
+   "options": {
+    "A": "দিক নির্ণয়",
+    "B": "তাপ মাপা",
+    "C": "আলো মাপা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "নরম লোহা সহজে চুম্বকিত হয় —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "সোলেনয়েডে লোহার কোর ঢুকালে ক্ষেত্র —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "হার্ড ডিস্কে তথ্য —",
+   "options": {
+    "A": "চৌম্বকীয়ভাবে সঞ্চিত হয়",
+    "B": "তাপে",
+    "C": "আলোতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "চুম্বকের মেরুর শক্তি দ্বিগুণ করলে বল —",
+   "options": {
+    "A": "দ্বিগুণ হয়",
+    "B": "চার গুণ হয়",
+    "C": "অর্ধেক হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "চৌম্বক ক্ষেত্রের প্রাবল্য B একক —",
+   "options": {
+    "A": "টেসলা",
+    "B": "নিউটন",
+    "C": "জুল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "অরোরা (মেরুপ্রভা) —",
+   "options": {
+    "A": "চৌম্বক মেরুর কাছে দেখা যায়",
+    "B": "বিষুবরেখায়",
+    "C": "সব জায়গায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "চুম্বকীয় আবেশের প্রয়োগ —",
+   "options": {
+    "A": "ইলেকট্রোম্যাগনেট, মোটর",
+    "B": "ইস্ত্রি",
+    "C": "কেটলি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "ডান হাতের নিয়মে বৃদ্ধাঙ্গুলি নির্দেশ করে —",
+   "options": {
+    "A": "প্রবাহের দিক",
+    "B": "ক্ষেত্রের দিক",
+    "C": "বলের দিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "চুম্বকায়নের ফলে পদার্থ —",
+   "options": {
+    "A": "চুম্বক হয়",
+    "B": "গলে যায়",
+    "C": "তাপ দেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "দুটি চুম্বকের দূরত্ব অর্ধেক করলে বল কত গুণ হয়?",
+   "options": {
+    "A": "৪",
+    "B": "২",
+    "C": "১/২",
+    "D": "১/৪"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "চুম্বকের ভেতরে বলরেখা —",
+   "options": {
+    "A": "দক্ষিণ থেকে উত্তরে",
+    "B": "উত্তর থেকে দক্ষিণে",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "চৌম্বক বিনতি কোণ সর্বোচ্চ —",
+   "options": {
+    "A": "মেরুতে",
+    "B": "বিষুবরেখায়",
+    "C": "সব জায়গায় সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "স্থায়ী চুম্বক তৈরি হয় —",
+   "options": {
+    "A": "ইস্পাতে",
+    "B": "নরম লোহায়",
+    "C": "তামায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "জেনারেটর কোন নিয়মে কাজ করে?",
+   "options": {
+    "A": "ফ্যারাডের আবেশ নিয়ম",
+    "B": "বাম হাত নিয়ম",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "চুম্বকত্ব নষ্ট করার উপায় —",
+   "options": {
+    "A": "তাপ, আঘাত",
+    "B": "ঠান্ডা",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "চুম্বকের দূরত্ব দ্বিগুণ করলে বল —",
+   "options": {
+    "A": "এক-চতুর্থাংশ",
+    "B": "অর্ধেক",
+    "C": "দ্বিগুণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "লোহার গুঁড়া চুম্বকের মেরুতে —",
+   "options": {
+    "A": "বেশি জমে",
+    "B": "কম জমে",
+    "C": "জমে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "চৌম্বক বিনতি কোণ সর্বনিম্ন —",
+   "options": {
+    "A": "বিষুবরেখায়",
+    "B": "মেরুতে",
+    "C": "সব জায়গায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেট —",
+   "options": {
+    "A": "অস্থায়ী চুম্বক",
+    "B": "স্থায়ী চুম্বক",
+    "C": "চুম্বক নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "বিদ্যুৎ সঞ্চালনে —",
+   "options": {
+    "A": "ট্রান্সফরমার ব্যবহৃত হয়",
+    "B": "হয় না",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "চুম্বকত্ব ছাড়া —",
+   "options": {
+    "A": "আধুনিক প্রযুক্তি অসম্ভব",
+    "B": "সব সম্ভব",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "কম্পাসের উত্তর মেরু চুম্বকের উত্তর মেরুকে —",
+   "options": {
+    "A": "বিকর্ষণ করে",
+    "B": "আকর্ষণ করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "চুম্বকের কাছে গেলে ক্ষেত্র —",
+   "options": {
+    "A": "প্রবল",
+    "B": "দুর্বল",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "বিনতি কোণ ৯০° হয় —",
+   "options": {
+    "A": "চৌম্বক মেরুতে",
+    "B": "বিষুবরেখায়",
+    "C": "সব জায়গায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "ইস্পাতের ধারণ ক্ষমতা নরম লোহার চেয়ে —",
+   "options": {
+    "A": "বেশি",
+    "B": "কম",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেটের ব্যবহার —",
+   "options": {
+    "A": "ক্রেন, ঘণ্টা, রিলে",
+    "B": "ইস্ত্রি",
+    "C": "কেটলি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "পরমাণুতে ইলেকট্রনের কক্ষপথে ঘূর্ণনে —",
+   "options": {
+    "A": "চুম্বকত্ব হয়",
+    "B": "তাপ হয়",
+    "C": "আলো হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "চুম্বকের মাঝখানে চুম্বকত্ব —",
+   "options": {
+    "A": "সবচেয়ে কম",
+    "B": "সবচেয়ে বেশি",
+    "C": "শূন্য নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "চুম্বকের বলরেখা দেখতে —",
+   "options": {
+    "A": "লোহার গুঁড়া ব্যবহার হয়",
+    "B": "পানি ব্যবহার হয়",
+    "C": "তেল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "কম্পাসের কাঁটা সবসময় —",
+   "options": {
+    "A": "উত্তর-দক্ষিণে থাকে",
+    "B": "পূর্ব-পশ্চিমে",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "চুম্বক সরিয়ে নিলে আবেশিত চুম্বকত্ব —",
+   "options": {
+    "A": "নরম লোহায় হারায়",
+    "B": "ইস্পাতে থাকে",
+    "C": "দুটোতেই থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "তড়িৎবাহী সরল তারের ক্ষেত্র —",
+   "options": {
+    "A": "সমকেন্দ্রিক বৃত্ত",
+    "B": "সরলরেখা",
+    "C": "কোনো ক্ষেত্র নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "লোহা কোন ধরনের চুম্বকীয় পদার্থ?",
+   "options": {
+    "A": "ফেরোম্যাগনেটিক",
+    "B": "প্যারাম্যাগনেটিক",
+    "C": "ডায়াম্যাগনেটিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "চুম্বকের উত্তর মেরুর প্রতীক —",
+   "options": {
+    "A": "N",
+    "B": "S",
+    "C": "E",
+    "D": "W"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "চৌম্বক বলরেখার দিক —",
+   "options": {
+    "A": "উত্তর থেকে দক্ষিণে",
+    "B": "দক্ষিণ থেকে উত্তরে",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "কম্পাসের কাঁটার ঘর্ষণ কমাতে —",
+   "options": {
+    "A": "পিভট ধারালো হয়",
+    "B": "ভোঁতা হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "চুম্বকীয় আবেশে চুম্বকত্ব —",
+   "options": {
+    "A": "অস্থায়ী হয়",
+    "B": "স্থায়ী হয়",
+    "C": "চিরস্থায়ী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "সোলেনয়েডের ভেতরে ক্ষেত্র সুষম —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "চুম্বকায়নে ডোমেইন ঘুরে —",
+   "options": {
+    "A": "একদিকে হয়",
+    "B": "এলোমেলো হয়",
+    "C": "গলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "চুম্বক লোহাকে আকর্ষণ করে —",
+   "options": {
+    "A": "দুই মেরুই",
+    "B": "শুধু উত্তর মেরু",
+    "C": "শুধু দক্ষিণ মেরু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "বলরেখার দিক নির্ণয়ে —",
+   "options": {
+    "A": "কম্পাস ব্যবহার হয়",
+    "B": "থার্মোমিটার",
+    "C": "ব্যারোমিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "কম্পাসের কাঁটার উত্তর প্রান্ত লাল রঙের —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "চুম্বক সরিয়ে নিলে নরম লোহার চুম্বকত্ব —",
+   "options": {
+    "A": "চলে যায়",
+    "B": "থেকে যায়",
+    "C": "বাড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "মোটরের মূল অংশ —",
+   "options": {
+    "A": "চুম্বক ও কয়েল",
+    "B": "শুধু চুম্বক",
+    "C": "শুধু কয়েল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "চুম্বকত্ব নষ্ট হয় —",
+   "options": {
+    "A": "তাপে ও আঘাতে",
+    "B": "ঠান্ডায়",
+    "C": "বিশ্রামে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "চুম্বকের মেরু শক্তির একক —",
+   "options": {
+    "A": "অ্যাম্পিয়ার-মিটার",
+    "B": "ওহম-মিটার",
+    "C": "ভোল্ট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "চৌম্বক ফ্লাক্স কাকে বলে?",
+   "options": {
+    "A": "ক্ষেত্রের লম্বে বলরেখার সংখ্যা",
+    "B": "বলরেখা নয়",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "চৌম্বক বিষুবরেখায় বিনতি —",
+   "options": {
+    "A": "০°",
+    "B": "৯০°",
+    "C": "৪৫°",
+    "D": "১৮০°"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "চুম্বকীয় আবেশের ব্যবহার —",
+   "options": {
+    "A": "ইলেকট্রোম্যাগনেট, চুম্বকায়ন",
+    "B": "ইস্ত্রি",
+    "C": "কেটলি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "ট্রান্সফরমারের কোর পাতলা পাত দিয়ে তৈরি — কারণ?",
+   "options": {
+    "A": "এডি কারেন্ট কমাতে",
+    "B": "ওজন বাড়াতে",
+    "C": "সৌন্দর্যে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "চুম্বকীয় পদার্থে ডোমেইন —",
+   "options": {
+    "A": "থাকে",
+    "B": "থাকে না",
+    "C": "গলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "চুম্বকের মাঝে আকর্ষণ —",
+   "options": {
+    "A": "সবচেয়ে কম",
+    "B": "বেশি",
+    "C": "শূন্য নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "চৌম্বক বলরেখা কাকে বলে?",
+   "options": {
+    "A": "ক্ষেত্রের দিক নির্দেশক রেখা",
+    "B": "তাপ রেখা",
+    "C": "আলো রেখা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "কম্পাসে দিক নির্দেশ করে —",
+   "options": {
+    "A": "চুম্বক কাঁটা",
+    "B": "তাপ",
+    "C": "আলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "ইস্পাতের ধারণ ক্ষমতা —",
+   "options": {
+    "A": "বেশি",
+    "B": "কম",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেটে প্রবাহ বন্ধ করলে চুম্বকত্ব —",
+   "options": {
+    "A": "চলে যায়",
+    "B": "থেকে যায়",
+    "C": "বাড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "কিপারের কাজ —",
+   "options": {
+    "A": "চুম্বকত্ব রক্ষা",
+    "B": "চুম্বকত্ব নষ্ট",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "চুম্বকের মেরুর অস্তিত্ব —",
+   "options": {
+    "A": "সবসময় জোড়ায়",
+    "B": "একক",
+    "C": "আলাদা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "বলরেখা বদ্ধ বক্ররেখা —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "ভূ-চৌম্বক ক্ষেত্রের উৎস —",
+   "options": {
+    "A": "পৃথিবীর অভ্যন্তরের প্রবাহ",
+    "B": "সূর্য",
+    "C": "চাঁদ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "স্থায়ী চুম্বকে —",
+   "options": {
+    "A": "ইস্পাত",
+    "B": "নরম লোহা",
+    "C": "তামা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "সোলেনয়েডে প্রবাহ দিলে —",
+   "options": {
+    "A": "চুম্বকের মতো আচরণ করে",
+    "B": "তাপ দেয়",
+    "C": "আলো দেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "বৈদ্যুতিক মোটরে চুম্বক —",
+   "options": {
+    "A": "প্রয়োজনীয়",
+    "B": "অপ্রয়োজনীয়",
+    "C": "ঐচ্ছিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "চুম্বককে উত্তর-দক্ষিণে রাখলে —",
+   "options": {
+    "A": "মেরু নির্দেশ করে",
+    "B": "গলে যায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "লোহার গুঁড়া চুম্বকের ক্ষেত্রে —",
+   "options": {
+    "A": "বলরেখা বরাবর সাজে",
+    "B": "এলোমেলো থাকে",
+    "C": "গলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "জাহাজ ও বিমানে দিক নির্ণয়ে —",
+   "options": {
+    "A": "কম্পাস/জাইরোস্কোপ",
+    "B": "থার্মোমিটার",
+    "C": "ব্যারোমিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "চুম্বকের কাছে লোহা আনলে লোহা —",
+   "options": {
+    "A": "চুম্বকিত হয়",
+    "B": "গলে যায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "সোলেনয়েডের বাইরের ক্ষেত্র —",
+   "options": {
+    "A": "দুর্বল",
+    "B": "প্রবল",
+    "C": "সুষম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "মাইক্রোফোনে চুম্বক —",
+   "options": {
+    "A": "শব্দকে তড়িতে রূপান্তর করে",
+    "B": "তাপে",
+    "C": "আলোতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "সমমেরু পরস্পরকে —",
+   "options": {
+    "A": "বিকর্ষণ করে",
+    "B": "আকর্ষণ করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "চুম্বকের বলরেখা ঘনত্ব মেরুতে —",
+   "options": {
+    "A": "বেশি",
+    "B": "কম",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "ভূ-চৌম্বক মেরু ও ভৌগোলিক মেরু —",
+   "options": {
+    "A": "একই নয়",
+    "B": "একই",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "কম্পাসের কাঁটা —",
+   "options": {
+    "A": "স্থায়ী চুম্বক",
+    "B": "অস্থায়ী চুম্বক",
+    "C": "চুম্বক নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেটের শক্তি নির্ভর করে —",
+   "options": {
+    "A": "পাক, প্রবাহ, কোর",
+    "B": "শুধু পাক",
+    "C": "শুধু প্রবাহ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "চুম্বকীয় পদার্থের উদাহরণ —",
+   "options": {
+    "A": "লোহা, নিকেল, কোবাল্ট",
+    "B": "তামা, কাঠ",
+    "C": "কাচ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "চুম্বকের দক্ষিণ মেরুর প্রতীক —",
+   "options": {
+    "A": "S",
+    "B": "N",
+    "C": "E",
+    "D": "W"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "চুম্বকের বলরেখা ঘনত্ব মাঝে —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "দিক নির্দেশক যন্ত্র কোনটি?",
+   "options": {
+    "A": "কম্পাস",
+    "B": "ব্যারোমিটার",
+    "C": "থার্মোমিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "আবেশে অচুম্বকীয় পদার্থ —",
+   "options": {
+    "A": "চুম্বকিত হয় না",
+    "B": "চুম্বকিত হয়",
+    "C": "গলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "সোলেনয়েডে কোর ঢুকালে —",
+   "options": {
+    "A": "ক্ষেত্র শক্তিশালী হয়",
+    "B": "দুর্বল হয়",
+    "C": "শূন্য হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "একক স্ট্রোক পদ্ধতিতে —",
+   "options": {
+    "A": "একদিকে ঘষা হয়",
+    "B": "দুদিকে ঘষা হয়",
+    "C": "ঘষা হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "চুম্বকের আকর্ষণ-বিকর্ষণের নিয়ম —",
+   "options": {
+    "A": "সম মেরু বিকর্ষণ, বিপরীত আকর্ষণ",
+    "B": "সম মেরু আকর্ষণ",
+    "C": "বিপরীত বিকর্ষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "বলরেখার স্পর্শক —",
+   "options": {
+    "A": "ক্ষেত্রের দিক নির্দেশ করে",
+    "B": "কিছুই না",
+    "C": "তাপ দেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "চৌম্বক বিনতি কোণ মাপা হয় —",
+   "options": {
+    "A": "ডিপ নিডলে",
+    "B": "কম্পাসে",
+    "C": "ব্যারোমিটারে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "আবেশ সবসময় আকর্ষণ —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেটের কোর —",
+   "options": {
+    "A": "নরম লোহা",
+    "B": "ইস্পাত",
+    "C": "কাঠ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "চুম্বককে আঘাত করলে ডোমেইন —",
+   "options": {
+    "A": "এলোমেলো হয়",
+    "B": "সাজে",
+    "C": "গলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "চুম্বকের মেরু কী?",
+   "options": {
+    "A": "উত্তর ও দক্ষিণ মেরু",
+    "B": "পূর্ব ও পশ্চিম",
+    "C": "শুধু উত্তর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "চুম্বকের বাইরে বলরেখা —",
+   "options": {
+    "A": "উত্তর থেকে দক্ষিণে",
+    "B": "দক্ষিণ থেকে উত্তরে",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "কম্পাস কোন দিক নির্দেশ করে?",
+   "options": {
+    "A": "উত্তর-দক্ষিণ",
+    "B": "পূর্ব-পশ্চিম",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "চুম্বকীয় আবেশে শক্তির —",
+   "options": {
+    "A": "অপচয় হয় না",
+    "B": "অপচয় হয়",
+    "C": "ক্ষতি হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "সোলেনয়েড কাকে বলে?",
+   "options": {
+    "A": "কুণ্ডলীকৃত তার",
+    "B": "সোজা তার",
+    "C": "ব্যাটারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "কিউরি তাপমাত্রা অতিক্রম করলে ডোমেইন —",
+   "options": {
+    "A": "এলোমেলো হয়",
+    "B": "সাজে",
+    "C": "গলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "চুম্বকের মেরুতে আকর্ষণ —",
+   "options": {
+    "A": "সর্বোচ্চ",
+    "B": "শূন্য",
+    "C": "মাঝারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "চুম্বকের মেরুতে বলরেখা —",
+   "options": {
+    "A": "বেশি ঘন",
+    "B": "কম ঘন",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "পৃথিবীর চৌম্বক ক্ষেত্র আমাদের রক্ষা করে —",
+   "options": {
+    "A": "সৌর বায়ু থেকে",
+    "B": "তাপ থেকে",
+    "C": "আলো থেকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "চুম্বকের উত্তর মেরুর কাছে লোহা আনলে লোহার কাছে —",
+   "options": {
+    "A": "দক্ষিণ মেরু",
+    "B": "উত্তর মেরু",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "চৌম্বক ক্ষেত্রের পরিবর্তনে —",
+   "options": {
+    "A": "তড়িৎ আবেশিত হয়",
+    "B": "তাপ হয়",
+    "C": "আলো হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "স্থায়ী চুম্বকের সুবিধা —",
+   "options": {
+    "A": "বাইরের শক্তি লাগে না",
+    "B": "শক্তি লাগে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "বিপরীত মেরু পরস্পরকে —",
+   "options": {
+    "A": "আকর্ষণ করে",
+    "B": "বিকর্ষণ করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "লরেঞ্জ বলের দিক নির্ণয়ে —",
+   "options": {
+    "A": "ফ্লেমিংয়ের বাম হাত নিয়ম",
+    "B": "ডান হাত নিয়ম",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "কম্পাস আবিষ্কার করেন —",
+   "options": {
+    "A": "চীনারা",
+    "B": "নিউটন",
+    "C": "গ্যালিলিও",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "অস্থায়ী চুম্বকে —",
+   "options": {
+    "A": "নরম লোহা",
+    "B": "ইস্পাত",
+    "C": "তামা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেটের সুবিধা —",
+   "options": {
+    "A": "চুম্বকত্ব নিয়ন্ত্রণযোগ্য",
+    "B": "নিয়ন্ত্রণযোগ্য নয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "চুম্বককে বারবার আঘাত করলে —",
+   "options": {
+    "A": "চুম্বকত্ব কমে",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "দুই মেরুর শক্তি ২ ও ৩ গুণ করলে বল কত গুণ হয়?",
+   "options": {
+    "A": "৬",
+    "B": "৫",
+    "C": "১",
+    "D": "২৫"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "চৌম্বক ক্ষেত্র একটি —",
+   "options": {
+    "A": "ভেক্টর রাশি",
+    "B": "স্কেলার রাশি",
+    "C": "মাত্রাহীন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "ভৌগোলিক দক্ষিণ মেরুর কাছে —",
+   "options": {
+    "A": "চৌম্বক উত্তর মেরু",
+    "B": "চৌম্বক দক্ষিণ মেরু",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "চুম্বক সরালে ইস্পাত —",
+   "options": {
+    "A": "চুম্বকত্ব রাখে",
+    "B": "হারায়",
+    "C": "কমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেটের চুম্বকত্ব —",
+   "options": {
+    "A": "অস্থায়ী",
+    "B": "স্থায়ী",
+    "C": "চিরস্থায়ী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "চুম্বককে গরম করলে চুম্বকত্ব —",
+   "options": {
+    "A": "নষ্ট হয়",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "চুম্বক ভাঙলে নতুন টুকরায় —",
+   "options": {
+    "A": "নতুন দুই মেরু",
+    "B": "মেরু থাকে না",
+    "C": "এক মেরু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "চৌম্বক ক্ষেত্র কাকে বলে?",
+   "options": {
+    "A": "চুম্বকের চারপাশের প্রভাব অঞ্চল",
+    "B": "তাপ অঞ্চল",
+    "C": "আলো অঞ্চল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "মেরুপ্রভা হয় —",
+   "options": {
+    "A": "সৌর বায়ু ও চৌম্বক ক্ষেত্রের মিথস্ক্রিয়ায়",
+    "B": "তাপে",
+    "C": "আলোতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "আবেশের সময় বস্তু —",
+   "options": {
+    "A": "চুম্বকের কাছে থাকে",
+    "B": "দূরে থাকে",
+    "C": "গলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেটের পাক সংখ্যা বাড়ালে শক্তি —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "তড়িৎ প্রবাহে চুম্বকায়ন —",
+   "options": {
+    "A": "দৃঢ় চুম্বক তৈরি করে",
+    "B": "দুর্বল করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "চুম্বকের মেরু সনাক্তকরণে —",
+   "options": {
+    "A": "কম্পাস",
+    "B": "থার্মোমিটার",
+    "C": "ব্যারোমিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "ফ্লেমিংয়ের বাম হাত নিয়মে তর্জনী —",
+   "options": {
+    "A": "ক্ষেত্রের দিক",
+    "B": "প্রবাহের দিক",
+    "C": "বলের দিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "সৌর বায়ু থেকে রক্ষা পাই —",
+   "options": {
+    "A": "চৌম্বক ক্ষেত্রে",
+    "B": "বায়ুমণ্ডলে শুধু",
+    "C": "ওজোনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "ইস্পাত —",
+   "options": {
+    "A": "স্থায়ী চুম্বক",
+    "B": "অস্থায়ী চুম্বক",
+    "C": "চুম্বক নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "বৈদ্যুতিক ঘণ্টায় —",
+   "options": {
+    "A": "ইলেকট্রোম্যাগনেট",
+    "B": "সাধারণ চুম্বক",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "চুম্বকীয় পদার্থের ডোমেইন —",
+   "options": {
+    "A": "সাজানো যায়",
+    "B": "সাজানো যায় না",
+    "C": "গলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "চুম্বকের মাঝামাঝি রেখাকে কী বলে?",
+   "options": {
+    "A": "নিরপেক্ষ রেখা",
+    "B": "মেরু রেখা",
+    "C": "অক্ষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "ফ্লেমিংয়ের বাম হাত নিয়মে বৃদ্ধাঙ্গুলি —",
+   "options": {
+    "A": "বলের দিক",
+    "B": "প্রবাহের দিক",
+    "C": "ক্ষেত্রের দিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "কম্পাসের কাঁটা ঘোরে —",
+   "options": {
+    "A": "পিভটে",
+    "B": "তাপে",
+    "C": "আলোতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভূ-চুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "আবেশে চুম্বকের কাছে বস্তুর —",
+   "options": {
+    "A": "বিপরীত মেরু সৃষ্টি হয়",
+    "B": "সম মেরু",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "ট্রান্সফরমারের ব্যবহার —",
+   "options": {
+    "A": "বিদ্যুৎ সঞ্চালনে",
+    "B": "রান্নায়",
+    "C": "মাপে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "চুম্বকত্ব দীর্ঘদিন রাখতে —",
+   "options": {
+    "A": "কিপার ব্যবহার হয়",
+    "B": "তাপ দেয়া হয়",
+    "C": "আঘাত করা হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "চুম্বকের মাঝখানে চুম্বকীয় শক্তি —",
+   "options": {
+    "A": "সবচেয়ে কম",
+    "B": "সবচেয়ে বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "চৌম্বক ক্ষেত্রের অপর একক —",
+   "options": {
+    "A": "গাউস",
+    "B": "টেসলা শুধু",
+    "C": "ওহম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "চুম্বক সরালে নরম লোহা —",
+   "options": {
+    "A": "চুম্বকত্ব হারায়",
+    "B": "চুম্বকত্ব রাখে",
+    "C": "বাড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকীয় আবেশ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "কয়েলে চুম্বক দ্রুত নাড়ালে —",
+   "options": {
+    "A": "বেশি তড়িৎ হয়",
+    "B": "কম তড়িৎ হয়",
+    "C": "তড়িৎ হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "কাঠ চুম্বক দ্বারা —",
+   "options": {
+    "A": "আকৃষ্ট হয় না",
+    "B": "আকৃষ্ট হয়",
+    "C": "বিকর্ষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "চুম্বকের এক মেরুর শক্তি ৩ গুণ করলে বল কত গুণ হয়?",
+   "options": {
+    "A": "৩",
+    "B": "৯",
+    "C": "১/৩",
+    "D": "একই"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "১ ওয়েবার = ?",
+   "options": {
+    "A": "১ টেসলা·মিটার²",
+    "B": "১ টেসলা/মিটার²",
+    "C": "১ টেসলা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "প্রবাহ বাড়ালে চৌম্বক ক্ষেত্র —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "চুম্বকায়নের পদ্ধতি —",
+   "options": {
+    "A": "ঘর্ষণ, তড়িৎ প্রবাহ",
+    "B": "শুধু ঘর্ষণ",
+    "C": "শুধু তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "চুম্বকীয় মেরুর মধ্যে বল —",
+   "options": {
+    "A": "কুলম্বের মতো নিয়ম মেনে চলে",
+    "B": "মানে না",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "চৌম্বক ক্ষেত্রের একক —",
+   "options": {
+    "A": "টেসলা",
+    "B": "ওহম",
+    "C": "ভোল্ট",
+    "D": "অ্যাম্পিয়ার"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "বৈদ্যুতিক ঘণ্টায় সার্কিট বারবার —",
+   "options": {
+    "A": "খোলে ও বন্ধ হয়",
+    "B": "খোলে না",
+    "C": "বন্ধ থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "চুম্বকত্বের ব্যবহার —",
+   "options": {
+    "A": "ব্যাপক",
+    "B": "সীমিত",
+    "C": "নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "চুম্বককে সুতায় ঝুলালে —",
+   "options": {
+    "A": "নির্দিষ্ট দিকে থাকে",
+    "B": "এলোমেলো ঘোরে",
+    "C": "স্থির থাকে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "চৌম্বক ক্ষেত্র প্রাবল্য মেরুতে —",
+   "options": {
+    "A": "সবচেয়ে বেশি",
+    "B": "কম",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "তড়িৎ প্রবাহের চুম্বকীয় প্রভাব আবিষ্কার করেন —",
+   "options": {
+    "A": "অরস্টেড",
+    "B": "ফ্যারাডে",
+    "C": "ওহম",
+    "D": "কুলম্ব"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "তড়িৎ প্রবাহ দিয়ে চুম্বকায়ন —",
+   "options": {
+    "A": "সম্ভব",
+    "B": "সম্ভব নয়",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "দুটি চুম্বকের দক্ষিণ মেরু কাছে আনলে —",
+   "options": {
+    "A": "বিকর্ষণ হয়",
+    "B": "আকর্ষণ হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "দুটি চুম্বকের সম মেরু কাছে আনলে বলরেখা —",
+   "options": {
+    "A": "বিকর্ষিত হয়",
+    "B": "আকৃষ্ট হয়",
+    "C": "শূন্য হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "সোলেনয়েডের ক্ষেত্র চুম্বকের মতো —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "তড়িৎ প্রবাহে লোহার দণ্ড —",
+   "options": {
+    "A": "চুম্বকিত হয়",
+    "B": "গলে যায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "চুম্বকত্বের সূত্র কুলম্বের সূত্রের মতো —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "টেসলা কার নামে?",
+   "options": {
+    "A": "নিকোলা টেসলা",
+    "B": "ওহম",
+    "C": "ফ্যারাডে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "তড়িৎ প্রবাহের চৌম্বক ক্ষেত্র আবিষ্কার —",
+   "options": {
+    "A": "১৮২০ সালে",
+    "B": "১৬০০ সালে",
+    "C": "১৯০০ সালে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "বৈদ্যুতিক মোটরে —",
+   "options": {
+    "A": "চুম্বক ব্যবহৃত হয়",
+    "B": "চুম্বক হয় না",
+    "C": "তাপ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "চুম্বকের উত্তর মেরুতে লিখা থাকে —",
+   "options": {
+    "A": "N",
+    "B": "S",
+    "C": "E",
+    "D": "W"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "চুম্বকের চারপাশে ক্ষেত্র কল্পনা করা হয় —",
+   "options": {
+    "A": "বলরেখা দিয়ে",
+    "B": "তাপ দিয়ে",
+    "C": "আলো দিয়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "কয়েলে চুম্বক স্থির রাখলে —",
+   "options": {
+    "A": "তড়িৎ আবেশিত হয় না",
+    "B": "তড়িৎ হয়",
+    "C": "তাপ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "চুম্বকীয় বল একটি —",
+   "options": {
+    "A": "ভেক্টর রাশি",
+    "B": "স্কেলার রাশি",
+    "C": "মাত্রাহীন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "চুম্বকের দক্ষিণ মেরুতে লিখা থাকে —",
+   "options": {
+    "A": "S",
+    "B": "N",
+    "C": "E",
+    "D": "W"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "চৌম্বক ক্ষেত্রে কম্পাস কাঁটা —",
+   "options": {
+    "A": "বলরেখার দিকে থাকে",
+    "B": "বিপরীতে",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "মোটর ও জেনারেটরের পার্থক্য —",
+   "options": {
+    "A": "শক্তি রূপান্তরের দিক",
+    "B": "কোনো পার্থক্য নেই",
+    "C": "আকার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "তামা কোন ধরনের?",
+   "options": {
+    "A": "ডায়াম্যাগনেটিক",
+    "B": "ফেরোম্যাগনেটিক",
+    "C": "প্যারাম্যাগনেটিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "নিরপেক্ষ রেখায় চুম্বকত্ব —",
+   "options": {
+    "A": "শূন্য",
+    "B": "সর্বোচ্চ",
+    "C": "মাঝারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "চুম্বকের চারপাশে ক্ষেত্র তৈরি হয় —",
+   "options": {
+    "A": "চুম্বকীয় ডোমেইনের কারণে",
+    "B": "তাপে",
+    "C": "আলোতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "তড়িৎ প্রবাহই চলমান আধান —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "চুম্বককে ঠান্ডা করলে ডোমেইন —",
+   "options": {
+    "A": "সাজানো থাকে",
+    "B": "এলোমেলো হয়",
+    "C": "গলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "চুম্বকের মেরু দুটি আলাদা করা —",
+   "options": {
+    "A": "সম্ভব নয়",
+    "B": "সম্ভব",
+    "C": "কখনো সম্ভব",
+    "D": "কখনো সম্ভব নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "বলরেখার ঘনত্ব বেশি হলে ক্ষেত্র —",
+   "options": {
+    "A": "প্রবল",
+    "B": "দুর্বল",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "তড়িৎবাহী তারের কাছে গেলে ক্ষেত্র —",
+   "options": {
+    "A": "প্রবল",
+    "B": "দুর্বল",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "চুম্বকীয় পদার্থ কাকে বলে?",
+   "options": {
+    "A": "চুম্বক দ্বারা আকৃষ্ট হয়",
+    "B": "আকৃষ্ট হয় না",
+    "C": "তাপ দেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "চুম্বকের মেরু শনাক্ত করতে —",
+   "options": {
+    "A": "কম্পাস ব্যবহার হয়",
+    "B": "থার্মোমিটার",
+    "C": "ব্যারোমিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "বলরেখার ঘনত্ব —",
+   "options": {
+    "A": "ক্ষেত্রের প্রাবল্য নির্দেশ করে",
+    "B": "কিছুই না",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেটের শক্তি বাড়াতে —",
+   "options": {
+    "A": "পাক সংখ্যা ও প্রবাহ বাড়াতে হয়",
+    "B": "কমাতে হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "ডোমেইন সাজানো থাকলে বস্তু —",
+   "options": {
+    "A": "চুম্বক",
+    "B": "চুম্বক নয়",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "চুম্বক ভাঙলে প্রতিটি টুকরায় —",
+   "options": {
+    "A": "দুটি মেরু থাকে",
+    "B": "একটি মেরু",
+    "C": "মেরু থাকে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "১ টেসলা = কত গাউস?",
+   "options": {
+    "A": "১০⁴",
+    "B": "১০²",
+    "C": "১০⁶",
+    "D": "১০"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "তড়িৎচুম্বকীয় আবেশ কাকে বলে?",
+   "options": {
+    "A": "পরিবর্তনশীল চৌম্বক ক্ষেত্রে তড়িৎ উৎপাদন",
+    "B": "তাপ উৎপাদন",
+    "C": "আলো উৎপাদন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "চুম্বক সংরক্ষণে —",
+   "options": {
+    "A": "কিপার ব্যবহার হয়",
+    "B": "তাপ দেয়া হয়",
+    "C": "আঘাত করা হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "ঝুলন্ত চুম্বকের উত্তরমুখী মেরু —",
+   "options": {
+    "A": "উত্তর মেরু",
+    "B": "দক্ষিণ মেরু",
+    "C": "নিরপেক্ষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "ফ্লেমিংয়ের বাম হাত নিয়মে মধ্যমা —",
+   "options": {
+    "A": "প্রবাহের দিক",
+    "B": "ক্ষেত্রের দিক",
+    "C": "বলের দিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "ট্রান্সফরমার কোন নীতিতে কাজ করে?",
+   "options": {
+    "A": "তড়িৎচুম্বকীয় আবেশ",
+    "B": "তাপ",
+    "C": "আলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "চুম্বকের ডোমেইন এলোমেলো হয় —",
+   "options": {
+    "A": "তাপে ও আঘাতে",
+    "B": "ঠান্ডায়",
+    "C": "বিশ্রামে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "দুই মেরুর শক্তি দ্বিগুণ করলে বল কত গুণ হয়?",
+   "options": {
+    "A": "৪",
+    "B": "২",
+    "C": "৮",
+    "D": "একই"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "চৌম্বক ক্ষেত্রে লোহার গুঁড়া ছড়ালে —",
+   "options": {
+    "A": "বলরেখা দেখা যায়",
+    "B": "কিছুই না",
+    "C": "গলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "বৈদ্যুতিক মোটর কোন নিয়মে কাজ করে?",
+   "options": {
+    "A": "ফ্লেমিংয়ের বাম হাত নিয়ম",
+    "B": "ডান হাত নিয়ম",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "চুম্বক কয় প্রকার?",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "৪",
+    "D": "৫"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "লোহার গুঁড়া চুম্বকের —",
+   "options": {
+    "A": "মেরুতে বেশি লেগে থাকে",
+    "B": "মাঝে বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "গাউস কার নামে?",
+   "options": {
+    "A": "কার্ল গাউস",
+    "B": "টেসলা",
+    "C": "ওহম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "তড়িৎবাহী তারের কাছে কম্পাস কাঁটা —",
+   "options": {
+    "A": "বিচ্যুত হয়",
+    "B": "স্থির থাকে",
+    "C": "গলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "চুম্বক আকর্ষণ করে —",
+   "options": {
+    "A": "শুধু চুম্বকীয় পদার্থ",
+    "B": "সব পদার্থ",
+    "C": "তামা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "চুম্বকের মেরু দুটি —",
+   "options": {
+    "A": "সবসময় একসাথে থাকে",
+    "B": "আলাদা থাকে",
+    "C": "একটি থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "চৌম্বক ক্ষেত্রের দিক —",
+   "options": {
+    "A": "উত্তর মেরু থেকে দক্ষিণে",
+    "B": "দক্ষিণ থেকে উত্তরে",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চৌম্বক ক্ষেত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "টেলিগ্রাফে —",
+   "options": {
+    "A": "ইলেকট্রোম্যাগনেট",
+    "B": "সাধারণ চুম্বক",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "দ্বৈত স্ট্রোক পদ্ধতিতে —",
+   "options": {
+    "A": "দুই চুম্বক দিয়ে ঘষা হয়",
+    "B": "এক চুম্বকে",
+    "C": "ঘষা হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "চৌম্বক বল দূরত্বের বর্গের —",
+   "options": {
+    "A": "ব্যস্তানুপাতিক",
+    "B": "সমানুপাতিক",
+    "C": "কোনো সম্পর্ক নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "তড়িৎবাহী তারের চৌম্বক ক্ষেত্রের দিক নির্ণয়ের নিয়ম —",
+   "options": {
+    "A": "ডান হাতের নিয়ম",
+    "B": "বাম হাতের নিয়ম",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "ডায়াম্যাগনেটিক পদার্থ —",
+   "options": {
+    "A": "দুর্বল বিকর্ষিত হয়",
+    "B": "আকৃষ্ট হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "চুম্বকের মেরু নির্ণয়ে বিকর্ষণ নীতি —",
+   "options": {
+    "A": "ব্যবহৃত হয়",
+    "B": "হয় না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "মোটরে তড়িৎ→যান্ত্রিক, জেনারেটরে —",
+   "options": {
+    "A": "যান্ত্রিক→তড়িৎ",
+    "B": "তড়িৎ→যান্ত্রিক",
+    "C": "তাপ→তড়িৎ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "বিদ্যুৎ উৎপাদনে —",
+   "options": {
+    "A": "চুম্বক প্রয়োজন",
+    "B": "চুম্বক লাগে না",
+    "C": "তাপ লাগে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "চুম্বকের আকর্ষণ শক্তি মেরুতে —",
+   "options": {
+    "A": "সবচেয়ে বেশি",
+    "B": "কম",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেট বন্ধ করলে —",
+   "options": {
+    "A": "লোহা পড়ে যায়",
+    "B": "লোহা থাকে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "কম্পিউটার হার্ড ডিস্কে —",
+   "options": {
+    "A": "চুম্বকত্ব ব্যবহৃত হয়",
+    "B": "তাপ",
+    "C": "আলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "চুম্বকের মেরু শক্তি m হলে বল F ∝ ?",
+   "options": {
+    "A": "m₁m₂/r²",
+    "B": "m₁m₂/r",
+    "C": "m/r²",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "সোলেনয়েডের ভেতরে —",
+   "options": {
+    "A": "সুষম চুম্বক ক্ষেত্র",
+    "B": "অসমান ক্ষেত্র",
+    "C": "কোনো ক্ষেত্র নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "কিউরি তাপমাত্রা কাকে বলে?",
+   "options": {
+    "A": "যে তাপমাত্রায় চুম্বকত্ব হারায়",
+    "B": "গলনাঙ্ক",
+    "C": "স্ফুটনাঙ্ক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "চুম্বকের উত্তর মেরু চেনা যায় —",
+   "options": {
+    "A": "কম্পাসের উত্তর মেরু বিকর্ষণে",
+    "B": "আকর্ষণে",
+    "C": "তাপে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "চুম্বকত্ব অধ্যায়ে মোটর, জেনারেটর, ট্রান্সফরমার —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "অগুরুত্বপূর্ণ",
+    "C": "প্রাসঙ্গিক নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "চুম্বকের দুই মেরুর মাঝে আকর্ষণ/বিকর্ষণ বলকে কী বলে?",
+   "options": {
+    "A": "চৌম্বক বল",
+    "B": "তাপ বল",
+    "C": "মহাকর্ষ বল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "দুটি চুম্বকের উত্তর মেরু কাছে আনলে —",
+   "options": {
+    "A": "বিকর্ষণ হয়",
+    "B": "আকর্ষণ হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "জেনারেটরে চুম্বক → তড়িৎ —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "ম্যাগনেটাইট কী?",
+   "options": {
+    "A": "প্রাকৃতিক চুম্বক",
+    "B": "কৃত্রিম চুম্বক",
+    "C": "তামা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "চুম্বকের মেরুতে চুম্বকত্ব —",
+   "options": {
+    "A": "সবচেয়ে বেশি",
+    "B": "সবচেয়ে কম",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বকের মেরু",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "সোলেনয়েড চুম্বকের মতো আচরণ করে —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "ম্যাগনেটাইটের রাসায়নিক নাম —",
+   "options": {
+    "A": "আয়রন অক্সাইড",
+    "B": "তামা অক্সাইড",
+    "C": "অ্যালুমিনিয়াম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "টেলিফোনের রিসিভারে —",
+   "options": {
+    "A": "ইলেকট্রোম্যাগনেট",
+    "B": "সাধারণ চুম্বক",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "ক্রেডিট কার্ডের চৌম্বক স্ট্রিপে —",
+   "options": {
+    "A": "তথ্য সঞ্চিত থাকে",
+    "B": "তাপ",
+    "C": "আলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "তড়িৎ থেকে চুম্বক ও চুম্বক থেকে তড়িৎ —",
+   "options": {
+    "A": "সম্ভব",
+    "B": "অসম্ভব",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "চুম্বকীয় পদার্থকে চুম্বক করা —",
+   "options": {
+    "A": "সম্ভব",
+    "B": "অসম্ভব",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেটে তড়িৎ → চুম্বক —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "লোহার কিউরি তাপমাত্রা —",
+   "options": {
+    "A": "প্রায় ৭৭০°C",
+    "B": "১০০°C",
+    "C": "০°C",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "তড়িৎবাহী তারের চারপাশে —",
+   "options": {
+    "A": "চুম্বক ক্ষেত্র",
+    "B": "তাপ ক্ষেত্র",
+    "C": "আলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "সোলেনয়েডে লোহার দণ্ড রেখে প্রবাহ দিলে —",
+   "options": {
+    "A": "চুম্বকিত হয়",
+    "B": "গলে যায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "মোটরের ঘূর্ণায়মান অংশকে কী বলে?",
+   "options": {
+    "A": "আর্মেচার",
+    "B": "স্টেটর",
+    "C": "কমিউটেটর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "জেনারেটরে —",
+   "options": {
+    "A": "চুম্বক ব্যবহৃত হয়",
+    "B": "চুম্বক হয় না",
+    "C": "তাপ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "চুম্বকত্ব ও তড়িতের সম্পর্ক —",
+   "options": {
+    "A": "গভীরভাবে জড়িত",
+    "B": "কোনো সম্পর্ক নেই",
+    "C": "দুর্বল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "ইলেকট্রনের ঘূর্ণন ও কক্ষপথে গতিই চুম্বকত্বের —",
+   "options": {
+    "A": "উৎস",
+    "B": "ফল",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেটে নরম লোহার কোর —",
+   "options": {
+    "A": "ক্ষেত্র বাড়ায়",
+    "B": "কমায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "চুম্বকে আঘাত করলে চুম্বকত্ব —",
+   "options": {
+    "A": "নষ্ট হয়",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "ক্রেনের ইলেকট্রোম্যাগনেট —",
+   "options": {
+    "A": "ভারী লোহা তোলে",
+    "B": "হালকা কাঠ",
+    "C": "পানি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "চুম্বকত্বের ব্যবহারিক গুরুত্ব —",
+   "options": {
+    "A": "অপরিসীম",
+    "B": "সীমিত",
+    "C": "নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেট বনাম স্থায়ী চুম্বক —",
+   "options": {
+    "A": "ইলেকট্রোম্যাগনেট নিয়ন্ত্রণযোগ্য",
+    "B": "স্থায়ী নিয়ন্ত্রণযোগ্য",
+    "C": "দুটোই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "স্পিকারে —",
+   "options": {
+    "A": "চুম্বক ব্যবহৃত হয়",
+    "B": "চুম্বক হয় না",
+    "C": "তাপ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "তড়িৎবাহী তার থেকে দূরে গেলে ক্ষেত্র —",
+   "options": {
+    "A": "দুর্বল",
+    "B": "প্রবল",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "চুম্বক কাকে বলে?",
+   "options": {
+    "A": "লোহা আকর্ষণকারী পদার্থ",
+    "B": "তামা আকর্ষণকারী",
+    "C": "কাঠ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "লোহার ভারী বস্তু তুলতে —",
+   "options": {
+    "A": "ইলেকট্রোম্যাগনেট",
+    "B": "সাধারণ চুম্বক",
+    "C": "দড়ি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "চুম্বকত্ব ছাড়া আধুনিক জীবন —",
+   "options": {
+    "A": "কল্পনাতীত",
+    "B": "সম্ভব",
+    "C": "একই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "বৈদ্যুতিক ঘণ্টায় ইলেকট্রোম্যাগনেট —",
+   "options": {
+    "A": "হাতুড়ি টানে",
+    "B": "কিছুই না",
+    "C": "তাপ দেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "অ্যালুমিনিয়াম কোন ধরনের?",
+   "options": {
+    "A": "প্যারাম্যাগনেটিক",
+    "B": "ফেরোম্যাগনেটিক",
+    "C": "ডায়াম্যাগনেটিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "ট্রান্সফরমারের কোর —",
+   "options": {
+    "A": "নরম লোহার পাত",
+    "B": "ইস্পাত",
+    "C": "কাঠ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "স্পিকারে চুম্বক —",
+   "options": {
+    "A": "শব্দ উৎপন্ন করে",
+    "B": "তাপ দেয়",
+    "C": "আলো দেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেট প্রবাহ বন্ধে —",
+   "options": {
+    "A": "চুম্বকত্ব হারায়",
+    "B": "চুম্বকত্ব থাকে",
+    "C": "বাড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "ফেরোম্যাগনেটিক পদার্থ —",
+   "options": {
+    "A": "লোহা, নিকেল, কোবাল্ট",
+    "B": "তামা, কাঠ",
+    "C": "কাচ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "উৎপাদন কেন্দ্র থেকে বিদ্যুৎ পাঠানো হয় —",
+   "options": {
+    "A": "উচ্চ বিভবে",
+    "B": "নিম্ন বিভবে",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "MRI কোন নীতিতে কাজ করে?",
+   "options": {
+    "A": "চৌম্বক ক্ষেত্র",
+    "B": "তাপ",
+    "C": "আলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "সোলেনয়েডের মেরু নির্ণয়ে —",
+   "options": {
+    "A": "ডান হাতের নিয়ম",
+    "B": "বাম হাতের নিয়ম",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "চৌম্বক বল এক ধরনের —",
+   "options": {
+    "A": "অস্পর্শ বল",
+    "B": "স্পর্শ বল",
+    "C": "ঘর্ষণ বল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "ফ্যারাডের আবেশ সূত্র —",
+   "options": {
+    "A": "ফ্লাক্স পরিবর্তনে তড়িৎ",
+    "B": "তাপ সূত্র",
+    "C": "আলো সূত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "চুম্বকায়িত পদার্থে ডোমেইন —",
+   "options": {
+    "A": "সমান্তরাল",
+    "B": "এলোমেলো",
+    "C": "গলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "তড়িৎচুম্বকত্ব কাকে বলে?",
+   "options": {
+    "A": "তড়িৎ ও চুম্বকের সম্পর্ক",
+    "B": "শুধু চুম্বক",
+    "C": "শুধু তড়িৎ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "কিপার চুম্বকের মেরুতে লাগানো হয় —",
+   "options": {
+    "A": "চুম্বকত্ব রক্ষায়",
+    "B": "নষ্টে",
+    "C": "সৌন্দর্যে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "আবেশিত তড়িৎ নির্ভর করে —",
+   "options": {
+    "A": "চৌম্বক ফ্লাক্সের পরিবর্তনের হারে",
+    "B": "তাপে",
+    "C": "আলোতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "চুম্বকীয় পদার্থকে গরম করলে —",
+   "options": {
+    "A": "চুম্বকত্ব কমে",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "রিলেতে ইলেকট্রোম্যাগনেট —",
+   "options": {
+    "A": "সুইচ খোলে/বন্ধ করে",
+    "B": "কিছুই না",
+    "C": "তাপ দেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "চুম্বকীয় বল দূর থেকে কাজ করে —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "ডান হাতের নিয়মে আঙুল নির্দেশ করে —",
+   "options": {
+    "A": "ক্ষেত্রের দিক",
+    "B": "প্রবাহের দিক",
+    "C": "বলের দিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "ইলেকট্রনের ঘূর্ণনে —",
+   "options": {
+    "A": "চুম্বকত্ব সৃষ্টি হয়",
+    "B": "তাপ হয়",
+    "C": "আলো হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "ট্রান্সফরমার —",
+   "options": {
+    "A": "বিভব পরিবর্তন করে",
+    "B": "তাপ পরিবর্তন করে",
+    "C": "আলো পরিবর্তন করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "চৌম্বক বল মহাকর্ষ বলের মতো —",
+   "options": {
+    "A": "অস্পর্শ বল",
+    "B": "স্পর্শ বল",
+    "C": "ঘর্ষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "প্রবাহ কমালে চৌম্বক ক্ষেত্র —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "একই",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "চুম্বকত্বের প্রয়োগ চিকিৎসায় —",
+   "options": {
+    "A": "MRI",
+    "B": "এক্স-রে শুধু",
+    "C": "আল্ট্রাসাউন্ড শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "অরস্টেডের পরীক্ষায় —",
+   "options": {
+    "A": "কম্পাস কাঁটা বিচ্যুত হয়",
+    "B": "তাপ হয়",
+    "C": "আলো হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "চুম্বকায়নের জন্য —",
+   "options": {
+    "A": "চুম্বকের ঘর্ষণ বা তড়িৎ প্রবাহ",
+    "B": "শুধু তাপ",
+    "C": "শুধু আলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "তড়িৎ ও চুম্বকের সম্পর্ক —",
+   "options": {
+    "A": "গভীর",
+    "B": "নেই",
+    "C": "দুর্বল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "প্রাকৃতিক চুম্বক কোনটি?",
+   "options": {
+    "A": "ম্যাগনেটাইট",
+    "B": "লোহার দণ্ড",
+    "C": "ইস্পাত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "স্টেপ-আপ ট্রান্সফরমার —",
+   "options": {
+    "A": "বিভব বাড়ায়",
+    "B": "বিভব কমায়",
+    "C": "একই রাখে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "প্যারাম্যাগনেটিক পদার্থ —",
+   "options": {
+    "A": "দুর্বল আকৃষ্ট হয়",
+    "B": "প্রবল আকৃষ্ট",
+    "C": "আকৃষ্ট হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "টেলিফোনে —",
+   "options": {
+    "A": "ইলেকট্রোম্যাগনেট",
+    "B": "সাধারণ চুম্বক",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "কিউরি তাপমাত্রায় ডোমেইন —",
+   "options": {
+    "A": "এলোমেলো হয়",
+    "B": "সাজে",
+    "C": "গলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "সোলেনয়েডের ভেতরের ক্ষেত্র —",
+   "options": {
+    "A": "সুষম",
+    "B": "অসমান",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "তামা চুম্বক দ্বারা —",
+   "options": {
+    "A": "আকৃষ্ট হয় না",
+    "B": "আকৃষ্ট হয়",
+    "C": "বিকর্ষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "ইলেকট্রোম্যাগনেট কাকে বলে?",
+   "options": {
+    "A": "কোরসহ সোলেনয়েড",
+    "B": "সাধারণ চুম্বক",
+    "C": "কম্পাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "তড়িৎচুম্বকত্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "চুম্বকত্বের উৎস —",
+   "options": {
+    "A": "চলমান আধান",
+    "B": "স্থির আধান",
+    "C": "তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "বৈদ্যুতিক যন্ত্রপাতিতে চুম্বক —",
+   "options": {
+    "A": "ব্যবহৃত হয়",
+    "B": "হয় না",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "কোবাল্ট —",
+   "options": {
+    "A": "চুম্বকীয় পদার্থ",
+    "B": "অচুম্বকীয়",
+    "C": "তাপীয় পদার্থ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "চুম্বকের ব্যবহার —",
+   "options": {
+    "A": "মোটর, জেনারেটর, স্পিকার",
+    "B": "ইস্ত্রি",
+    "C": "কেটলি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "চুম্বকত্বের মূল উৎস —",
+   "options": {
+    "A": "ইলেকট্রনের গতি",
+    "B": "প্রোটনের ভর",
+    "C": "নিউট্রন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "চুম্বকীয় ডোমেইন কাকে বলে?",
+   "options": {
+    "A": "ক্ষুদ্র চুম্বক অঞ্চল",
+    "B": "তাপ অঞ্চল",
+    "C": "আলো অঞ্চল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "চুম্বকায়নে ডোমেইনগুলো —",
+   "options": {
+    "A": "একদিকে সাজে",
+    "B": "এলোমেলো থাকে",
+    "C": "গলে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "মাইক্রোফোনে —",
+   "options": {
+    "A": "শব্দ → তড়িৎ",
+    "B": "তড়িৎ → শব্দ",
+    "C": "তাপ → শব্দ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "চুম্বকের প্রকার কী?",
+   "options": {
+    "A": "প্রাকৃতিক ও কৃত্রিম",
+    "B": "শুধু প্রাকৃতিক",
+    "C": "শুধু কৃত্রিম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "নিকেল —",
+   "options": {
+    "A": "চুম্বকীয় পদার্থ",
+    "B": "অচুম্বকীয়",
+    "C": "তাপীয় পদার্থ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "চুম্বকের কিপার —",
+   "options": {
+    "A": "নরম লোহার টুকরা",
+    "B": "ইস্পাত",
+    "C": "তামা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চুম্বক",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  }
+ ],
+ "answerBox": {
+  "1": "A",
+  "2": "A",
+  "3": "A",
+  "4": "A",
+  "5": "A",
+  "6": "A",
+  "7": "A",
+  "8": "A",
+  "9": "A",
+  "10": "A",
+  "11": "A",
+  "12": "A",
+  "13": "A",
+  "14": "A",
+  "15": "A",
+  "16": "A",
+  "17": "A",
+  "18": "A",
+  "19": "A",
+  "20": "A",
+  "21": "A",
+  "22": "A",
+  "23": "A",
+  "24": "A",
+  "25": "A",
+  "26": "A",
+  "27": "A",
+  "28": "A",
+  "29": "A",
+  "30": "A",
+  "31": "A",
+  "32": "A",
+  "33": "A",
+  "34": "A",
+  "35": "A",
+  "36": "A",
+  "37": "A",
+  "38": "A",
+  "39": "A",
+  "40": "A",
+  "41": "A",
+  "42": "A",
+  "43": "A",
+  "44": "A",
+  "45": "A",
+  "46": "A",
+  "47": "A",
+  "48": "A",
+  "49": "A",
+  "50": "A",
+  "51": "A",
+  "52": "A",
+  "53": "A",
+  "54": "A",
+  "55": "A",
+  "56": "A",
+  "57": "A",
+  "58": "A",
+  "59": "A",
+  "60": "A",
+  "61": "A",
+  "62": "A",
+  "63": "A",
+  "64": "A",
+  "65": "A",
+  "66": "A",
+  "67": "A",
+  "68": "A",
+  "69": "A",
+  "70": "A",
+  "71": "A",
+  "72": "A",
+  "73": "A",
+  "74": "A",
+  "75": "A",
+  "76": "A",
+  "77": "A",
+  "78": "A",
+  "79": "A",
+  "80": "A",
+  "81": "A",
+  "82": "A",
+  "83": "A",
+  "84": "A",
+  "85": "A",
+  "86": "A",
+  "87": "A",
+  "88": "A",
+  "89": "A",
+  "90": "A",
+  "91": "A",
+  "92": "A",
+  "93": "A",
+  "94": "A",
+  "95": "A",
+  "96": "A",
+  "97": "A",
+  "98": "A",
+  "99": "A",
+  "100": "A",
+  "101": "A",
+  "102": "A",
+  "103": "A",
+  "104": "A",
+  "105": "A",
+  "106": "A",
+  "107": "A",
+  "108": "A",
+  "109": "A",
+  "110": "A",
+  "111": "A",
+  "112": "A",
+  "113": "A",
+  "114": "A",
+  "115": "A",
+  "116": "A",
+  "117": "A",
+  "118": "A",
+  "119": "A",
+  "120": "A",
+  "121": "A",
+  "122": "A",
+  "123": "A",
+  "124": "A",
+  "125": "A",
+  "126": "A",
+  "127": "A",
+  "128": "A",
+  "129": "A",
+  "130": "A",
+  "131": "A",
+  "132": "A",
+  "133": "A",
+  "134": "A",
+  "135": "A",
+  "136": "A",
+  "137": "A",
+  "138": "A",
+  "139": "A",
+  "140": "A",
+  "141": "A",
+  "142": "A",
+  "143": "A",
+  "144": "A",
+  "145": "A",
+  "146": "A",
+  "147": "A",
+  "148": "A",
+  "149": "A",
+  "150": "A",
+  "151": "A",
+  "152": "A",
+  "153": "A",
+  "154": "A",
+  "155": "A",
+  "156": "A",
+  "157": "A",
+  "158": "A",
+  "159": "A",
+  "160": "A",
+  "161": "A",
+  "162": "A",
+  "163": "A",
+  "164": "A",
+  "165": "A",
+  "166": "A",
+  "167": "A",
+  "168": "A",
+  "169": "A",
+  "170": "A",
+  "171": "A",
+  "172": "A",
+  "173": "A",
+  "174": "A",
+  "175": "A",
+  "176": "A",
+  "177": "A",
+  "178": "A",
+  "179": "A",
+  "180": "A",
+  "181": "A",
+  "182": "A",
+  "183": "A",
+  "184": "A",
+  "185": "A",
+  "186": "A",
+  "187": "A",
+  "188": "A",
+  "189": "A",
+  "190": "A",
+  "191": "A",
+  "192": "A",
+  "193": "A",
+  "194": "A",
+  "195": "A",
+  "196": "A",
+  "197": "A",
+  "198": "A",
+  "199": "A",
+  "200": "A",
+  "201": "A",
+  "202": "A",
+  "203": "A",
+  "204": "A",
+  "205": "A",
+  "206": "A",
+  "207": "A",
+  "208": "A",
+  "209": "A",
+  "210": "A",
+  "211": "A",
+  "212": "A",
+  "213": "A",
+  "214": "A",
+  "215": "A",
+  "216": "A",
+  "217": "A",
+  "218": "A",
+  "219": "A",
+  "220": "A",
+  "221": "A",
+  "222": "A",
+  "223": "A",
+  "224": "A",
+  "225": "A",
+  "226": "A",
+  "227": "A",
+  "228": "A",
+  "229": "A",
+  "230": "A",
+  "231": "A",
+  "232": "A",
+  "233": "A",
+  "234": "A",
+  "235": "A",
+  "236": "A",
+  "237": "A",
+  "238": "A",
+  "239": "A",
+  "240": "A",
+  "241": "A",
+  "242": "A",
+  "243": "A",
+  "244": "A",
+  "245": "A",
+  "246": "A",
+  "247": "A",
+  "248": "A",
+  "249": "A",
+  "250": "A",
+  "251": "A",
+  "252": "A",
+  "253": "A",
+  "254": "A",
+  "255": "A",
+  "256": "A",
+  "257": "A",
+  "258": "A",
+  "259": "A",
+  "260": "A",
+  "261": "A",
+  "262": "A",
+  "263": "A",
+  "264": "A",
+  "265": "A",
+  "266": "A",
+  "267": "A",
+  "268": "A",
+  "269": "A",
+  "270": "A",
+  "271": "A",
+  "272": "A",
+  "273": "A",
+  "274": "A",
+  "275": "A",
+  "276": "A",
+  "277": "A",
+  "278": "A",
+  "279": "A",
+  "280": "A",
+  "281": "A",
+  "282": "A",
+  "283": "A",
+  "284": "A",
+  "285": "A",
+  "286": "A",
+  "287": "A",
+  "288": "A",
+  "289": "A",
+  "290": "A",
+  "291": "A",
+  "292": "A",
+  "293": "A",
+  "294": "A",
+  "295": "A",
+  "296": "A",
+  "297": "A",
+  "298": "A",
+  "299": "A",
+  "300": "A",
+  "301": "A",
+  "302": "A",
+  "303": "A",
+  "304": "A",
+  "305": "A",
+  "306": "A",
+  "307": "A",
+  "308": "A",
+  "309": "A",
+  "310": "A",
+  "311": "A",
+  "312": "A",
+  "313": "A",
+  "314": "A",
+  "315": "A",
+  "316": "A",
+  "317": "A",
+  "318": "A",
+  "319": "A",
+  "320": "A",
+  "321": "A",
+  "322": "A",
+  "323": "A",
+  "324": "A",
+  "325": "A",
+  "326": "A",
+  "327": "A",
+  "328": "A",
+  "329": "A",
+  "330": "A",
+  "331": "A",
+  "332": "A",
+  "333": "A",
+  "334": "A",
+  "335": "A",
+  "336": "A",
+  "337": "A",
+  "338": "A",
+  "339": "A",
+  "340": "A",
+  "341": "A",
+  "342": "A",
+  "343": "A",
+  "344": "A",
+  "345": "A",
+  "346": "A",
+  "347": "A",
+  "348": "A",
+  "349": "A",
+  "350": "A",
+  "351": "A",
+  "352": "A",
+  "353": "A",
+  "354": "A",
+  "355": "A",
+  "356": "A",
+  "357": "A",
+  "358": "A",
+  "359": "A",
+  "360": "A",
+  "361": "A",
+  "362": "A",
+  "363": "A",
+  "364": "A",
+  "365": "A",
+  "366": "A",
+  "367": "A",
+  "368": "A",
+  "369": "A",
+  "370": "A",
+  "371": "A"
+ }
 }
