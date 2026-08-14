@@ -1,0 +1,7134 @@
+{
+ "subject": "রসায়ন",
+ "chapterNo": 11,
+ "chapter": "খনিজ সম্পদ: জীবাশ্ম",
+ "questions": [
+  {
+   "question": "জীবাশ্ম জ্বালানির সচেতন ব্যবহার —",
+   "options": {
+    "A": "জাতীয় ও বৈশ্বিক দায়িত্ব",
+    "B": "কোনোটিই নয়",
+    "C": "দরকার নেই",
+    "D": "দায়িত্ব নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "খনির নিরাপত্তা —",
+   "options": {
+    "A": "অগুরুত্বপূর্ণ",
+    "B": "কোনোটিই নয়",
+    "C": "গুরুত্বপূর্ণ",
+    "D": "নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "পেট্রোলিয়াম গ্যাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সবচেয়ে হালকা অংশ",
+    "C": "কিছুই না",
+    "D": "সবচেয়ে ভারী"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "মিথেনের দহনে —",
+   "options": {
+    "A": "CO₂ ও H₂O",
+    "B": "কোনোটিই নয়",
+    "C": "O₂",
+    "D": "CO"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "জ্বালানির দহনে তাপমাত্রা —",
+   "options": {
+    "A": "কম ভালো",
+    "B": "বেশি ভালো",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "বাংলাদেশে কয়লা মজুদ —",
+   "options": {
+    "A": "নেই",
+    "B": "কোনোটিই নয়",
+    "C": "অগুরুত্বপূর্ণ",
+    "D": "গুরুত্বপূর্ণ সম্পদ"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "তেল ছড়ানো (অয়েল স্পিল) —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জলজ জীবন ধ্বংস করে",
+    "C": "উপকার",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাসের দহন —",
+   "options": {
+    "A": "পরিচ্ছন্ন",
+    "B": "কিছুই না",
+    "C": "দূষণকারী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "জ্বালানির নিরাপত্তা —",
+   "options": {
+    "A": "নেই",
+    "B": "অগুরুত্বপূর্ণ",
+    "C": "গুরুত্বপূর্ণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "কয়লার উপজাতের ব্যবহার —",
+   "options": {
+    "A": "ব্যাপক",
+    "B": "কোনোটিই নয়",
+    "C": "সীমিত",
+    "D": "নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "তেল পাইপলাইন ফুটো —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "দূষণ ঘটায়",
+    "D": "উপকার"
+   },
+   "correctAnswer": "C",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "বাংলাদেশের প্রথম গ্যাসক্ষেত্র —",
+   "options": {
+    "A": "বাখরাবাদ",
+    "B": "তিতাস",
+    "C": "কোনোটিই নয়",
+    "D": "হরিপুর (১৯৫৫)"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি গঠনের প্রক্রিয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "অবশেষ পচে চাপ-তাপে রূপান্তর"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "শুষ্ক পাতনের উৎপাদ —",
+   "options": {
+    "A": "শুধু গ্যাস",
+    "B": "শুধু কোক",
+    "C": "কোনোটিই নয়",
+    "D": "কোক, কয়লা গ্যাস, আলকাতরা, অ্যামোনিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "তেল উত্তোলনে —",
+   "options": {
+    "A": "খনন যন্ত্র (ড্রিলিং রিগ)",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "বিউটেনের সংকেত —",
+   "options": {
+    "A": "CH₄",
+    "B": "কোনোটিই নয়",
+    "C": "C₄H₁₀",
+    "D": "C₂H₆"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির উপর নির্ভরতা কমাতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "আরও কয়লা",
+    "D": "নবায়নযোগ্য শক্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "কয়লার শুষ্ক পাতনে কোক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "বিজারক ও জ্বালানি"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "পেট্রোলে সীসা —",
+   "options": {
+    "A": "উপকার",
+    "B": "স্বাস্থ্যের ক্ষতি করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাসের অন্যান্য উপাদান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ইথেন, প্রোপেন, বিউটেন",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু মিথেন"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "গ্রিনহাউস প্রভাব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "গ্লোবাল ওয়ার্মিং বাড়ায়",
+    "D": "কমায়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "ভূগর্ভস্থ খনিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সুড়ঙ্গ খোঁড়া হয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "ডিটারজেন্ট —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "পেট্রোলিয়াম থেকে"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "প্রোপেনের সংকেত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "C₃H₈",
+    "C": "CH₄",
+    "D": "C₂H₆"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির উদাহরণ —",
+   "options": {
+    "A": "কাঠ",
+    "B": "কয়লা, পেট্রোলিয়াম, প্রাকৃতিক গ্যাস",
+    "C": "বায়োগ্যাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "কয়লা পরিণত হওয়ার সাথে আর্দ্রতা —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "শূন্য",
+    "D": "একই"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "পেট্রোলের ব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "মোটরযানে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "গ্যাস লিকে বুদবুদ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "সাবান পানিতে হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "সৌর, বায়ু, জল শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সবুজ শক্তি",
+    "C": "জীবাশ্ম শক্তি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "কয়লার মান বিচার হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কার্বন ও ক্যালরিফিক মানে",
+    "C": "কিছুই না",
+    "D": "রঙে শুধু"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "তেল ছড়ানো রোধে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অসতর্কতা",
+    "C": "নিরাপদ পরিবহণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "মারকাপটান —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "গ্যাসে গন্ধ যোগ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির দহনে —",
+   "options": {
+    "A": "শোষিত হয়",
+    "B": "সঞ্চিত শক্তি নির্গত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "কয়লা গঠনে প্রথম ধাপ —",
+   "options": {
+    "A": "অ্যানথ্রাসাইট",
+    "B": "কোনোটিই নয়",
+    "C": "পিট গঠন",
+    "D": "বিটুমিনাস"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "পেট্রোল —",
+   "options": {
+    "A": "গাড়ির জ্বালানি",
+    "B": "কোনোটিই নয়",
+    "C": "বিমানের জ্বালানি শুধু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "গৃহে গ্যাস সরবরাহে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "মিটার ও রেগুলেটর"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "জ্বালানি দহনের নিয়ন্ত্রণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কঠিন",
+    "C": "কোনোটিই নয়",
+    "D": "সহজ হওয়া উচিত"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "কয়লার সালফার দহনে —",
+   "options": {
+    "A": "O₂ হয়",
+    "B": "H₂ হয়",
+    "C": "কোনোটিই নয়",
+    "D": "SO₂ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "কেরোসিন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রাস্তার জ্বালানি",
+    "C": "বিমানের জ্বালানি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "CNG গাড়িতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জ্বালানি হিসেবে ব্যবহৃত",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "জ্বালানির দাম —",
+   "options": {
+    "A": "বিবেচ্য বিষয়",
+    "B": "নেই",
+    "C": "কোনোটিই নয়",
+    "D": "অবিবেচ্য"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "কয়লায় কার্বন —",
+   "options": {
+    "A": "সবচেয়ে বেশি",
+    "B": "কোনোটিই নয়",
+    "C": "নেই",
+    "D": "কম"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "সমুদ্রে তেল উত্তোলনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "তেল প্ল্যাটফর্ম",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "CNG ব্যবহারে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বায়ুদূষণ কমে",
+    "C": "কোনোটিই নয়",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি গঠনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অক্সিজেনবিহীন পরিবেশ",
+    "C": "অক্সিজেনপূর্ণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "কয়লা পোড়ানোর চিমনিতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "পরিশোধক বসানো হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "ভগ্নাংশ পাতনে হালকা অংশ —",
+   "options": {
+    "A": "নিচে নামে",
+    "B": "কোনোটিই নয়",
+    "C": "উপরে উঠে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "মিথেন —",
+   "options": {
+    "A": "জটিল",
+    "B": "কোনোটিই নয়",
+    "C": "সরলতম হাইড্রোকার্বন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাস দহনে দূষণ —",
+   "options": {
+    "A": "সবচেয়ে বেশি",
+    "B": "নেই",
+    "C": "সবচেয়ে কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "কয়লা পরিণত হওয়ার সাথে কার্বন —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "শূন্য",
+    "C": "কমে",
+    "D": "একই"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "LPG এর উপাদান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্রোপেন ও বিউটেন",
+    "C": "কোনোটিই নয়",
+    "D": "মিথেন"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "CNG পেট্রোলের চেয়ে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কম দূষণকারী ও সস্তা",
+    "D": "বেশি দূষণকারী"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "শক্তি সংকট মোকাবিলায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "নবায়নযোগ্য + সাশ্রয়",
+    "D": "আরও জীবাশ্ম"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "বিটুমিনাস কয়লা —",
+   "options": {
+    "A": "সাধারণ ব্যবহৃত কয়লা",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সর্বনিম্ন মানের"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "তেল ছড়ানো রোধ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জরুরি",
+    "C": "জরুরি নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাসে মিথেন —",
+   "options": {
+    "A": "প্রায় ৯০%",
+    "B": "প্রায় ২০%",
+    "C": "প্রায় ৫০%",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি ফুরায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "হ্যাঁ",
+    "D": "না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "কয়লা উত্তোলনের সামাজিক প্রভাব —",
+   "options": {
+    "A": "নেই",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "আছে"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "তেলক্ষেত্র থেকে তেল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "খনন করে তোলা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "গ্যাস লিক হলে দিয়াশলাই —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "জ্বালানো উচিত নয়",
+    "D": "জ্বালানো উচিত"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির মজুদ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অসীম",
+    "D": "সীমিত ও অসমভাবে বণ্টিত"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "বিটুমিনাস —",
+   "options": {
+    "A": "নিম্ন",
+    "B": "সমান",
+    "C": "কোনোটিই নয়",
+    "D": "লিগনাইটের চেয়ে উন্নত"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "প্লাস্টিক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পেট্রোলিয়াম থেকে",
+    "C": "কয়লা থেকে শুধু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "গ্যাস সিলিন্ডার বিস্ফোরণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বিপজ্জনক",
+    "C": "কোনোটিই নয়",
+    "D": "নিরাপদ"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির বিপরীতে —",
+   "options": {
+    "A": "আরও জীবাশ্ম",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "নবায়নযোগ্য শক্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "সর্বনিম্ন মানের কয়লা —",
+   "options": {
+    "A": "বিটুমিনাস",
+    "B": "অ্যানথ্রাসাইট",
+    "C": "কোনোটিই নয়",
+    "D": "পিট"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "বিটুমেনের ব্যবহার —",
+   "options": {
+    "A": "খাদ্যে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "রাস্তা নির্মাণে"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "বাংলাদেশে গ্যাসের মজুদ —",
+   "options": {
+    "A": "সীমিত",
+    "B": "অফুরন্ত",
+    "C": "কোনোটিই নয়",
+    "D": "অসীম"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "রসায়ন জীবাশ্ম জ্বালানিকে —",
+   "options": {
+    "A": "ব্যাখ্যা ও উন্নয়নে সাহায্য করে",
+    "B": "কিছুই না",
+    "C": "করে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "শুষ্ক পাতন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বাতাসে উত্তপ্ত",
+    "D": "বাতাস ছাড়া উত্তপ্ত করা"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "পেট্রোলিয়াম পরিশোধন —",
+   "options": {
+    "A": "স্ফুটনে",
+    "B": "কোনোটিই নয়",
+    "C": "গলনে",
+    "D": "আংশিক পাতনে"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাস পাওয়া যায় —",
+   "options": {
+    "A": "সমুদ্রপৃষ্ঠে",
+    "B": "কিছুই না",
+    "C": "ভূগর্ভের গ্যাসক্ষেত্রে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির ভবিষ্যৎ —",
+   "options": {
+    "A": "সীমিত মজুদের ওপর নির্ভরশীল",
+    "B": "কিছুই না",
+    "C": "অসীম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "কোকের ব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ইস্পাত ও ধাতু নিষ্কাশনে",
+    "C": "কোনোটিই নয়",
+    "D": "খাদ্যে"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "গাড়ির ধোঁয়া —",
+   "options": {
+    "A": "স্বাস্থ্যঝুঁকি",
+    "B": "কোনোটিই নয়",
+    "C": "নিরাপদ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাসের দহনে —",
+   "options": {
+    "A": "বেশি দূষণ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কম দূষণ"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির অতিরিক্ত ব্যবহার —",
+   "options": {
+    "A": "জলবায়ু সংকট বাড়ায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কমায়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "কয়লা গঠনের সময় উদ্ভিদ —",
+   "options": {
+    "A": "পুড়ে যায়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পলিমাটিতে চাপা পড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "বিটুমেন/আলকাতরা —",
+   "options": {
+    "A": "সবচেয়ে হালকা",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সবচেয়ে ভারী অংশ"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "গ্যাস সিলিন্ডার আগুন থেকে —",
+   "options": {
+    "A": "কাছে রাখা উচিত",
+    "B": "দূরে রাখা উচিত",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "সবচেয়ে দূষণকারী জীবাশ্ম জ্বালানি —",
+   "options": {
+    "A": "কয়লা",
+    "B": "তেল",
+    "C": "গ্যাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "কয়লার প্রকার —",
+   "options": {
+    "A": "দুই",
+    "B": "পিট, লিগনাইট, বিটুমিনাস, অ্যানথ্রাসাইট",
+    "C": "শুধু এক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "অকটেন নম্বর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পেট্রোলের মান মাপে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "CNG এর পূর্ণরূপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "Carbon Natural Gas",
+    "D": "Compressed Natural Gas"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "বায়োগ্যাস পুনরুৎপাদনযোগ্য —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "কোনোটিই নয়",
+    "C": "না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "SO₂ থেকে —",
+   "options": {
+    "A": "অ্যাসিড বৃষ্টি",
+    "B": "উপকার",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "পরিশোধনে —",
+   "options": {
+    "A": "ভগ্নাংশ পাতন",
+    "B": "স্ফুটন",
+    "C": "গলন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "ইউরিয়া সার —",
+   "options": {
+    "A": "নাইট্রোজেন সার",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ফসফরাস সার"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি অধ্যায় শিক্ষায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গুরুত্বপূর্ণ",
+    "C": "অগুরুত্বপূর্ণ",
+    "D": "ঐচ্ছিক"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "কয়লা গ্যাস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "খাদ্য",
+    "C": "জ্বালানি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "তেল পরিশোধনাগারে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অপরিশোধিত তেল পরিশোধিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাস সৃষ্টি হয় —",
+   "options": {
+    "A": "জীবদেহাবশেষ থেকে",
+    "B": "পানি থেকে",
+    "C": "কোনোটিই নয়",
+    "D": "পাথর থেকে"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "নবায়নযোগ্য শক্তির উদাহরণ —",
+   "options": {
+    "A": "সৌর, বায়ু, জল, বায়োগ্যাস",
+    "B": "কোনোটিই নয়",
+    "C": "কয়লা",
+    "D": "তেল"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "কয়লার খনিতে দুর্ঘটনা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ঝুঁকিপূর্ণ",
+    "C": "নিরাপদ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "পেট্রোলিয়াম সৃষ্টি হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পাথর থেকে",
+    "C": "সামুদ্রিক জীবের দেহাবশেষ থেকে",
+    "D": "উদ্ভিদ থেকে"
+   },
+   "correctAnswer": "C",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "LPG —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "তরলীকৃত পেট্রোলিয়াম গ্যাস",
+    "C": "কোনোটিই নয়",
+    "D": "সংকুচিত গ্যাস"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "সাইকেল ব্যবহার —",
+   "options": {
+    "A": "অপচয়",
+    "B": "কিছুই না",
+    "C": "জ্বালানি সাশ্রয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "কয়লার ভেতরে —",
+   "options": {
+    "A": "কার্বন বাড়ে, আর্দ্রতা কমে",
+    "B": "কার্বন কমে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "পেট্রোলিয়ামকে বলা হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "তরল সোনা",
+    "D": "কঠিন সোনা"
+   },
+   "correctAnswer": "C",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "গ্যাস লিকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "উপকার",
+    "C": "আগুন ধরে যেতে পারে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "সবুজ শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নবায়নযোগ্য শক্তি",
+    "C": "জীবাশ্ম শক্তি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "আলকাতরা (কয়লা টার) —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "রাসায়নিকের উৎস",
+    "D": "খাদ্য"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "আংশিক পাতন স্তম্ভে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপমাত্রা নিচে বেশি",
+    "C": "উপরে বেশি",
+    "D": "সমান"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাস পরিবহণ —",
+   "options": {
+    "A": "ট্যাংকারে শুধু",
+    "B": "পাইপলাইনে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "জ্বালানি আমদানি নির্ভরতা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অর্থনীতির জন্য চাপ",
+    "C": "চাপ নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "কয়লায় প্রধান মৌল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কার্বন",
+    "C": "অক্সিজেন",
+    "D": "হাইড্রোজেন"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "পেট্রোলিয়ামের গুরুত্ব —",
+   "options": {
+    "A": "নেই",
+    "B": "সীমিত",
+    "C": "কোনোটিই নয়",
+    "D": "অপরিসীম"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাসের প্রধান উপাদান —",
+   "options": {
+    "A": "মিথেন",
+    "B": "ইথেন",
+    "C": "কোনোটিই নয়",
+    "D": "প্রোপেন"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "হাইড্রোকার্বন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কার্বন ও হাইড্রোজেনের যৌগ",
+    "C": "কোনোটিই নয়",
+    "D": "কার্বন ও অক্সিজেন"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "খোলা খনিতে —",
+   "options": {
+    "A": "ভূপৃষ্ঠ খোঁড়া হয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "ন্যাপথার ব্যবহার —",
+   "options": {
+    "A": "রাসায়নিক, সার শিল্পে",
+    "B": "খাদ্যে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাসে গন্ধ মেশানো হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সৌন্দর্যে",
+    "C": "কোনোটিই নয়",
+    "D": "লিক শনাক্তে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "ভবিষ্যৎ প্রজন্মের জন্য জ্বালানি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দরকার নেই",
+    "C": "সংরক্ষণ জরুরি",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "কয়লা দহনে পরিবেশ —",
+   "options": {
+    "A": "দূষিত হয়",
+    "B": "কিছুই না",
+    "C": "পরিচ্ছন্ন থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "ভগ্নাংশ পাতনের ভিত্তি —",
+   "options": {
+    "A": "রঙ",
+    "B": "স্ফুটনাঙ্কের পার্থক্য",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাস থেকে বিদ্যুৎ —",
+   "options": {
+    "A": "হয় না",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "উৎপন্ন হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "শক্তি দক্ষ যন্ত্র —",
+   "options": {
+    "A": "জ্বালানি সাশ্রয় করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "অপচয় করে"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "কয়লা গঠনে উদ্ভিদ —",
+   "options": {
+    "A": "মরুভূমিতে",
+    "B": "জলাভূমিতে পচে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "স্ফুটনাঙ্ক বেশি অংশ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "আগে",
+    "D": "পরে বাষ্পীভূত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "গ্যাস লিক —",
+   "options": {
+    "A": "বিপজ্জনক",
+    "B": "নিরাপদ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "পরিবহণে জ্বালানি সাশ্রয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জনপরিবহণ ব্যবহার",
+    "C": "একা গাড়ি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "কার্বনের দহনে —",
+   "options": {
+    "A": "O₂ হয়",
+    "B": "CO₂ হয়",
+    "C": "H₂ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "পেট্রোলিয়াম সাশ্রয় —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "জরুরি",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "CNG রূপান্তরিত গাড়ি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ব্যয়বহুল",
+    "D": "সস্তায় চলে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির মোট প্রকার —",
+   "options": {
+    "A": "৪",
+    "B": "২",
+    "C": "৩ (কয়লা, তেল, গ্যাস)",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "কয়লার দহনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "CO₂ ও তাপ",
+    "C": "O₂",
+    "D": "H₂"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "পেট্রোলিয়াম ছিদ্রযুক্ত পাথরে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "থাকে না",
+    "D": "জমা থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "গ্যাস লিক চেনার জন্য —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "গন্ধ মেশানো হয় (মারকাপটান)",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির টেকসই ব্যবস্থাপনা —",
+   "options": {
+    "A": "জরুরি",
+    "B": "দরকার নেই",
+    "C": "জরুরি নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "পরিচ্ছন্ন কয়লা প্রযুক্তি —",
+   "options": {
+    "A": "বাড়ায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "দূষণ কমায়"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "অপরিশোধিত তেলকে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পরিশোধন করতে হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "গ্যাসভিত্তিক বিদ্যুৎ কেন্দ্র —",
+   "options": {
+    "A": "নেই",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বাংলাদেশে আছে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি অধ্যায় —",
+   "options": {
+    "A": "ঐচ্ছিক",
+    "B": "কোনোটিই নয়",
+    "C": "গুরুত্বপূর্ণ",
+    "D": "অগুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "উদ্ভিদের অবশেষ চাপ ও তাপে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কয়লায় রূপান্তরিত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "তেল উত্তোলন —",
+   "options": {
+    "A": "খনন (ড্রিলিং) করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "বাংলাদেশের গ্যাসক্ষেত্র —",
+   "options": {
+    "A": "বড়পুকুরিয়া",
+    "B": "তিতাস, বাখরাবাদ, হবিগঞ্জ",
+    "C": "কাপ্তাই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির উপর অতিনির্ভরতা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নিরাপদ",
+    "C": "ঝুঁকিপূর্ণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "সবচেয়ে বেশি কার্বন থাকে —",
+   "options": {
+    "A": "লিগনাইটে",
+    "B": "পিটে",
+    "C": "কোনোটিই নয়",
+    "D": "অ্যানথ্রাসাইটে"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "ডিজেলের ব্যবহার —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "বাস, ট্রাক, জেনারেটরে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "বাংলাদেশে CNG ব্যবহার —",
+   "options": {
+    "A": "বাড়িয়েছে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "দূষণ কমিয়েছে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "নবায়নযোগ্য শক্তি ফুরায় —",
+   "options": {
+    "A": "না",
+    "B": "কিছুই না",
+    "C": "হ্যাঁ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "কয়লার বয়স —",
+   "options": {
+    "A": "কয়েক দিন",
+    "B": "লক্ষ লক্ষ বছর",
+    "C": "কয়েক বছর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "ভগ্নাংশ পাতন —",
+   "options": {
+    "A": "স্ফুটনাঙ্কে পৃথকীকরণ",
+    "B": "রঙে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "মিথেন বাতাসের চেয়ে —",
+   "options": {
+    "A": "ভারী",
+    "B": "কোনোটিই নয়",
+    "C": "হালকা",
+    "D": "সমান"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "জ্বালানি সাশ্রয়ে ব্যক্তির —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "ভূমিকা আছে",
+    "C": "ভূমিকা নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "খনির নিরাপত্তা বাতি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ডেভি ল্যাম্প"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "লেডযুক্ত পেট্রোল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "উপকারী",
+    "D": "ক্ষতিকর"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "গ্যাস সরবরাহ —",
+   "options": {
+    "A": "পাইপলাইনে",
+    "B": "কিছুই না",
+    "C": "ট্রাকে শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানিতে সঞ্চিত শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "চন্দ্র শক্তি",
+    "D": "সৌর শক্তির রূপান্তর"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "পিটে কার্বন প্রায় —",
+   "options": {
+    "A": "৫০–৬০%",
+    "B": "কোনোটিই নয়",
+    "C": "৭০–৮০%",
+    "D": "৯০%"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "অকটেন নম্বর বেশি মানে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ভালো পেট্রোল",
+    "C": "কোনোটিই নয়",
+    "D": "খারাপ পেট্রোল"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "গ্যাস ব্যবহারে সচেতনতা —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "জরুরি",
+    "C": "কোনোটিই নয়",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির অপচয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ভবিষ্যতের জন্য ক্ষতিকর",
+    "C": "উপকারী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "কয়লা গ্যাসে —",
+   "options": {
+    "A": "মিথেন, H₂, CO থাকে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু O₂",
+    "D": "শুধু CO₂"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "আংশিক পাতন স্তম্ভের নিচে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ভারী অংশ ঘনীভূত হয়",
+    "C": "হালকা অংশ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "মিথেনের দহনে তাপ —",
+   "options": {
+    "A": "শোষিত হয়",
+    "B": "নির্গত হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "সম্পূর্ণ দহনের জন্য —",
+   "options": {
+    "A": "পর্যাপ্ত অক্সিজেন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কম অক্সিজেন"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "অ্যামোনিয়াম সালফেট —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "খাদ্য",
+    "C": "সার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "ডিজেল —",
+   "options": {
+    "A": "ভারী যানবাহনে",
+    "B": "হালকা গাড়িতে শুধু",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "CNG —",
+   "options": {
+    "A": "তরল পেট্রোলিয়াম",
+    "B": "কিছুই না",
+    "C": "সংকুচিত প্রাকৃতিক গ্যাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "সবুজ শক্তিতে রূপান্তর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রয়োজন নয়",
+    "C": "দরকার নেই",
+    "D": "ভবিষ্যতের প্রয়োজন"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "কয়লা খনিতে মিথেন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বিস্ফোরণ ঝুঁকি",
+    "C": "নিরাপদ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "পেট্রোকেমিক্যালের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্লাস্টিক, তন্তু, রং, ওষুধ",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "গ্যাসের চাপে সিলিন্ডার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "মজবুত হতে হয়",
+    "D": "দুর্বল"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি ও পরিবেশ —",
+   "options": {
+    "A": "গভীর সম্পর্ক",
+    "B": "কোনোটিই নয়",
+    "C": "সম্পর্কহীন",
+    "D": "দুর্বল"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "খনিতে বাতাস চলাচল —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "কোনোটিই নয়",
+    "C": "জরুরি নয়",
+    "D": "ভেন্টিলেশন জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "তেলের দাম বৃদ্ধি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফেলে না",
+    "C": "কিছুই না",
+    "D": "অর্থনীতিতে প্রভাব ফেলে"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "গ্যাস লিক হলে —",
+   "options": {
+    "A": "ভেন্টিলেশন ও সতর্কতা",
+    "B": "কিছুই না",
+    "C": "দিয়াশলাই জ্বালানো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "হাইড্রোকার্বনের দহনে উৎপন্ন —",
+   "options": {
+    "A": "CO শুধু",
+    "B": "কোনোটিই নয়",
+    "C": "CO₂ ও H₂O",
+    "D": "H₂ শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "কয়লা শিল্পের —",
+   "options": {
+    "A": "উপজাত শুধু",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কাঁচামাল"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "পেট্রোলিয়ামের বিকল্প —",
+   "options": {
+    "A": "নবায়নযোগ্য শক্তি",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "আরও তেল"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "গ্যাসের চাপ নিয়ন্ত্রণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রেগুলেটরে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "শক্তি দক্ষ বাল্ব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "কম শক্তি খরচ",
+    "D": "বেশি শক্তি খরচ"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "কোক —",
+   "options": {
+    "A": "অপদ্রব্য",
+    "B": "কিছুই না",
+    "C": "প্রায় বিশুদ্ধ কার্বন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "তেল পরিশোধনে —",
+   "options": {
+    "A": "আংশিক পাতন",
+    "B": "স্ফুটন",
+    "C": "গলন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "গ্যাস জ্বালানির সুবিধা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কম দূষণ, উচ্চ দক্ষতা",
+    "C": "কোনোটিই নয়",
+    "D": "বেশি দূষণ"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "বায়োগ্যাসে —",
+   "options": {
+    "A": "পেট্রোল থাকে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "মিথেন থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "পিটে কার্বন —",
+   "options": {
+    "A": "সবচেয়ে বেশি",
+    "B": "সবচেয়ে কম",
+    "C": "মাঝারি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "পেট্রোলিয়াম পরিবহণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "পাইপলাইন ও ট্যাংকারে"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "মিথেনের সংকেত —",
+   "options": {
+    "A": "C₃H₈",
+    "B": "C₂H₆",
+    "C": "কোনোটিই নয়",
+    "D": "CH₄"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "গ্যাসের ক্যালরিফিক মান —",
+   "options": {
+    "A": "সমান",
+    "B": "কোনোটিই নয়",
+    "C": "কয়লার চেয়ে বেশি",
+    "D": "কম"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "লিগনাইট —",
+   "options": {
+    "A": "কঠিন কালো কয়লা",
+    "B": "নরম বাদামি কয়লা",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "তেলের চাপে —",
+   "options": {
+    "A": "তেল উপরে ওঠে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "গ্যাসের অপচয় রোধ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দরকার নেই",
+    "C": "জরুরি নয়",
+    "D": "জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানিকে বলা হয় —",
+   "options": {
+    "A": "কার্বোহাইড্রেট",
+    "B": "প্রোটিন",
+    "C": "হাইড্রোকার্বন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "খনিতে মিথেন গ্যাস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বিস্ফোরণ ঘটাতে পারে",
+    "D": "উপকারী"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "রান্নায় ব্যবহৃত গ্যাস —",
+   "options": {
+    "A": "LPG/প্রাকৃতিক গ্যাস",
+    "B": "N₂",
+    "C": "কোনোটিই নয়",
+    "D": "O₂"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাসের ব্যবহার —",
+   "options": {
+    "A": "রান্না, বিদ্যুৎ, সার, শিল্পে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "শক্তি দক্ষতা বৃদ্ধি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অপচয় করে",
+    "C": "জীবাশ্ম সাশ্রয় করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "শুষ্ক পাতনে কয়লা —",
+   "options": {
+    "A": "বাতাস ছাড়া উত্তপ্ত হয়",
+    "B": "কিছুই না",
+    "C": "বাতাসে উত্তপ্ত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "তেলক্ষেত্রে তেলের সাথে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "গ্যাস ও পানি থাকে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "বাংলাদেশের অর্থনীতিতে গ্যাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অগুরুত্বপূর্ণ",
+    "C": "গুরুত্বপূর্ণ",
+    "D": "নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "ভালো অন্তরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাড়ায়",
+    "C": "কিছুই না",
+    "D": "তাপ ক্ষতি কমায়"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "কয়লা খনির ধুলা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফুসফুসের রোগ ঘটায়",
+    "C": "কিছুই না",
+    "D": "উপকার"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "পেট্রোলিয়াম জেলি —",
+   "options": {
+    "A": "প্রসাধনী ও ওষুধে",
+    "B": "খাদ্যে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাস —",
+   "options": {
+    "A": "গ্যাসীয় জ্বালানি",
+    "B": "কোনোটিই নয়",
+    "C": "কঠিন জ্বালানি",
+    "D": "তরল জ্বালানি"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "জীবাশ্ম শব্দের অর্থ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নতুন জীব",
+    "C": "প্রাচীন জীবদেহের চিহ্ন/অবশেষ",
+    "D": "পাথর"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "বিটুমিনাসে কার্বন প্রায় —",
+   "options": {
+    "A": "৫০%",
+    "B": "৯৫%",
+    "C": "৭০–৮৫%",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "সর্বনিম্ন স্ফুটনাঙ্কের অংশ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বিটুমেন",
+    "C": "পেট্রোলিয়াম গ্যাস",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "বাংলাদেশের গ্যাস মজুদ —",
+   "options": {
+    "A": "কয়েক দশকেই ফুরাতে পারে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "কখনো ফুরাবে না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি সৃষ্টি হয় —",
+   "options": {
+    "A": "জীবদেহাবশেষ থেকে",
+    "B": "কোনোটিই নয়",
+    "C": "পানি থেকে",
+    "D": "পাথর থেকে"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "খনি এলাকার জনগণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "স্থানান্তর হতে পারে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "পেট্রোলিয়ামের অপর নাম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পরিশোধিত তেল",
+    "C": "কোনোটিই নয়",
+    "D": "অপরিশোধিত তেল (ক্রুড অয়েল)"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "বাংলাদেশে সার কারখানায় কাঁচামাল —",
+   "options": {
+    "A": "প্রাকৃতিক গ্যাস",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কয়লা"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি পোড়ালে —",
+   "options": {
+    "A": "শুধু আলো",
+    "B": "তাপ ও আলো হয়",
+    "C": "শুধু তাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "কয়লার দহনে শক্তি —",
+   "options": {
+    "A": "শোষিত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "নির্গত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "পেট্রোলিয়াম গঠনের উৎস —",
+   "options": {
+    "A": "সামুদ্রিক প্লাঙ্কটন ও অণুজীব",
+    "B": "কোনোটিই নয়",
+    "C": "পাথর",
+    "D": "উদ্ভিদ"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "গ্যাস লিক পরীক্ষা —",
+   "options": {
+    "A": "সাবান পানি দিয়ে",
+    "B": "কিছুই না",
+    "C": "দিয়াশলাই দিয়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির বিকল্প উৎসে বিনিয়োগ —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "কোনোটিই নয়",
+    "C": "জরুরি",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "খনন পরবর্তী ভূমি পুনরুদ্ধার —",
+   "options": {
+    "A": "জরুরি",
+    "B": "জরুরি নয়",
+    "C": "কোনোটিই নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "গাড়ির ধোঁয়ায় —",
+   "options": {
+    "A": "O₂",
+    "B": "কোনোটিই নয়",
+    "C": "H₂",
+    "D": "CO, NOx, কণা"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাসের দক্ষতা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিম্ন",
+    "C": "উচ্চ",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির বিকল্প খোঁজা —",
+   "options": {
+    "A": "জরুরি",
+    "B": "জরুরি নয়",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "খনির শ্রমিকদের রোগ —",
+   "options": {
+    "A": "শ্বাসরোগ",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "পেট্রোলিয়াম শিল্পের —",
+   "options": {
+    "A": "উপজাত শুধু",
+    "B": "কোনোটিই নয়",
+    "C": "কাঁচামাল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "গ্যাস সিলিন্ডারের নিরাপত্তা —",
+   "options": {
+    "A": "জরুরি",
+    "B": "জরুরি নয়",
+    "C": "কোনোটিই নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "CO রক্তের হিমোগ্লোবিনের সাথে —",
+   "options": {
+    "A": "উপকার করে",
+    "B": "যুক্ত হয়ে ক্ষতি করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই করে না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "পিটের রং —",
+   "options": {
+    "A": "বাদামি",
+    "B": "কোনোটিই নয়",
+    "C": "সাদা",
+    "D": "কালো চকচকে"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "ভগ্নাংশ পাতনে ভারী অংশ —",
+   "options": {
+    "A": "উপরে ওঠে",
+    "B": "নিচে থাকে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাসের সংরক্ষণ —",
+   "options": {
+    "A": "জরুরি",
+    "B": "কোনোটিই নয়",
+    "C": "দরকার নেই",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "জ্বালানি দক্ষতা —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "কোনোটিই নয়",
+    "C": "নেই",
+    "D": "অগুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "কয়লা একটি —",
+   "options": {
+    "A": "গ্যাসীয় জীবাশ্ম",
+    "B": "তরল জীবাশ্ম",
+    "C": "কোনোটিই নয়",
+    "D": "কঠিন জীবাশ্ম জ্বালানি"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "তেল ছড়িয়ে পড়লে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "উপকার",
+    "C": "কোনোটিই নয়",
+    "D": "সমুদ্র দূষণ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাস সংকোচন করে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সিলিন্ডারে ভরা হয় (CNG)",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির দহনে গ্রিনহাউস গ্যাস —",
+   "options": {
+    "A": "CO₂",
+    "B": "O₂",
+    "C": "N₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "কয়লা —",
+   "options": {
+    "A": "তরল জ্বালানি",
+    "B": "কোনোটিই নয়",
+    "C": "কঠিন জ্বালানি",
+    "D": "গ্যাসীয় জ্বালানি"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "পেট্রোলিয়াম ছাড়া আধুনিক জীবন —",
+   "options": {
+    "A": "স্বাভাবিক",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "অচল"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "গ্যাস চুলায় আগুন না ধরলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "গ্যাস লিক পরীক্ষা"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি ফুরিয়ে গেলে —",
+   "options": {
+    "A": "তৈরি হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পুনরায় তৈরি হয় না"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "কয়লার শুষ্ক পাতনে প্রধান উৎপাদ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কোক",
+    "C": "কিছুই না",
+    "D": "পানি"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "ট্যাংকারে তেল পরিবহণে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ঝুঁকি নেই",
+    "D": "দুর্ঘটনার ঝুঁকি"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "ইথেনের সংকেত —",
+   "options": {
+    "A": "C₂H₆",
+    "B": "কোনোটিই নয়",
+    "C": "CH₄",
+    "D": "C₃H₈"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির প্রধান উপাদান —",
+   "options": {
+    "A": "কার্বন ও হাইড্রোজেন",
+    "B": "কোনোটিই নয়",
+    "C": "অক্সিজেন ও নাইট্রোজেন",
+    "D": "লোহা"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "কোক কয়লার চেয়ে —",
+   "options": {
+    "A": "সমান",
+    "B": "কোনোটিই নয়",
+    "C": "নিকৃষ্ট",
+    "D": "উত্তম জ্বালানি"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "LPG চাপে —",
+   "options": {
+    "A": "তরলে পরিণত হয়",
+    "B": "কিছুই না",
+    "C": "কঠিন হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "গ্যাস মজুদ সংরক্ষণ —",
+   "options": {
+    "A": "জাতীয় গুরুত্বপূর্ণ",
+    "B": "নেই",
+    "C": "কোনোটিই নয়",
+    "D": "গুরুত্বপূর্ণ নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "CO —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বিষাক্ত গ্যাস",
+    "D": "উপকারী গ্যাস"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "কয়লার দূষণ কমাতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্ক্রাবার/পরিশোধক",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "আংশিক পাতন —",
+   "options": {
+    "A": "রঙের পার্থক্যে",
+    "B": "স্ফুটনাঙ্কের পার্থক্যে আলাদা করা",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "কম কার্বন মানে দহনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সমান",
+    "C": "কম CO₂",
+    "D": "বেশি CO₂"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি ব্যবহারে —",
+   "options": {
+    "A": "দূষণ হয় না",
+    "B": "কিছুই না",
+    "C": "দূষণ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "কয়লা সৃষ্টি হয় —",
+   "options": {
+    "A": "পাথর থেকে",
+    "B": "উদ্ভিদের দেহাবশেষ থেকে",
+    "C": "কোনোটিই নয়",
+    "D": "প্রাণীর দেহাবশেষ থেকে"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "কেরোসিনের ব্যবহার —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "চুলা, বাতিতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাস কয়লার চেয়ে —",
+   "options": {
+    "A": "সমান",
+    "B": "কোনোটিই নয়",
+    "C": "কম দূষণকারী",
+    "D": "বেশি দূষণকারী"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "জ্বালানির পরিবহণ ও সংরক্ষণ —",
+   "options": {
+    "A": "সহজ হওয়া উচিত",
+    "B": "কঠিন",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "বাংলাদেশের কয়লা খনি —",
+   "options": {
+    "A": "রূপপুর",
+    "B": "কোনোটিই নয়",
+    "C": "কাপ্তাই",
+    "D": "বড়পুকুরিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "তেল ট্যাংকার দুর্ঘটনা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উপকার",
+    "C": "কিছুই না",
+    "D": "সামুদ্রিক দূষণ"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "CH₄ + 2O₂ → ?",
+   "options": {
+    "A": "CO₂ + 2H₂O",
+    "B": "CO + 2H₂O",
+    "C": "কোনোটিই নয়",
+    "D": "CO₂ + H₂O"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি গঠনে সময় —",
+   "options": {
+    "A": "কয়েক ঘণ্টা",
+    "B": "কয়েক দিন",
+    "C": "কোনোটিই নয়",
+    "D": "লক্ষ লক্ষ বছর"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "পিট —",
+   "options": {
+    "A": "পরিণত কয়লা",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অপরিণত কয়লা"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "অপরিশোধিত তেল —",
+   "options": {
+    "A": "ব্যবহারযোগ্য",
+    "B": "সরাসরি ব্যবহারযোগ্য নয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "গ্যাসের নিরাপদ ব্যবহার —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "কোনোটিই নয়",
+    "C": "জরুরি",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "অসম্পূর্ণ দহনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু CO₂",
+    "C": "কিছুই না",
+    "D": "CO ও কার্বন কণা"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "কোকের দহনে —",
+   "options": {
+    "A": "প্রায় ধোঁয়াহীন তাপ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ধোঁয়াপূর্ণ"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "তেল ছড়ানো পরিষ্কার —",
+   "options": {
+    "A": "সহজ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "কঠিন ও ব্যয়বহুল"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "বাংলাদেশে গ্যাস আবিষ্কৃত —",
+   "options": {
+    "A": "১৯৯০ সালে",
+    "B": "১৯৭১ সালে",
+    "C": "কোনোটিই নয়",
+    "D": "১৯৫৫ সালে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি পুনরুৎপাদনযোগ্য —",
+   "options": {
+    "A": "না",
+    "B": "কোনোটিই নয়",
+    "C": "হ্যাঁ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "খনিতে গ্যাস বিস্ফোরণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "নিরাপদ",
+    "D": "বিপদজনক"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "প্লাস্টিক, তন্তু, রং —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পেট্রোলিয়াম থেকে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাস থেকে অ্যামোনিয়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সার তৈরিতে",
+    "D": "খাদ্যে"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি ও অর্থনীতি —",
+   "options": {
+    "A": "গভীরভাবে জড়িত",
+    "B": "কোনোটিই নয়",
+    "C": "সম্পর্কহীন",
+    "D": "দুর্বল"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "খনিতে মিথেন গ্যাসের নাম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "ফায়ারড্যাম্প"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "পেট্রোলিয়াম থেকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "নানা রাসায়নিক তৈরি হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "LNG —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সংকুচিত গ্যাস",
+    "C": "কিছুই না",
+    "D": "তরলীকৃত প্রাকৃতিক গ্যাস"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি সাশ্রয়ে —",
+   "options": {
+    "A": "কেউ নয়",
+    "B": "সবাই দায়ী",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "কয়লার পরিণতির ক্রম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পিট → লিগনাইট → বিটুমিনাস → অ্যানথ্রাসাইট",
+    "C": "অ্যানথ্রাসাইট → পিট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "পেট্রোলিয়াম দহনে —",
+   "options": {
+    "A": "CO₂ ও দূষণ",
+    "B": "H₂",
+    "C": "O₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "CNG স্টেশনে —",
+   "options": {
+    "A": "তেল ভরা হয়",
+    "B": "গ্যাস ভরা হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "অসম্পূর্ণ দহন —",
+   "options": {
+    "A": "ক্ষতিকর CO দেয়",
+    "B": "কিছুই না",
+    "C": "উপকারী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "C + O₂ → ?",
+   "options": {
+    "A": "C₂O",
+    "B": "কোনোটিই নয়",
+    "C": "CO₂",
+    "D": "CO"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "পেট্রোলিয়ামের উৎস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পাথর",
+    "C": "সামুদ্রিক অণুজীবের অবশেষ",
+    "D": "উদ্ভিদের অবশেষ"
+   },
+   "correctAnswer": "C",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "গ্যাসের বিকল্প শক্তি —",
+   "options": {
+    "A": "সৌর, বায়ু, বায়োগ্যাস",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "আরও গ্যাস"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি কাকে বলে?",
+   "options": {
+    "A": "সৌর জ্বালানি",
+    "B": "জীবদেহাবশেষ থেকে সৃষ্ট জ্বালানি",
+    "C": "কোনোটিই নয়",
+    "D": "কৃত্রিম জ্বালানি"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "অ্যানথ্রাসাইটে কার্বন প্রায় —",
+   "options": {
+    "A": "৭০%",
+    "B": "কোনোটিই নয়",
+    "C": "৯০–৯৫%",
+    "D": "৫০%"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "পেট্রোকেমিক্যাল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "পেট্রোলিয়াম থেকে তৈরি রাসায়নিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাস থেকে —",
+   "options": {
+    "A": "ইউরিয়া সার",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "জ্বালানি স্বনির্ভরতা —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "কাম্য",
+    "C": "অকাম্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "কয়লা সৃষ্টিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উদ্ভিদ পচে/চাপে পরিবর্তিত হয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "আংশিক পাতন স্তম্ভের উপরে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "হালকা অংশ",
+    "D": "ভারী অংশ"
+   },
+   "correctAnswer": "C",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাসের প্রধান ব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "খাদ্য",
+    "C": "কোনোটিই নয়",
+    "D": "জ্বালানি ও সার"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "জ্বালানি নির্বাচনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্যালরিফিক মান ও দূষণ",
+    "C": "কিছুই না",
+    "D": "শুধু দাম"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "কয়লা দহনে —",
+   "options": {
+    "A": "SO₂, CO₂, ধোঁয়া",
+    "B": "H₂",
+    "C": "O₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "আংশিক পাতনে পৃথকীকরণ —",
+   "options": {
+    "A": "স্ফুটনাঙ্কের পার্থক্যে",
+    "B": "কিছুই না",
+    "C": "রঙে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "গ্যাস রপ্তানি/ব্যবহার নীতি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সাশ্রয়ী হওয়া উচিত",
+    "C": "কিছুই না",
+    "D": "অপচয়ী"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির দাম —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "মজুদ ও চাহিদায় নির্ভর করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "কয়লা গঠনের স্থান —",
+   "options": {
+    "A": "জলাভূমি",
+    "B": "মরুভূমি",
+    "C": "পাহাড়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "নাইলন, পলিয়েস্টার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পেট্রোলিয়াম থেকে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "হেবার প্রক্রিয়ায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "CO₂ থেকে",
+    "C": "কিছুই না",
+    "D": "N₂ + H₂ থেকে NH₃"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "দূষণের ক্রম —",
+   "options": {
+    "A": "সমান",
+    "B": "গ্যাস > তেল > কয়লা",
+    "C": "কোনোটিই নয়",
+    "D": "কয়লা > তেল > গ্যাস"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "অ্যামোনিয়া থেকে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "সার তৈরি হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "যানবাহনে ক্যাটালিটিক কনভার্টার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দূষণ কমায়",
+    "C": "কিছুই না",
+    "D": "বাড়ায়"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "গ্যাস সিলিন্ডার খোলা জায়গায় —",
+   "options": {
+    "A": "রাখা ভালো",
+    "B": "বদ্ধ জায়গায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির বিকল্পে বাংলাদেশ —",
+   "options": {
+    "A": "করছে না",
+    "B": "সৌর ও বায়ুতে বিনিয়োগ করছে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "কয়লার গুণাগুণ —",
+   "options": {
+    "A": "কার্বন পরিমাণে নির্ভর করে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "পেট্রোলিয়াম থেকে প্লাস্টিক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "তৈরি হয়",
+    "C": "হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "বাংলাদেশের প্রধান খনিজ সম্পদ —",
+   "options": {
+    "A": "প্রাকৃতিক গ্যাস",
+    "B": "কয়লা",
+    "C": "পেট্রোলিয়াম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "CO₂ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্রিনহাউস গ্যাস",
+    "C": "কিছুই না",
+    "D": "নিরীহ গ্যাস"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "বিটুমিনাস কয়লার ব্যবহার —",
+   "options": {
+    "A": "বিদ্যুৎ ও শিল্পে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "পেট্রোলিয়াম পাওয়া যায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভূগর্ভের তেলক্ষেত্রে",
+    "C": "সমুদ্রপৃষ্ঠে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "গ্যাসের সাশ্রয়ী ব্যবহারে —",
+   "options": {
+    "A": "কাউকে নয়",
+    "B": "কোনোটিই নয়",
+    "C": "দরকার নেই",
+    "D": "সবাই সচেতন হতে হবে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি ও বায়োগ্যাসের পার্থক্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উৎসে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "অ্যানথ্রাসাইটে কার্বন —",
+   "options": {
+    "A": "প্রায় ৫০%",
+    "B": "কোনোটিই নয়",
+    "C": "প্রায় ৯০%",
+    "D": "প্রায় ২০%"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "সর্বোচ্চ স্ফুটনাঙ্কের অংশ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পেট্রোলিয়াম গ্যাস",
+    "C": "কোনোটিই নয়",
+    "D": "বিটুমেন"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "প্রাকৃতিক গ্যাসে কার্বন —",
+   "options": {
+    "A": "বেশি",
+    "B": "সমান",
+    "C": "কোনোটিই নয়",
+    "D": "কয়লার চেয়ে কম"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি সংরক্ষণ ও পরিবেশ রক্ষা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দুর্বল",
+    "C": "সম্পর্কহীন",
+    "D": "পরস্পর সম্পর্কিত"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "কয়লার গঠন পর্যায় —",
+   "options": {
+    "A": "ক্রমশ নিম্ন হয়",
+    "B": "কোনোটিই নয়",
+    "C": "ক্রমশ উন্নত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "আনলেডেড পেট্রোল —",
+   "options": {
+    "A": "ক্ষতিকর",
+    "B": "কোনোটিই নয়",
+    "C": "পরিবেশবান্ধব",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "বাংলাদেশে CNG —",
+   "options": {
+    "A": "ব্যাপক ব্যবহৃত",
+    "B": "কোনোটিই নয়",
+    "C": "দরকার নেই",
+    "D": "ব্যবহৃত নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "জ্বালানির সহজলভ্যতা —",
+   "options": {
+    "A": "নেই",
+    "B": "বিবেচ্য বিষয়",
+    "C": "কোনোটিই নয়",
+    "D": "অবিবেচ্য"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "কয়লার বিকল্প —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রাকৃতিক গ্যাস, নবায়নযোগ্য",
+    "C": "কিছুই না",
+    "D": "আরও কয়লা"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "পেট্রোলিয়ামের অংশ —",
+   "options": {
+    "A": "শুধু ডিজেল",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু পেট্রোল",
+    "D": "পেট্রোল, ডিজেল, কেরোসিন, ন্যাপথা"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "LPG এর পূর্ণরূপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "Liquid Power Gas",
+    "C": "কিছুই না",
+    "D": "Liquefied Petroleum Gas"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাকৃতিক গ্যাস",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "জলবায়ু পরিবর্তনের কারণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "গ্রিনহাউস গ্যাস বৃদ্ধি",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "কয়লার শুষ্ক পাতনে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কোক, কয়লা গ্যাস, আলকাতরা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "সবচেয়ে বেশি স্ফুটনাঙ্কের অংশ —",
+   "options": {
+    "A": "ডিজেল",
+    "B": "পেট্রোল",
+    "C": "আলকাতরা/বিটুমেন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "গ্লোবাল ওয়ার্মিং —",
+   "options": {
+    "A": "তাপমাত্রা বৃদ্ধি",
+    "B": "কিছুই না",
+    "C": "তাপমাত্রা হ্রাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "কয়লা থেকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বিদ্যুৎ উৎপন্ন হয়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "পেট্রোলিয়াম কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পরিশোধিত তেল",
+    "D": "খনিজ তেল (অপরিশোধিত তেল)"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "রসায়ন জীবাশ্ম জ্বালানির —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "করে না",
+    "C": "উৎপাদন-ব্যবহার ব্যাখ্যা করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "অ্যানথ্রাসাইট —",
+   "options": {
+    "A": "নরম কয়লা",
+    "B": "কিছুই না",
+    "C": "চকচকে কঠিন কয়লা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "বিটুমেন —",
+   "options": {
+    "A": "খাদ্যে",
+    "B": "কিছুই না",
+    "C": "রাস্তা নির্মাণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "জ্বালানি মিশ্রণ (এনার্জি মিক্স) —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বৈচিত্র্য আনে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "সর্বোচ্চ মানের কয়লা —",
+   "options": {
+    "A": "লিগনাইট",
+    "B": "কোনোটিই নয়",
+    "C": "পিট",
+    "D": "অ্যানথ্রাসাইট"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "পেট্রোলিয়াম পরিশোধনের প্রধান পদ্ধতি —",
+   "options": {
+    "A": "ভগ্নাংশ পাতন",
+    "B": "কোনোটিই নয়",
+    "C": "গলন",
+    "D": "স্ফুটন"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি —",
+   "options": {
+    "A": "নবায়নযোগ্য",
+    "B": "অনবায়নযোগ্য",
+    "C": "কোনোটিই নয়",
+    "D": "উভয়ই"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "পিট থেকে সময়ের সাথে —",
+   "options": {
+    "A": "লিগনাইট হয়",
+    "B": "অ্যানথ্রাসাইট হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "পেট্রোলিয়ামে হাইড্রোকার্বন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "একটাই",
+    "C": "কিছুই না",
+    "D": "বিভিন্ন শৃঙ্খল দৈর্ঘ্যের"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "পরিচ্ছন্নতম জীবাশ্ম জ্বালানি —",
+   "options": {
+    "A": "প্রাকৃতিক গ্যাস",
+    "B": "কয়লা",
+    "C": "কোনোটিই নয়",
+    "D": "তেল"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "খনির শ্রমিকদের স্বাস্থ্য সুরক্ষা —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "জরুরি",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "তেল ছড়ানো দুর্ঘটনায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উপকার",
+    "C": "কিছুই না",
+    "D": "সামুদ্রিক পাখি ও মাছ মরে"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির ওপর নির্ভরতা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বাড়াতে হবে",
+    "C": "কোনোটিই নয়",
+    "D": "ধীরে কমাতে হবে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "পলিমাটিতে চাপা উদ্ভিদ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অক্সিজেনে পচে",
+    "C": "অক্সিজেন ছাড়া পচে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "তেল পাইপলাইন রক্ষণাবেক্ষণ —",
+   "options": {
+    "A": "জরুরি",
+    "B": "দরকার নেই",
+    "C": "কোনোটিই নয়",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "জীবদেহাবশেষ মাটিচাপা হয়ে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "জীবাশ্ম জ্বালানি হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "খনিতে গ্যাস শনাক্তকরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "নিরাপত্তার জন্য",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "পেট্রোলিয়াম —",
+   "options": {
+    "A": "তরল জ্বালানি",
+    "B": "কোনোটিই নয়",
+    "C": "গ্যাসীয় জ্বালানি",
+    "D": "কঠিন জ্বালানি"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "বায়োগ্যাস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "জীবাশ্ম জ্বালানি",
+    "D": "নবায়নযোগ্য জ্বালানি"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "কয়লা থেকে অ্যামোনিয়া —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "সারে ব্যবহৃত",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "পেট্রোলিয়াম থেকে কৃত্রিম তন্তু —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নাইলন, পলিয়েস্টার",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি অধ্যায় শিক্ষার্থীদের —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "সচেতন করে",
+    "C": "কোনোটিই নয়",
+    "D": "করে না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "কয়লার ক্যালরিফিক মান —",
+   "options": {
+    "A": "সমান",
+    "B": "পিটে সর্বোচ্চ",
+    "C": "অ্যানথ্রাসাইটে সর্বোচ্চ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "সবচেয়ে কম স্ফুটনাঙ্কের অংশ —",
+   "options": {
+    "A": "ডিজেল",
+    "B": "কোনোটিই নয়",
+    "C": "আলকাতরা",
+    "D": "পেট্রোল/পেট্রোলিয়াম গ্যাস"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "উদ্ভিদ সালোকসংশ্লেষণে সৌর শক্তি —",
+   "options": {
+    "A": "নষ্ট করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "জমা করে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "কয়লা থেকে কোক উৎপাদনে —",
+   "options": {
+    "A": "শুষ্ক পাতন",
+    "B": "কিছুই না",
+    "C": "ভগ্ন পাতন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "পেট্রোলিয়াম গঠনে —",
+   "options": {
+    "A": "কয়েক দিন",
+    "B": "কোনোটিই নয়",
+    "C": "কয়েক ঘণ্টা",
+    "D": "লক্ষ লক্ষ বছর লাগে"
+   },
+   "correctAnswer": "D",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির দহন —",
+   "options": {
+    "A": "তাপগ্রাহী",
+    "B": "কোনোটিই নয়",
+    "C": "নিরপেক্ষ",
+    "D": "তাপমোচী"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "খনির টেকসই ব্যবস্থাপনা —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "কোনোটিই নয়",
+    "C": "জরুরি",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "স্ফুটনাঙ্ক কম অংশ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আগে বাষ্পীভূত হয়",
+    "C": "কিছুই না",
+    "D": "পরে"
+   },
+   "correctAnswer": "B",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "গ্লোবাল ওয়ার্মিংয়ের ফল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বরফ গলে, সমুদ্রপৃষ্ঠ বাড়ে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "কোকের বৈশিষ্ট্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অপদ্রব্য",
+    "C": "কোনোটিই নয়",
+    "D": "ছিদ্রযুক্ত, প্রায় বিশুদ্ধ কার্বন"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "পেট্রোলিয়ামের সাশ্রয়ী ব্যবহার —",
+   "options": {
+    "A": "জরুরি",
+    "B": "দরকার নেই",
+    "C": "কোনোটিই নয়",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পেট্রোলিয়াম",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির বিকল্প —",
+   "options": {
+    "A": "নবায়নযোগ্য শক্তি",
+    "B": "কিছুই না",
+    "C": "আরও জীবাশ্ম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "অ্যানথ্রাসাইটের রং —",
+   "options": {
+    "A": "কালো চকচকে",
+    "B": "হলুদ",
+    "C": "কোনোটিই নয়",
+    "D": "বাদামি"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির সাশ্রয়ী ব্যবহার —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "কোনোটিই নয়",
+    "C": "জরুরি",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "কয়লা খননের পরিবেশগত ক্ষতি —",
+   "options": {
+    "A": "ভূমিক্ষয়, দূষণ",
+    "B": "কিছুই না",
+    "C": "উপকার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি তৈরি হতে —",
+   "options": {
+    "A": "কয়েক ঘণ্টা",
+    "B": "কোনোটিই নয়",
+    "C": "কয়েক দিন লাগে",
+    "D": "লক্ষ লক্ষ বছর লাগে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "প্রাচীন জলাভূমির উদ্ভিদ —",
+   "options": {
+    "A": "পেট্রোলিয়ামের উৎস",
+    "B": "কোনোটিই নয়",
+    "C": "কয়লার উৎস",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানির শক্তির উৎস —",
+   "options": {
+    "A": "সূর্য",
+    "B": "তারা",
+    "C": "চাঁদ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "কয়লার প্রকার কয়টি?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৩",
+    "C": "২",
+    "D": "৪"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "হাঁটা/সাইকেল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পরিবেশবান্ধব",
+    "D": "ক্ষতিকর"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবাশ্ম জ্বালানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "খনিতে ডেভি বাতি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "মিথেন শনাক্তে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "কয়লা দহনে দূষণ —",
+   "options": {
+    "A": "হয় না",
+    "B": "হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "কয়লার ব্যবহার —",
+   "options": {
+    "A": "বিদ্যুৎ, শিল্প, ইস্পাত",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "কয়লা দহনের দূষণ কমাতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "আধুনিক প্রযুক্তি",
+    "D": "আরও কয়লা"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "তাপবিদ্যুৎ কেন্দ্রে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কয়লা ব্যবহৃত হয়",
+    "C": "পানি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "আলকাতরা থেকে রং ও ওষুধ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তৈরি হয়",
+    "C": "হয় না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "কয়লা দহনে ছাই —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "থাকে না",
+    "C": "থেকে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "অ্যানথ্রাসাইটের ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গৃহস্থালি ও বিশেষ কাজে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "কয়লা সৃষ্টির কাঁচামাল —",
+   "options": {
+    "A": "প্রাণী",
+    "B": "উদ্ভিদ",
+    "C": "পাথর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "কয়লায় অপদ্রব্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু কার্বন",
+    "C": "কোনোটিই নয়",
+    "D": "ছাই, সালফার"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "কয়লার উপজাতের গুরুত্ব —",
+   "options": {
+    "A": "অপরিসীম",
+    "B": "কোনোটিই নয়",
+    "C": "নেই",
+    "D": "সীমিত"
+   },
+   "correctAnswer": "A",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "খনির শ্রমিকদের নিরাপত্তা —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "নিশ্চিত করা জরুরি",
+    "C": "কোনোটিই নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "কয়লা খনিতে —",
+   "options": {
+    "A": "নিরাপদ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শ্রমিক ঝুঁকিতে"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "কয়লার ৪ প্রকার —",
+   "options": {
+    "A": "শুধু ২",
+    "B": "শুধু ১",
+    "C": "কোনোটিই নয়",
+    "D": "পিট, লিগনাইট, বিটুমিনাস, অ্যানথ্রাসাইট"
+   },
+   "correctAnswer": "D",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "আলকাতরা থেকে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "রং, ওষুধ, প্লাস্টিক",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "কয়লা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "A",
+  "2": "C",
+  "3": "B",
+  "4": "A",
+  "5": "B",
+  "6": "D",
+  "7": "B",
+  "8": "A",
+  "9": "C",
+  "10": "A",
+  "11": "C",
+  "12": "D",
+  "13": "D",
+  "14": "D",
+  "15": "A",
+  "16": "C",
+  "17": "D",
+  "18": "D",
+  "19": "B",
+  "20": "B",
+  "21": "C",
+  "22": "B",
+  "23": "D",
+  "24": "B",
+  "25": "B",
+  "26": "B",
+  "27": "C",
+  "28": "C",
+  "29": "B",
+  "30": "B",
+  "31": "C",
+  "32": "D",
+  "33": "B",
+  "34": "C",
+  "35": "A",
+  "36": "D",
+  "37": "D",
+  "38": "D",
+  "39": "C",
+  "40": "B",
+  "41": "A",
+  "42": "A",
+  "43": "C",
+  "44": "B",
+  "45": "B",
+  "46": "D",
+  "47": "C",
+  "48": "C",
+  "49": "C",
+  "50": "A",
+  "51": "B",
+  "52": "C",
+  "53": "C",
+  "54": "A",
+  "55": "B",
+  "56": "A",
+  "57": "C",
+  "58": "D",
+  "59": "D",
+  "60": "C",
+  "61": "D",
+  "62": "D",
+  "63": "B",
+  "64": "B",
+  "65": "D",
+  "66": "D",
+  "67": "D",
+  "68": "A",
+  "69": "A",
+  "70": "D",
+  "71": "D",
+  "72": "C",
+  "73": "A",
+  "74": "B",
+  "75": "A",
+  "76": "D",
+  "77": "A",
+  "78": "D",
+  "79": "D",
+  "80": "B",
+  "81": "A",
+  "82": "B",
+  "83": "B",
+  "84": "D",
+  "85": "A",
+  "86": "A",
+  "87": "A",
+  "88": "A",
+  "89": "B",
+  "90": "C",
+  "91": "D",
+  "92": "A",
+  "93": "A",
+  "94": "B",
+  "95": "C",
+  "96": "B",
+  "97": "C",
+  "98": "A",
+  "99": "C",
+  "100": "C",
+  "101": "B",
+  "102": "C",
+  "103": "B",
+  "104": "B",
+  "105": "B",
+  "106": "B",
+  "107": "D",
+  "108": "A",
+  "109": "B",
+  "110": "A",
+  "111": "A",
+  "112": "D",
+  "113": "C",
+  "114": "A",
+  "115": "B",
+  "116": "D",
+  "117": "A",
+  "118": "B",
+  "119": "D",
+  "120": "A",
+  "121": "B",
+  "122": "B",
+  "123": "B",
+  "124": "D",
+  "125": "C",
+  "126": "B",
+  "127": "D",
+  "128": "C",
+  "129": "A",
+  "130": "D",
+  "131": "D",
+  "132": "D",
+  "133": "C",
+  "134": "B",
+  "135": "A",
+  "136": "B",
+  "137": "C",
+  "138": "D",
+  "139": "B",
+  "140": "D",
+  "141": "A",
+  "142": "B",
+  "143": "A",
+  "144": "C",
+  "145": "B",
+  "146": "D",
+  "147": "D",
+  "148": "A",
+  "149": "D",
+  "150": "A",
+  "151": "B",
+  "152": "B",
+  "153": "B",
+  "154": "A",
+  "155": "B",
+  "156": "B",
+  "157": "A",
+  "158": "C",
+  "159": "A",
+  "160": "C",
+  "161": "D",
+  "162": "B",
+  "163": "B",
+  "164": "C",
+  "165": "A",
+  "166": "D",
+  "167": "D",
+  "168": "A",
+  "169": "C",
+  "170": "D",
+  "171": "A",
+  "172": "B",
+  "173": "C",
+  "174": "C",
+  "175": "A",
+  "176": "B",
+  "177": "D",
+  "178": "B",
+  "179": "D",
+  "180": "D",
+  "181": "C",
+  "182": "B",
+  "183": "A",
+  "184": "D",
+  "185": "C",
+  "186": "C",
+  "187": "A",
+  "188": "A",
+  "189": "C",
+  "190": "A",
+  "191": "B",
+  "192": "C",
+  "193": "D",
+  "194": "B",
+  "195": "A",
+  "196": "A",
+  "197": "C",
+  "198": "C",
+  "199": "C",
+  "200": "A",
+  "201": "A",
+  "202": "C",
+  "203": "D",
+  "204": "A",
+  "205": "B",
+  "206": "C",
+  "207": "A",
+  "208": "A",
+  "209": "C",
+  "210": "A",
+  "211": "D",
+  "212": "C",
+  "213": "A",
+  "214": "A",
+  "215": "C",
+  "216": "A",
+  "217": "B",
+  "218": "A",
+  "219": "B",
+  "220": "A",
+  "221": "A",
+  "222": "D",
+  "223": "D",
+  "224": "B",
+  "225": "A",
+  "226": "C",
+  "227": "D",
+  "228": "D",
+  "229": "D",
+  "230": "B",
+  "231": "D",
+  "232": "A",
+  "233": "A",
+  "234": "D",
+  "235": "A",
+  "236": "A",
+  "237": "C",
+  "238": "B",
+  "239": "B",
+  "240": "C",
+  "241": "C",
+  "242": "B",
+  "243": "C",
+  "244": "C",
+  "245": "A",
+  "246": "D",
+  "247": "D",
+  "248": "A",
+  "249": "D",
+  "250": "D",
+  "251": "B",
+  "252": "C",
+  "253": "D",
+  "254": "A",
+  "255": "D",
+  "256": "D",
+  "257": "A",
+  "258": "D",
+  "259": "B",
+  "260": "C",
+  "261": "A",
+  "262": "D",
+  "263": "D",
+  "264": "D",
+  "265": "B",
+  "266": "B",
+  "267": "A",
+  "268": "B",
+  "269": "A",
+  "270": "C",
+  "271": "C",
+  "272": "A",
+  "273": "B",
+  "274": "C",
+  "275": "C",
+  "276": "A",
+  "277": "B",
+  "278": "B",
+  "279": "C",
+  "280": "D",
+  "281": "B",
+  "282": "A",
+  "283": "A",
+  "284": "B",
+  "285": "C",
+  "286": "A",
+  "287": "C",
+  "288": "D",
+  "289": "D",
+  "290": "B",
+  "291": "B",
+  "292": "A",
+  "293": "B",
+  "294": "A",
+  "295": "B",
+  "296": "A",
+  "297": "B",
+  "298": "A",
+  "299": "B",
+  "300": "D",
+  "301": "B",
+  "302": "C",
+  "303": "D",
+  "304": "D",
+  "305": "D",
+  "306": "C",
+  "307": "C",
+  "308": "A",
+  "309": "B",
+  "310": "B",
+  "311": "D",
+  "312": "D",
+  "313": "C",
+  "314": "C",
+  "315": "C",
+  "316": "A",
+  "317": "B",
+  "318": "D",
+  "319": "C",
+  "320": "C",
+  "321": "C",
+  "322": "B",
+  "323": "D",
+  "324": "A",
+  "325": "B",
+  "326": "A",
+  "327": "D",
+  "328": "A",
+  "329": "B",
+  "330": "D",
+  "331": "D",
+  "332": "C",
+  "333": "A",
+  "334": "C",
+  "335": "C",
+  "336": "A",
+  "337": "D",
+  "338": "C",
+  "339": "B",
+  "340": "B",
+  "341": "C",
+  "342": "D",
+  "343": "D",
+  "344": "A",
+  "345": "D",
+  "346": "D",
+  "347": "C",
+  "348": "B",
+  "349": "C",
+  "350": "D",
+  "351": "A",
+  "352": "A",
+  "353": "A",
+  "354": "C",
+  "355": "A",
+  "356": "D",
+  "357": "C",
+  "358": "A",
+  "359": "D",
+  "360": "C",
+  "361": "C",
+  "362": "B",
+  "363": "A",
+  "364": "C",
+  "365": "B",
+  "366": "B",
+  "367": "C",
+  "368": "B",
+  "369": "B",
+  "370": "D",
+  "371": "A",
+  "372": "B",
+  "373": "D",
+  "374": "D",
+  "375": "B"
+ }
+}
