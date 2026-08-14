@@ -11,4 +11,4 @@ Professional Online Question Bank
 - Image Download
 - Developer Only Upload/Delete
 - Viewer Read Only
-- Play Store Ready
+- Play Store Ready2-page layout (25 MCQs + answer key per 2 pages)
