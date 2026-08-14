@@ -1,0 +1,7134 @@
+{
+ "subject": "পদার্থবিজ্ঞান",
+ "chapterNo": 8,
+ "chapter": "আলোর প্রতিফলন",
+ "questions": [
+  {
+   "question": "ছায়া সৃষ্টির কারণ —",
+   "options": {
+    "A": "আলোর সরলরৈখিক চলন",
+    "B": "প্রতিফলন",
+    "C": "প্রতিসরণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "আপতন কোণ ৪৫° হলে প্রতিফলন কোণ কত?",
+   "options": {
+    "A": "৪৫°",
+    "B": "৯০°",
+    "C": "২২.৫°",
+    "D": "৬০°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "সমতল দর্পণে প্রতিবিম্ব —",
+   "options": {
+    "A": "অসদ ও সমান আকার",
+    "B": "সদ ও বড়",
+    "C": "সদ ও ছোট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "অবতল দর্পণে মেরুতে আপতিত রশ্মি —",
+   "options": {
+    "A": "সমান কোণে প্রতিফলিত হয়",
+    "B": "ফোকাসে যায়",
+    "C": "কেন্দ্রে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "বস্তুর দূরত্ব ৩০ সেমি, প্রতিবিম্বের দূরত্ব ১৫ সেমি হলে বিবর্ধন কত?",
+   "options": {
+    "A": "০.৫",
+    "B": "২",
+    "C": "১",
+    "D": "৪৫"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "উত্তল দর্পণে সবসময় —",
+   "options": {
+    "A": "সোজা ও ছোট প্রতিবিম্ব",
+    "B": "উল্টো ও বড়",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "চন্দ্রগ্রহণ ঘটে —",
+   "options": {
+    "A": "পৃথিবীর ছায়ায়",
+    "B": "সূর্যের ছায়ায়",
+    "C": "চাঁদের ছায়ায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "অভিলম্বের সাথে প্রতিফলিত রশ্মির কোণকে কী বলে?",
+   "options": {
+    "A": "প্রতিফলন কোণ",
+    "B": "আপতন কোণ",
+    "C": "সরল কোণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "সমতল দর্পণের ফোকাস দূরত্ব —",
+   "options": {
+    "A": "অসীম",
+    "B": "শূন্য",
+    "C": "সসীম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "অবতল দর্পণে ফোকাস দিয়ে আসা রশ্মি প্রতিফলনের পর —",
+   "options": {
+    "A": "প্রধান অক্ষের সমান্তরাল",
+    "B": "ফোকাসে ফেরে",
+    "C": "কেন্দ্রে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "বিবর্ধন (magnification) m = ?",
+   "options": {
+    "A": "v/u",
+    "B": "u/v",
+    "C": "vu",
+    "D": "u−v"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "গাড়ির পেছনের (রিয়ার ভিউ) আয়না কোনটি?",
+   "options": {
+    "A": "উত্তল",
+    "B": "অবতল",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "আলো এক বছরে যে দূরত্ব যায় তাকে কী বলে?",
+   "options": {
+    "A": "আলোকবর্ষ",
+    "B": "AU",
+    "C": "পারসেক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "রাতে জানালার কাচে নিজের প্রতিবিম্ব দেখা যায় —",
+   "options": {
+    "A": "প্রতিফলনে",
+    "B": "প্রতিসরণে",
+    "C": "শোষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "ক্যালাইডোস্কোপে কয়টি দর্পণ থাকে?",
+   "options": {
+    "A": "৩",
+    "B": "২",
+    "C": "৪",
+    "D": "৫"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "প্রধান ফোকাস কাকে বলে?",
+   "options": {
+    "A": "সমান্তরাল রশ্মির মিলন বিন্দু",
+    "B": "কেন্দ্র",
+    "C": "মেরু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "বিবর্ধন m = h'/h এ h' প্রতিবিম্বের উচ্চতা —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "উত্তল দর্পণে প্রতিবিম্ব পর্দায় —",
+   "options": {
+    "A": "ধরা যায় না",
+    "B": "ধরা যায়",
+    "C": "কখনো যায়",
+    "D": "কখনো যায় না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "আলোর বেগ হীরায় —",
+   "options": {
+    "A": "সবচেয়ে কম",
+    "B": "সবচেয়ে বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "আলোর প্রতিফলনের সূত্র লঙ্ঘিত হয় —",
+   "options": {
+    "A": "কখনো না",
+    "B": "সবসময়",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "একজন ব্যক্তি দর্পণের দিকে ০.৫ মি/সে বেগে এগোলে প্রতিবিম্ব কত বেগে আসে?",
+   "options": {
+    "A": "০.৫ মি/সে",
+    "B": "১ মি/সে",
+    "C": "০.২৫ মি/সে",
+    "D": "২ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "মেরু (pole) কাকে বলে?",
+   "options": {
+    "A": "দর্পণের মধ্যবিন্দু",
+    "B": "বক্রতা কেন্দ্র",
+    "C": "ফোকাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "বিবর্ধন ০.৫ হলে প্রতিবিম্ব —",
+   "options": {
+    "A": "বস্তুর অর্ধেক",
+    "B": "বস্তুর দ্বিগুণ",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "অবতল দর্পণের প্রতিবিম্ব সদ ও অসদ দুটোই হতে পারে —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "আলোর বেগ কাচে পানির চেয়ে —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "আলোর প্রতিফলন একটি —",
+   "options": {
+    "A": "তরঙ্গের ধর্ম",
+    "B": "কণার ধর্ম",
+    "C": "উভয়ের",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "দুটি দর্পণ ৪৫° কোণে থাকলে প্রতিবিম্ব কয়টি?",
+   "options": {
+    "A": "৭",
+    "B": "৮",
+    "C": "৬",
+    "D": "৯"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "উত্তল দর্পণে প্রতিফলক পৃষ্ঠ —",
+   "options": {
+    "A": "বাইরের দিকে",
+    "B": "ভেতরের দিকে",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "উত্তল দর্পণের f = ১০ সেমি, u = ২০ সেমি হলে v কত?",
+   "options": {
+    "A": "৬.৬৭ সেমি",
+    "B": "১০ সেমি",
+    "C": "২০ সেমি",
+    "D": "৩০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "রাস্তার মোড়ে উত্তল দর্পণ লাগানো হয় —",
+   "options": {
+    "A": "চওড়া দৃশ্যের জন্য",
+    "B": "সৌন্দর্যে",
+    "C": "নিয়মে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "আলো সরলরেখায় চলে — এটি কী?",
+   "options": {
+    "A": "আলোর সরলরৈখিক চলন",
+    "B": "প্রতিফলন",
+    "C": "প্রতিসরণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "আয়নায় কোন প্রতিফলন হয়?",
+   "options": {
+    "A": "নিয়মিত",
+    "B": "ব্যাপ্ত",
+    "C": "দুটোই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "সমতল দর্পণে প্রতিবিম্ব সোজা —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "ফোকাস দূরত্ব ২৫ সেমি হলে বক্রতা ব্যাসার্ধ কত?",
+   "options": {
+    "A": "৫০ সেমি",
+    "B": "২৫ সেমি",
+    "C": "১২.৫ সেমি",
+    "D": "১০০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "দর্পণ সূত্রে অবতল দর্পণের f —",
+   "options": {
+    "A": "ঋণাত্মক",
+    "B": "ধনাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "অবতল দর্পণে বস্তু ফোকাসে রাখলে প্রতিবিম্ব —",
+   "options": {
+    "A": "অসীমে",
+    "B": "ফোকাসে",
+    "C": "কেন্দ্রে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "শূন্যস্থানে আলো —",
+   "options": {
+    "A": "চলে",
+    "B": "চলে না",
+    "C": "ধীরে চলে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "আলোর প্রতিফলন একই মাধ্যমে ঘটে —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "সমতল দর্পণে ঘড়ির কাঁটা —",
+   "options": {
+    "A": "উল্টো দিকে ঘোরে বলে মনে হয়",
+    "B": "একই দিকে",
+    "C": "ঘোরে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "বক্রতা ব্যাসার্ধ কাকে বলে?",
+   "options": {
+    "A": "মেরু ও বক্রতা কেন্দ্রের দূরত্ব",
+    "B": "মেরু ও ফোকাসের দূরত্ব",
+    "C": "দর্পণের ব্যাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "অবতল দর্পণের f = ২০ সেমি, u = ৪০ সেমি হলে v কত?",
+   "options": {
+    "A": "৪০ সেমি",
+    "B": "২০ সেমি",
+    "C": "৬০ সেমি",
+    "D": "১০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "অবতল দর্পণে সূর্যের প্রতিবিম্ব বিন্দুর মতো —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "আলো সরলরেখায় চলে — এর প্রমাণ কোনটি?",
+   "options": {
+    "A": "ছায়া সৃষ্টি",
+    "B": "প্রতিফলন",
+    "C": "প্রতিসরণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "আপতন কোণ ৩৫° হলে প্রতিফলন কোণ কত?",
+   "options": {
+    "A": "৩৫°",
+    "B": "৫৫°",
+    "C": "৭০°",
+    "D": "১৭.৫°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "সমতল দর্পণে পার্শ্ব পরিবর্তন —",
+   "options": {
+    "A": "হয়",
+    "B": "হয় না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "বক্রতা ব্যাসার্ধ ৪৪ সেমি হলে ফোকাস দূরত্ব কত?",
+   "options": {
+    "A": "২২ সেমি",
+    "B": "৪৪ সেমি",
+    "C": "৮৮ সেমি",
+    "D": "১১ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "অবতল দর্পণের f = ১৫ সেমি, u = ৪৫ সেমি হলে v কত?",
+   "options": {
+    "A": "২২.৫ সেমি",
+    "B": "৩০ সেমি",
+    "C": "১৫ সেমি",
+    "D": "৬০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "প্রতিবিম্ব সদ হলে পর্দায় —",
+   "options": {
+    "A": "ধরা যায়",
+    "B": "ধরা যায় না",
+    "C": "কখনো যায়",
+    "D": "কখনো যায় না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "১ আলোকবর্ষ ≈ কত কিমি?",
+   "options": {
+    "A": "৯.৪৬ × ১০¹²",
+    "B": "৯.৪৬ × ১০⁹",
+    "C": "৯.৪৬ × ১০¹⁵",
+    "D": "৯.৪৬ × ১০⁶"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "প্রতিফলনের সূত্র কয়টি?",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "৪",
+    "D": "৫"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "সমতল দর্পণে ডান হাত বাম হাত দেখায় — এটি কী?",
+   "options": {
+    "A": "পার্শ্ব পরিবর্তন",
+    "B": "উপর-নিচ",
+    "C": "বিবর্ধন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "উত্তল দর্পণের ফোকাস দূরত্ব ৬ সেমি হলে বক্রতা ব্যাসার্ধ কত?",
+   "options": {
+    "A": "১২ সেমি",
+    "B": "৬ সেমি",
+    "C": "৩ সেমি",
+    "D": "২৪ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "অবতল দর্পণের f = ১৫ সেমি, u = ৩০ সেমি হলে v কত?",
+   "options": {
+    "A": "৩০ সেমি",
+    "B": "১৫ সেমি",
+    "C": "৪৫ সেমি",
+    "D": "১০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "সমতল দর্পণের প্রতিবিম্ব —",
+   "options": {
+    "A": "অসদ",
+    "B": "সদ",
+    "C": "দুটোই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "সূর্যগ্রহণ ঘটে —",
+   "options": {
+    "A": "চাঁদের ছায়ায়",
+    "B": "পৃথিবীর ছায়ায়",
+    "C": "সূর্যের ছায়ায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "আপতন কোণ ৮০° হলে প্রতিফলন কোণ কত?",
+   "options": {
+    "A": "৮০°",
+    "B": "১০°",
+    "C": "১৬০°",
+    "D": "৪০°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "পেরিস্কোপ ব্যবহৃত হয় —",
+   "options": {
+    "A": "সাবমেরিনে",
+    "B": "বিমানে",
+    "C": "গাড়িতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "বক্রতা ব্যাসার্ধ ৮০ সেমি হলে ফোকাস দূরত্ব কত?",
+   "options": {
+    "A": "৪০ সেমি",
+    "B": "৮০ সেমি",
+    "C": "১৬০ সেমি",
+    "D": "২০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "অবতল দর্পণের f = ২০ সেমি, u = ৬০ সেমি হলে v কত?",
+   "options": {
+    "A": "৩০ সেমি",
+    "B": "৪০ সেমি",
+    "C": "২০ সেমি",
+    "D": "৮০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "অবতল দর্পণে মোমবাতির সদ প্রতিবিম্ব —",
+   "options": {
+    "A": "পর্দায় ধরা যায়",
+    "B": "ধরা যায় না",
+    "C": "দেখা যায় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "আলোর বেগ মাপেন কে প্রথম?",
+   "options": {
+    "A": "রোমার",
+    "B": "নিউটন",
+    "C": "গ্যালিলিও",
+    "D": "আইনস্টাইন"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "আলো যে বিন্দুতে পৃষ্ঠে পড়ে তাকে কী বলে?",
+   "options": {
+    "A": "আপতন বিন্দু",
+    "B": "ফোকাস",
+    "C": "মেরু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "দুটি দর্পণ ৯০° কোণে থাকলে প্রতিবিম্বের সংখ্যা কত?",
+   "options": {
+    "A": "৩",
+    "B": "৪",
+    "C": "২",
+    "D": "১"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "ফোকাস দূরত্ব ৪০ সেমি হলে বক্রতা ব্যাসার্ধ কত?",
+   "options": {
+    "A": "৮০ সেমি",
+    "B": "৪০ সেমি",
+    "C": "২০ সেমি",
+    "D": "১৬০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "অবতল দর্পণের বিবর্ধন −২ হলে প্রতিবিম্ব —",
+   "options": {
+    "A": "উল্টানো ও দ্বিগুণ",
+    "B": "সোজা ও দ্বিগুণ",
+    "C": "উল্টানো ও অর্ধেক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "আলোর প্রতিফলনে প্রতিবিম্ব —",
+   "options": {
+    "A": "গঠিত হয়",
+    "B": "গঠিত হয় না",
+    "C": "কখনো হয়",
+    "D": "কখনো হয় না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "কাচে আলোর বেগ প্রায় কত?",
+   "options": {
+    "A": "২ × ১০⁸ মি/সে",
+    "B": "৩ × ১০⁸ মি/সে",
+    "C": "২.২৫ × ১০⁸ মি/সে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "আলোর প্রতিফলনে আপতন কোণ ও প্রতিফলন কোণ —",
+   "options": {
+    "A": "সমান",
+    "B": "ভিন্ন",
+    "C": "দ্বিগুণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "অ্যাম্বুলেন্সের লেখা উল্টো করে লেখার কারণ —",
+   "options": {
+    "A": "পার্শ্ব পরিবর্তন",
+    "B": "উপর-নিচ",
+    "C": "বিবর্ধন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "অবতল দর্পণে সমান্তরাল রশ্মি প্রতিফলনের পর —",
+   "options": {
+    "A": "ফোকাস দিয়ে যায়",
+    "B": "কেন্দ্র দিয়ে যায়",
+    "C": "মেরুতে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "উত্তল দর্পণের f = ১২ সেমি, u = ২৪ সেমি হলে v কত?",
+   "options": {
+    "A": "৮ সেমি",
+    "B": "১২ সেমি",
+    "C": "২৪ সেমি",
+    "D": "৩৬ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "দাঁতের ডাক্তার অবতল দর্পণ ব্যবহার করেন — কারণ?",
+   "options": {
+    "A": "দাঁত বড় দেখায়",
+    "B": "দাঁত ছোট দেখায়",
+    "C": "সমান দেখায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "আলোর বেগ সর্বোচ্চ কোথায়?",
+   "options": {
+    "A": "শূন্যস্থানে",
+    "B": "পানিতে",
+    "C": "কাচে",
+    "D": "হীরায়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "আলোর প্রতিফলনে কম্পাঙ্ক —",
+   "options": {
+    "A": "অপরিবর্তিত",
+    "B": "বাড়ে",
+    "C": "কমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "সমতল দর্পণে প্রতিবিম্ব সোজা — কারণ?",
+   "options": {
+    "A": "আলো একই দিকে প্রতিফলিত",
+    "B": "বাঁকে",
+    "C": "শোষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "অবতল দর্পণে কেন্দ্র দিয়ে আসা রশ্মি —",
+   "options": {
+    "A": "একই পথে ফিরে যায়",
+    "B": "ফোকাসে যায়",
+    "C": "সমান্তরাল হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "অবতল দর্পণের f = ২০ সেমি, u = ৩০ সেমি হলে v কত?",
+   "options": {
+    "A": "৬০ সেমি",
+    "B": "৩০ সেমি",
+    "C": "৫০ সেমি",
+    "D": "১০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "অবতল দর্পণে বস্তু কেন্দ্রে রাখলে প্রতিবিম্ব —",
+   "options": {
+    "A": "কেন্দ্রে, উল্টানো, সমান",
+    "B": "ফোকাসে",
+    "C": "অসীমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "আলোর বেগ কাচে প্রায় —",
+   "options": {
+    "A": "২×১০⁸ মি/সে",
+    "B": "৩×১০⁸ মি/সে",
+    "C": "২.২৫×১০⁸ মি/সে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "দর্পণ ১৫° ঘোরালে প্রতিফলিত রশ্মি কত ঘোরে?",
+   "options": {
+    "A": "৩০°",
+    "B": "১৫°",
+    "C": "৭.৫°",
+    "D": "৬০°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "সমতল দর্পণে প্রতিবিম্বের আকার বস্তুর —",
+   "options": {
+    "A": "সমান",
+    "B": "বড়",
+    "C": "ছোট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "বক্রতা ব্যাসার্ধ ১০০ সেমি হলে ফোকাস দূরত্ব কত?",
+   "options": {
+    "A": "৫০ সেমি",
+    "B": "১০০ সেমি",
+    "C": "২০০ সেমি",
+    "D": "২৫ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "অবতল দর্পণের f = ১০ সেমি, u = ২০ সেমি হলে v কত?",
+   "options": {
+    "A": "২০ সেমি",
+    "B": "১০ সেমি",
+    "C": "৩০ সেমি",
+    "D": "৫ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "অবতল দর্পণে সূর্যের প্রতিবিম্ব —",
+   "options": {
+    "A": "ফোকাসে",
+    "B": "কেন্দ্রে",
+    "C": "অসীমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "পিনহোল ক্যামেরা কোন নীতিতে কাজ করে?",
+   "options": {
+    "A": "আলোর সরলরৈখিক চলন",
+    "B": "প্রতিফলন",
+    "C": "প্রতিসরণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "আলোর প্রতিফলনে তরঙ্গদৈর্ঘ্য —",
+   "options": {
+    "A": "অপরিবর্তিত",
+    "B": "বাড়ে",
+    "C": "কমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "দুটি দর্পণ ৬০° কোণে থাকলে প্রতিবিম্ব কয়টি?",
+   "options": {
+    "A": "৫",
+    "B": "৬",
+    "C": "৪",
+    "D": "৩"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "ফোকাস দূরত্ব ও বক্রতা ব্যাসার্ধের সম্পর্ক কোনটি?",
+   "options": {
+    "A": "f = r/2",
+    "B": "f = r",
+    "C": "f = 2r",
+    "D": "f = r/3"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "বিবর্ধন ২ হলে প্রতিবিম্ব —",
+   "options": {
+    "A": "বস্তুর দ্বিগুণ",
+    "B": "অর্ধেক",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "শেভিং আয়নায় মুখ বড় দেখায় — কারণ?",
+   "options": {
+    "A": "অবতল দর্পণ, বস্তু ফোকাস ও মেরুর মাঝে",
+    "B": "উত্তল দর্পণ",
+    "C": "সমতল দর্পণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "আলো এক মাধ্যম থেকে অন্য মাধ্যমে গেলে বেগ —",
+   "options": {
+    "A": "পরিবর্তিত হয়",
+    "B": "অপরিবর্তিত",
+    "C": "শূন্য হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "রুক্ষ পৃষ্ঠ —",
+   "options": {
+    "A": "ব্যাপ্ত প্রতিফলন",
+    "B": "নিয়মিত প্রতিফলন",
+    "C": "প্রতিসরণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "দুটি দর্পণ ৯০° কোণে থাকলে প্রতিবিম্ব কয়টি?",
+   "options": {
+    "A": "৩",
+    "B": "৪",
+    "C": "২",
+    "D": "৫"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "উত্তল দর্পণ সমান্তরাল রশ্মিকে —",
+   "options": {
+    "A": "ছড়িয়ে দেয়",
+    "B": "মিলিত করে",
+    "C": "শোষণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "অবতল দর্পণের f = ৮ সেমি, u = ১২ সেমি হলে v কত?",
+   "options": {
+    "A": "২৪ সেমি",
+    "B": "১২ সেমি",
+    "C": "৮ সেমি",
+    "D": "২০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "উত্তল দর্পণে বস্তু যেখানেই থাকুক প্রতিবিম্ব —",
+   "options": {
+    "A": "মেরু ও ফোকাসের মাঝে",
+    "B": "ফোকাসের বাইরে",
+    "C": "কেন্দ্রে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "আলোর বেগ কত?",
+   "options": {
+    "A": "৩ × ১০⁸ মি/সে",
+    "B": "৩ × ১০⁶ মি/সে",
+    "C": "৩৪০ মি/সে",
+    "D": "৩ × ১০¹⁰ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "আলোর প্রতিফলন ঘটে —",
+   "options": {
+    "A": "যেকোনো পৃষ্ঠে",
+    "B": "শুধু আয়নায়",
+    "C": "শুধু পানিতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "দুটি দর্পণ ৩০° কোণে থাকলে প্রতিবিম্ব সংখ্যা —",
+   "options": {
+    "A": "১১",
+    "B": "১২",
+    "C": "১০",
+    "D": "১৩"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "অবতল দর্পণ কোন রশ্মিকে এক বিন্দুতে মিলিত করে?",
+   "options": {
+    "A": "সমান্তরাল রশ্মি",
+    "B": "বিক্ষিপ্ত রশ্মি",
+    "C": "সব রশ্মি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "অবতল দর্পণের f = ২০ সেমি, u = ২৫ সেমি হলে v কত?",
+   "options": {
+    "A": "১০০ সেমি",
+    "B": "২৫ সেমি",
+    "C": "২০ সেমি",
+    "D": "৪৫ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "নিজের মুখ বড় করে দেখতে —",
+   "options": {
+    "A": "অবতল দর্পণ",
+    "B": "উত্তল দর্পণ",
+    "C": "সমতল দর্পণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "সূর্যগ্রহণ আলোর কোন ধর্মের প্রমাণ?",
+   "options": {
+    "A": "সরলরৈখিক চলন",
+    "B": "প্রতিফলন",
+    "C": "প্রতিসরণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "আলোর প্রতিফলনে বেগ —",
+   "options": {
+    "A": "অপরিবর্তিত",
+    "B": "বাড়ে",
+    "C": "কমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "অ্যাম্বুলেন্সে উল্টো করে লেখা হয় কেন?",
+   "options": {
+    "A": "আয়নায় সোজা দেখাতে",
+    "B": "সৌন্দর্য",
+    "C": "নিয়ম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "গোলীয় দর্পণ কয় প্রকার?",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "৪",
+    "D": "৫"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "m = ২ হলে প্রতিবিম্ব বস্তুর —",
+   "options": {
+    "A": "২ গুণ",
+    "B": "অর্ধেক",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "প্রতিবিম্ব দুই প্রকার — কী?",
+   "options": {
+    "A": "সদ ও অসদ",
+    "B": "শুধু সদ",
+    "C": "শুধু অসদ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "আলোর বেগ কত কিমি/সেকেন্ড?",
+   "options": {
+    "A": "৩০০০০০",
+    "B": "৩০০০০",
+    "C": "৩০০০",
+    "D": "৩০০০০০০"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "আলোর প্রতিফলনে আলো —",
+   "options": {
+    "A": "একই মাধ্যমে ফিরে আসে",
+    "B": "ভিন্ন মাধ্যমে যায়",
+    "C": "শোষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "একজন ব্যক্তি দর্পণের দিকে ১ মি/সে বেগে এগোলে প্রতিবিম্ব কত বেগে আসে?",
+   "options": {
+    "A": "১ মি/সে",
+    "B": "২ মি/সে",
+    "C": "০.৫ মি/সে",
+    "D": "৪ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "প্রধান অক্ষ কাকে বলে?",
+   "options": {
+    "A": "মেরু ও কেন্দ্র দিয়ে যাওয়া রেখা",
+    "B": "ফোকাস রেখা",
+    "C": "যেকোনো রেখা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "দর্পণ সূত্র কোনটি?",
+   "options": {
+    "A": "1/v + 1/u = 1/f",
+    "B": "1/v − 1/u = 1/f",
+    "C": "v + u = f",
+    "D": "v − u = f"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "উত্তল দর্পণে প্রতিবিম্ব সবসময় অসদ — কারণ?",
+   "options": {
+    "A": "রশ্মি বর্ধিতাংশে মেলে",
+    "B": "প্রকৃত মেলে",
+    "C": "মেলে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "পিনহোল ক্যামেরায় প্রতিবিম্ব —",
+   "options": {
+    "A": "উল্টানো",
+    "B": "সোজা",
+    "C": "পার্শ্ব পরিবর্তিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "আলোর প্রতিফলনের একটি প্রয়োগ —",
+   "options": {
+    "A": "পেরিস্কোপ",
+    "B": "লেন্স",
+    "C": "প্রিজম প্রতিসরণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "দুটি দর্পণ ৩৬° কোণে থাকলে প্রতিবিম্ব সংখ্যা কত?",
+   "options": {
+    "A": "৯",
+    "B": "১০",
+    "C": "৮",
+    "D": "১১"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "বক্রতা কেন্দ্র দিয়ে আসা রশ্মি প্রতিফলিত হয়ে —",
+   "options": {
+    "A": "একই পথে ফেরে",
+    "B": "ফোকাসে যায়",
+    "C": "সমান্তরাল হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "বিবর্ধন ধনাত্মক হলে প্রতিবিম্ব —",
+   "options": {
+    "A": "সোজা",
+    "B": "উল্টানো",
+    "C": "ছোট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "অবতল দর্পণে বস্তু ফোকাস ও মেরুর মধ্যে রাখলে প্রতিবিম্ব —",
+   "options": {
+    "A": "সদ, বড়, অসদ নয় — অসদ, বড়, সোজা",
+    "B": "সদ, ছোট",
+    "C": "অসদ, ছোট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "আলোর বেগ শূন্যস্থানে ৩×১০⁸ মি/সে — পানিতে কত?",
+   "options": {
+    "A": "২.২৫×১০⁸ মি/সে",
+    "B": "৩×১০⁸ মি/সে",
+    "C": "২×১০⁸ মি/সে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "আলোক উৎসের উদাহরণ —",
+   "options": {
+    "A": "সূর্য, মোমবাতি",
+    "B": "চাঁদ",
+    "C": "আয়না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "সমতল দর্পণে বস্তু দর্পণ থেকে ২ মিটার দূরে থাকলে প্রতিবিম্ব কোথায়?",
+   "options": {
+    "A": "২ মিটার পেছনে",
+    "B": "২ মিটার সামনে",
+    "C": "১ মিটার",
+    "D": "৪ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "অবতল দর্পণকে কী বলা হয়?",
+   "options": {
+    "A": "অভিসারী দর্পণ",
+    "B": "অপসারী দর্পণ",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "বিবর্ধন m = v/u এ v = u হলে m কত?",
+   "options": {
+    "A": "১",
+    "B": "২",
+    "C": "০",
+    "D": "অসীম"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "সদ প্রতিবিম্ব কাকে বলে?",
+   "options": {
+    "A": "পর্দায় ধরা যায়",
+    "B": "পর্দায় ধরা যায় না",
+    "C": "আয়নায় দেখা যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "আলো সঞ্চালনের জন্য মাধ্যম —",
+   "options": {
+    "A": "প্রয়োজন হয় না",
+    "B": "প্রয়োজন হয়",
+    "C": "শুধু বায়ু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "আয়নায় আলোর —",
+   "options": {
+    "A": "প্রতিফলন হয়",
+    "B": "প্রতিসরণ হয়",
+    "C": "শোষণ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "দুটি দর্পণ ৪০° কোণে থাকলে প্রতিবিম্ব সংখ্যা কত?",
+   "options": {
+    "A": "৮",
+    "B": "৯",
+    "C": "৭",
+    "D": "১০"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "গোলীয় দর্পণের মেরু P, কেন্দ্র C, ফোকাস F হলে CF = ?",
+   "options": {
+    "A": "2FP",
+    "B": "FP",
+    "C": "FP/2",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "দর্পণ সূত্রে v কী?",
+   "options": {
+    "A": "প্রতিবিম্বের দূরত্ব",
+    "B": "বস্তুর দূরত্ব",
+    "C": "ফোকাস দূরত্ব",
+    "D": "ব্যাসার্ধ"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "রশ্মি দুটি বর্ধিতাংশে মিললে প্রতিবিম্ব —",
+   "options": {
+    "A": "অসদ",
+    "B": "সদ",
+    "C": "দুটোই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "আলো এক মাধ্যম থেকে অন্য মাধ্যমে গেলে কম্পাঙ্ক —",
+   "options": {
+    "A": "অপরিবর্তিত",
+    "B": "বাড়ে",
+    "C": "কমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "আয়নার পেছনে রুপার প্রলেপ থাকে —",
+   "options": {
+    "A": "প্রতিফলনের জন্য",
+    "B": "সৌন্দর্যে",
+    "C": "ওজনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "দুটি দর্পণ ৯০° কোণে থাকলে প্রতিবিম্ব সংখ্যা —",
+   "options": {
+    "A": "৩",
+    "B": "৪",
+    "C": "২",
+    "D": "৫"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "বক্রতা ব্যাসার্ধ ২৮ সেমি হলে ফোকাস দূরত্ব কত?",
+   "options": {
+    "A": "১৪ সেমি",
+    "B": "২৮ সেমি",
+    "C": "৫৬ সেমি",
+    "D": "৭ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "m = ০.২৫ হলে প্রতিবিম্ব বস্তুর —",
+   "options": {
+    "A": "এক-চতুর্থাংশ",
+    "B": "৪ গুণ",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "রশ্মিচিত্রে প্রতিবিম্ব গঠনে —",
+   "options": {
+    "A": "২টি রশ্মি ব্যবহার হয়",
+    "B": "১টি",
+    "C": "৩টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "সূর্য থেকে পৃথিবীতে আলো আসতে কত সময় লাগে?",
+   "options": {
+    "A": "প্রায় ৮ মিনিট",
+    "B": "১ সেকেন্ড",
+    "C": "১ ঘণ্টা",
+    "D": "১ দিন"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "আপতন কোণ ৫০° হলে প্রতিফলন কোণ কত?",
+   "options": {
+    "A": "৫০°",
+    "B": "৪০°",
+    "C": "১০০°",
+    "D": "২৫°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "দুটি দর্পণ ৭২° কোণে থাকলে প্রতিবিম্ব কয়টি?",
+   "options": {
+    "A": "৪",
+    "B": "৫",
+    "C": "৬",
+    "D": "৩"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "বক্রতা ব্যাসার্ধ ৪০ সেমি হলে ফোকাস দূরত্ব কত?",
+   "options": {
+    "A": "২০ সেমি",
+    "B": "৪০ সেমি",
+    "C": "৮০ সেমি",
+    "D": "১০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "অবতল দর্পণের f = ১২ সেমি, u = ৩৬ সেমি হলে v কত?",
+   "options": {
+    "A": "১৮ সেমি",
+    "B": "২৪ সেমি",
+    "C": "১২ সেমি",
+    "D": "৪৮ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "অবতল দর্পণে বস্তু ফোকাসে রাখলে প্রতিবিম্ব কোথায়?",
+   "options": {
+    "A": "অসীমে",
+    "B": "ফোকাসে",
+    "C": "কেন্দ্রে",
+    "D": "মেরুতে"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "সূর্য ও পৃথিবীর দূরত্ব কত?",
+   "options": {
+    "A": "১.৫ × ১০¹¹ মিটার",
+    "B": "১.৫ × ১০⁸ মিটার",
+    "C": "৩ × ১০⁸ মিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "আপতিত ও প্রতিফলিত রশ্মির অন্তর্ভুক্ত কোণ ৬০° হলে আপতন কোণ কত?",
+   "options": {
+    "A": "৩০°",
+    "B": "৬০°",
+    "C": "১৫°",
+    "D": "১২০°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "দুটি দর্পণ ৭২° কোণে থাকলে প্রতিবিম্ব সংখ্যা কত?",
+   "options": {
+    "A": "৪",
+    "B": "৫",
+    "C": "৬",
+    "D": "৩"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "ফোকাস দূরত্ব ১০ সেমি হলে বক্রতা ব্যাসার্ধ কত?",
+   "options": {
+    "A": "২০ সেমি",
+    "B": "১০ সেমি",
+    "C": "৫ সেমি",
+    "D": "৪০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "উত্তল দর্পণের f = ১৫ সেমি, u = ৩০ সেমি হলে v কত?",
+   "options": {
+    "A": "১০ সেমি",
+    "B": "১৫ সেমি",
+    "C": "৩০ সেমি",
+    "D": "৪৫ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "অবতল দর্পণ সূর্যের আলো ফোকাস করে —",
+   "options": {
+    "A": "কাগজ পোড়ায়",
+    "B": "কিছুই করে না",
+    "C": "ঠান্ডা করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "পানিতে আলোর বেগ প্রায় কত?",
+   "options": {
+    "A": "২.২৫ × ১০⁸ মি/সে",
+    "B": "৩ × ১০⁸ মি/সে",
+    "C": "২ × ১০⁸ মি/সে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "দর্পণ ২০° ঘোরালে প্রতিফলিত রশ্মি কত ঘোরে?",
+   "options": {
+    "A": "৪০°",
+    "B": "২০°",
+    "C": "১০°",
+    "D": "৮০°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "দর্পণের দিকে ১.৫ মি/সে বেগে এগোলে বস্তু ও প্রতিবিম্বের আপেক্ষিক বেগ কত?",
+   "options": {
+    "A": "৩ মি/সে",
+    "B": "১.৫ মি/সে",
+    "C": "০.৭৫ মি/সে",
+    "D": "৬ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "গোলীয় দর্পণ কাকে বলে?",
+   "options": {
+    "A": "গোলকের অংশবিশেষ পৃষ্ঠ",
+    "B": "সমতল পৃষ্ঠ",
+    "C": "লেন্স",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "দর্পণ সূত্রে u কী?",
+   "options": {
+    "A": "বস্তুর দূরত্ব",
+    "B": "প্রতিবিম্বের দূরত্ব",
+    "C": "ফোকাস দূরত্ব",
+    "D": "ব্যাসার্ধ"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "রশ্মি দুটি প্রকৃতভাবে মিললে প্রতিবিম্ব —",
+   "options": {
+    "A": "সদ",
+    "B": "অসদ",
+    "C": "দুটোই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "আলো কী?",
+   "options": {
+    "A": "শক্তির এক রূপ",
+    "B": "পদার্থ",
+    "C": "বল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "প্রতিফলন কোণ কাকে বলে?",
+   "options": {
+    "A": "প্রতিফলিত রশ্মি ও অভিলম্বের কোণ",
+    "B": "আপতিত রশ্মির কোণ",
+    "C": "পৃষ্ঠের কোণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "সমতল দর্পণ থেকে ৪ মিটার দূরে দাঁড়ালে বস্তু ও প্রতিবিম্বের দূরত্ব কত?",
+   "options": {
+    "A": "৮ মিটার",
+    "B": "৪ মিটার",
+    "C": "২ মিটার",
+    "D": "১৬ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "ফোকাস দূরত্ব f ও বক্রতা ব্যাসার্ধ r এর সম্পর্ক —",
+   "options": {
+    "A": "f = r/2",
+    "B": "f = r",
+    "C": "f = 2r",
+    "D": "f = r/4"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "বিবর্ধন m < ১ হলে প্রতিবিম্ব —",
+   "options": {
+    "A": "ছোট",
+    "B": "বড়",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "টর্চের প্রতিফলক কোন দর্পণ?",
+   "options": {
+    "A": "অবতল",
+    "B": "উত্তল",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "আলো কোন ধরনের তরঙ্গ?",
+   "options": {
+    "A": "তড়িৎচুম্বকীয়",
+    "B": "যান্ত্রিক",
+    "C": "শব্দ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "আলো প্রতিফলিত হয় —",
+   "options": {
+    "A": "মসৃণ ও চকচকে পৃষ্ঠে",
+    "B": "রুক্ষ পৃষ্ঠে",
+    "C": "স্বচ্ছ পৃষ্ঠে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "দর্পণের দিকে ২ মি/সে বেগে এগোলে ব্যক্তি ও প্রতিবিম্বের আপেক্ষিক বেগ কত?",
+   "options": {
+    "A": "৪ মি/সে",
+    "B": "২ মি/সে",
+    "C": "১ মি/সে",
+    "D": "৮ মি/সে"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "গোলীয় দর্পণের প্রকার কী?",
+   "options": {
+    "A": "অবতল ও উত্তল",
+    "B": "শুধু অবতল",
+    "C": "শুধু উত্তল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "দর্পণ সূত্রে সদ প্রতিবিম্বের v —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "ঋণাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "সোলার কুকারে কোন দর্পণ ব্যবহৃত হয়?",
+   "options": {
+    "A": "অবতল",
+    "B": "উত্তল",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "আলোর বেগ পানিতে বাতাসের চেয়ে —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "আলোর প্রকৃতি",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "দর্পণ ২৫° ঘোরালে প্রতিফলিত রশ্মি কত ঘোরে?",
+   "options": {
+    "A": "৫০°",
+    "B": "২৫°",
+    "C": "১২.৫°",
+    "D": "১০০°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "দুটি দর্পণ ৫০° কোণে থাকলে প্রতিবিম্ব কয়টি?",
+   "options": {
+    "A": "৭ (360/50=7.2 → 7)",
+    "B": "৮",
+    "C": "৬",
+    "D": "৯"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "বক্রতা ব্যাসার্ধ ৫০ সেমি হলে ফোকাস দূরত্ব কত?",
+   "options": {
+    "A": "২৫ সেমি",
+    "B": "৫০ সেমি",
+    "C": "১০০ সেমি",
+    "D": "১২.৫ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "উত্তল দর্পণের f = ২০ সেমি, u = ৪০ সেমি হলে v কত?",
+   "options": {
+    "A": "১৩.৩৩ সেমি",
+    "B": "২০ সেমি",
+    "C": "৪০ সেমি",
+    "D": "৬০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "দাঁতের ডাক্তারের আয়না কোনটি?",
+   "options": {
+    "A": "অবতল",
+    "B": "উত্তল",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "চাঁদ আলো দেয় —",
+   "options": {
+    "A": "সূর্যের আলো প্রতিফলিত করে",
+    "B": "নিজে আলো দেয়",
+    "C": "কোনো আলো দেয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "দুটি দর্পণ সমান্তরালে প্রতিবিম্ব —",
+   "options": {
+    "A": "অসীম",
+    "B": "১",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "চামচের ভেতরের পৃষ্ঠ কোন দর্পণ?",
+   "options": {
+    "A": "অবতল",
+    "B": "উত্তল",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "বিবর্ধন m = ১ হলে প্রতিবিম্বের আকার —",
+   "options": {
+    "A": "বস্তুর সমান",
+    "B": "বড়",
+    "C": "ছোট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "অবতল দর্পণে সূর্যরশ্মি ফোকাস করলে —",
+   "options": {
+    "A": "কাগজ জ্বলে",
+    "B": "কিছু হয় না",
+    "C": "ঠান্ডা হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "আলোর প্রতিফলন ব্যাখ্যা করে —",
+   "options": {
+    "A": "তরঙ্গ তত্ত্ব ও কণা তত্ত্ব",
+    "B": "শুধু কণা",
+    "C": "শুধু তরঙ্গ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "সমতল দর্পণ থেকে ৫ মিটার দূরে দাঁড়ালে প্রতিবিম্ব কত দূরে?",
+   "options": {
+    "A": "৫ মিটার",
+    "B": "১০ মিটার",
+    "C": "২.৫ মিটার",
+    "D": "২৫ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "অবতল দর্পণ কাকে বলে?",
+   "options": {
+    "A": "ভেতরের দিকে বাঁকা",
+    "B": "বাইরের দিকে বাঁকা",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "দর্পণ সূত্রে u সবসময় —",
+   "options": {
+    "A": "ঋণাত্মক",
+    "B": "ধনাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "অসদ প্রতিবিম্ব সবসময় —",
+   "options": {
+    "A": "সোজা",
+    "B": "উল্টানো",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "অভিলম্বের সাথে আপতিত রশ্মির কোণকে কী বলে?",
+   "options": {
+    "A": "আপতন কোণ",
+    "B": "প্রতিফলন কোণ",
+    "C": "সরল কোণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "সমতল দর্পণ থেকে ৩ মিটার দূরে দাঁড়ালে প্রতিবিম্ব কত দূরে?",
+   "options": {
+    "A": "৩ মিটার",
+    "B": "৬ মিটার",
+    "C": "১.৫ মিটার",
+    "D": "৯ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "অবতল দর্পণের ফোকাস দূরত্ব ধনাত্মক নাকি ঋণাত্মক?",
+   "options": {
+    "A": "ঋণাত্মক (চিহ্ন প্রথায়)",
+    "B": "ধনাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "অবতল দর্পণের f = ১০ সেমি, u = ৩০ সেমি হলে v কত?",
+   "options": {
+    "A": "১৫ সেমি",
+    "B": "২০ সেমি",
+    "C": "১০ সেমি",
+    "D": "৩০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "অবতল দর্পণের ব্যবহার কোনটি?",
+   "options": {
+    "A": "শেভিং আয়না",
+    "B": "গাড়ির পেছনের আয়না",
+    "C": "দরজার আয়না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "স্বচ্ছ বস্তু কাকে বলে?",
+   "options": {
+    "A": "আলো ভেদ করে",
+    "B": "আলো ভেদ করে না",
+    "C": "প্রতিফলিত করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "পেরিস্কোপে দর্পণগুলো কত কোণে থাকে?",
+   "options": {
+    "A": "৪৫°",
+    "B": "৯০°",
+    "C": "৬০°",
+    "D": "৩০°"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "ফোকাস দূরত্ব ৫ সেমি হলে বক্রতা ব্যাসার্ধ কত?",
+   "options": {
+    "A": "১০ সেমি",
+    "B": "৫ সেমি",
+    "C": "২.৫ সেমি",
+    "D": "২০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "অবতল দর্পণের f = ২৫ সেমি, u = ৫০ সেমি হলে v কত?",
+   "options": {
+    "A": "৫০ সেমি",
+    "B": "২৫ সেমি",
+    "C": "৭৫ সেমি",
+    "D": "১২.৫ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "আয়নায় যে প্রতিবিম্ব দেখা যায় তা —",
+   "options": {
+    "A": "অসদ",
+    "B": "সদ",
+    "C": "দুটোই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "আপতিত ও প্রতিফলিত রশ্মির কোণ ১২০° হলে আপতন কোণ কত?",
+   "options": {
+    "A": "৬০°",
+    "B": "১২০°",
+    "C": "৩০°",
+    "D": "২৪০°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "সমতল দর্পণে প্রতিবিম্বের আকার —",
+   "options": {
+    "A": "সমান",
+    "B": "বড়",
+    "C": "ছোট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "উত্তল দর্পণকে কী বলা হয়?",
+   "options": {
+    "A": "অপসারী দর্পণ",
+    "B": "অভিসারী দর্পণ",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "বস্তুর দূরত্ব ২০ সেমি, প্রতিবিম্বের দূরত্ব ৪০ সেমি হলে বিবর্ধন কত?",
+   "options": {
+    "A": "২",
+    "B": "০.৫",
+    "C": "১",
+    "D": "৬০"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "উত্তল দর্পণে বস্তুর অবস্থান যাই হোক প্রতিবিম্ব —",
+   "options": {
+    "A": "একই ধরনের",
+    "B": "ভিন্ন",
+    "C": "হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "সূর্য ও তারা —",
+   "options": {
+    "A": "নিজে আলো দেয়",
+    "B": "প্রতিফলিত করে",
+    "C": "দেয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "সমতল দর্পণ থেকে ১ মিটার দূরে দাঁড়ালে প্রতিবিম্ব দর্পণ থেকে কত দূরে?",
+   "options": {
+    "A": "১ মিটার",
+    "B": "২ মিটার",
+    "C": "০.৫ মিটার",
+    "D": "৪ মিটার"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "বক্রতা ব্যাসার্ধ r ও ফোকাস দূরত্ব f হলে r = ?",
+   "options": {
+    "A": "2f",
+    "B": "f",
+    "C": "f/2",
+    "D": "4f"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "বস্তুর দূরত্ব ১০ সেমি, প্রতিবিম্ব ৩০ সেমি হলে বিবর্ধন কত?",
+   "options": {
+    "A": "৩",
+    "B": "০.৩৩",
+    "C": "১",
+    "D": "৪০"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "অবতল দর্পণে বস্তু কেন্দ্রে থাকলে বিবর্ধন কত?",
+   "options": {
+    "A": "১",
+    "B": "২",
+    "C": "০.৫",
+    "D": "অসীম"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "চাঁদ নিজে আলো দেয় —",
+   "options": {
+    "A": "না",
+    "B": "হ্যাঁ",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "পেরিস্কোপে কয়টি দর্পণ থাকে?",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "৪",
+    "D": "১"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "ফোকাস দূরত্ব ১৫ সেমি হলে বক্রতা ব্যাসার্ধ কত?",
+   "options": {
+    "A": "৩০ সেমি",
+    "B": "১৫ সেমি",
+    "C": "৭.৫ সেমি",
+    "D": "৬০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "দর্পণ সূত্রে অসদ প্রতিবিম্বের v —",
+   "options": {
+    "A": "ঋণাত্মক",
+    "B": "ধনাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "অবতল দর্পণে বস্তু ও প্রতিবিম্ব একই স্থানে থাকে যখন বস্তু —",
+   "options": {
+    "A": "কেন্দ্রে",
+    "B": "ফোকাসে",
+    "C": "মেরুতে",
+    "D": "অসীমে"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "দর্পণকে θ কোণ ঘোরালে প্রতিফলিত রশ্মি কত ঘোরে?",
+   "options": {
+    "A": "2θ",
+    "B": "θ",
+    "C": "θ/2",
+    "D": "4θ"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "সাবমেরিন থেকে পানির উপরে দেখতে —",
+   "options": {
+    "A": "পেরিস্কোপ",
+    "B": "টেলিস্কোপ",
+    "C": "মাইক্রোস্কোপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "ফোকাস কাকে বলে?",
+   "options": {
+    "A": "সমান্তরাল রশ্মির মিলন বিন্দু",
+    "B": "বক্রতা কেন্দ্র",
+    "C": "মেরু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "m ঋণাত্মক হলে প্রতিবিম্ব উল্টানো —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "উত্তল দর্পণে চওড়া দৃশ্য দেখা যায় —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "দর্পণে বস্তুর প্রতিবিম্ব গঠনের জন্য —",
+   "options": {
+    "A": "প্রতিফলন দরকার",
+    "B": "প্রতিসরণ দরকার",
+    "C": "শোষণ দরকার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "দুটি দর্পণ ১৮° কোণে থাকলে প্রতিবিম্ব সংখ্যা কত?",
+   "options": {
+    "A": "১৯",
+    "B": "২০",
+    "C": "১৮",
+    "D": "২১"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "গোলীয় দর্পণের প্রধান অক্ষের উপর মেরু, ফোকাস, কেন্দ্র —",
+   "options": {
+    "A": "অবস্থিত",
+    "B": "অবস্থিত নয়",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "প্রতিবিম্বের উচ্চতা h' ও বস্তুর উচ্চতা h হলে m = ?",
+   "options": {
+    "A": "h'/h",
+    "B": "h/h'",
+    "C": "hh'",
+    "D": "h'−h"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "সোলার কুকারে খাবার রান্না হয় —",
+   "options": {
+    "A": "ফোকাসে তাপে",
+    "B": "ঠান্ডায়",
+    "C": "চাপে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "আপতন কোণ ৯০° হলে প্রতিফলন কোণ —",
+   "options": {
+    "A": "৯০°",
+    "B": "০°",
+    "C": "৪৫°",
+    "D": "১৮০°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "সমতল দর্পণ কী?",
+   "options": {
+    "A": "সমতল প্রতিফলক পৃষ্ঠ",
+    "B": "বাঁকা পৃষ্ঠ",
+    "C": "লেন্স",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "ফোকাস দূরত্ব কাকে বলে?",
+   "options": {
+    "A": "মেরু ও ফোকাসের দূরত্ব",
+    "B": "মেরু ও কেন্দ্রের দূরত্ব",
+    "C": "দর্পণের ব্যাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "উত্তল দর্পণের বিবর্ধন সবসময় —",
+   "options": {
+    "A": "১ এর কম",
+    "B": "১ এর বেশি",
+    "C": "১",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "রাস্তার মোড়ে বিপরীত দিক দেখতে —",
+   "options": {
+    "A": "উত্তল দর্পণ",
+    "B": "অবতল দর্পণ",
+    "C": "সমতল দর্পণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "আলো পৃষ্ঠে পড়লে কিছু প্রতিফলিত, কিছু শোষিত —",
+   "options": {
+    "A": "হয়",
+    "B": "হয় না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "পেরিস্কোপে ব্যবহৃত দর্পণ —",
+   "options": {
+    "A": "সমতল",
+    "B": "অবতল",
+    "C": "উত্তল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "ফোকাস দূরত্ব ১২ সেমি হলে বক্রতা ব্যাসার্ধ কত?",
+   "options": {
+    "A": "২৪ সেমি",
+    "B": "১২ সেমি",
+    "C": "৬ সেমি",
+    "D": "৪৮ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "অবতল দর্পণের f = ১২ সেমি, u = ১৮ সেমি হলে v কত?",
+   "options": {
+    "A": "৩৬ সেমি",
+    "B": "১৮ সেমি",
+    "C": "১২ সেমি",
+    "D": "৩০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "উত্তল দর্পণে দেখা যায় —",
+   "options": {
+    "A": "বিস্তীর্ণ এলাকা",
+    "B": "ছোট এলাকা",
+    "C": "সমান এলাকা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "দর্পণকে ৩০° ঘোরালে প্রতিফলিত রশ্মি কত ঘোরে?",
+   "options": {
+    "A": "৬০°",
+    "B": "৩০°",
+    "C": "১৫°",
+    "D": "৯০°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "ক্যালাইডোস্কোপে দর্পণগুলো কত কোণে থাকে?",
+   "options": {
+    "A": "৬০°",
+    "B": "৯০°",
+    "C": "৪৫°",
+    "D": "৩০°"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "মেরুতে আপতিত রশ্মি প্রতিফলিত হয় —",
+   "options": {
+    "A": "প্রধান অক্ষ থেকে সমান কোণে",
+    "B": "ফোকাসে",
+    "C": "কেন্দ্রে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "বিবর্ধন ০.৩৩ হলে প্রতিবিম্ব বস্তুর —",
+   "options": {
+    "A": "এক-তৃতীয়াংশ",
+    "B": "৩ গুণ",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "প্রতিবিম্ব অসদ হলে পর্দায় —",
+   "options": {
+    "A": "ধরা যায় না",
+    "B": "ধরা যায়",
+    "C": "কখনো যায়",
+    "D": "কখনো যায় না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "প্রতিফলনের ১ম সূত্র কী?",
+   "options": {
+    "A": "আপতন কোণ = প্রতিফলন কোণ",
+    "B": "কোণ ভিন্ন",
+    "C": "কোনো সূত্র নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "পেরিস্কোপ কোন কাজে ব্যবহৃত হয়?",
+   "options": {
+    "A": "দেয়ালের ওপারে দেখা",
+    "B": "রান্নায়",
+    "C": "মাপে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "উত্তল দর্পণের ফোকাস দূরত্ব —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "ঋণাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "বস্তুর দূরত্ব ৪০ সেমি, প্রতিবিম্ব ২০ সেমি হলে বিবর্ধন কত?",
+   "options": {
+    "A": "০.৫",
+    "B": "২",
+    "C": "১",
+    "D": "৬০"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "বস্তু কেন্দ্রে থাকলে বস্তু দূরত্ব = প্রতিবিম্ব দূরত্ব = ?",
+   "options": {
+    "A": "2f",
+    "B": "f",
+    "C": "f/2",
+    "D": "4f"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "আলো প্রতিফলনে আপতিত ও প্রতিফলিত রশ্মি ও অভিলম্ব —",
+   "options": {
+    "A": "একই সমতলে",
+    "B": "ভিন্ন সমতলে",
+    "C": "লম্বে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "দুটি দর্পণ ১২০° কোণে থাকলে প্রতিবিম্ব কয়টি?",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "৪",
+    "D": "৫"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "বক্রতা ব্যাসার্ধ ৩০ সেমি হলে ফোকাস দূরত্ব কত?",
+   "options": {
+    "A": "১৫ সেমি",
+    "B": "৩০ সেমি",
+    "C": "৬০ সেমি",
+    "D": "৭.৫ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "m ধনাত্মক হলে প্রতিবিম্ব সোজা —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "অবতল দর্পণে সদ প্রতিবিম্ব গঠিত হয় যখন বস্তু —",
+   "options": {
+    "A": "ফোকাসের বাইরে",
+    "B": "ফোকাস ও মেরুর মাঝে",
+    "C": "ফোকাসে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "গ্রহ ও উপগ্রহ আলো দেয় —",
+   "options": {
+    "A": "প্রতিফলিত করে",
+    "B": "নিজে",
+    "C": "দেয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "প্রতিবিম্ব সংখ্যার সূত্র n = 360/θ − 1 এ θ কী?",
+   "options": {
+    "A": "দর্পণের অন্তর্ভুক্ত কোণ",
+    "B": "আপতন কোণ",
+    "C": "প্রতিফলন কোণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "বক্রতা কেন্দ্র কাকে বলে?",
+   "options": {
+    "A": "গোলকের কেন্দ্র",
+    "B": "দর্পণের মধ্যবিন্দু",
+    "C": "ফোকাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "অবতল দর্পণের f = ১৫ সেমি, u = ২৫ সেমি হলে v কত?",
+   "options": {
+    "A": "৩৭.৫ সেমি",
+    "B": "২৫ সেমি",
+    "C": "১৫ সেমি",
+    "D": "১০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "অবতল দর্পণে বস্তু অসীমে থাকলে প্রতিবিম্বের আকার —",
+   "options": {
+    "A": "বিন্দুর মতো ছোট",
+    "B": "বড়",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "কালো পৃষ্ঠ আলো —",
+   "options": {
+    "A": "শোষণ করে",
+    "B": "প্রতিফলিত করে",
+    "C": "ভেদ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "দুটি দর্পণ ৪৫° কোণে থাকলে প্রতিবিম্ব সংখ্যা —",
+   "options": {
+    "A": "৭",
+    "B": "৮",
+    "C": "৬",
+    "D": "৯"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "উত্তল দর্পণে সমান্তরাল রশ্মি প্রতিফলিত হয়ে —",
+   "options": {
+    "A": "ছড়িয়ে পড়ে (ফোকাস থেকে)",
+    "B": "মিলিত হয়",
+    "C": "শোষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "দর্পণ সূত্রে f কী?",
+   "options": {
+    "A": "ফোকাস দূরত্ব",
+    "B": "বস্তুর দূরত্ব",
+    "C": "প্রতিবিম্বের দূরত্ব",
+    "D": "ব্যাসার্ধ"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "অবতল দর্পণে সদ প্রতিবিম্ব পর্দায় —",
+   "options": {
+    "A": "ধরা যায়",
+    "B": "ধরা যায় না",
+    "C": "কখনো যায়",
+    "D": "কখনো যায় না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "আপতিত ও প্রতিফলিত রশ্মির কোণ ১০০° হলে আপতন কোণ কত?",
+   "options": {
+    "A": "৫০°",
+    "B": "১০০°",
+    "C": "২৫°",
+    "D": "২০০°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "সমতল দর্পণে প্রতিবিম্ব বস্তুর সমান — কারণ?",
+   "options": {
+    "A": "দূরত্ব সমান",
+    "B": "আলো",
+    "C": "কোণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "বক্রতা ব্যাসার্ধ ২৪ সেমি হলে ফোকাস দূরত্ব কত?",
+   "options": {
+    "A": "১২ সেমি",
+    "B": "২৪ সেমি",
+    "C": "৪৮ সেমি",
+    "D": "৬ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "অবতল দর্পণের f = ১০ সেমি, u = ১৫ সেমি হলে v কত?",
+   "options": {
+    "A": "৩০ সেমি",
+    "B": "১৫ সেমি",
+    "C": "২৫ সেমি",
+    "D": "৫ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "উত্তল দর্পণ ব্যবহার হয় —",
+   "options": {
+    "A": "রিয়ার ভিউ, মোড়ের আয়না",
+    "B": "শেভিং",
+    "C": "হেডলাইট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "আপতন কোণ দ্বিগুণ করলে প্রতিফলন কোণ —",
+   "options": {
+    "A": "দ্বিগুণ হয়",
+    "B": "অর্ধেক হয়",
+    "C": "একই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "পার্শ্ব পরিবর্তন (lateral inversion) কী?",
+   "options": {
+    "A": "ডান-বাম বদল",
+    "B": "উপর-নিচ বদল",
+    "C": "আকার বদল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "উত্তল দর্পণে সমান্তরাল রশ্মি প্রতিফলনের পর —",
+   "options": {
+    "A": "ফোকাস থেকে অপসৃত হয়",
+    "B": "ফোকাসে মিলিত হয়",
+    "C": "কেন্দ্রে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "বিবর্ধন ৩ হলে প্রতিবিম্ব বস্তুর —",
+   "options": {
+    "A": "৩ গুণ",
+    "B": "এক-তৃতীয়াংশ",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "অবতল দর্পণে বস্তু অসীমে থাকলে প্রতিবিম্ব —",
+   "options": {
+    "A": "ফোকাসে",
+    "B": "কেন্দ্রে",
+    "C": "অসীমে",
+    "D": "মেরুতে"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "আলোর প্রতিফলনে শক্তি —",
+   "options": {
+    "A": "সংরক্ষিত থাকে",
+    "B": "ধ্বংস হয়",
+    "C": "সৃষ্টি হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "সমতল দর্পণে প্রতিবিম্বের দূরত্ব = বস্তুর দূরত্ব —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "অবতল দর্পণের ফোকাস দূরত্ব ৮ সেমি হলে বক্রতা ব্যাসার্ধ কত?",
+   "options": {
+    "A": "১৬ সেমি",
+    "B": "৮ সেমি",
+    "C": "৪ সেমি",
+    "D": "৩২ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "উত্তল দর্পণের f = ২০ সেমি, u = ২০ সেমি হলে v কত?",
+   "options": {
+    "A": "১০ সেমি",
+    "B": "২০ সেমি",
+    "C": "৪০ সেমি",
+    "D": "৫ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "অবতল দর্পণে মুখ কাছে আনলে —",
+   "options": {
+    "A": "বড় ও সোজা দেখায়",
+    "B": "ছোট দেখায়",
+    "C": "উল্টো দেখায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "আলোর প্রতিফলনে বেগ অপরিবর্তিত থাকে —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "অ্যাম্বুলেন্সের লেখা উল্টো হয় —",
+   "options": {
+    "A": "পার্শ্ব পরিবর্তনের জন্য",
+    "B": "সৌন্দর্যে",
+    "C": "নিয়মে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "চামচের বাইরের পৃষ্ঠ কোন দর্পণ?",
+   "options": {
+    "A": "উত্তল",
+    "B": "অবতল",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "বিবর্ধন ঋণাত্মক হলে প্রতিবিম্ব —",
+   "options": {
+    "A": "উল্টানো",
+    "B": "সোজা",
+    "C": "বড়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "দুটি রশ্মির ছেদ বিন্দুতে —",
+   "options": {
+    "A": "প্রতিবিম্ব গঠিত হয়",
+    "B": "ফোকাস হয়",
+    "C": "মেরু হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "আয়নায় প্রতিবিম্ব দেখা যায় —",
+   "options": {
+    "A": "প্রতিফলনের জন্য",
+    "B": "প্রতিসরণের জন্য",
+    "C": "শোষণের জন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "দুটি সমান্তরাল দর্পণের মাঝে বস্তু রাখলে প্রতিবিম্ব —",
+   "options": {
+    "A": "অসীম",
+    "B": "একটি",
+    "C": "দুইটি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "গোলীয় দর্পণের মেরু ও কেন্দ্রের দূরত্বকে কী বলে?",
+   "options": {
+    "A": "বক্রতা ব্যাসার্ধ",
+    "B": "ফোকাস দূরত্ব",
+    "C": "ব্যাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "দর্পণ সূত্র 1/v + 1/u = 1/f ব্যবহার হয় —",
+   "options": {
+    "A": "গোলীয় দর্পণে",
+    "B": "সমতল দর্পণে",
+    "C": "লেন্সে শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "সিনেমার পর্দায় যে প্রতিবিম্ব দেখা যায় তা —",
+   "options": {
+    "A": "সদ",
+    "B": "অসদ",
+    "C": "দুটোই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "দর্পণ ১০° ঘোরালে প্রতিফলিত রশ্মি কত ঘোরে?",
+   "options": {
+    "A": "২০°",
+    "B": "১০°",
+    "C": "৫°",
+    "D": "৪০°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "আয়নার সামনে দাঁড়িয়ে হাত তুললে প্রতিবিম্ব —",
+   "options": {
+    "A": "বিপরীত হাত তোলে",
+    "B": "একই হাত তোলে",
+    "C": "তোলে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "অবতল দর্পণে সমান্তরাল রশ্মি প্রতিফলিত হয়ে —",
+   "options": {
+    "A": "ফোকাসে মিলিত হয়",
+    "B": "ছড়িয়ে পড়ে",
+    "C": "শোষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "অবতল দর্পণের f = ১০ সেমি, u = ২৫ সেমি হলে v কত?",
+   "options": {
+    "A": "১৬.৬৭ সেমি",
+    "B": "২৫ সেমি",
+    "C": "১০ সেমি",
+    "D": "৩৫ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "অবতল দর্পণের ফোকাসে দাহ্য বস্তু রাখলে —",
+   "options": {
+    "A": "জ্বলে ওঠে",
+    "B": "ঠান্ডা হয়",
+    "C": "কিছুই হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "প্রতিফলনে মাধ্যম —",
+   "options": {
+    "A": "একটিই",
+    "B": "দুটি",
+    "C": "তিনটি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "দুটি দর্পণ θ কোণে থাকলে প্রতিবিম্বের সংখ্যা n = ?",
+   "options": {
+    "A": "360/θ − 1",
+    "B": "360/θ",
+    "C": "θ/360",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "গোলীয় দর্পণের মেরু ও ফোকাসের দূরত্বকে কী বলে?",
+   "options": {
+    "A": "ফোকাস দূরত্ব",
+    "B": "বক্রতা ব্যাসার্ধ",
+    "C": "ব্যাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "বস্তুর দূরত্ব ৩০ সেমি, প্রতিবিম্ব ৩০ সেমি হলে বিবর্ধন কত?",
+   "options": {
+    "A": "১",
+    "B": "০.৫",
+    "C": "২",
+    "D": "৬০"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "টর্চের আলো দূরে ফেলতে কোন দর্পণ?",
+   "options": {
+    "A": "অবতল",
+    "B": "উত্তল",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "কাগজে কোন প্রতিফলন হয়?",
+   "options": {
+    "A": "ব্যাপ্ত",
+    "B": "নিয়মিত",
+    "C": "দুটোই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "সমতল দর্পণে প্রতিবিম্ব অসদ —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "উত্তল দর্পণ কাকে বলে?",
+   "options": {
+    "A": "বাইরের দিকে বাঁকা",
+    "B": "ভেতরের দিকে বাঁকা",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "বিবর্ধন m > ১ হলে প্রতিবিম্ব —",
+   "options": {
+    "A": "বড়",
+    "B": "ছোট",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "অবতল দর্পণে বস্তু অসীমে থাকলে প্রতিবিম্বের অবস্থান —",
+   "options": {
+    "A": "ফোকাসে",
+    "B": "কেন্দ্রে",
+    "C": "অসীমে",
+    "D": "মেরুতে"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "কাচে রুপার প্রলেপ দিলে —",
+   "options": {
+    "A": "ভালো প্রতিফলক হয়",
+    "B": "শোষক হয়",
+    "C": "স্বচ্ছ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "দুটি সমান্তরাল সমতল দর্পণে প্রতিবিম্বের সংখ্যা —",
+   "options": {
+    "A": "অসীম",
+    "B": "১",
+    "C": "২",
+    "D": "শূন্য"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "অবতল দর্পণের ফোকাস দূরত্ব ১৮ সেমি হলে বক্রতা ব্যাসার্ধ কত?",
+   "options": {
+    "A": "৩৬ সেমি",
+    "B": "১৮ সেমি",
+    "C": "৯ সেমি",
+    "D": "৭২ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "দর্পণ সূত্রে উত্তল দর্পণের f —",
+   "options": {
+    "A": "ধনাত্মক",
+    "B": "ঋণাত্মক",
+    "C": "শূন্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "অবতল দর্পণ সূর্যরশ্মি —",
+   "options": {
+    "A": "ফোকাস করে",
+    "B": "ছড়ায়",
+    "C": "শোষণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "আপতন কোণ কাকে বলে?",
+   "options": {
+    "A": "আপতিত রশ্মি ও অভিলম্বের কোণ",
+    "B": "প্রতিফলিত রশ্মির কোণ",
+    "C": "পৃষ্ঠের কোণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "সমতল দর্পণের ফোকাস দূরত্ব কত?",
+   "options": {
+    "A": "অসীম",
+    "B": "শূন্য",
+    "C": "সসীম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "বক্রতা ব্যাসার্ধ ৬০ সেমি হলে ফোকাস দূরত্ব কত?",
+   "options": {
+    "A": "৩০ সেমি",
+    "B": "৬০ সেমি",
+    "C": "১২০ সেমি",
+    "D": "১৫ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "উত্তল দর্পণে প্রতিবিম্ব সবসময় ছোট — কারণ?",
+   "options": {
+    "A": "m < ১",
+    "B": "m > ১",
+    "C": "m = ১",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "অবতল দর্পণে অসদ প্রতিবিম্ব গঠিত হয় যখন বস্তু —",
+   "options": {
+    "A": "ফোকাস ও মেরুর মাঝে",
+    "B": "ফোকাসের বাইরে",
+    "C": "কেন্দ্রে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "অস্বচ্ছ বস্তু কাকে বলে?",
+   "options": {
+    "A": "আলো ভেদ করতে পারে না",
+    "B": "আলো ভেদ করে",
+    "C": "আংশিক ভেদ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "দুটি দর্পণ ২৪° কোণে থাকলে প্রতিবিম্ব সংখ্যা কত?",
+   "options": {
+    "A": "১৪",
+    "B": "১৫",
+    "C": "১৩",
+    "D": "১৬"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "ফোকাস দূরত্ব ৩০ সেমি হলে বক্রতা ব্যাসার্ধ কত?",
+   "options": {
+    "A": "৬০ সেমি",
+    "B": "৩০ সেমি",
+    "C": "১৫ সেমি",
+    "D": "১২০ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "বস্তুর দূরত্ব ২৫ সেমি, প্রতিবিম্ব ৫০ সেমি হলে বিবর্ধন কত?",
+   "options": {
+    "A": "২",
+    "B": "০.৫",
+    "C": "১",
+    "D": "৭৫"
+   },
+   "correctAnswer": "A",
+   "topic": "দর্পণ সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "অবতল দর্পণে মুখ দূরে রাখলে —",
+   "options": {
+    "A": "উল্টো ও ছোট দেখায়",
+    "B": "বড় দেখায়",
+    "C": "সোজা দেখায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "মসৃণ ধাতব পৃষ্ঠে আলো —",
+   "options": {
+    "A": "ভালো প্রতিফলিত হয়",
+    "B": "শোষিত হয়",
+    "C": "ভেদ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "সমতল দর্পণে বস্তু ও প্রতিবিম্বের দূরত্ব —",
+   "options": {
+    "A": "সমান",
+    "B": "ভিন্ন",
+    "C": "দ্বিগুণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "অবতল দর্পণে প্রধান অক্ষের সমান্তরাল রশ্মি প্রতিফলনের পর —",
+   "options": {
+    "A": "ফোকাস দিয়ে যায়",
+    "B": "কেন্দ্র দিয়ে যায়",
+    "C": "মেরুতে ফেরে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "অবতল দর্পণ ব্যবহার হয় —",
+   "options": {
+    "A": "টর্চ, হেডলাইট, সোলার কুকার, শেভিং",
+    "B": "রিয়ার ভিউ",
+    "C": "দরজার আয়না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "আপতিত, প্রতিফলিত রশ্মি ও অভিলম্ব একই সমতলে — এটি",
+   "options": {
+    "A": "২য় সূত্র",
+    "B": "১ম সূত্র",
+    "C": "৩য় সূত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "৩৬০/θ পূর্ণসংখ্যা না হলে প্রতিবিম্ব সংখ্যা = ?",
+   "options": {
+    "A": "360/θ এর পূর্ণসংখ্যা",
+    "B": "360/θ − 1",
+    "C": "θ/360",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "অবতল দর্পণে প্রতিফলক পৃষ্ঠ —",
+   "options": {
+    "A": "ভেতরের দিকে",
+    "B": "বাইরের দিকে",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "অবতল দর্পণে বস্তু ফোকাস ও মেরুর মাঝে রাখলে প্রতিবিম্ব —",
+   "options": {
+    "A": "সোজা ও বড়",
+    "B": "উল্টানো ও বড়",
+    "C": "উল্টানো ও ছোট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "সাদা পৃষ্ঠ আলো —",
+   "options": {
+    "A": "প্রতিফলিত করে",
+    "B": "শোষণ করে",
+    "C": "ভেদ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "আয়নায় ডান হাত দেখা যায় —",
+   "options": {
+    "A": "বাম হাত হিসেবে",
+    "B": "ডান হাত হিসেবে",
+    "C": "উল্টো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "ফোকাস দিয়ে আসা রশ্মি অবতল দর্পণে প্রতিফলিত হয়ে —",
+   "options": {
+    "A": "সমান্তরাল হয়",
+    "B": "ফোকাসে যায়",
+    "C": "কেন্দ্রে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "গাড়ির হেডলাইটে কোন দর্পণ?",
+   "options": {
+    "A": "অবতল",
+    "B": "উত্তল",
+    "C": "সমতল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "ব্যাপ্ত প্রতিফলনের কারণে ঘরের জিনিস —",
+   "options": {
+    "A": "দেখা যায়",
+    "B": "দেখা যায় না",
+    "C": "উজ্জ্বল দেখায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "দুটি দর্পণ ৩৬° কোণে থাকলে প্রতিবিম্ব কয়টি?",
+   "options": {
+    "A": "৯",
+    "B": "১০",
+    "C": "৮",
+    "D": "১১"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "বক্রতা ব্যাসার্ধ ৯০ সেমি হলে ফোকাস দূরত্ব কত?",
+   "options": {
+    "A": "৪৫ সেমি",
+    "B": "৯০ সেমি",
+    "C": "১৮০ সেমি",
+    "D": "২২.৫ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "ক্যামেরায় গঠিত প্রতিবিম্ব —",
+   "options": {
+    "A": "সদ ও উল্টানো",
+    "B": "অসদ ও সোজা",
+    "C": "সদ ও সোজা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "আয়নায় মুখ দেখা যায় —",
+   "options": {
+    "A": "নিয়মিত প্রতিফলনে",
+    "B": "ব্যাপ্ত প্রতিফলনে",
+    "C": "প্রতিসরণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "ক্যালাইডোস্কোপে প্রতিবিম্বের সংখ্যা —",
+   "options": {
+    "A": "অনেক",
+    "B": "১",
+    "C": "২",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "বক্রতা ব্যাসার্ধ ২০ সেমি হলে ফোকাস দূরত্ব কত?",
+   "options": {
+    "A": "১০ সেমি",
+    "B": "২০ সেমি",
+    "C": "৪০ সেমি",
+    "D": "৫ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "গোলীয় দর্পণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "উত্তল দর্পণে প্রতিবিম্ব সবসময় —",
+   "options": {
+    "A": "সোজা, ছোট, অসদ",
+    "B": "উল্টানো, বড়",
+    "C": "সদ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "নিয়মিত প্রতিফলন কাকে বলে?",
+   "options": {
+    "A": "মসৃণ পৃষ্ঠে সমান্তরাল প্রতিফলন",
+    "B": "রুক্ষ পৃষ্ঠে প্রতিফলন",
+    "C": "বিক্ষিপ্ত প্রতিফলন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "সমতল দর্পণের বক্রতা ব্যাসার্ধ কত?",
+   "options": {
+    "A": "অসীম",
+    "B": "শূন্য",
+    "C": "সসীম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমতল দর্পণ",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "গাড়ির রিয়ার ভিউ আয়না উত্তল — কারণ?",
+   "options": {
+    "A": "চওড়া দৃশ্য দেখা যায়",
+    "B": "বড় দেখায়",
+    "C": "সমান দেখায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "প্রতিফলনের সূত্র দুইটি —",
+   "options": {
+    "A": "সব প্রতিফলনে প্রযোজ্য",
+    "B": "শুধু নিয়মিত",
+    "C": "শুধু ব্যাপ্ত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "দাঁতের ভেতর দেখতে ডাক্তার ব্যবহার করেন —",
+   "options": {
+    "A": "অবতল দর্পণ",
+    "B": "উত্তল দর্পণ",
+    "C": "সমতল দর্পণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "আলো প্রতিফলনের সময় মাধ্যম পরিবর্তন করে —",
+   "options": {
+    "A": "না",
+    "B": "হ্যাঁ",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "সোলার কুকারে সূর্যরশ্মি ফোকাস করতে —",
+   "options": {
+    "A": "অবতল দর্পণ",
+    "B": "উত্তল দর্পণ",
+    "C": "সমতল দর্পণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "আপতন কোণ ৩০° হলে প্রতিফলন কোণ কত?",
+   "options": {
+    "A": "৩০°",
+    "B": "৬০°",
+    "C": "৯০°",
+    "D": "১৫°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "সদ প্রতিবিম্ব সবসময় —",
+   "options": {
+    "A": "উল্টানো",
+    "B": "সোজা",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "জলাশয়ের পানিতে প্রতিবিম্ব দেখা যায় —",
+   "options": {
+    "A": "প্রতিফলনে",
+    "B": "প্রতিসরণে",
+    "C": "শোষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "গাড়ির হেডলাইটে আলো সামনে ছড়াতে —",
+   "options": {
+    "A": "অবতল দর্পণ",
+    "B": "উত্তল দর্পণ",
+    "C": "সমতল দর্পণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "মসৃণ পৃষ্ঠ —",
+   "options": {
+    "A": "নিয়মিত প্রতিফলন",
+    "B": "ব্যাপ্ত প্রতিফলন",
+    "C": "প্রতিসরণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "অবতল দর্পণ বড় প্রতিবিম্ব গঠন করে —",
+   "options": {
+    "A": "ফোকাসের কাছে বস্তু রাখলে",
+    "B": "দূরে রাখলে",
+    "C": "যেকোনো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "আপতিত ও প্রতিফলিত রশ্মির অন্তর্ভুক্ত কোণ ৯০° হলে আপতন কোণ কত?",
+   "options": {
+    "A": "৪৫°",
+    "B": "৯০°",
+    "C": "২২.৫°",
+    "D": "১৮০°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "অবতল দর্পণে বস্তু কেন্দ্রের বাইরে রাখলে প্রতিবিম্ব —",
+   "options": {
+    "A": "কেন্দ্র ও ফোকাসের মাঝে, ছোট, উল্টানো",
+    "B": "কেন্দ্রে",
+    "C": "অসীমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "আপতন কোণ ৬০° হলে প্রতিফলন কোণ কত?",
+   "options": {
+    "A": "৬০°",
+    "B": "৩০°",
+    "C": "১২০°",
+    "D": "৯০°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "অবতল দর্পণে বস্তু 2f এ রাখলে প্রতিবিম্ব —",
+   "options": {
+    "A": "2f এ, সমান, উল্টানো",
+    "B": "f এ",
+    "C": "অসীমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "আপতন কোণ ২০° হলে প্রতিফলন কোণ কত?",
+   "options": {
+    "A": "২০°",
+    "B": "৭০°",
+    "C": "৪০°",
+    "D": "১০°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "অবতল দর্পণে বস্তুর অবস্থানভেদে প্রতিবিম্ব —",
+   "options": {
+    "A": "ভিন্ন হয়",
+    "B": "একই হয়",
+    "C": "হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "ব্যাপ্ত (বিক্ষিপ্ত) প্রতিফলন কাকে বলে?",
+   "options": {
+    "A": "রুক্ষ পৃষ্ঠে বিক্ষিপ্ত প্রতিফলন",
+    "B": "মসৃণ পৃষ্ঠে",
+    "C": "নিয়মিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "প্রতিবিম্ব গঠনের জন্য কমপক্ষে কয়টি রশ্মি দরকার?",
+   "options": {
+    "A": "২",
+    "B": "১",
+    "C": "৩",
+    "D": "৪"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "প্রতিটি পৃষ্ঠ থেকে কিছু আলো —",
+   "options": {
+    "A": "প্রতিফলিত হয়",
+    "B": "শোষিত হয় না",
+    "C": "ভেদ করে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "অবতল দর্পণে বস্তু f ও 2f এর মাঝে রাখলে প্রতিবিম্ব —",
+   "options": {
+    "A": "2f এর বাইরে, বড়, উল্টানো, সদ",
+    "B": "f ও 2f এর মাঝে",
+    "C": "ফোকাসে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "চাঁদ আলোক উৎস —",
+   "options": {
+    "A": "নয়",
+    "B": "হ্যাঁ",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "অবতল দর্পণে বস্তু কেন্দ্র ও ফোকাসের মাঝে রাখলে প্রতিবিম্ব —",
+   "options": {
+    "A": "কেন্দ্রের বাইরে, বড়, উল্টানো",
+    "B": "কেন্দ্রে",
+    "C": "ফোকাসে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "প্রতিফলনের ২য় সূত্র কী?",
+   "options": {
+    "A": "আপতিত, প্রতিফলিত ও অভিলম্ব একই সমতলে",
+    "B": "ভিন্ন সমতলে",
+    "C": "কোনো সূত্র নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "অবতল দর্পণে বস্তু কেন্দ্রে রাখলে প্রতিবিম্বের আকার —",
+   "options": {
+    "A": "সমান",
+    "B": "বড়",
+    "C": "ছোট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "আপতন কোণ ০° হলে প্রতিফলন কোণ —",
+   "options": {
+    "A": "০°",
+    "B": "৯০°",
+    "C": "৪৫°",
+    "D": "১৮০°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "সোলার কুকারে খাবার ফোকাসে রাখা হয় —",
+   "options": {
+    "A": "হ্যাঁ",
+    "B": "না",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "ব্যাপ্ত প্রতিফলনে রশ্মি —",
+   "options": {
+    "A": "বিক্ষিপ্ত হয়",
+    "B": "সমান্তরাল থাকে",
+    "C": "শোষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "উত্তল দর্পণের প্রতিবিম্ব সবসময় —",
+   "options": {
+    "A": "অসদ",
+    "B": "সদ",
+    "C": "দুটোই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "নিয়মিত প্রতিফলনে রশ্মি —",
+   "options": {
+    "A": "সমান্তরাল থাকে",
+    "B": "বিক্ষিপ্ত হয়",
+    "C": "শোষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "অসদ প্রতিবিম্ব কাকে বলে?",
+   "options": {
+    "A": "পর্দায় ধরা যায় না",
+    "B": "পর্দায় ধরা যায়",
+    "C": "শুধু ক্যামেরায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "অভিলম্ব কাকে বলে?",
+   "options": {
+    "A": "পৃষ্ঠের উপর লম্ব",
+    "B": "পৃষ্ঠের সমান্তরাল",
+    "C": "রশ্মি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "অবতল দর্পণে সূর্যরশ্মি ফোকাস করে কাগজ —",
+   "options": {
+    "A": "পোড়ানো যায়",
+    "B": "ঠান্ডা করা যায়",
+    "C": "কিছুই হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "আমরা বই পড়তে পারি —",
+   "options": {
+    "A": "ব্যাপ্ত প্রতিফলনে",
+    "B": "নিয়মিত প্রতিফলনে",
+    "C": "প্রতিসরণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "অবতল দর্পণে বস্তু f এ রাখলে প্রতিবিম্ব —",
+   "options": {
+    "A": "অসীমে",
+    "B": "f এ",
+    "C": "2f এ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবিম্ব",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "আলো অভিলম্ব বরাবর পড়লে প্রতিফলন কোণ কত?",
+   "options": {
+    "A": "০°",
+    "B": "৯০°",
+    "C": "৪৫°",
+    "D": "১৮০°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "আপতিত রশ্মি পৃষ্ঠে ৩০° কোণে পড়লে আপতন কোণ কত?",
+   "options": {
+    "A": "৬০°",
+    "B": "৩০°",
+    "C": "৯০°",
+    "D": "৪৫°"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "আলোর প্রতিফলনে আপতন কোণ = প্রতিফলন কোণ — এটি",
+   "options": {
+    "A": "১ম সূত্র",
+    "B": "২য় সূত্র",
+    "C": "৩য় সূত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "আলোর প্রতিফলনের ক্ষেত্রে আলোকে —",
+   "options": {
+    "A": "রশ্মি ধরা হয়",
+    "B": "তরঙ্গ ধরা হয়",
+    "C": "কণা ধরা হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "চাঁদের আলোয় আমরা দেখতে পাই — কোন প্রতিফলনে?",
+   "options": {
+    "A": "ব্যাপ্ত প্রতিফলন",
+    "B": "নিয়মিত",
+    "C": "প্রতিসরণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "পৃষ্ঠের উপর লম্ব রেখাকে কী বলে?",
+   "options": {
+    "A": "অভিলম্ব",
+    "B": "আপতিত রশ্মি",
+    "C": "প্রতিফলিত রশ্মি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "ব্যাপ্ত প্রতিফলনেও সূত্র —",
+   "options": {
+    "A": "প্রযোজ্য",
+    "B": "প্রযোজ্য নয়",
+    "C": "কখনো",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "c",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "স্ব-উজ্জ্বল বস্তু কাকে বলে?",
+   "options": {
+    "A": "নিজে আলো দেয়",
+    "B": "প্রতিফলিত করে",
+    "C": "দেয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "আলোর প্রতিফলনের ব্যবহার —",
+   "options": {
+    "A": "আয়না, পেরিস্কোপ, ক্যালাইডোস্কোপ",
+    "B": "লেন্স",
+    "C": "প্রিজম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিফলন",
+   "kind": "a",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "A",
+  "2": "A",
+  "3": "A",
+  "4": "A",
+  "5": "A",
+  "6": "A",
+  "7": "A",
+  "8": "A",
+  "9": "A",
+  "10": "A",
+  "11": "A",
+  "12": "A",
+  "13": "A",
+  "14": "A",
+  "15": "A",
+  "16": "A",
+  "17": "A",
+  "18": "A",
+  "19": "A",
+  "20": "A",
+  "21": "A",
+  "22": "A",
+  "23": "A",
+  "24": "A",
+  "25": "A",
+  "26": "A",
+  "27": "A",
+  "28": "A",
+  "29": "A",
+  "30": "A",
+  "31": "A",
+  "32": "A",
+  "33": "A",
+  "34": "A",
+  "35": "A",
+  "36": "A",
+  "37": "A",
+  "38": "A",
+  "39": "A",
+  "40": "A",
+  "41": "A",
+  "42": "A",
+  "43": "A",
+  "44": "A",
+  "45": "A",
+  "46": "A",
+  "47": "A",
+  "48": "A",
+  "49": "A",
+  "50": "A",
+  "51": "A",
+  "52": "A",
+  "53": "A",
+  "54": "A",
+  "55": "A",
+  "56": "A",
+  "57": "A",
+  "58": "A",
+  "59": "A",
+  "60": "A",
+  "61": "A",
+  "62": "A",
+  "63": "A",
+  "64": "A",
+  "65": "A",
+  "66": "A",
+  "67": "A",
+  "68": "A",
+  "69": "A",
+  "70": "A",
+  "71": "A",
+  "72": "A",
+  "73": "A",
+  "74": "A",
+  "75": "A",
+  "76": "A",
+  "77": "A",
+  "78": "A",
+  "79": "A",
+  "80": "A",
+  "81": "A",
+  "82": "A",
+  "83": "A",
+  "84": "A",
+  "85": "A",
+  "86": "A",
+  "87": "A",
+  "88": "A",
+  "89": "A",
+  "90": "A",
+  "91": "A",
+  "92": "A",
+  "93": "A",
+  "94": "A",
+  "95": "A",
+  "96": "A",
+  "97": "A",
+  "98": "A",
+  "99": "A",
+  "100": "A",
+  "101": "A",
+  "102": "A",
+  "103": "A",
+  "104": "A",
+  "105": "A",
+  "106": "A",
+  "107": "A",
+  "108": "A",
+  "109": "A",
+  "110": "A",
+  "111": "A",
+  "112": "A",
+  "113": "A",
+  "114": "A",
+  "115": "A",
+  "116": "A",
+  "117": "A",
+  "118": "A",
+  "119": "A",
+  "120": "C",
+  "121": "A",
+  "122": "A",
+  "123": "A",
+  "124": "A",
+  "125": "A",
+  "126": "A",
+  "127": "A",
+  "128": "A",
+  "129": "A",
+  "130": "A",
+  "131": "A",
+  "132": "A",
+  "133": "A",
+  "134": "A",
+  "135": "A",
+  "136": "A",
+  "137": "A",
+  "138": "A",
+  "139": "A",
+  "140": "A",
+  "141": "A",
+  "142": "A",
+  "143": "A",
+  "144": "A",
+  "145": "A",
+  "146": "A",
+  "147": "A",
+  "148": "A",
+  "149": "A",
+  "150": "A",
+  "151": "A",
+  "152": "A",
+  "153": "A",
+  "154": "A",
+  "155": "A",
+  "156": "A",
+  "157": "A",
+  "158": "A",
+  "159": "A",
+  "160": "A",
+  "161": "A",
+  "162": "A",
+  "163": "A",
+  "164": "A",
+  "165": "A",
+  "166": "A",
+  "167": "A",
+  "168": "A",
+  "169": "A",
+  "170": "A",
+  "171": "A",
+  "172": "A",
+  "173": "A",
+  "174": "A",
+  "175": "A",
+  "176": "A",
+  "177": "A",
+  "178": "A",
+  "179": "A",
+  "180": "A",
+  "181": "A",
+  "182": "A",
+  "183": "A",
+  "184": "A",
+  "185": "A",
+  "186": "A",
+  "187": "A",
+  "188": "A",
+  "189": "A",
+  "190": "A",
+  "191": "A",
+  "192": "A",
+  "193": "A",
+  "194": "A",
+  "195": "A",
+  "196": "A",
+  "197": "A",
+  "198": "A",
+  "199": "A",
+  "200": "A",
+  "201": "A",
+  "202": "A",
+  "203": "A",
+  "204": "A",
+  "205": "A",
+  "206": "A",
+  "207": "A",
+  "208": "A",
+  "209": "A",
+  "210": "A",
+  "211": "A",
+  "212": "A",
+  "213": "A",
+  "214": "A",
+  "215": "A",
+  "216": "A",
+  "217": "A",
+  "218": "A",
+  "219": "A",
+  "220": "A",
+  "221": "A",
+  "222": "A",
+  "223": "A",
+  "224": "A",
+  "225": "A",
+  "226": "A",
+  "227": "A",
+  "228": "A",
+  "229": "A",
+  "230": "A",
+  "231": "A",
+  "232": "A",
+  "233": "A",
+  "234": "A",
+  "235": "A",
+  "236": "A",
+  "237": "A",
+  "238": "A",
+  "239": "A",
+  "240": "A",
+  "241": "A",
+  "242": "A",
+  "243": "A",
+  "244": "A",
+  "245": "A",
+  "246": "A",
+  "247": "A",
+  "248": "A",
+  "249": "A",
+  "250": "A",
+  "251": "A",
+  "252": "A",
+  "253": "A",
+  "254": "A",
+  "255": "A",
+  "256": "A",
+  "257": "A",
+  "258": "A",
+  "259": "A",
+  "260": "A",
+  "261": "A",
+  "262": "A",
+  "263": "A",
+  "264": "A",
+  "265": "A",
+  "266": "A",
+  "267": "A",
+  "268": "A",
+  "269": "A",
+  "270": "A",
+  "271": "A",
+  "272": "A",
+  "273": "A",
+  "274": "A",
+  "275": "A",
+  "276": "A",
+  "277": "A",
+  "278": "A",
+  "279": "A",
+  "280": "A",
+  "281": "A",
+  "282": "A",
+  "283": "A",
+  "284": "A",
+  "285": "A",
+  "286": "A",
+  "287": "A",
+  "288": "A",
+  "289": "A",
+  "290": "A",
+  "291": "A",
+  "292": "A",
+  "293": "A",
+  "294": "A",
+  "295": "A",
+  "296": "A",
+  "297": "A",
+  "298": "A",
+  "299": "A",
+  "300": "A",
+  "301": "A",
+  "302": "A",
+  "303": "A",
+  "304": "A",
+  "305": "A",
+  "306": "A",
+  "307": "A",
+  "308": "A",
+  "309": "A",
+  "310": "A",
+  "311": "A",
+  "312": "A",
+  "313": "A",
+  "314": "A",
+  "315": "A",
+  "316": "A",
+  "317": "A",
+  "318": "A",
+  "319": "A",
+  "320": "A",
+  "321": "A",
+  "322": "A",
+  "323": "A",
+  "324": "A",
+  "325": "A",
+  "326": "A",
+  "327": "A",
+  "328": "A",
+  "329": "A",
+  "330": "A",
+  "331": "A",
+  "332": "A",
+  "333": "A",
+  "334": "A",
+  "335": "A",
+  "336": "A",
+  "337": "A",
+  "338": "A",
+  "339": "A",
+  "340": "A",
+  "341": "A",
+  "342": "A",
+  "343": "A",
+  "344": "A",
+  "345": "A",
+  "346": "A",
+  "347": "A",
+  "348": "A",
+  "349": "A",
+  "350": "A",
+  "351": "A",
+  "352": "A",
+  "353": "A",
+  "354": "A",
+  "355": "A",
+  "356": "A",
+  "357": "A",
+  "358": "A",
+  "359": "A",
+  "360": "A",
+  "361": "A",
+  "362": "A",
+  "363": "A",
+  "364": "A",
+  "365": "A",
+  "366": "A",
+  "367": "A",
+  "368": "A",
+  "369": "A",
+  "370": "A",
+  "371": "A",
+  "372": "A",
+  "373": "A",
+  "374": "A",
+  "375": "A"
+ }
+}
