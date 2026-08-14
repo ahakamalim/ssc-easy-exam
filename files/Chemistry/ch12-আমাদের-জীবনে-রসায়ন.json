@@ -1,0 +1,7134 @@
+{
+ "subject": "রসায়ন",
+ "chapterNo": 12,
+ "chapter": "আমাদের জীবনে রসায়ন",
+ "questions": [
+  {
+   "question": "রসায়ন শিল্পে —",
+   "options": {
+    "A": "অপরিহার্য",
+    "B": "ঐচ্ছিক",
+    "C": "কোনোটিই নয়",
+    "D": "অপ্রয়োজনীয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "ক্যালসিয়ামের অভাব —",
+   "options": {
+    "A": "রাতকানা",
+    "B": "হাড় দুর্বল",
+    "C": "কোনোটিই নয়",
+    "D": "গলগণ্ড"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "অ্যান্টিসেপটিকের উদাহরণ —",
+   "options": {
+    "A": "চিনি",
+    "B": "কোনোটিই নয়",
+    "C": "ডেটল, স্যাভলন, আয়োডিন",
+    "D": "পানি"
+   },
+   "correctAnswer": "C",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "সাবান জীবাণু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাড়ায়",
+    "C": "কিছুই না",
+    "D": "দূর করে"
+   },
+   "correctAnswer": "D",
+   "topic": "সাবান ও ডিটারজেন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "একবার ব্যবহারযোগ্য প্লাস্টিক —",
+   "options": {
+    "A": "উপকার",
+    "B": "কোনোটিই নয়",
+    "C": "দূষণের কারণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "সিমেন্টের ব্যবহার —",
+   "options": {
+    "A": "নির্মাণে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "খাদ্যে"
+   },
+   "correctAnswer": "A",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "কীটনাশকের অপব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "উপকার",
+    "D": "পরিবেশ দূষণ"
+   },
+   "correctAnswer": "D",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "কৃত্রিম রং —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রাসায়নিকভাবে তৈরি",
+    "C": "কোনোটিই নয়",
+    "D": "প্রাকৃতিক"
+   },
+   "correctAnswer": "B",
+   "topic": "রং ও প্রসাধনী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "বিশুদ্ধ পানি —",
+   "options": {
+    "A": "ঐচ্ছিক",
+    "B": "কোনোটিই নয়",
+    "C": "অপ্রয়োজনীয়",
+    "D": "জীবনের জন্য অপরিহার্য"
+   },
+   "correctAnswer": "D",
+   "topic": "পানি ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "রসায়নকে ব্যবহার করতে হবে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অসচেতনভাবে",
+    "C": "কোনোটিই নয়",
+    "D": "সচেতনভাবে"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "লোহা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হিমোগ্লোবিনে",
+    "C": "কিছুই না",
+    "D": "হাড়ে শুধু"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "ওআরএস ডায়রিয়ায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ক্ষতি করে",
+    "D": "জীবন বাঁচায়"
+   },
+   "correctAnswer": "D",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "কঠিন পানিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "Ca²⁺, Mg²⁺ থাকে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "সাবান ও ডিটারজেন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "PVC এর ব্যবহার —",
+   "options": {
+    "A": "পাইপ, তারের আবরণে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "খাদ্যে"
+   },
+   "correctAnswer": "A",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "কাচ পুনর্ব্যবহারযোগ্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হ্যাঁ",
+    "C": "কোনোটিই নয়",
+    "D": "না"
+   },
+   "correctAnswer": "B",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "K (পটাসিয়াম) —",
+   "options": {
+    "A": "পাতায়",
+    "B": "রোগ প্রতিরোধে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "প্রসাধনীর ক্ষতিকর উপাদান —",
+   "options": {
+    "A": "উপকার",
+    "B": "কিছুই না",
+    "C": "ত্বকের ক্ষতি করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রং ও প্রসাধনী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "ফিটকিরি পানিতে —",
+   "options": {
+    "A": "ময়লা থিতায়",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পানি ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "রসায়ন ছাড়া আধুনিক জীবন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অচল",
+    "C": "কোনোটিই নয়",
+    "D": "স্বাভাবিক"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "গ্লুকোজ —",
+   "options": {
+    "A": "চর্বি",
+    "B": "কোনোটিই নয়",
+    "C": "প্রোটিন",
+    "D": "শর্করা"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "মেয়াদোত্তীর্ণ ওষুধ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "খাওয়া উচিত নয়",
+    "C": "খাওয়া উচিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "সাবানায়ন বিক্রিয়া —",
+   "options": {
+    "A": "চর্বি + HCl",
+    "B": "চর্বি + NaOH → সাবান + গ্লিসারল",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সাবান ও ডিটারজেন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "কাগজের কাঁচামাল —",
+   "options": {
+    "A": "কাঠ/বাঁশের সেলুলোজ",
+    "B": "বালি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "সিরামিকের ব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "খাদ্যে",
+    "D": "বাসন, টাইলস, অন্তরকে"
+   },
+   "correctAnswer": "D",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "ফসফরাসের চাহিদা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মূল ও ফলে",
+    "C": "কিছুই না",
+    "D": "শুধু পাতায়"
+   },
+   "correctAnswer": "B",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "রঙ্গক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অদ্রবণীয় রং",
+    "D": "দ্রবণীয় রং"
+   },
+   "correctAnswer": "C",
+   "topic": "রং ও প্রসাধনী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "আর্সেনিক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "স্বাস্থ্যঝুঁকি",
+    "C": "কোনোটিই নয়",
+    "D": "নিরাপদ"
+   },
+   "correctAnswer": "B",
+   "topic": "পানি ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "এনজাইম বিক্রিয়ার হার —",
+   "options": {
+    "A": "কমায়",
+    "B": "বাড়ায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "সুক্রোজের সংকেত —",
+   "options": {
+    "A": "C₆H₁₂O₆·H₂O",
+    "B": "C₆H₁₂O₆",
+    "C": "C₁₂H₂₂O₁₁",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "ওআরএসে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "লবণ, চিনি, পানি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "সাবানের কাজ —",
+   "options": {
+    "A": "ময়লা ও তেল দূর করা",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সাবান ও ডিটারজেন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "পাটজাত দ্রব্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ক্ষতিকর",
+    "D": "প্লাস্টিকের বিকল্প"
+   },
+   "correctAnswer": "D",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "রিইনফোর্সড কংক্রিট —",
+   "options": {
+    "A": "খাদ্যে",
+    "B": "মজবুত নির্মাণে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "কীটনাশক —",
+   "options": {
+    "A": "পুষ্টি",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষতিকর পোকা ধ্বংসকারী",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "প্রাকৃতিক রঞ্জক —",
+   "options": {
+    "A": "কৃত্রিম রং",
+    "B": "নীল, মেহেদি",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রং ও প্রসাধনী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "পানি বিশুদ্ধকরণে —",
+   "options": {
+    "A": "ক্লোরিন, ফিটকিরি",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পানি ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "এনজাইম হজমে —",
+   "options": {
+    "A": "সাহায্য করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বাধা দেয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "চিনি সংরক্ষণে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বাড়ায়",
+    "C": "জীবাণু রোধ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "অ্যান্টিসেপটিক —",
+   "options": {
+    "A": "পুষ্টি",
+    "B": "কিছুই না",
+    "C": "জীবাণু ধ্বংসকারী পদার্থ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "হাত ধোয়া —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "দরকার নেই",
+    "C": "জীবাণু রোধে জরুরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সাবান ও ডিটারজেন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "কৃত্রিম পলিমার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রোটিন",
+    "C": "সেলুলোজ",
+    "D": "পলিথিন, PVC, নাইলন"
+   },
+   "correctAnswer": "D",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "সিরামিক টাইলস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "খাদ্যে",
+    "C": "কিছুই না",
+    "D": "নির্মাণে ব্যবহৃত"
+   },
+   "correctAnswer": "D",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "রাসায়নিক সার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কম্পোস্ট",
+    "C": "গোবর",
+    "D": "ইউরিয়া, টিএসপি"
+   },
+   "correctAnswer": "D",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "সাবান, শ্যাম্পু, ক্রিম —",
+   "options": {
+    "A": "প্রসাধনী",
+    "B": "কোনোটিই নয়",
+    "C": "খাদ্য",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রং ও প্রসাধনী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "পানি জীবাণুমুক্ত করতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "ফুটানো, ক্লোরিন, ফিল্টার"
+   },
+   "correctAnswer": "D",
+   "topic": "পানি ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "রসায়ন আমাদের জীবনে অধ্যায় —",
+   "options": {
+    "A": "অগুরুত্বপূর্ণ",
+    "B": "ঐচ্ছিক",
+    "C": "গুরুত্বপূর্ণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "চর্বির উদাহরণ —",
+   "options": {
+    "A": "ডাল",
+    "B": "চাল",
+    "C": "তেল, ঘি, মাখন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "ওষুধের মেয়াদ —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "খেয়াল রাখা জরুরি",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "কঠিন পানি সাবানের —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ফেনা কমায়",
+    "C": "কোনোটিই নয়",
+    "D": "বাড়ায়"
+   },
+   "correctAnswer": "B",
+   "topic": "সাবান ও ডিটারজেন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "একবার ব্যবহারযোগ্য প্লাস্টিক কমানো —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দরকার নেই",
+    "C": "জরুরি নয়",
+    "D": "জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "সিমেন্ট —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পানি মিশিয়ে শক্ত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "কীটনাশকের মেয়াদ —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "দরকার নেই",
+    "C": "কোনোটিই নয়",
+    "D": "খেয়াল রাখা জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "রঞ্জক —",
+   "options": {
+    "A": "অদ্রবণীয় রং",
+    "B": "কিছুই না",
+    "C": "দ্রবণীয় রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রং ও প্রসাধনী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "বাংলাদেশে আর্সেনিক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বড় সমস্যা",
+    "C": "নেই",
+    "D": "সমস্যা নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পানি ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "সবুজ রসায়ন —",
+   "options": {
+    "A": "ক্ষতিকর রসায়ন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পরিবেশবান্ধব রসায়ন"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "১ গ্রাম প্রোটিন —",
+   "options": {
+    "A": "২ কিলোক্যালরি",
+    "B": "৯ কিলোক্যালরি",
+    "C": "৪ কিলোক্যালরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "রক্ত পরীক্ষা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "রাসায়নিক বিশ্লেষণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "ডিটারজেন্ট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কৃত্রিম পরিষ্কারক",
+    "C": "কিছুই না",
+    "D": "প্রাকৃতিক"
+   },
+   "correctAnswer": "B",
+   "topic": "সাবান ও ডিটারজেন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "পলিথিন —",
+   "options": {
+    "A": "ধাতু",
+    "B": "কোনোটিই নয়",
+    "C": "কাঠ",
+    "D": "প্লাস্টিক"
+   },
+   "correctAnswer": "D",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "সিমেন্ট শিল্প —",
+   "options": {
+    "A": "নির্ভরশীল নয়",
+    "B": "রসায়নের ওপর নির্ভরশীল",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "অতিরিক্ত নাইট্রোজেন সার —",
+   "options": {
+    "A": "উপকার",
+    "B": "কিছুই না",
+    "C": "পানি দূষণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "রং ও প্রসাধনীর নিরাপত্তা —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "জরুরি",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রং ও প্রসাধনী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "আর্সেনিক দূষণ —",
+   "options": {
+    "A": "পানিতে বিষ",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পানি ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "রসায়ন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্ষতিকর শুধু",
+    "C": "মানবকল্যাণে নিবেদিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "ভিনেগার সংরক্ষণে —",
+   "options": {
+    "A": "অম্লীয় পরিবেশে জীবাণু রোধ",
+    "B": "বাড়ায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "হাত স্যানিটাইজারে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পানি শুধু",
+    "C": "অ্যালকোহল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "ডিটারজেন্ট কঠিন পানিতে —",
+   "options": {
+    "A": "ফেনা ধরে রাখে",
+    "B": "ধরে না",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সাবান ও ডিটারজেন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "নাইলনের ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কাপড়, দড়ি, ব্রাশে",
+    "C": "খাদ্যে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "কংক্রিট —",
+   "options": {
+    "A": "খাদ্য",
+    "B": "কোনোটিই নয়",
+    "C": "নির্মাণের মূল উপাদান",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "সার ফসলের —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "উৎপাদন বাড়ায়",
+    "C": "কমায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "ক্ষতিকর প্রসাধনী —",
+   "options": {
+    "A": "উপকার",
+    "B": "কোনোটিই নয়",
+    "C": "ত্বকের ক্ষতি করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রং ও প্রসাধনী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "আর্সেনিক রোধে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পরীক্ষা ও বিশুদ্ধ পানি",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পানি ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "রসায়নের সঠিক ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উপকারী",
+    "C": "ক্ষতিকর",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "পাস্তুরাইজেশন —",
+   "options": {
+    "A": "দুধ গরম করে জীবাণু ধ্বংস",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "প্যারাসিটামল —",
+   "options": {
+    "A": "ব্যথা ও জ্বর কমায়",
+    "B": "জীবাণু ধ্বংস করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "সাবান কঠিন পানিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বেশি কার্যকর",
+    "D": "কম কার্যকর"
+   },
+   "correctAnswer": "D",
+   "topic": "সাবান ও ডিটারজেন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "প্লাস্টিক বর্জ্য পুনর্ব্যবহার —",
+   "options": {
+    "A": "নষ্ট করে",
+    "B": "কিছুই না",
+    "C": "পরিবেশ রক্ষা করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "সিমেন্ট + বালি + পানি = ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কাচ",
+    "D": "কংক্রিট"
+   },
+   "correctAnswer": "D",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "সুপারফসফেট —",
+   "options": {
+    "A": "নাইট্রোজেন সার",
+    "B": "পটাসিয়াম সার",
+    "C": "কোনোটিই নয়",
+    "D": "ফসফরাস সার"
+   },
+   "correctAnswer": "D",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "নীল —",
+   "options": {
+    "A": "কৃত্রিম",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "প্রাকৃতিক রঞ্জক"
+   },
+   "correctAnswer": "D",
+   "topic": "রং ও প্রসাধনী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "পানি ফিল্টার —",
+   "options": {
+    "A": "ময়লা ও জীবাণু দূর করে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পানি ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "টুথপেস্টে ফ্লোরাইড —",
+   "options": {
+    "A": "এনামেল মজবুত করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ক্ষয় করে"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "খাদ্যের উপাদান —",
+   "options": {
+    "A": "শুধু শর্করা",
+    "B": "শর্করা, প্রোটিন, চর্বি, ভিটামিন, খনিজ, পানি",
+    "C": "শুধু প্রোটিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "অ্যান্টিবায়োটিকের উদাহরণ —",
+   "options": {
+    "A": "ভিটামিন C",
+    "B": "পেনিসিলিন",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "সাবানের চেয়ে ডিটারজেন্ট —",
+   "options": {
+    "A": "বেশি কার্যকর কঠিন পানিতে",
+    "B": "সমান",
+    "C": "কোনোটিই নয়",
+    "D": "কম"
+   },
+   "correctAnswer": "A",
+   "topic": "সাবান ও ডিটারজেন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "পলিমার দৈনন্দিন জীবনে —",
+   "options": {
+    "A": "সর্বত্র ব্যবহৃত",
+    "B": "কোনোটিই নয়",
+    "C": "দরকার নেই",
+    "D": "ব্যবহৃত নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "রঙিন কাচে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ধাতব অক্সাইড মেশানো হয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "ইউরিয়ার সংকেত —",
+   "options": {
+    "A": "NH₄Cl",
+    "B": "কোনোটিই নয়",
+    "C": "NH₃",
+    "D": "CO(NH₂)₂"
+   },
+   "correctAnswer": "D",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "প্রসাধনী কেনার আগে —",
+   "options": {
+    "A": "উপাদান দেখা উচিত",
+    "B": "দরকার নেই",
+    "C": "কোনোটিই নয়",
+    "D": "উচিত নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রং ও প্রসাধনী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "পানি ফুটালে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "জীবাণু মরে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "পানি ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "রসায়ন দূষণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শনাক্ত ও নিয়ন্ত্রণে সাহায্য করে",
+    "C": "করে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "শর্করা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শক্তির প্রধান উৎস",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "ওষুধ তৈরি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "রসায়নের সাহায্যে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "সাবানায়নে উপজাত —",
+   "options": {
+    "A": "লবণ",
+    "B": "গ্লিসারল",
+    "C": "কোনোটিই নয়",
+    "D": "চিনি"
+   },
+   "correctAnswer": "B",
+   "topic": "সাবান ও ডিটারজেন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "কাগজ পুনর্ব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "গাছ বাঁচায়"
+   },
+   "correctAnswer": "D",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "কাচ তৈরি হয় —",
+   "options": {
+    "A": "বালি (সিলিকা) থেকে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কাঠ থেকে"
+   },
+   "correctAnswer": "A",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "সার প্রয়োগের সময় ও মাত্রা —",
+   "options": {
+    "A": "অগুরুত্বপূর্ণ",
+    "B": "কোনোটিই নয়",
+    "C": "নেই",
+    "D": "গুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "D",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "প্রসাধনীর নিরাপদ ব্যবহার —",
+   "options": {
+    "A": "জরুরি",
+    "B": "দরকার নেই",
+    "C": "কোনোটিই নয়",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রং ও প্রসাধনী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "পানি দূষণ রোধে রসায়ন —",
+   "options": {
+    "A": "সাহায্য করে",
+    "B": "কিছুই না",
+    "C": "করে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পানি ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "টুথপেস্ট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ক্ষয় বাড়ায়",
+    "D": "দাঁত রক্ষা করে"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "সোডিয়াম ও পটাসিয়াম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "স্নায়ু ও পেশির কাজে"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "জীবাণুনাশক স্প্রে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "জীবাণু ধ্বংস করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "গ্লিসারলের ব্যবহার —",
+   "options": {
+    "A": "খাদ্যে শুধু",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "প্রসাধনী, ওষুধে"
+   },
+   "correctAnswer": "D",
+   "topic": "সাবান ও ডিটারজেন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "পলিমারাইজেশন —",
+   "options": {
+    "A": "মনোমার যুক্ত হয়ে পলিমার",
+    "B": "কোনোটিই নয়",
+    "C": "পলিমার ভাঙা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "কাচের প্রধান উপাদান —",
+   "options": {
+    "A": "সিলিকা (SiO₂)",
+    "B": "কার্বন",
+    "C": "কোনোটিই নয়",
+    "D": "লোহা"
+   },
+   "correctAnswer": "A",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "জৈব সারের সুবিধা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মাটির গঠন ভালো রাখে",
+    "C": "কোনোটিই নয়",
+    "D": "নষ্ট করে"
+   },
+   "correctAnswer": "B",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "রং ও রঞ্জক —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "রসায়নের উৎপাদ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রং ও প্রসাধনী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "বিশুদ্ধ পানি পান —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "জরুরি",
+    "C": "কোনোটিই নয়",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পানি ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "হিমোগ্লোবিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রোটিন",
+    "C": "শর্করা",
+    "D": "চর্বি"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "ভিটামিন D এর অভাব —",
+   "options": {
+    "A": "স্কার্ভি",
+    "B": "কোনোটিই নয়",
+    "C": "রাতকানা",
+    "D": "রিকেট"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "ওষুধ শিল্প —",
+   "options": {
+    "A": "নির্ভরশীল নয়",
+    "B": "কোনোটিই নয়",
+    "C": "রসায়নের ওপর নির্ভরশীল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "সাবান পানিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "দ্রবীভূত হয়ে ময়লা দূর করে"
+   },
+   "correctAnswer": "D",
+   "topic": "সাবান ও ডিটারজেন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "প্লাস্টিকের বিকল্প —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আরও প্লাস্টিক",
+    "C": "পাট, কাগজ, কাপড়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "মাটির হাঁড়ি-পাতিল —",
+   "options": {
+    "A": "প্লাস্টিক",
+    "B": "সিরামিক",
+    "C": "ধাতু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "পটাসিয়ামের চাহিদা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "রোগ প্রতিরোধে",
+    "D": "শুধু পাতায়"
+   },
+   "correctAnswer": "C",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "রঞ্জকের ব্যবহার —",
+   "options": {
+    "A": "খাদ্যে",
+    "B": "কাপড় রং করতে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রং ও প্রসাধনী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "দূষিত পানি —",
+   "options": {
+    "A": "রোগ ছড়ায়",
+    "B": "উপকার",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পানি ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "খাদ্য রান্না —",
+   "options": {
+    "A": "ভৌত পরিবর্তন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "রাসায়নিক পরিবর্তন"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "পানিতে দ্রবণীয় ভিটামিন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "B ও C",
+    "C": "A, D, E, K",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "অ্যাসপিরিন —",
+   "options": {
+    "A": "অ্যান্টিবায়োটিক",
+    "B": "ব্যথানাশক",
+    "C": "ভিটামিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "সাবান তৈরি হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "চর্বি + অম্ল",
+    "C": "কোনোটিই নয়",
+    "D": "চর্বি/তেল + ক্ষার"
+   },
+   "correctAnswer": "D",
+   "topic": "সাবান ও ডিটারজেন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "ইথিলিনের সংকেত —",
+   "options": {
+    "A": "C₂H₄",
+    "B": "CH₄",
+    "C": "C₃H₆",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "কাচের প্রধান কাঁচামাল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কাঠ",
+    "C": "কোনোটিই নয়",
+    "D": "বালি, সোডা, চুনাপাথর"
+   },
+   "correctAnswer": "D",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "জৈব সার মাটির —",
+   "options": {
+    "A": "নষ্ট করে",
+    "B": "কিছুই না",
+    "C": "গুণাগুণ বজায় রাখে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "কাপড় রং করতে —",
+   "options": {
+    "A": "রঙ্গক",
+    "B": "কোনোটিই নয়",
+    "C": "রঞ্জক ব্যবহৃত",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রং ও প্রসাধনী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "পানি বিশুদ্ধকরণ —",
+   "options": {
+    "A": "স্বাস্থ্যের জন্য জরুরি",
+    "B": "কোনোটিই নয়",
+    "C": "দরকার নেই",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পানি ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "এনজাইম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জৈব অনুঘটক",
+    "C": "বিষ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "আয়োডিনযুক্ত লবণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "গলগণ্ড রোধ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "ওষুধের অপব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষতিকর",
+    "D": "উপকারী"
+   },
+   "correctAnswer": "C",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "সাবান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "পরিষ্কারক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সাবান ও ডিটারজেন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "সোনালি আঁশ —",
+   "options": {
+    "A": "তুলা",
+    "B": "রেশম",
+    "C": "পাট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "ইট তৈরি হয় —",
+   "options": {
+    "A": "বালি থেকে",
+    "B": "কিছুই না",
+    "C": "কাদামাটি পুড়িয়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "কীটনাশকের বিকল্প —",
+   "options": {
+    "A": "আরও কীটনাশক",
+    "B": "কোনোটিই নয়",
+    "C": "জৈব পোকা নিয়ন্ত্রণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "প্রসাধনী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রাসায়নিক দ্রব্য",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "রং ও প্রসাধনী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "পানি পরীক্ষা —",
+   "options": {
+    "A": "রাসায়নিকভাবে হয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পানি ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "আমাদের জীবনে রসায়ন অধ্যায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গুরুত্বপূর্ণ",
+    "C": "অগুরুত্বপূর্ণ",
+    "D": "ঐচ্ছিক"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "স্টার্চের উৎস —",
+   "options": {
+    "A": "চাল, আলু, গম",
+    "B": "কোনোটিই নয়",
+    "C": "তেল",
+    "D": "মাংস"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "টিকা (ভ্যাকসিন) —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "রসায়নের অবদান"
+   },
+   "correctAnswer": "D",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "পরিষ্কার-পরিচ্ছন্নতা —",
+   "options": {
+    "A": "স্বাস্থ্যের জন্য জরুরি",
+    "B": "জরুরি নয়",
+    "C": "কোনোটিই নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "সাবান ও ডিটারজেন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "ভালকানাইজড রাবার —",
+   "options": {
+    "A": "ভঙ্গুর",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "টেকসই"
+   },
+   "correctAnswer": "D",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "চিনামাটির বাসন —",
+   "options": {
+    "A": "প্লাস্টিক",
+    "B": "সিরামিক",
+    "C": "ধাতু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "কম্পোস্ট সার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "রাসায়নিক সার",
+    "D": "জৈব সার"
+   },
+   "correctAnswer": "D",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "মেহেদি —",
+   "options": {
+    "A": "প্রাকৃতিক রঞ্জক",
+    "B": "কৃত্রিম",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রং ও প্রসাধনী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "ক্লোরিন পানিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "জীবাণু ধ্বংস করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পানি ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "শিল্প উৎপাদনে —",
+   "options": {
+    "A": "রাসায়নিক প্রক্রিয়া",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "খাদ্য সংরক্ষণে ফ্রিজিং —",
+   "options": {
+    "A": "বাড়ায়",
+    "B": "কিছুই না",
+    "C": "তাপমাত্রায় জীবাণু ধীর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "ওআরএস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "ডায়রিয়ায় ব্যবহৃত",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "প্লাস্টিক পোড়ানো —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "উচিত নয়",
+    "C": "উচিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "কাচ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অস্বচ্ছ, নমনীয়",
+    "D": "স্বচ্ছ, ভঙ্গুর"
+   },
+   "correctAnswer": "D",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "এমওপি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নাইট্রোজেন সার",
+    "C": "ফসফরাস সার",
+    "D": "পটাসিয়াম সার"
+   },
+   "correctAnswer": "D",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "রং শিল্পে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "রঞ্জক ও রঙ্গক ব্যবহৃত"
+   },
+   "correctAnswer": "D",
+   "topic": "রং ও প্রসাধনী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "সবুজ রসায়নের লক্ষ্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "দূষণ কমানো",
+    "D": "দূষণ বাড়ানো"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "খাদ্যে রং মেশানো —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ভেজাল হতে পারে",
+    "D": "নিরাপদ সবসময়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "অ্যান্টাসিডে —",
+   "options": {
+    "A": "Mg(OH)₂, Al(OH)₃, NaHCO₃",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "HCl"
+   },
+   "correctAnswer": "A",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "কাপড়, দড়ি, ব্রাশ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কাচে",
+    "C": "নাইলনে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "আয়নায় কাচের পেছনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "রুপা/অ্যালুমিনিয়াম",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "সবুজ সার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ঢেঁচা, কচুরিপানা",
+    "D": "ইউরিয়া"
+   },
+   "correctAnswer": "C",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "রং শিল্প —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "নির্ভরশীল নয়",
+    "D": "রসায়নের ওপর নির্ভরশীল"
+   },
+   "correctAnswer": "D",
+   "topic": "রং ও প্রসাধনী",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "টুথপেস্টে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ফ্লোরাইড ও ক্ষার",
+    "C": "অম্ল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "ভিটামিন A এর অভাব —",
+   "options": {
+    "A": "রাতকানা",
+    "B": "স্কার্ভি",
+    "C": "রিকেট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "পেনিসিলিন আবিষ্কার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আলেকজান্ডার ফ্লেমিং",
+    "C": "নিউটন",
+    "D": "আইনস্টাইন"
+   },
+   "correctAnswer": "B",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "থার্মোপ্লাস্টিক —",
+   "options": {
+    "A": "তাপে শক্ত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "তাপে নরম হয়, পুনরায় গঠনযোগ্য",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "বিদ্যুতের খুঁটিতে —",
+   "options": {
+    "A": "সিরামিক অন্তরক",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ধাতু"
+   },
+   "correctAnswer": "A",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "ইউরিয়া —",
+   "options": {
+    "A": "পটাসিয়াম সার",
+    "B": "কোনোটিই নয়",
+    "C": "ফসফরাস সার",
+    "D": "নাইট্রোজেন সার"
+   },
+   "correctAnswer": "D",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "রসায়ন পরিবেশে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রাখে না",
+    "C": "কিছুই না",
+    "D": "ভূমিকা রাখে (দূষণ ও সুরক্ষা)"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "প্রোটিনের কাজ —",
+   "options": {
+    "A": "দেহ গঠন ও মেরামত",
+    "B": "শক্তি শুধু",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "অ্যান্টাসিড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অম্ল প্রশমিত করে",
+    "D": "অম্ল বাড়ায়"
+   },
+   "correctAnswer": "C",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "প্লাস্টিক দূষণ রোধে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আরও প্লাস্টিক",
+    "C": "কিছুই না",
+    "D": "পুনর্ব্যবহার ও বিকল্প"
+   },
+   "correctAnswer": "D",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "সিমেন্ট তৈরি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "উত্তপ্ত করে গুঁড়ো করা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "রসায়ন কৃষিতে —",
+   "options": {
+    "A": "সার ও কীটনাশকে সাহায্য করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "করে না"
+   },
+   "correctAnswer": "A",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "রসায়নের দায়িত্বশীল ব্যবহার —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "জরুরি",
+    "C": "জরুরি নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "লোহার অভাব —",
+   "options": {
+    "A": "রক্তস্বল্পতা",
+    "B": "কোনোটিই নয়",
+    "C": "গলগণ্ড",
+    "D": "রিকেট"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "অ্যানালজেসিক —",
+   "options": {
+    "A": "ব্যথানাশক",
+    "B": "পুষ্টি",
+    "C": "জীবাণুনাশক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "জৈব-বিচ্ছেদ্য প্লাস্টিক —",
+   "options": {
+    "A": "পরিবেশবান্ধব",
+    "B": "ক্ষতিকর",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "সিরামিকের উদাহরণ —",
+   "options": {
+    "A": "মাটির পাত্র, টাইলস, চিনামাটির বাসন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "প্লাস্টিক"
+   },
+   "correctAnswer": "A",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "কীটনাশকের নিরাপদ ব্যবহার —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "কোনোটিই নয়",
+    "C": "জরুরি",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "পরিবেশ সুরক্ষায় রসায়ন —",
+   "options": {
+    "A": "নেই",
+    "B": "অগুরুত্বপূর্ণ",
+    "C": "গুরুত্বপূর্ণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "ভিটামিন D —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "হাড়ের জন্য",
+    "D": "চোখের জন্য"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "অ্যালকোহল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পুষ্টি",
+    "C": "কিছুই না",
+    "D": "জীবাণুনাশক"
+   },
+   "correctAnswer": "D",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "PVC এর মনোমার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইথিলিন",
+    "C": "ভিনাইল ক্লোরাইড",
+    "D": "স্টাইরিন"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "কাচ স্বচ্ছ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সিলিকার কারণে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "খাদ্য উৎপাদন বাড়াতে —",
+   "options": {
+    "A": "সার ও উন্নত বীজ",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "দাঁতের এনামেল অম্লে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্ষয় হয়",
+    "C": "কোনোটিই নয়",
+    "D": "মজবুত হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "গ্লুকোজের সংকেত —",
+   "options": {
+    "A": "C₆H₁₂O₆·H₂O",
+    "B": "C₁₂H₂₂O₁₁",
+    "C": "C₆H₁₂O₆",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "ব্যথানাশকের উদাহরণ —",
+   "options": {
+    "A": "পেনিসিলিন",
+    "B": "প্যারাসিটামল, অ্যাসপিরিন",
+    "C": "ভিটামিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "প্লাস্টিকের সমস্যা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "জৈব-অবিচ্ছেদ্য দূষণ",
+    "D": "উপকার"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "সিরামিক তৈরি হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কাদামাটি থেকে",
+    "C": "বালি থেকে শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "সারের প্রবাহ নদীতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উপকার",
+    "C": "কিছুই না",
+    "D": "ইউট্রোফিকেশন ঘটায়"
+   },
+   "correctAnswer": "D",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "হাড় ও দাঁতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লোহা শুধু",
+    "C": "সোডিয়াম",
+    "D": "ক্যালসিয়াম ও ফসফরাস"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "শর্করার প্রকার —",
+   "options": {
+    "A": "মনোস্যাকারাইড, ডাইস্যাকারাইড, পলিস্যাকারাইড",
+    "B": "কোনোটিই নয়",
+    "C": "দুই",
+    "D": "শুধু এক"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "রসায়ন চিকিৎসায় —",
+   "options": {
+    "A": "ঐচ্ছিক",
+    "B": "কোনোটিই নয়",
+    "C": "অপ্রয়োজনীয়",
+    "D": "অপরিহার্য"
+   },
+   "correctAnswer": "D",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "প্লাস্টিক দূষণ —",
+   "options": {
+    "A": "উপকার",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পরিবেশের জন্য হুমকি"
+   },
+   "correctAnswer": "D",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "কাচ ভাঙলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "তীক্ষ্ণ টুকরা হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "N (নাইট্রোজেন) —",
+   "options": {
+    "A": "ফুলে",
+    "B": "পাতা ও বৃদ্ধিতে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "রসায়নের সচেতন ব্যবহারে —",
+   "options": {
+    "A": "ক্ষতি",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সুন্দর জীবন"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "সবচেয়ে বেশি শক্তি দেয় —",
+   "options": {
+    "A": "চর্বি",
+    "B": "কোনোটিই নয়",
+    "C": "প্রোটিন",
+    "D": "শর্করা"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "জীবাণুনাশক —",
+   "options": {
+    "A": "চিনি",
+    "B": "ব্লিচিং পাউডার, ফিনাইল",
+    "C": "পানি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "মনোমার থেকে —",
+   "options": {
+    "A": "পলিমার গঠিত হয়",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "কাচ গলিয়ে —",
+   "options": {
+    "A": "হয় না",
+    "B": "পুনরায় তৈরি হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "সারের সুষম ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জরুরি নয়",
+    "C": "দরকার নেই",
+    "D": "জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "রসায়নের অপব্যবহার —",
+   "options": {
+    "A": "উপকারী",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ক্ষতিকর"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "চর্বির কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শক্তি সঞ্চয়, অন্তরণ",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "এক্স-রে, এমআরআই —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "রসায়নের প্রয়োগ"
+   },
+   "correctAnswer": "D",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "পলিমার কাকে বলে?",
+   "options": {
+    "A": "মৌল",
+    "B": "কোনোটিই নয়",
+    "C": "বৃহৎ অণু (পুনরাবৃত্ত একক)",
+    "D": "ছোট অণু"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "সিরামিক শিল্প —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "প্রাচীন শিল্প",
+    "D": "আধুনিক শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "সারের প্রধান পুষ্টি —",
+   "options": {
+    "A": "C, H, O",
+    "B": "N, P, K",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "রসায়নের গুরুত্ব দৈনন্দিন জীবনে —",
+   "options": {
+    "A": "অপরিসীম",
+    "B": "কোনোটিই নয়",
+    "C": "নেই",
+    "D": "সীমিত"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "পলিস্যাকারাইড —",
+   "options": {
+    "A": "স্টার্চ, সেলুলোজ",
+    "B": "সুক্রোজ",
+    "C": "গ্লুকোজ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "অ্যান্টিবায়োটিকের অপব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রতিরোধ ক্ষমতা কমায়",
+    "C": "বাড়ায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "ব্যাকেলাইটের ব্যবহার —",
+   "options": {
+    "A": "সুইচ, হাতল, বোতামে",
+    "B": "কিছুই না",
+    "C": "ব্যাগে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "বোতল, জানালা, আয়না —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "প্লাস্টিকের",
+    "D": "কাচের"
+   },
+   "correctAnswer": "D",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "নাইট্রোজেন সারের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইউরিয়া, অ্যামোনিয়াম সালফেট",
+    "C": "কিছুই না",
+    "D": "সুপারফসফেট"
+   },
+   "correctAnswer": "B",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "রসায়ন আমাদের জীবনে —",
+   "options": {
+    "A": "জড়িত নয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সর্বত্র জড়িত"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "প্রিজারভেটিভের উদাহরণ —",
+   "options": {
+    "A": "চিনি",
+    "B": "সোডিয়াম বেনজয়েট",
+    "C": "পানি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "স্যালাইনে —",
+   "options": {
+    "A": "NaCl ও গ্লুকোজ",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "কাগজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পেট্রোলিয়াম থেকে",
+    "D": "সেলুলোজ থেকে"
+   },
+   "correctAnswer": "D",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "সিমেন্টের প্রধান উপাদান —",
+   "options": {
+    "A": "বালি শুধু",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "চুনাপাথর ও কাদামাটি"
+   },
+   "correctAnswer": "D",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "কীটনাশকের সতর্ক ব্যবহার —",
+   "options": {
+    "A": "জরুরি",
+    "B": "কোনোটিই নয়",
+    "C": "দরকার নেই",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "রসায়ন শিক্ষা —",
+   "options": {
+    "A": "সহায়ক নয়",
+    "B": "কোনোটিই নয়",
+    "C": "দরকার নেই",
+    "D": "দৈনন্দিন জীবনে সহায়ক"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "অপুষ্টি —",
+   "options": {
+    "A": "পুষ্টির আধিক্য",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পুষ্টির অভাব"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "অ্যান্টিবায়োটিক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ভিটামিন",
+    "C": "জীবাণু ধ্বংসকারী ওষুধ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "ব্যাকেলাইট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "থার্মোসেটিং প্লাস্টিক",
+    "C": "কিছুই না",
+    "D": "থার্মোপ্লাস্টিক"
+   },
+   "correctAnswer": "B",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "কাচ তৈরি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভাটিতে গলিয়ে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "জৈব পোকা নিয়ন্ত্রণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "প্রাকৃতিক শত্রু ব্যবহার"
+   },
+   "correctAnswer": "D",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "হিমোগ্লোবিন বহন করে —",
+   "options": {
+    "A": "CO₂ শুধু",
+    "B": "অক্সিজেন",
+    "C": "নাইট্রোজেন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "চর্বি হজমে —",
+   "options": {
+    "A": "গ্লুকোজ",
+    "B": "ফ্যাটি অ্যাসিড ও গ্লিসারল",
+    "C": "অ্যামিনো অ্যাসিড",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "প্রস্রাব পরীক্ষা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "রাসায়নিক বিশ্লেষণ"
+   },
+   "correctAnswer": "D",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "রাবারের ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "টায়ার, জুতা, টিউবে",
+    "C": "খাদ্যে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "মৃৎশিল্প —",
+   "options": {
+    "A": "সিরামিক",
+    "B": "কোনোটিই নয়",
+    "C": "ধাতু",
+    "D": "প্লাস্টিক"
+   },
+   "correctAnswer": "A",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "ইউরিয়া সার —",
+   "options": {
+    "A": "সবচেয়ে জনপ্রিয়",
+    "B": "অজনপ্রিয়",
+    "C": "নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "দাঁতের এনামেল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ক্যালসিয়াম যৌগ",
+    "D": "লোহার যৌগ"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "খাদ্যে ভেজাল —",
+   "options": {
+    "A": "স্বাস্থ্যঝুঁকি",
+    "B": "নিরাপদ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "রোগ নির্ণয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রাসায়নিক পরীক্ষা",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "প্লাস্টিক —",
+   "options": {
+    "A": "মৌল",
+    "B": "ধাতু",
+    "C": "পলিমার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "কাচ গলানোর তাপমাত্রা —",
+   "options": {
+    "A": "কম",
+    "B": "কোনোটিই নয়",
+    "C": "স্বাভাবিক",
+    "D": "খুব উঁচু"
+   },
+   "correctAnswer": "D",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "ফসলের নাইট্রোজেন চাহিদা —",
+   "options": {
+    "A": "পাতা ও কাণ্ডে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু ফলে"
+   },
+   "correctAnswer": "A",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "খাদ্য হজম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভৌত",
+    "C": "কিছুই না",
+    "D": "রাসায়নিক বিক্রিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "খাদ্য সংরক্ষণ —",
+   "options": {
+    "A": "বাড়ায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অপচয় রোধ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "ওষুধ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "রাসায়নিক যৌগ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "পলিমারের একক —",
+   "options": {
+    "A": "আয়ন",
+    "B": "মনোমার",
+    "C": "কোনোটিই নয়",
+    "D": "মৌল"
+   },
+   "correctAnswer": "B",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "সিরামিক বিদ্যুৎ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পরিবাহী",
+    "C": "অপরিবাহী",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "ইউরিয়ায় নাইট্রোজেন —",
+   "options": {
+    "A": "৮০%",
+    "B": "কোনোটিই নয়",
+    "C": "২০%",
+    "D": "প্রায় ৪৬%"
+   },
+   "correctAnswer": "D",
+   "topic": "সার ও কীটনাশক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "শ্বসন —",
+   "options": {
+    "A": "ভৌত",
+    "B": "রাসায়নিক বিক্রিয়া",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "১ গ্রাম শর্করা —",
+   "options": {
+    "A": "৯ কিলোক্যালরি",
+    "B": "২ কিলোক্যালরি",
+    "C": "কোনোটিই নয়",
+    "D": "৪ কিলোক্যালরি"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "ডাক্তারের পরামর্শ ছাড়া ওষুধ —",
+   "options": {
+    "A": "খাওয়া উচিত নয়",
+    "B": "খাওয়া উচিত",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "প্লাস্টিক পচে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "না (শত বছর লাগে)",
+    "C": "দ্রুত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "সিমেন্ট জমাট বাঁধে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "পানির সাথে বিক্রিয়ায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "মিশ্র সার —",
+   "options": {
+    "A": "শুধু N",
+    "B": "শুধু P",
+    "C": "NPK সারের মিশ্রণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "দেহের সব কাজ —",
+   "options": {
+    "A": "ভৌতে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "রাসায়নিক বিক্রিয়ায় চলে"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "ভিটামিন A এর উৎস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গাজর, শাক, দুধ",
+    "C": "লেবু শুধু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "স্যালাইন —",
+   "options": {
+    "A": "জীবনরক্ষাকারী",
+    "B": "কিছুই না",
+    "C": "বিষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ওষুধ ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "প্রাকৃতিক পলিমার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পলিথিন",
+    "C": "সেলুলোজ, রাবার, প্রোটিন, স্টার্চ",
+    "D": "PVC"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "আয়নায় —",
+   "options": {
+    "A": "কাচ + রুপার প্রলেপ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "কীটনাশক স্প্রেতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নিরাপত্তা পোশাক",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "হিমোগ্লোবিনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্যালসিয়াম",
+    "C": "লোহা (Fe) থাকে",
+    "D": "সোডিয়াম"
+   },
+   "correctAnswer": "C",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "চর্বিতে দ্রবণীয় ভিটামিন —",
+   "options": {
+    "A": "A, D, E, K",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "B ও C"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "রাবার —",
+   "options": {
+    "A": "ধাতু",
+    "B": "কোনোটিই নয়",
+    "C": "মৌল",
+    "D": "পলিমার"
+   },
+   "correctAnswer": "D",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "সিরামিক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "তাপসহ",
+    "D": "তাপে গলে দ্রুত"
+   },
+   "correctAnswer": "C",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "জৈব পদ্ধতিতে পোকা নিয়ন্ত্রণ —",
+   "options": {
+    "A": "ক্ষতিকর",
+    "B": "কিছুই না",
+    "C": "পরিবেশবান্ধব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "রক্ত —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বিশুদ্ধ পদার্থ",
+    "D": "জটিল রাসায়নিক মিশ্রণ"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "খাদ্য রং —",
+   "options": {
+    "A": "অনুমোদিত হতে হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "যেকোনো"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "প্রাকৃতিক রাবার আসে —",
+   "options": {
+    "A": "খনি থেকে",
+    "B": "কিছুই না",
+    "C": "রাবার গাছের কষ থেকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "কাচের ব্যবহার —",
+   "options": {
+    "A": "খাদ্যে",
+    "B": "কিছুই না",
+    "C": "জানালা, বাসন, বোতলে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "নাইট্রেটযুক্ত পানি —",
+   "options": {
+    "A": "নিরাপদ",
+    "B": "স্বাস্থ্যঝুঁকি",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "হাড়ের প্রধান উপাদান —",
+   "options": {
+    "A": "ক্যালসিয়াম ফসফেট",
+    "B": "কিছুই না",
+    "C": "সোডিয়াম ক্লোরাইড",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "লবণ খাদ্য সংরক্ষণে —",
+   "options": {
+    "A": "জীবাণু রোধ করে",
+    "B": "বাড়ায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "পলিথিনের ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "প্যাকেট, ব্যাগে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "ভবন নির্মাণে —",
+   "options": {
+    "A": "সিমেন্ট-কংক্রিট",
+    "B": "খাদ্য",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "সারের মাত্রা নির্ধারণে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "মাটি পরীক্ষা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "খাদ্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "রাসায়নিক পদার্থের সমষ্টি"
+   },
+   "correctAnswer": "D",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "ভিটামিন A —",
+   "options": {
+    "A": "হাড়ের জন্য",
+    "B": "চোখের জন্য",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "ভালকানাইজেশন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "রাবার শক্ত ও টেকসই করে",
+    "D": "নরম করে"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "কংক্রিটে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সিমেন্ট, বালি, খোয়া, পানি",
+    "D": "শুধু সিমেন্ট"
+   },
+   "correctAnswer": "C",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "নাইট্রেট ভূগর্ভস্থ পানিতে —",
+   "options": {
+    "A": "উপকার",
+    "B": "কিছুই না",
+    "C": "দূষণ ঘটায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "সালোকসংশ্লেষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রাসায়নিক বিক্রিয়া",
+    "C": "কিছুই না",
+    "D": "ভৌত"
+   },
+   "correctAnswer": "B",
+   "topic": "রসায়নের প্রয়োগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "প্রোটিন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "দেহ গঠন ও বৃদ্ধিতে"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "পাট —",
+   "options": {
+    "A": "ক্ষতিকর",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পরিবেশবান্ধব"
+   },
+   "correctAnswer": "D",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "সিমেন্ট ও ইট —",
+   "options": {
+    "A": "নির্মাণের ভিত্তি",
+    "B": "কোনোটিই নয়",
+    "C": "খাদ্য",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "সুষম সার প্রয়োগ —",
+   "options": {
+    "A": "কমায়",
+    "B": "ফলন বাড়ায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "ভিটামিন D এর উৎস —",
+   "options": {
+    "A": "চাল",
+    "B": "সূর্যালোক, দুধ, মাছের তেল",
+    "C": "লেবু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "পলিথিনের মনোমার —",
+   "options": {
+    "A": "ইথিলিন",
+    "B": "প্রোপিলিন",
+    "C": "কোনোটিই নয়",
+    "D": "স্টাইরিন"
+   },
+   "correctAnswer": "A",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "সিরামিক অন্তরক —",
+   "options": {
+    "A": "পরিবাহী হিসেবে",
+    "B": "হিসেবে ব্যবহৃত",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "কীটনাশকের পাত্র —",
+   "options": {
+    "A": "যত্রতত্র ফেলা",
+    "B": "কোনোটিই নয়",
+    "C": "সঠিকভাবে ফেলা জরুরি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "চর্বি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সঞ্চিত শক্তি",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "পলিথিন ব্যাগ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উপকার",
+    "C": "দূষণ ঘটায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "রড + কংক্রিট = ?",
+   "options": {
+    "A": "কাচ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "রিইনফোর্সড কংক্রিট"
+   },
+   "correctAnswer": "D",
+   "topic": "কাচ ও সিরামিক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "পাখি ও ব্যাঙ —",
+   "options": {
+    "A": "ক্ষতি করে",
+    "B": "পোকা খেয়ে সাহায্য করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "আয়োডিন —",
+   "options": {
+    "A": "থাইরয়েড গ্রন্থিতে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "হাড়ে"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "টায়ার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কাঁচা রাবারে",
+    "C": "কোনোটিই নয়",
+    "D": "ভালকানাইজড রাবারে"
+   },
+   "correctAnswer": "D",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "রাসায়নিক সারের অতিরিক্ত ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উপকার",
+    "C": "মাটি নষ্ট করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "প্রোটিনের উদাহরণ —",
+   "options": {
+    "A": "আলু",
+    "B": "চাল",
+    "C": "কোনোটিই নয়",
+    "D": "ডিম, মাছ, মাংস, ডাল"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "প্লাস্টিক রিসাইক্লিং —",
+   "options": {
+    "A": "পরিবেশ রক্ষা করে",
+    "B": "কিছুই না",
+    "C": "নষ্ট করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "পটাশ সার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পটাসিয়াম সার",
+    "C": "নাইট্রোজেন সার",
+    "D": "ফসফরাস সার"
+   },
+   "correctAnswer": "B",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "ক্যালসিয়ামের উৎস —",
+   "options": {
+    "A": "দুধ, শাক, ছোট মাছ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "লেবু"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "প্লাস্টিকের সুবিধা —",
+   "options": {
+    "A": "ভারী",
+    "B": "কোনোটিই নয়",
+    "C": "হালকা, টেকসই, সস্তা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "TSP —",
+   "options": {
+    "A": "নাইট্রোজেন সার",
+    "B": "ট্রিপল সুপারফসফেট",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "ভিটামিনের প্রকার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু এক",
+    "C": "পানিতে ও চর্বিতে দ্রবণীয়",
+    "D": "দুই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "পলিয়েস্টার —",
+   "options": {
+    "A": "ধাতু",
+    "B": "কোনোটিই নয়",
+    "C": "কৃত্রিম তন্তু",
+    "D": "প্রাকৃতিক"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "জৈব পদ্ধতির চাষ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পরিবেশবান্ধব",
+    "C": "ক্ষতিকর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "ভিটামিন C এর উৎস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মাংস",
+    "C": "দুধ",
+    "D": "লেবু, আমলকী"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "প্লাস্টিক বর্জ্য —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "কোনোটিই নয়",
+    "C": "দরকার নেই",
+    "D": "সঠিক ব্যবস্থাপনা জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "মাটি পরীক্ষা —",
+   "options": {
+    "A": "সারের প্রয়োজন নির্ধারণ করে",
+    "B": "কোনোটিই নয়",
+    "C": "করে না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "ফরমালিন —",
+   "options": {
+    "A": "খাদ্যে বিষাক্ত সংরক্ষক",
+    "B": "কোনোটিই নয়",
+    "C": "উপকারী",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "থার্মোপ্লাস্টিকের উদাহরণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ব্যাকেলাইট",
+    "C": "কোনোটিই নয়",
+    "D": "পলিথিন, PVC"
+   },
+   "correctAnswer": "D",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "কীটনাশক ব্যবহারে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "মুখোশ ও গ্লাভস",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "খাদ্যের মেয়াদ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পরীক্ষা করা জরুরি",
+    "C": "জরুরি নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "পলিয়েস্টারের ব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কাপড়, বোতলে",
+    "D": "খাদ্যে"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "ইউট্রোফিকেশন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পানিতে শৈবাল বৃদ্ধি",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "চর্বি দেহে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "তাপ রোধ করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "পাট/কাপড়ের ব্যাগ —",
+   "options": {
+    "A": "প্লাস্টিকের বিকল্প",
+    "B": "ক্ষতিকর",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "কীটনাশক খাদ্যশৃঙ্খলে —",
+   "options": {
+    "A": "জমা হয়ে ক্ষতি করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "উপকার"
+   },
+   "correctAnswer": "A",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "খাদ্য সংরক্ষণের আধুনিক পদ্ধতি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "ফ্রিজিং, ক্যানিং, পাস্তুরাইজেশন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "রাবার ভালকানাইজেশনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অক্সিজেন",
+    "D": "সালফার ব্যবহৃত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "জৈব সার + রাসায়নিক সার —",
+   "options": {
+    "A": "ক্ষতিকর",
+    "B": "সমন্বিত ব্যবহার ভালো",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "থাইরয়েড হরমোনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্যালসিয়াম",
+    "C": "আয়োডিন",
+    "D": "লোহা"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "থার্মোসেটিং প্লাস্টিক —",
+   "options": {
+    "A": "তাপে শক্ত হয়ে স্থায়ী",
+    "B": "কোনোটিই নয়",
+    "C": "তাপে নরম",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "ইউরিয়ায় N —",
+   "options": {
+    "A": "সর্বোচ্চ পরিমাণে",
+    "B": "কম",
+    "C": "নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "ভেজাল রোধে —",
+   "options": {
+    "A": "সচেতনতা ও আইন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "কৃত্রিম রাবার —",
+   "options": {
+    "A": "গাছ থেকে",
+    "B": "কিছুই না",
+    "C": "কৃত্রিমভাবে তৈরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "কীটনাশকের উদাহরণ —",
+   "options": {
+    "A": "ইউরিয়া",
+    "B": "গোবর",
+    "C": "কোনোটিই নয়",
+    "D": "DDT, ম্যালাথিয়ন"
+   },
+   "correctAnswer": "D",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "ক্যালরি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "খাদ্যের শক্তির একক",
+    "D": "ভরের একক"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "নাইলন —",
+   "options": {
+    "A": "কৃত্রিম তন্তু",
+    "B": "ধাতু",
+    "C": "প্রাকৃতিক তন্তু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "সারের ঘাটতি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বাড়ায়",
+    "D": "ফলন কমায়"
+   },
+   "correctAnswer": "D",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "স্টার্চ —",
+   "options": {
+    "A": "ডাইস্যাকারাইড",
+    "B": "কোনোটিই নয়",
+    "C": "মনোস্যাকারাইড",
+    "D": "পলিস্যাকারাইড"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "থার্মোসেটিংয়ের উদাহরণ —",
+   "options": {
+    "A": "PVC",
+    "B": "কোনোটিই নয়",
+    "C": "পলিথিন",
+    "D": "ব্যাকেলাইট"
+   },
+   "correctAnswer": "D",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "সার কাকে বলে?",
+   "options": {
+    "A": "বিষ",
+    "B": "কোনোটিই নয়",
+    "C": "উদ্ভিদের পুষ্টি সরবরাহকারী পদার্থ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "ডাইস্যাকারাইড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্লুকোজ",
+    "C": "সুক্রোজ, মল্টোজ",
+    "D": "স্টার্চ"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "ইথিলিন পলিমারাইজেশনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পলিথিন হয়",
+    "C": "নাইলন হয়",
+    "D": "PVC হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "সবুজ বিপ্লবে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রাখেনি",
+    "C": "কোনোটিই নয়",
+    "D": "রাসায়নিক সার ভূমিকা রেখেছে"
+   },
+   "correctAnswer": "D",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "ভিটামিন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দেহের সুরক্ষায়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "প্লাস্টিক পোড়ালে —",
+   "options": {
+    "A": "বিষাক্ত গ্যাস হয়",
+    "B": "কোনোটিই নয়",
+    "C": "উপকার",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "জৈব সার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইউরিয়া",
+    "C": "কিছুই না",
+    "D": "গোবর, কম্পোস্ট"
+   },
+   "correctAnswer": "D",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "সেলুলোজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ডাইস্যাকারাইড",
+    "C": "মনোস্যাকারাইড",
+    "D": "পলিস্যাকারাইড"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "PVC এর পূর্ণরূপ —",
+   "options": {
+    "A": "পলিভিনাইল কার্বনেট",
+    "B": "পলিভিনাইল ক্লোরাইড",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পলিমার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "P (ফসফরাস) —",
+   "options": {
+    "A": "মূল ও ফুল-ফলে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পাতায়"
+   },
+   "correctAnswer": "A",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "গ্লুকোজ থেকে শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নির্গত হয়",
+    "C": "শোষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "সারের অতিরিক্ত ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পানি দূষণ করে",
+    "C": "উপকার",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "খাদ্য রসায়নের গুরুত্ব —",
+   "options": {
+    "A": "নেই",
+    "B": "সীমিত",
+    "C": "কোনোটিই নয়",
+    "D": "অপরিসীম"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "সারের আধিক্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "উপকার",
+    "D": "ফসলের ক্ষতি করে"
+   },
+   "correctAnswer": "D",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "ভিটামিন C এর অভাব —",
+   "options": {
+    "A": "স্কার্ভি",
+    "B": "রাতকানা",
+    "C": "রিকেট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "সারের সঠিক মাত্রা —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "কোনোটিই নয়",
+    "C": "জরুরি",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সার ও কীটনাশক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "সেলুলোজ থাকে —",
+   "options": {
+    "A": "উদ্ভিদের কোষপ্রাচীরে",
+    "B": "কোনোটিই নয়",
+    "C": "প্রাণীতে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "অ্যামিনো অ্যাসিড —",
+   "options": {
+    "A": "শর্করার একক",
+    "B": "কোনোটিই নয়",
+    "C": "চর্বির একক",
+    "D": "প্রোটিনের একক"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "আয়োডিনের অভাব —",
+   "options": {
+    "A": "রক্তস্বল্পতা",
+    "B": "রিকেট",
+    "C": "কোনোটিই নয়",
+    "D": "গলগণ্ড"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "গ্লাইকোজেন সঞ্চিত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হাড়ে",
+    "C": "যকৃত ও পেশিতে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "ভিটামিন B এর অভাব —",
+   "options": {
+    "A": "রিকেট",
+    "B": "স্কার্ভি",
+    "C": "বেরিবেরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "ফরমালিন ব্যবহার —",
+   "options": {
+    "A": "বেআইনি",
+    "B": "কিছুই না",
+    "C": "বৈধ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "পাস্তুরাইজেশনে দুধ —",
+   "options": {
+    "A": "নির্দিষ্ট তাপে গরম করা হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ফোটানো হয় না"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "খাদ্য নিরাপত্তা —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "অগুরুত্বপূর্ণ",
+    "C": "কোনোটিই নয়",
+    "D": "নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "খাদ্য প্যাকেটের লেবেল —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "কোনোটিই নয়",
+    "C": "পড়া উচিত",
+    "D": "উচিত নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "অননুমোদিত রং খাদ্যে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "উপকারী",
+    "C": "কোনোটিই নয়",
+    "D": "ক্ষতিকর"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "রসায়ন খাদ্যে —",
+   "options": {
+    "A": "ব্যাপক ভূমিকা রাখে",
+    "B": "কিছুই না",
+    "C": "রাখে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "মেয়াদোত্তীর্ণ খাদ্য —",
+   "options": {
+    "A": "খাওয়া উচিত নয়",
+    "B": "কোনোটিই নয়",
+    "C": "খাওয়া উচিত",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "নিরাপদ খাদ্য —",
+   "options": {
+    "A": "মৌলিক অধিকার",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "খাদ্যে প্রিজারভেটিভ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পচন রোধ করে",
+    "D": "বাড়ায়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "ক্যানিং —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "খাদ্য বায়ুরোধী পাত্রে সংরক্ষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "সুক্রোজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লবণ",
+    "C": "চিনি",
+    "D": "প্রোটিন"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "খাদ্য সংরক্ষণে —",
+   "options": {
+    "A": "লবণ, চিনি, ভিনেগার",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "১ গ্রাম চর্বি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৯ কিলোক্যালরি",
+    "C": "৪ কিলোক্যালরি",
+    "D": "২ কিলোক্যালরি"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "গ্লুকোজ সঞ্চিত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "গ্লাইকোজেন হিসেবে",
+    "D": "স্টার্চ হিসেবে"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "খাদ্যে ভেজাল শনাক্তে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পরীক্ষা ও সচেতনতা",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "খাদ্য নিরাপত্তা আইন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "ভেজাল রোধে"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "মনোস্যাকারাইড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্টার্চ",
+    "C": "সুক্রোজ",
+    "D": "গ্লুকোজ, ফ্রুক্টোজ"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "অপুষ্টির ফল —",
+   "options": {
+    "A": "উপকার",
+    "B": "রোগ ও দুর্বলতা",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "শ্বেতসার (স্টার্চ) —",
+   "options": {
+    "A": "চর্বি",
+    "B": "প্রোটিন",
+    "C": "কোনোটিই নয়",
+    "D": "শর্করা"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "প্রোটিন হজমে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যামিনো অ্যাসিড হয়",
+    "C": "গ্লুকোজ হয়",
+    "D": "চর্বি হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "চর্বির গাঠনিক একক —",
+   "options": {
+    "A": "গ্লুকোজ",
+    "B": "ফ্যাটি অ্যাসিড ও গ্লিসারল",
+    "C": "অ্যামিনো অ্যাসিড",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "সুষম খাদ্য —",
+   "options": {
+    "A": "শুধু চর্বি",
+    "B": "সব পুষ্টির সমন্বয়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু শর্করা"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "ভিটামিন C —",
+   "options": {
+    "A": "দাঁত ও ত্বকের জন্য",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "হাড়ের জন্য শুধু"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "খনিজ লবণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "হাড় ও রক্তে"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "ভেজাল খাদ্য —",
+   "options": {
+    "A": "উপকারী",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষতিকর",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "ফরমালিন খাদ্যে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নিরাপদ",
+    "C": "স্বাস্থ্যঝুঁকি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "শর্করা হজমে —",
+   "options": {
+    "A": "প্রোটিন হয়",
+    "B": "গ্লুকোজ হয়",
+    "C": "চর্বি হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "গ্লুকোজ শোষিত হয় —",
+   "options": {
+    "A": "হাড়ে",
+    "B": "রক্তে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "প্রোটিনের গাঠনিক একক —",
+   "options": {
+    "A": "অ্যামিনো অ্যাসিড",
+    "B": "কোনোটিই নয়",
+    "C": "গ্লুকোজ",
+    "D": "ফ্যাটি অ্যাসিড"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও রসায়ন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "A",
+  "2": "B",
+  "3": "C",
+  "4": "D",
+  "5": "C",
+  "6": "A",
+  "7": "D",
+  "8": "B",
+  "9": "D",
+  "10": "D",
+  "11": "B",
+  "12": "D",
+  "13": "B",
+  "14": "A",
+  "15": "B",
+  "16": "B",
+  "17": "C",
+  "18": "A",
+  "19": "B",
+  "20": "D",
+  "21": "B",
+  "22": "B",
+  "23": "A",
+  "24": "D",
+  "25": "B",
+  "26": "C",
+  "27": "B",
+  "28": "B",
+  "29": "C",
+  "30": "C",
+  "31": "A",
+  "32": "D",
+  "33": "B",
+  "34": "C",
+  "35": "B",
+  "36": "A",
+  "37": "A",
+  "38": "C",
+  "39": "C",
+  "40": "C",
+  "41": "D",
+  "42": "D",
+  "43": "D",
+  "44": "A",
+  "45": "D",
+  "46": "C",
+  "47": "C",
+  "48": "B",
+  "49": "B",
+  "50": "D",
+  "51": "D",
+  "52": "D",
+  "53": "C",
+  "54": "B",
+  "55": "D",
+  "56": "C",
+  "57": "C",
+  "58": "B",
+  "59": "D",
+  "60": "B",
+  "61": "C",
+  "62": "B",
+  "63": "A",
+  "64": "C",
+  "65": "A",
+  "66": "C",
+  "67": "A",
+  "68": "B",
+  "69": "C",
+  "70": "B",
+  "71": "C",
+  "72": "B",
+  "73": "B",
+  "74": "A",
+  "75": "A",
+  "76": "D",
+  "77": "C",
+  "78": "D",
+  "79": "D",
+  "80": "D",
+  "81": "A",
+  "82": "A",
+  "83": "B",
+  "84": "B",
+  "85": "A",
+  "86": "A",
+  "87": "B",
+  "88": "D",
+  "89": "A",
+  "90": "C",
+  "91": "B",
+  "92": "B",
+  "93": "B",
+  "94": "B",
+  "95": "D",
+  "96": "A",
+  "97": "D",
+  "98": "A",
+  "99": "A",
+  "100": "D",
+  "101": "D",
+  "102": "C",
+  "103": "D",
+  "104": "A",
+  "105": "A",
+  "106": "B",
+  "107": "B",
+  "108": "B",
+  "109": "B",
+  "110": "D",
+  "111": "C",
+  "112": "D",
+  "113": "C",
+  "114": "B",
+  "115": "C",
+  "116": "B",
+  "117": "A",
+  "118": "D",
+  "119": "B",
+  "120": "B",
+  "121": "D",
+  "122": "A",
+  "123": "D",
+  "124": "C",
+  "125": "C",
+  "126": "A",
+  "127": "B",
+  "128": "D",
+  "129": "C",
+  "130": "C",
+  "131": "C",
+  "132": "C",
+  "133": "C",
+  "134": "B",
+  "135": "A",
+  "136": "B",
+  "137": "A",
+  "138": "D",
+  "139": "A",
+  "140": "D",
+  "141": "B",
+  "142": "D",
+  "143": "A",
+  "144": "C",
+  "145": "A",
+  "146": "C",
+  "147": "C",
+  "148": "B",
+  "149": "D",
+  "150": "D",
+  "151": "D",
+  "152": "C",
+  "153": "C",
+  "154": "A",
+  "155": "C",
+  "156": "C",
+  "157": "C",
+  "158": "D",
+  "159": "B",
+  "160": "A",
+  "161": "B",
+  "162": "C",
+  "163": "A",
+  "164": "D",
+  "165": "D",
+  "166": "A",
+  "167": "C",
+  "168": "D",
+  "169": "D",
+  "170": "A",
+  "171": "B",
+  "172": "A",
+  "173": "A",
+  "174": "A",
+  "175": "A",
+  "176": "C",
+  "177": "C",
+  "178": "C",
+  "179": "D",
+  "180": "C",
+  "181": "B",
+  "182": "A",
+  "183": "B",
+  "184": "C",
+  "185": "B",
+  "186": "C",
+  "187": "B",
+  "188": "D",
+  "189": "D",
+  "190": "A",
+  "191": "D",
+  "192": "D",
+  "193": "B",
+  "194": "B",
+  "195": "D",
+  "196": "A",
+  "197": "B",
+  "198": "A",
+  "199": "B",
+  "200": "D",
+  "201": "D",
+  "202": "C",
+  "203": "D",
+  "204": "C",
+  "205": "C",
+  "206": "B",
+  "207": "A",
+  "208": "A",
+  "209": "B",
+  "210": "A",
+  "211": "D",
+  "212": "B",
+  "213": "D",
+  "214": "B",
+  "215": "A",
+  "216": "D",
+  "217": "D",
+  "218": "A",
+  "219": "D",
+  "220": "D",
+  "221": "C",
+  "222": "B",
+  "223": "B",
+  "224": "D",
+  "225": "B",
+  "226": "B",
+  "227": "D",
+  "228": "B",
+  "229": "A",
+  "230": "A",
+  "231": "C",
+  "232": "A",
+  "233": "B",
+  "234": "C",
+  "235": "D",
+  "236": "A",
+  "237": "D",
+  "238": "D",
+  "239": "C",
+  "240": "B",
+  "241": "C",
+  "242": "D",
+  "243": "B",
+  "244": "D",
+  "245": "A",
+  "246": "B",
+  "247": "B",
+  "248": "C",
+  "249": "D",
+  "250": "B",
+  "251": "A",
+  "252": "C",
+  "253": "A",
+  "254": "B",
+  "255": "C",
+  "256": "A",
+  "257": "D",
+  "258": "C",
+  "259": "C",
+  "260": "D",
+  "261": "A",
+  "262": "C",
+  "263": "C",
+  "264": "B",
+  "265": "A",
+  "266": "A",
+  "267": "C",
+  "268": "A",
+  "269": "C",
+  "270": "D",
+  "271": "B",
+  "272": "C",
+  "273": "C",
+  "274": "C",
+  "275": "B",
+  "276": "D",
+  "277": "D",
+  "278": "A",
+  "279": "B",
+  "280": "B",
+  "281": "A",
+  "282": "B",
+  "283": "C",
+  "284": "B",
+  "285": "C",
+  "286": "D",
+  "287": "B",
+  "288": "A",
+  "289": "D",
+  "290": "C",
+  "291": "D",
+  "292": "A",
+  "293": "B",
+  "294": "A",
+  "295": "C",
+  "296": "B",
+  "297": "C",
+  "298": "C",
+  "299": "B",
+  "300": "D",
+  "301": "D",
+  "302": "A",
+  "303": "A",
+  "304": "D",
+  "305": "B",
+  "306": "B",
+  "307": "C",
+  "308": "B",
+  "309": "C",
+  "310": "A",
+  "311": "A",
+  "312": "C",
+  "313": "D",
+  "314": "B",
+  "315": "C",
+  "316": "A",
+  "317": "A",
+  "318": "A",
+  "319": "C",
+  "320": "D",
+  "321": "C",
+  "322": "A",
+  "323": "D",
+  "324": "D",
+  "325": "D",
+  "326": "C",
+  "327": "C",
+  "328": "B",
+  "329": "D",
+  "330": "B",
+  "331": "A",
+  "332": "D",
+  "333": "D",
+  "334": "B",
+  "335": "A",
+  "336": "B",
+  "337": "B",
+  "338": "D",
+  "339": "D",
+  "340": "A",
+  "341": "C",
+  "342": "A",
+  "343": "D",
+  "344": "D",
+  "345": "C",
+  "346": "C",
+  "347": "A",
+  "348": "A",
+  "349": "A",
+  "350": "C",
+  "351": "D",
+  "352": "A",
+  "353": "A",
+  "354": "A",
+  "355": "C",
+  "356": "C",
+  "357": "C",
+  "358": "A",
+  "359": "B",
+  "360": "C",
+  "361": "C",
+  "362": "D",
+  "363": "D",
+  "364": "B",
+  "365": "D",
+  "366": "B",
+  "367": "B",
+  "368": "B",
+  "369": "A",
+  "370": "D",
+  "371": "C",
+  "372": "C",
+  "373": "B",
+  "374": "B",
+  "375": "A"
+ }
+}
