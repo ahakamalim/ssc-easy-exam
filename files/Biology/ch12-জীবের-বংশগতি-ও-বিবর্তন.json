@@ -1,0 +1,7134 @@
+{
+ "subject": "জীববিজ্ঞান",
+ "chapterNo": 12,
+ "chapter": "জীবের বংশগতি ও বিবর্তন",
+ "questions": [
+  {
+   "question": "G-C জোড়ায় বন্ধন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "২টি",
+    "C": "৩টি হাইড্রোজেন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "অসম্পূর্ণ প্রকটতার উদাহরণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "লাল × সাদা = গোলাপি ফুল",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "ডারউইনের তত্ত্বের সীমাবদ্ধতা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "বংশগতির ব্যাখ্যা দিতে পারেননি"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "মেয়ে সন্তানের জন্য লজ্জা করা —",
+   "options": {
+    "A": "উচিত",
+    "B": "বিজ্ঞানসম্মত নয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "পৃথকীকরণ সূত্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "জিন জোড়া আলাদা হয় গ্যামেটে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "বিলুপ্তি রোধে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "সংরক্ষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "জিন মিউটেশন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্রোমোজোমে",
+    "C": "কিছুই না",
+    "D": "একটি জিনে পরিবর্তন"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "লম্বা × বেঁটে (F₁) —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মিশ্র",
+    "C": "সব লম্বা",
+    "D": "সব বেঁটে"
+   },
+   "correctAnswer": "C",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "জীবনবৃক্ষ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বিবর্তনের সম্পর্ক দেখায়"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "অ্যালিল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ক্রোমোজোমের নির্দিষ্ট স্থানে থাকে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "টেস্ট ক্রসে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "হোমোজাইগাস প্রচ্ছন্নের সাথে ক্রস",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "ঘোড়ার জীবাশ্ম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বিবর্তনের ধারা দেখায়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "একই জিনোটাইপে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ভিন্ন ফেনোটাইপ হতে পারে (পরিবেশে)",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "মেন্ডেলের সূত্রের সীমাবদ্ধতা —",
+   "options": {
+    "A": "সব বৈশিষ্ট্যে প্রযোজ্য নয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "অভিযোজন কাকে বলে?",
+   "options": {
+    "A": "পরিবেশের সাথে খাপ খাওয়ানো",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "TT × tt থেকে F₁ —",
+   "options": {
+    "A": "সব tt",
+    "B": "মিশ্র",
+    "C": "কোনোটিই নয়",
+    "D": "সব Tt (লম্বা)"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "ব্যাক ক্রস —",
+   "options": {
+    "A": "সন্তানকে পিতামাতার সাথে ক্রস",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "ডাইনোসরের জীবাশ্ম —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বিবর্তনের প্রমাণ"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "ব্যাকটেরিয়ায় ইনসুলিন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "জিন প্রকৌশলে তৈরি হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "AB রক্ত গ্রুপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "সহ-প্রকটতার উদাহরণ"
+   },
+   "correctAnswer": "D",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "অণুজীব দ্রুত বিবর্তিত হয় — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ছোট জীবনচক্র",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "উন্নত বীজ উৎপাদনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "বংশগতির জ্ঞান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "মেন্ডেলের পরীক্ষার নিয়ন্ত্রণ —",
+   "options": {
+    "A": "স্ব-পরাগায়ন ও ক্রস-পরাগায়ন",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "যোগ্যতমের টিকে থাকা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "প্রাকৃতিক নির্বাচনের ফল",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "সিকল সেল অ্যানিমিয়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "জিন মিউটেশনের রোগ"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "F₁ স্ব-পরাগায়নে F₂ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "জিনোটাইপ ১:২:১"
+   },
+   "correctAnswer": "D",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "তিমির ফ্লিপার ও মানুষের হাত —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সমসংস্থ",
+    "C": "সমবৃত্তি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "বংশতালিকা (pedigree) —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "বংশগত রোগের ধারা দেখায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "স্বাধীন বিন্যাস সূত্র অনুযায়ী —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ভিন্ন জিন স্বাধীনভাবে বিন্যস্ত হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "অ্যান্টিবায়োটিক প্রতিরোধ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "ব্যাকটেরিয়ার বিবর্তন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "Tt —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হেটেরোজাইগাস",
+    "C": "হোমোজাইগাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "মেন্ডেল পরীক্ষা করেন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ধান গাছে",
+    "C": "মটরশুঁটি গাছে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "কৃষির সূচনা —",
+   "options": {
+    "A": "মানুষের সভ্যতায় গুরুত্বপূর্ণ",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "DNA এর একক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অ্যামিনো অ্যাসিড",
+    "C": "নিউক্লিওটাইড",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "মেন্ডেলের কাজ পুনরাবিষ্কৃত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "১৮৬৫ সালে",
+    "D": "১৯০০ সালে"
+   },
+   "correctAnswer": "D",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "ঘোড়ার বিবর্তনে —",
+   "options": {
+    "A": "আকার বেড়েছে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "Tt × Tt থেকে সন্তান —",
+   "options": {
+    "A": "সব লম্বা",
+    "B": "৩ লম্বা : ১ বেঁটে",
+    "C": "সব বেঁটে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "মেন্ডেলের সফলতার কারণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "সঠিক জীব নির্বাচন ও গাণিতিক বিশ্লেষণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "অবশিষ্ট অঙ্গ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ব্যবহারহীন হয়ে যাওয়া অঙ্গ"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "জেনেটিক ইঞ্জিনিয়ারিং —",
+   "options": {
+    "A": "জিনের পরিবর্তন ও স্থানান্তর",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "গোল বীজ —",
+   "options": {
+    "A": "প্রচ্ছন্ন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "প্রকট"
+   },
+   "correctAnswer": "D",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "উপযুক্ত জীব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বেশি সন্তান দেয়",
+    "C": "কোনোটিই নয়",
+    "D": "কম"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "জিন কাকে বলে?",
+   "options": {
+    "A": "প্রোটিন",
+    "B": "DNA এর কার্যকরী অংশ",
+    "C": "শর্করা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "F₂ তে লম্বা:বেঁটে অনুপাত —",
+   "options": {
+    "A": "১:১",
+    "B": "কোনোটিই নয়",
+    "C": "৩:১",
+    "D": "৯:৩:৩:১"
+   },
+   "correctAnswer": "C",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "অর্জিত বৈশিষ্ট্যের উত্তরাধিকার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ল্যামার্ক প্রস্তাব করেন",
+    "C": "ডারউইন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "Tt × Tt এ রোগী সন্তানের সম্ভাবনা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "২৫% (tt)"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "একাধিক অ্যালিল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "রক্ত গ্রুপে (A, B, O)",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "মানুষের নিকটতম প্রাণী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শিম্পাঞ্জি",
+    "D": "গরিলা"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "tt থেকে গ্যামেট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু t",
+    "C": "কিছুই না",
+    "D": "T ও t"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "মটরশুঁটির সবুজ বীজ —",
+   "options": {
+    "A": "প্রচ্ছন্ন বৈশিষ্ট্য",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "প্রকট"
+   },
+   "correctAnswer": "A",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "হাতিয়ার ব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "মানুষের বিবর্তনে গুরুত্বপূর্ণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "প্রচ্ছন্ন বৈশিষ্ট্য —",
+   "options": {
+    "A": "সমসংস্থ জিনে প্রকাশ পায়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "প্রকটতার সূত্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "সংকর সন্তানে প্রকট বৈশিষ্ট্য প্রকাশ পায়"
+   },
+   "correctAnswer": "D",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "বংশগতি ও বিবর্তন অধ্যায় —",
+   "options": {
+    "A": "অগুরুত্বপূর্ণ",
+    "B": "ঐচ্ছিক",
+    "C": "কোনোটিই নয়",
+    "D": "গুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "পরিবেশ ফেনোটাইপকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রভাবিত করে",
+    "C": "করে না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "মেন্ডেলের পরীক্ষার গুরুত্ব —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "বংশগতির ভিত্তি স্থাপন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "বংশগত বৈশিষ্ট্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "জিনে থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "Tt × Tt এর জিনোটাইপ অনুপাত —",
+   "options": {
+    "A": "৩:১",
+    "B": "১:২:১",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "প্রকট জিন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্রচ্ছন্ন জিনকে দমন করে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "ছোট জীবনচক্র —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "দ্রুত প্রজন্ম বদলায়"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "জিনোম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "জীবের সম্পূর্ণ DNA",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "মেন্ডেলের পরীক্ষায় বৈশিষ্ট্য —",
+   "options": {
+    "A": "শুধু এক",
+    "B": "লম্বা-বেঁটে, হলুদ-সবুজ, গোল-কুঞ্চিত",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "হোমো হ্যাবিলিস —",
+   "options": {
+    "A": "দক্ষ মানুষ",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "TT —",
+   "options": {
+    "A": "হোমোজাইগাস প্রকট",
+    "B": "হেটেরোজাইগাস",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "মেন্ডেলের তৃতীয় সূত্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "প্রকটতার সূত্র"
+   },
+   "correctAnswer": "D",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "প্রজাত্যায়নের কারণ —",
+   "options": {
+    "A": "ভৌগোলিক বিচ্ছিন্নতা",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "বংশগতির গবেষণা পদ্ধতি —",
+   "options": {
+    "A": "সংকরায়ণ, বংশতালিকা বিশ্লেষণ",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "পানেট স্কোয়ারে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সম্ভাব্য জিনোটাইপ বের করা হয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "ডারউইনের তত্ত্ব —",
+   "options": {
+    "A": "পৃথকীকরণ",
+    "B": "কোনোটিই নয়",
+    "C": "প্রাকৃতিক নির্বাচন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "বংশগতি কাকে বলে?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "পিতা-মাতার বৈশিষ্ট্য সন্তানে আসা"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "মেন্ডেলের সূত্রের ভিত্তি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "গ্যামেটে জিনের পৃথকীকরণ"
+   },
+   "correctAnswer": "D",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "মানুষের হাত ও পাখির ডানা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সমসংস্থ অঙ্গ",
+    "D": "সমবৃত্তি"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "A-T জোড়ায় বন্ধন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "২টি হাইড্রোজেন",
+    "C": "৩টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "দ্বিসংকর ক্রস —",
+   "options": {
+    "A": "দুই জোড়া বৈশিষ্ট্য নিয়ে",
+    "B": "কিছুই না",
+    "C": "এক জোড়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "জিরাফের গলা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ল্যামার্কের তত্ত্বের উদাহরণ"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "ডাউন সিনড্রোমে ক্রোমোজোম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "৪৭টি",
+    "D": "৪৬টি"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "পৃথকীকরণ সূত্র অনুযায়ী —",
+   "options": {
+    "A": "প্রতিটি গ্যামেটে এক অ্যালিল যায়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "জীবাশ্ম কাকে বলে?",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "প্রাচীন জীবের সংরক্ষিত দেহাবশেষ"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "ডিম্বাণু সবসময় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "X বহন করে",
+    "C": "Y বহন করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "মেন্ডেলের সূত্রের প্রয়োগ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ফসল উন্নয়ন, রোগ নির্ণয়ে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "প্রজাতি সংরক্ষণ —",
+   "options": {
+    "A": "বিবর্তনের ধারাবাহিকতা রক্ষা করে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "দুই বাহকের সন্তানে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "রোগ প্রকাশের সম্ভাবনা থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "অসম্পূর্ণ প্রকটতা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "মধ্যবর্তী বৈশিষ্ট্য প্রকাশ"
+   },
+   "correctAnswer": "D",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "মানুষের মস্তিষ্ক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অন্যান্য প্রাণীর চেয়ে বড়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "জিনের কাজ —",
+   "options": {
+    "A": "প্রোটিন তৈরির নির্দেশ",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "পানেট স্কোয়ার —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "জিনোটাইপ পূর্বাভাসের ছক"
+   },
+   "correctAnswer": "D",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "দ্বীপের জীব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "আলাদা বিবর্তিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "জিনোটাইপ কাকে বলে?",
+   "options": {
+    "A": "বাহ্যিক বৈশিষ্ট্য",
+    "B": "জিনের গঠনগত ধরন",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "মেন্ডেল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "অস্ট্রিয়ার সন্ন্যাসী",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "আগুনের ব্যবহার —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "মানুষের বিবর্তনে গুরুত্বপূর্ণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "পলিজিনিক উদাহরণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ত্বকের রং, উচ্চতা"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "মেন্ডেলের দ্বিসংকর অনুপাত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৯:৩:৩:১",
+    "C": "৩:১",
+    "D": "১:১"
+   },
+   "correctAnswer": "B",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "ভ্রূণের সাদৃশ্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সাধারণ পূর্বপুরুষ নির্দেশ করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "বংশগত কাউন্সেলিং —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "বংশগত রোগ প্রতিরোধে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "মেন্ডেল মটরশুঁটির —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "৭ জোড়া বৈশিষ্ট্য নিয়ে কাজ করেন",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "অভিযোজন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বিবর্তনের ফল",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "ট্রান্সক্রিপশন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "DNA থেকে mRNA তৈরি",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "মেন্ডেলের কাজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সাথে সাথে",
+    "D": "অনেক পরে স্বীকৃত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "বিচ্ছিন্ন জনগোষ্ঠী —",
+   "options": {
+    "A": "নতুন প্রজাতি তৈরি করতে পারে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "বিবাহপূর্ব রক্ত পরীক্ষা —",
+   "options": {
+    "A": "থ্যালাসেমিয়া শনাক্তে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "মেন্ডেলের পরীক্ষা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "৮ বছর ধরে চলে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "গ্যালাপাগোসের ফিঞ্চ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "ডারউইনের পর্যবেক্ষণের বিষয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "প্লিওট্রপির উদাহরণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "সিকল সেল জিন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "F₂ তে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "প্রকট ও প্রচ্ছন্ন দুটোই দেখা যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "বিলুপ্তি কাকে বলে?",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনো প্রজাতির সম্পূর্ণ বিলুপ্তি",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "শুক্রাণু X বহন করলে —",
+   "options": {
+    "A": "ছেলে সন্তান",
+    "B": "কোনোটিই নয়",
+    "C": "মেয়ে সন্তান",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "রক্ত গ্রুপের অ্যালিল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "Iᴬ, Iᴮ, i",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "প্রাচীন ঘোড়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বড় ছিল",
+    "D": "ছোট ছিল"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "জিন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বংশগত বৈশিষ্ট্য বহন করে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "মেন্ডেলের একসংকর অনুপাত —",
+   "options": {
+    "A": "১:১",
+    "B": "৩:১",
+    "C": "৯:৩:৩:১",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "বিবর্তনের জ্ঞান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "রোগ নিয়ন্ত্রণে ব্যবহৃত",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "হাইব্রিড ফসল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বংশগতির জ্ঞানে তৈরি"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "মেন্ডেল ফলাফল প্রকাশ করেন —",
+   "options": {
+    "A": "১৯০০ সালে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "১৮৬৫ সালে"
+   },
+   "correctAnswer": "D",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "হোমো ইরেক্টাস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "সোজা দাঁড়ানো মানুষ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "বর্ণান্ধতা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "রং চিনতে না পারার বংশগত রোগ",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "একসংকর ক্রসের অনুপাত —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "৩:১ (ফেনোটাইপ)",
+    "D": "৯:৩:৩:১"
+   },
+   "correctAnswer": "C",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "আদি মানুষ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "অস্ট্রালোপিথেকাস",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "জিনোটাইপের উদাহরণ —",
+   "options": {
+    "A": "লম্বা, বেঁটে",
+    "B": "TT, Tt, tt",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "প্রচ্ছন্ন (recessive) বৈশিষ্ট্য —",
+   "options": {
+    "A": "প্রকাশ পায়",
+    "B": "কোনোটিই নয়",
+    "C": "F₁ তে লুকিয়ে থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "সমসংস্থ অঙ্গ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "একই উৎস থেকে ভিন্ন কাজের অঙ্গ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "লোকাস —",
+   "options": {
+    "A": "ক্রোমোজোমে জিনের নির্দিষ্ট অবস্থান",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "F₁ তে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "শুধু প্রকট বৈশিষ্ট্য দেখা যায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "DNA এর সাদৃশ্য —",
+   "options": {
+    "A": "বিবর্তনের প্রমাণ",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "RNA এর ক্ষার —",
+   "options": {
+    "A": "A, U, G, C",
+    "B": "কোনোটিই নয়",
+    "C": "A, T, G, C",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "দ্বিসংকর ক্রসের অনুপাত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৩:১",
+    "C": "কিছুই না",
+    "D": "৯:৩:৩:১"
+   },
+   "correctAnswer": "D",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "কালক্রমে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্রজাতিতে পরিবর্তন আসে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "মানুষের উচ্চতা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পলিজিনিক বৈশিষ্ট্য",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "মেন্ডেল গাণিতিকভাবে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "ফলাফল বিশ্লেষণ করেন"
+   },
+   "correctAnswer": "D",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "মানুষের বৈজ্ঞানিক নাম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "Homo sapiens",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "RNA এর কাজ —",
+   "options": {
+    "A": "প্রোটিন সংশ্লেষণে সাহায্য",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "মেন্ডেলের ব্যতিক্রম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অসম্পূর্ণ প্রকটতা, সহ-প্রকটতা",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "ঘোড়ার বিবর্তন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "দৌড়ের অভিযোজনে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "কোডন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "তিনটি নিউক্লিওটাইডের গুচ্ছ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "সহ-প্রকটতা —",
+   "options": {
+    "A": "দুটি অ্যালিলই প্রকাশ পায়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "জীবাশ্ম কীভাবে তৈরি হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জীব মাটিতে চাপা পড়ে সংরক্ষিত হয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "বংশগতি নিয়ে গবেষণা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জেনেটিক্স",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "মেন্ডেলের পরীক্ষায় —",
+   "options": {
+    "A": "লম্বা ও বেঁটে গাছ ব্যবহার হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "ভ্রূণতাত্ত্বিক প্রমাণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ভ্রূণের সাদৃশ্যে",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "থ্যালাসেমিয়া প্রতিরোধে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বিবাহপূর্ব পরীক্ষা",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "একসংকর ক্রসের জিনোটাইপ অনুপাত —",
+   "options": {
+    "A": "৩:১",
+    "B": "কিছুই না",
+    "C": "১:২:১",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "Origin of Species প্রকাশিত —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "১৮৫৯ সালে",
+    "C": "১৯০০ সালে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "উন্নত জাতের ফসল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বংশগতির জ্ঞানে তৈরি হয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "মেন্ডেলের প্রথম সূত্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পৃথকীকরণ সূত্র",
+    "D": "স্বাধীন বিন্যাস সূত্র"
+   },
+   "correctAnswer": "C",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "বিবর্তনের প্রক্রিয়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "মিউটেশন, নির্বাচন, জিন প্রবাহ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "মিউটেশন কাকে বলে?",
+   "options": {
+    "A": "DNA তে হঠাৎ পরিবর্তন",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "একসংকর ক্রস —",
+   "options": {
+    "A": "এক জোড়া বৈশিষ্ট্য নিয়ে",
+    "B": "কিছুই না",
+    "C": "দুই জোড়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "বিবর্তনের জনক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মেন্ডেল",
+    "C": "চার্লস ডারউইন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "বংশগতি —",
+   "options": {
+    "A": "কৃষি ও চিকিৎসায় ব্যবহৃত",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "সহ-প্রকটতার উদাহরণ —",
+   "options": {
+    "A": "AB রক্ত গ্রুপ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "ব্যায়ামে শক্ত পেশি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সন্তানে বংশগত হয় না",
+    "C": "কোনোটিই নয়",
+    "D": "হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "ক্রোমোজোম মিউটেশন —",
+   "options": {
+    "A": "জিনে",
+    "B": "ক্রোমোজোমের গঠনে পরিবর্তন",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "বংশগতির হিসাব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "গাণিতিকভাবে হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "ভৌগোলিক বিচ্ছিন্নতা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "জনগোষ্ঠীকে আলাদা করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "সমসংস্থ ক্রোমোজোমে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "একই জিনের অ্যালিল থাকে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "মেন্ডেলের দ্বিতীয় সূত্র —",
+   "options": {
+    "A": "স্বাধীন বিন্যাস সূত্র",
+    "B": "পৃথকীকরণ সূত্র",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "মেন্ডেলের জেনেটিক্স —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ডারউইনের তত্ত্বের ঘাটতি পূরণ করে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "T —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্রচ্ছন্ন",
+    "C": "প্রকট অ্যালিল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "টেস্ট ক্রস —",
+   "options": {
+    "A": "অজানা জিনোটাইপ নির্ণয়ে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "বিলুপ্তির কারণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "পরিবেশ বদল, প্রতিযোগিতা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "জেনেটিক্স —",
+   "options": {
+    "A": "বংশগতির বিজ্ঞান",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "বংশগতির পূর্বাভাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মেন্ডেলের সূত্রে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "মানুষ ও শিম্পাঞ্জির DNA সাদৃশ্য —",
+   "options": {
+    "A": "৫০%",
+    "B": "প্রায় ৯৮%",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "DNA তে G যুক্ত হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "A এর সাথে",
+    "C": "কোনোটিই নয়",
+    "D": "C এর সাথে"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "মেন্ডেলের সূত্র কয়টি?",
+   "options": {
+    "A": "২",
+    "B": "৩",
+    "C": "৪",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "মানুষের লেজের অস্থি (কক্কিক্স) —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অবশিষ্ট অঙ্গ",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "জিনোটাইপ + পরিবেশ = ?",
+   "options": {
+    "A": "ফেনোটাইপ",
+    "B": "জিনোটাইপ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "প্রকট (dominant) বৈশিষ্ট্য —",
+   "options": {
+    "A": "লুকিয়ে থাকে",
+    "B": "কিছুই না",
+    "C": "F₁ তে প্রকাশ পায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "জীবাশ্ম থেকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "প্রাচীন জীবন সম্পর্কে জানা যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "একটি জিনের দুটি অ্যালিল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "সমসংস্থ ক্রোমোজোমে থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "মেন্ডেল সাত জোড়া বৈশিষ্ট্য —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "নিয়ে কাজ করেন",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "পাখির ডানা ও পোকার ডানা —",
+   "options": {
+    "A": "সমসংস্থ",
+    "B": "সমবৃত্তি",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "থ্যালাসেমিয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "হিমোগ্লোবিনের বংশগত রোগ"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "F₂ ফেনোটাইপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "৩:১",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "ভাষা ও সংস্কৃতি —",
+   "options": {
+    "A": "মানুষের বিবর্তনের ফল",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "ইনসুলিন উৎপাদন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "জেনেটিক ইঞ্জিনিয়ারিংয়ে হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "মেন্ডেলকে বলা হয় —",
+   "options": {
+    "A": "জেনেটিক্সের জনক",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "তিমির পেছনের পায়ের অস্থি —",
+   "options": {
+    "A": "অবশিষ্ট",
+    "B": "সক্রিয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "সেক্স ক্রোমোজোম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "১ জোড়া",
+    "C": "কোনোটিই নয়",
+    "D": "২২ জোড়া"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "বংশগতির সম্ভাবনা নির্ণয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পানেট স্কোয়ারে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "বিবর্তনের একক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "জনগোষ্ঠী",
+    "D": "ব্যক্তি"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "একটি ক্রোমোজোমে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "একটি জিন",
+    "D": "অনেক জিন থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "কুঞ্চিত বীজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রচ্ছন্ন",
+    "C": "প্রকট",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "ডারউইনের বিখ্যাত বই —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "Origin of Species",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "ক্রোমোজোমের প্রকার —",
+   "options": {
+    "A": "শুধু অটোজোম",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অটোজোম ও সেক্স ক্রোমোজোম"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "পলিজিনিক বৈশিষ্ট্যে —",
+   "options": {
+    "A": "প্রযোজ্য",
+    "B": "কিছুই না",
+    "C": "মেন্ডেলের অনুপাত প্রযোজ্য নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "অনুপযুক্ত জীব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বংশবৃদ্ধি করতে পারে না",
+    "C": "পারে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "DNA এর ক্ষার —",
+   "options": {
+    "A": "A, T, G, C",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "A, U, G, C"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "স্বাধীন বিন্যাস সূত্র —",
+   "options": {
+    "A": "ভিন্ন জিন স্বাধীনভাবে বিন্যস্ত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "ডাইনোসরের বিলুপ্তি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "লক্ষ লক্ষ বছর আগে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "জিনের অবস্থান —",
+   "options": {
+    "A": "লোকাস",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "মেন্ডেল মটরশুঁটি বেছে নিলেন — কারণ?",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "সহজে চেনা যায় এমন বৈশিষ্ট্য",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "প্রাকৃতিক নির্বাচন কাকে বলে?",
+   "options": {
+    "A": "যোগ্যতমের টিকে থাকা",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "নারীর সেক্স ক্রোমোজোম —",
+   "options": {
+    "A": "XX",
+    "B": "XY",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "মেন্ডেলের পরিসংখ্যান —",
+   "options": {
+    "A": "সূত্র প্রমাণ করে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "জেনেটিক ড্রিফট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "দৈবক্রমে জিনের ফ্রিকোয়েন্সি পরিবর্তন"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "সংকর জাত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "দুই ভিন্ন জাতের মিলনে"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "মেন্ডেলের সূত্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "বংশগতির ভিত্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "সমবৃত্তি অঙ্গের উদাহরণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পাখির ডানা, প্রজাপতির ডানা"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "শুক্রাণু Y বহন করলে —",
+   "options": {
+    "A": "মেয়ে সন্তান",
+    "B": "কিছুই না",
+    "C": "ছেলে সন্তান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "বংশগতিবিদ্যার জনক —",
+   "options": {
+    "A": "গ্রেগর মেন্ডেল",
+    "B": "কিছুই না",
+    "C": "ডারউইন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "আণবিক প্রমাণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "DNA ও প্রোটিনের সাদৃশ্যে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "T ও t —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "একই জিনের অ্যালিল",
+    "C": "ভিন্ন জিন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "মটরশুঁটির হলুদ বীজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "প্রচ্ছন্ন",
+    "D": "প্রকট বৈশিষ্ট্য"
+   },
+   "correctAnswer": "D",
+   "topic": "মেন্ডেলের সূত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "ডারউইন দেখেন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "জীব অতিরিক্ত বংশবৃদ্ধি করে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "হিউম্যান জিনোম প্রজেক্ট —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "মানুষের সম্পূর্ণ DNA পাঠোদ্ধার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "প্রজাতির পরিবর্তন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বিবর্তন",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "জিন থাকে —",
+   "options": {
+    "A": "রাইবোজোমে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ক্রোমোজোমে"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "বিলুপ্ত প্রাণী —",
+   "options": {
+    "A": "গরু",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ডাইনোসর, ডোডো"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "বংশগত রোগ প্রতিরোধে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জেনেটিক কাউন্সেলিং",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "প্রজাত্যায়ন কাকে বলে?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "নতুন প্রজাতির সৃষ্টি",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "বংশগতি নির্ধারণ করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "নিশ্চিত ফল",
+    "D": "সম্ভাবনা"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "প্রজাত্যায়ন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নতুন প্রজাতির সৃষ্টি",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "tt এর ফেনোটাইপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "লম্বা",
+    "C": "কোনোটিই নয়",
+    "D": "বেঁটে"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "উপযুক্ত বৈশিষ্ট্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পরবর্তী প্রজন্মে ছড়ায়",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "বংশগত রোগ প্রতিরোধ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "জেনেটিক পরীক্ষায়"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "বিবর্তনের ব্যবহারিক প্রমাণ —",
+   "options": {
+    "A": "অ্যান্টিবায়োটিক প্রতিরোধ",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "সিকল সেল রোগ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "লোহিত কণিকার আকার বদলায়"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "বিবর্তনের ফল —",
+   "options": {
+    "A": "বৈচিত্র্য ও নতুন প্রজাতি",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "প্লিওট্রপি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "এক জিনে একাধিক বৈশিষ্ট্য"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "নব্য-ডারউইনবাদ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ডারউইন + জেনেটিক্সের সমন্বয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "উপকারী মিউটেশন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অভিযোজনে সাহায্য করে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "মানুষের বিবর্তনে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "আদিম বানর-সদৃশ পূর্বপুরুষ থেকে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "জীবের বৈশিষ্ট্য —",
+   "options": {
+    "A": "বংশগত ও পরিবেশের সম্মিলিত ফল",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "সমবৃত্তি অঙ্গ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "ভিন্ন উৎস থেকে একই কাজের অঙ্গ"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "বংশগতির ব্যতিক্রম —",
+   "options": {
+    "A": "পলিজিনিক, প্লিওট্রপিক",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "অতিরিক্ত বংশবৃদ্ধি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "টিকে থাকার প্রতিযোগিতা তৈরি করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "ফেনোটাইপ কাকে বলে?",
+   "options": {
+    "A": "বাহ্যিক প্রকাশিত বৈশিষ্ট্য",
+    "B": "জিনের গঠন",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "জিন প্রবাহ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জনগোষ্ঠীর মধ্যে জিনের চলাচল",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "t —",
+   "options": {
+    "A": "প্রকট",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "প্রচ্ছন্ন অ্যালিল"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "ধীর বিবর্তন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কিছু প্রজাতিতে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "বৈশিষ্ট্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "প্রোটিনের মাধ্যমে প্রকাশিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "বিবর্তনের আধুনিক তত্ত্ব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "নব্য-ডারউইনবাদ"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "ফেনোটাইপ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "দৃশ্যমান বৈশিষ্ট্য"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "মানুষের কানের পেশি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অবশিষ্ট",
+    "C": "সক্রিয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পুষ্টি পেলে গাছ লম্বা হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "ল্যামার্কের তত্ত্ব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "অর্জিত বৈশিষ্ট্যের উত্তরাধিকার"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "DNA এর গঠন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "একক শৃঙ্খল",
+    "C": "ডাবল হেলিক্স",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "প্রাচীন ঘোড়ার আঙুল —",
+   "options": {
+    "A": "একাধিক ছিল",
+    "B": "কিছুই না",
+    "C": "একটি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "সেমি-কনজারভেটিভ প্রতিলিপি —",
+   "options": {
+    "A": "অর্ধেক পুরনো, অর্ধেক নতুন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "বিবর্তন কাকে বলে?",
+   "options": {
+    "A": "হঠাৎ পরিবর্তন",
+    "B": "কিছুই না",
+    "C": "জীবের ধীরে ধীরে পরিবর্তন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "হোমোজাইগাস —",
+   "options": {
+    "A": "দুটি একই জিন (TT/tt)",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ভিন্ন জিন (Tt)"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "সাধারণ পূর্বপুরুষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বিবর্তনের মূল ধারণা",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "tRNA —",
+   "options": {
+    "A": "অ্যামিনো অ্যাসিড বহন করে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "পরিবেশ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "যোগ্য জীবকে বেছে নেয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "ত্বকের রং —",
+   "options": {
+    "A": "পলিজিনিক",
+    "B": "কিছুই না",
+    "C": "এক জিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "দ্বিপদী চলনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হাত মুক্ত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "TT × tt এর F₁ জিনোটাইপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "TT",
+    "C": "tt",
+    "D": "Tt"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "ফাইলোজেনি —",
+   "options": {
+    "A": "বিবর্তনের ইতিহাস",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "Tt থেকে গ্যামেট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু T",
+    "C": "শুধু t",
+    "D": "T ও t"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "বিভিন্ন মেরুদণ্ডীর ভ্রূণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্রাথমিক পর্যায়ে সাদৃশ্যপূর্ণ",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "প্রোটিন —",
+   "options": {
+    "A": "বৈশিষ্ট্য প্রকাশ করে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "ভ্রূণতত্ত্ব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বিবর্তনের প্রমাণ",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "লিঙ্গ-সংযুক্ত রোগ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "হিমোফিলিয়া, বর্ণান্ধতা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "ফাইলোজেনেটিক বৃক্ষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "প্রজাতির সম্পর্ক দেখায়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "DNA প্রতিলিপিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নতুন DNA তৈরি হয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "সমসংস্থ অঙ্গের গঠন —",
+   "options": {
+    "A": "একই, কাজ ভিন্ন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "জিনোটাইপ লেখার নিয়ম —",
+   "options": {
+    "A": "অ্যালিল জোড়া হিসেবে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "পাখির ডানা ও প্রজাপতির ডানা —",
+   "options": {
+    "A": "সমবৃত্তি অঙ্গ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সমসংস্থ"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "বংশগত রোগের বাহক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পরবর্তী প্রজন্মে ছড়াতে পারে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "অভিযোজনের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মাছের ফুলকা, উটের কুঁজ",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "প্রকট অ্যালিল —",
+   "options": {
+    "A": "বড় হাতের অক্ষরে লেখা হয়",
+    "B": "ছোট হাতের",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "প্রাকৃতিক নির্বাচনে —",
+   "options": {
+    "A": "উপযুক্ত জীব টিকে থাকে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "নিউক্লিওটাইডের অংশ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু ক্ষার",
+    "C": "কোনোটিই নয়",
+    "D": "ক্ষার, শর্করা, ফসফেট"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "বিবর্তন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দীর্ঘ সময় ধরে ঘটে",
+    "C": "দ্রুত ঘটে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "জেনেটিক কাউন্সেলিং —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বংশগত রোগের ঝুঁকি নির্ণয়ে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "বংশগতি ও বিবর্তন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সম্পর্কহীন",
+    "D": "সম্পর্কিত"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "অ্যালিল জোড়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "জিনোটাইপ নির্ধারণ করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "মস্তিষ্কের বৃদ্ধি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "মানুষের বিবর্তনে গুরুত্বপূর্ণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "জিন থেরাপি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বংশগত রোগের চিকিৎসা",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "ডারউইন ভ্রমণ করেন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "HMS বিগল জাহাজে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "জেনেটিক পরীক্ষা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বংশগত রোগ নির্ণয়ে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "মুক্ত হাত —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "হাতিয়ার তৈরিতে ব্যবহৃত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "বংশগতি অধ্যায় —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "ঐচ্ছিক",
+    "C": "অগুরুত্বপূর্ণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "বিবর্তনের কারণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মিউটেশন, নির্বাচন, জিন প্রবাহ",
+    "C": "শুধু মিউটেশন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "mRNA —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "DNA থেকে তথ্য বহন করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "সমবৃত্তি অঙ্গের গঠন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "ভিন্ন, কাজ একই",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "ফেনোটাইপ নির্ধারিত হয় —",
+   "options": {
+    "A": "জিনোটাইপ ও পরিবেশে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "ফিঞ্চ পাখির ঠোঁটের ভিন্নতা —",
+   "options": {
+    "A": "খাদ্যের সাথে অভিযোজনে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "জিনের প্রকটতা —",
+   "options": {
+    "A": "T লম্বার জন্য প্রকট",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "মানুষের বিবর্তনের ধাপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "অস্ট্রালোপিথেকাস → হোমো স্যাপিয়েন্স",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "ট্রান্সলেশন —",
+   "options": {
+    "A": "mRNA থেকে প্রোটিন তৈরি",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "সাপের নিতম্বের অস্থি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অবশিষ্ট অঙ্গ",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "বংশগতি ছাড়া বিবর্তন —",
+   "options": {
+    "A": "সম্ভব",
+    "B": "সম্ভব নয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "ব্যবহার ও অব্যবহারের সূত্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ডারউইনের",
+    "C": "কিছুই না",
+    "D": "ল্যামার্কের তত্ত্ব"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "লিঙ্গ নির্ধারণ —",
+   "options": {
+    "A": "সেক্স ক্রোমোজোমে হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "অবশিষ্ট অঙ্গের উদাহরণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "মানুষের অ্যাপেন্ডিক্স, লেজের অস্থি",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "গ্যামেটে জিন —",
+   "options": {
+    "A": "একটি করে যায়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "দুটি করে"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "ব্যাঙের পা ও মানুষের পা —",
+   "options": {
+    "A": "সমবৃত্তি",
+    "B": "সমসংস্থ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "বর্ণান্ধতা পুরুষে বেশি — কারণ?",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "পুরুষের একটিমাত্র X আছে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "সমসংস্থ অঙ্গের উদাহরণ —",
+   "options": {
+    "A": "মানুষের হাত, পাখির ডানা",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "লিঙ্গ নির্ধারণে মা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দায়ী নয়",
+    "C": "কোনোটিই নয়",
+    "D": "দায়ী"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "মানুষের অ্যাপেন্ডিক্স —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অবশিষ্ট অঙ্গ",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "DNA প্রতিলিপি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পরে",
+    "D": "কোষ বিভাজনের আগে হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "বিবর্তনের প্রমাণের ধরন —",
+   "options": {
+    "A": "জীবাশ্ম, শারীরস্থান, ভ্রূণতত্ত্ব, আণবিক",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু জীবাশ্ম"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "সংকর প্রাণী —",
+   "options": {
+    "A": "খচ্চর (গাধা × ঘোড়া)",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "মানুষের উৎপত্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "আফ্রিকায়"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "tt —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হোমোজাইগাস প্রচ্ছন্ন",
+    "C": "হেটেরোজাইগাস",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "আজকের প্রজাতি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বিবর্তনের মধ্য দিয়ে এসেছে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "বংশগতি স্থিতিশীলতা, বিবর্তন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "পরিবর্তন আনে"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "জিরাফের লম্বা গলা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "উঁচু গাছের পাতা খাওয়ার অভিযোজন"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "DNA এর গঠন আবিষ্কারক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মেন্ডেল",
+    "C": "ওয়াটসন ও ক্রিক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "বুদ্ধিমত্তা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "মানুষের বিবর্তনের ফল"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "TT থেকে গ্যামেট —",
+   "options": {
+    "A": "T ও t",
+    "B": "কিছুই না",
+    "C": "শুধু T",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "জীববৈচিত্র্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "বিবর্তনের ফল"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "প্রচ্ছন্ন অ্যালিল —",
+   "options": {
+    "A": "ছোট হাতের অক্ষরে লেখা হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বড় হাতের"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "ডারউইন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জানতেন",
+    "C": "জিন সম্পর্কে জানতেন না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "DNA তে A যুক্ত হয় —",
+   "options": {
+    "A": "G এর সাথে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "T এর সাথে"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "জীবাশ্ম পাওয়া যায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "পাললিক শিলায়"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "বংশগতির ব্যবহারিক প্রয়োগ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "ফসল উন্নয়ন, রোগ নির্ণয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "টিকে থাকার প্রতিযোগিতা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "প্রাকৃতিক নির্বাচনের ভিত্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "বংশগত রোগের উদাহরণ —",
+   "options": {
+    "A": "হিমোফিলিয়া, বর্ণান্ধতা, থ্যালাসেমিয়া",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সর্দি"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "তুলনামূলক শারীরস্থান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "বিবর্তনের প্রমাণ"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "মিউটেশনের প্রকার —",
+   "options": {
+    "A": "শুধু জিন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "জিন ও ক্রোমোজোম মিউটেশন"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "ডারউইন পর্যবেক্ষণ করেন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "গ্যালাপাগোস দ্বীপের জীব",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "ক্রোমোজোম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জিনের বাহক",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "বিবর্তনের প্রমাণ —",
+   "options": {
+    "A": "জীবাশ্ম, তুলনামূলক অঙ্গসংস্থান, ভ্রূণতত্ত্ব",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু জীবাশ্ম"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "বংশগতির জ্ঞান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "কৃষি, চিকিৎসা, শিল্পে ব্যবহৃত",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "বর্তমানে বিলুপ্তির গতি —",
+   "options": {
+    "A": "কমেছে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বেড়েছে (মানুষের কারণে)"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "ফেনোটাইপের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "লম্বা, বেঁটে",
+    "D": "TT, Tt"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "মানুষের কারণে বিলুপ্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বন উজাড়, শিকার, দূষণে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "সন্তানের লিঙ্গ —",
+   "options": {
+    "A": "মাতার উপর",
+    "B": "পিতার উপর নির্ভর করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "অণুজীবের দ্রুত বিবর্তন —",
+   "options": {
+    "A": "অ্যান্টিবায়োটিক প্রতিরোধে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "জিন থেকে প্রোটিন —",
+   "options": {
+    "A": "DNA → mRNA → প্রোটিন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "প্রোটিন → DNA"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "জীবাশ্ম —",
+   "options": {
+    "A": "বিবর্তনের প্রমাণ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "জেনেটিক কোড —",
+   "options": {
+    "A": "তিনটি ক্ষার এক অ্যামিনো অ্যাসিডের সংকেত",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "হোমো স্যাপিয়েন্স —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "আধুনিক মানুষ",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "অটোজোম —",
+   "options": {
+    "A": "২৩ জোড়া",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "২২ জোড়া"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "অর্জিত বৈশিষ্ট্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "যায়",
+    "C": "কোনোটিই নয়",
+    "D": "সন্তানে যায় না (সাধারণত)"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "বংশগত রোগ শনাক্তকরণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "জেনেটিক পরীক্ষায়"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "বিবর্তনের হার —",
+   "options": {
+    "A": "সবসময় এক",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "প্রজাতিভেদে ভিন্ন"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "বংশগতি ও পরিবেশ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "দুটোই বৈশিষ্ট্যে ভূমিকা রাখে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "ডারউইনের পর্যবেক্ষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "প্রাকৃতিক নির্বাচনের ভিত্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "বাহক —",
+   "options": {
+    "A": "Tt জিনোটাইপ",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "দ্রুত বিবর্তন —",
+   "options": {
+    "A": "অণুজীবে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "rRNA —",
+   "options": {
+    "A": "রাইবোজোমের অংশ",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "সব জীবের —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "সাধারণ পূর্বপুরুষ আছে"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "প্রচ্ছন্ন বৈশিষ্ট্য প্রকাশ পেতে —",
+   "options": {
+    "A": "দুটি প্রচ্ছন্ন জিন লাগে",
+    "B": "কোনোটিই নয়",
+    "C": "একটি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "অ্যাপেন্ডিক্স —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "অবশিষ্ট অঙ্গ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "Tt এর ফেনোটাইপ —",
+   "options": {
+    "A": "বেঁটে",
+    "B": "লম্বা",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "ঘোড়ার আঙুল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পাঁচটি",
+    "C": "একটি (খুর)",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "উন্নত গবাদি পশু —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বংশগতির জ্ঞানে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "ল্যামার্কের তত্ত্বের ত্রুটি —",
+   "options": {
+    "A": "অর্জিত বৈশিষ্ট্য বংশগত নয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "প্রোটিন সংশ্লেষণের স্থান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "রাইবোজোম",
+    "D": "নিউক্লিয়াস"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "বিবর্তন ছাড়া জীববিজ্ঞান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অসম্পূর্ণ",
+    "D": "সম্পূর্ণ"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "প্রকট জিন একটিই থাকলেও —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পায় না",
+    "D": "বৈশিষ্ট্য প্রকাশ পায়"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "মাছ, ব্যাঙ, মানুষ ভ্রূণের —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "ফুলকা-ছিদ্র সাদৃশ্য",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "Tt লম্বা — কারণ?",
+   "options": {
+    "A": "t প্রকট",
+    "B": "কিছুই না",
+    "C": "T প্রকট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "দ্বিপদী চলন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "মানুষের বিবর্তনে গুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "D",
+   "topic": "বিবর্তনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "বংশগতির একক —",
+   "options": {
+    "A": "কোষ",
+    "B": "টিস্যু",
+    "C": "কোনোটিই নয়",
+    "D": "জিন"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "GM ফসল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "জিন প্রকৌশলে তৈরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "সমসংস্থ ক্রোমোজোম —",
+   "options": {
+    "A": "একটি পিতা থেকে একটি মাতা থেকে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "মিউটেশনের কারণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "বিকিরণ, রাসায়নিক, ভুল প্রতিলিপি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "খচ্চর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "গাধা ও ঘোড়ার সংকর",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "বাহক কাকে বলে?",
+   "options": {
+    "A": "প্রচ্ছন্ন জিন বহনকারী কিন্তু প্রকাশহীন",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "অ্যালিল কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ভিন্ন জিন",
+    "D": "একই জিনের বিকল্প রূপ"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "জিন থেরাপিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "ত্রুটিপূর্ণ জিন বদলানো হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "বংশগত রোগের ঝুঁকি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বংশতালিকায় বোঝা যায়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "পলিজিনিক বংশগতি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "অনেক জিনে একটি বৈশিষ্ট্য"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "হিমোফিলিয়া —",
+   "options": {
+    "A": "রক্ত জমাট না বাঁধার বংশগত রোগ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "মিউটেশন —",
+   "options": {
+    "A": "বংশগত পরিবর্তন ঘটাতে পারে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "মানুষের ক্রোমোজোম জোড়া —",
+   "options": {
+    "A": "২৩ জোড়া",
+    "B": "কোনোটিই নয়",
+    "C": "৪৬ জোড়া",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "DNA এর পূর্ণরূপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "ডিঅক্সিরাইবোনিউক্লিক অ্যাসিড"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "DNA —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বংশগতির রাসায়নিক ভিত্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "লিঙ্গ-সংযুক্ত বংশগতি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "সেক্স ক্রোমোজোমে জিন"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "পরিবেশগত প্রভাব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ফেনোটাইপে দেখা যায়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "মানুষের ক্রোমোজোম —",
+   "options": {
+    "A": "৪৮টি",
+    "B": "২৩টি",
+    "C": "৪৬টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "বংশতালিকায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "রোগের উত্তরাধিকার বোঝা যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "পুরুষের সেক্স ক্রোমোজোম —",
+   "options": {
+    "A": "XY",
+    "B": "XX",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "হেটেরোজাইগাস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ভিন্ন জিন (Tt)",
+    "D": "একই জিন (TT)"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "বংশগত রোগ —",
+   "options": {
+    "A": "সংক্রামক",
+    "B": "বংশগতভাবে আসা রোগ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "ডাউন সিনড্রোম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "ক্রোমোজোমের ত্রুটিজনিত রোগ"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "জিন প্রকৌশল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "বংশগতির জ্ঞানের প্রয়োগ"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "ক্রোমোজোম তৈরি —",
+   "options": {
+    "A": "শুধু প্রোটিন",
+    "B": "DNA ও প্রোটিন",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "সন্তানের লিঙ্গ নির্ধারিত হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মাতার ডিম্বাণুতে",
+    "C": "পিতার শুক্রাণুতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "Tt × Tt এ বাহক সন্তান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "৫০% (Tt)"
+   },
+   "correctAnswer": "D",
+   "topic": "বংশগতির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "C",
+  "2": "B",
+  "3": "D",
+  "4": "B",
+  "5": "C",
+  "6": "C",
+  "7": "D",
+  "8": "C",
+  "9": "D",
+  "10": "B",
+  "11": "B",
+  "12": "B",
+  "13": "C",
+  "14": "A",
+  "15": "A",
+  "16": "D",
+  "17": "A",
+  "18": "D",
+  "19": "C",
+  "20": "D",
+  "21": "B",
+  "22": "C",
+  "23": "A",
+  "24": "B",
+  "25": "D",
+  "26": "D",
+  "27": "B",
+  "28": "B",
+  "29": "B",
+  "30": "C",
+  "31": "B",
+  "32": "C",
+  "33": "A",
+  "34": "C",
+  "35": "D",
+  "36": "A",
+  "37": "B",
+  "38": "C",
+  "39": "D",
+  "40": "A",
+  "41": "D",
+  "42": "B",
+  "43": "B",
+  "44": "C",
+  "45": "B",
+  "46": "D",
+  "47": "B",
+  "48": "C",
+  "49": "B",
+  "50": "A",
+  "51": "C",
+  "52": "A",
+  "53": "D",
+  "54": "D",
+  "55": "B",
+  "56": "C",
+  "57": "C",
+  "58": "B",
+  "59": "B",
+  "60": "D",
+  "61": "C",
+  "62": "B",
+  "63": "A",
+  "64": "A",
+  "65": "D",
+  "66": "A",
+  "67": "A",
+  "68": "B",
+  "69": "C",
+  "70": "D",
+  "71": "D",
+  "72": "C",
+  "73": "B",
+  "74": "A",
+  "75": "D",
+  "76": "C",
+  "77": "A",
+  "78": "D",
+  "79": "B",
+  "80": "B",
+  "81": "A",
+  "82": "C",
+  "83": "D",
+  "84": "C",
+  "85": "A",
+  "86": "D",
+  "87": "D",
+  "88": "B",
+  "89": "C",
+  "90": "C",
+  "91": "D",
+  "92": "B",
+  "93": "C",
+  "94": "C",
+  "95": "C",
+  "96": "B",
+  "97": "B",
+  "98": "D",
+  "99": "A",
+  "100": "A",
+  "101": "B",
+  "102": "D",
+  "103": "C",
+  "104": "C",
+  "105": "B",
+  "106": "C",
+  "107": "C",
+  "108": "D",
+  "109": "B",
+  "110": "B",
+  "111": "C",
+  "112": "D",
+  "113": "D",
+  "114": "B",
+  "115": "C",
+  "116": "C",
+  "117": "B",
+  "118": "B",
+  "119": "C",
+  "120": "B",
+  "121": "A",
+  "122": "B",
+  "123": "A",
+  "124": "A",
+  "125": "D",
+  "126": "B",
+  "127": "B",
+  "128": "D",
+  "129": "C",
+  "130": "A",
+  "131": "B",
+  "132": "D",
+  "133": "B",
+  "134": "A",
+  "135": "B",
+  "136": "B",
+  "137": "A",
+  "138": "B",
+  "139": "B",
+  "140": "C",
+  "141": "B",
+  "142": "B",
+  "143": "C",
+  "144": "C",
+  "145": "A",
+  "146": "A",
+  "147": "C",
+  "148": "A",
+  "149": "A",
+  "150": "B",
+  "151": "B",
+  "152": "D",
+  "153": "C",
+  "154": "B",
+  "155": "A",
+  "156": "B",
+  "157": "C",
+  "158": "A",
+  "159": "C",
+  "160": "A",
+  "161": "B",
+  "162": "B",
+  "163": "D",
+  "164": "B",
+  "165": "C",
+  "166": "A",
+  "167": "C",
+  "168": "C",
+  "169": "C",
+  "170": "B",
+  "171": "B",
+  "172": "D",
+  "173": "C",
+  "174": "A",
+  "175": "C",
+  "176": "A",
+  "177": "A",
+  "178": "B",
+  "179": "B",
+  "180": "C",
+  "181": "D",
+  "182": "B",
+  "183": "C",
+  "184": "D",
+  "185": "C",
+  "186": "B",
+  "187": "A",
+  "188": "A",
+  "189": "B",
+  "190": "A",
+  "191": "C",
+  "192": "A",
+  "193": "A",
+  "194": "A",
+  "195": "D",
+  "196": "D",
+  "197": "D",
+  "198": "D",
+  "199": "C",
+  "200": "A",
+  "201": "B",
+  "202": "B",
+  "203": "D",
+  "204": "D",
+  "205": "C",
+  "206": "B",
+  "207": "D",
+  "208": "D",
+  "209": "B",
+  "210": "C",
+  "211": "D",
+  "212": "B",
+  "213": "D",
+  "214": "B",
+  "215": "D",
+  "216": "A",
+  "217": "D",
+  "218": "A",
+  "219": "D",
+  "220": "C",
+  "221": "B",
+  "222": "B",
+  "223": "A",
+  "224": "D",
+  "225": "A",
+  "226": "C",
+  "227": "A",
+  "228": "B",
+  "229": "D",
+  "230": "B",
+  "231": "D",
+  "232": "D",
+  "233": "D",
+  "234": "B",
+  "235": "C",
+  "236": "D",
+  "237": "C",
+  "238": "A",
+  "239": "A",
+  "240": "C",
+  "241": "A",
+  "242": "B",
+  "243": "A",
+  "244": "B",
+  "245": "A",
+  "246": "B",
+  "247": "D",
+  "248": "A",
+  "249": "D",
+  "250": "B",
+  "251": "A",
+  "252": "C",
+  "253": "C",
+  "254": "C",
+  "255": "B",
+  "256": "A",
+  "257": "A",
+  "258": "A",
+  "259": "B",
+  "260": "B",
+  "261": "A",
+  "262": "A",
+  "263": "D",
+  "264": "B",
+  "265": "B",
+  "266": "D",
+  "267": "C",
+  "268": "C",
+  "269": "B",
+  "270": "D",
+  "271": "B",
+  "272": "D",
+  "273": "A",
+  "274": "B",
+  "275": "C",
+  "276": "C",
+  "277": "A",
+  "278": "A",
+  "279": "A",
+  "280": "C",
+  "281": "A",
+  "282": "B",
+  "283": "B",
+  "284": "D",
+  "285": "A",
+  "286": "C",
+  "287": "A",
+  "288": "B",
+  "289": "C",
+  "290": "A",
+  "291": "B",
+  "292": "C",
+  "293": "D",
+  "294": "A",
+  "295": "A",
+  "296": "D",
+  "297": "B",
+  "298": "D",
+  "299": "D",
+  "300": "D",
+  "301": "C",
+  "302": "D",
+  "303": "C",
+  "304": "D",
+  "305": "A",
+  "306": "C",
+  "307": "D",
+  "308": "D",
+  "309": "C",
+  "310": "D",
+  "311": "A",
+  "312": "D",
+  "313": "D",
+  "314": "C",
+  "315": "B",
+  "316": "A",
+  "317": "C",
+  "318": "D",
+  "319": "C",
+  "320": "B",
+  "321": "B",
+  "322": "A",
+  "323": "A",
+  "324": "A",
+  "325": "A",
+  "326": "B",
+  "327": "D",
+  "328": "D",
+  "329": "D",
+  "330": "D",
+  "331": "C",
+  "332": "D",
+  "333": "A",
+  "334": "A",
+  "335": "A",
+  "336": "D",
+  "337": "A",
+  "338": "C",
+  "339": "B",
+  "340": "C",
+  "341": "C",
+  "342": "A",
+  "343": "C",
+  "344": "C",
+  "345": "D",
+  "346": "C",
+  "347": "C",
+  "348": "D",
+  "349": "D",
+  "350": "C",
+  "351": "A",
+  "352": "C",
+  "353": "C",
+  "354": "A",
+  "355": "D",
+  "356": "D",
+  "357": "B",
+  "358": "D",
+  "359": "A",
+  "360": "A",
+  "361": "A",
+  "362": "D",
+  "363": "D",
+  "364": "D",
+  "365": "C",
+  "366": "C",
+  "367": "D",
+  "368": "A",
+  "369": "C",
+  "370": "B",
+  "371": "D",
+  "372": "D",
+  "373": "B",
+  "374": "C",
+  "375": "D"
+ }
+}
