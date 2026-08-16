@@ -1,0 +1,7134 @@
+{
+ "subject": "জীববিজ্ঞান",
+ "chapterNo": 10,
+ "chapter": "সমন্বয়",
+ "questions": [
+  {
+   "question": "স্নায়ু ও হরমোনের সমন্বয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "জীবনের জন্য জরুরি",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "ব্যায়াম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "মানসিক স্বাস্থ্য ভালো রাখে"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "সেরিবেলামের কাজ —",
+   "options": {
+    "A": "দেহের ভারসাম্য ও পেশি সমন্বয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "স্মৃতি"
+   },
+   "correctAnswer": "A",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "প্রতিবর্ত ক্রিয়ার উদাহরণ —",
+   "options": {
+    "A": "গরমে হাত সরানো",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "অ্যালডোস্টেরন —",
+   "options": {
+    "A": "লবণ-পানির ভারসাম্যে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "উদ্ভিদ হরমোনের ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কৃষি ও উদ্যানপালনে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "পিউপিলের সংকোচন-প্রসারণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "প্রতিবর্ত ক্রিয়া",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "স্নায়ু ও হরমোন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বিরোধী",
+    "D": "পরস্পর সম্পূরক"
+   },
+   "correctAnswer": "D",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "নিউরোট্রান্সমিটারের উদাহরণ —",
+   "options": {
+    "A": "অ্যাসিটাইলকোলিন",
+    "B": "কোনোটিই নয়",
+    "C": "ইনসুলিন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "সেরিবেলাম —",
+   "options": {
+    "A": "দেহের ভারসাম্য নিয়ন্ত্রণ করে",
+    "B": "কোনোটিই নয়",
+    "C": "চিন্তা করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "হাঁটুতে টোকা দিলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পা লাফিয়ে ওঠে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "ভয় বা উত্তেজনায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অ্যাড্রেনালিন বাড়ে",
+    "D": "কমে"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "উদ্ভিদের হরমোন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইনসুলিন",
+    "C": "অক্সিন, জিব্বেরেলিন, সাইটোকাইনিন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "মায়োপিয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দূরদৃষ্টি",
+    "C": "কিছুই না",
+    "D": "ক্ষীণদৃষ্টি"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "প্রাণীর প্রতিক্রিয়া দ্রুত — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "স্নায়ুতন্ত্র আছে",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "নিউরন কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পেশি কোষ",
+    "C": "কিছুই না",
+    "D": "স্নায়ুকোষ"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "মস্তিষ্ক —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "দেহের সবচেয়ে গুরুত্বপূর্ণ অঙ্গ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "খাবার দেখে লালা ক্ষরণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শর্তহীন প্রতিবর্ত",
+    "D": "শর্তযুক্ত"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "টাইপ ১ ডায়াবেটিসের চিকিৎসা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "ইনসুলিন ইনজেকশন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "উদ্ভিদ হরমোনের কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "বৃদ্ধি, ফুল, ফল, পাতা ঝরা নিয়ন্ত্রণ"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "চোখের আলো নিয়ন্ত্রণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "আইরিস ও পিউপিলে"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "হরমোনের বার্তা পৌঁছায় —",
+   "options": {
+    "A": "ধীরে",
+    "B": "ক্ষণে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "শেখা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্নায়ুর সংযোগে হয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "থ্যালামাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সংবেদন রিলে স্টেশন",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "গরম জিনিসে হাত —",
+   "options": {
+    "A": "প্রতিবর্তে সরে যায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "আয়োডিনযুক্ত লবণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "গলগণ্ড রোধ করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "ক্যালসিয়াম কার্বাইড —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "আর্সেনিক ও ফসফরাস থাকে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "ঘ্রাণ গ্রাহক থাকে —",
+   "options": {
+    "A": "নাকে",
+    "B": "কিছুই না",
+    "C": "জিহ্বায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "উদ্ভিদে সমন্বয় —",
+   "options": {
+    "A": "স্নায়ুতে",
+    "B": "হরমোনে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "ক্রিয়া বিভব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "স্নায়ু আবেগের ভিত্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "ব্রোকা অঞ্চল —",
+   "options": {
+    "A": "ডান গোলার্ধে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বাম গোলার্ধে"
+   },
+   "correctAnswer": "D",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "শর্তযুক্ত প্রতিবর্ত —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সহজাত",
+    "C": "শেখা প্রতিক্রিয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "ইস্ট্রোজেন নিঃসৃত হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ডিম্বাশয় থেকে",
+    "C": "শুক্রাশয় থেকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "উদ্ভিদের প্রতিক্রিয়া ধীর — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "স্নায়ুতন্ত্র নেই",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "চোখের যত্ন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পরিষ্কার রাখা, অতিরিক্ত আলো এড়ানো",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "হরমোন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দ্রুত",
+    "C": "কোনোটিই নয়",
+    "D": "ধীরে কাজ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "সংজ্ঞাবহ স্নায়ু —",
+   "options": {
+    "A": "গ্রাহক থেকে মস্তিষ্কে সংকেত আনে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "মধ্য মস্তিষ্ক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "দৃষ্টি ও শ্রবণ সমন্বয়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "বিপদ থেকে দ্রুত রক্ষা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "প্রতিবর্ত ক্রিয়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "হরমোনের ঘাটতি/আধিক্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "রোগের কারণ",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "হরমোন দিয়ে —",
+   "options": {
+    "A": "ফসলের ফলন বাড়ানো হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "পিউপিল আলোতে —",
+   "options": {
+    "A": "প্রসারিত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সংকুচিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "স্নায়ুতন্ত্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ধীরে",
+    "C": "দ্রুত সাড়া দেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "মাদকাসক্তি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "স্বাস্থ্য ও সমাজের ক্ষতি"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "সেরিব্রামের দুই গোলার্ধ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "ডান ও বাম"
+   },
+   "correctAnswer": "D",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "পাভলভের কুকুর পরীক্ষা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শর্তযুক্ত প্রতিবর্ত প্রমাণ করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "থাইরক্সিন বেড়ে গেলে —",
+   "options": {
+    "A": "ওজন কমে ও ঘাম বাড়ে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "ফল পাকানোর রাসায়নিক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "ইথিলিন/ক্যালসিয়াম কার্বাইড"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "পিউপিল অন্ধকারে —",
+   "options": {
+    "A": "প্রসারিত হয়",
+    "B": "কিছুই না",
+    "C": "সংকুচিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "সমন্বয়ের গুরুত্ব —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "দেহের সুষ্ঠু কার্যক্রমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "মনোযোগ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শেখার জন্য জরুরি",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "সেরিবেলাম ছাড়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "সোজা দাঁড়ানো কঠিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "হাঁচি-কাশি —",
+   "options": {
+    "A": "প্রতিবর্ত ক্রিয়া",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "গ্রোথ হরমোন —",
+   "options": {
+    "A": "থাইরয়েড থেকে",
+    "B": "কিছুই না",
+    "C": "পিটুইটারি থেকে নিঃসৃত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "অ্যাবসিসিক অ্যাসিড —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পাতা ঝরা নিয়ন্ত্রণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "চশমা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "দৃষ্টি সমস্যা সংশোধন করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "হরমোনের সাড়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দীর্ঘস্থায়ী",
+    "C": "কিছুই না",
+    "D": "ক্ষণস্থায়ী"
+   },
+   "correctAnswer": "B",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "হেলমেট —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "মাথা রক্ষা করে"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "চলন নিয়ন্ত্রণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ফ্রন্টাল লোবে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "প্রতিবর্ত ক্রিয়ার কেন্দ্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সুষুম্না কাণ্ড",
+    "C": "সেরিব্রাম",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "অন্তঃক্ষরা গ্রন্থির উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লালাগ্রন্থি",
+    "C": "ঘামগ্রন্থি",
+    "D": "পিটুইটারি, থাইরয়েড, অগ্ন্যাশয়"
+   },
+   "correctAnswer": "D",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "ফল পাকাতে —",
+   "options": {
+    "A": "ইথিলিন ব্যবহৃত হয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "আইরিসের পেশি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "পিউপিলের আকার বদলায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "সমন্বয়ের দুই স্তম্ভ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্নায়ুতন্ত্র ও হরমোন",
+    "C": "কিছুই না",
+    "D": "শুধু স্নায়ু"
+   },
+   "correctAnswer": "B",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "স্বয়ংক্রিয় স্নায়ুতন্ত্র নিয়ন্ত্রণ করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অনৈচ্ছিক কাজ",
+    "D": "ঐচ্ছিক"
+   },
+   "correctAnswer": "C",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "মস্তিষ্কে নিউরন —",
+   "options": {
+    "A": "কয়েকশ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শত শত কোটি"
+   },
+   "correctAnswer": "D",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "চোখে কিছু এলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "চোখের পলক পড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "থাইরয়েড হরমোন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "থাইরক্সিন",
+    "D": "ইনসুলিন"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "উদ্ভিদের সমন্বয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "হরমোনে হয়",
+    "D": "স্নায়ুতে"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "ককলিয়ায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "শব্দ স্নায়ু আবেগে রূপান্তরিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "সমন্বয় ছাড়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দেহের কাজ বিশৃঙ্খল হয়",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "ডেনড্রাইট —",
+   "options": {
+    "A": "আবেগ গ্রহণ করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "আবেগ পাঠায়"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "মস্তিষ্ক দেহের —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সব কাজ নিয়ন্ত্রণ করে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "প্রতিবর্ত ক্রিয়া —",
+   "options": {
+    "A": "স্বয়ংক্রিয় দ্রুত সাড়া",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "গ্রোথ হরমোনের অভাব —",
+   "options": {
+    "A": "দৈত্যাকার",
+    "B": "বামনত্ব",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "উদ্ভিদের দৃঢ়তা ও চলন —",
+   "options": {
+    "A": "হরমোনে সমন্বিত",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "ঘ্রাণ ও স্বাদ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সম্পর্কহীন",
+    "C": "কোনোটিই নয়",
+    "D": "সম্পর্কিত"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "সমন্বয় ছাড়া দেহ —",
+   "options": {
+    "A": "স্বাভাবিক",
+    "B": "কিছুই না",
+    "C": "অচল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "সুষম খাদ্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্নায়ুতন্ত্রের জন্য জরুরি",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "হাইপোথ্যালামাস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "দেহের তাপমাত্রা ও ক্ষুধা নিয়ন্ত্রণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "শর্তহীন প্রতিবর্ত —",
+   "options": {
+    "A": "সহজাত প্রতিক্রিয়া",
+    "B": "শেখা",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "ক্রেটিনিজম —",
+   "options": {
+    "A": "শিশুর শারীরিক ও মানসিক প্রতিবন্ধকতা",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "কৃত্রিম অক্সিন —",
+   "options": {
+    "A": "আগাছানাশক হিসেবে ব্যবহৃত",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "ইন্দ্রিয়ের কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উদ্দীপনা গ্রহণ",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "সমন্বয়ের মাধ্যম —",
+   "options": {
+    "A": "শুধু হরমোন",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু স্নায়ু",
+    "D": "স্নায়ুতন্ত্র ও হরমোন"
+   },
+   "correctAnswer": "D",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "উদ্দীপনায় নিউরনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "ক্রিয়া বিভব তৈরি হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "মস্তিষ্কের অবস্থান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "করোটির ভেতরে",
+    "C": "মেরুদণ্ডে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "প্রতিবর্ত ক্রিয়ায় মস্তিষ্ক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জড়িত",
+    "C": "সরাসরি জড়িত নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "টাইপ ২ ডায়াবেটিস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "ইনসুলিন কাজ করে না"
+   },
+   "correctAnswer": "D",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "উদ্ভিদের চলন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "হরমোনে নিয়ন্ত্রিত",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "ইন্দ্রিয়ের ক্ষতি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "সংবেদন হারায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "স্নায়ুতন্ত্রের সাড়া —",
+   "options": {
+    "A": "দীর্ঘস্থায়ী",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ক্ষণস্থায়ী"
+   },
+   "correctAnswer": "D",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "স্নায়ু আবেগে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "Na⁺ প্রবেশ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "কর্টেক্স —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ধূসর পদার্থ",
+    "C": "কিছুই না",
+    "D": "সাদা পদার্থ"
+   },
+   "correctAnswer": "B",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "প্রতিবর্ত ক্রিয়া নিয়ন্ত্রণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সুষুম্না কাণ্ডে",
+    "C": "সেরিব্রামে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "ইনসুলিন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বাড়ায়",
+    "C": "রক্তের গ্লুকোজ কমায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "উদ্ভিদে স্নায়ুতন্ত্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "আছে",
+    "C": "কোনোটিই নয়",
+    "D": "নেই"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "সংবেদন —",
+   "options": {
+    "A": "মস্তিষ্কে অনুভূত হয়",
+    "B": "কিছুই না",
+    "C": "ইন্দ্রিয়েই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "হরমোনের বার্তা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বৈদ্যুতিক",
+    "C": "কোনোটিই নয়",
+    "D": "রাসায়নিক"
+   },
+   "correctAnswer": "D",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "স্নায়ুতন্ত্রের সুস্থতা —",
+   "options": {
+    "A": "স্বাস্থ্যকর জীবনযাপনে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "মস্তিষ্কে রক্ত সরবরাহ —",
+   "options": {
+    "A": "ক্যারোটিড ও ভার্টিব্রাল ধমনিতে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "পাভলভ ঘণ্টা বাজিয়ে খাবার দিলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "পরে শুধু ঘণ্টায় লালা ক্ষরণ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "গ্লুকাগন গ্লাইকোজেনকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "গ্লুকোজে রূপান্তরিত করে"
+   },
+   "correctAnswer": "D",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "উদ্ভিদ হরমোন —",
+   "options": {
+    "A": "বৃদ্ধি নিয়ন্ত্রক",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "ইন্দ্রিয় ও মস্তিষ্ক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "একত্রে সংবেদন তৈরি করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "স্নায়ু দ্রুত, হরমোন ধীর —",
+   "options": {
+    "A": "কিন্তু দীর্ঘস্থায়ী",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "মৃগী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "স্নায়ুর অস্বাভাবিক ক্রিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "মেনিনজেস —",
+   "options": {
+    "A": "মস্তিষ্ককে রক্ষা করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "পাভলভ কুকুরকে খাবার দিলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "লালা ক্ষরণ হতো",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "ইনসুলিনের অভাব —",
+   "options": {
+    "A": "ডায়াবেটিস",
+    "B": "গলগণ্ড",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "প্রাকৃতিক ফল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "নিরাপদ ও পুষ্টিকর",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "দৃষ্টি সমস্যা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "মায়োপিয়া, হাইপারমেট্রোপিয়া",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "দেহের সমন্বয় করে —",
+   "options": {
+    "A": "স্নায়ুতন্ত্র ও অন্তঃক্ষরা গ্রন্থি",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "মস্তিষ্কের পুষ্টি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "সুষম খাদ্যে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "চিন্তা, আবেগ, স্মৃতি —",
+   "options": {
+    "A": "সেরিব্রামে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সেরিবেলামে"
+   },
+   "correctAnswer": "A",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "প্রতিবর্ত চাপ —",
+   "options": {
+    "A": "আবেগের পথ",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "ডায়াবেটিসের লক্ষণ —",
+   "options": {
+    "A": "মূত্রে গ্লুকোজ, তৃষ্ণা",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "অক্সিনের উৎস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কাণ্ড ও মূলের অগ্রভাগ",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "পাহাড়ে ওঠায় কান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "চাপে ভারসাম্যহীন হয়",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "সমন্বয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "দেহের সুষ্ঠু কাজের ভিত্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "অনৈচ্ছিক কাজ —",
+   "options": {
+    "A": "হৃৎস্পন্দন, হজম",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "হাঁটা"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "মেনিনজাইটিস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "মেনিনজেসের প্রদাহ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "চোখের পলক —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "প্রতিবর্ত ক্রিয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "হাইপারথাইরয়েডিজম —",
+   "options": {
+    "A": "থাইরক্সিনের আধিক্য",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "অভাব"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "সাইটোকাইনিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "কোষ বিভাজন উদ্দীপিত করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "সর্দিতে ঘ্রাণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বাড়ে",
+    "D": "কমে যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "স্নায়ু বার্তা পৌঁছায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষণে",
+    "C": "কিছুই না",
+    "D": "ধীরে"
+   },
+   "correctAnswer": "B",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "ঘুম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "মস্তিষ্কের বিশ্রাম",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "মস্তিষ্কের সুস্থতা —",
+   "options": {
+    "A": "জীবনের মান নির্ধারণ করে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "প্রতিবর্ত চাপের পথ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "গ্রাহক → সংজ্ঞাবহ → কেন্দ্র → চেষ্টীয় → কারক"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "ইনসুলিন গ্লুকোজকে —",
+   "options": {
+    "A": "গ্লাইকোজেনে রূপান্তরিত করে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "শীর্ষ প্রাধান্য —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "অগ্রমুকুল পার্শ্বমুকুলের বৃদ্ধি দমন করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "আইরিস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "চোখের রঙিন অংশ",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "হরমোনের কাজ —",
+   "options": {
+    "A": "ধীর কিন্তু দীর্ঘস্থায়ী সমন্বয়",
+    "B": "দ্রুত",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "মস্তিষ্কের স্বাস্থ্য —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "মানসিক ও শারীরিক ব্যায়ামে"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "মস্তিষ্ক আবৃত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "মেনিনজেস ঝিল্লিতে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "পাভলভের পরীক্ষা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শর্তযুক্ত প্রতিবর্ত নিয়ে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "গলগণ্ডের কারণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আয়োডিনের অভাব",
+    "C": "আয়োডিনের আধিক্য",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "ক্যালসিয়াম কার্বাইডে ফল পাকানো —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উপকারী",
+    "C": "কিছুই না",
+    "D": "ক্ষতিকর"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "লেন্স —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আলো ফোকাস করে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "উদ্ভিদ ও প্রাণীর সমন্বয়ের পার্থক্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "পদ্ধতিতে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "পারকিনসনে —",
+   "options": {
+    "A": "কম্পন ও চলনে সমস্যা",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "মস্তিষ্কের প্রধান অংশ —",
+   "options": {
+    "A": "অগ্র, মধ্য, পশ্চাৎ মস্তিষ্ক",
+    "B": "কিছুই না",
+    "C": "শুধু অগ্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "হাঁটুর ঝাঁকুনি পরীক্ষা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "প্রতিবর্ত ক্রিয়া পরীক্ষা",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "জনন হরমোন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "টেস্টোস্টেরন, ইস্ট্রোজেন",
+    "D": "ইনসুলিন"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "অক্সিনের প্রভাবে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "আলোর দিকে বাঁকা হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "ইন্দ্রিয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "উদ্দীপনা গ্রহণ করে মস্তিষ্কে পাঠায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "সমন্বয় অধ্যায় —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "ঐচ্ছিক",
+    "C": "কোনোটিই নয়",
+    "D": "অগুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "A",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "মাদক পরিহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দরকার নেই",
+    "C": "জরুরি",
+    "D": "জরুরি নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "বাম গোলার্ধ নিয়ন্ত্রণ করে —",
+   "options": {
+    "A": "বাম দিক",
+    "B": "দেহের ডান দিক",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "হাঁটুর ঝাঁকুনি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "প্রতিবর্ত ক্রিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "গলগণ্ড —",
+   "options": {
+    "A": "থাইরয়েড ফুলে যাওয়া",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "প্রাকৃতিকভাবে ফল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "পাকা উচিত",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "কনজাংটিভাইটিস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "চোখের প্রদাহ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "প্রাণীর প্রতিক্রিয়া —",
+   "options": {
+    "A": "দ্রুত",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ধীর"
+   },
+   "correctAnswer": "A",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "ভিটামিন B —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্নায়ুতন্ত্রের জন্য গুরুত্বপূর্ণ",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "সংবেদনের রিলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "থ্যালামাসে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "কারক —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "প্রতিক্রিয়া দেখায় (পেশি/গ্রন্থি)",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "পিটুইটারি গ্রন্থি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "মাস্টার গ্রন্থি"
+   },
+   "correctAnswer": "D",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "উদ্ভিদের প্রতিক্রিয়া —",
+   "options": {
+    "A": "দ্রুত",
+    "B": "কোনোটিই নয়",
+    "C": "ধীর",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "রড কোষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রঙে দেখায়",
+    "C": "ম্লান আলোতে দেখায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "স্নায়ুতন্ত্রের বার্তা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বৈদ্যুতিক সংকেত",
+    "D": "রাসায়নিক শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "স্ট্রোকের কারণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "মস্তিষ্কের রক্তনালি বন্ধ/ছিঁড়ে যাওয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "সেরিব্রামের বাইরের স্তর —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কর্টেক্স"
+   },
+   "correctAnswer": "D",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "প্রতিবর্ত চাপের অংশ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু এক",
+    "D": "গ্রাহক, সংজ্ঞাবহ, সুষুম্না, চেষ্টীয়, কারক"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "হরমোন ও স্নায়ুতন্ত্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "একত্রে সমন্বয় করে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "ফল পাকানোর প্রাকৃতিক হরমোন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ইথিলিন",
+    "C": "অক্সিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "রেটিনায় প্রতিবিম্ব —",
+   "options": {
+    "A": "সোজা",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "উল্টো গঠিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "সমন্বয় কাকে বলে?",
+   "options": {
+    "A": "দেহের বিভিন্ন কাজের মধ্যে সামঞ্জস্য",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "নিউরন —",
+   "options": {
+    "A": "হয়",
+    "B": "পুনরুৎপাদন হয় না (সাধারণত)",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "হাইপোথ্যালামাস নিয়ন্ত্রণ করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "চিন্তা",
+    "D": "তাপমাত্রা, ক্ষুধা, তৃষ্ণা"
+   },
+   "correctAnswer": "D",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "ঘণ্টার শব্দে লালা ক্ষরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শর্তযুক্ত প্রতিবর্ত",
+    "C": "শর্তহীন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "TSH —",
+   "options": {
+    "A": "থাইরয়েডকে উদ্দীপিত করে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "অগ্রমুকুল কাটলে —",
+   "options": {
+    "A": "পার্শ্বশাখা বাড়ে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "হাইপারমেট্রোপিয়ায় —",
+   "options": {
+    "A": "দূরের ঝাপসা",
+    "B": "কোনোটিই নয়",
+    "C": "কাছের জিনিস ঝাপসা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "স্নায়ুতন্ত্রের কাজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দ্রুত সমন্বয়",
+    "C": "কোনোটিই নয়",
+    "D": "ধীর সমন্বয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "বিশ্রামরত নিউরনের ভেতরে —",
+   "options": {
+    "A": "ঋণাত্মক চার্জ",
+    "B": "ধনাত্মক",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "মস্তিষ্কের প্রতিটি অংশের —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "নির্দিষ্ট কাজ আছে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "লালা ক্ষরণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "শর্তযুক্ত প্রতিবর্ত"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "হরমোনের নিয়ন্ত্রণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "নেতিবাচক প্রতিক্রিয়া (negative feedback) পদ্ধতিতে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "জিব্বেরেলিন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কাণ্ডের দৈর্ঘ্য বাড়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "শ্রবণ স্নায়ু —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "ককলিয়া থেকে মস্তিষ্কে সংকেত পাঠায়"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "প্রাণীতে সমন্বয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্নায়ু ও হরমোনে",
+    "C": "কিছুই না",
+    "D": "শুধু হরমোনে"
+   },
+   "correctAnswer": "B",
+   "topic": "সমন্বয়ের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "মাদক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "মস্তিষ্কের ক্ষতি করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "সেরিব্রাম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মস্তিষ্কের বৃহত্তম অংশ",
+    "C": "কোনোটিই নয়",
+    "D": "ক্ষুদ্রতম"
+   },
+   "correctAnswer": "B",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "প্রতিবর্ত ক্রিয়ার সুবিধা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "সময় বাঁচায়"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "থাইরক্সিনের কাজ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "বিপাক হার নিয়ন্ত্রণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "অক্সিন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোষের দৈর্ঘ্য বৃদ্ধি করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "ককলিয়া —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "অন্তঃকর্ণে শব্দ গ্রহণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "নিউরোট্রান্সমিটার —",
+   "options": {
+    "A": "সংকেত বহনকারী রাসায়নিক",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "অগ্র মস্তিষ্কের অংশ —",
+   "options": {
+    "A": "সেরিব্রাম, থ্যালামাস, হাইপোথ্যালামাস",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "গ্রাহক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "উদ্দীপনা গ্রহণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রতিবর্ত ক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "প্রোজেস্টেরন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "গর্ভধারণে সাহায্য করে"
+   },
+   "correctAnswer": "D",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "কৃত্রিমভাবে ফল পাকানো —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বেআইনি/ক্ষতিকর",
+    "D": "উপকারী"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "হাইপারমেট্রোপিয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দূরদৃষ্টি",
+    "C": "ক্ষীণদৃষ্টি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "স্বয়ংক্রিয় স্নায়ুতন্ত্রের ভাগ —",
+   "options": {
+    "A": "সিমপ্যাথেটিক ও প্যারাসিমপ্যাথেটিক",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "পশ্চাৎ মস্তিষ্ক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "সেরিবেলাম, পনস, মেডুলা নিয়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "অ্যাড্রেনালিনের প্রভাব —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "হৃৎস্পন্দন ও শ্বাস বাড়ায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "ফল পাকাতে ইথিলিন —",
+   "options": {
+    "A": "নিরাপদ",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষতিকর",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "ত্বকের কাজ —",
+   "options": {
+    "A": "স্পর্শ, তাপ, ব্যথা",
+    "B": "দর্শন",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "মায়েলিন —",
+   "options": {
+    "A": "অন্তরক হিসেবে কাজ করে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "সুষুম্না কাণ্ড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মেরুদণ্ডের ভেতরে",
+    "C": "কিছুই না",
+    "D": "করোটিতে"
+   },
+   "correctAnswer": "B",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "থাইরক্সিন বাড়লে TSH —",
+   "options": {
+    "A": "কমে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "ইথিলিন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ফল পাকায়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "কর্নিয়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "চোখের স্বচ্ছ সামনের অংশ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "স্মৃতিশক্তি বাড়াতে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "নিয়মিত চর্চা ও ঘুম"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "দৃষ্টি কেন্দ্র —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "পশ্চাৎ মস্তিষ্কের অক্সিপিটাল লোবে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "ডায়াবেটিস রোগী —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "চিনি কম খাবেন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "কাটিংয়ে শিকড় গঠনে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "অক্সিন ব্যবহৃত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের সমন্বয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "ত্বকের গ্রাহক —",
+   "options": {
+    "A": "স্পর্শ, চাপ, তাপ, ব্যথা",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু স্পর্শ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "আয়ন চলাচল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "স্নায়ু আবেগের ভিত্তি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "সেরিব্রামের কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শ্বাস নিয়ন্ত্রণ",
+    "C": "কিছুই না",
+    "D": "চিন্তা, স্মৃতি, ইচ্ছা"
+   },
+   "correctAnswer": "D",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "হরমোন পরিবাহিত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রক্তে",
+    "C": "লসিকায় শুধু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "চোখের সুরক্ষা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সানগ্লাস, পরিষ্কার",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "মায়েলিন আবরণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অ্যাক্সনকে আবৃত করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "শ্বসন ও হৃৎস্পন্দন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সেরিব্রামে",
+    "D": "মেডুলায়"
+   },
+   "correctAnswer": "D",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "হরমোনের আধিক্য/অভাব —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "রোগ ঘটায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "স্বাদ কোরক থাকে —",
+   "options": {
+    "A": "জিহ্বায়",
+    "B": "কিছুই না",
+    "C": "নাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "দীর্ঘমেয়াদি চাপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "স্বাস্থ্যের ক্ষতি করে",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "মেডুলা ক্ষতিগ্রস্ত হলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "মৃত্যু ঘটে"
+   },
+   "correctAnswer": "D",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "বয়ঃসন্ধিতে —",
+   "options": {
+    "A": "গৌণ যৌন বৈশিষ্ট্য দেখা দেয়",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "ইন্দ্রিয় ও স্নায়ুতন্ত্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "আলাদা",
+    "C": "একত্রে কাজ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "চাপ (stress) —",
+   "options": {
+    "A": "মস্তিষ্কে প্রভাব ফেলে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "মস্তিষ্কের ক্ষতি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "নির্দিষ্ট কাজে ব্যাঘাত ঘটায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "অন্তঃক্ষরা গ্রন্থি —",
+   "options": {
+    "A": "নালিযুক্ত",
+    "B": "নালিবিহীন গ্রন্থি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "চোখের কাজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শ্রবণ",
+    "C": "কোনোটিই নয়",
+    "D": "দর্শন"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "মিশ্র স্নায়ু —",
+   "options": {
+    "A": "সংজ্ঞাবহ ও চেষ্টীয় দুটোই",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "সেরিব্রোস্পাইনাল ফ্লুইড —",
+   "options": {
+    "A": "মস্তিষ্ককে রক্ষা করে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "ইনসুলিন ও গ্লুকাগন —",
+   "options": {
+    "A": "একই",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বিপরীত কাজ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "চোখের সংক্রমণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কনজাংটিভাইটিস"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "পর্যাপ্ত ঘুম —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "মস্তিষ্কের জন্য জরুরি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "সেরিব্রামের ভাঁজ —",
+   "options": {
+    "A": "কমায়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ক্ষেত্রফল বাড়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "হরমোন কাকে বলে?",
+   "options": {
+    "A": "শুধু রং",
+    "B": "অন্তঃক্ষরা গ্রন্থির নিঃসৃত রাসায়নিক",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "কানের সুরক্ষা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "উচ্চ শব্দ এড়ানো"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "সাইনাপস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "দুই নিউরনের সংযোগস্থল"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "দেহের ভারসাম্য —",
+   "options": {
+    "A": "সেরিব্রামে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সেরিবেলামে"
+   },
+   "correctAnswer": "D",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "হরমোনের ভারসাম্য —",
+   "options": {
+    "A": "স্বাস্থ্যের জন্য জরুরি",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "মায়োপিয়ায় —",
+   "options": {
+    "A": "দূরের জিনিস ঝাপসা",
+    "B": "কাছের ঝাপসা",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "স্ট্রোক —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "মস্তিষ্কে রক্ত সরবরাহ ব্যাহত"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "পনস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "দুই গোলার্ধ সংযোগ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "শিশুদের থাইরক্সিনের অভাব —",
+   "options": {
+    "A": "ক্রেটিনিজম",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "অর্ধবৃত্তাকার নালি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "ভারসাম্য রক্ষা করে"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "ধ্যান —",
+   "options": {
+    "A": "মানসিক চাপ কমায়",
+    "B": "বাড়ায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "বাকশক্তি —",
+   "options": {
+    "A": "ব্রোকা অঞ্চলে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "গ্লাইকোজেন সঞ্চিত হয় —",
+   "options": {
+    "A": "যকৃত ও পেশিতে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "পিউপিল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "আইরিসের মাঝের ছিদ্র"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "আলঝাইমারে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "স্মৃতিশক্তি কমে"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "অগ্র মস্তিষ্ক —",
+   "options": {
+    "A": "সেরিব্রাম, থ্যালামাস, হাইপোথ্যালামাস নিয়ে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "টেস্টোস্টেরন নিঃসৃত হয় —",
+   "options": {
+    "A": "শুক্রাশয় থেকে",
+    "B": "ডিম্বাশয় থেকে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "সর্দিতে স্বাদ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কমে যায়",
+    "C": "বাড়ে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "স্নায়ুর প্রকার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু এক",
+    "D": "সংজ্ঞাবহ, চেষ্টীয়, মিশ্র"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "মস্তিষ্কে O₂ বন্ধ হলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কয়েক মিনিটে মৃত্যু",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "বয়ঃসন্ধি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "জনন হরমোনে ঘটে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "চোখে হাত না দেওয়া —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "সংক্রমণ রোধে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "মানসিক চাপ কমানো —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ব্যায়াম, ধ্যান, বিশ্রামে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "সুষুম্না কাণ্ডের দৈর্ঘ্য —",
+   "options": {
+    "A": "প্রায় ৪৫ সেমি",
+    "B": "৭০ সেমি",
+    "C": "২০ সেমি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মস্তিষ্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "হরমোন নিঃসৃত হয় —",
+   "options": {
+    "A": "অন্তঃক্ষরা গ্রন্থি থেকে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বহিঃক্ষরা থেকে"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "নাকের কাজ —",
+   "options": {
+    "A": "ঘ্রাণ",
+    "B": "স্বাদ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "অ্যাক্সন —",
+   "options": {
+    "A": "আবেগ বহন করে",
+    "B": "আবেগ গ্রহণ করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "সুষুম্না কাণ্ড ছিন্ন হলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "নিচের অংশ পক্ষাঘাতগ্রস্ত হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "কর্টিসল —",
+   "options": {
+    "A": "অ্যাড্রিনাল কর্টেক্স থেকে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "রেটিনায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "রড ও কোন কোষ থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "স্মৃতি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "মস্তিষ্কে সংরক্ষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "সুষুম্না কাণ্ডের কাজ —",
+   "options": {
+    "A": "চিন্তা",
+    "B": "প্রতিবর্ত ক্রিয়া ও সংযোগ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "বহিঃক্ষরা গ্রন্থি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নালিবিহীন",
+    "C": "কোনোটিই নয়",
+    "D": "নালিযুক্ত গ্রন্থি"
+   },
+   "correctAnswer": "D",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "জিহ্বার কাজ —",
+   "options": {
+    "A": "স্বাদ",
+    "B": "কোনোটিই নয়",
+    "C": "ঘ্রাণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "মায়েলিনযুক্ত নিউরনে আবেগ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ধীর",
+    "C": "দ্রুত চলে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "মেডুলা অবলংগাটা —",
+   "options": {
+    "A": "চিন্তা করে",
+    "B": "কিছুই না",
+    "C": "শ্বসন ও হৃৎস্পন্দন নিয়ন্ত্রণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "থাইরক্সিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বিপাক হার নিয়ন্ত্রণ করে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "নিয়মিত চোখ পরীক্ষা —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "জরুরি নয়",
+    "C": "জরুরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "প্যারাসিমপ্যাথেটিক —",
+   "options": {
+    "A": "বিশ্রামে সক্রিয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "মস্তিষ্কের ওজন —",
+   "options": {
+    "A": "৩ কেজি",
+    "B": "০.৫ কেজি",
+    "C": "কোনোটিই নয়",
+    "D": "প্রায় ১.৪ কেজি"
+   },
+   "correctAnswer": "D",
+   "topic": "মস্তিষ্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "থাইরক্সিনে —",
+   "options": {
+    "A": "লোহা",
+    "B": "কোনোটিই নয়",
+    "C": "আয়োডিন থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "দৃষ্টি স্নায়ু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "রেটিনা থেকে মস্তিষ্কে সংকেত পাঠায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "মাল্টিপল স্ক্লেরোসিসে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্নায়ু আবেগ ধীর হয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "মেডুলা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "অনৈচ্ছিক কাজ নিয়ন্ত্রণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "পিটুইটারি —",
+   "options": {
+    "A": "অন্যান্য গ্রন্থি নিয়ন্ত্রণ করে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "রেটিনা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "প্রতিবিম্ব তৈরি হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "স্নায়ুতন্ত্রের রোগ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "স্ট্রোক, মৃগী, পারকিনসন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "সেরিবেলাম ক্ষতিগ্রস্ত হলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "ভারসাম্য নষ্ট হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "হাইপোথাইরয়েডিজম —",
+   "options": {
+    "A": "আধিক্য",
+    "B": "কোনোটিই নয়",
+    "C": "থাইরক্সিনের অভাব",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "চোখে হাত ঘষা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সংক্রমণ ঘটাতে পারে"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "মস্তিষ্কের স্নায়ু —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "৩১ জোড়া",
+    "D": "১২ জোড়া"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "তাপমাত্রা ও ক্ষুধা —",
+   "options": {
+    "A": "হাইপোথ্যালামাসে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "অ্যাড্রেনালিনের উৎস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "অ্যাড্রিনাল মেডুলা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "মস্তিষ্ক ইন্দ্রিয়ের তথ্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ব্যাখ্যা করে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "ভিটামিন B অভাব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "স্নায়ুর সমস্যা"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "শ্রবণ কেন্দ্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "টেম্পোরাল লোবে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "অ্যাড্রেনালিন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "জরুরি অবস্থার হরমোন"
+   },
+   "correctAnswer": "D",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "ব্যথা গ্রাহক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "ত্বকে বেশি থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "স্নায়ু আবেগ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "তড়িৎ-রাসায়নিক সংকেত"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "মেডুলা নিয়ন্ত্রণ করে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "চিন্তা",
+    "D": "শ্বাস, হৃৎস্পন্দন, রক্তচাপ"
+   },
+   "correctAnswer": "D",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "গ্লুকাগন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "রক্তের গ্লুকোজ বাড়ায়",
+    "D": "কমায়"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "জিহ্বার আগায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "তিতা",
+    "D": "মিষ্টি স্বাদ বেশি"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "সিমপ্যাথেটিক ও প্যারাসিমপ্যাথেটিক —",
+   "options": {
+    "A": "পরস্পর বিপরীত",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "একই"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "মস্তিষ্কের আবরণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "তিন স্তরের মেনিনজেস"
+   },
+   "correctAnswer": "D",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "প্রাণী হরমোন —",
+   "options": {
+    "A": "বিপাক ও বৃদ্ধি নিয়ন্ত্রক",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "অপটিক স্নায়ু —",
+   "options": {
+    "A": "দৃষ্টি স্নায়ু",
+    "B": "শ্রবণ স্নায়ু",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "সাইনাপসে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নিউরোট্রান্সমিটার নিঃসৃত হয়",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "মস্তিষ্কের যত্ন —",
+   "options": {
+    "A": "জ্ঞানচর্চা, ঘুম, পুষ্টি, ব্যায়াম",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "পিটুইটারির হরমোন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "গ্রোথ হরমোন, TSH, ADH, অক্সিটোসিন",
+    "D": "ইনসুলিন"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "ইউস্টেশিয়ান নালি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "মধ্যকর্ণকে গলবিলের সাথে যুক্ত করে"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "স্নায়ু আবেগ সাইনাপস পার হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "নিউরোট্রান্সমিটারে"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "ডান গোলার্ধ নিয়ন্ত্রণ করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ডান দিক",
+    "D": "দেহের বাম দিক"
+   },
+   "correctAnswer": "D",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "ডায়াবেটিস —",
+   "options": {
+    "A": "কমে যাওয়া",
+    "B": "রক্তে গ্লুকোজ বেড়ে যাওয়া",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "কর্ণপটহ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "মধ্যকর্ণে শব্দ কম্পন বহন করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "বিশ্রাম বিভব —",
+   "options": {
+    "A": "নিউরনের ভেতরে ঋণাত্মক",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "মস্তিষ্কে O₂ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "নিরবচ্ছিন্ন প্রয়োজন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "গলগণ্ড রোধে —",
+   "options": {
+    "A": "আয়োডিনযুক্ত লবণ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "কানে কিছু ঢোকানো —",
+   "options": {
+    "A": "উচিত নয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "উচিত"
+   },
+   "correctAnswer": "A",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "পারকিনসন রোগ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ডোপামিনের অভাব",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "সুষুম্না কাণ্ডে আঘাত —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পক্ষাঘাত ঘটায়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "অক্সিটোসিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "প্রসব ও দুধ ক্ষরণে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "জিহ্বার পেছনে —",
+   "options": {
+    "A": "তিতা স্বাদ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "মিষ্টি"
+   },
+   "correctAnswer": "A",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "নিউরনের অংশ —",
+   "options": {
+    "A": "কোষদেহ, ডেনড্রাইট, অ্যাক্সন",
+    "B": "শুধু কোষদেহ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "মস্তিষ্কের তরল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "সেরিব্রোস্পাইনাল ফ্লুইড",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মস্তিষ্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "থাইরয়েড গ্রন্থি —",
+   "options": {
+    "A": "গলায় অবস্থিত",
+    "B": "কোনোটিই নয়",
+    "C": "মস্তিষ্কে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "ইন্দ্রিয়ের যত্ন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "চোখ-কানের সুরক্ষা"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "মস্তিষ্কের ব্যায়াম —",
+   "options": {
+    "A": "পড়া, ধাঁধা, নতুন শেখা",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "ADH —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "পানির পুনঃশোষণ নিয়ন্ত্রণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "কর্নিয়ার কাজ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "আলো প্রবেশ ও প্রতিসরণ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "চেষ্টীয় স্নায়ু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মস্তিষ্ক থেকে পেশিতে নির্দেশ নেয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "প্রোল্যাকটিন —",
+   "options": {
+    "A": "দুধ উৎপাদনে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "আঙুলের ডগায় —",
+   "options": {
+    "A": "কম",
+    "B": "স্পর্শ গ্রাহক বেশি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "মাল্টিপল স্ক্লেরোসিস —",
+   "options": {
+    "A": "মায়েলিনের ক্ষয়ে হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "থাইরক্সিন কমে গেলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্লান্তি ও শীত লাগে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "কানের কাজ —",
+   "options": {
+    "A": "শ্রবণ ও ভারসাম্য",
+    "B": "দর্শন",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "সিমপ্যাথেটিক —",
+   "options": {
+    "A": "জরুরি অবস্থায় সক্রিয় হয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "ইস্ট্রোজেন —",
+   "options": {
+    "A": "পুরুষ হরমোন",
+    "B": "কিছুই না",
+    "C": "স্ত্রী হরমোন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "ঘ্রাণ কোষ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নাকের উপরের অংশে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "নিউরনের কাজ —",
+   "options": {
+    "A": "রক্ত বহন",
+    "B": "কোনোটিই নয়",
+    "C": "আবেগ বহন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "ডায়াবেটিসের প্রকার —",
+   "options": {
+    "A": "টাইপ ১ ও টাইপ ২",
+    "B": "কিছুই না",
+    "C": "শুধু এক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "কোন কোষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ম্লান আলোতে",
+    "C": "কিছুই না",
+    "D": "রঙ শনাক্ত করে"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "মৃগীতে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "খিঁচুনি হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "অ্যাড্রিনাল গ্রন্থি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "গলায়",
+    "D": "বৃক্কের উপরে"
+   },
+   "correctAnswer": "D",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "উচ্চ শব্দ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "শ্রবণ ক্ষতি করে"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "কেন্দ্রীয় স্নায়ুতন্ত্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্নায়ু",
+    "C": "কিছুই না",
+    "D": "মস্তিষ্ক ও সুষুম্না কাণ্ড"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "মিক্সিডিমা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বয়স্কদের থাইরক্সিনের অভাব",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "ভারসাম্য অঙ্গ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "অন্তঃকর্ণের অর্ধবৃত্তাকার নালি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "আলঝাইমার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "স্মৃতিভ্রংশ রোগ",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "টেস্টোস্টেরন —",
+   "options": {
+    "A": "স্ত্রী হরমোন",
+    "B": "পুরুষ হরমোন",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "কানের অংশ —",
+   "options": {
+    "A": "বহিঃ, মধ্য, অন্তঃকর্ণ",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু বহিঃ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "স্নায়ুতন্ত্রের প্রধান ভাগ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কেন্দ্রীয় ও প্রান্তীয়",
+    "C": "শুধু প্রান্তীয়",
+    "D": "শুধু কেন্দ্রীয়"
+   },
+   "correctAnswer": "B",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "অগ্ন্যাশয়ের হরমোন —",
+   "options": {
+    "A": "থাইরক্সিন",
+    "B": "ইনসুলিন ও গ্লুকাগন",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "ঘ্রাণ স্নায়ু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "নাক থেকে মস্তিষ্কে সংকেত পাঠায়"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "প্রান্তীয় স্নায়ুতন্ত্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মস্তিষ্ক ও সুষুম্না থেকে নির্গত স্নায়ু",
+    "C": "মস্তিষ্ক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "টাইপ ১ ডায়াবেটিস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "ইনসুলিন তৈরি হয় না"
+   },
+   "correctAnswer": "D",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "শব্দ তরঙ্গ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কর্ণপটহকে কম্পিত করে",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "স্নায়ুতন্ত্রের গঠনগত একক —",
+   "options": {
+    "A": "নেফ্রন",
+    "B": "নিউরন",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "ইস্ট্রোজেনের কাজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নারীদের গৌণ যৌন বৈশিষ্ট্য",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "কানের যত্ন —",
+   "options": {
+    "A": "উচ্চ শব্দ এড়ানো",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "স্নায়ু আবেগের গতি —",
+   "options": {
+    "A": "খুব দ্রুত",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ধীর"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "আয়োডিনের অভাব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ডায়াবেটিস",
+    "C": "গলগণ্ড",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "জিহ্বার স্বাদ কোরক —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বিভিন্ন স্বাদ গ্রহণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "সুষুম্না কাণ্ডের স্নায়ু —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "১২ জোড়া",
+    "C": "কোনোটিই নয়",
+    "D": "৩১ জোড়া"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "টেস্টোস্টেরনের কাজ —",
+   "options": {
+    "A": "পুরুষের গৌণ যৌন বৈশিষ্ট্য",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "ইন্দ্রিয় ছাড়া —",
+   "options": {
+    "A": "পরিবেশ সম্পর্কে জানা যায় না",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "স্নায়ুতন্ত্রের সুরক্ষা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "মাথায় আঘাত এড়ানো",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "পিটুইটারির অবস্থান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "গলায়",
+    "C": "মস্তিষ্কের নিচে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "রেটিনার কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "প্রতিবিম্ব গঠন",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "স্ট্রোকে —",
+   "options": {
+    "A": "পক্ষাঘাত হতে পারে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "ডায়াবেটিস নিয়ন্ত্রণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সুষম খাদ্য ও ব্যায়াম",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "ইন্দ্রিয় অঙ্গ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "চোখ, কান, নাক, জিহ্বা, ত্বক",
+    "D": "শুধু চোখ"
+   },
+   "correctAnswer": "C",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "ঘুমের অভাব —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "স্মৃতি ও মনোযোগ কমায়"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "থাইরক্সিন কমলে TSH —",
+   "options": {
+    "A": "কমে",
+    "B": "কোনোটিই নয়",
+    "C": "বাড়ে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "লেন্সের কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আলো ফোকাস করা",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "স্বয়ংক্রিয় স্নায়ুতন্ত্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "অনৈচ্ছিক কাজ নিয়ন্ত্রণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "গ্রোথ হরমোনের আধিক্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বামন",
+    "D": "দৈত্যাকার দেহ"
+   },
+   "correctAnswer": "D",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "মধ্যকর্ণের অস্থি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "হাতুড়ি, নেহাই, রেকাব",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "স্নায়ুতন্ত্রের একক —",
+   "options": {
+    "A": "নেফ্রন",
+    "B": "নিউরন",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "নেতিবাচক প্রতিক্রিয়া —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "হরমোনের মাত্রা নিয়ন্ত্রণ করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "চোখের অংশ —",
+   "options": {
+    "A": "কর্নিয়া, লেন্স, রেটিনা, আইরিস",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু লেন্স"
+   },
+   "correctAnswer": "A",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "সাইনাপসের দিক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দ্বিমুখী",
+    "C": "কোনোটিই নয়",
+    "D": "একমুখী"
+   },
+   "correctAnswer": "D",
+   "topic": "স্নায়ুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "অ্যাড্রেনালিনকে বলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "লড়াই বা পালানোর হরমোন"
+   },
+   "correctAnswer": "D",
+   "topic": "হরমোন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "মস্তিষ্ক প্রতিবিম্ব —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "সোজা করে ব্যাখ্যা করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ইন্দ্রিয়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "C",
+  "2": "D",
+  "3": "A",
+  "4": "A",
+  "5": "A",
+  "6": "B",
+  "7": "C",
+  "8": "D",
+  "9": "A",
+  "10": "A",
+  "11": "B",
+  "12": "C",
+  "13": "C",
+  "14": "D",
+  "15": "B",
+  "16": "D",
+  "17": "C",
+  "18": "C",
+  "19": "C",
+  "20": "D",
+  "21": "D",
+  "22": "A",
+  "23": "B",
+  "24": "B",
+  "25": "A",
+  "26": "C",
+  "27": "C",
+  "28": "A",
+  "29": "B",
+  "30": "D",
+  "31": "D",
+  "32": "C",
+  "33": "B",
+  "34": "C",
+  "35": "B",
+  "36": "D",
+  "37": "A",
+  "38": "D",
+  "39": "D",
+  "40": "C",
+  "41": "A",
+  "42": "D",
+  "43": "C",
+  "44": "D",
+  "45": "D",
+  "46": "C",
+  "47": "A",
+  "48": "D",
+  "49": "A",
+  "50": "C",
+  "51": "B",
+  "52": "C",
+  "53": "A",
+  "54": "C",
+  "55": "D",
+  "56": "C",
+  "57": "B",
+  "58": "D",
+  "59": "B",
+  "60": "B",
+  "61": "D",
+  "62": "A",
+  "63": "B",
+  "64": "B",
+  "65": "C",
+  "66": "D",
+  "67": "D",
+  "68": "C",
+  "69": "C",
+  "70": "D",
+  "71": "B",
+  "72": "A",
+  "73": "B",
+  "74": "A",
+  "75": "B",
+  "76": "A",
+  "77": "D",
+  "78": "C",
+  "79": "B",
+  "80": "D",
+  "81": "A",
+  "82": "A",
+  "83": "A",
+  "84": "B",
+  "85": "D",
+  "86": "D",
+  "87": "B",
+  "88": "C",
+  "89": "D",
+  "90": "B",
+  "91": "C",
+  "92": "D",
+  "93": "D",
+  "94": "B",
+  "95": "B",
+  "96": "C",
+  "97": "D",
+  "98": "A",
+  "99": "D",
+  "100": "A",
+  "101": "A",
+  "102": "C",
+  "103": "D",
+  "104": "A",
+  "105": "C",
+  "106": "A",
+  "107": "D",
+  "108": "A",
+  "109": "B",
+  "110": "A",
+  "111": "C",
+  "112": "B",
+  "113": "A",
+  "114": "C",
+  "115": "A",
+  "116": "A",
+  "117": "A",
+  "118": "B",
+  "119": "B",
+  "120": "D",
+  "121": "A",
+  "122": "B",
+  "123": "C",
+  "124": "A",
+  "125": "C",
+  "126": "D",
+  "127": "B",
+  "128": "C",
+  "129": "A",
+  "130": "D",
+  "131": "A",
+  "132": "B",
+  "133": "C",
+  "134": "A",
+  "135": "D",
+  "136": "C",
+  "137": "B",
+  "138": "B",
+  "139": "D",
+  "140": "B",
+  "141": "C",
+  "142": "A",
+  "143": "A",
+  "144": "B",
+  "145": "C",
+  "146": "C",
+  "147": "C",
+  "148": "A",
+  "149": "C",
+  "150": "B",
+  "151": "D",
+  "152": "A",
+  "153": "B",
+  "154": "B",
+  "155": "A",
+  "156": "B",
+  "157": "C",
+  "158": "C",
+  "159": "D",
+  "160": "C",
+  "161": "C",
+  "162": "C",
+  "163": "D",
+  "164": "D",
+  "165": "D",
+  "166": "B",
+  "167": "B",
+  "168": "D",
+  "169": "A",
+  "170": "B",
+  "171": "D",
+  "172": "B",
+  "173": "A",
+  "174": "A",
+  "175": "C",
+  "176": "B",
+  "177": "A",
+  "178": "C",
+  "179": "D",
+  "180": "C",
+  "181": "D",
+  "182": "D",
+  "183": "B",
+  "184": "C",
+  "185": "B",
+  "186": "D",
+  "187": "C",
+  "188": "B",
+  "189": "C",
+  "190": "A",
+  "191": "A",
+  "192": "C",
+  "193": "D",
+  "194": "C",
+  "195": "B",
+  "196": "A",
+  "197": "C",
+  "198": "C",
+  "199": "A",
+  "200": "A",
+  "201": "A",
+  "202": "B",
+  "203": "A",
+  "204": "B",
+  "205": "C",
+  "206": "D",
+  "207": "C",
+  "208": "C",
+  "209": "B",
+  "210": "A",
+  "211": "C",
+  "212": "D",
+  "213": "B",
+  "214": "B",
+  "215": "C",
+  "216": "D",
+  "217": "B",
+  "218": "A",
+  "219": "B",
+  "220": "D",
+  "221": "A",
+  "222": "C",
+  "223": "A",
+  "224": "B",
+  "225": "B",
+  "226": "D",
+  "227": "A",
+  "228": "A",
+  "229": "D",
+  "230": "D",
+  "231": "B",
+  "232": "D",
+  "233": "B",
+  "234": "D",
+  "235": "D",
+  "236": "D",
+  "237": "A",
+  "238": "A",
+  "239": "D",
+  "240": "D",
+  "241": "A",
+  "242": "D",
+  "243": "A",
+  "244": "A",
+  "245": "A",
+  "246": "D",
+  "247": "D",
+  "248": "A",
+  "249": "A",
+  "250": "B",
+  "251": "D",
+  "252": "B",
+  "253": "C",
+  "254": "C",
+  "255": "B",
+  "256": "A",
+  "257": "A",
+  "258": "A",
+  "259": "A",
+  "260": "C",
+  "261": "A",
+  "262": "D",
+  "263": "C",
+  "264": "B",
+  "265": "D",
+  "266": "A",
+  "267": "C",
+  "268": "C",
+  "269": "B",
+  "270": "C",
+  "271": "A",
+  "272": "D",
+  "273": "C",
+  "274": "C",
+  "275": "B",
+  "276": "C",
+  "277": "A",
+  "278": "C",
+  "279": "C",
+  "280": "D",
+  "281": "C",
+  "282": "D",
+  "283": "D",
+  "284": "A",
+  "285": "C",
+  "286": "B",
+  "287": "D",
+  "288": "C",
+  "289": "D",
+  "290": "D",
+  "291": "D",
+  "292": "D",
+  "293": "C",
+  "294": "D",
+  "295": "A",
+  "296": "D",
+  "297": "A",
+  "298": "A",
+  "299": "B",
+  "300": "A",
+  "301": "C",
+  "302": "D",
+  "303": "D",
+  "304": "D",
+  "305": "B",
+  "306": "B",
+  "307": "A",
+  "308": "C",
+  "309": "A",
+  "310": "A",
+  "311": "B",
+  "312": "C",
+  "313": "C",
+  "314": "A",
+  "315": "A",
+  "316": "C",
+  "317": "A",
+  "318": "D",
+  "319": "A",
+  "320": "D",
+  "321": "B",
+  "322": "B",
+  "323": "A",
+  "324": "B",
+  "325": "A",
+  "326": "B",
+  "327": "A",
+  "328": "A",
+  "329": "C",
+  "330": "B",
+  "331": "C",
+  "332": "A",
+  "333": "D",
+  "334": "C",
+  "335": "D",
+  "336": "D",
+  "337": "D",
+  "338": "B",
+  "339": "B",
+  "340": "B",
+  "341": "B",
+  "342": "A",
+  "343": "B",
+  "344": "B",
+  "345": "D",
+  "346": "B",
+  "347": "D",
+  "348": "B",
+  "349": "B",
+  "350": "B",
+  "351": "A",
+  "352": "A",
+  "353": "C",
+  "354": "D",
+  "355": "D",
+  "356": "A",
+  "357": "A",
+  "358": "B",
+  "359": "C",
+  "360": "C",
+  "361": "A",
+  "362": "C",
+  "363": "C",
+  "364": "D",
+  "365": "C",
+  "366": "B",
+  "367": "C",
+  "368": "D",
+  "369": "C",
+  "370": "B",
+  "371": "B",
+  "372": "A",
+  "373": "D",
+  "374": "D",
+  "375": "B"
+ }
+}
