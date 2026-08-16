@@ -1,0 +1,7134 @@
+{
+ "subject": "জীববিজ্ঞান",
+ "chapterNo": 2,
+ "chapter": "জীবকোষ ও টিস্যু",
+ "questions": [
+  {
+   "question": "কোষ বিশেষায়ন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নির্দিষ্ট কাজের জন্য অভিযোজন",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "কোষ প্রাচীর উদ্ভিদকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দৃঢ়তা ও সুরক্ষা দেয়",
+    "C": "কোনোটিই নয়",
+    "D": "নরম করে"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "ক্লোরোপ্লাস্ট থাকে —",
+   "options": {
+    "A": "প্রাণী কোষে",
+    "B": "উদ্ভিদ কোষে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "ইউক্যারিওটিক কোষে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্রকৃত নিউক্লিয়াস আছে",
+    "C": "কোনোটিই নয়",
+    "D": "নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের প্রকার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "উদ্ভিদ কোষে কোষপ্রাচীর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "থাকে না",
+    "D": "থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ ও প্রাণী কোষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "জীবের সংগঠনের সঠিক ক্রম —",
+   "options": {
+    "A": "অঙ্গ → কোষ",
+    "B": "কোষ → টিস্যু → অঙ্গ → তন্ত্র → জীব",
+    "C": "জীব → কোষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "টিস্যুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "কোলেনকাইমার কোষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মৃত",
+    "C": "জীবন্ত",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "সাইনাপসে সংকেত যায় —",
+   "options": {
+    "A": "নিউরোট্রান্সমিটারে",
+    "B": "রক্তে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "কোষের স্বয়ংক্রিয় প্রজনন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "খাদ্য গ্রহণ",
+    "D": "কোষ বিভাজন"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "সাইটোপ্লাজমের তরল অংশ —",
+   "options": {
+    "A": "সাইটোসল",
+    "B": "নিউক্লিওপ্লাজম",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "স্ফীতি চাপ (turgor) —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কোষকে দৃঢ় রাখে",
+    "D": "নরম করে"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "উদ্ভিদ কোষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "প্রোক্যারিওট",
+    "D": "ইউক্যারিওট"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের প্রকার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "প্রাণী কোষে সেন্ট্রিওল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "থাকে",
+    "D": "থাকে না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ ও প্রাণী কোষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "বিভিন্ন টিস্যু —",
+   "options": {
+    "A": "অঙ্গ গঠন করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "কোষ গঠন করে"
+   },
+   "correctAnswer": "A",
+   "topic": "টিস্যুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "বাষ্পমোচন (transpiration) —",
+   "options": {
+    "A": "পানি শোষণ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পানি বাষ্প হয়ে বের হওয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "আবরণী টিস্যু কাকে বলে?",
+   "options": {
+    "A": "দেহ সংযোজক",
+    "B": "দেহের পৃষ্ঠ ও গহ্বর আবৃতকারী",
+    "C": "কোনোটিই নয়",
+    "D": "পেশি"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "কোষের অস্বাভাবিক বৃদ্ধি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ক্যান্সার",
+    "D": "স্বাভাবিক"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "নিউক্লিওলাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "রাইবোজোম তৈরিতে সাহায্য করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "মাইটোকন্ড্রিয়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শক্তি (ATP) উৎপাদন করে",
+    "D": "প্রোটিন তৈরি করে"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "ইউক্যারিওটের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নীলাভ সবুজ শৈবাল",
+    "C": "উদ্ভিদ ও প্রাণী",
+    "D": "ব্যাকটেরিয়া"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের প্রকার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "প্রাণী কোষের আকৃতি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অনিয়মিত/গোলাকার",
+    "D": "সুষম"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ ও প্রাণী কোষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "টিস্যু শব্দের প্রবর্তক —",
+   "options": {
+    "A": "বিশাট",
+    "B": "কোনোটিই নয়",
+    "C": "হুক",
+    "D": "ডারউইন"
+   },
+   "correctAnswer": "A",
+   "topic": "টিস্যুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "জাইলেম ও ফ্লোয়েমকে বলে —",
+   "options": {
+    "A": "সরল টিস্যু",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ভাস্কুলার টিস্যু"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "রক্তের তরল অংশ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্লাজমা",
+    "C": "শ্বেত কণিকা",
+    "D": "লোহিত কণিকা"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "ইলেকট্রন অণুবীক্ষণে —",
+   "options": {
+    "A": "অতিক্ষুদ্র দেখা যায়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "নিউক্লিয়াস —",
+   "options": {
+    "A": "কোষের সব কাজ নিয়ন্ত্রণ করে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "গলগি বস্তু —",
+   "options": {
+    "A": "শক্তি উৎপাদনে",
+    "B": "কিছুই না",
+    "C": "ক্ষরণ ও প্যাকেজিংয়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "প্রাণী কোষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইউক্যারিওট",
+    "C": "কিছুই না",
+    "D": "প্রোক্যারিওট"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের প্রকার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "প্রাণী কোষ বিভাজনে —",
+   "options": {
+    "A": "কোষপ্লেট",
+    "B": "খাঁজ (furrow) তৈরি হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদ ও প্রাণী কোষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "সদৃশ বিশেষায়িত কোষ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "টিস্যু গঠন করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "টিস্যুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "নারিকেলের খোসা —",
+   "options": {
+    "A": "কোলেনকাইমা",
+    "B": "স্ক্লেরেনকাইমা",
+    "C": "প্যারেনকাইমা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "ফ্যাগোসাইটোসিস —",
+   "options": {
+    "A": "শ্বেত কণিকার জীবাণু ভক্ষণ",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "জীবকোষ ও টিস্যু অধ্যায় —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "ঐচ্ছিক",
+    "C": "অগুরুত্বপূর্ণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "কোষঝিল্লির কাজ —",
+   "options": {
+    "A": "প্রোটিন সংশ্লেষণ",
+    "B": "কোনোটিই নয়",
+    "C": "পদার্থ আদান-প্রদান নিয়ন্ত্রণ",
+    "D": "শক্তি উৎপাদন"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "রাইবোজোম তৈরি —",
+   "options": {
+    "A": "শুধু লিপিড",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু DNA",
+    "D": "RNA ও প্রোটিন"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "ব্যাকটেরিয়ার DNA —",
+   "options": {
+    "A": "সাইটোপ্লাজমে মুক্ত",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "নিউক্লিয়াসে"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের প্রকার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "প্রাণী কোষের শর্করা সঞ্চয় —",
+   "options": {
+    "A": "গ্লাইকোজেন হিসেবে",
+    "B": "কোনোটিই নয়",
+    "C": "স্টার্চ হিসেবে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ ও প্রাণী কোষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "তন্ত্র —",
+   "options": {
+    "A": "অঙ্গের সমন্বয়ে গঠিত",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "কোষের"
+   },
+   "correctAnswer": "A",
+   "topic": "টিস্যুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "ফ্লোয়েম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পানি পরিবহণ",
+    "C": "কিছুই না",
+    "D": "খাদ্য পরিবহণ"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "অ্যাক্টিন ও মায়োসিন —",
+   "options": {
+    "A": "হাড়ের প্রোটিন",
+    "B": "কোনোটিই নয়",
+    "C": "পেশি প্রোটিন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "অ্যাপোপটোসিস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "পরিকল্পিত কোষ মৃত্যু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "কোষের আকৃতি নির্ধারণ করে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোষপ্রাচীর (উদ্ভিদে)",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "উদ্ভিদের রান্নাঘর —",
+   "options": {
+    "A": "ক্লোরোপ্লাস্ট",
+    "B": "গলগি",
+    "C": "কোনোটিই নয়",
+    "D": "মাইটোকন্ড্রিয়া"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "ইউক্যারিওটে ঝিল্লিবদ্ধ অঙ্গাণু —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "থাকে না",
+    "C": "থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের প্রকার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "উদ্ভিদ ও প্রাণী কোষের সাধারণ অঙ্গাণু —",
+   "options": {
+    "A": "ক্লোরোপ্লাস্ট",
+    "B": "কোনোটিই নয়",
+    "C": "নিউক্লিয়াস, মাইটোকন্ড্রিয়া, ER",
+    "D": "কোষপ্রাচীর"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ ও প্রাণী কোষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "কোষ ছাড়া টিস্যু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গঠিত হয়",
+    "C": "কিছুই না",
+    "D": "গঠিত হয় না"
+   },
+   "correctAnswer": "D",
+   "topic": "টিস্যুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "ইন্টারক্যালারি ভাজক —",
+   "options": {
+    "A": "ডগায়",
+    "B": "পর্বের মাঝে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "ফাইব্রিন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "রক্ত জমাটের জাল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "লোহিত রক্তকণিকায় নিউক্লিয়াস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "থাকে না (পরিণত)",
+    "D": "থাকে"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "কোষঝিল্লি কাকে বলে?",
+   "options": {
+    "A": "কোষের বাইরের আবরণ",
+    "B": "কোনোটিই নয়",
+    "C": "কোষের কেন্দ্র",
+    "D": "কোষের খাদ্য"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "কোষের প্যাকেজিং কেন্দ্র —",
+   "options": {
+    "A": "রাইবোজোম",
+    "B": "গলগি বস্তু",
+    "C": "কোনোটিই নয়",
+    "D": "লাইসোজোম"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "ব্যাকটেরিয়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্রোক্যারিওট",
+    "C": "কোনোটিই নয়",
+    "D": "ইউক্যারিওট"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের প্রকার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "উদ্ভিদ কোষে ক্লোরোপ্লাস্ট —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "থাকে",
+    "C": "কোনোটিই নয়",
+    "D": "থাকে না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদ ও প্রাণী কোষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "কোষ → ? → অঙ্গ → তন্ত্র",
+   "options": {
+    "A": "টিস্যু",
+    "B": "কোনোটিই নয়",
+    "C": "পরমাণু",
+    "D": "খনিজ"
+   },
+   "correctAnswer": "A",
+   "topic": "টিস্যুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "ত্বক টিস্যুতন্ত্রের অংশ —",
+   "options": {
+    "A": "ফ্লোয়েম",
+    "B": "কোনোটিই নয়",
+    "C": "জাইলেম",
+    "D": "এপিডার্মিস, কিউটিকল, মূলরোম"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "স্নায়ুতন্ত্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দেহের কাজ সমন্বয় করে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "ইলেকট্রন অণুবীক্ষণের বিবর্ধন —",
+   "options": {
+    "A": "খুব বেশি",
+    "B": "কম",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "কোষের প্রধান অংশ —",
+   "options": {
+    "A": "শুধু নিউক্লিয়াস",
+    "B": "শুধু ঝিল্লি",
+    "C": "কোষঝিল্লি, সাইটোপ্লাজম, নিউক্লিয়াস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "মাইটোকন্ড্রিয়ার ঝিল্লি —",
+   "options": {
+    "A": "দ্বিস্তরবিশিষ্ট",
+    "B": "কোনোটিই নয়",
+    "C": "একস্তর",
+    "D": "ঝিল্লিহীন"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "প্রোক্যারিওটে ঝিল্লিবদ্ধ অঙ্গাণু —",
+   "options": {
+    "A": "থাকে না",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "থাকে"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের প্রকার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "উদ্ভিদ কোষের শর্করা সঞ্চয় —",
+   "options": {
+    "A": "গ্লাইকোজেন হিসেবে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "স্টার্চ হিসেবে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ ও প্রাণী কোষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "টিস্যু ছাড়া অঙ্গ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "গঠিত হয় না",
+    "D": "গঠিত হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "টিস্যুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "জটিল টিস্যুর প্রকার —",
+   "options": {
+    "A": "জাইলেম ও ফ্লোয়েম",
+    "B": "কোলেনকাইমা",
+    "C": "প্যারেনকাইমা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "স্নায়ুকোষকে বলে —",
+   "options": {
+    "A": "নেফ্রন",
+    "B": "মায়োসাইট",
+    "C": "নিউরন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "অণুবীক্ষণ যন্ত্রের প্রকার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু যৌগিক",
+    "C": "সরল ও যৌগিক",
+    "D": "শুধু সরল"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "কোষপ্রাচীর তৈরি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রোটিন",
+    "C": "লিপিড",
+    "D": "সেলুলোজ"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "কোষের ঝিল্লিবদ্ধ কাঠামো ছাড়া অঙ্গাণু —",
+   "options": {
+    "A": "মাইটোকন্ড্রিয়া",
+    "B": "রাইবোজোম",
+    "C": "কোনোটিই নয়",
+    "D": "গলগি"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "প্রোক্যারিওটিক কোষে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্রকৃত নিউক্লিয়াস নেই",
+    "C": "আছে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের প্রকার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "উদ্ভিদ কোষের আকৃতি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সাধারণত সুষম/কৌণিক",
+    "C": "কোনোটিই নয়",
+    "D": "অনিয়মিত"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদ ও প্রাণী কোষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "অঙ্গ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নির্দিষ্ট কাজ করে",
+    "C": "কোনোটিই নয়",
+    "D": "কাজহীন"
+   },
+   "correctAnswer": "B",
+   "topic": "টিস্যুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "প্যারেনকাইমার কাজ —",
+   "options": {
+    "A": "খাদ্য সঞ্চয়, সালোকসংশ্লেষণ",
+    "B": "কোনোটিই নয়",
+    "C": "দৃঢ়তা",
+    "D": "পরিবহণ"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "হাড় —",
+   "options": {
+    "A": "পেশি",
+    "B": "কঠিন যোজক টিস্যু",
+    "C": "আবরণী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "জীবের কার্যগত একক —",
+   "options": {
+    "A": "অঙ্গ",
+    "B": "টিস্যু",
+    "C": "কোনোটিই নয়",
+    "D": "কোষ"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "কোষঝিল্লি তৈরি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু প্রোটিন",
+    "C": "শুধু লিপিড",
+    "D": "ফসফোলিপিড ও প্রোটিন"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "উদ্ভিদ কোষের দৃঢ়তা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "ভ্যাকুওলের পানির চাপে"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "প্রোক্যারিওটের উদাহরণ —",
+   "options": {
+    "A": "উদ্ভিদ",
+    "B": "ব্যাকটেরিয়া",
+    "C": "প্রাণী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের প্রকার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "প্রাণী কোষে ক্লোরোপ্লাস্ট —",
+   "options": {
+    "A": "থাকে না",
+    "B": "কোনোটিই নয়",
+    "C": "থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ ও প্রাণী কোষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "টিস্যু কাকে বলে?",
+   "options": {
+    "A": "সদৃশ কোষের সমষ্টি",
+    "B": "তন্ত্রের সমষ্টি",
+    "C": "অঙ্গের সমষ্টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "টিস্যুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "উদ্ভিদ টিস্যুর প্রধান প্রকার —",
+   "options": {
+    "A": "ভাজক ও স্থায়ী",
+    "B": "শুধু ভাজক",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু স্থায়ী"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "হাত গরম জিনিসে ঠেকলে সরানো —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "প্রতিবর্ত ক্রিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "কোষ ছাড়া জীবন —",
+   "options": {
+    "A": "অসম্ভব",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সম্ভব"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "ব্যাপন (Diffusion) —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "উচ্চ ঘনত্ব থেকে নিম্নে",
+    "D": "নিম্ন থেকে উচ্চে"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "ভ্যাকুওলের কাজ —",
+   "options": {
+    "A": "শক্তি উৎপাদন",
+    "B": "পানি ও পদার্থ সঞ্চয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "কোষ কয় প্রকার?",
+   "options": {
+    "A": "শুধু এক",
+    "B": "তিন",
+    "C": "কোনোটিই নয়",
+    "D": "প্রোক্যারিওটিক ও ইউক্যারিওটিক"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের প্রকার",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "উদ্ভিদ কোষ বিভাজনে —",
+   "options": {
+    "A": "খাঁজ তৈরি হয়",
+    "B": "কোষপ্লেট তৈরি হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদ ও প্রাণী কোষ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "টিস্যুর গুরুত্ব —",
+   "options": {
+    "A": "জীবের সংগঠনে",
+    "B": "কিছুই না",
+    "C": "জড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "টিস্যুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "জাইলেম —",
+   "options": {
+    "A": "পানি ও খনিজ পরিবহণ",
+    "B": "খাদ্য পরিবহণ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "নিউরনের কোষদেহে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "থাকে না",
+    "C": "নিউক্লিয়াস থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "বহুকোষী জীবের বৃদ্ধি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কোষ বিভাজনে"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "নিউক্লিয়াসে থাকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু প্রোটিন",
+    "C": "ক্রোমোজোম ও DNA",
+    "D": "শুধু পানি"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "উদ্ভিদ কোষে সেন্ট্রিওল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "থাকে না",
+    "D": "থাকে"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "ক্যান্সার শনাক্তে —",
+   "options": {
+    "A": "কোষ ও টিস্যু পরীক্ষা",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "টিস্যুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "প্যারেনকাইমার কোষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পাতলা প্রাচীর, জীবন্ত",
+    "C": "কিছুই না",
+    "D": "পুরু প্রাচীর, মৃত"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "ঐচ্ছিক পেশিকে বলে —",
+   "options": {
+    "A": "মসৃণ পেশি",
+    "B": "রেখাঙ্কিত (striated) পেশি",
+    "C": "কোনোটিই নয়",
+    "D": "কার্ডিয়াক"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "যৌগিক অণুবীক্ষণে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "একাধিক লেন্স",
+    "C": "এক লেন্স",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "উদ্ভিদ কোষ ঝিল্লির বাইরে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "থাকে না",
+    "C": "কোষপ্রাচীর থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "লাইসোজোম —",
+   "options": {
+    "A": "শক্তিঘর",
+    "B": "কোনোটিই নয়",
+    "C": "কোষের পাচক অঙ্গাণু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "কলাবিদ্যার গুরুত্ব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "জড় বুঝতে",
+    "D": "দেহ গঠন বুঝতে"
+   },
+   "correctAnswer": "D",
+   "topic": "টিস্যুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "স্ক্লেরেনকাইমার কোষ —",
+   "options": {
+    "A": "মৃত, পুরু প্রাচীর",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "জীবন্ত"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "উদ্দীপনায় দ্রুত সাড়া —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "স্নায়ুতন্ত্রে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "কোষের পুনর্গঠন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষত নিরাময়ে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "কোষঝিল্লির ফসফোলিপিড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "দ্বিস্তর তৈরি করে",
+    "D": "একস্তর"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "উদ্ভিদ কোষে ভ্যাকুওল —",
+   "options": {
+    "A": "নেই",
+    "B": "ছোট ও অস্থায়ী",
+    "C": "বড় ও স্থায়ী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "কোষ ও টিস্যুর সম্পর্ক —",
+   "options": {
+    "A": "টিস্যু কোষের সমষ্টি",
+    "B": "কোনোটিই নয়",
+    "C": "সম্পর্কহীন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "টিস্যুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "ভাজক টিস্যু কাকে বলে?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বিভাজনক্ষম কোষের টিস্যু",
+    "C": "কোনোটিই নয়",
+    "D": "অবিভাজ্য কোষ"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "হাড় দেহকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কাঠামো ও সুরক্ষা দেয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "কোষ স্টেইন করার উদ্দেশ্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "স্পষ্ট দেখা"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "কোষপ্রাচীর —",
+   "options": {
+    "A": "কোষকে দৃঢ়তা দেয়",
+    "B": "কিছুই না",
+    "C": "নরম করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "মাইটোকন্ড্রিয়ায় —",
+   "options": {
+    "A": "সালোকসংশ্লেষণ ঘটে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সবাত শ্বসন ঘটে"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "টিস্যু গঠিত হয় —",
+   "options": {
+    "A": "একই ধরনের কোষে",
+    "B": "তন্ত্রে",
+    "C": "ভিন্ন অঙ্গে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "টিস্যুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "ফ্লোয়েম পরিবহণ করে —",
+   "options": {
+    "A": "খাদ্য",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পানি"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "রক্তের প্লাজমায় প্রোটিন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অ্যালবুমিন, গ্লোবুলিন"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "কোষ শব্দের অর্থ —",
+   "options": {
+    "A": "বড় ঘর",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ছোট কুঠুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "নিষ্ক্রিয় পরিবহণ —",
+   "options": {
+    "A": "শক্তি ছাড়া",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শক্তি লাগে"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "রাইবোজোম তৈরি হয় —",
+   "options": {
+    "A": "মাইটোকন্ড্রিয়ায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "নিউক্লিওলাসে"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "টিস্যু কালচারে —",
+   "options": {
+    "A": "অল্প সময়ে অনেক চারা",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "টিস্যুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "গ্রাউন্ড টিস্যুতন্ত্র —",
+   "options": {
+    "A": "সঞ্চয় ও ভরাট",
+    "B": "কোনোটিই নয়",
+    "C": "পরিবহণ",
+    "D": "সুরক্ষা"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "যোজক টিস্যুর কাজ —",
+   "options": {
+    "A": "সংকোচন",
+    "B": "কোনোটিই নয়",
+    "C": "সংযোগ, সুরক্ষা, পরিবহণ",
+    "D": "আবেগ পরিবহণ"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "কোষ বিভাজনের সময় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "নিউক্লিয়াস ও সাইটোপ্লাজম ভাগ হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "সাইটোপ্লাজম —",
+   "options": {
+    "A": "গ্যাস",
+    "B": "জেলির মতো",
+    "C": "কঠিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "ভ্যাকুওল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ছোট (উদ্ভিদে)",
+    "C": "কোনোটিই নয়",
+    "D": "কোষে বড় (উদ্ভিদে)"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "টিস্যু কালচার —",
+   "options": {
+    "A": "টিস্যু থেকে নতুন উদ্ভিদ",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "টিস্যুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "পত্ররন্ধ্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "বাষ্পমোচনে সাহায্য করে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "স্নায়ু টিস্যু কাকে বলে?",
+   "options": {
+    "A": "পেশির টিস্যু",
+    "B": "আবরণী টিস্যু",
+    "C": "কোনোটিই নয়",
+    "D": "স্নায়ুকোষের টিস্যু"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "কোষবিজ্ঞান চিকিৎসায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নেই",
+    "C": "গুরুত্বপূর্ণ",
+    "D": "অগুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "কোষের ঝিল্লি প্রোটিন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পরিবহণে সাহায্য করে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "কোষের প্রতিটি অঙ্গাণু —",
+   "options": {
+    "A": "কাজহীন",
+    "B": "নির্দিষ্ট কাজে নিয়োজিত",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "বায়োপসি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "টিস্যু পরীক্ষা",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "টিস্যুর ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "ট্রাকিড ও ভেসেল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জাইলেমের কোষ",
+    "C": "কিছুই না",
+    "D": "ফ্লোয়েমের কোষ"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "দেহের নড়াচড়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "হাড়ে শুধু",
+    "D": "পেশির সংকোচনে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "কোষ তত্ত্বের প্রবক্তা —",
+   "options": {
+    "A": "হুক",
+    "B": "শ্লাইডেন ও শোয়ান",
+    "C": "ডারউইন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "নিউক্লিয়ার ঝিল্লিতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "থাকে না",
+    "C": "ছিদ্র থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "ক্রিস্টি —",
+   "options": {
+    "A": "মাইটোকন্ড্রিয়ার ভাঁজ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ক্লোরোপ্লাস্টের"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "স্থায়ী টিস্যু কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বিভাজ্য কোষ",
+    "C": "বিভাজনক্ষমতা হারানো কোষের টিস্যু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "ফুসফুসের আবরণী —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সরল",
+    "C": "কোনোটিই নয়",
+    "D": "স্তরীভূত"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "জীবকোষ ও টিস্যু অধ্যায়ের মৌলিক বিষয় —",
+   "options": {
+    "A": "শব্দ",
+    "B": "কোষের গঠন ও টিস্যুর প্রকার",
+    "C": "গতি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "কোষপ্রাচীর ও কোষঝিল্লির পার্থক্য —",
+   "options": {
+    "A": "ভেদ্যতা ও গঠনে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "ক্রোমোপ্লাস্ট —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "রঙিন প্লাস্টিড",
+    "D": "বর্ণহীন"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "ভেসেল —",
+   "options": {
+    "A": "খাদ্য পরিবহণে",
+    "B": "কিছুই না",
+    "C": "পানি পরিবহণে সাহায্য করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "রক্তের কাজ —",
+   "options": {
+    "A": "সংকোচন",
+    "B": "কোনোটিই নয়",
+    "C": "অক্সিজেন ও পুষ্টি পরিবহণ",
+    "D": "আবেগ"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "কোষের গুরুত্ব —",
+   "options": {
+    "A": "জড়ের ভিত্তি",
+    "B": "কিছুই না",
+    "C": "জীবনের ভিত্তি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "ক্রোমোজোম —",
+   "options": {
+    "A": "শুধু প্রোটিন",
+    "B": "DNA ও প্রোটিন দিয়ে গঠিত",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু লিপিড"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "ভ্যাকুওলের রস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কোষ রস (cell sap)",
+    "D": "সাইটোসল"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "পত্ররন্ধ্র (stomata) —",
+   "options": {
+    "A": "খাদ্য তৈরি",
+    "B": "কোনোটিই নয়",
+    "C": "গ্যাস বিনিময়ে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "নিউরনের অংশ —",
+   "options": {
+    "A": "কোষদেহ, ডেনড্রাইট, অ্যাক্সন",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু কোষদেহ"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "এককোষী জীবে সব কাজ —",
+   "options": {
+    "A": "অনেক কোষে",
+    "B": "এক কোষে হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "কোষঝিল্লি অর্ধভেদ্য —",
+   "options": {
+    "A": "না",
+    "B": "হ্যাঁ (নির্বাচনী)",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "বাইরের জীবাণু কোষে ঢুকলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "লাইসোজোম ধ্বংস করে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "স্ক্লেরেনকাইমা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "নরম",
+    "D": "কঠিন, পুরু প্রাচীর"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "স্নায়ু টিস্যু গঠন করে —",
+   "options": {
+    "A": "মস্তিষ্ক, সুষুম্না কাণ্ড",
+    "B": "হাড়",
+    "C": "কোনোটিই নয়",
+    "D": "পেশি"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "এককোষী জীবের বংশবৃদ্ধি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোষ বিভাজনে",
+    "C": "কোনোটিই নয়",
+    "D": "যৌন জননে শুধু"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "নিউক্লিয়াস কাকে বলে?",
+   "options": {
+    "A": "কোষের আবরণ",
+    "B": "কোষের নিয়ন্ত্রণ কেন্দ্র",
+    "C": "কোষের খাদ্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "লিউকোপ্লাস্ট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "রঙিন",
+    "D": "বর্ণহীন, খাদ্য সঞ্চয়"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "রক্ষীকোষ (guard cell) —",
+   "options": {
+    "A": "পত্ররন্ধ্র খোলা-বন্ধ করে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "গ্রন্থি আবরণী —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষরণ করে",
+    "D": "সংকোচন করে"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "কোষের বিশেষায়ন —",
+   "options": {
+    "A": "টিস্যু গঠনের ভিত্তি",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "অভিস্রবণ (Osmosis) —",
+   "options": {
+    "A": "ঝিল্লি দিয়ে পানি চলাচল",
+    "B": "কিছুই না",
+    "C": "লবণ চলাচল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "ভ্যাকুওল আবৃত থাকে —",
+   "options": {
+    "A": "কোষপ্রাচীরে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "টোনোপ্লাস্ট ঝিল্লিতে"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "টিস্যুতন্ত্র কাকে বলে?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "এক কোষ",
+    "C": "একাধিক টিস্যুর সমন্বিত গঠন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "বক্ষপিঞ্জর —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ফুসফুস ও হৃৎপিণ্ড রক্ষা করে",
+    "D": "মস্তিষ্ক"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "কোষের আকার —",
+   "options": {
+    "A": "মিটারে",
+    "B": "মাইক্রোমিটারে মাপা হয়",
+    "C": "কিলোমিটারে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "কোষের সক্রিয় পরিবহণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শক্তি (ATP) লাগে",
+    "D": "লাগে না"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "প্লাস্টিড থাকে —",
+   "options": {
+    "A": "উদ্ভিদ কোষে",
+    "B": "প্রাণী কোষে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "পার্শ্বীয় ভাজক টিস্যু —",
+   "options": {
+    "A": "কাণ্ডের পরিধিতে",
+    "B": "ডগায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "লিগামেন্ট —",
+   "options": {
+    "A": "পেশি-হাড়",
+    "B": "কোনোটিই নয়",
+    "C": "হাড়ের সাথে হাড় যুক্ত করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "কোষ কাকে বলে?",
+   "options": {
+    "A": "জড়ের একক",
+    "B": "কোনোটিই নয়",
+    "C": "জীবের গঠনগত ও কার্যগত একক",
+    "D": "খনিজের একক"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "ক্রোমাটিন —",
+   "options": {
+    "A": "ক্রোমোজোমের উপাদান",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শক্তিঘর"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "প্রাণী কোষে ক্লোরোপ্লাস্ট না থাকায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "খাদ্য নিজে তৈরি পারে না",
+    "D": "পারে"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "স্থায়ী টিস্যুর প্রকার —",
+   "options": {
+    "A": "শুধু জটিল",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু সরল",
+    "D": "সরল ও জটিল"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "অণুচক্রিকা —",
+   "options": {
+    "A": "অক্সিজেন বহন করে",
+    "B": "কোনোটিই নয়",
+    "C": "জীবাণু ধ্বংস করে",
+    "D": "রক্ত জমাটে সাহায্য করে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "১ মাইক্রোমিটার = ?",
+   "options": {
+    "A": "১০⁻৯ মিটার",
+    "B": "কোনোটিই নয়",
+    "C": "১০⁻³ মিটার",
+    "D": "১০⁻⁶ মিটার"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "নিউক্লিয়ার ছিদ্র দিয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পদার্থ যাতায়াত করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "লিউকোপ্লাস্টের কাজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "স্টার্চ সঞ্চয়",
+    "C": "রং তৈরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "বাষ্পমোচন ঘটে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পাতার রন্ধ্রে",
+    "C": "মূলে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "আবরণী টিস্যুর উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ত্বক, অন্ত্রের আবরণ",
+    "C": "পেশি",
+    "D": "হাড়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "কোষের বয়স বৃদ্ধি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোষের ক্ষয় ঘটায়"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "কোষপ্রাচীর সম্পূর্ণ ভেদ্য —",
+   "options": {
+    "A": "না",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "হ্যাঁ"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "কোষের প্লাস্টিড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু ক্লোরোপ্লাস্ট",
+    "C": "ক্লোরোপ্লাস্ট, ক্রোমোপ্লাস্ট, লিউকোপ্লাস্ট",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "বাঁশ দ্রুত লম্বা হয় —",
+   "options": {
+    "A": "ইন্টারক্যালারি ভাজকে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "টেন্ডন —",
+   "options": {
+    "A": "হাড়-হাড়",
+    "B": "কিছুই না",
+    "C": "পেশির সাথে হাড় যুক্ত করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "কোষ বিভাজন অধ্যায়ের সাথে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সম্পর্কিত",
+    "D": "সম্পর্কহীন"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "নিউক্লিয়াস আবৃত থাকে —",
+   "options": {
+    "A": "নিউক্লিয়ার ঝিল্লিতে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "কোষপ্রাচীরে"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "লাইসোজোমে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পাচক এনজাইম থাকে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "সিভ নল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পানি পরিবহণে",
+    "D": "খাদ্য পরিবহণে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "অ্যাক্সন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "আবেগ বহন করে পাঠায়",
+    "C": "গ্রহণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "কোষের সমন্বিত কার্যক্রম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "জীবন ধারণ করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "নিউক্লিয়াসের রস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিউক্লিওপ্লাজম",
+    "C": "কিছুই না",
+    "D": "সাইটোসল"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "পানি কমে গেলে উদ্ভিদ —",
+   "options": {
+    "A": "ঢলে পড়ে (wilting)",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "প্যারেনকাইমা —",
+   "options": {
+    "A": "পরিবহণ টিস্যু",
+    "B": "কোনোটিই নয়",
+    "C": "সাধারণ কোষের টিস্যু",
+    "D": "কঠিন টিস্যু"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "তরুণাস্থি —",
+   "options": {
+    "A": "পেশি",
+    "B": "কঠিন",
+    "C": "নমনীয় যোজক টিস্যু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "জীবকোষ ও টিস্যু —",
+   "options": {
+    "A": "ঐচ্ছিক",
+    "B": "জীববিজ্ঞানের ভিত্তি",
+    "C": "কোনোটিই নয়",
+    "D": "অগুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "কোষঝিল্লি দিয়ে —",
+   "options": {
+    "A": "পানি ও গ্যাস সহজে যায়",
+    "B": "শুধু রং",
+    "C": "কিছুই যায় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "কোষের পরিবহণ ব্যবস্থা —",
+   "options": {
+    "A": "নিউক্লিয়াস",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ER"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "ফ্লোয়েমের কোষ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "সিভ নল, সঙ্গী কোষ"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "মস্তিষ্ক, সুষুম্না, স্নায়ু —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পেশিতন্ত্র",
+    "D": "স্নায়ুতন্ত্র গঠন করে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "কোষ মাপা হয় —",
+   "options": {
+    "A": "মাইক্রোমিটারে",
+    "B": "কিছুই না",
+    "C": "মিটারে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "DNA এর কাজ —",
+   "options": {
+    "A": "শক্তি উৎপাদন",
+    "B": "কোনোটিই নয়",
+    "C": "বংশগত তথ্য ধারণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "প্রাণী কোষে ভ্যাকুওল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বড়",
+    "C": "কোনোটিই নয়",
+    "D": "ছোট বা অনুপস্থিত"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "উদ্ভিদের টিস্যুতন্ত্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু এক",
+    "C": "ত্বক, ভাস্কুলার, গ্রাউন্ড",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "স্নায়ু আবেগের একক —",
+   "options": {
+    "A": "মায়োসাইট",
+    "B": "নেফ্রন",
+    "C": "নিউরন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "সবচেয়ে বড় কোষ —",
+   "options": {
+    "A": "উটপাখির ডিম",
+    "B": "নিউরন",
+    "C": "কোনোটিই নয়",
+    "D": "ব্যাকটেরিয়া"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "প্রাণী কোষে কোষপ্রাচীর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "থাকে",
+    "C": "থাকে না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "ATP তৈরি হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মাইটোকন্ড্রিয়ায়",
+    "C": "নিউক্লিয়াসে",
+    "D": "রাইবোজোমে"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "সিভ নল ও সঙ্গী কোষ —",
+   "options": {
+    "A": "জাইলেমের কোষ",
+    "B": "ফ্লোয়েমের কোষ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "স্নায়ু টিস্যু দেহকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিয়ন্ত্রণ ও সমন্বয় করে",
+    "C": "কিছুই না",
+    "D": "সংকোচন করে"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "বহুকোষী জীবে দক্ষতা —",
+   "options": {
+    "A": "কম",
+    "B": "কোনোটিই নয়",
+    "C": "সমান",
+    "D": "বেশি"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "সাইটোপ্লাজমে থাকে —",
+   "options": {
+    "A": "অঙ্গাণু ও তরল",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু পানি"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "সেন্ট্রিওল কোষ বিভাজনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "স্পিন্ডল তৈরি করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "ক্লোরেনকাইমা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ক্লোরোফিলযুক্ত প্যারেনকাইমা",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "স্নায়ু টিস্যুর কাজ —",
+   "options": {
+    "A": "সংকোচন",
+    "B": "সুরক্ষা",
+    "C": "কোনোটিই নয়",
+    "D": "আবেগ/উদ্দীপনা পরিবহণ"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "কোষের রং করার জন্য —",
+   "options": {
+    "A": "রঞ্জক/স্টেইন ব্যবহৃত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "সাইটোপ্লাজমে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই থাকে না",
+    "C": "কোনোটিই নয়",
+    "D": "অঙ্গাণু থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "কোষের শক্তিঘর —",
+   "options": {
+    "A": "রাইবোজোম",
+    "B": "কোনোটিই নয়",
+    "C": "মাইটোকন্ড্রিয়া",
+    "D": "গলগি"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "ভাজক টিস্যু থাকে —",
+   "options": {
+    "A": "মূল ও কাণ্ডের অগ্রভাগে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পাতায় শুধু"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "মস্তিষ্ক ও হৃৎপিণ্ড রক্ষা করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ত্বক",
+    "C": "হাড় (করোটি, বক্ষপিঞ্জর)",
+    "D": "পেশি"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "কোষ বিভাজন ক্ষত —",
+   "options": {
+    "A": "বাড়ায়",
+    "B": "সারায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "কোষে পদার্থের প্রবেশ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ঝিল্লি নিয়ন্ত্রণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "রাতে উদ্ভিদ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু শ্বসন করে",
+    "C": "কোনোটিই নয়",
+    "D": "সালোকসংশ্লেষণ করে"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "বাষ্পমোচন —",
+   "options": {
+    "A": "পরিবহণে সাহায্য করে",
+    "B": "কিছুই না",
+    "C": "বাধা দেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "যোজক টিস্যুর উদাহরণ —",
+   "options": {
+    "A": "ত্বক",
+    "B": "পেশি",
+    "C": "রক্ত, হাড়, তরুণাস্থি, চর্বি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "সবচেয়ে ছোট কোষ —",
+   "options": {
+    "A": "নিউরন",
+    "B": "কোনোটিই নয়",
+    "C": "মাইকোপ্লাজমা",
+    "D": "ডিম"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "সাইটোপ্লাজম কাকে বলে?",
+   "options": {
+    "A": "ঝিল্লি ও নিউক্লিয়াসের মধ্যবর্তী অংশ",
+    "B": "ঝিল্লি",
+    "C": "নিউক্লিয়াস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "কোষের প্রোটিন কারখানা —",
+   "options": {
+    "A": "গলগি",
+    "B": "রাইবোজোম",
+    "C": "মাইটোকন্ড্রিয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "কোলেনকাইমা থাকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কচি কাণ্ড ও পত্রবৃন্তে",
+    "C": "কোনোটিই নয়",
+    "D": "মূলে শুধু"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "তরুণাস্থির কোষ —",
+   "options": {
+    "A": "অস্টিওসাইট",
+    "B": "কোনোটিই নয়",
+    "C": "কনড্রোসাইট",
+    "D": "নিউরন"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "কোষবিদ্যার গুরুত্ব —",
+   "options": {
+    "A": "জড় বুঝতে",
+    "B": "জীবন বুঝতে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "প্রাণী কোষ ঝিল্লির বাইরে —",
+   "options": {
+    "A": "থাকে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কোষপ্রাচীর থাকে না"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "মাইটোকন্ড্রিয়ার ভেতরের ভাঁজ —",
+   "options": {
+    "A": "ক্রিস্টি",
+    "B": "থাইলাকয়েড",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "প্যারেনকাইমায় —",
+   "options": {
+    "A": "থাকে না",
+    "B": "আন্তঃকোষীয় ফাঁক থাকে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "সরল আবরণী —",
+   "options": {
+    "A": "অনেক স্তর",
+    "B": "এক স্তরের কোষ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "ক্ষত নিরাময়ে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কোষ বিভাজন",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "কোষপ্রাচীর থাকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রাণী কোষে",
+    "C": "কিছুই না",
+    "D": "উদ্ভিদ কোষে"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "গলগি বস্তু বেশি থাকে —",
+   "options": {
+    "A": "ক্ষরণকারী কোষে",
+    "B": "কোনোটিই নয়",
+    "C": "সব কোষে সমান",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "জাইলেমের কোষ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ট্রাকিড, ভেসেল, তন্তু"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "হিমোগ্লোবিন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অক্সিজেনের সাথে যুক্ত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "কোষ আবিষ্কৃত হয় —",
+   "options": {
+    "A": "১৯০০ সালে",
+    "B": "১৮৩৮ সালে",
+    "C": "১৬৬৫ সালে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "কোষঝিল্লি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোষকে ঘিরে রাখে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "সেন্ট্রিওল থাকে —",
+   "options": {
+    "A": "উদ্ভিদ কোষে",
+    "B": "কোনোটিই নয়",
+    "C": "প্রাণী কোষে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "ভাস্কুলার টিস্যুতন্ত্র —",
+   "options": {
+    "A": "সুরক্ষা দেয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পরিবহণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "ঘামগ্রন্থি —",
+   "options": {
+    "A": "আবরণী থেকে তৈরি",
+    "B": "পেশি থেকে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "কোষ দেখতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অণুবীক্ষণ যন্ত্র লাগে",
+    "D": "খালি চোখেই হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "নির্বাচনীভাবে ভেদ্য ঝিল্লি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কিছু পদার্থ যেতে দেয়",
+    "C": "সবকিছু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "রাইবোজোম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শক্তি উৎপাদন করে",
+    "C": "প্রোটিন সংশ্লেষণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "এরেনকাইমা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "বায়ুফাঁকযুক্ত প্যারেনকাইমা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "হাড়ের কাজ —",
+   "options": {
+    "A": "আবেগ",
+    "B": "সংকোচন",
+    "C": "কাঠামো ও সুরক্ষা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "বহুকোষী জীবে কাজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কোষে বিভক্ত",
+    "D": "এক কোষে"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "নিউক্লিয়াসের ভেতরে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নিউক্লিওলাস থাকে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "গলগি বস্তুর গঠন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "চ্যাপ্টা থলির স্তূপ",
+    "D": "গোলক"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "স্থায়ী টিস্যুর কোষ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বিভাজিত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "বিভাজিত হয় না"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "চর্বি টিস্যু —",
+   "options": {
+    "A": "শক্তি সঞ্চয় ও অন্তরণ",
+    "B": "আবেগ",
+    "C": "কোনোটিই নয়",
+    "D": "সংকোচন"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "কোষ তত্ত্ব অনুযায়ী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সব জীব কোষ দিয়ে গঠিত",
+    "C": "জীব কোষহীন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "ব্যাপন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শক্তি ছাড়া ঘটে",
+    "C": "শক্তি লাগে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "উদ্ভিদ কোষে শ্বসন ঘটে —",
+   "options": {
+    "A": "ক্লোরোপ্লাস্টে",
+    "B": "কোনোটিই নয়",
+    "C": "নিউক্লিয়াসে",
+    "D": "মাইটোকন্ড্রিয়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "কোলেনকাইমা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পাতলা প্রাচীর",
+    "C": "কোণযুক্ত পুরু প্রাচীর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "লোহিত কণিকার আয়ু —",
+   "options": {
+    "A": "১ দিন",
+    "B": "প্রায় ১২০ দিন",
+    "C": "কোনোটিই নয়",
+    "D": "১ বছর"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "কোষ পর্যবেক্ষণে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "স্লাইড তৈরি করা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "অভিস্রবণ —",
+   "options": {
+    "A": "সাধারণ ঝিল্লি",
+    "B": "কিছুই না",
+    "C": "অর্ধভেদ্য ঝিল্লি দিয়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "মসৃণ ER-এ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "থাকে",
+    "C": "কোনোটিই নয়",
+    "D": "রাইবোজোম থাকে না"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "ত্বক টিস্যুতন্ত্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পরিবহণ করে",
+    "C": "সুরক্ষা দেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "পেশি + হাড় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "নড়াচড়ায় যৌথভাবে কাজ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "রোগ নির্ণয়ে কোষ পরীক্ষা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সাহায্য করে",
+    "D": "করে না"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "কোষের আত্মরক্ষা —",
+   "options": {
+    "A": "ঝিল্লি ও লাইসোজোমে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "কোষ বিভাজনের কেন্দ্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভ্যাকুওল",
+    "C": "সেন্ট্রিওল",
+    "D": "গলগি"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "ফ্লোয়েমের কাজ —",
+   "options": {
+    "A": "খাদ্য পরিবহণ",
+    "B": "পানি পরিবহণ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "মেরুদণ্ড —",
+   "options": {
+    "A": "সুষুম্না কাণ্ড রক্ষা করে",
+    "B": "মস্তিষ্ক",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "কোষ তত্ত্ব —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "নতুন কোষ পুরনো কোষ থেকে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "কোষের নিয়ন্ত্রণ কেন্দ্র —",
+   "options": {
+    "A": "ঝিল্লি",
+    "B": "নিউক্লিয়াস",
+    "C": "কোনোটিই নয়",
+    "D": "সাইটোপ্লাজম"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "অমসৃণ ER-এ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "রাইবোজোম লাগানো থাকে",
+    "D": "থাকে না"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "কিউটিকল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পানি রোধী স্তর",
+    "C": "পরিবহণ স্তর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "হিমোগ্লোবিনে —",
+   "options": {
+    "A": "লোহা থাকে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ম্যাগনেসিয়াম"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "জীবের গঠনগত একক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কোষ",
+    "C": "পরমাণু",
+    "D": "অণু"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "কোষঝিল্লির অন্য নাম —",
+   "options": {
+    "A": "কোষপ্রাচীর",
+    "B": "নিউক্লিয়ার ঝিল্লি",
+    "C": "কোনোটিই নয়",
+    "D": "প্লাজমা ঝিল্লি"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "এন্ডোপ্লাজমিক রেটিকুলাম (ER) —",
+   "options": {
+    "A": "পদার্থ পরিবহণে সাহায্য করে",
+    "B": "শক্তি উৎপাদন করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "উদ্ভিদের ভাজক টিস্যুর প্রকার —",
+   "options": {
+    "A": "অগ্রস্থ, পার্শ্বীয়, ইন্টারক্যালারি",
+    "B": "কোনোটিই নয়",
+    "C": "দুই",
+    "D": "শুধু এক"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "স্তরীভূত আবরণী —",
+   "options": {
+    "A": "এক স্তর",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অনেক স্তরের কোষ"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "মানুষের সবচেয়ে ছোট কোষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুক্রাণু",
+    "C": "নিউরন",
+    "D": "ডিম্বাণু"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "সক্রিয় পরিবহণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উচ্চ থেকে নিম্নে",
+    "C": "কিছুই না",
+    "D": "নিম্ন থেকে উচ্চ ঘনত্বে"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "ATP উৎপন্ন হয় —",
+   "options": {
+    "A": "মাইটোকন্ড্রিয়ায়",
+    "B": "নিউক্লিয়াসে",
+    "C": "কোনোটিই নয়",
+    "D": "রাইবোজোমে"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "জাইলেমের কাজ —",
+   "options": {
+    "A": "খাদ্য পরিবহণ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পানি ও খনিজ লবণ ঊর্ধ্বমুখী পরিবহণ"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "অনৈচ্ছিক পেশি থাকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হাত-পায়ে",
+    "C": "কোনোটিই নয়",
+    "D": "অন্ত্র, রক্তনালিতে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "মানুষের সবচেয়ে বড় কোষ —",
+   "options": {
+    "A": "ডিম্বাণু",
+    "B": "কোনোটিই নয়",
+    "C": "নিউরন",
+    "D": "শুক্রাণু"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "প্রোটিন সংশ্লেষণের স্থান —",
+   "options": {
+    "A": "মাইটোকন্ড্রিয়া",
+    "B": "গলগি",
+    "C": "রাইবোজোম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "ইন্টারক্যালারি ভাজক থাকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ঘাস, বাঁশে",
+    "D": "আম গাছে শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "আবরণী টিস্যুর কোষ —",
+   "options": {
+    "A": "ঘন সাজানো",
+    "B": "ছড়ানো",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "লোহিত রক্তকণিকা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সংকোচন করে",
+    "C": "কোনোটিই নয়",
+    "D": "অক্সিজেন বহন করে"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "কোষের আত্মঘাতী থলি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লাইসোজোম",
+    "C": "গলগি",
+    "D": "ভ্যাকুওল"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "স্ক্লেরেনকাইমা থাকে —",
+   "options": {
+    "A": "কচি পাতায়",
+    "B": "কোনোটিই নয়",
+    "C": "বীজের খোসা, নারিকেলের খোসায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "মানুষের সবচেয়ে দীর্ঘ কোষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পেশি কোষ",
+    "C": "লোহিত কণিকা",
+    "D": "স্নায়ুকোষ (নিউরন)"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "কোষ মৃত্যু —",
+   "options": {
+    "A": "অস্বাভাবিক শুধু",
+    "B": "স্বাভাবিক প্রক্রিয়া",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "ক্লোরোপ্লাস্টের ভেতরের স্তর —",
+   "options": {
+    "A": "ক্রিস্টি",
+    "B": "থাইলাকয়েড",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "বাষ্পমোচনের সুবিধা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পানি টানা ও শীতলীকরণ",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "আবরণী টিস্যুর কাজ —",
+   "options": {
+    "A": "পরিবহণ",
+    "B": "সুরক্ষা, শোষণ, ক্ষরণ",
+    "C": "কোনোটিই নয়",
+    "D": "সংকোচন"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "কোষ আবিষ্কার করেন —",
+   "options": {
+    "A": "মেন্ডেল",
+    "B": "ডারউইন",
+    "C": "কোনোটিই নয়",
+    "D": "রবার্ট হুক"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "ER দুই প্রকার —",
+   "options": {
+    "A": "শুধু অমসৃণ",
+    "B": "মসৃণ ও অমসৃণ",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু মসৃণ"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "পার্শ্বীয় ভাজক —",
+   "options": {
+    "A": "প্রস্থে বৃদ্ধি করে",
+    "B": "দৈর্ঘ্যে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "শ্বেত কণিকা —",
+   "options": {
+    "A": "রক্ত জমায়",
+    "B": "রোগ প্রতিরোধ করে",
+    "C": "অক্সিজেন বহন করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "সব জীবের দেহ —",
+   "options": {
+    "A": "কোষ দিয়ে গঠিত",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কোষহীন"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "লাইসোজোমকে বলে —",
+   "options": {
+    "A": "শক্তিঘর",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "আত্মঘাতী থলি"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "কোলেনকাইমার কাজ —",
+   "options": {
+    "A": "সঞ্চয়",
+    "B": "দৃঢ়তা প্রদান",
+    "C": "পরিবহণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "হাড়ের মজ্জায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রক্তকণিকা তৈরি হয়",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "বিশেষায়িত কোষের উদাহরণ —",
+   "options": {
+    "A": "স্নায়ুকোষ, পেশি কোষ, লোহিত কণিকা",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "কোষের অঙ্গাণু —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই করে না",
+    "C": "কোনোটিই নয়",
+    "D": "নির্দিষ্ট কাজ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "অগ্রস্থ ভাজক টিস্যু —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কাণ্ডের পাশে",
+    "C": "কোনোটিই নয়",
+    "D": "মূল ও কাণ্ডের ডগায়"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "পেশি কোষকে বলে —",
+   "options": {
+    "A": "অস্টিওসাইট",
+    "B": "নিউরন",
+    "C": "মায়োসাইট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "সেন্ট্রিওল —",
+   "options": {
+    "A": "কোষ বিভাজনে সাহায্য করে",
+    "B": "শক্তি উৎপাদনে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "এরেনকাইমা থাকে —",
+   "options": {
+    "A": "জলজ উদ্ভিদে",
+    "B": "কোনোটিই নয়",
+    "C": "মরু উদ্ভিদে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "পেশি টিস্যু নড়াচড়ায় —",
+   "options": {
+    "A": "সাহায্য করে",
+    "B": "বাধা দেয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "উদ্ভিদ কোষে সালোকসংশ্লেষণ ঘটে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্লোরোপ্লাস্টে",
+    "C": "মাইটোকন্ড্রিয়ায়",
+    "D": "নিউক্লিয়াসে"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "জাইলেম পরিবহণ করে —",
+   "options": {
+    "A": "খাদ্য",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পানি ও খনিজ লবণ"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "রক্তে লোহিত কণিকা তৈরি হয় —",
+   "options": {
+    "A": "ফুসফুসে",
+    "B": "অস্থিমজ্জায়",
+    "C": "হৃৎপিণ্ডে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "কোষের সঞ্চয় স্থান —",
+   "options": {
+    "A": "ভ্যাকুওল",
+    "B": "নিউক্লিয়াস",
+    "C": "কোনোটিই নয়",
+    "D": "রাইবোজোম"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "স্ক্লেরেনকাইমার কাজ —",
+   "options": {
+    "A": "পরিবহণ",
+    "B": "কোনোটিই নয়",
+    "C": "দৃঢ়তা ও শক্তি",
+    "D": "সঞ্চয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "অনৈচ্ছিক পেশিকে বলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কার্ডিয়াক",
+    "C": "মসৃণ পেশি",
+    "D": "রেখাঙ্কিত পেশি"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "রাইবোজোম দুই সাবইউনিটে —",
+   "options": {
+    "A": "গঠিত নয়",
+    "B": "কোনোটিই নয়",
+    "C": "গঠিত",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "অগ্রস্থ ভাজক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রস্থে",
+    "C": "কিছুই না",
+    "D": "দৈর্ঘ্যে বৃদ্ধি করে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "তরুণাস্থি থাকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হৃৎপিণ্ডে",
+    "C": "কিছুই না",
+    "D": "কান, নাক, জয়েন্টে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "কোষের বর্জ্য ব্যবস্থাপনা —",
+   "options": {
+    "A": "লাইসোজোমে",
+    "B": "কিছুই না",
+    "C": "নিউক্লিয়াসে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "ভাজক টিস্যুর কাজ —",
+   "options": {
+    "A": "সুরক্ষা",
+    "B": "পরিবহণ",
+    "C": "কোনোটিই নয়",
+    "D": "উদ্ভিদের বৃদ্ধি"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "হাড়ে থাকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্যালসিয়াম ও ফসফরাস",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু লোহা"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "ক্লোরোপ্লাস্টে —",
+   "options": {
+    "A": "হিমোগ্লোবিন",
+    "B": "কোনোটিই নয়",
+    "C": "ক্লোরোফিল থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "উদ্ভিদের পরিবহণ টিস্যু —",
+   "options": {
+    "A": "জাইলেম ও ফ্লোয়েম",
+    "B": "কোলেনকাইমা",
+    "C": "প্যারেনকাইমা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "ত্বকের আবরণী —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সরল",
+    "C": "কোনোটিই নয়",
+    "D": "স্তরীভূত"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "ক্লোরোফিল থাকে —",
+   "options": {
+    "A": "ক্রিস্টিতে",
+    "B": "থাইলাকয়েডে",
+    "C": "নিউক্লিয়াসে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "এপিডার্মিস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বাইরের আবরণ",
+    "D": "ভেতরের টিস্যু"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "করোটি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হৃৎপিণ্ড রক্ষা করে",
+    "C": "কিছুই না",
+    "D": "মস্তিষ্ক রক্ষা করে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "ক্লোরোপ্লাস্টে নিজস্ব DNA —",
+   "options": {
+    "A": "থাকে",
+    "B": "থাকে না",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "ভাজক টিস্যুর কোষ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পারে না",
+    "C": "কোনোটিই নয়",
+    "D": "বিভাজিত হতে পারে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "নিউরন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সবচেয়ে দীর্ঘ কোষ",
+    "C": "সবচেয়ে ছোট কোষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "স্পিন্ডল ফাইবার —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ক্রোমোজোম সরায়"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "মূলরোম —",
+   "options": {
+    "A": "পানি ও খনিজ শোষণ করে",
+    "B": "কিছুই না",
+    "C": "খাদ্য তৈরি করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "ত্বকের বাইরের স্তর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পেশি টিস্যু",
+    "C": "যোজক টিস্যু",
+    "D": "আবরণী টিস্যু"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "মাইটোকন্ড্রিয়ায় নিজস্ব DNA —",
+   "options": {
+    "A": "থাকে",
+    "B": "থাকে না",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "সরল টিস্যুর প্রকার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জাইলেম",
+    "C": "ফ্লোয়েম",
+    "D": "প্যারেনকাইমা, কোলেনকাইমা, স্ক্লেরেনকাইমা"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "ঐচ্ছিক পেশি থাকে —",
+   "options": {
+    "A": "হাত-পায়ে (কঙ্কাল পেশি)",
+    "B": "অন্ত্রে",
+    "C": "হৃৎপিণ্ডে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "ক্লোরোপ্লাস্ট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সালোকসংশ্লেষণে সাহায্য করে",
+    "D": "শ্বসনে"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "উদ্ভিদের বৃদ্ধি —",
+   "options": {
+    "A": "স্থায়ী টিস্যুতে",
+    "B": "কোনোটিই নয়",
+    "C": "ভাজক টিস্যুতে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদ টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "রক্ত —",
+   "options": {
+    "A": "আবরণী টিস্যু",
+    "B": "পেশি টিস্যু",
+    "C": "তরল যোজক টিস্যু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "গ্রানা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ক্রিস্টি",
+    "D": "থাইলাকয়েডের স্তূপ"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "স্নায়ু টিস্যুর গ্লিয়াল কোষ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "নিউরনকে সাহায্য করে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "সালোকসংশ্লেষণ ঘটে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিউক্লিয়াসে",
+    "C": "ক্লোরোপ্লাস্টে",
+    "D": "মাইটোকন্ড্রিয়ায়"
+   },
+   "correctAnswer": "C",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "অ্যান্টিবডি তৈরি করে —",
+   "options": {
+    "A": "শ্বেত কণিকা",
+    "B": "অণুচক্রিকা",
+    "C": "কোনোটিই নয়",
+    "D": "লোহিত কণিকা"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "উদ্ভিদ কোষ দিনে সালোকসংশ্লেষণ ও শ্বসন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দুটোই করে",
+    "C": "একটি করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "পেশি টিস্যুর প্রকার —",
+   "options": {
+    "A": "শুধু এক",
+    "B": "ঐচ্ছিক, অনৈচ্ছিক, কার্ডিয়াক",
+    "C": "কোনোটিই নয়",
+    "D": "দুই"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "ক্রোমোপ্লাস্টের কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "খাদ্য সঞ্চয়",
+    "D": "ফুল-ফলের রং"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "অস্থিমজ্জা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "রক্তকণিকা তৈরি করে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "কোষের শক্তি মুদ্রা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ATP",
+    "C": "DNA",
+    "D": "RNA"
+   },
+   "correctAnswer": "B",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "মায়েলিন আবরণ —",
+   "options": {
+    "A": "অ্যাক্সনকে আবৃত করে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "উদ্ভিদের সবুজ অংশ —",
+   "options": {
+    "A": "ক্লোরোপ্লাস্টের কারণে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "স্নায়ু আবেগ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "তড়িৎ-রাসায়নিক সংকেত"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "লাইসোজোম ফেটে গেলে —",
+   "options": {
+    "A": "কোষ ধ্বংস হয়",
+    "B": "উপকার",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "আবরণী টিস্যুর ভিত্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "বেসমেন্ট ঝিল্লির উপর"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "কোষের ঝিল্লিবদ্ধ অঙ্গাণু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "রাইবোজোম",
+    "D": "মাইটোকন্ড্রিয়া, ER, গলগি"
+   },
+   "correctAnswer": "D",
+   "topic": "কোষ অঙ্গাণু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "রক্ত জমাট বাঁধায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ক্ষত বন্ধ হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "প্রাণীর আবরণী টিস্যুর প্রকার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু স্তরীভূত",
+    "C": "শুধু সরল",
+    "D": "সরল ও স্তরীভূত"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "প্লাজমাতে থাকে —",
+   "options": {
+    "A": "শুধু পানি",
+    "B": "কোনোটিই নয়",
+    "C": "পানি, প্রোটিন, লবণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "পুরনো লোহিত কণিকা ধ্বংস হয় —",
+   "options": {
+    "A": "ফুসফুসে",
+    "B": "কোনোটিই নয়",
+    "C": "প্লীহা ও যকৃতে",
+    "D": "হৃৎপিণ্ডে"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "রক্ত জমাটে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লোহিত কণিকা",
+    "C": "শ্বেত কণিকা",
+    "D": "অণুচক্রিকা ও ফাইব্রিন"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "প্রতিবর্ত ক্রিয়া —",
+   "options": {
+    "A": "স্নায়ুতন্ত্রের দ্রুত সাড়া",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "প্রতিবর্ত ক্রিয়ায় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সুষুম্না কাণ্ড ভূমিকা রাখে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "স্নায়ু টিস্যু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শরীরের নিয়ন্ত্রণ করে",
+    "D": "সংকোচন করে"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "অনৈচ্ছিক পেশি —",
+   "options": {
+    "A": "ইচ্ছায় চলে",
+    "B": "ইচ্ছায় চালানো যায় না",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "পেশি টিস্যুর কাজ —",
+   "options": {
+    "A": "সংকোচন ও প্রসারণ",
+    "B": "আবেগ পরিবহণ",
+    "C": "সুরক্ষা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "সাইনাপস —",
+   "options": {
+    "A": "দুটি নিউরনের সংযোগস্থল",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "অনাক্রম্যতায় —",
+   "options": {
+    "A": "অণুচক্রিকা",
+    "B": "লোহিত কণিকা",
+    "C": "শ্বেত কণিকা ভূমিকা রাখে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "হাড়ের কোষ —",
+   "options": {
+    "A": "অস্টিওসাইট",
+    "B": "নিউরন",
+    "C": "কোনোটিই নয়",
+    "D": "মায়োসাইট"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "মস্তিষ্ক গঠিত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পেশি টিস্যুতে",
+    "C": "স্নায়ু টিস্যুতে",
+    "D": "হাড়ে"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "পেশি সংকোচনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "প্রোটিন (অ্যাক্টিন-মায়োসিন)"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "ডেনড্রাইট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আবেগ গ্রহণ করে",
+    "C": "কিছুই না",
+    "D": "আবেগ পাঠায়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "শ্বেত রক্তকণিকা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রক্ত জমায়",
+    "C": "জীবাণু ধ্বংস করে",
+    "D": "অক্সিজেন বহন করে"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "প্রাণী টিস্যুর প্রধান প্রকার —",
+   "options": {
+    "A": "দুই",
+    "B": "কোনোটিই নয়",
+    "C": "আবরণী, যোজক, পেশি, স্নায়ু",
+    "D": "শুধু এক"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "রক্তের কোষ —",
+   "options": {
+    "A": "শুধু লোহিত",
+    "B": "কোনোটিই নয়",
+    "C": "লোহিত, শ্বেত, অণুচক্রিকা",
+    "D": "শুধু শ্বেত"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "ঐচ্ছিক পেশি —",
+   "options": {
+    "A": "ইচ্ছায় নয়",
+    "B": "কিছুই না",
+    "C": "নিজের ইচ্ছায় চালানো যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "যোজক টিস্যু কাকে বলে?",
+   "options": {
+    "A": "আবরণী",
+    "B": "কোনোটিই নয়",
+    "C": "পেশি",
+    "D": "দেহের অংশ যুক্তকারী টিস্যু"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "রক্তে লোহিত কণিকায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হিমোগ্লোবিন",
+    "C": "কিছুই না",
+    "D": "ক্লোরোফিল"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "কার্ডিয়াক পেশি —",
+   "options": {
+    "A": "হৃৎপিণ্ডের পেশি",
+    "B": "হাতের পেশি",
+    "C": "অন্ত্রের পেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণী টিস্যু",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "B",
+  "2": "B",
+  "3": "B",
+  "4": "B",
+  "5": "D",
+  "6": "B",
+  "7": "C",
+  "8": "A",
+  "9": "D",
+  "10": "A",
+  "11": "C",
+  "12": "D",
+  "13": "C",
+  "14": "A",
+  "15": "D",
+  "16": "B",
+  "17": "C",
+  "18": "C",
+  "19": "C",
+  "20": "C",
+  "21": "C",
+  "22": "A",
+  "23": "D",
+  "24": "B",
+  "25": "A",
+  "26": "A",
+  "27": "C",
+  "28": "B",
+  "29": "B",
+  "30": "B",
+  "31": "B",
+  "32": "A",
+  "33": "A",
+  "34": "C",
+  "35": "D",
+  "36": "A",
+  "37": "A",
+  "38": "A",
+  "39": "D",
+  "40": "C",
+  "41": "C",
+  "42": "C",
+  "43": "A",
+  "44": "C",
+  "45": "C",
+  "46": "D",
+  "47": "B",
+  "48": "C",
+  "49": "C",
+  "50": "A",
+  "51": "B",
+  "52": "B",
+  "53": "B",
+  "54": "A",
+  "55": "D",
+  "56": "B",
+  "57": "A",
+  "58": "C",
+  "59": "A",
+  "60": "A",
+  "61": "D",
+  "62": "C",
+  "63": "A",
+  "64": "C",
+  "65": "C",
+  "66": "D",
+  "67": "B",
+  "68": "B",
+  "69": "B",
+  "70": "B",
+  "71": "A",
+  "72": "B",
+  "73": "D",
+  "74": "D",
+  "75": "D",
+  "76": "B",
+  "77": "A",
+  "78": "A",
+  "79": "A",
+  "80": "D",
+  "81": "A",
+  "82": "C",
+  "83": "B",
+  "84": "D",
+  "85": "B",
+  "86": "A",
+  "87": "A",
+  "88": "C",
+  "89": "D",
+  "90": "C",
+  "91": "C",
+  "92": "A",
+  "93": "B",
+  "94": "B",
+  "95": "B",
+  "96": "C",
+  "97": "C",
+  "98": "D",
+  "99": "A",
+  "100": "D",
+  "101": "C",
+  "102": "C",
+  "103": "C",
+  "104": "A",
+  "105": "B",
+  "106": "B",
+  "107": "D",
+  "108": "A",
+  "109": "D",
+  "110": "A",
+  "111": "A",
+  "112": "D",
+  "113": "D",
+  "114": "A",
+  "115": "D",
+  "116": "A",
+  "117": "A",
+  "118": "C",
+  "119": "B",
+  "120": "B",
+  "121": "D",
+  "122": "A",
+  "123": "D",
+  "124": "D",
+  "125": "C",
+  "126": "B",
+  "127": "B",
+  "128": "C",
+  "129": "B",
+  "130": "D",
+  "131": "B",
+  "132": "C",
+  "133": "A",
+  "134": "C",
+  "135": "B",
+  "136": "B",
+  "137": "A",
+  "138": "C",
+  "139": "C",
+  "140": "C",
+  "141": "C",
+  "142": "B",
+  "143": "C",
+  "144": "C",
+  "145": "A",
+  "146": "B",
+  "147": "B",
+  "148": "B",
+  "149": "D",
+  "150": "A",
+  "151": "B",
+  "152": "B",
+  "153": "D",
+  "154": "A",
+  "155": "C",
+  "156": "A",
+  "157": "A",
+  "158": "D",
+  "159": "C",
+  "160": "C",
+  "161": "B",
+  "162": "C",
+  "163": "A",
+  "164": "A",
+  "165": "C",
+  "166": "C",
+  "167": "A",
+  "168": "C",
+  "169": "D",
+  "170": "D",
+  "171": "D",
+  "172": "C",
+  "173": "B",
+  "174": "B",
+  "175": "B",
+  "176": "D",
+  "177": "D",
+  "178": "C",
+  "179": "A",
+  "180": "C",
+  "181": "C",
+  "182": "A",
+  "183": "B",
+  "184": "D",
+  "185": "B",
+  "186": "C",
+  "187": "B",
+  "188": "A",
+  "189": "C",
+  "190": "C",
+  "191": "B",
+  "192": "A",
+  "193": "D",
+  "194": "D",
+  "195": "D",
+  "196": "A",
+  "197": "C",
+  "198": "D",
+  "199": "C",
+  "200": "C",
+  "201": "A",
+  "202": "C",
+  "203": "B",
+  "204": "B",
+  "205": "B",
+  "206": "D",
+  "207": "A",
+  "208": "C",
+  "209": "C",
+  "210": "D",
+  "211": "A",
+  "212": "D",
+  "213": "C",
+  "214": "A",
+  "215": "C",
+  "216": "B",
+  "217": "D",
+  "218": "B",
+  "219": "A",
+  "220": "C",
+  "221": "C",
+  "222": "A",
+  "223": "B",
+  "224": "B",
+  "225": "C",
+  "226": "B",
+  "227": "D",
+  "228": "A",
+  "229": "B",
+  "230": "B",
+  "231": "C",
+  "232": "D",
+  "233": "A",
+  "234": "D",
+  "235": "D",
+  "236": "C",
+  "237": "B",
+  "238": "C",
+  "239": "D",
+  "240": "A",
+  "241": "C",
+  "242": "B",
+  "243": "C",
+  "244": "C",
+  "245": "C",
+  "246": "C",
+  "247": "B",
+  "248": "C",
+  "249": "D",
+  "250": "A",
+  "251": "B",
+  "252": "B",
+  "253": "D",
+  "254": "C",
+  "255": "B",
+  "256": "D",
+  "257": "C",
+  "258": "D",
+  "259": "C",
+  "260": "C",
+  "261": "C",
+  "262": "A",
+  "263": "C",
+  "264": "A",
+  "265": "A",
+  "266": "B",
+  "267": "B",
+  "268": "C",
+  "269": "B",
+  "270": "A",
+  "271": "B",
+  "272": "D",
+  "273": "A",
+  "274": "A",
+  "275": "D",
+  "276": "B",
+  "277": "D",
+  "278": "A",
+  "279": "D",
+  "280": "D",
+  "281": "A",
+  "282": "C",
+  "283": "C",
+  "284": "A",
+  "285": "D",
+  "286": "B",
+  "287": "C",
+  "288": "D",
+  "289": "B",
+  "290": "B",
+  "291": "C",
+  "292": "B",
+  "293": "D",
+  "294": "B",
+  "295": "A",
+  "296": "B",
+  "297": "A",
+  "298": "D",
+  "299": "B",
+  "300": "B",
+  "301": "A",
+  "302": "D",
+  "303": "D",
+  "304": "C",
+  "305": "A",
+  "306": "A",
+  "307": "A",
+  "308": "B",
+  "309": "D",
+  "310": "B",
+  "311": "A",
+  "312": "C",
+  "313": "C",
+  "314": "C",
+  "315": "D",
+  "316": "D",
+  "317": "A",
+  "318": "D",
+  "319": "B",
+  "320": "C",
+  "321": "A",
+  "322": "D",
+  "323": "B",
+  "324": "C",
+  "325": "D",
+  "326": "A",
+  "327": "D",
+  "328": "B",
+  "329": "D",
+  "330": "A",
+  "331": "D",
+  "332": "A",
+  "333": "D",
+  "334": "A",
+  "335": "C",
+  "336": "C",
+  "337": "C",
+  "338": "D",
+  "339": "D",
+  "340": "C",
+  "341": "A",
+  "342": "B",
+  "343": "B",
+  "344": "D",
+  "345": "D",
+  "346": "B",
+  "347": "A",
+  "348": "A",
+  "349": "D",
+  "350": "A",
+  "351": "D",
+  "352": "D",
+  "353": "C",
+  "354": "D",
+  "355": "C",
+  "356": "C",
+  "357": "D",
+  "358": "A",
+  "359": "D",
+  "360": "C",
+  "361": "B",
+  "362": "A",
+  "363": "A",
+  "364": "C",
+  "365": "A",
+  "366": "C",
+  "367": "D",
+  "368": "B",
+  "369": "C",
+  "370": "C",
+  "371": "C",
+  "372": "C",
+  "373": "D",
+  "374": "B",
+  "375": "A"
+ }
+}
