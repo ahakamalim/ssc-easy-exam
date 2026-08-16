@@ -1,0 +1,7134 @@
+{
+ "subject": "জীববিজ্ঞান",
+ "chapterNo": 7,
+ "chapter": "গ্যাসীয় বিনিময়",
+ "questions": [
+  {
+   "question": "গ্যাসীয় বিনিময় —",
+   "options": {
+    "A": "জীবনধারণের মৌলিক প্রক্রিয়া",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "দিনে রন্ধ্র খোলা — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সালোকসংশ্লেষণে CO₂ দরকার",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "পাখির বায়ুথলির সংখ্যা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "একাধিক",
+    "C": "কোনোটিই নয়",
+    "D": "একটি"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "শ্বাসযন্ত্রের অঙ্গসমূহ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নাক, গলবিল, স্বরযন্ত্র, শ্বাসনালি, ফুসফুস",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "পর্বতারোহীরা —",
+   "options": {
+    "A": "অক্সিজেন সিলিন্ডার নেয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "প্রশ্বাসে CO₂ প্রমাণ —",
+   "options": {
+    "A": "চুনের পানি ঘোলা হয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "সর্দিতে নাক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বন্ধ হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "গ্যাসীয় বিনিময়ের গুরুত্ব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শক্তি উৎপাদনে",
+    "C": "কিছুই না",
+    "D": "খাদ্য তৈরিতে শুধু"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "রক্ষীকোষ ফুললে রন্ধ্র —",
+   "options": {
+    "A": "খোলে",
+    "B": "কিছুই না",
+    "C": "বন্ধ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "পানিতে বায়ুচলাচল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "কমায়",
+    "D": "O₂ বাড়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "বাম ফুসফুসে খণ্ড —",
+   "options": {
+    "A": "৪টি",
+    "B": "২টি",
+    "C": "৩টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "ক্লান্তি বা ঘুমে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হাই তোলা হয়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "অভ্যন্তরীণ শ্বসন ঘটে —",
+   "options": {
+    "A": "অ্যালভিওলাসে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "টিস্যু কোষে"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "COVID-19 —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "শ্বসনতন্ত্রের ভাইরাসজনিত রোগ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "গ্যাস বিনিময় পৃষ্ঠ আর্দ্র — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "গ্যাস দ্রবীভূত হতে হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "দিনে উদ্ভিদ —",
+   "options": {
+    "A": "শুধু শ্বসন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সালোকসংশ্লেষণ ও শ্বসন দুটোই করে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "ব্যাঙের ত্বক শ্বসনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাধা দেয়",
+    "C": "কিছুই না",
+    "D": "সাহায্য করে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "স্বরযন্ত্র (ল্যারিংক্স) —",
+   "options": {
+    "A": "খাদ্য হজমের",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শব্দ তৈরির অঙ্গ"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "শ্বাস নেওয়ার সময় মুখের বদলে নাক —",
+   "options": {
+    "A": "খারাপ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ভালো"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "শ্বসন (respiration) —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কোষে শক্তি উৎপাদন",
+    "C": "বাতাস ঢোকা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "নাক বন্ধ হলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "মুখ দিয়ে শ্বাস নিতে হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "O₂ ও CO₂ চলাচল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উচ্চ থেকে নিম্ন ঘনত্বে",
+    "C": "নিম্ন থেকে উচ্চে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "জলাবদ্ধতায় মূলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "O₂ পৌঁছায় না",
+    "C": "বেশি পৌঁছায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "পোকার শ্বসন —",
+   "options": {
+    "A": "ফুলকায়",
+    "B": "ট্রাকিয়ায়",
+    "C": "ফুসফুসে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "শ্বাসনালি বিভক্ত হয়ে —",
+   "options": {
+    "A": "ব্রঙ্কাস হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অ্যালভিওলাস হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "ব্যায়ামে শ্বাস হার —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "কোষীয় শ্বসনে উৎপন্ন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "O₂",
+    "C": "কিছুই না",
+    "D": "CO₂, পানি, শক্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "শ্বাসের শব্দ —",
+   "options": {
+    "A": "রোগ নির্ণয়ে সাহায্য করে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "ঘনত্ব পার্থক্য বাড়লে বিনিময় —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কমে"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "কচুরিপানার ভাসা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "এরেনকাইমার বায়ুফাঁকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "সাপের শ্বসন —",
+   "options": {
+    "A": "ফুসফুসে",
+    "B": "কোনোটিই নয়",
+    "C": "ফুলকায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "সিলিয়ার কাজ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ময়লা উপরে ঠেলে তোলা"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "শ্বাসত্যাগে বুক —",
+   "options": {
+    "A": "সংকুচিত হয়",
+    "B": "প্রসারিত হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "টিস্যুতে O₂ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "হিমোগ্লোবিন থেকে ছাড়া হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "তাজা বাতাসে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফুসফুস ভালো থাকে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "O₂ ফুসফুস থেকে রক্তে যায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সক্রিয় পরিবহণে",
+    "C": "ব্যাপনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "দিনে উদ্ভিদ নিট —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "CO₂ গ্রহণ ও O₂ নির্গত করে",
+    "C": "O₂ গ্রহণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "ফুলকার গঠন —",
+   "options": {
+    "A": "পুরু",
+    "B": "পাতলা ঝিল্লি ও রক্তজালিকা সমৃদ্ধ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "ফুসফুসের অবস্থান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পেটে",
+    "C": "কোনোটিই নয়",
+    "D": "বক্ষগহ্বরে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "শ্বাসগ্রহণে পাঁজর —",
+   "options": {
+    "A": "নিচে নামে",
+    "B": "কিছুই না",
+    "C": "উপরে ও বাইরে ওঠে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "গ্যাস বিনিময় ছাড়া —",
+   "options": {
+    "A": "কোষ শক্তি পায় না",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পায়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "যক্ষ্মা প্রতিরোধ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "BCG টিকা",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "ব্যাপন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "নিম্ন থেকে উচ্চে",
+    "D": "উচ্চ থেকে নিম্ন ঘনত্বে গ্যাস চলাচল"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "রাতে উদ্ভিদ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু শ্বসন করে",
+    "D": "সালোকসংশ্লেষণ করে"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "ব্যাঙের শ্বসন —",
+   "options": {
+    "A": "শুধু ফুসফুসে",
+    "B": "কোনোটিই নয়",
+    "C": "ফুসফুস ও ত্বকে",
+    "D": "ফুলকায়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "অ্যালভিওলাস অনেক — কারণ?",
+   "options": {
+    "A": "বিনিময় ক্ষেত্র বাড়ায়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "শ্বাসত্যাগে আন্তঃপাঁজর পেশি —",
+   "options": {
+    "A": "সংকুচিত হয়",
+    "B": "শিথিল হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "বাহ্যিক শ্বসন ঘটে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যালভিওলাসে",
+    "C": "টিস্যু কোষে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "শ্বসনতন্ত্রের স্বাস্থ্য রক্ষায় —",
+   "options": {
+    "A": "ব্যায়াম, পরিষ্কার বাতাস, ধূমপান পরিহার",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "অ্যামিবার গ্যাস বিনিময় —",
+   "options": {
+    "A": "ফুলকায়",
+    "B": "ফুসফুসে",
+    "C": "দেহতলে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "পত্ররন্ধ্র পাতার —",
+   "options": {
+    "A": "নিচের পৃষ্ঠে বেশি",
+    "B": "উপরের পৃষ্ঠে বেশি",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "ফুলকা দিয়ে —",
+   "options": {
+    "A": "পানি প্রবাহিত হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বাতাস"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "শ্বাসনালি ও অন্ননালি —",
+   "options": {
+    "A": "আলাদা নালি",
+    "B": "একই নালি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "শ্বাস হার বাড়ে —",
+   "options": {
+    "A": "বিশ্রামে",
+    "B": "কোনোটিই নয়",
+    "C": "ব্যায়ামে",
+    "D": "ঘুমে"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "CO₂ রক্তে বাহিত হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বাইকার্বনেট, দ্রবীভূত, হিমোগ্লোবিনে",
+    "D": "শুধু হিমোগ্লোবিনে"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "গানের শিল্পীদের ফুসফুস —",
+   "options": {
+    "A": "দুর্বল",
+    "B": "কোনোটিই নয়",
+    "C": "শক্তিশালী",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "এককোষী জীবের গ্যাস বিনিময় —",
+   "options": {
+    "A": "ফুলকায়",
+    "B": "দেহতল দিয়ে ব্যাপনে",
+    "C": "কোনোটিই নয়",
+    "D": "ফুসফুসে"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "উদ্ভিদ CO₂ নির্গত করে —",
+   "options": {
+    "A": "শ্বসনে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সালোকসংশ্লেষণে"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "তিমির ব্লোহোল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শ্বাস নেওয়ার ছিদ্র",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "খাদ্য শ্বাসনালিতে ঢুকলে —",
+   "options": {
+    "A": "কাশি/শ্বাসরোধ হয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "বাতাস ফুসফুসে ঢোকে —",
+   "options": {
+    "A": "চাপ কমলে",
+    "B": "চাপ বাড়লে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "কোষীয় শ্বসন —",
+   "options": {
+    "A": "O₂ দিয়ে খাদ্য জারিত হয়",
+    "B": "CO₂ দিয়ে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "শ্বাসের শব্দ শোনা যায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "থার্মোমিটারে",
+    "C": "কিছুই না",
+    "D": "স্টেথোস্কোপে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "O₂ ছাড়া শ্বসন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সম্ভব",
+    "D": "সবাত শ্বসন সম্ভব নয়"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "শ্বাসমূল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "ম্যানগ্রোভ উদ্ভিদে থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "প্রাণীর শ্বসন অঙ্গ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ফুলকা, ফুসফুস, ত্বক, ট্রাকিয়া",
+    "D": "শুধু ফুসফুস"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "খাওয়ার সময় কথা বললে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "খাদ্য শ্বাসনালিতে যেতে পারে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "শ্বাসত্যাগে পাঁজর —",
+   "options": {
+    "A": "উপরে ওঠে",
+    "B": "নিচে নামে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "উচ্চ O₂ চাপে হিমোগ্লোবিন —",
+   "options": {
+    "A": "O₂ ধরে",
+    "B": "কিছুই না",
+    "C": "O₂ ছাড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "গলায় ঠান্ডা লেগে —",
+   "options": {
+    "A": "স্বরভঙ্গ হয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "গ্যাস বিনিময় পৃষ্ঠ পাতলা — কারণ?",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ব্যাপনে সুবিধা",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "জলজ উদ্ভিদ পাতলা এপিডার্মিস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্যাস বিনিময়ে সাহায্য করে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "মাছের শ্বসন অঙ্গ —",
+   "options": {
+    "A": "ফুলকা",
+    "B": "ত্বক",
+    "C": "ফুসফুস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "ব্রঙ্কাস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দুটি (ডান ও বাম)",
+    "C": "একটি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "জোরপূর্বক শ্বাসত্যাগে —",
+   "options": {
+    "A": "পেটের পেশি সাহায্য করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "হিমোগ্লোবিনের O₂ বহন ক্ষমতা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "উচ্চ",
+    "D": "নিম্ন"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "বনায়ন —",
+   "options": {
+    "A": "বাড়ায়",
+    "B": "কিছুই না",
+    "C": "বায়ুদূষণ কমায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "পৃষ্ঠের ক্ষেত্রফল বাড়লে বিনিময় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বাড়ে",
+    "D": "কমে"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "রাতে রন্ধ্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "খোলা",
+    "D": "বন্ধ"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "কাউন্টারকারেন্ট প্রবাহ —",
+   "options": {
+    "A": "কমায়",
+    "B": "O₂ শোষণ বাড়ায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "স্বরতন্ত্রী —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শব্দ উৎপন্ন করে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "ব্যায়ামে শ্বাস গভীর হয় — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বেশি O₂ দরকার",
+    "C": "কোনোটিই নয়",
+    "D": "কম O₂"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "ফুসফুসে CO₂ —",
+   "options": {
+    "A": "বাইকার্বনেট থেকে মুক্ত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "হাঁপানি উদ্রেককারী —",
+   "options": {
+    "A": "ধুলা, পরাগ, ঠান্ডা",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "গ্যাসীয় বিনিময়ের ফলে কোষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "CO₂ পায়",
+    "D": "শক্তি উৎপাদনের জন্য O₂ পায়"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "জলাবদ্ধ মাটিতে মূল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বেশি পায়",
+    "D": "O₂ পায় না (শ্বাসরোধ)"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "ফুলকার স্তর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বিনিময় ক্ষেত্র বাড়ায়",
+    "D": "কমায়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "গলবিলের পর বায়ুপথ —",
+   "options": {
+    "A": "অন্ননালি",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "স্বরযন্ত্র ও শ্বাসনালি"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "ফুসফুস নিজে —",
+   "options": {
+    "A": "পারে",
+    "B": "সংকুচিত হতে পারে না",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "প্রশ্বাসের বাতাসে তাপমাত্রা —",
+   "options": {
+    "A": "ঠান্ডা",
+    "B": "কোনোটিই নয়",
+    "C": "দেহের তাপমাত্রার কাছাকাছি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "হাঁপানিতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "শ্বাসকষ্ট হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "গ্যাস বিনিময় পৃষ্ঠ বড় —",
+   "options": {
+    "A": "দক্ষ বিনিময় নিশ্চিত করে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "সালোকসংশ্লেষণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "CO₂ প্রবেশ করে",
+    "C": "কিছুই না",
+    "D": "O₂ প্রবেশ করে"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "ট্রাকিওল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ট্রাকিয়ার সরু শাখা"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "স্বরতন্ত্রীর কম্পনে —",
+   "options": {
+    "A": "শব্দ তৈরি হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "শ্বাসগ্রহণে আন্তঃপাঁজর পেশি —",
+   "options": {
+    "A": "সংকুচিত হয়",
+    "B": "শিথিল হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "এক অণু হিমোগ্লোবিন বহন করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১টি",
+    "C": "৪টি O₂ অণু",
+    "D": "২টি"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "দূষণ নিয়ন্ত্রণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শ্বসনতন্ত্র রক্ষা করে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "CO₂ জমলে —",
+   "options": {
+    "A": "শরীরের pH নষ্ট হয়",
+    "B": "উপকার",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "জলজ উদ্ভিদের গ্যাস বিনিময় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রন্ধ্রে",
+    "C": "দেহতলে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "পোকার দেহে বাতাস ঢোকে —",
+   "options": {
+    "A": "স্পাইরাকলে",
+    "B": "নাকে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "ফুসফুসের মোট বিনিময় ক্ষেত্র —",
+   "options": {
+    "A": "ছোট",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বিশাল (টেনিস কোর্টের মতো)"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "ফুসফুসের আয়তন মাপা হয় —",
+   "options": {
+    "A": "থার্মোমিটারে",
+    "B": "কিছুই না",
+    "C": "স্পাইরোমিটারে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "অ্যালভিওলাসের বায়ুতে O₂ —",
+   "options": {
+    "A": "রক্তের চেয়ে বেশি",
+    "B": "কম",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "BCG টিকা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "যক্ষ্মার বিরুদ্ধে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "গ্যাস বিনিময় পৃষ্ঠের দূরত্ব কম —",
+   "options": {
+    "A": "দ্রুত বিনিময়ে সাহায্য করে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "শ্বসনে উদ্ভিদ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "O₂ নেয় ও CO₂ ছাড়ে",
+    "D": "CO₂ নেয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "পোকার শ্বাস ছিদ্র —",
+   "options": {
+    "A": "স্পাইরাকল",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "গলবিল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "নাক ও মুখের পরে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "পানির নিচে ডুবুরি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "অক্সিজেন সিলিন্ডার ব্যবহার করে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "O₂ বিয়োজন বক্ররেখা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "হিমোগ্লোবিনের O₂ ধারণ ক্ষমতা দেখায়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "হাঁপানি রোগী —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ধুলা-ধোঁয়া এড়িয়ে চলবেন",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "গ্যাসীয় বিনিময়ে —",
+   "options": {
+    "A": "O₂ গ্রহণ ও CO₂ ত্যাগ হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "CO₂ গ্রহণ হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "শ্বাসমূল মাটির উপরে —",
+   "options": {
+    "A": "নিচে যায়",
+    "B": "ওঠে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "মাছ চাষে পানিতে O₂ —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "কোনোটিই নয়",
+    "C": "জরুরি",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "শ্বাসনালির দৈর্ঘ্য —",
+   "options": {
+    "A": "৫ সেমি",
+    "B": "প্রায় ১১-১২ সেমি",
+    "C": "৫০ সেমি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "উঁচু পাহাড়ে শ্বাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কষ্ট হয় (কম O₂)",
+    "C": "সহজ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "প্রশ্বাসের বাষ্প —",
+   "options": {
+    "A": "ঘনীভূত হয় ঠান্ডায়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "যক্ষ্মার জীবাণু —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "মাইকোব্যাকটেরিয়াম",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "গ্যাসীয় বিনিময় অধ্যায় —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "অগুরুত্বপূর্ণ",
+    "C": "ঐচ্ছিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "মাটি আলগা করা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মূলের শ্বসনে সাহায্য করে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "ব্যাঙের ত্বক আর্দ্র থাকা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জরুরি নয়",
+    "C": "কোনোটিই নয়",
+    "D": "শ্বসনের জন্য জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "আন্তঃপাঁজর পেশি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শ্বসনে সাহায্য করে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "হাঁচি-কাশিতে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "জোরপূর্বক শ্বাসত্যাগ হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "টিস্যুতে O₂ কম — কারণ?",
+   "options": {
+    "A": "শ্বসনে ব্যবহৃত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "গভীর শ্বাস ব্যায়াম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফুসফুসের ক্ষমতা বাড়ায়",
+    "C": "কমায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "গ্যাস বিনিময় —",
+   "options": {
+    "A": "জীবনের জন্য অপরিহার্য",
+    "B": "ঐচ্ছিক",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "মাটির বায়ুচলাচল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "জরুরি নয়",
+    "D": "মূলের শ্বসনে জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "পাখির শ্বসন উড্ডয়নে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "দক্ষ",
+    "D": "অদক্ষ"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "হাঁচি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "নাকের ময়লা বের করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "শিশুর শ্বাস হার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কম",
+    "C": "সমান",
+    "D": "বড়দের চেয়ে বেশি"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "H₂CO₃ → H⁺ + HCO₃⁻ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ধীরে",
+    "C": "কোনোটিই নয়",
+    "D": "দ্রুত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "হাঁচি-কাশিতে মুখ ঢাকা —",
+   "options": {
+    "A": "রোগ ছড়ানো রোধ করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "শ্বসনের জন্য —",
+   "options": {
+    "A": "CO₂ প্রয়োজন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "O₂ প্রয়োজন"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "ম্যানগ্রোভ উদ্ভিদ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লবণাক্ত জলাভূমিতে বাস করে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "পুকুরের পানি কম অক্সিজেন হলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "মাছ মরে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "নাকে বাতাস ছাঁকা হয় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "লোম ও শ্লেষ্মায়"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "শ্বাসগ্রহণে ফুসফুস —",
+   "options": {
+    "A": "প্রসারিত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "সংকুচিত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "শ্বাসে পানি বাষ্প প্রমাণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "আয়না/কাচে ঘাম জমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "নিউমোনিয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "ফুসফুসের সংক্রমণ"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "CO₂ ত্যাগ —",
+   "options": {
+    "A": "শরীরের ভারসাম্য রাখে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "সুন্দরবনের উদ্ভিদে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "থাকে না",
+    "D": "শ্বাসমূল থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "প্রাণীর গ্যাস বিনিময়ের জন্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বিশেষ অঙ্গ থাকে",
+    "C": "কোনোটিই নয়",
+    "D": "থাকে না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "শ্বাসপথ ও খাদ্যপথ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "গলবিলে মিলিত হয়",
+    "D": "আলাদা"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "শ্বাস আটকে রাখলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "CO₂ জমে শ্বাস নিতে বাধ্য করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "অভ্যন্তরীণ শ্বসন —",
+   "options": {
+    "A": "ফুসফুসে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "কোষে গ্যাস বিনিময়"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "খোলা বাতাসে হাঁটা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ফুসফুসের জন্য ভালো",
+    "D": "খারাপ"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "গ্যাস বিনিময় পৃষ্ঠে রক্তজালিকা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "O₂ ও CO₂ বহনে সাহায্য করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "মাটির বায়ু থেকে মূল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "CO₂ নেয়",
+    "D": "O₂ নেয়"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "কেঁচোর শ্বসন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফুসফুসে",
+    "C": "ফুলকায়",
+    "D": "ত্বকে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "শ্লেষ্মা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "ধুলা ও জীবাণু আটকায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "রক্তে CO₂ বাড়লে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শ্বাস হার বাড়ে",
+    "C": "কমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "প্রশ্বাসের বাতাসে O₂ —",
+   "options": {
+    "A": "৫%",
+    "B": "২১%",
+    "C": "কোনোটিই নয়",
+    "D": "প্রায় ১৬%"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "গাছ লাগানো —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "বাতাস বিশুদ্ধ রাখে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "পাতলা পৃষ্ঠে ব্যাপন —",
+   "options": {
+    "A": "ধীর",
+    "B": "দ্রুত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "উদ্ভিদ O₂ গ্রহণ করে —",
+   "options": {
+    "A": "শ্বসনে",
+    "B": "কোনোটিই নয়",
+    "C": "সালোকসংশ্লেষণে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "তিমির শ্বসন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফুলকায়",
+    "C": "কিছুই না",
+    "D": "ফুসফুসে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "ছেলেদের বয়ঃসন্ধিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কণ্ঠস্বর ভারী হয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "শ্বাসত্যাগে চাপ —",
+   "options": {
+    "A": "ফুসফুসে বাড়ে",
+    "B": "কোনোটিই নয়",
+    "C": "কমে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "হিমোগ্লোবিনে O₂ যুক্ত হওয়া —",
+   "options": {
+    "A": "কমে",
+    "B": "কিছুই না",
+    "C": "উচ্চ O₂ চাপে বাড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "যক্ষ্মা চিকিৎসা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "দীর্ঘমেয়াদি ওষুধে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "গ্যাসীয় বিনিময় ঘটে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ব্যাপনে",
+    "D": "অভিস্রবণে শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "পত্ররন্ধ্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পাতার ক্ষুদ্র ছিদ্র",
+    "C": "কোনোটিই নয়",
+    "D": "মূলের ছিদ্র"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "কেঁচোর ত্বক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুষ্ক",
+    "C": "কিছুই না",
+    "D": "সর্বদা আর্দ্র"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "গলবিলের পর খাদ্যপথ —",
+   "options": {
+    "A": "শ্বাসনালি",
+    "B": "অন্ননালি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "শ্বাসগ্রহণে শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "লাগে না",
+    "C": "কোনোটিই নয়",
+    "D": "লাগে (পেশি সংকোচনে)"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "নিঃশ্বাসের বাতাসে O₂ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৭৮%",
+    "C": "প্রায় ২১%",
+    "D": "৫০%"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "হাঁপানি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শ্বাসনালি সংকুচিত হওয়া",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "গ্যাস বিনিময়ের হার —",
+   "options": {
+    "A": "পৃষ্ঠের ক্ষেত্রফল ও ঘনত্ব পার্থক্যে নির্ভর করে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "রক্ষীকোষে —",
+   "options": {
+    "A": "থাকে না",
+    "B": "ক্লোরোপ্লাস্ট থাকে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "কেঁচোর ত্বক আর্দ্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সবসময়",
+    "D": "কখনো না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "সিলিয়া ও শ্লেষ্মা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "শ্বাসনালি পরিষ্কার রাখে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "শীতকালে নাক দিয়ে শ্বাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ঠান্ডা থাকে",
+    "C": "কিছুই না",
+    "D": "বাতাস উষ্ণ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "অ্যালভিওলাসে CO₂ —",
+   "options": {
+    "A": "বাতাসে যায়",
+    "B": "রক্তে যায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "নিয়মিত শ্বাস ব্যায়াম —",
+   "options": {
+    "A": "কমায়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ফুসফুসের ক্ষমতা বাড়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "CO₂ রক্ত থেকে ফুসফুসে যায় —",
+   "options": {
+    "A": "ব্যাপনে",
+    "B": "কোনোটিই নয়",
+    "C": "সক্রিয় পরিবহণে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "বয়স্ক কাণ্ডে গ্যাস বিনিময় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রন্ধ্রে",
+    "C": "কোনোটিই নয়",
+    "D": "লেন্টিসেলে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "উভচরের শ্বসন —",
+   "options": {
+    "A": "ফুসফুস ও ত্বক",
+    "B": "কোনোটিই নয়",
+    "C": "ফুলকা",
+    "D": "শুধু ফুসফুস"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "ফুসফুস আবৃত —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "প্লুরা ঝিল্লিতে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "শ্বাসত্যাগ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সক্রিয়",
+    "D": "সাধারণত নিষ্ক্রিয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "কোবাল্ট ক্লোরাইড কাগজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "আর্দ্রতায় গোলাপি হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "ফুসফুসের ছবি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "এক্স-রেতে নেওয়া হয়",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "গ্যাসীয় বিনিময়ের পৃষ্ঠ —",
+   "options": {
+    "A": "পাতলা, আর্দ্র, বড় ক্ষেত্র",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পুরু, শুষ্ক"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "কাণ্ডের গ্যাস বিনিময় —",
+   "options": {
+    "A": "লেন্টিসেলে",
+    "B": "কিছুই না",
+    "C": "রন্ধ্রে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "ডলফিনের শ্বসন —",
+   "options": {
+    "A": "ফুসফুসে",
+    "B": "কিছুই না",
+    "C": "ফুলকায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "প্লুরা ঝিল্লি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ফুসফুসকে রক্ষা করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "স্বাভাবিক শ্বাস হার —",
+   "options": {
+    "A": "৫০ বার",
+    "B": "প্রতি মিনিটে ১২-১৮ বার",
+    "C": "৫ বার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "প্রশ্বাসের বাতাসে CO₂ বেশি — কারণ?",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শ্বসনে উৎপন্ন হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "পরোক্ষ ধূমপান —",
+   "options": {
+    "A": "নিরাপদ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ক্ষতিকর"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "গ্যাস বিনিময়ে ব্যাপনের ভূমিকা —",
+   "options": {
+    "A": "গৌণ",
+    "B": "প্রধান",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "জলাবদ্ধ জমিতে ফসল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শ্বাসরোধে মরে",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "স্পাইরাকল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পোকার দেহের ছিদ্র"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "আদমের আপেল দেখা যায় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ছেলেদের গলায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "মেডুলা অবলংগাটা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "শ্বাসক্রিয়া নিয়ন্ত্রণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "প্রশ্বাসের বাতাসে পানি বাষ্প —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কম",
+    "C": "বেশি থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "বায়ুদূষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শ্বসনতন্ত্রের ক্ষতি করে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "গ্যাসীয় বিনিময় কাকে বলে?",
+   "options": {
+    "A": "খাদ্য বিনিময়",
+    "B": "O₂ ও CO₂ এর আদান-প্রদান",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "লেন্টিসেল —",
+   "options": {
+    "A": "কাণ্ডের ক্ষুদ্র ছিদ্র",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "ডলফিন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "স্তন্যপায়ী",
+    "C": "মাছ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "নাক বাতাসকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ঠান্ডা করে",
+    "D": "উষ্ণ ও আর্দ্র করে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "হাই তোলা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "বেশি O₂ নেওয়ার চেষ্টা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "নিঃশ্বাসের বাতাসে N₂ —",
+   "options": {
+    "A": "১%",
+    "B": "২১%",
+    "C": "প্রায় ৭৮%",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "ধূমপানে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "ফুসফুসের ক্যান্সার, ব্রঙ্কাইটিস",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "শ্বসনে উৎপন্ন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "CO₂",
+    "C": "O₂",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "উদ্ভিদ CO₂ গ্রহণ করে —",
+   "options": {
+    "A": "সালোকসংশ্লেষণে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শ্বসনে"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "ব্যাঙের ত্বকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "থাকে না",
+    "C": "রক্তজালিকা থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "হাঁচি-কাশি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "শ্বাসনালি পরিষ্কার করে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "শ্বাসগ্রহণে ডায়াফ্রাম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উপরে ওঠে",
+    "C": "কিছুই না",
+    "D": "নিচে নামে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "CO₂ + H₂O → H₂CO₃ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কার্বনিক অ্যানহাইড্রেজে হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "সকালের তাজা বাতাস —",
+   "options": {
+    "A": "স্বাস্থ্যকর",
+    "B": "কিছুই না",
+    "C": "ক্ষতিকর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "গ্যাস বিনিময় পৃষ্ঠের সাধারণ বৈশিষ্ট্য —",
+   "options": {
+    "A": "পাতলা, আর্দ্র, রক্তজালিকা সমৃদ্ধ, বড় ক্ষেত্র",
+    "B": "কোনোটিই নয়",
+    "C": "পুরু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "উদ্ভিদ O₂ নির্গত করে —",
+   "options": {
+    "A": "সালোকসংশ্লেষণে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শ্বসনে"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "ব্যাঙের ত্বক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুষ্ক",
+    "D": "আর্দ্র ও গ্যাস বিনিময়কারী"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "ব্রঙ্কাস ভেঙে —",
+   "options": {
+    "A": "অ্যালভিওলাস হয়",
+    "B": "ব্রঙ্কিওল হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "দীর্ঘক্ষণ শ্বাস আটকে রাখা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সম্ভব",
+    "D": "সম্ভব নয় (অনিচ্ছাকৃত শ্বাস)"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "নিঃশ্বাসের বাতাসে CO₂ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২১%",
+    "C": "৫%",
+    "D": "প্রায় ০.০৪%"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "পরিবেশের গাছ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "O₂ এর উৎস"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "কেওড়া, গরান গাছে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "শ্বাসমূল থাকে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "পোকার ট্রাকিয়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সারা দেহে শাখা-প্রশাখা ছড়ায়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "অ্যালভিওলাস ঘিরে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কৈশিকনালি থাকে",
+    "C": "ধমনি শুধু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "শ্বাসত্যাগে ডায়াফ্রাম —",
+   "options": {
+    "A": "উপরে ওঠে",
+    "B": "নিচে নামে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "শীতের দিনে মুখ দিয়ে শ্বাস ছাড়লে —",
+   "options": {
+    "A": "বাষ্প দেখা যায়",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "ধূমপান ফুসফুস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "ক্ষতি করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "মূলের গ্যাস বিনিময় —",
+   "options": {
+    "A": "রন্ধ্রে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "মূলরোমে/ত্বকে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "পাখির শ্বসন অঙ্গ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু ফুসফুস",
+    "D": "ফুসফুস ও বায়ুথলি"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "নারীর স্বরতন্ত্রী —",
+   "options": {
+    "A": "লম্বা ও পুরু",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ছোট ও সরু"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "CO₂ শ্বাস নিয়ন্ত্রণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "মূল উদ্দীপক",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "বেশিরভাগ O₂ —",
+   "options": {
+    "A": "প্লাজমায় দ্রবীভূত হয়",
+    "B": "হিমোগ্লোবিনে যুক্ত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "বাঁশি বাজালে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ফুসফুসের ব্যায়াম হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "রক্ষীকোষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রন্ধ্র খোলা-বন্ধ করে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "ব্যাঙাচির শ্বসন —",
+   "options": {
+    "A": "ত্বকে",
+    "B": "ফুলকায়",
+    "C": "ফুসফুসে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "শ্বাসনালির আবরণ —",
+   "options": {
+    "A": "সিলিয়াযুক্ত শ্লেষ্মা ঝিল্লি",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "শ্বাসগ্রহণ (ইনস্পিরেশন) —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বাতাস ভেতরে নেওয়া",
+    "C": "বাতাস বের করা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "অ্যালভিওলাসে O₂ —",
+   "options": {
+    "A": "বাতাসে যায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "রক্তে যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "বায়ুদূষণ কমাতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "বৃক্ষরোপণ ও ধোঁয়া নিয়ন্ত্রণ"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "এরেনকাইমা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জলজ উদ্ভিদে বায়ুফাঁক টিস্যু",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "রূপান্তর (metamorphosis) —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ব্যাঙাচি থেকে ব্যাঙ হওয়া",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "পুরুষের কণ্ঠস্বর —",
+   "options": {
+    "A": "তীক্ষ্ণ",
+    "B": "কোনোটিই নয়",
+    "C": "গভীর",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "ফুসফুস চলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নিজে",
+    "C": "কোনোটিই নয়",
+    "D": "ডায়াফ্রাম ও পাঁজরের পেশিতে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "ফুসফুসে O₂ চাপ —",
+   "options": {
+    "A": "উচ্চ",
+    "B": "কোনোটিই নয়",
+    "C": "নিম্ন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "সাঁতারে শ্বাস ধরে রাখা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ফুসফুসের ক্ষমতা বাড়ায়",
+    "C": "কোনোটিই নয়",
+    "D": "কমায়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "দিনে রন্ধ্র —",
+   "options": {
+    "A": "বন্ধ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "খোলা"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "পানির O₂ মাছের জন্য —",
+   "options": {
+    "A": "প্রয়োজন",
+    "B": "প্রয়োজন নয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "ফুসফুসের সংখ্যা —",
+   "options": {
+    "A": "১টি",
+    "B": "২টি (ডান ও বাম)",
+    "C": "৩টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "O₂ কমে গেলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কমে",
+    "D": "শ্বাস হার বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "গ্যাসীয় বিনিময়ে রক্তের ভূমিকা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "O₂ ও CO₂ পরিবহণ"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "যোগব্যায়ামে শ্বাস নিয়ন্ত্রণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ফুসফুসের জন্য ভালো",
+    "D": "খারাপ"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "মূল মাটির বায়ু থেকে —",
+   "options": {
+    "A": "CO₂ নেয়",
+    "B": "O₂ নেয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "ব্যাঙাচি থেকে ব্যাঙে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "শ্বসন অঙ্গ বদলায়"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "এপিগ্লোটিস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "খাদ্য শ্বাসনালিতে যাওয়া রোধ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "ফুসফুসে পেশি —",
+   "options": {
+    "A": "থাকে না",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "থাকে"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "প্রশ্বাসের বাতাসে O₂ কম — কারণ?",
+   "options": {
+    "A": "দেহে শোষিত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "শ্বসনতন্ত্রের স্বাস্থ্য —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "পরিষ্কার বাতাসে ভালো থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "পত্ররন্ধ্র দিয়ে —",
+   "options": {
+    "A": "গ্যাস ও পানি বিনিময় হয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "ফুলকা —",
+   "options": {
+    "A": "পানিতে দ্রবীভূত O₂ নেয়",
+    "B": "বাতাসের O₂ নেয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "তরুণাস্থি বলয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বন্ধ করে",
+    "C": "কিছুই না",
+    "D": "শ্বাসনালি খোলা রাখে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "শ্বাসক্রিয়া নিয়ন্ত্রণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "মস্তিষ্কের মেডুলায়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "ঠান্ডা আয়নায় শ্বাস ফেললে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "ঘাম জমে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "শ্বাসযন্ত্রের ব্যায়াম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষতি করে",
+    "C": "কিছুই না",
+    "D": "ফুসফুস সুস্থ রাখে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "উদ্ভিদের গ্যাস বিনিময় —",
+   "options": {
+    "A": "ফুসফুসে",
+    "B": "পত্ররন্ধ্রে",
+    "C": "ফুলকায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "পূর্ণাঙ্গ ব্যাঙের শ্বসন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ফুসফুস ও ত্বকে",
+    "D": "ফুলকায়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "অ্যালভিওলাস আর্দ্র — কারণ?",
+   "options": {
+    "A": "গ্যাস দ্রবীভূত হতে হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "শ্বাসত্যাগ (এক্সপিরেশন) —",
+   "options": {
+    "A": "বাতাস ভেতরে নেওয়া",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বাতাস বের করা"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "O₂ রক্তে বাহিত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্লাজমায় শুধু",
+    "C": "হিমোগ্লোবিনে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "হাত ধোয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "শ্বাসরোগ প্রতিরোধে সাহায্য করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "উদ্ভিদের পাতায় গ্যাস বিনিময় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "মূলে",
+    "D": "পত্ররন্ধ্রে হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "ফুলকা থাকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মানুষে",
+    "C": "মাছ, চিংড়িতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "অ্যালভিওলাসের প্রাচীর —",
+   "options": {
+    "A": "এক কোষ পুরু",
+    "B": "পুরু",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "উঁচুতে O₂ —",
+   "options": {
+    "A": "বেশি",
+    "B": "সমান",
+    "C": "কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "প্রশ্বাসে পানি বাষ্প শনাক্তে —",
+   "options": {
+    "A": "কোবাল্ট ক্লোরাইড কাগজ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "ফুসফুসের স্বাস্থ্যের জন্য —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ধূমপান ও দূষণ পরিহার"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "জলজ উদ্ভিদে রন্ধ্র —",
+   "options": {
+    "A": "বেশি",
+    "B": "কম বা নেই",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "স্তন্যপায়ীর ফুসফুস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যালভিওলাস সমৃদ্ধ",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "কাশি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শ্বাসনালির ময়লা বের করে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "শ্বাসগ্রহণে বুক —",
+   "options": {
+    "A": "প্রসারিত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "সংকুচিত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "শ্বসন —",
+   "options": {
+    "A": "রাসায়নিক প্রক্রিয়া",
+    "B": "যান্ত্রিক",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "ক্রীড়াবিদের ফুসফুসের ক্ষমতা —",
+   "options": {
+    "A": "সমান",
+    "B": "কোনোটিই নয়",
+    "C": "বেশি",
+    "D": "কম"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "পাখির বায়ুথলি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "দক্ষ শ্বসনে সাহায্য করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "স্বরযন্ত্রকে বলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ভয়েস বক্স",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "নাক দিয়ে শ্বাস — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বাতাস ছাঁকা ও আর্দ্র হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "ফুসফুসে HCO₃⁻ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "CO₂-তে ফিরে যায়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "সাঁতার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "ফুসফুসের ব্যায়াম",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "কেঁচোর শ্বসনে ত্বক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ঐচ্ছিক",
+    "C": "কিছুই না",
+    "D": "অপরিহার্য"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "সারফেকট্যান্ট —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অ্যালভিওলাসের অভ্যন্তরীণ আবরণ",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "মুখ দিয়ে শ্বাসে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাতাস ছাঁকা হয় না",
+    "C": "কিছুই না",
+    "D": "হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "বেশিরভাগ CO₂ —",
+   "options": {
+    "A": "বাইকার্বনেট আয়ন হিসেবে",
+    "B": "কিছুই না",
+    "C": "হিমোগ্লোবিনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "যানবাহনের ধোঁয়া —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বায়ুদূষণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "স্থলজ প্রাণীর শ্বসন অঙ্গ —",
+   "options": {
+    "A": "ফুলকা",
+    "B": "ফুসফুস/ট্রাকিয়া",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "শ্বাসনালিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "থাকে না",
+    "D": "C-আকৃতির তরুণাস্থি বলয় থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "শ্বাসগ্রহণে চাপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ফুসফুসে কমে",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "শ্বাসক্রিয়া ও শ্বসন —",
+   "options": {
+    "A": "একই",
+    "B": "কিছুই না",
+    "C": "ভিন্ন প্রক্রিয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "যক্ষ্মা নির্ণয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "থুতু পরীক্ষা ও এক্স-রেতে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "সরীসৃপের শ্বসন —",
+   "options": {
+    "A": "ফুসফুসে",
+    "B": "ফুলকায়",
+    "C": "ত্বকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "আদমের আপেল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "স্বরযন্ত্রের বৃদ্ধি"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "হেঁচকি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ডায়াফ্রামের হঠাৎ সংকোচন",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "টিস্যুতে O₂ ঘনত্ব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সমান",
+    "C": "কম",
+    "D": "বেশি"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "সর্দি-কাশি ছোঁয়াচে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "না",
+    "C": "কোনোটিই নয়",
+    "D": "হ্যাঁ"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "পানিতে O₂ —",
+   "options": {
+    "A": "থাকে না",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "দ্রবীভূত থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "ব্রঙ্কিওল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "অতি সরু শাখা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "ফুসফুসের স্থিতিস্থাপকতা —",
+   "options": {
+    "A": "শ্বাসত্যাগে সাহায্য করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বাধা দেয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "শ্বাসক্রিয়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রাসায়নিক",
+    "C": "যান্ত্রিক প্রক্রিয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "গাছপালা —",
+   "options": {
+    "A": "O₂ সরবরাহ করে",
+    "B": "কিছুই না",
+    "C": "CO₂ সরবরাহ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "ব্যাঙের ফুসফুস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সরল গঠনের",
+    "C": "কোনোটিই নয়",
+    "D": "জটিল"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "মানুষের শ্বসন তন্ত্রের শুরু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শ্বাসনালি",
+    "C": "নাক",
+    "D": "ফুসফুস"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "শ্বাসগ্রহণ সক্রিয় প্রক্রিয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হ্যাঁ",
+    "C": "কিছুই না",
+    "D": "না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বাসক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "প্রশ্বাসের বাতাসে CO₂ —",
+   "options": {
+    "A": "২১%",
+    "B": "প্রায় ৪%",
+    "C": "০.০৪%",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "ব্রঙ্কাইটিস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শ্বাসনালির প্রদাহ",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "জলজ প্রাণীর শ্বসন অঙ্গ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ফুলকা",
+    "C": "কোনোটিই নয়",
+    "D": "ফুসফুস"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "ডায়াফ্রাম —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শ্বসনে সাহায্যকারী পেশি"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "কোবাল্ট ক্লোরাইড শুষ্কে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "গোলাপি",
+    "D": "নীল হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "ফ্লু/সর্দি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "উপরের শ্বাসপথের সংক্রমণ",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "স্তন্যপায়ীর শ্বসন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ত্বকে",
+    "C": "ফুলকায়",
+    "D": "ফুসফুসে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "শ্বাসনালি (ট্রাকিয়া) —",
+   "options": {
+    "A": "স্বরযন্ত্র থেকে ফুসফুসে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "কার্বনিক অ্যানহাইড্রেজ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "লোহিত কণিকার এনজাইম",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "বদ্ধ ঘরে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "বাতাস দূষিত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "মানুষের অ্যালভিওলাস —",
+   "options": {
+    "A": "অসংখ্য",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "কয়েকটি"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "ডান ফুসফুসে খণ্ড —",
+   "options": {
+    "A": "২টি",
+    "B": "৪টি",
+    "C": "৩টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "কার্বামিনোহিমোগ্লোবিন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "O₂ যুক্ত",
+    "D": "CO₂ যুক্ত হিমোগ্লোবিন"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "স্বরতন্ত্রীর প্রদাহ —",
+   "options": {
+    "A": "ল্যারিনজাইটিস",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "কেঁচো রোদে শুকিয়ে গেলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "মারা যায় (শ্বসন ব্যাহত)",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "অ্যালভিওলাস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "বায়ুথলি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "টিস্যুতে O₂ চাপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উচ্চ",
+    "C": "কিছুই না",
+    "D": "নিম্ন"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "ঘরে বায়ু চলাচল —",
+   "options": {
+    "A": "জরুরি",
+    "B": "জরুরি নয়",
+    "C": "দরকার নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "ট্রাকিয়া —",
+   "options": {
+    "A": "পোকার শ্বাসনালি",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "পুরুষের স্বরতন্ত্রী —",
+   "options": {
+    "A": "ছোট ও সরু",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "লম্বা ও পুরু"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "বাহ্যিক শ্বসন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "কোষে গ্যাস বিনিময়",
+    "D": "ফুসফুসে গ্যাস বিনিময়"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "সংক্রামক শ্বাসরোগ রোধে —",
+   "options": {
+    "A": "মাস্ক ব্যবহার",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "পাখির দক্ষ শ্বসন —",
+   "options": {
+    "A": "উড্ডয়নে সাহায্য করে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "অ্যালভিওলাসের সংখ্যা —",
+   "options": {
+    "A": "কয়েকটি",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "লক্ষ লক্ষ"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "আয়নায় ঘাম —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "প্রশ্বাসের পানি বাষ্প",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "বুকের এক্স-রে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ফুসফুসের রোগ নির্ণয়ে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "পোকার গ্যাস বিনিময় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ব্যাপনে সরাসরি",
+    "C": "রক্তে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "অ্যালভিওলাসের আকার —",
+   "options": {
+    "A": "আঙুরের থোকার মতো",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "শ্বাসক্রিয়া (breathing) —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাতাস ঢোকা-বের হওয়া",
+    "C": "কিছুই না",
+    "D": "কোষীয় শ্বসন"
+   },
+   "correctAnswer": "B",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "পরিষ্কার বাতাস —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "স্বাস্থ্যের জন্য জরুরি",
+    "C": "কোনোটিই নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "মানুষের শ্বসন অঙ্গ —",
+   "options": {
+    "A": "ফুসফুস",
+    "B": "ফুলকা",
+    "C": "কোনোটিই নয়",
+    "D": "ত্বক"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "নিচের শ্বাসপথ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নাক",
+    "C": "কিছুই না",
+    "D": "শ্বাসনালি, ব্রঙ্কাস, ফুসফুস"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "রক্তে CO₂ —",
+   "options": {
+    "A": "সমান",
+    "B": "কোনোটিই নয়",
+    "C": "অ্যালভিওলাসের বায়ুর চেয়ে বেশি",
+    "D": "কম"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "কারখানার ধোঁয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বায়ুদূষণ করে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "উড্ডয়নে পাখির শক্তি —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি দরকার",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "ব্রঙ্কিওলের শেষে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অ্যালভিওলাস থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "অক্সিহিমোগ্লোবিন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "CO₂ যুক্ত",
+    "C": "O₂ যুক্ত হিমোগ্লোবিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "সর্দি-কাশি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ভাইরাসজনিত",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "স্তন্যপায়ীর শ্বসন অঙ্গ —",
+   "options": {
+    "A": "ফুসফুস",
+    "B": "ত্বক",
+    "C": "কোনোটিই নয়",
+    "D": "ফুলকা"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "উপরের শ্বাসপথ —",
+   "options": {
+    "A": "ফুসফুস",
+    "B": "নাক, গলবিল, স্বরযন্ত্র",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "নিম্ন O₂ চাপে হিমোগ্লোবিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "O₂ ধরে",
+    "D": "O₂ ছাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "বদ্ধ ঘরে থাকলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শ্বাসকষ্ট হতে পারে",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "তিমি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "মাছ",
+    "D": "স্তন্যপায়ী"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "সিলিয়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "ধুলা-ময়লা বাইরে ঠেলে দেয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "চুনের পানিতে প্রশ্বাস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "ঘোলা হয় (CO₂)",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "নিউমোনিয়ায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "অ্যালভিওলাসে তরল জমে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "ফুলকার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "চিরুনির মতো স্তর থাকে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "খাওয়ার সময় কথা বলা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উচিত",
+    "C": "কিছুই না",
+    "D": "উচিত নয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "CO₂ চুনের পানিতে —",
+   "options": {
+    "A": "ঘোলা করে",
+    "B": "স্বচ্ছ করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "গ্যাস বিনিময়ের প্রক্রিয়া",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "ধূমপান পরিহার —",
+   "options": {
+    "A": "স্বাস্থ্যের জন্য জরুরি",
+    "B": "দরকার নেই",
+    "C": "জরুরি নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "পাখির ফুসফুস —",
+   "options": {
+    "A": "ক্ষুদ্র ও দৃঢ়",
+    "B": "কোনোটিই নয়",
+    "C": "বড় ও নরম",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "কণ্ঠস্বর পরিবর্তন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বয়ঃসন্ধিতে হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "ল্যারিনজাইটিসে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "কণ্ঠস্বর ভেঙে যায়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "পাখির শ্বসন —",
+   "options": {
+    "A": "ফুলকায়",
+    "B": "ফুসফুস ও বায়ুথলিতে",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু ফুসফুসে"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "স্বরযন্ত্রে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "স্বরতন্ত্রী থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "যক্ষ্মা (TB) —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ফুসফুসের ব্যাকটেরিয়াজনিত রোগ",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "কাউন্টারকারেন্টে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সর্বোচ্চ O₂ শোষণ হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কম"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "ফুসফুসের বিনিময় ক্ষেত্র বড় — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "লক্ষ লক্ষ অ্যালভিওলাস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "ইনহেলার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "হাঁপানিতে ব্যবহৃত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "মাছ পানি থেকে —",
+   "options": {
+    "A": "CO₂ নেয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "O₂ নেয়"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "অ্যালভিওলাসে সারফেকট্যান্ট —",
+   "options": {
+    "A": "থলি ভেঙে পড়া রোধ করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "হাঁচি-কাশির সময় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "মুখ ঢাকা উচিত"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "ফুলকায় রক্ত প্রবাহ —",
+   "options": {
+    "A": "একই দিকে",
+    "B": "পানির বিপরীতে (কাউন্টারকারেন্ট)",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "নাকের কাজ —",
+   "options": {
+    "A": "খাদ্য হজম",
+    "B": "কিছুই না",
+    "C": "বাতাস ছাঁকা, আর্দ্র, উষ্ণ করা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "ফুসফুসের ক্যান্সার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "ধূমপানের প্রধান ঝুঁকি"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "তিমি পানির উপরে উঠে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শ্বাস নেয়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর গ্যাসীয় বিনিময়",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "শ্বাসনালির ব্যাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রায় ২.৫ সেমি",
+    "C": "১০ সেমি",
+    "D": "১ সেমি"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "গাছ —",
+   "options": {
+    "A": "O₂ দেয় ও CO₂ নেয়",
+    "B": "কোনোটিই নয়",
+    "C": "CO₂ দেয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "নারীর কণ্ঠস্বর —",
+   "options": {
+    "A": "গভীর",
+    "B": "কোনোটিই নয়",
+    "C": "তীক্ষ্ণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের শ্বসনতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "মাস্ক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জীবাণু থেকে রক্ষা করে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসনতন্ত্রের রোগ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "A",
+  "2": "B",
+  "3": "B",
+  "4": "B",
+  "5": "A",
+  "6": "A",
+  "7": "C",
+  "8": "B",
+  "9": "A",
+  "10": "D",
+  "11": "B",
+  "12": "B",
+  "13": "D",
+  "14": "C",
+  "15": "C",
+  "16": "D",
+  "17": "D",
+  "18": "D",
+  "19": "D",
+  "20": "B",
+  "21": "D",
+  "22": "B",
+  "23": "B",
+  "24": "B",
+  "25": "A",
+  "26": "A",
+  "27": "D",
+  "28": "A",
+  "29": "A",
+  "30": "C",
+  "31": "A",
+  "32": "D",
+  "33": "A",
+  "34": "D",
+  "35": "B",
+  "36": "C",
+  "37": "B",
+  "38": "B",
+  "39": "D",
+  "40": "C",
+  "41": "A",
+  "42": "C",
+  "43": "D",
+  "44": "C",
+  "45": "C",
+  "46": "A",
+  "47": "B",
+  "48": "B",
+  "49": "A",
+  "50": "C",
+  "51": "A",
+  "52": "A",
+  "53": "A",
+  "54": "C",
+  "55": "C",
+  "56": "C",
+  "57": "B",
+  "58": "A",
+  "59": "B",
+  "60": "A",
+  "61": "A",
+  "62": "A",
+  "63": "D",
+  "64": "D",
+  "65": "D",
+  "66": "C",
+  "67": "C",
+  "68": "B",
+  "69": "A",
+  "70": "A",
+  "71": "B",
+  "72": "B",
+  "73": "A",
+  "74": "B",
+  "75": "A",
+  "76": "C",
+  "77": "C",
+  "78": "C",
+  "79": "D",
+  "80": "B",
+  "81": "D",
+  "82": "B",
+  "83": "A",
+  "84": "A",
+  "85": "D",
+  "86": "D",
+  "87": "C",
+  "88": "D",
+  "89": "B",
+  "90": "C",
+  "91": "D",
+  "92": "A",
+  "93": "B",
+  "94": "D",
+  "95": "A",
+  "96": "A",
+  "97": "C",
+  "98": "D",
+  "99": "A",
+  "100": "C",
+  "101": "A",
+  "102": "D",
+  "103": "C",
+  "104": "A",
+  "105": "D",
+  "106": "A",
+  "107": "C",
+  "108": "A",
+  "109": "C",
+  "110": "D",
+  "111": "C",
+  "112": "B",
+  "113": "A",
+  "114": "B",
+  "115": "C",
+  "116": "B",
+  "117": "B",
+  "118": "A",
+  "119": "C",
+  "120": "A",
+  "121": "B",
+  "122": "D",
+  "123": "B",
+  "124": "B",
+  "125": "A",
+  "126": "B",
+  "127": "A",
+  "128": "D",
+  "129": "C",
+  "130": "C",
+  "131": "D",
+  "132": "D",
+  "133": "A",
+  "134": "D",
+  "135": "B",
+  "136": "D",
+  "137": "D",
+  "138": "A",
+  "139": "C",
+  "140": "D",
+  "141": "A",
+  "142": "D",
+  "143": "B",
+  "144": "C",
+  "145": "C",
+  "146": "D",
+  "147": "C",
+  "148": "C",
+  "149": "D",
+  "150": "D",
+  "151": "C",
+  "152": "B",
+  "153": "D",
+  "154": "D",
+  "155": "B",
+  "156": "A",
+  "157": "D",
+  "158": "B",
+  "159": "A",
+  "160": "C",
+  "161": "C",
+  "162": "C",
+  "163": "B",
+  "164": "D",
+  "165": "B",
+  "166": "D",
+  "167": "C",
+  "168": "B",
+  "169": "A",
+  "170": "B",
+  "171": "C",
+  "172": "D",
+  "173": "D",
+  "174": "A",
+  "175": "D",
+  "176": "A",
+  "177": "D",
+  "178": "A",
+  "179": "D",
+  "180": "D",
+  "181": "D",
+  "182": "B",
+  "183": "A",
+  "184": "A",
+  "185": "A",
+  "186": "B",
+  "187": "B",
+  "188": "D",
+  "189": "D",
+  "190": "B",
+  "191": "B",
+  "192": "D",
+  "193": "B",
+  "194": "D",
+  "195": "C",
+  "196": "B",
+  "197": "B",
+  "198": "A",
+  "199": "B",
+  "200": "D",
+  "201": "C",
+  "202": "C",
+  "203": "C",
+  "204": "B",
+  "205": "A",
+  "206": "C",
+  "207": "D",
+  "208": "D",
+  "209": "D",
+  "210": "A",
+  "211": "A",
+  "212": "A",
+  "213": "D",
+  "214": "B",
+  "215": "D",
+  "216": "D",
+  "217": "D",
+  "218": "B",
+  "219": "B",
+  "220": "B",
+  "221": "A",
+  "222": "A",
+  "223": "C",
+  "224": "D",
+  "225": "D",
+  "226": "D",
+  "227": "C",
+  "228": "B",
+  "229": "B",
+  "230": "B",
+  "231": "B",
+  "232": "A",
+  "233": "B",
+  "234": "D",
+  "235": "D",
+  "236": "B",
+  "237": "C",
+  "238": "C",
+  "239": "D",
+  "240": "A",
+  "241": "B",
+  "242": "D",
+  "243": "A",
+  "244": "B",
+  "245": "D",
+  "246": "D",
+  "247": "C",
+  "248": "B",
+  "249": "D",
+  "250": "D",
+  "251": "A",
+  "252": "A",
+  "253": "C",
+  "254": "A",
+  "255": "A",
+  "256": "D",
+  "257": "C",
+  "258": "C",
+  "259": "D",
+  "260": "B",
+  "261": "C",
+  "262": "A",
+  "263": "D",
+  "264": "C",
+  "265": "C",
+  "266": "D",
+  "267": "C",
+  "268": "A",
+  "269": "C",
+  "270": "A",
+  "271": "D",
+  "272": "B",
+  "273": "B",
+  "274": "D",
+  "275": "A",
+  "276": "A",
+  "277": "C",
+  "278": "C",
+  "279": "B",
+  "280": "C",
+  "281": "B",
+  "282": "C",
+  "283": "D",
+  "284": "B",
+  "285": "B",
+  "286": "A",
+  "287": "D",
+  "288": "B",
+  "289": "D",
+  "290": "C",
+  "291": "C",
+  "292": "B",
+  "293": "A",
+  "294": "D",
+  "295": "B",
+  "296": "C",
+  "297": "D",
+  "298": "D",
+  "299": "C",
+  "300": "A",
+  "301": "C",
+  "302": "A",
+  "303": "B",
+  "304": "C",
+  "305": "B",
+  "306": "B",
+  "307": "C",
+  "308": "B",
+  "309": "D",
+  "310": "D",
+  "311": "C",
+  "312": "D",
+  "313": "A",
+  "314": "B",
+  "315": "B",
+  "316": "A",
+  "317": "C",
+  "318": "D",
+  "319": "A",
+  "320": "B",
+  "321": "C",
+  "322": "D",
+  "323": "A",
+  "324": "A",
+  "325": "D",
+  "326": "D",
+  "327": "A",
+  "328": "A",
+  "329": "D",
+  "330": "B",
+  "331": "B",
+  "332": "B",
+  "333": "A",
+  "334": "B",
+  "335": "B",
+  "336": "A",
+  "337": "D",
+  "338": "C",
+  "339": "B",
+  "340": "B",
+  "341": "D",
+  "342": "C",
+  "343": "C",
+  "344": "A",
+  "345": "B",
+  "346": "D",
+  "347": "B",
+  "348": "D",
+  "349": "D",
+  "350": "C",
+  "351": "D",
+  "352": "C",
+  "353": "D",
+  "354": "A",
+  "355": "A",
+  "356": "A",
+  "357": "C",
+  "358": "C",
+  "359": "B",
+  "360": "C",
+  "361": "C",
+  "362": "B",
+  "363": "C",
+  "364": "D",
+  "365": "D",
+  "366": "A",
+  "367": "D",
+  "368": "B",
+  "369": "C",
+  "370": "D",
+  "371": "B",
+  "372": "B",
+  "373": "A",
+  "374": "C",
+  "375": "B"
+ }
+}
