@@ -1,0 +1,7134 @@
+{
+ "subject": "জীববিজ্ঞান",
+ "chapterNo": 5,
+ "chapter": "খাদ্য, পুষ্টি এবং পরিপাক",
+ "questions": [
+  {
+   "question": "পচা/বাসি খাদ্য —",
+   "options": {
+    "A": "খাওয়া উচিত নয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "খাওয়া উচিত"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "শর্করার উপাদান —",
+   "options": {
+    "A": "C, H, O",
+    "B": "C, H, O, N",
+    "C": "C, H, N",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "অপরিহার্য অ্যামিনো অ্যাসিড পেতে হয় —",
+   "options": {
+    "A": "দেহ থেকেই",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "খাদ্য থেকে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "চর্বি অঙ্গকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "রক্ষা করে",
+    "D": "ক্ষতি করে"
+   },
+   "correctAnswer": "C",
+   "topic": "চর্বি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "ভিটামিন D এর উৎস —",
+   "options": {
+    "A": "সূর্যালোক, দুধ, মাছের তেল",
+    "B": "কিছুই না",
+    "C": "লেবু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "খনিজ লবণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু Na",
+    "C": "কিছুই না",
+    "D": "Na, K, Ca, Fe, I ইত্যাদি"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "শর্করার চূড়ান্ত পরিপাকজাত —",
+   "options": {
+    "A": "গ্লুকোজ",
+    "B": "সুক্রোজ",
+    "C": "কোনোটিই নয়",
+    "D": "মল্টোজ"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "রক্ত নালিতে শোষিত হয় —",
+   "options": {
+    "A": "গ্লুকোজ, অ্যামিনো অ্যাসিড, খনিজ",
+    "B": "কিছুই না",
+    "C": "চর্বি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "উদ্ভিজ্জ খাদ্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মাছ, মাংস",
+    "C": "কোনোটিই নয়",
+    "D": "শস্য, শাকসবজি, ফল"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "শক্তির প্রধান উৎস —",
+   "options": {
+    "A": "খনিজ",
+    "B": "কোনোটিই নয়",
+    "C": "শর্করা",
+    "D": "ভিটামিন"
+   },
+   "correctAnswer": "C",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "বাড়ন্ত শিশুর প্রোটিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রয়োজন নেই",
+    "C": "বেশি প্রয়োজন",
+    "D": "কম"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "চর্বি দেহে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ঠান্ডা করে",
+    "C": "তাপ রোধ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "চর্বি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "ভিটামিন A এর অভাব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রাতকানা",
+    "C": "রিকেট",
+    "D": "স্কার্ভি"
+   },
+   "correctAnswer": "B",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "আয়োডিন সমৃদ্ধ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চিনি",
+    "C": "আয়োডিনযুক্ত লবণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "প্রোটিয়েজের সাবস্ট্রেট —",
+   "options": {
+    "A": "চর্বি",
+    "B": "স্টার্চ",
+    "C": "প্রোটিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "ভালো করে চিবালে —",
+   "options": {
+    "A": "কঠিন হয়",
+    "B": "পরিপাক সহজ হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "সুষম খাদ্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "স্বাস্থ্যের জন্য জরুরি",
+    "C": "জরুরি নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "স্টার্চ থাকে —",
+   "options": {
+    "A": "উদ্ভিদে",
+    "B": "প্রাণীতে শুধু",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "প্রোটিনের কাজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "দেহ গঠন ও বৃদ্ধি",
+    "D": "শক্তি শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "চর্বির প্রকার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু এক",
+    "C": "সম্পৃক্ত ও অসম্পৃক্ত",
+    "D": "তিন"
+   },
+   "correctAnswer": "C",
+   "topic": "চর্বি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "ভিটামিন দেহে —",
+   "options": {
+    "A": "সামান্য পরিমাণে লাগে",
+    "B": "লাগে না",
+    "C": "কোনোটিই নয়",
+    "D": "অনেক লাগে"
+   },
+   "correctAnswer": "A",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "আয়রন (লোহা) সমৃদ্ধ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "দুধ শুধু",
+    "D": "কলিজা, শাক, কিশমিশ"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "পরিপাক ও পুষ্টি —",
+   "options": {
+    "A": "সম্পর্কহীন",
+    "B": "কিছুই না",
+    "C": "সম্পর্কিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "ল্যাকটিয়াল —",
+   "options": {
+    "A": "ভিলাইয়ের লসিকা নালি",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "পচা খাদ্যে —",
+   "options": {
+    "A": "বিষাক্ত পদার্থ হয়",
+    "B": "কিছুই না",
+    "C": "উপকার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "ডায়াবেটিসে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "চিনি/শর্করা নিয়ন্ত্রণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "প্রোটিনের অভাব —",
+   "options": {
+    "A": "স্কার্ভি",
+    "B": "কোনোটিই নয়",
+    "C": "কোয়াশিওরকর",
+    "D": "রাতকানা"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "অসম্পৃক্ত চর্বি —",
+   "options": {
+    "A": "উদ্ভিজ্জ তেল, মাছের তেল",
+    "B": "কোনোটিই নয়",
+    "C": "মাখন",
+    "D": "ঘি"
+   },
+   "correctAnswer": "A",
+   "topic": "চর্বি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "ভিটামিন C এর কাজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ত্বক, দাঁত, রোগ প্রতিরোধে",
+    "C": "কোনোটিই নয়",
+    "D": "হাড়ে শুধু"
+   },
+   "correctAnswer": "B",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "আয়োডিনের উৎস —",
+   "options": {
+    "A": "দুধ শুধু",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "আয়োডিনযুক্ত লবণ, সামুদ্রিক মাছ"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "জটিল খাদ্য সরাসরি —",
+   "options": {
+    "A": "শোষিত হয় না",
+    "B": "কোনোটিই নয়",
+    "C": "শোষিত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "কোষ্ঠকাঠিন্য রোধে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "আঁশযুক্ত খাদ্য ও পানি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "শক্তিদায়ক খাদ্য —",
+   "options": {
+    "A": "শর্করা, চর্বি",
+    "B": "ভিটামিন",
+    "C": "প্রোটিন শুধু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "ডায়াবেটিস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কমে যাওয়া",
+    "C": "কিছুই না",
+    "D": "রক্তে গ্লুকোজ বেড়ে যাওয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "প্রাণিজ প্রোটিন —",
+   "options": {
+    "A": "শিম",
+    "B": "ডিম, মাছ, মাংস, দুধ",
+    "C": "ডাল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "চর্বির কাজ —",
+   "options": {
+    "A": "শক্তি সঞ্চয়, অন্তরণ",
+    "B": "দেহ গঠন",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "চর্বি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "ভিটামিন D এর অভাব —",
+   "options": {
+    "A": "স্কার্ভি",
+    "B": "কোনোটিই নয়",
+    "C": "রিকেট",
+    "D": "বেরিবেরি"
+   },
+   "correctAnswer": "C",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "গরমে পানি —",
+   "options": {
+    "A": "কম",
+    "B": "প্রয়োজন নেই",
+    "C": "কোনোটিই নয়",
+    "D": "বেশি প্রয়োজন"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "স্টার্চ → মল্টোজ → গ্লুকোজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চর্বি পরিপাক",
+    "C": "শর্করা পরিপাক",
+    "D": "প্রোটিন পরিপাক"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "ক্ষুদ্রান্ত্রের রস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্যাস্ট্রিক রস",
+    "C": "ইনটেস্টাইনাল রস",
+    "D": "লালা"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "মেয়াদোত্তীর্ণ খাদ্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "খাওয়া উচিত নয়",
+    "C": "খাওয়া উচিত",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "প্রাণীর শর্করা সঞ্চয় —",
+   "options": {
+    "A": "গ্লাইকোজেন হিসেবে",
+    "B": "কিছুই না",
+    "C": "স্টার্চ হিসেবে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "গর্ভবতী নারীর প্রোটিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কম",
+    "C": "প্রয়োজন নেই",
+    "D": "বেশি প্রয়োজন"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "চর্বির উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তেল, ঘি, মাখন, ডালডা",
+    "C": "ডিমের সাদা অংশ",
+    "D": "ভাত"
+   },
+   "correctAnswer": "B",
+   "topic": "চর্বি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "ভিটামিন K এর উৎস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লেবু",
+    "C": "সবুজ শাক, ডিম",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "পানির উৎস —",
+   "options": {
+    "A": "পানীয়, খাদ্য",
+    "B": "কিছুই না",
+    "C": "শুধু পানীয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "একটি এনজাইম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অনেক সাবস্ট্রেট ভাঙতে পারে",
+    "D": "একটি মাত্র"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "খাদ্যনালিতে খাদ্য যেতে সময় —",
+   "options": {
+    "A": "কয়েক ঘণ্টা",
+    "B": "কোনোটিই নয়",
+    "C": "কয়েক সেকেন্ড",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "আত্তীকরণ কাকে বলে?",
+   "options": {
+    "A": "শোষিত খাদ্য কোষে ব্যবহৃত হওয়া",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "খাদ্য গ্রহণ"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "ইনসুলিনের অভাব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গলগণ্ড",
+    "C": "কিছুই না",
+    "D": "ডায়াবেটিস"
+   },
+   "correctAnswer": "D",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "প্রোটিনের উদাহরণ —",
+   "options": {
+    "A": "তেল, ঘি",
+    "B": "ডিম, মাছ, মাংস, ডাল, দুধ",
+    "C": "কোনোটিই নয়",
+    "D": "ভাত, রুটি"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "সম্পৃক্ত চর্বি বেশি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "হৃদরোগ ঝুঁকি বাড়ায়",
+    "D": "কমায়"
+   },
+   "correctAnswer": "C",
+   "topic": "চর্বি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "ভিটামিন E —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যান্টিঅক্সিডেন্ট",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "আয়োডিনযুক্ত লবণ —",
+   "options": {
+    "A": "গলগণ্ড রোধ করে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "প্রোটিন → পেপটোন → অ্যামিনো অ্যাসিড —",
+   "options": {
+    "A": "প্রোটিন পরিপাক",
+    "B": "কোনোটিই নয়",
+    "C": "শর্করা পরিপাক",
+    "D": "চর্বি পরিপাক"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "কর্তন দাঁত —",
+   "options": {
+    "A": "খাদ্য কাটে",
+    "B": "পিষে",
+    "C": "ছেঁড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "শাকসবজি ও ফল —",
+   "options": {
+    "A": "প্রোটিনের",
+    "B": "ভিটামিন ও আঁশের উৎস",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "অতিরিক্ত শর্করা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "চর্বিতে রূপান্তরিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "কোয়াশিওরকরে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পেট ফুলে যায়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "সবচেয়ে বেশি শক্তি দেয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রোটিন",
+    "C": "চর্বি",
+    "D": "শর্করা"
+   },
+   "correctAnswer": "C",
+   "topic": "চর্বি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "ভিটামিন A এর উৎস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গাজর, শাক, দুধ, ডিম",
+    "C": "কিছুই না",
+    "D": "লেবু শুধু"
+   },
+   "correctAnswer": "B",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "সোডিয়ামের কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "হাড়ে",
+    "D": "স্নায়ু ও পেশিতে"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "টায়ালিনের সর্বোত্তম pH —",
+   "options": {
+    "A": "প্রায় ৯",
+    "B": "কোনোটিই নয়",
+    "C": "প্রায় ২",
+    "D": "প্রায় ৭ (নিরপেক্ষ)"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "লাইপেজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্টার্চ ভাঙে",
+    "C": "প্রোটিন ভাঙে",
+    "D": "চর্বি ভাঙে"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "নিয়মিত খাবার —",
+   "options": {
+    "A": "স্বাস্থ্যের জন্য ভালো",
+    "B": "খারাপ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "স্টার্চ —",
+   "options": {
+    "A": "সরল শর্করা",
+    "B": "কিছুই না",
+    "C": "জটিল শর্করা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "কোয়াশিওরকর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রোটিনের অভাবজনিত রোগ",
+    "C": "খনিজের",
+    "D": "ভিটামিনের"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "১ গ্রাম চর্বিতে শক্তি —",
+   "options": {
+    "A": "৪ কিলোক্যালরি",
+    "B": "৯ কিলোক্যালরি",
+    "C": "২ কিলোক্যালরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "চর্বি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "ভিটামিন কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষুদ্র পরিমাণে প্রয়োজনীয় জৈব পদার্থ",
+    "C": "বৃহৎ পরিমাণে",
+    "D": "খনিজ"
+   },
+   "correctAnswer": "B",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "লোহার উৎস —",
+   "options": {
+    "A": "দুধ শুধু",
+    "B": "কোনোটিই নয়",
+    "C": "কলিজা, শাক, কিশমিশ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "এনজাইম —",
+   "options": {
+    "A": "বিক্রিয়ার হার বাড়ায়",
+    "B": "কোনোটিই নয়",
+    "C": "কমায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "উইপোকা কাঠ হজম করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অন্ত্রের অণুজীবে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "প্রাপ্তবয়স্ক পুরুষের দৈনিক শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রায় ২৫০০-৩০০০ কিলোক্যালরি",
+    "C": "১০০০",
+    "D": "৫০০০"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "ইনসুলিন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "রক্তের গ্লুকোজ নিয়ন্ত্রণ করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "প্রোটিনের উপাদান —",
+   "options": {
+    "A": "C, H, O",
+    "B": "কোনোটিই নয়",
+    "C": "C, H, N",
+    "D": "C, H, O, N (ও S)"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "চর্বি সমৃদ্ধ খাদ্য —",
+   "options": {
+    "A": "ভাত",
+    "B": "তেল, ঘি, মাখন",
+    "C": "ডাল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "চর্বি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "ভিটামিন D এর কাজ —",
+   "options": {
+    "A": "হাড় ও দাঁতে",
+    "B": "কোনোটিই নয়",
+    "C": "দৃষ্টিতে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "সোডিয়ামের উৎস —",
+   "options": {
+    "A": "লবণ",
+    "B": "চিনি",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "এনজাইমের বিশেষত্ব —",
+   "options": {
+    "A": "সাবস্ট্রেট নির্দিষ্টতা",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "খাদ্য গ্রহণের নিয়ম —",
+   "options": {
+    "A": "তাড়াহুড়োয়",
+    "B": "ধীরে ও ভালো করে চিবিয়ে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "ডি-অ্যামিনেশন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যামিনো অ্যাসিড থেকে অ্যামিনো গ্রুপ অপসারণ",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "স্টার্চের সংকেত —",
+   "options": {
+    "A": "C₁₂H₂₂O₁₁",
+    "B": "C₆H₁₂O₆",
+    "C": "(C₆H₁₀O₅)n",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "প্রোটিনের গাঠনিক একক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যামিনো অ্যাসিড",
+    "C": "ফ্যাটি অ্যাসিড",
+    "D": "গ্লুকোজ"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "চর্বির গাঠনিক একক —",
+   "options": {
+    "A": "ফ্যাটি অ্যাসিড ও গ্লিসারল",
+    "B": "কোনোটিই নয়",
+    "C": "অ্যামিনো অ্যাসিড",
+    "D": "গ্লুকোজ"
+   },
+   "correctAnswer": "A",
+   "topic": "চর্বি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "ভিটামিন C রান্নায় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "নষ্ট হতে পারে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "লোহার অভাব —",
+   "options": {
+    "A": "রক্তস্বল্পতা",
+    "B": "কোনোটিই নয়",
+    "C": "রিকেট",
+    "D": "গলগণ্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "প্রোটিন পরিপাকে —",
+   "options": {
+    "A": "অ্যামাইলেজ",
+    "B": "পেপসিন ও ট্রিপসিন",
+    "C": "কোনোটিই নয়",
+    "D": "লাইপেজ"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "আলসারের কারণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "অতিরিক্ত অম্ল, ব্যাকটেরিয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "মায়ের দুধ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্ষতিকর",
+    "C": "শিশুর জন্য সর্বোত্তম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "শর্করার প্রকার —",
+   "options": {
+    "A": "শুধু এক",
+    "B": "কোনোটিই নয়",
+    "C": "দুই",
+    "D": "মনোস্যাকারাইড, ডাইস্যাকারাইড, পলিস্যাকারাইড"
+   },
+   "correctAnswer": "D",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "প্রোটিন সমৃদ্ধ খাদ্যের উদাহরণ —",
+   "options": {
+    "A": "তেল",
+    "B": "কোনোটিই নয়",
+    "C": "ভাত",
+    "D": "মাছ, ডিম, ডাল, দুধ"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "সম্পৃক্ত চর্বি —",
+   "options": {
+    "A": "উদ্ভিজ্জ তেল",
+    "B": "কোনোটিই নয়",
+    "C": "মাছের তেল",
+    "D": "ঘি, মাখন, পশুর চর্বি"
+   },
+   "correctAnswer": "D",
+   "topic": "চর্বি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "ভিটামিন C এর উৎস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "লেবু, আমলকী, পেয়ারা",
+    "D": "দুধ"
+   },
+   "correctAnswer": "C",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "পানির কাজ —",
+   "options": {
+    "A": "শক্তি",
+    "B": "কিছুই না",
+    "C": "সব জৈবিক কাজে দ্রাবক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "খুব গরমে এনজাইম —",
+   "options": {
+    "A": "সক্রিয় হয়",
+    "B": "কোনোটিই নয়",
+    "C": "নষ্ট হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "আঁশ পাওয়া যায় —",
+   "options": {
+    "A": "শাকসবজি, ফল, লাল চালে",
+    "B": "মাংসে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "অতিভোজনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বদহজম ও স্থূলতা",
+    "C": "কোনোটিই নয়",
+    "D": "উপকার"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "উদ্ভিদের শর্করা সঞ্চয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "স্টার্চ হিসেবে",
+    "D": "গ্লাইকোজেন হিসেবে"
+   },
+   "correctAnswer": "C",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "ম্যারাসমাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "মারাত্মক অপুষ্টিজনিত রোগ"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "চর্বির উপাদান —",
+   "options": {
+    "A": "C, H, O",
+    "B": "C, H, N",
+    "C": "C, H, O, N",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চর্বি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "ভিটামিনের উৎস —",
+   "options": {
+    "A": "শাকসবজি, ফল, দুধ, ডিম",
+    "B": "শুধু ভাত",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু তেল"
+   },
+   "correctAnswer": "A",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "ক্যালসিয়ামের উৎস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "লেবু",
+    "C": "কোনোটিই নয়",
+    "D": "দুধ, ছোট মাছ, শাক"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "চিবানো —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "রাসায়নিক পরিপাক",
+    "D": "যান্ত্রিক পরিপাক"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "পিত্ত জমা থাকে —",
+   "options": {
+    "A": "পিত্তথলিতে",
+    "B": "যকৃতে শুধু",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "শিশুর শক্তি চাহিদা —",
+   "options": {
+    "A": "কম",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বৃদ্ধির জন্য বেশি"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "মনোস্যাকারাইডের উদাহরণ —",
+   "options": {
+    "A": "গ্লুকোজ, ফ্রুক্টোজ",
+    "B": "কোনোটিই নয়",
+    "C": "সুক্রোজ",
+    "D": "স্টার্চ"
+   },
+   "correctAnswer": "A",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "অ্যামিনো অ্যাসিডের সংখ্যা —",
+   "options": {
+    "A": "৩০টি",
+    "B": "কোনোটিই নয়",
+    "C": "১০টি",
+    "D": "২০টি"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রোটিন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "কোলেস্টেরল —",
+   "options": {
+    "A": "শর্করা",
+    "B": "চর্বিজাতীয় পদার্থ",
+    "C": "প্রোটিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "চর্বি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "ভিটামিন B₁₂ অভাব —",
+   "options": {
+    "A": "রক্তস্বল্পতা",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "স্কার্ভি"
+   },
+   "correctAnswer": "A",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "পানি ছাড়া জীবন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সম্ভব",
+    "D": "অসম্ভব"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "ট্রিপসিনের pH —",
+   "options": {
+    "A": "ক্ষারীয়",
+    "B": "কোনোটিই নয়",
+    "C": "নিরপেক্ষ",
+    "D": "অম্লীয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "বৃহদন্ত্রের কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পরিপাক",
+    "D": "পানি শোষণ ও মল তৈরি"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "খাদ্য পিরামিডের শীর্ষ —",
+   "options": {
+    "A": "শস্য",
+    "B": "চর্বি ও মিষ্টি",
+    "C": "সবজি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "পলিস্যাকারাইডের উদাহরণ —",
+   "options": {
+    "A": "স্টার্চ, গ্লাইকোজেন, সেলুলোজ",
+    "B": "গ্লুকোজ",
+    "C": "সুক্রোজ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "অপরিহার্য অ্যামিনো অ্যাসিড —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দেহে তৈরি হয় না",
+    "C": "কোনোটিই নয়",
+    "D": "দেহে তৈরি হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "চর্বির অভাব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "চর্বিতে দ্রবণীয় ভিটামিনের অভাব"
+   },
+   "correctAnswer": "D",
+   "topic": "চর্বি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "ভিটামিনের প্রকার —",
+   "options": {
+    "A": "তিন",
+    "B": "পানিতে ও চর্বিতে দ্রবণীয়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু এক"
+   },
+   "correctAnswer": "B",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "পানিশূন্যতা —",
+   "options": {
+    "A": "নিরাপদ",
+    "B": "স্বাস্থ্যঝুঁকি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "এনজাইমের জন্য নির্দিষ্ট pH —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্রয়োজন",
+    "C": "প্রয়োজন নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "অগ্ন্যাশয় রস ক্ষারীয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "পাকস্থলীর অম্ল প্রশমিত করে"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "খাদ্যের উৎস —",
+   "options": {
+    "A": "উদ্ভিদ ও প্রাণী",
+    "B": "শুধু উদ্ভিদ",
+    "C": "শুধু প্রাণী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "শর্করার অভাব —",
+   "options": {
+    "A": "দুর্বলতা",
+    "B": "কোয়াশিওরকর",
+    "C": "গলগণ্ড",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "শিশুদের প্রোটিনের অভাব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "উপকার",
+    "D": "বৃদ্ধি ব্যাহত করে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "চর্বিতে দ্রবণীয় ভিটামিন —",
+   "options": {
+    "A": "B, C",
+    "B": "কোনোটিই নয়",
+    "C": "A, D, E, K",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "চর্বি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "ভিটামিন C এর অভাব —",
+   "options": {
+    "A": "রিকেট",
+    "B": "কোনোটিই নয়",
+    "C": "স্কার্ভি",
+    "D": "রাতকানা"
+   },
+   "correctAnswer": "C",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "আয়োডিনের কাজ —",
+   "options": {
+    "A": "হাড়ে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "থাইরয়েড হরমোনে"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "পেপসিন ও ট্রিপসিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লাইপেজ",
+    "C": "অ্যামাইলেজ",
+    "D": "প্রোটিয়েজ"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "খাদ্য পরিপাকের মোট সময় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১ ঘণ্টা",
+    "C": "৫ ঘণ্টা",
+    "D": "প্রায় ২৪-৭২ ঘণ্টা"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "অপুষ্টির ফল —",
+   "options": {
+    "A": "উপকার",
+    "B": "রোগ ও দুর্বলতা",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "১ গ্রাম শর্করায় শক্তি —",
+   "options": {
+    "A": "৪ কিলোক্যালরি",
+    "B": "কোনোটিই নয়",
+    "C": "২ কিলোক্যালরি",
+    "D": "৯ কিলোক্যালরি"
+   },
+   "correctAnswer": "A",
+   "topic": "শর্করা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "প্রোটিন সমৃদ্ধ খাদ্য —",
+   "options": {
+    "A": "ডিম, মাছ, মাংস, ডাল, দুধ",
+    "B": "তেল",
+    "C": "কোনোটিই নয়",
+    "D": "ভাত"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "চর্বির আধিক্য —",
+   "options": {
+    "A": "স্থূলতা ও হৃদরোগ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "উপকার"
+   },
+   "correctAnswer": "A",
+   "topic": "চর্বি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "ভিটামিন B₁ (থায়ামিন) অভাব —",
+   "options": {
+    "A": "বেরিবেরি",
+    "B": "কোনোটিই নয়",
+    "C": "পেলাগ্রা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "পানি পানে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "খাদ্য পরিপাকে সাহায্য হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "পেপসিন অম্লীয় পরিবেশে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সক্রিয়",
+    "C": "নিষ্ক্রিয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "পরিপাকের স্বাস্থ্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "খাদ্যাভ্যাসের উপর নির্ভর করে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "খাদ্য প্যাকেটের লেবেল —",
+   "options": {
+    "A": "পড়া উচিত",
+    "B": "কোনোটিই নয়",
+    "C": "উচিত নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "মিষ্টি বেশি খেলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "স্থূলতা ও দাঁতের ক্ষয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "উদ্ভিজ্জ প্রোটিন —",
+   "options": {
+    "A": "ডাল, শিম, বাদাম",
+    "B": "ডিম",
+    "C": "মাছ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "কোলেস্টেরল বেশি —",
+   "options": {
+    "A": "হৃদরোগ ঝুঁকি",
+    "B": "কিছুই না",
+    "C": "উপকার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চর্বি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "ভিটামিন A এর কাজ —",
+   "options": {
+    "A": "রক্ত জমাটে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "দৃষ্টি ও ত্বকে"
+   },
+   "correctAnswer": "D",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "ক্যালসিয়াম সমৃদ্ধ —",
+   "options": {
+    "A": "ভাত",
+    "B": "কোনোটিই নয়",
+    "C": "চিনি",
+    "D": "দুধ, ছোট মাছ"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "অ্যামাইলেজ নাম —",
+   "options": {
+    "A": "অ্যামাইলাম (স্টার্চ) থেকে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "মলের পরিমাণ নির্ভর করে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "খাদ্যের আঁশের উপর"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "খাদ্য রান্নার সঠিক পদ্ধতি —",
+   "options": {
+    "A": "পুষ্টি সংরক্ষণ করে",
+    "B": "নষ্ট করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "শর্করার উদাহরণ —",
+   "options": {
+    "A": "ভাত, রুটি, আলু, চিনি",
+    "B": "তেল, ঘি",
+    "C": "কোনোটিই নয়",
+    "D": "ডিম, মাছ"
+   },
+   "correctAnswer": "A",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "১ গ্রাম প্রোটিনে শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২ কিলোক্যালরি",
+    "C": "৯ কিলোক্যালরি",
+    "D": "৪ কিলোক্যালরি"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রোটিন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "পানিতে দ্রবণীয় ভিটামিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "B ও C",
+    "D": "A, D, E, K"
+   },
+   "correctAnswer": "C",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "আয়োডিনের অভাব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রিকেট",
+    "C": "গলগণ্ড",
+    "D": "রক্তস্বল্পতা"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "গ্লুকোজ, অ্যামিনো অ্যাসিড —",
+   "options": {
+    "A": "জটিল",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সরল ও দ্রবণীয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "খাদ্য চিবানো —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রাসায়নিক",
+    "C": "কিছুই না",
+    "D": "যান্ত্রিক পরিপাক"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "পুষ্টি কাকে বলে?",
+   "options": {
+    "A": "খাদ্য গ্রহণ ও ব্যবহারের প্রক্রিয়া",
+    "B": "খাদ্য ত্যাগ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "গ্লুকোজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জটিল শর্করা",
+    "C": "সরল শর্করা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "ম্যারাসমাসে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পেট ফুলে",
+    "C": "কোনোটিই নয়",
+    "D": "দেহ শীর্ণ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "ভিটামিন C গরমে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ঠিক থাকে",
+    "C": "কোনোটিই নয়",
+    "D": "নষ্ট হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "দৈনিক পানি পান —",
+   "options": {
+    "A": "প্রয়োজন নেই",
+    "B": "কোনোটিই নয়",
+    "C": "পর্যাপ্ত হওয়া উচিত",
+    "D": "কম"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "চর্বি → ফ্যাটি অ্যাসিড + গ্লিসারল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চর্বি পরিপাক",
+    "C": "শর্করা পরিপাক",
+    "D": "প্রোটিন পরিপাক"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "আলসার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পাকস্থলী/অন্ত্রের ক্ষত",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "খাদ্যের পুষ্টিগুণ রক্ষায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বেশি রান্না",
+    "D": "কম রান্না/সঠিক পদ্ধতি"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "ইনসুলিন নিঃসৃত হয় —",
+   "options": {
+    "A": "অগ্ন্যাশয় থেকে",
+    "B": "কোনোটিই নয়",
+    "C": "যকৃত থেকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "প্রোটিনের অভাবজনিত রোগ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্কার্ভি",
+    "C": "রিকেট",
+    "D": "কোয়াশিওরকর, ম্যারাসমাস"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "ভিটামিন B এর অভাব —",
+   "options": {
+    "A": "রাতকানা",
+    "B": "স্কার্ভি",
+    "C": "বেরিবেরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "খাদ্য পরিপাকে পানি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বাধা দেয়",
+    "D": "সাহায্য করে"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "পেপসিনের pH —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষারীয়",
+    "C": "নিরপেক্ষ",
+    "D": "অম্লীয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "আঁশ হজম —",
+   "options": {
+    "A": "হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "হয় না"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "খাদ্যে ভেজাল রোধে —",
+   "options": {
+    "A": "সচেতনতা ও আইন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "শর্করা সমৃদ্ধ খাদ্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ডিম",
+    "C": "মাছ",
+    "D": "ভাত, রুটি, আলু"
+   },
+   "correctAnswer": "D",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "দেহ গঠনের প্রধান উপাদান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শর্করা",
+    "C": "প্রোটিন",
+    "D": "চর্বি"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রোটিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "ভিটামিন B এর উৎস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শস্য, ডাল, সবজি",
+    "C": "কোনোটিই নয়",
+    "D": "লেবু শুধু"
+   },
+   "correctAnswer": "B",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "পটাসিয়ামের কাজ —",
+   "options": {
+    "A": "স্নায়ু ও হৃৎপিণ্ডে",
+    "B": "হাড়ে শুধু",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "সাবস্ট্রেট কাকে বলে?",
+   "options": {
+    "A": "এনজাইম নিজে",
+    "B": "কোনোটিই নয়",
+    "C": "এনজাইম যে বস্তুর উপর কাজ করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "লাইপেজ চর্বি → ?",
+   "options": {
+    "A": "গ্লুকোজ",
+    "B": "অ্যামিনো অ্যাসিড",
+    "C": "কোনোটিই নয়",
+    "D": "ফ্যাটি অ্যাসিড ও গ্লিসারল"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "ইউরিয়া ত্যাগ হয় —",
+   "options": {
+    "A": "ফুসফুসে",
+    "B": "কোনোটিই নয়",
+    "C": "বৃক্ক দিয়ে (প্রস্রাবে)",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "শর্করার আধিক্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্থূলতা",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "ভিটামিন K এর কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দৃষ্টিতে",
+    "C": "রক্ত জমাটে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "খাদ্য শোষণে পানি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বাধা দেয়",
+    "C": "কোনোটিই নয়",
+    "D": "সাহায্য করে"
+   },
+   "correctAnswer": "D",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "এনজাইমের জন্য নির্দিষ্ট তাপমাত্রা —",
+   "options": {
+    "A": "প্রয়োজন",
+    "B": "কিছুই না",
+    "C": "প্রয়োজন নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "আঁশ (ফাইবার) —",
+   "options": {
+    "A": "কোষ্ঠকাঠিন্য রোধ করে",
+    "B": "কিছুই না",
+    "C": "বাড়ায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "দুধে —",
+   "options": {
+    "A": "সব পুষ্টি প্রায় থাকে",
+    "B": "একটিই",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "সুক্রোজের সংকেত —",
+   "options": {
+    "A": "C₆H₁₀O₅",
+    "B": "কোনোটিই নয়",
+    "C": "C₁₂H₂₂O₁₁",
+    "D": "C₆H₁₂O₆"
+   },
+   "correctAnswer": "C",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "ভিটামিন C সমৃদ্ধ —",
+   "options": {
+    "A": "লেবু, আমলকী, পেয়ারা",
+    "B": "তেল",
+    "C": "ভাত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "লোহার কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "হিমোগ্লোবিনে",
+    "D": "হাড়ে"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "পরিপাকের মূল কারণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "খাদ্য দ্রবীভূত ও শোষণযোগ্য করা",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "খাবার আগে হাত ধোয়া —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "দরকার নেই",
+    "C": "জরুরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "ফ্যাটি অ্যাসিড —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "শক্তি ও কোষঝিল্লিতে ব্যবহৃত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "গ্লাইকোজেন থাকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "উদ্ভিদে শুধু",
+    "D": "প্রাণীর দেহে"
+   },
+   "correctAnswer": "D",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "ভিটামিন C পেতে —",
+   "options": {
+    "A": "বেশি রান্না",
+    "B": "কিছুই না",
+    "C": "কাঁচা ফল-সবজি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ভিটামিন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "পানির অভাব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "পানিশূন্যতা (dehydration)",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "এনজাইমের সর্বোত্তম তাপমাত্রা —",
+   "options": {
+    "A": "০°C",
+    "B": "প্রায় ৩৭°C",
+    "C": "৮০°C",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "কাইম যায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্ষুদ্রান্ত্রে",
+    "C": "কোনোটিই নয়",
+    "D": "বৃহদন্ত্রে"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "অতিরিক্ত চর্বি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "চর্বি টিস্যুতে জমা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "সেলুলোজ থাকে —",
+   "options": {
+    "A": "প্রাণীতে",
+    "B": "উদ্ভিদের কোষপ্রাচীরে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "দেহের শতকরা পানি —",
+   "options": {
+    "A": "প্রায় ৬৫-৭০%",
+    "B": "৯০%",
+    "C": "কোনোটিই নয়",
+    "D": "২০%"
+   },
+   "correctAnswer": "A",
+   "topic": "খনিজ ও পানি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "পরিপাক এনজাইমের প্রকার —",
+   "options": {
+    "A": "শুধু এক",
+    "B": "দুই",
+    "C": "কোনোটিই নয়",
+    "D": "অ্যামাইলেজ, প্রোটিয়েজ, লাইপেজ"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "পেপসিন কাজ করে —",
+   "options": {
+    "A": "ক্ষারীয় পরিবেশে",
+    "B": "কিছুই না",
+    "C": "অম্লীয় পরিবেশে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "খাদ্য পিরামিডে সবচেয়ে বেশি খাওয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মিষ্টি",
+    "C": "চর্বি",
+    "D": "শস্য/শর্করা"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "ডাইস্যাকারাইডের উদাহরণ —",
+   "options": {
+    "A": "স্টার্চ",
+    "B": "গ্লুকোজ",
+    "C": "সুক্রোজ, মল্টোজ, ল্যাকটোজ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "ক্যালসিয়ামের কাজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হাড় ও দাঁতে",
+    "C": "কোনোটিই নয়",
+    "D": "রক্তে"
+   },
+   "correctAnswer": "B",
+   "topic": "খনিজ ও পানি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "এনজাইমের কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "খাদ্য ভাঙা",
+    "C": "খাদ্য তৈরি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "ওআরএসে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লবণ, চিনি, পানি",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "প্রতিদিন শাকসবজি —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "খাওয়া উচিত",
+    "C": "উচিত নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "গ্লুকোজের সংকেত —",
+   "options": {
+    "A": "C₁₂H₂₂O₁₁",
+    "B": "কোনোটিই নয়",
+    "C": "C₆H₁₂O₆",
+    "D": "C₆H₁₀O₅"
+   },
+   "correctAnswer": "C",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "এনজাইমের নামকরণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "সাবস্ট্রেট অনুযায়ী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "মুখগহ্বরে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চিবানো ও লালা মেশানো হয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "খাদ্য শক্তির একক —",
+   "options": {
+    "A": "গ্রাম",
+    "B": "কোনোটিই নয়",
+    "C": "কিলোক্যালরি/জুল",
+    "D": "মিটার"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "মিষ্টি খাদ্যে —",
+   "options": {
+    "A": "উপকার",
+    "B": "কোনোটিই নয়",
+    "C": "দাঁতের ক্ষয় হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "পরিপাক একটি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হাইড্রোলাইটিক প্রক্রিয়া",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "পাকস্থলীতে প্রোটিন → ?",
+   "options": {
+    "A": "ফ্যাটি অ্যাসিড",
+    "B": "পেপটোন",
+    "C": "গ্লুকোজ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "সুস্থ জীবনের জন্য —",
+   "options": {
+    "A": "সুষম খাদ্য ও পরিপাকের যত্ন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "শর্করার কাজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দেহ গঠন",
+    "C": "কোনোটিই নয়",
+    "D": "শক্তি সরবরাহ"
+   },
+   "correctAnswer": "D",
+   "topic": "শর্করা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "সক্রিয়করণ শক্তি কমলে বিক্রিয়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দ্রুত হয়",
+    "C": "ধীর হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "ক্ষুদ্রান্ত্রে শোষণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বেশিরভাগ পুষ্টির"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "রোগপ্রতিরোধক খাদ্য —",
+   "options": {
+    "A": "ভিটামিন, খনিজ",
+    "B": "কোনোটিই নয়",
+    "C": "চর্বি",
+    "D": "শর্করা"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "ট্রিপসিন ক্ষারীয় পরিবেশে —",
+   "options": {
+    "A": "সক্রিয়",
+    "B": "কোনোটিই নয়",
+    "C": "নিষ্ক্রিয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "গ্যাস্ট্রিক রসে থাকে —",
+   "options": {
+    "A": "পিত্ত",
+    "B": "টায়ালিন",
+    "C": "HCl ও পেপসিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "পুষ্টির ধাপ —",
+   "options": {
+    "A": "গ্রহণ → পরিপাক → শোষণ → আত্তীকরণ → রেচন",
+    "B": "কিছুই না",
+    "C": "শুধু গ্রহণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "হাইড্রোলাইসিস —",
+   "options": {
+    "A": "পানি দিয়ে বন্ধন ভাঙা",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "পরিপাক তন্ত্রের রোগ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "গ্যাস্ট্রিক, আলসার, ডায়রিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "প্রাণিজ খাদ্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শস্য",
+    "C": "কোনোটিই নয়",
+    "D": "মাছ, মাংস, ডিম, দুধ"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "এনজাইম তাপে —",
+   "options": {
+    "A": "বিকৃত (denature) হয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "বৃহদন্ত্রের ব্যাকটেরিয়া —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ভিটামিন K তৈরি করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "খাদ্যের উপাদান —",
+   "options": {
+    "A": "শুধু প্রোটিন",
+    "B": "শর্করা, প্রোটিন, চর্বি, ভিটামিন, খনিজ, পানি",
+    "C": "শুধু শর্করা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "এনজাইমের প্রকৃতি —",
+   "options": {
+    "A": "চর্বি",
+    "B": "প্রোটিন",
+    "C": "কোনোটিই নয়",
+    "D": "শর্করা"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "ইলিয়ামে —",
+   "options": {
+    "A": "শোষণ হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পরিপাক শুধু"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "ডি-অ্যামিনেশন ঘটে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "যকৃতে",
+    "D": "পাকস্থলীতে"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "এনজাইমের কাজে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শক্তি খরচ কম লাগে",
+    "D": "বেশি লাগে"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "ট্রিপসিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রোটিন ভাঙে",
+    "C": "স্টার্চ ভাঙে",
+    "D": "চর্বি ভাঙে"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "দৈনিক শক্তির চাহিদা নির্ভর করে —",
+   "options": {
+    "A": "শুধু বয়স",
+    "B": "বয়স, লিঙ্গ, কাজের উপর",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "প্রোটিনের চূড়ান্ত পরিপাকজাত —",
+   "options": {
+    "A": "পেপটোন",
+    "B": "গ্লুকোজ",
+    "C": "কোনোটিই নয়",
+    "D": "অ্যামিনো অ্যাসিড"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "বৃহদন্ত্রের অংশ —",
+   "options": {
+    "A": "দুই",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু এক",
+    "D": "সিকাম, কোলন, রেক্টাম"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "সুষম খাদ্যে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "একটিই থাকে",
+    "D": "সব উপাদান সঠিক মাত্রায় থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "এনজাইম বিক্রিয়ার পর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষয় হয়",
+    "C": "অপরিবর্তিত থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "খাদ্য গিলতে সাহায্য করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দাঁত শুধু",
+    "C": "কিছুই না",
+    "D": "জিহ্বা ও গলবিল"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "খাদ্যের পিরামিড —",
+   "options": {
+    "A": "সুষম খাদ্যের নির্দেশনা",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "চর্বি পরিপাকে —",
+   "options": {
+    "A": "অ্যামাইলেজ",
+    "B": "কোনোটিই নয়",
+    "C": "লাইপেজ",
+    "D": "পেপসিন"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "এনামেল —",
+   "options": {
+    "A": "দাঁতের শক্ততম অংশ",
+    "B": "কোনোটিই নয়",
+    "C": "নরম",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "অপুষ্টি কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সুষম পুষ্টি",
+    "C": "কিছুই না",
+    "D": "পুষ্টির অভাব বা আধিক্য"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "ট্রিপসিনের সর্বোত্তম pH —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রায় ৮ (ক্ষারীয়)",
+    "C": "প্রায় ২",
+    "D": "৭"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "পরিপাক তন্ত্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "খাদ্য হজম ও শোষণ করে",
+    "C": "কোনোটিই নয়",
+    "D": "শ্বসন করে"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "খাদ্য, পুষ্টি এবং পরিপাক অধ্যায় —",
+   "options": {
+    "A": "অগুরুত্বপূর্ণ",
+    "B": "গুরুত্বপূর্ণ",
+    "C": "কোনোটিই নয়",
+    "D": "ঐচ্ছিক"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "এনজাইম পুনরায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ব্যবহারযোগ্য",
+    "D": "অব্যবহারযোগ্য"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "কোলনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মল জমা হয়",
+    "C": "পরিপাক হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "পুষ্টির প্রথম ধাপ —",
+   "options": {
+    "A": "পরিপাক",
+    "B": "খাদ্য গ্রহণ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "সরল খাদ্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শোষিত হয়",
+    "C": "শোষিত হয় না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "জিহ্বার কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্বাদ গ্রহণ ও খাদ্য নাড়া",
+    "C": "হজম",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "খাদ্য, পুষ্টি এবং পরিপাক —",
+   "options": {
+    "A": "অগুরুত্বপূর্ণ",
+    "B": "কোনোটিই নয়",
+    "C": "জীববিজ্ঞানের গুরুত্বপূর্ণ অধ্যায়",
+    "D": "ঐচ্ছিক"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "প্রোটিয়েজ নাম —",
+   "options": {
+    "A": "প্রোটিন থেকে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "পাকস্থলীতে নিঃসৃত রস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পিত্ত",
+    "C": "লালা",
+    "D": "গ্যাস্ট্রিক রস"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "সবজি বেশি রান্নায় —",
+   "options": {
+    "A": "ভিটামিন নষ্ট হয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "পরিপাকের প্রকার —",
+   "options": {
+    "A": "শুধু যান্ত্রিক",
+    "B": "যান্ত্রিক ও রাসায়নিক",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রাসায়নিক"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "পেপসিন —",
+   "options": {
+    "A": "প্রোটিন ভাঙে",
+    "B": "কোনোটিই নয়",
+    "C": "চর্বি ভাঙে",
+    "D": "স্টার্চ ভাঙে"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "শোষণ কাকে বলে?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "খাদ্য গ্রহণ",
+    "C": "পরিপাকিত খাদ্য রক্তে যাওয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "অ্যামাইলেজের সাবস্ট্রেট —",
+   "options": {
+    "A": "প্রোটিন",
+    "B": "চর্বি",
+    "C": "কোনোটিই নয়",
+    "D": "স্টার্চ"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "পাকস্থলীর অম্লীয় রস —",
+   "options": {
+    "A": "গ্যাস্ট্রিক রস",
+    "B": "লালা",
+    "C": "পিত্ত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "খাদ্যে ফরমালিন —",
+   "options": {
+    "A": "উপকারী",
+    "B": "কোনোটিই নয়",
+    "C": "বিষাক্ত",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "লাইপেজের সাবস্ট্রেট —",
+   "options": {
+    "A": "স্টার্চ",
+    "B": "কোনোটিই নয়",
+    "C": "প্রোটিন",
+    "D": "চর্বি"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "মলের উপাদান —",
+   "options": {
+    "A": "অপাচ্য খাদ্য, ব্যাকটেরিয়া, পানি",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু পানি"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "সুষম খাদ্য কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সব পুষ্টি সঠিক অনুপাতে",
+    "C": "শুধু শর্করা",
+    "D": "শুধু প্রোটিন"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "যান্ত্রিক পরিপাক —",
+   "options": {
+    "A": "চিবানো ও মিশ্রণ",
+    "B": "কোনোটিই নয়",
+    "C": "এনজাইমে ভাঙা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "দাঁতের ক্ষয় রোধে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নিয়মিত ব্রাশ",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "দুধ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অসম্পূর্ণ",
+    "D": "প্রায় পূর্ণাঙ্গ খাদ্য"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "স্টার্চ পরিপাকে পানি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ব্যবহৃত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "উৎপন্ন হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "পেষণ দাঁত —",
+   "options": {
+    "A": "খাদ্য পিষে",
+    "B": "কোনোটিই নয়",
+    "C": "ছেঁড়ে",
+    "D": "কাটে"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "অতিভোজন —",
+   "options": {
+    "A": "উপকারী",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ক্ষতিকর"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "পরিপাক ছাড়া পুষ্টি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অসম্ভব",
+    "C": "সম্ভব",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "বৃহদন্ত্রে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পানি ও লবণ শোষিত হয়",
+    "C": "প্রোটিন পরিপাক হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "রেচন কাকে বলে?",
+   "options": {
+    "A": "খাদ্য গ্রহণ",
+    "B": "অপাচ্য বর্জ্য ত্যাগ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "এনজাইমের সর্বোত্তম pH —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সবসময় এক",
+    "C": "কোনোটিই নয়",
+    "D": "এনজাইমভেদে ভিন্ন"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "পিত্ত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "এনজাইম",
+    "C": "এনজাইম নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "খাদ্যের স্বাস্থ্যসম্মত সংরক্ষণ —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "দরকার নেই",
+    "C": "কোনোটিই নয়",
+    "D": "জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "পরিপাক কাকে বলে?",
+   "options": {
+    "A": "জটিল খাদ্যকে সরল দ্রবণীয় রূপে ভাঙা",
+    "B": "কিছুই না",
+    "C": "খাদ্য জমা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "লালায় থাকে —",
+   "options": {
+    "A": "পেপসিন",
+    "B": "টায়ালিন (অ্যামাইলেজ)",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "খাদ্য কাকে বলে?",
+   "options": {
+    "A": "শক্তি ও পুষ্টি সরবরাহকারী বস্তু",
+    "B": "বিষাক্ত বস্তু",
+    "C": "কোনোটিই নয়",
+    "D": "জড় পদার্থ"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "পরিপাক এনজাইমের নামের শেষ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "-ose",
+    "C": "-ase",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "গ্লুকোজ ও অ্যামিনো অ্যাসিড শোষিত হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "লসিকায়",
+    "D": "রক্তে"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "খাদ্যে ভেজাল —",
+   "options": {
+    "A": "নিরাপদ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "স্বাস্থ্যঝুঁকি"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "লাইপেজ নাম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "লিপিড (চর্বি) থেকে",
+    "C": "কোনোটিই নয়",
+    "D": "প্রোটিন থেকে"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "পরিপাক তন্ত্রের অংশ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু অন্ত্র",
+    "C": "মুখ, খাদ্যনালি, পাকস্থলী, অন্ত্র, মলদ্বার",
+    "D": "শুধু মুখ"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "সবজি ধুয়ে কাটা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "কেটে ধোয়া",
+    "D": "উচিত"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "পেপসিনের সর্বোত্তম pH —",
+   "options": {
+    "A": "প্রায় ৮",
+    "B": "কোনোটিই নয়",
+    "C": "প্রায় ২ (অম্লীয়)",
+    "D": "৭"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "তৃণভোজী প্রাণী সেলুলোজ হজম —",
+   "options": {
+    "A": "পারে না",
+    "B": "কোনোটিই নয়",
+    "C": "পারে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "শ্রমিকের শক্তি চাহিদা —",
+   "options": {
+    "A": "সমান",
+    "B": "কম",
+    "C": "কোনোটিই নয়",
+    "D": "বেশি"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "এনজাইম সক্রিয়করণ শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কমায়",
+    "C": "কিছুই না",
+    "D": "বাড়ায়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "ল্যাকটিয়ালে শোষিত হয় —",
+   "options": {
+    "A": "গ্লুকোজ",
+    "B": "চর্বি",
+    "C": "কোনোটিই নয়",
+    "D": "অ্যামিনো অ্যাসিড"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "সবজি কেটে রেখে দিলে —",
+   "options": {
+    "A": "পুষ্টিগুণ কমে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "পরিপাকে পানির ভূমিকা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "হাইড্রোলাইসিসে সাহায্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "মলত্যাগ —",
+   "options": {
+    "A": "মুখ দিয়ে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "মলদ্বার দিয়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "পুষ্টি শিক্ষা —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "দরকার নেই",
+    "C": "জনস্বাস্থ্যের জন্য জরুরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "পরিপাকের উদ্দেশ্য —",
+   "options": {
+    "A": "খাদ্য নষ্ট",
+    "B": "কিছুই না",
+    "C": "খাদ্যকে শোষণযোগ্য করা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "রেক্টামে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পরিপাক হয়",
+    "C": "মল জমা থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "খাদ্যের কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু শক্তি",
+    "D": "শক্তি, বৃদ্ধি, রোগ প্রতিরোধ"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "লালার টায়ালিনের pH —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অম্লীয়",
+    "D": "প্রায় নিরপেক্ষ/সামান্য ক্ষারীয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "ক্ষুদ্রান্ত্রের দৈর্ঘ্য —",
+   "options": {
+    "A": "১০ মিটার",
+    "B": "১ মিটার",
+    "C": "প্রায় ৬-৭ মিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "খাদ্যের শক্তি মাপা হয় —",
+   "options": {
+    "A": "ক্যালরিমিটারে",
+    "B": "ব্যারোমিটারে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "রাসায়নিক পরিপাক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "চিবানো",
+    "D": "এনজাইমে ভাঙা"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "পিত্তে এনজাইম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "থাকে না",
+    "C": "থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "খাদ্য পিরামিডে সবচেয়ে কম খাওয়া —",
+   "options": {
+    "A": "চর্বি ও মিষ্টি",
+    "B": "সবজি",
+    "C": "কোনোটিই নয়",
+    "D": "শস্য"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "চর্বির চূড়ান্ত পরিপাকজাত —",
+   "options": {
+    "A": "গ্লুকোজ",
+    "B": "কোনোটিই নয়",
+    "C": "ফ্যাটি অ্যাসিড ও গ্লিসারল",
+    "D": "অ্যামিনো অ্যাসিড"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "পাকস্থলীতে HCl —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "জীবাণু ধ্বংস ও অম্লীয় পরিবেশ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "খাদ্য পিরামিডের ভিত্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মিষ্টি",
+    "C": "চর্বি",
+    "D": "শস্য/শর্করা"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "স্টার্চ পরিপাকে —",
+   "options": {
+    "A": "লাইপেজ",
+    "B": "অ্যামাইলেজ/টায়ালিন কাজ করে",
+    "C": "পেপসিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "দুধ দাঁত (শিশুর) —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৩২টি",
+    "C": "২০টি",
+    "D": "২৮টি"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "সুষম খাদ্যের ভিত্তি —",
+   "options": {
+    "A": "খাদ্য পিরামিড",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "পরিপাক এনজাইম —",
+   "options": {
+    "A": "জৈব অনুঘটক",
+    "B": "কোনোটিই নয়",
+    "C": "অজৈব",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "মলদ্বারের কাজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "মল ত্যাগ",
+    "D": "পরিপাক"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "অতিরিক্ত গ্লুকোজ —",
+   "options": {
+    "A": "নষ্ট হয়",
+    "B": "গ্লাইকোজেন/চর্বিতে সঞ্চিত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "লালা নিঃসৃত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পাকস্থলী থেকে",
+    "D": "লালাগ্রন্থি থেকে"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "সুস্থ দেহে —",
+   "options": {
+    "A": "সুস্থ মন",
+    "B": "কোনোটিই নয়",
+    "C": "রোগ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "ভিলাইতে —",
+   "options": {
+    "A": "রক্ত ও লসিকা নালি থাকে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "শিশুর প্রথম খাদ্য —",
+   "options": {
+    "A": "মায়ের দুধ",
+    "B": "ভাত",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "মুখে পরিপাক হয় —",
+   "options": {
+    "A": "স্টার্চের",
+    "B": "চর্বির",
+    "C": "কোনোটিই নয়",
+    "D": "প্রোটিনের"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "খাদ্য রোগ প্রতিরোধে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শর্করা",
+    "C": "ভিটামিন ও খনিজ",
+    "D": "চর্বি"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "পিত্তের কাজ —",
+   "options": {
+    "A": "চর্বির ইমালসিফিকেশন",
+    "B": "প্রোটিন ভাঙা",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "খাদ্য শক্তি দেয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শর্করা ও চর্বি",
+    "C": "খনিজ",
+    "D": "ভিটামিন"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "খাদ্যনালিতে খাদ্য —",
+   "options": {
+    "A": "পেরিস্টালসিসে চলে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "শিশুকে মায়ের দুধ —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "কোনোটিই নয়",
+    "C": "খাওয়ানো উচিত",
+    "D": "উচিত নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "খাদ্যনালি দৈর্ঘ্য —",
+   "options": {
+    "A": "প্রায় ২৫ সেমি",
+    "B": "৫০ সেমি",
+    "C": "কোনোটিই নয়",
+    "D": "৫ সেমি"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "সুষম খাদ্য ও সুস্থতা —",
+   "options": {
+    "A": "সম্পর্কিত",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সম্পর্কহীন"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "ক্ষুদ্রান্ত্রের অংশ —",
+   "options": {
+    "A": "ডিওডেনাম, জেজুনাম, ইলিয়াম",
+    "B": "দুই",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু এক"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "খাদ্য ও পুষ্টি অধ্যায় —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "অগুরুত্বপূর্ণ",
+    "C": "কোনোটিই নয়",
+    "D": "ঐচ্ছিক"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "পাকস্থলী থেকে খাদ্য যায় —",
+   "options": {
+    "A": "ক্ষুদ্রান্ত্রে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বৃহদন্ত্রে"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "খাদ্যের মেয়াদ —",
+   "options": {
+    "A": "উচিত নয়",
+    "B": "কোনোটিই নয়",
+    "C": "দরকার নেই",
+    "D": "পরীক্ষা করা উচিত"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "পাকস্থলী —",
+   "options": {
+    "A": "নলের মতো",
+    "B": "থলির মতো",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "আত্তীকরণে গ্লুকোজ —",
+   "options": {
+    "A": "শক্তির জন্য ব্যবহৃত হয়",
+    "B": "তৈরি হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "অন্ননালি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শ্বাসনালি",
+    "C": "কিছুই না",
+    "D": "খাদ্যনালি"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "মায়ের দুধে —",
+   "options": {
+    "A": "থাকে না",
+    "B": "কিছুই না",
+    "C": "রোগ প্রতিরোধক উপাদান থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "আঁশ —",
+   "options": {
+    "A": "মল নরম রাখে",
+    "B": "কোনোটিই নয়",
+    "C": "শক্ত করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "অ্যামিনো অ্যাসিড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রোটিন সংশ্লেষণে ব্যবহৃত হয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "গরু সেলুলোজ হজম করে —",
+   "options": {
+    "A": "পাকস্থলীর ব্যাকটেরিয়ায়",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "ইউরিয়া তৈরি হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বৃক্কে",
+    "C": "যকৃতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "ডিওডেনামে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "পিত্ত ও অগ্ন্যাশয় রস মেশে"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "খাদ্য বৃদ্ধিতে সাহায্য করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রোটিন",
+    "C": "খনিজ",
+    "D": "ভিটামিন শুধু"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "ফ্যাটি অ্যাসিড ও গ্লিসারল শোষিত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রক্তে",
+    "C": "কিছুই না",
+    "D": "লসিকায়"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "দেহগঠক খাদ্য —",
+   "options": {
+    "A": "শর্করা",
+    "B": "কোনোটিই নয়",
+    "C": "প্রোটিন",
+    "D": "ভিটামিন"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "ভিলাই থাকে —",
+   "options": {
+    "A": "ইলিয়ামে",
+    "B": "কোনোটিই নয়",
+    "C": "পাকস্থলীতে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "১ কিলোক্যালরি = ?",
+   "options": {
+    "A": "১০০ ক্যালরি",
+    "B": "১০ ক্যালরি",
+    "C": "কোনোটিই নয়",
+    "D": "১০০০ ক্যালরি"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "মানুষ সেলুলোজ হজম —",
+   "options": {
+    "A": "করতে পারে না",
+    "B": "কিছুই না",
+    "C": "পারে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "খাদ্যের প্রধান উপাদান কয়টি?",
+   "options": {
+    "A": "৩",
+    "B": "৬",
+    "C": "৫",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "ক্ষুদ্রান্ত্রের প্রথম অংশ —",
+   "options": {
+    "A": "ডিওডেনাম",
+    "B": "জেজুনাম",
+    "C": "ইলিয়াম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "অতিরিক্ত অ্যামিনো অ্যাসিড —",
+   "options": {
+    "A": "যকৃতে ভেঙে ইউরিয়া হয়",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্য ও পুষ্টি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "ডায়রিয়ায় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "পানি ও লবণ ক্ষয় হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "ওআরএস ডায়রিয়ায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "পানি ও লবণের ভারসাম্য ফেরায়"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "ভিলাই —",
+   "options": {
+    "A": "আঙুলের মতো অভিক্ষেপ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "ইমালসিফিকেশন —",
+   "options": {
+    "A": "চর্বিকে ক্ষুদ্র ফোঁটায় ভাঙা",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "পাকস্থলীতে পরিপাক হয় —",
+   "options": {
+    "A": "স্টার্চের",
+    "B": "চর্বির",
+    "C": "প্রোটিনের",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "হাত না ধুয়ে খেলে —",
+   "options": {
+    "A": "উপকার",
+    "B": "কোনোটিই নয়",
+    "C": "রোগ হতে পারে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "কাইম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পাকস্থলীর অর্ধপরিপাকিত খাদ্য",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "প্রাপ্তবয়স্কের দাঁত —",
+   "options": {
+    "A": "৩২টি",
+    "B": "২৮টি",
+    "C": "কোনোটিই নয়",
+    "D": "২০টি"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "ক্ষুদ্রান্ত্রের ভিলাই —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কমায়",
+    "C": "শোষণ ক্ষেত্র বাড়ায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "দাঁতের ক্ষয় —",
+   "options": {
+    "A": "মিষ্টি ও অম্লে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "ক্ষুদ্রান্ত্রে —",
+   "options": {
+    "A": "চূড়ান্ত পরিপাক হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুরু হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "দাঁতের প্রকার —",
+   "options": {
+    "A": "শুধু এক",
+    "B": "কর্তন, ছেদন, অগ্রপেষণ, পেষণ",
+    "C": "কোনোটিই নয়",
+    "D": "দুই"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "পরিপাক তন্ত্রের শুরু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অন্ত্র",
+    "C": "পাকস্থলী",
+    "D": "মুখগহ্বর"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "দাঁতের কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "খাদ্য হজম করা",
+    "D": "খাদ্য চিবানো/ভাঙা"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "কোষ্ঠকাঠিন্য —",
+   "options": {
+    "A": "আঁশের অভাব ও কম পানিতে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "লালায় স্টার্চ → ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্লুকোজ",
+    "C": "অ্যামিনো অ্যাসিড",
+    "D": "মল্টোজ"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "ছেদন দাঁত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পিষে",
+    "C": "খাদ্য ছেঁড়ে",
+    "D": "কাটে"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "অগ্ন্যাশয় রসে থাকে —",
+   "options": {
+    "A": "পেপসিন",
+    "B": "কোনোটিই নয়",
+    "C": "ট্রিপসিন, অ্যামাইলেজ, লাইপেজ",
+    "D": "টায়ালিন"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "স্বাদ গ্রহণ করে —",
+   "options": {
+    "A": "জিহ্বার স্বাদকোরক",
+    "B": "দাঁত",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "স্বাদের প্রকার —",
+   "options": {
+    "A": "শুধু মিষ্টি",
+    "B": "টক, মিষ্টি, তিতা, নোনতা",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "অগ্রপেষণ দাঁত —",
+   "options": {
+    "A": "খাদ্য ভাঙে",
+    "B": "কাটে",
+    "C": "ছেঁড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "পিত্ত নিঃসৃত হয় —",
+   "options": {
+    "A": "যকৃত থেকে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "অগ্ন্যাশয় থেকে"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "অ্যামাইলেজ —",
+   "options": {
+    "A": "প্রোটিন ভাঙে",
+    "B": "কোনোটিই নয়",
+    "C": "চর্বি ভাঙে",
+    "D": "স্টার্চ ভাঙে"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "পরিপাকের স্বাস্থ্যবিধি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "পরিষ্কার খাদ্য ও হাত ধোয়া",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "পেরিস্টালসিস কাকে বলে?",
+   "options": {
+    "A": "শুধু রং",
+    "B": "খাদ্যনালির তরঙ্গগতি",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "পরিপাক তন্ত্রের শেষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মলদ্বার",
+    "C": "মুখ",
+    "D": "পাকস্থলী"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "পাকস্থলীতে খাদ্য থাকে —",
+   "options": {
+    "A": "কয়েক মিনিট",
+    "B": "কয়েক ঘণ্টা",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "বৃহদন্ত্রে ব্যাকটেরিয়া —",
+   "options": {
+    "A": "ক্ষতি করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "উপকারী কাজ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "টায়ালিন —",
+   "options": {
+    "A": "প্রোটিন ভাঙে",
+    "B": "কোনোটিই নয়",
+    "C": "চর্বি ভাঙে",
+    "D": "স্টার্চ ভাঙে"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "পেরিস্টালসিসে খাদ্য —",
+   "options": {
+    "A": "পিছিয়ে যায়",
+    "B": "কোনোটিই নয়",
+    "C": "সামনে এগোয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "পাকস্থলীতে খাদ্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "মণ্ডে পরিণত হয় (কাইম)",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "সেলুলোজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শর্করা যা হজম হয়",
+    "C": "কোনোটিই নয়",
+    "D": "আঁশ"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "দাঁতের বাইরের আবরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মজ্জা",
+    "C": "ডেন্টিন",
+    "D": "এনামেল"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "খাদ্যনালি দিয়ে খাদ্য যায় —",
+   "options": {
+    "A": "ফুসফুসে",
+    "B": "কিছুই না",
+    "C": "পাকস্থলীতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "লালার সাথে খাদ্য মেশানো —",
+   "options": {
+    "A": "রাসায়নিক পরিপাক শুরু করে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিপাক তন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "A",
+  "2": "A",
+  "3": "D",
+  "4": "C",
+  "5": "A",
+  "6": "D",
+  "7": "A",
+  "8": "A",
+  "9": "D",
+  "10": "C",
+  "11": "C",
+  "12": "C",
+  "13": "B",
+  "14": "C",
+  "15": "C",
+  "16": "B",
+  "17": "B",
+  "18": "A",
+  "19": "C",
+  "20": "C",
+  "21": "A",
+  "22": "D",
+  "23": "C",
+  "24": "A",
+  "25": "A",
+  "26": "C",
+  "27": "C",
+  "28": "A",
+  "29": "B",
+  "30": "D",
+  "31": "A",
+  "32": "C",
+  "33": "A",
+  "34": "D",
+  "35": "B",
+  "36": "A",
+  "37": "C",
+  "38": "D",
+  "39": "C",
+  "40": "C",
+  "41": "B",
+  "42": "A",
+  "43": "D",
+  "44": "B",
+  "45": "C",
+  "46": "A",
+  "47": "C",
+  "48": "C",
+  "49": "A",
+  "50": "D",
+  "51": "B",
+  "52": "C",
+  "53": "B",
+  "54": "A",
+  "55": "A",
+  "56": "A",
+  "57": "B",
+  "58": "D",
+  "59": "B",
+  "60": "C",
+  "61": "B",
+  "62": "D",
+  "63": "D",
+  "64": "D",
+  "65": "A",
+  "66": "C",
+  "67": "B",
+  "68": "B",
+  "69": "B",
+  "70": "C",
+  "71": "A",
+  "72": "B",
+  "73": "B",
+  "74": "C",
+  "75": "D",
+  "76": "B",
+  "77": "A",
+  "78": "A",
+  "79": "A",
+  "80": "B",
+  "81": "B",
+  "82": "C",
+  "83": "B",
+  "84": "A",
+  "85": "B",
+  "86": "A",
+  "87": "B",
+  "88": "C",
+  "89": "C",
+  "90": "D",
+  "91": "D",
+  "92": "D",
+  "93": "C",
+  "94": "C",
+  "95": "C",
+  "96": "A",
+  "97": "B",
+  "98": "C",
+  "99": "D",
+  "100": "A",
+  "101": "A",
+  "102": "D",
+  "103": "D",
+  "104": "A",
+  "105": "D",
+  "106": "A",
+  "107": "D",
+  "108": "B",
+  "109": "A",
+  "110": "D",
+  "111": "A",
+  "112": "D",
+  "113": "B",
+  "114": "A",
+  "115": "B",
+  "116": "D",
+  "117": "B",
+  "118": "B",
+  "119": "B",
+  "120": "D",
+  "121": "A",
+  "122": "A",
+  "123": "D",
+  "124": "C",
+  "125": "C",
+  "126": "D",
+  "127": "D",
+  "128": "D",
+  "129": "B",
+  "130": "A",
+  "131": "A",
+  "132": "A",
+  "133": "A",
+  "134": "D",
+  "135": "B",
+  "136": "B",
+  "137": "A",
+  "138": "D",
+  "139": "A",
+  "140": "A",
+  "141": "D",
+  "142": "D",
+  "143": "A",
+  "144": "D",
+  "145": "A",
+  "146": "A",
+  "147": "D",
+  "148": "C",
+  "149": "C",
+  "150": "D",
+  "151": "D",
+  "152": "A",
+  "153": "C",
+  "154": "D",
+  "155": "D",
+  "156": "C",
+  "157": "B",
+  "158": "B",
+  "159": "D",
+  "160": "A",
+  "161": "D",
+  "162": "C",
+  "163": "D",
+  "164": "D",
+  "165": "D",
+  "166": "A",
+  "167": "D",
+  "168": "C",
+  "169": "B",
+  "170": "A",
+  "171": "C",
+  "172": "D",
+  "173": "C",
+  "174": "B",
+  "175": "C",
+  "176": "D",
+  "177": "A",
+  "178": "A",
+  "179": "A",
+  "180": "C",
+  "181": "A",
+  "182": "C",
+  "183": "B",
+  "184": "C",
+  "185": "B",
+  "186": "D",
+  "187": "C",
+  "188": "C",
+  "189": "B",
+  "190": "B",
+  "191": "D",
+  "192": "B",
+  "193": "A",
+  "194": "D",
+  "195": "C",
+  "196": "D",
+  "197": "C",
+  "198": "B",
+  "199": "B",
+  "200": "B",
+  "201": "B",
+  "202": "C",
+  "203": "C",
+  "204": "B",
+  "205": "C",
+  "206": "C",
+  "207": "B",
+  "208": "B",
+  "209": "A",
+  "210": "D",
+  "211": "B",
+  "212": "D",
+  "213": "A",
+  "214": "A",
+  "215": "C",
+  "216": "A",
+  "217": "A",
+  "218": "D",
+  "219": "D",
+  "220": "A",
+  "221": "B",
+  "222": "B",
+  "223": "B",
+  "224": "A",
+  "225": "C",
+  "226": "C",
+  "227": "B",
+  "228": "B",
+  "229": "D",
+  "230": "D",
+  "231": "D",
+  "232": "C",
+  "233": "D",
+  "234": "A",
+  "235": "C",
+  "236": "A",
+  "237": "D",
+  "238": "B",
+  "239": "B",
+  "240": "B",
+  "241": "C",
+  "242": "B",
+  "243": "B",
+  "244": "B",
+  "245": "B",
+  "246": "C",
+  "247": "A",
+  "248": "D",
+  "249": "A",
+  "250": "B",
+  "251": "A",
+  "252": "C",
+  "253": "D",
+  "254": "A",
+  "255": "C",
+  "256": "D",
+  "257": "A",
+  "258": "B",
+  "259": "A",
+  "260": "B",
+  "261": "D",
+  "262": "B",
+  "263": "A",
+  "264": "D",
+  "265": "B",
+  "266": "B",
+  "267": "B",
+  "268": "D",
+  "269": "C",
+  "270": "D",
+  "271": "A",
+  "272": "B",
+  "273": "A",
+  "274": "C",
+  "275": "D",
+  "276": "D",
+  "277": "B",
+  "278": "C",
+  "279": "D",
+  "280": "C",
+  "281": "C",
+  "282": "D",
+  "283": "B",
+  "284": "B",
+  "285": "A",
+  "286": "C",
+  "287": "D",
+  "288": "C",
+  "289": "C",
+  "290": "C",
+  "291": "D",
+  "292": "D",
+  "293": "C",
+  "294": "A",
+  "295": "D",
+  "296": "B",
+  "297": "A",
+  "298": "C",
+  "299": "C",
+  "300": "D",
+  "301": "B",
+  "302": "C",
+  "303": "A",
+  "304": "A",
+  "305": "C",
+  "306": "B",
+  "307": "D",
+  "308": "A",
+  "309": "A",
+  "310": "A",
+  "311": "A",
+  "312": "C",
+  "313": "A",
+  "314": "B",
+  "315": "A",
+  "316": "C",
+  "317": "A",
+  "318": "A",
+  "319": "A",
+  "320": "A",
+  "321": "A",
+  "322": "D",
+  "323": "B",
+  "324": "A",
+  "325": "D",
+  "326": "C",
+  "327": "A",
+  "328": "B",
+  "329": "A",
+  "330": "C",
+  "331": "D",
+  "332": "B",
+  "333": "D",
+  "334": "C",
+  "335": "A",
+  "336": "D",
+  "337": "A",
+  "338": "B",
+  "339": "A",
+  "340": "A",
+  "341": "C",
+  "342": "D",
+  "343": "A",
+  "344": "A",
+  "345": "C",
+  "346": "C",
+  "347": "C",
+  "348": "A",
+  "349": "C",
+  "350": "A",
+  "351": "A",
+  "352": "B",
+  "353": "D",
+  "354": "D",
+  "355": "A",
+  "356": "D",
+  "357": "C",
+  "358": "C",
+  "359": "A",
+  "360": "B",
+  "361": "A",
+  "362": "A",
+  "363": "D",
+  "364": "C",
+  "365": "B",
+  "366": "B",
+  "367": "B",
+  "368": "D",
+  "369": "D",
+  "370": "C",
+  "371": "C",
+  "372": "D",
+  "373": "D",
+  "374": "C",
+  "375": "A"
+ }
+}
