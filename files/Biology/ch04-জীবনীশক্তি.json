@@ -1,0 +1,7134 @@
+{
+ "subject": "জীববিজ্ঞান",
+ "chapterNo": 4,
+ "chapter": "জীবনীশক্তি",
+ "questions": [
+  {
+   "question": "দেহে দীর্ঘমেয়াদি শক্তি সঞ্চয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "চর্বি ও গ্লাইকোজেনে",
+    "D": "ATP-তে"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "সবাত শ্বসনের ধাপ সংখ্যা —",
+   "options": {
+    "A": "২টি",
+    "B": "৩টি",
+    "C": "কোনোটিই নয়",
+    "D": "৪টি"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "সালোকসংশ্লেষণ CO₂ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "নির্গত করে",
+    "D": "শোষণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "কোষ বিভাজনে শক্তি —",
+   "options": {
+    "A": "ATP থেকে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "শ্বসনের প্রতিটি ধাপে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "এনজাইম কাজ করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "পাতা চ্যাপ্টা ও চওড়া —",
+   "options": {
+    "A": "আলো শোষণে সুবিধা",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "শক্তি প্রবাহে মাংসাশী —",
+   "options": {
+    "A": "উপরের স্তরে",
+    "B": "কোনোটিই নয়",
+    "C": "নিচের স্তরে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "শ্বসনের কাঁচামাল —",
+   "options": {
+    "A": "CO₂ ও পানি",
+    "B": "গ্লুকোজ ও O₂",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "সালোকসংশ্লেষণ বায়ুমণ্ডলে O₂ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "যোগ করে",
+    "C": "কোনোটিই নয়",
+    "D": "কমায়"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "ATP গঠিত হয় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "শ্বসন ও সালোকসংশ্লেষণে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "অবাত শ্বসনে মোট ATP —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৩৬টি",
+    "C": "২টি",
+    "D": "৩৮টি"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "অন্ধকার পর্যায়ে CO₂ —",
+   "options": {
+    "A": "গ্লুকোজে পরিণত হয়",
+    "B": "O₂ হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "ATP-র শক্তি নির্গত হয় —",
+   "options": {
+    "A": "গঠনে",
+    "B": "শেষ ফসফেট বন্ধন ভাঙলে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "গ্লাইকোলাইসিসে ATP —",
+   "options": {
+    "A": "২টি (নিট)",
+    "B": "৩৪টি",
+    "C": "৩৮টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "গ্রীষ্মে সালোকসংশ্লেষণ —",
+   "options": {
+    "A": "কম হয়",
+    "B": "একই",
+    "C": "বেশি হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "ATP-র ব্যবহার —",
+   "options": {
+    "A": "সক্রিয় পরিবহণ, পেশি সংকোচনে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "উপবাসে দেহ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সঞ্চিত খাদ্য ব্যবহার করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "পাতা ঝরার সময় ক্লোরোফিল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জমে",
+    "C": "ভেঙে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "শক্তি পিরামিড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "নিচ থেকে উপরে সংকীর্ণ হয়",
+    "D": "প্রশস্ত হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "সবাত শ্বসনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হয় না",
+    "C": "অক্সিজেন ব্যবহৃত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "সালোকসংশ্লেষণ আলো পর্যায়ে পানি —",
+   "options": {
+    "A": "তৈরি হয়",
+    "B": "ভাঙা হয় (ফটোলাইসিস)",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "জীবনীশক্তি অধ্যায়ের মূল —",
+   "options": {
+    "A": "গতি",
+    "B": "শব্দ",
+    "C": "শক্তি উৎপাদন ও ব্যবহার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "সক্রিয় কোষে শ্বসন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বেশি",
+    "C": "কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "ক্লোরোপ্লাস্টকে বলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শক্তিঘর",
+    "D": "উদ্ভিদের রান্নাঘর"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "পেশি সংকোচনে ATP —",
+   "options": {
+    "A": "প্রয়োজন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "প্রয়োজন নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "ক্রেবস চক্রের অপর নাম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সাইট্রিক অ্যাসিড চক্র",
+    "C": "গ্লাইকোলাইসিস",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "অন্ধকারে রাখা উদ্ভিদ —",
+   "options": {
+    "A": "করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সালোকসংশ্লেষণ করে না"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "ATP সংশ্লেষণ হয় —",
+   "options": {
+    "A": "মাইটোকন্ড্রিয়ায়",
+    "B": "নিউক্লিয়াসে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "শ্বসনে O₂ গ্রহণ প্রমাণে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কস্টিক পটাশ/অক্সিজেন শোষক",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "শরতে ক্যারোটিনয়েড —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দৃশ্যমান হয়",
+    "C": "অদৃশ্য হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "শক্তি নির্গত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ATP ভাঙলে",
+    "C": "কিছুই না",
+    "D": "ATP গঠনে"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "শ্বসনের প্রধান জ্বালানি —",
+   "options": {
+    "A": "প্রোটিন",
+    "B": "গ্লুকোজ",
+    "C": "কোনোটিই নয়",
+    "D": "ভিটামিন"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "উদ্ভিদের প্রোটিন তৈরি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু গ্লুকোজ",
+    "D": "গ্লুকোজ + নাইট্রোজেন থেকে"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "স্নায়ু আবেগে ATP —",
+   "options": {
+    "A": "প্রয়োজন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "প্রয়োজন নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "পাইরুভেট অবাত শ্বসনে —",
+   "options": {
+    "A": "ল্যাকটিক অ্যাসিড/ইথানল হয়",
+    "B": "ক্রেবস চক্রে যায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "সালোকসংশ্লেষণে আলোর রং —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "লাল ও নীল সবচেয়ে কার্যকর",
+    "C": "সবুজ সবচেয়ে কার্যকর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "ATP ছাড়া কোষের কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চলমান",
+    "C": "অচল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "সবাত শ্বসনের প্রধান স্থান —",
+   "options": {
+    "A": "সাইটোপ্লাজম",
+    "B": "নিউক্লিয়াস",
+    "C": "কোনোটিই নয়",
+    "D": "মাইটোকন্ড্রিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "পাতার রং সবুজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্যারোটিনয়েডের",
+    "C": "ক্লোরোফিলের জন্য",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "১ গ্রাম প্রোটিনে শক্তি —",
+   "options": {
+    "A": "৪ কিলোক্যালরি",
+    "B": "২ কিলোক্যালরি",
+    "C": "৯ কিলোক্যালরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "দীর্ঘ উপবাসে —",
+   "options": {
+    "A": "চর্বি ও প্রোটিন ভাঙে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "সালোকসংশ্লেষণে স্টার্চ পরীক্ষা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "আয়োডিনে নীল হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "দেহের প্রতিটি কোষে ATP —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ব্যবহৃত হয়",
+    "C": "কিছুই না",
+    "D": "হয় না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "উদ্ভিদ দিনে —",
+   "options": {
+    "A": "শুধু শ্বসন",
+    "B": "শুধু সালোকসংশ্লেষণ",
+    "C": "কোনোটিই নয়",
+    "D": "শ্বসন ও সালোকসংশ্লেষণ দুটোই করে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "কেলভিন চক্রে ব্যবহৃত —",
+   "options": {
+    "A": "ATP ও NADPH",
+    "B": "O₂",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে শক্তি —",
+   "options": {
+    "A": "একমুখী প্রবাহিত হয়",
+    "B": "চক্রাকার",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "অক্সিজেন ছাড়া সবাত শ্বসন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সম্ভব নয়",
+    "C": "সম্ভব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "সালোকসংশ্লেষণে শক্তির রূপান্তর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আলো → রাসায়নিক",
+    "C": "রাসায়নিক → আলো",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "ATP এর পূর্ণরূপ —",
+   "options": {
+    "A": "অ্যাডেনোসিন ট্রাইফসফেট",
+    "B": "অ্যাডেনিন ট্রাইফসফেট",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "গ্লুকোজের অভাব হলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "চর্বি জ্বালানি হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "সালোকসংশ্লেষণ বায়ুমণ্ডলের —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "CO₂ ভারসাম্য নষ্ট করে",
+    "D": "O₂ ভারসাম্য রাখে"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "পেশি সংকোচনে শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ATP থেকে আসে",
+    "C": "কোনোটিই নয়",
+    "D": "DNA থেকে"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "গ্লাইকোলাইসিস —",
+   "options": {
+    "A": "অক্সিজেন ছাড়া হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অক্সিজেনে"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "ধান-গমের দানায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "চর্বি",
+    "C": "কোনোটিই নয়",
+    "D": "স্টার্চ"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে প্রতিটি ধাপে শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাড়ে",
+    "C": "কিছুই না",
+    "D": "তাপে কমে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "শ্বসনে পানি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রয়োজন নয়",
+    "C": "কিছুই না",
+    "D": "প্রয়োজন"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "আলোক পর্যায়ে পানি ভেঙে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "O₂ নির্গত হয়",
+    "C": "CO₂ নির্গত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "ATP —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শক্তি সঞ্চয় ও সরবরাহ করে",
+    "D": "শক্তি নষ্ট করে"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "শুকনো বীজ শ্বসন —",
+   "options": {
+    "A": "করে না",
+    "B": "কোনোটিই নয়",
+    "C": "ধীরে করে",
+    "D": "দ্রুত করে"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "শরতে পাতা হলুদ হয় — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্লোরোফিল ভেঙে ক্যারোটিনয়েড দেখা যায়",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "ATP-ADP চক্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "থেমে থাকে",
+    "C": "নিরন্তর চলে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "ইলেকট্রন পরিবহণ শৃঙ্খল ঘটে —",
+   "options": {
+    "A": "সাইটোপ্লাজমে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "মাইটোকন্ড্রিয়ার ক্রিস্টিতে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "সালোকসংশ্লেষণে CO₂ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নির্গত হয়",
+    "C": "কিছুই না",
+    "D": "শোষিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "শক্তি শোষিত হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ATP গঠনে",
+    "D": "ATP ভাঙলে"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "ইলেকট্রন পরিবহণ শৃঙ্খলের শেষ ইলেকট্রন গ্রহীতা —",
+   "options": {
+    "A": "CO₂",
+    "B": "অক্সিজেন",
+    "C": "কোনোটিই নয়",
+    "D": "পানি"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "সালোকসংশ্লেষণে পানি —",
+   "options": {
+    "A": "প্রয়োজন নয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "প্রয়োজন"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "জীবনীশক্তি —",
+   "options": {
+    "A": "ঐচ্ছিক",
+    "B": "জীবনের জন্য অপরিহার্য",
+    "C": "কোনোটিই নয়",
+    "D": "অপ্রয়োজনীয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "ল্যাকটিক অ্যাসিড গাঁজন ঘটে —",
+   "options": {
+    "A": "পেশি কোষে",
+    "B": "কোনোটিই নয়",
+    "C": "ইস্টে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "পাতায় রন্ধ্র —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "গ্যাস বিনিময়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "স্নায়ু আবেগে শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "ATP থেকে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "ক্রেবস চক্রে ATP —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২টি",
+    "C": "৩৮টি",
+    "D": "৩৪টি"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "অন্ধকার পর্যায় ঘটে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্ট্রোমায়",
+    "C": "গ্রানায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "গ্লাইকোজেন সঞ্চিত হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "যকৃত ও পেশিতে",
+    "C": "কোনোটিই নয়",
+    "D": "হাড়ে"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "অ্যাড্রেনালিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কমায়",
+    "C": "শ্বসন হার বাড়ায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "মেঘলা দিনে সালোকসংশ্লেষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কম হয়",
+    "C": "বেশি হয়",
+    "D": "একই"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "শ্বসন ও সালোকসংশ্লেষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "একই",
+    "D": "পরস্পর বিপরীত"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "শ্বসনের জন্য খাদ্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "প্রয়োজন",
+    "D": "প্রয়োজন নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "শীতকালে সালোকসংশ্লেষণ —",
+   "options": {
+    "A": "বেশি হয়",
+    "B": "একই",
+    "C": "কম হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "জীবনীশক্তি কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "জীবের শক্তি উৎপাদন ও ব্যবহারের প্রক্রিয়া",
+    "D": "জড়ের শক্তি"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "শ্বসনে কিছু শক্তি —",
+   "options": {
+    "A": "সব ATP হয়",
+    "B": "কিছুই না",
+    "C": "তাপ হিসেবে নষ্ট হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "সালোকসংশ্লেষণের ৪টি প্রয়োজনীয় উপাদান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আলো ও পানি",
+    "C": "CO₂ ও পানি",
+    "D": "আলো, CO₂, পানি, ক্লোরোফিল"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "১ গ্রাম শর্করায় শক্তি —",
+   "options": {
+    "A": "৯ কিলোক্যালরি",
+    "B": "৪ কিলোক্যালরি",
+    "C": "২ কিলোক্যালরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "গ্লাইকোলাইসিসের অর্থ —",
+   "options": {
+    "A": "গ্লুকোজ ভাঙা",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "গ্লুকোজ তৈরি"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "সালোকসংশ্লেষণের জন্য —",
+   "options": {
+    "A": "শুধু পানি",
+    "B": "আলো, CO₂, পানি, ক্লোরোফিল",
+    "C": "শুধু আলো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "শ্বসন ও সালোকসংশ্লেষণের সম্পর্ক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বিরোধী",
+    "D": "পরিপূরক"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "শিশুর শ্বসন হার —",
+   "options": {
+    "A": "বৃদ্ধের চেয়ে বেশি",
+    "B": "কম",
+    "C": "সমান",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "সালোকসংশ্লেষণে সঞ্চিত শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্লুকোজে থাকে",
+    "C": "ATP-তে শুধু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে শক্তির ক্ষতি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "তাপ ও শ্বসনে হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "সবাত শ্বসনে গ্লুকোজ —",
+   "options": {
+    "A": "আংশিক জারিত হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সম্পূর্ণ জারিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "সালোকসংশ্লেষণে শক্তি —",
+   "options": {
+    "A": "নির্গত হয়",
+    "B": "কিছুই না",
+    "C": "শোষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "শক্তি সঞ্চয়ের অণু —",
+   "options": {
+    "A": "ATP",
+    "B": "প্রোটিন",
+    "C": "DNA",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "বীজ শ্বসন করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "করে না",
+    "D": "সুপ্ত অবস্থায়ও"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "প্রিস্টলি প্রমাণ করেন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "উদ্ভিদ O₂ নির্গত করে",
+    "C": "উদ্ভিদ CO₂ নির্গত করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "ADP পুনরায় ATP হয় —",
+   "options": {
+    "A": "শক্তি যোগে",
+    "B": "কোনোটিই নয়",
+    "C": "শক্তি ত্যাগে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "অক্সিডেটিভ ফসফোরাইলেশনে ATP —",
+   "options": {
+    "A": "সবচেয়ে বেশি",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কম"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "সালোকসংশ্লেষণের প্রভাবক —",
+   "options": {
+    "A": "শুধু CO₂",
+    "B": "শুধু আলো",
+    "C": "কোনোটিই নয়",
+    "D": "আলো, CO₂, তাপমাত্রা, পানি"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "ATP দীর্ঘমেয়াদি সঞ্চয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "হয়",
+    "D": "হয় না"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "রুটির ফোলাভাব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "O₂ এর কারণে",
+    "C": "কোনোটিই নয়",
+    "D": "CO₂ বুদবুদের কারণে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "আলুতে সঞ্চিত —",
+   "options": {
+    "A": "সুক্রোজ",
+    "B": "কোনোটিই নয়",
+    "C": "প্রোটিন",
+    "D": "স্টার্চ"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "ATP-তে শক্তি সঞ্চিত থাকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যাডেনিনে",
+    "C": "ফসফেট বন্ধনে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "গ্লুকোজের রাসায়নিক শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ATP-তে রূপান্তরিত হয়",
+    "C": "নষ্ট হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "অন্ধকার পর্যায়ে —",
+   "options": {
+    "A": "আলো লাগে না",
+    "B": "আলো লাগে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "সৌর শক্তি → উদ্ভিদ → প্রাণী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শক্তি প্রবাহ",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "ইলেকট্রন পরিবহণ শৃঙ্খলে ATP —",
+   "options": {
+    "A": "প্রায় ৩৪টি",
+    "B": "কোনোটিই নয়",
+    "C": "২টি",
+    "D": "৪টি"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "কেলভিন চক্রে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "O₂ তৈরি হয়",
+    "D": "CO₂ গ্লুকোজে রূপান্তরিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "ATP শক্তি ব্যবহার হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দেহের সব কাজে",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "ক্রেবস চক্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সবাত শ্বসনের অংশ",
+    "C": "অবাত শ্বসনের",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "রাতে সালোকসংশ্লেষণ —",
+   "options": {
+    "A": "চলে",
+    "B": "থেমে থাকে",
+    "C": "বাড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "কোষ বিভাজনে ATP —",
+   "options": {
+    "A": "প্রয়োজন",
+    "B": "কোনোটিই নয়",
+    "C": "প্রয়োজন নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "শ্বসনের ধরন —",
+   "options": {
+    "A": "সবাত ও অবাত",
+    "B": "শুধু সবাত",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু অবাত"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "জ্যান ব্যাপ্টিস্ট ভ্যান হেলমন্ট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "উদ্ভিদের ভর পানি থেকে বাড়ে দেখান"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "চর্বি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কম শক্তি",
+    "C": "সর্বোচ্চ শক্তির উৎস",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "শ্বসনের সর্বশেষ উৎপাদ (সবাত) —",
+   "options": {
+    "A": "ল্যাকটিক অ্যাসিড",
+    "B": "কোনোটিই নয়",
+    "C": "ইথানল",
+    "D": "CO₂ ও পানি"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "আলোক পর্যায়ে ATP তৈরি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ফটোফসফোরাইলেশনে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "সক্রিয় পরিবহণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ATP লাগে",
+    "C": "কিছুই না",
+    "D": "লাগে না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "অবাত শ্বসনে শক্তি —",
+   "options": {
+    "A": "বেশি",
+    "B": "কিছুই না",
+    "C": "কম উৎপন্ন হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "পাতার শিরা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "পানি ও খাদ্য পরিবহণে"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "শক্তি প্রবাহে উদ্ভিদ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রথম স্তর",
+    "C": "কিছুই না",
+    "D": "শেষ স্তর"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "অবাত শ্বসনে গ্লুকোজ —",
+   "options": {
+    "A": "আংশিক জারিত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "সম্পূর্ণ জারিত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "সালোকসংশ্লেষণের স্থান —",
+   "options": {
+    "A": "মাইটোকন্ড্রিয়া",
+    "B": "নিউক্লিয়াস",
+    "C": "ক্লোরোপ্লাস্ট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "জীবনীশক্তি অধ্যায় —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "অগুরুত্বপূর্ণ",
+    "C": "ঐচ্ছিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "ব্যায়ামে CO₂ —",
+   "options": {
+    "A": "কম",
+    "B": "কিছুই না",
+    "C": "বেশি উৎপন্ন হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "CO₂ শোষণ প্রমাণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চুনের পানি/বাইকার্বনেট",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "সালোকসংশ্লেষণ ও শ্বসন —",
+   "options": {
+    "A": "শক্তির চক্র সম্পন্ন করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "সবাত শ্বসনের সর্বোচ্চ ATP আসে —",
+   "options": {
+    "A": "ইলেকট্রন পরিবহণ শৃঙ্খলে",
+    "B": "কোনোটিই নয়",
+    "C": "গ্লাইকোলাইসিসে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "ক্লোরোফিল a ও b —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অপ্রধান",
+    "C": "প্রধান রঞ্জক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "শক্তি পিরামিডের শীর্ষ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শীর্ষ মাংসাশী",
+    "D": "উৎপাদক"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "শ্বসনের নিয়ন্ত্রণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "এনজাইমে হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "সালোকসংশ্লেষণে আলোর প্রয়োজন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ইনজেনহাউজ প্রমাণ করেন"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "জীবের শক্তির মুদ্রা —",
+   "options": {
+    "A": "RNA",
+    "B": "কোনোটিই নয়",
+    "C": "DNA",
+    "D": "ATP"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "মাইটোকন্ড্রিয়ার ক্রিস্টিতে —",
+   "options": {
+    "A": "গ্লাইকোলাইসিস ঘটে",
+    "B": "ইলেকট্রন পরিবহণ শৃঙ্খল ঘটে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "জলজ উদ্ভিদের সালোকসংশ্লেষণে —",
+   "options": {
+    "A": "CO₂ বুদবুদ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "O₂ বুদবুদ ওঠে"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "ATP ব্যবহারের পর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ADP হয়",
+    "D": "AMP হয় শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "ইলেকট্রন পরিবহণ শৃঙ্খলে শক্তি —",
+   "options": {
+    "A": "ATP-তে রূপান্তরিত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "নষ্ট হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "সবুজ আলো উদ্ভিদ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বেশি শোষণ করে",
+    "C": "কিছুই না",
+    "D": "কম শোষণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "হজম ও শোষণে ATP —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্রয়োজন",
+    "C": "প্রয়োজন নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "অবাত শ্বসনে —",
+   "options": {
+    "A": "অক্সিজেনে",
+    "B": "কোনোটিই নয়",
+    "C": "অক্সিজেন ছাড়া হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "সালোকসংশ্লেষণে নির্গত O₂ আসে —",
+   "options": {
+    "A": "CO₂ থেকে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পানি থেকে"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "ATP-তে থাকে —",
+   "options": {
+    "A": "শুধু ফসফেট",
+    "B": "অ্যাডেনিন, রাইবোজ, ৩টি ফসফেট",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "NADH ও FADH₂ —",
+   "options": {
+    "A": "অক্সিজেন বাহক",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ইলেকট্রন বাহক"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "আলোক পর্যায়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আলো প্রয়োজন",
+    "C": "আলো লাগে না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "প্রোটিন সংশ্লেষণে ATP —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রয়োজন নয়",
+    "C": "প্রয়োজন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "অবাত শ্বসনে ATP আসে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু গ্লাইকোলাইসিস থেকে",
+    "C": "কোনোটিই নয়",
+    "D": "ক্রেবস থেকে"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "ফলের মিষ্টি —",
+   "options": {
+    "A": "শর্করা (গ্লুকোজ, ফ্রুক্টোজ) থেকে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "প্রোটিন থেকে"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে ১০% নিয়ম —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "এক স্তর থেকে ১০% শক্তি যায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "শ্বসনের প্রথম ধাপ —",
+   "options": {
+    "A": "গ্লাইকোলাইসিস",
+    "B": "ইলেকট্রন পরিবহণ",
+    "C": "কোনোটিই নয়",
+    "D": "ক্রেবস চক্র"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলের প্রথম ধাপ —",
+   "options": {
+    "A": "সবুজ উদ্ভিদ",
+    "B": "মাংসাশী",
+    "C": "তৃণভোজী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "১ গ্রাম চর্বিতে শক্তি —",
+   "options": {
+    "A": "৪ কিলোক্যালরি",
+    "B": "৯ কিলোক্যালরি",
+    "C": "কোনোটিই নয়",
+    "D": "২ কিলোক্যালরি"
+   },
+   "correctAnswer": "B",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "পাইরুভেট সবাত শ্বসনে —",
+   "options": {
+    "A": "মাইটোকন্ড্রিয়ায় যায়",
+    "B": "ল্যাকটিক অ্যাসিড হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "খুব বেশি তাপমাত্রায় সালোকসংশ্লেষণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বাড়ে",
+    "C": "কমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "ATP ভেঙে —",
+   "options": {
+    "A": "AMP + শক্তি",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ADP + শক্তি হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "অঙ্কুরিত বীজ CO₂ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শোষণ করে",
+    "C": "নির্গত করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "ক্লোরোফিল —",
+   "options": {
+    "A": "সবুজ রঞ্জক",
+    "B": "কোনোটিই নয়",
+    "C": "লাল রঞ্জক",
+    "D": "নীল রঞ্জক"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "শক্তি পিরামিডের ভিত্তি —",
+   "options": {
+    "A": "উৎপাদক",
+    "B": "মাংসাশী",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "শ্বসন প্রমাণে চুনের পানি —",
+   "options": {
+    "A": "O₂-তে",
+    "B": "CO₂-তে ঘোলা হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "সেলুলোজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কোষপ্রাচীরের উপাদান",
+    "C": "খাদ্য",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "ADP → ATP বিক্রিয়া —",
+   "options": {
+    "A": "শক্তি শোষণ করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শক্তি নির্গত করে"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "ATP ছাড়া শক্তি ব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সম্ভব",
+    "C": "সম্ভব নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "সালোকসংশ্লেষণের কাঁচামাল —",
+   "options": {
+    "A": "O₂ ও গ্লুকোজ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "CO₂ ও পানি"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "ATP-তে ফসফেট বন্ধন —",
+   "options": {
+    "A": "নিম্ন শক্তির",
+    "B": "কোনোটিই নয়",
+    "C": "উচ্চ শক্তির",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "সবাত শ্বসনে ATP আসে —",
+   "options": {
+    "A": "গ্লাইকোলাইসিস, ক্রেবস, ইলেকট্রন পরিবহণ থেকে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু গ্লাইকোলাইসিস"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "হাইড্রিলা উদ্ভিদ পরীক্ষায় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "O₂ নির্গমন দেখা যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "ATP-র উচ্চ শক্তির বন্ধন —",
+   "options": {
+    "A": "অ্যাডেনিন-রাইবোজে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ফসফেট-ফসফেটের মধ্যে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "শ্বসনের সমীকরণ —",
+   "options": {
+    "A": "6CO₂ + 6H₂O → গ্লুকোজ",
+    "B": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + শক্তি",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "উদ্ভিদের ATP —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু শ্বসনে",
+    "C": "কিছুই না",
+    "D": "সালোকসংশ্লেষণ ও শ্বসন দুটোতে হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "ATP কে বলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শক্তির মুদ্রা",
+    "D": "শক্তির ভান্ডার"
+   },
+   "correctAnswer": "C",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "ক্রেবস চক্রে পাইরুভেটের আগে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "গ্লুকোজ হয়",
+    "D": "অ্যাসিটাইল-CoA হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "সালোকসংশ্লেষণের শক্তির উৎস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সূর্যালোক",
+    "D": "ATP"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "জীবজগতের শক্তি প্রবাহের উৎস —",
+   "options": {
+    "A": "সূর্য",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "চাঁদ"
+   },
+   "correctAnswer": "A",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "পেশিতে অবাত শ্বসনে —",
+   "options": {
+    "A": "ল্যাকটিক অ্যাসিড হয়",
+    "B": "কোনোটিই নয়",
+    "C": "ইথানল হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "O₂ নির্গত হলে দিয়াশলাই —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিভে যায়",
+    "C": "কিছুই না",
+    "D": "উজ্জ্বলভাবে জ্বলে"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "জীবের শক্তির প্রধান উৎস —",
+   "options": {
+    "A": "চাঁদ",
+    "B": "তারা",
+    "C": "কোনোটিই নয়",
+    "D": "সূর্য"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "দেহের তাপমাত্রা বজায় থাকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "শ্বসনের তাপে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "সালোকসংশ্লেষণে O₂ নির্গমন প্রমাণে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পানির বুদবুদ/দিয়াশলাই পরীক্ষা",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "ATP → ADP + Pi বিক্রিয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শক্তি শোষণ করে",
+    "C": "কিছুই না",
+    "D": "শক্তি নির্গত করে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "অঙ্কুরিত বীজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "বেশি O₂ নেয় ও CO₂ ছাড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "কেলভিন চক্রের প্রথম ধাপে CO₂ যুক্ত হয় —",
+   "options": {
+    "A": "গ্লুকোজে",
+    "B": "RuBP-তে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "গ্লাইকোজেন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রোটিন",
+    "C": "চর্বি",
+    "D": "শর্করার সঞ্চিত রূপ"
+   },
+   "correctAnswer": "D",
+   "topic": "জীবনীশক্তির ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "শ্বসনের উপজাত —",
+   "options": {
+    "A": "CO₂ ও পানি",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "O₂"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "সালোকসংশ্লেষণকারী কোষে —",
+   "options": {
+    "A": "ক্লোরোপ্লাস্ট থাকে",
+    "B": "থাকে না",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "অবাত শ্বসনের প্রকার —",
+   "options": {
+    "A": "তিন",
+    "B": "কোনোটিই নয়",
+    "C": "ল্যাকটিক অ্যাসিড গাঁজন ও অ্যালকোহলিক গাঁজন",
+    "D": "শুধু এক"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "পাতায় স্টার্চ পরীক্ষায় আয়োডিন —",
+   "options": {
+    "A": "নীল-কালো রং দেয়",
+    "B": "লাল",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "মাইটোকন্ড্রিয়া সমৃদ্ধ কোষ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "পেশি, যকৃৎ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "সবুজ কাণ্ড —",
+   "options": {
+    "A": "পারে না",
+    "B": "কিছুই না",
+    "C": "সালোকসংশ্লেষণ করতে পারে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "অবাত শ্বসনে কম ATP — কারণ?",
+   "options": {
+    "A": "ক্রেবস হয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু গ্লাইকোলাইসিস হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "সালোকসংশ্লেষণে রঞ্জক —",
+   "options": {
+    "A": "ক্লোরোফিল",
+    "B": "হিমোগ্লোবিন",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "অবাত শ্বসনে ক্রেবস চক্র —",
+   "options": {
+    "A": "ঘটে না",
+    "B": "ঘটে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "সালোকসংশ্লেষণের হার মাপা যায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "O₂ নির্গমন বা CO₂ শোষণে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "শ্বসনে CO₂ —",
+   "options": {
+    "A": "ব্যবহৃত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "উৎপন্ন হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "উদ্ভিদ সবুজ দেখায় — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সবুজ শোষণ করে",
+    "D": "সবুজ আলো প্রতিফলিত করে"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "অবাত শ্বসনে পাইরুভেট থেকে —",
+   "options": {
+    "A": "ল্যাকটিক অ্যাসিড বা ইথানল",
+    "B": "CO₂ ও পানি শুধু",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "আলো না পেলে উদ্ভিদ —",
+   "options": {
+    "A": "ফ্যাকাসে হয়",
+    "B": "কিছুই না",
+    "C": "সবুজ থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "উদ্ভিদ রাতে —",
+   "options": {
+    "A": "শ্বসন করে",
+    "B": "কিছুই না",
+    "C": "সালোকসংশ্লেষণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "অন্ধকারে উদ্ভিদ —",
+   "options": {
+    "A": "সালোকসংশ্লেষণও করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু শ্বসন করে"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "গ্লাইকোলাইসিসে গ্লুকোজ —",
+   "options": {
+    "A": "২টি পাইরুভেটে ভাঙে",
+    "B": "কোনোটিই নয়",
+    "C": "১টি পাইরুভেটে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "সালোকসংশ্লেষণের সর্বোত্তম তাপমাত্রা —",
+   "options": {
+    "A": "২৫-৩৫°C",
+    "B": "কোনোটিই নয়",
+    "C": "০°C",
+    "D": "৬০°C"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "শ্বসনে চর্বি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জ্বালানি হিসেবে ব্যবহৃত হয়",
+    "C": "কিছুই না",
+    "D": "হয় না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "স্পঞ্জি কোষে —",
+   "options": {
+    "A": "থাকে না",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বায়ুফাঁক থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "শ্বসন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অপচিতি (catabolism)",
+    "C": "কোনোটিই নয়",
+    "D": "উপচিতি"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "অন্ধকার পর্যায়ের অপর নাম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কেলভিন চক্র",
+    "D": "ক্রেবস চক্র"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "ADP থেকে ATP —",
+   "options": {
+    "A": "শ্বসনের শক্তিতে হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "সালোকসংশ্লেষণে আলোক শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "রাসায়নিক শক্তিতে রূপান্তরিত হয়",
+    "D": "তাপে"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "ATP ভাঙলে —",
+   "options": {
+    "A": "AMP ও শক্তি",
+    "B": "কোনোটিই নয়",
+    "C": "ADP ও শক্তি হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "শরতে ক্লোরোফিল —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ভেঙে যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "মাইটোকন্ড্রিয়ার ম্যাট্রিক্সে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্রেবস চক্র ঘটে",
+    "C": "ইলেকট্রন পরিবহণ ঘটে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "CO₂ বাড়লে সালোকসংশ্লেষণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "এক সীমা পর্যন্ত বাড়ে",
+    "C": "কমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "অঙ্কুরিত বীজের শ্বসন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ধীর",
+    "C": "কোনোটিই নয়",
+    "D": "দ্রুত"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "ক্লোরোফিলের কেন্দ্রে —",
+   "options": {
+    "A": "লোহা (Fe)",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ম্যাগনেসিয়াম (Mg)"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "খাদ্যের শক্তির চূড়ান্ত রূপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ATP",
+    "C": "কোনোটিই নয়",
+    "D": "গ্লুকোজ"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "RuBP —",
+   "options": {
+    "A": "৫-কার্বন শর্করা",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "৩-কার্বন শর্করা"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "গ্লাইকোলাইসিসের শেষ উৎপাদ —",
+   "options": {
+    "A": "গ্লুকোজ",
+    "B": "কিছুই না",
+    "C": "পাইরুভেট, ATP, NADH",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "সবুজ উদ্ভিদকে বলে —",
+   "options": {
+    "A": "বিয়োজক",
+    "B": "ভোক্তা",
+    "C": "কোনোটিই নয়",
+    "D": "উৎপাদক"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "গ্লাইকোলাইসিসে নিট ATP —",
+   "options": {
+    "A": "৪টি",
+    "B": "কোনোটিই নয়",
+    "C": "৩৮টি",
+    "D": "২টি"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "সালোকসংশ্লেষণ কাকে বলে?",
+   "options": {
+    "A": "আলো ব্যবহার করে খাদ্য তৈরি",
+    "B": "খাদ্য ভাঙা",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "রেসপিরোমিটার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শ্বসনের হার মাপে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "প্যালিসেড কোষ পাতার —",
+   "options": {
+    "A": "উপরের দিকে",
+    "B": "কিছুই না",
+    "C": "নিচের দিকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "ভ্রূণ ও অঙ্কুরের শ্বসন —",
+   "options": {
+    "A": "কম",
+    "B": "বেশি",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "উদ্ভিদ গ্লুকোজকে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "স্টার্চ, সেলুলোজ, প্রোটিনে রূপান্তর করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "শ্বসনের স্থান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মাইটোকন্ড্রিয়া",
+    "C": "নিউক্লিয়াস",
+    "D": "ক্লোরোপ্লাস্ট"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "সালোকসংশ্লেষণে ATP —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অন্ধকারে",
+    "C": "আলোক পর্যায়ে তৈরি হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "শ্বসনে অক্সিজেনের ভূমিকা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "প্রথম দাতা",
+    "D": "শেষ ইলেকট্রন গ্রহীতা"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "মানুষ উদ্ভিদ থেকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "খাদ্য ও শক্তি পায়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "শ্বসনে উৎপন্ন পানি —",
+   "options": {
+    "A": "দেহে ব্যবহৃত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "সব বের হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "ফটোফসফোরাইলেশন —",
+   "options": {
+    "A": "আলোতে ATP তৈরি",
+    "B": "কিছুই না",
+    "C": "অন্ধকারে ATP",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "শ্বসন ছাড়া জীবন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অসম্ভব",
+    "C": "সম্ভব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "ক্যারোটিনয়েড —",
+   "options": {
+    "A": "প্রধান রঞ্জক",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সহায়ক রঞ্জক"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "সক্রিয় কোষে মাইটোকন্ড্রিয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বেশি",
+    "C": "কম",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "ক্যারোটিনয়েডের রং —",
+   "options": {
+    "A": "লাল",
+    "B": "হলুদ-কমলা",
+    "C": "সবুজ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "সবাত শ্বসনে এক অণু গ্লুকোজ থেকে ATP —",
+   "options": {
+    "A": "২টি",
+    "B": "৪টি",
+    "C": "কোনোটিই নয়",
+    "D": "৩৮টি"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "সালোকসংশ্লেষণের প্রধান অঙ্গ —",
+   "options": {
+    "A": "মূল",
+    "B": "কোনোটিই নয়",
+    "C": "ফুল",
+    "D": "পাতা"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "এনজাইম ছাড়া শ্বসন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সম্ভব",
+    "C": "সম্ভব নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "সালোকসংশ্লেষণের গুরুত্ব —",
+   "options": {
+    "A": "খাদ্য ও O₂ সরবরাহ",
+    "B": "কোনোটিই নয়",
+    "C": "শক্তি উৎপাদন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "ক্রেবস চক্র ঘটে —",
+   "options": {
+    "A": "সাইটোপ্লাজমে",
+    "B": "মাইটোকন্ড্রিয়ায়",
+    "C": "নিউক্লিয়াসে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "ATP ও NADPH আসে —",
+   "options": {
+    "A": "আলোক পর্যায় থেকে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "অন্ধকার পর্যায় থেকে"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "দইয়ে ব্যাকটেরিয়া —",
+   "options": {
+    "A": "ইথানল তৈরি করে",
+    "B": "কিছুই না",
+    "C": "ল্যাকটিক অ্যাসিড তৈরি করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "সালোকসংশ্লেষণ কয়টি পর্যায়ে হয়?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২",
+    "C": "৩",
+    "D": "১"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "ইস্টের অবাত শ্বসনকে বলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্রেবস চক্র",
+    "C": "গাঁজন (fermentation)",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "সালোকসংশ্লেষণ ঘটে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সবুজ উদ্ভিদে",
+    "C": "কিছুই না",
+    "D": "প্রাণীতে"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "শ্বসন কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "খাদ্য জারিত হয়ে শক্তি উৎপাদন",
+    "D": "খাদ্য তৈরি"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "পাতার সাদা/হলুদ অংশে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "থাকে",
+    "C": "স্টার্চ থাকে না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "সাবস্ট্রেট-লেভেল ফসফোরাইলেশন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "গ্লাইকোলাইসিস/ক্রেবসে ATP"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "ক্লোরোপ্লাস্ট সমৃদ্ধ কোষ —",
+   "options": {
+    "A": "পাতার মেসোফিল",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "মূল"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "জারণ-বিজারণ বিক্রিয়া —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শ্বসনের ভিত্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "মূল কোষে ক্লোরোপ্লাস্ট —",
+   "options": {
+    "A": "থাকে না",
+    "B": "থাকে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "ক্রেবস চক্রে NADH ও FADH₂ —",
+   "options": {
+    "A": "উৎপন্ন হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ব্যবহৃত হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "সালোকসংশ্লেষণের ATP —",
+   "options": {
+    "A": "শ্বসনে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "অন্ধকার পর্যায়ে ব্যবহৃত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "শ্বসনের গুরুত্ব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "খাদ্য তৈরি",
+    "D": "শক্তি উৎপাদন"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "স্টার্চ পরীক্ষা প্রমাণ করে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সালোকসংশ্লেষণ ক্লোরোফিলে হয়",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "শ্বসন হার নিয়ন্ত্রণে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "স্নায়ুতন্ত্র ও হরমোন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "গ্রানা গঠিত —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ক্রিস্টিতে",
+    "D": "থাইলাকয়েডে"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "ATP উৎপাদনের প্রধান প্রক্রিয়া —",
+   "options": {
+    "A": "সালোকসংশ্লেষণ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শ্বসন"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "সালোকসংশ্লেষণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অপচিতি",
+    "C": "কোনোটিই নয়",
+    "D": "উপচিতি (anabolism)"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "শ্বসনের হার বাড়ে —",
+   "options": {
+    "A": "ব্যায়ামে",
+    "B": "ঘুমে",
+    "C": "কোনোটিই নয়",
+    "D": "বিশ্রামে"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "স্টার্চ সঞ্চিত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "কন্দ, বীজ, ফলে",
+    "D": "পাতায় শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "গাঁজনে —",
+   "options": {
+    "A": "ইথানল ও CO₂ উৎপন্ন হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "O₂ উৎপন্ন হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "ফণীমনসার কাণ্ড —",
+   "options": {
+    "A": "সালোকসংশ্লেষণ করে",
+    "B": "কিছুই না",
+    "C": "করে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "সবাত শ্বসনে মোট ATP ২+২+৩৪ = ?",
+   "options": {
+    "A": "৪০",
+    "B": "কোনোটিই নয়",
+    "C": "৩৬",
+    "D": "৩৮"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "আলোর তীব্রতা বাড়লে সালোকসংশ্লেষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "এক সীমা পর্যন্ত বাড়ে",
+    "C": "কিছুই না",
+    "D": "কমে"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "ইলেকট্রন পরিবহণ শৃঙ্খলে ইলেকট্রন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "এক ধাপে",
+    "C": "কিছুই না",
+    "D": "ধাপে ধাপে স্থানান্তরিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "ফটোলাইসিস কাকে বলে?",
+   "options": {
+    "A": "পানির আলোতে ভাঙন",
+    "B": "কোনোটিই নয়",
+    "C": "CO₂ ভাঙন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "খুব বেশি তাপে শ্বসন —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কোনোটিই নয়",
+    "C": "কমে (এনজাইম নষ্ট)",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "পাতা সালোকসংশ্লেষণের জন্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অভিযোজিত",
+    "D": "অনুপযুক্ত"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "সবাত শ্বসনের সম্পূর্ণ প্রক্রিয়ায় মোট ATP —",
+   "options": {
+    "A": "৪টি",
+    "B": "কোনোটিই নয়",
+    "C": "৩৮টি",
+    "D": "২টি"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "আলোক পর্যায়ে উৎপন্ন হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ATP ও NADPH",
+    "D": "গ্লুকোজ"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "সবাত শ্বসন বেশি কার্যকর — কারণ?",
+   "options": {
+    "A": "গ্লুকোজ সম্পূর্ণ জারিত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অসম্পূর্ণ জারিত হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "ক্লোরোফিল থাকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "থাইলাকয়েড ঝিল্লিতে",
+    "D": "স্ট্রোমায়"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "শ্বসন পরীক্ষায় কস্টিক পটাশ —",
+   "options": {
+    "A": "O₂ শোষণ করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "CO₂ শোষণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "পাতার সবুজ অংশে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্টার্চ পাওয়া যায়",
+    "C": "পাওয়া যায় না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "শ্বসনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শক্তি শোষিত হয়",
+    "C": "শক্তি নির্গত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "সুক্রোজ পরিবহণ হয় —",
+   "options": {
+    "A": "জাইলেমে",
+    "B": "কোনোটিই নয়",
+    "C": "ফ্লোয়েমে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "গাঁজন থেকে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অ্যালকোহল, ভিনেগার, দই"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "প্যালিসেড কোষে —",
+   "options": {
+    "A": "কম",
+    "B": "কোনোটিই নয়",
+    "C": "ক্লোরোপ্লাস্ট বেশি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "ইস্টের অবাত শ্বসনে —",
+   "options": {
+    "A": "ল্যাকটিক অ্যাসিড",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ইথানল ও CO₂ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "সালোকসংশ্লেষণে প্রথম স্থিতিশীল উৎপাদ —",
+   "options": {
+    "A": "গ্লুকোজ",
+    "B": "PGA (৩-কার্বন)",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "গ্লুকোজ সম্পূর্ণ জারণের উৎপাদ —",
+   "options": {
+    "A": "ল্যাকটিক অ্যাসিড",
+    "B": "CO₂ ও পানি",
+    "C": "ইথানল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "আলোক পর্যায় ঘটে —",
+   "options": {
+    "A": "গ্রানায়",
+    "B": "স্ট্রোমায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "বৃদ্ধ কোষের শ্বসন —",
+   "options": {
+    "A": "বেশি",
+    "B": "কোনোটিই নয়",
+    "C": "কম",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "পাতা ঝরে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্রীষ্মে",
+    "C": "শরতে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "CO₂ চুনের পানিতে —",
+   "options": {
+    "A": "ঘোলা করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "স্বচ্ছ করে"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "সালোকসংশ্লেষণ আবিষ্কারে অবদান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ডারউইন",
+    "C": "ভ্যান হেলমন্ট, প্রিস্টলি, ইনজেনহাউজ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "গ্লাইকোলাইসিসে NADH —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "উৎপন্ন হয়",
+    "D": "ব্যবহৃত হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "মূল সালোকসংশ্লেষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "করে",
+    "C": "করে না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "থাইরক্সিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শ্বসন হার বাড়ায়",
+    "D": "কমায়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "সালোকসংশ্লেষণ খাদ্যশৃঙ্খলের —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শীর্ষ",
+    "C": "কোনোটিই নয়",
+    "D": "ভিত্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "সবাত শ্বসনের জন্য —",
+   "options": {
+    "A": "অপ্রয়োজনীয়",
+    "B": "মাইটোকন্ড্রিয়া অপরিহার্য",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "সালোকসংশ্লেষণের সমীকরণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "গ্লুকোজ + O₂ → CO₂ + পানি",
+    "C": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "শ্বসনের উৎপাদ —",
+   "options": {
+    "A": "গ্লুকোজ ও O₂",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "CO₂ ও পানি"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "মেসোফিল টিস্যু —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "সালোকসংশ্লেষণের প্রধান স্থান",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "NAD⁺ → NADH —",
+   "options": {
+    "A": "বিজারণ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "জারণ"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "সালোকসংশ্লেষণে স্টার্চ —",
+   "options": {
+    "A": "মূলে জমা হয়",
+    "B": "পাতায় জমা হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "মাইটোকন্ড্রিয়াকে বলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "কোষের রান্নাঘর",
+    "D": "কোষের শক্তিঘর"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "সালোকসংশ্লেষণের প্রথম উৎপাদ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্লুকোজ",
+    "C": "স্টার্চ",
+    "D": "সুক্রোজ"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "শ্বসন একটি —",
+   "options": {
+    "A": "জারণ-বিজারণ প্রক্রিয়া",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "সেলুলোজ তৈরি হয় —",
+   "options": {
+    "A": "CO₂ থেকে",
+    "B": "গ্লুকোজ থেকে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "শ্বসন ও বয়স —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সম্পর্কিত",
+    "C": "কোনোটিই নয়",
+    "D": "সম্পর্কহীন"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "সালোকসংশ্লেষণের উৎপাদ —",
+   "options": {
+    "A": "CO₂ ও পানি",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "গ্লুকোজ ও O₂"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "NADH → NAD⁺ —",
+   "options": {
+    "A": "বিজারণ",
+    "B": "কোনোটিই নয়",
+    "C": "জারণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "সালোকসংশ্লেষণের হার সর্বোচ্চ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মধ্যাহ্নে",
+    "C": "ভোরে",
+    "D": "মধ্যরাতে"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "গ্লাইকোলাইসিসে গ্লুকোজ → ?",
+   "options": {
+    "A": "পাইরুভিক অ্যাসিড",
+    "B": "কোনোটিই নয়",
+    "C": "ইথানল",
+    "D": "ল্যাকটিক অ্যাসিড"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "উদ্ভিদের খাদ্য সঞ্চয় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সালোকসংশ্লেষণের ফল"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "ATP তৈরির প্রধান পথ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অক্সিডেটিভ ফসফোরাইলেশন",
+    "D": "সাবস্ট্রেট-লেভেল"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "ক্লোরোফিল ও হিমোগ্লোবিনের পার্থক্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কেন্দ্রীয় ধাতুতে"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "বীজের শ্বসন প্রমাণে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "CO₂ নির্গমন ও তাপ মাপা হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "সালোকসংশ্লেষণ ছাড়া খাদ্যশৃঙ্খল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অসম্ভব",
+    "C": "কোনোটিই নয়",
+    "D": "সম্ভব"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "শ্বসনে O₂ —",
+   "options": {
+    "A": "ব্যবহৃত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "উৎপন্ন হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "ক্লোরোপ্লাস্টের গ্রানায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "আলোক পর্যায় ঘটে",
+    "C": "কোনোটিই নয়",
+    "D": "অন্ধকার পর্যায়"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "শ্বসনে শক্তির রূপান্তর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "রাসায়নিক → ATP",
+    "D": "ATP → রাসায়নিক"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "ইনজেনহাউজ দেখান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আলো লাগে না",
+    "C": "সালোকসংশ্লেষণে আলো প্রয়োজন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "ব্যায়ামে শ্বসন বাড়ে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "স্নায়ু ও হরমোনের প্রভাবে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "ক্লোরোপ্লাস্টের স্ট্রোমায় —",
+   "options": {
+    "A": "অন্ধকার পর্যায় ঘটে",
+    "B": "আলোক পর্যায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "গ্লুকোজ আংশিক জারণের উৎপাদ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ল্যাকটিক অ্যাসিড/ইথানল",
+    "D": "CO₂ ও পানি"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "গ্লুকোজ পরে —",
+   "options": {
+    "A": "CO₂ হয়",
+    "B": "স্টার্চে রূপান্তরিত হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "রুটি তৈরিতে —",
+   "options": {
+    "A": "ইস্টের গাঁজন",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ব্যাকটেরিয়া"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "সালোকসংশ্লেষণের পর্যায় —",
+   "options": {
+    "A": "শুধু আলোক",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু অন্ধকার",
+    "D": "আলোক ও অন্ধকার পর্যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "জারণ কাকে বলে?",
+   "options": {
+    "A": "ইলেকট্রন/অক্সিজেন গ্রহণ",
+    "B": "কোনোটিই নয়",
+    "C": "ইলেকট্রন ত্যাগ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "ফটোলাইসিসে উৎপন্ন —",
+   "options": {
+    "A": "O₂, H⁺, ইলেকট্রন",
+    "B": "কোনোটিই নয়",
+    "C": "CO₂",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "শ্বসনে গ্লুকোজের সঞ্চিত শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মুক্ত হয়",
+    "C": "বাড়ে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "সালোকসংশ্লেষণ শব্দের অর্থ —",
+   "options": {
+    "A": "আলো দিয়ে তৈরি",
+    "B": "কোনোটিই নয়",
+    "C": "আলো দিয়ে ভাঙা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "মাইটোকন্ড্রিয়াহীন কোষে সবাত শ্বসন —",
+   "options": {
+    "A": "সম্ভব নয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সম্ভব"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "সালোকসংশ্লেষণে শর্করা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "গ্লুকোজ প্রথম",
+    "D": "সুক্রোজ প্রথম"
+   },
+   "correctAnswer": "C",
+   "topic": "সালোকসংশ্লেষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "ইলেকট্রন স্থানান্তরে শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "একবারে",
+    "C": "কিছুই না",
+    "D": "ধাপে ধাপে মুক্ত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "অঙ্কুরিত বীজে তাপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উৎপন্ন হয়",
+    "C": "শোষিত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "বিজারণ কাকে বলে?",
+   "options": {
+    "A": "ইলেকট্রন গ্রহণ",
+    "B": "ইলেকট্রন ত্যাগ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "দই তৈরিতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অ্যালকোহলিক গাঁজন",
+    "D": "ল্যাকটিক অ্যাসিড গাঁজন"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "পেশিতে অতিরিক্ত ল্যাকটিক অ্যাসিড —",
+   "options": {
+    "A": "উপকার",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ক্লান্তি ঘটায়"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "ইস্ট রুটিতে CO₂ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তৈরি করে ফোলায়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "পেশিতে ল্যাকটিক অ্যাসিড জমে —",
+   "options": {
+    "A": "ঘুমে",
+    "B": "ব্যায়ামের সময়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "শ্বসনে চাপের পরিবর্তন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "O₂ শোষণে চাপ কমে",
+    "D": "CO₂ নির্গমনে বাড়ে"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "শ্বসনে তাপমাত্রা —",
+   "options": {
+    "A": "ফেলে না",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "প্রভাব ফেলে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "অবাত শ্বসনে ইলেকট্রন পরিবহণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ঘটে না",
+    "C": "কোনোটিই নয়",
+    "D": "ঘটে"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "শ্বসনে খাদ্যের শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ATP-তে রূপান্তরিত হয়",
+    "C": "নষ্ট হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "ধাপে ধাপে শক্তি মুক্তির সুবিধা —",
+   "options": {
+    "A": "বেশি ATP ধরা যায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কম"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "ক্রেবস চক্রে CO₂ —",
+   "options": {
+    "A": "শোষিত হয়",
+    "B": "কিছুই না",
+    "C": "নির্গত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "অবাত শ্বসনের স্থান —",
+   "options": {
+    "A": "নিউক্লিয়াস",
+    "B": "সাইটোপ্লাজম",
+    "C": "কোনোটিই নয়",
+    "D": "মাইটোকন্ড্রিয়া"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "শ্বসনের হার মাপার একক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "O₂ গ্রহণ/CO₂ নির্গমন হারে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "তাপমাত্রা বাড়লে শ্বসনের হার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "কমে",
+    "D": "এক সীমা পর্যন্ত বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "শ্বসনে উৎপন্ন CO₂ —",
+   "options": {
+    "A": "ফুসফুস দিয়ে বের হয়",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "শ্বসন কয় প্রকার?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১",
+    "C": "৩",
+    "D": "২ (সবাত ও অবাত)"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "শ্বসন হার শরীরের —",
+   "options": {
+    "A": "প্রয়োজন অনুযায়ী বদলায়",
+    "B": "বদলায় না",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "অবাত শ্বসনে এক অণু গ্লুকোজ থেকে ATP —",
+   "options": {
+    "A": "৩৬টি",
+    "B": "কোনোটিই নয়",
+    "C": "২টি",
+    "D": "৩৮টি"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "ব্যায়ামে শ্বাস দ্রুত হয় — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বেশি শক্তি ও O₂ প্রয়োজন",
+    "C": "কোনোটিই নয়",
+    "D": "কম O₂"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "ইলেকট্রন পরিবহণ শৃঙ্খলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "NADH ও FADH₂ এর ইলেকট্রন ব্যবহৃত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "ইলেকট্রন পরিবহণ শৃঙ্খলে NADH —",
+   "options": {
+    "A": "জারিত হয়",
+    "B": "বিজারিত হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "গাঁজন শিল্পে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সীমিত",
+    "C": "নেই",
+    "D": "ব্যাপক ব্যবহৃত"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "বিশ্রামরত কোষে শ্বসন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বেশি",
+    "C": "কোনোটিই নয়",
+    "D": "কম"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "শ্বসন মাপার যন্ত্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "থার্মোমিটার",
+    "C": "কোনোটিই নয়",
+    "D": "রেসপিরোমিটার"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "শ্বসনে প্রোটিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অভাবে ব্যবহৃত হয়",
+    "C": "কিছুই না",
+    "D": "সবসময়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "অ্যালকোহলিক গাঁজন ঘটে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পেশিতে",
+    "D": "ইস্টে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "শ্বসনে গ্লুকোজ —",
+   "options": {
+    "A": "জারিত হয়",
+    "B": "কিছুই না",
+    "C": "বিজারিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "শ্বসনের ধাপ —",
+   "options": {
+    "A": "দুই",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু এক",
+    "D": "গ্লাইকোলাইসিস, ক্রেবস চক্র, ইলেকট্রন পরিবহণ"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "দেহের প্রতিটি কাজে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ATP ভাঙে",
+    "D": "ATP তৈরি হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "গ্লাইকোলাইসিস ঘটে —",
+   "options": {
+    "A": "মাইটোকন্ড্রিয়ায়",
+    "B": "সাইটোপ্লাজমে",
+    "C": "কোনোটিই নয়",
+    "D": "নিউক্লিয়াসে"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "অ্যালকোহল তৈরি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ক্রেবস চক্রে",
+    "D": "গাঁজনে হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "অ্যাসিটাইল-CoA —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্রেবস চক্রে প্রবেশ করে",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "হিমোগ্লোবিনের কেন্দ্রে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ম্যাগনেসিয়াম (Mg)",
+    "D": "লোহা (Fe)"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "এক অণু পাইরুভেটে কার্বন —",
+   "options": {
+    "A": "২টি",
+    "B": "কোনোটিই নয়",
+    "C": "৬টি",
+    "D": "৩টি"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "প্রাণী —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু শ্বসন করে",
+    "D": "সালোকসংশ্লেষণও করে"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "এক অণু গ্লুকোজে কার্বন —",
+   "options": {
+    "A": "১২টি",
+    "B": "৩টি",
+    "C": "৬টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "খাদ্য ছাড়া শ্বসন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সম্ভব",
+    "D": "সম্ভব নয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "শ্বসনে বাতাসের O₂ —",
+   "options": {
+    "A": "উৎপন্ন হয়",
+    "B": "ব্যবহৃত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "শ্বসনে উৎপন্ন শক্তির রূপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ATP ও তাপ",
+    "C": "শুধু ATP",
+    "D": "শুধু তাপ"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "শ্বসনে উৎপন্ন ATP —",
+   "options": {
+    "A": "জমা থাকে",
+    "B": "দেহের কাজে ব্যবহৃত হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "ক্রেবস চক্রের আবিষ্কারক —",
+   "options": {
+    "A": "ডারউইন",
+    "B": "কোনোটিই নয়",
+    "C": "হ্যান্স ক্রেবস",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "ইলেকট্রন পরিবহণ শৃঙ্খলে পানি —",
+   "options": {
+    "A": "উৎপন্ন হয়",
+    "B": "কিছুই না",
+    "C": "ব্যবহৃত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "গ্লাইকোলাইসিসে ATP উৎপন্ন —",
+   "options": {
+    "A": "৩৮টি",
+    "B": "২টি",
+    "C": "কোনোটিই নয়",
+    "D": "৩৬টি"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "শ্বসনে উৎপন্ন তাপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দেহ গরম রাখে",
+    "C": "ঠান্ডা করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "ইলেকট্রন পরিবহণ শৃঙ্খলে O₂ —",
+   "options": {
+    "A": "পানি তৈরি করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "CO₂ তৈরি করে"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "শ্বসন হার বেশি —",
+   "options": {
+    "A": "বৃদ্ধ কোষে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "কচি কোষে"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "সবাত শ্বসনে শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বেশি উৎপন্ন হয়",
+    "D": "কম"
+   },
+   "correctAnswer": "C",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "গ্লাইকোলাইসিস কাকে বলে?",
+   "options": {
+    "A": "গ্লুকোজ তৈরি",
+    "B": "গ্লুকোজ ভেঙে পাইরুভেট হওয়া",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "গ্লাইকোলাইসিস অক্সিজেন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সহকারে",
+    "D": "ছাড়া হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "অক্সিডেটিভ ফসফোরাইলেশন —",
+   "options": {
+    "A": "ইলেকট্রন পরিবহণে ATP তৈরি",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "গ্লাইকোলাইসিসে গ্লুকোজের কার্বন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "২টি পাইরুভেটে যায়",
+    "C": "কোনোটিই নয়",
+    "D": "নষ্ট হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "শ্বসন ও ATP —",
+   "options": {
+    "A": "ঘনিষ্ঠভাবে জড়িত",
+    "B": "সম্পর্কহীন",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "প্রাণীর ATP —",
+   "options": {
+    "A": "সালোকসংশ্লেষণে",
+    "B": "শুধু শ্বসনে হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "শ্বসন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "C",
+  "2": "B",
+  "3": "D",
+  "4": "A",
+  "5": "C",
+  "6": "A",
+  "7": "A",
+  "8": "B",
+  "9": "B",
+  "10": "B",
+  "11": "C",
+  "12": "A",
+  "13": "B",
+  "14": "A",
+  "15": "C",
+  "16": "A",
+  "17": "C",
+  "18": "C",
+  "19": "C",
+  "20": "C",
+  "21": "B",
+  "22": "C",
+  "23": "B",
+  "24": "D",
+  "25": "A",
+  "26": "B",
+  "27": "D",
+  "28": "A",
+  "29": "B",
+  "30": "B",
+  "31": "B",
+  "32": "B",
+  "33": "D",
+  "34": "A",
+  "35": "A",
+  "36": "B",
+  "37": "C",
+  "38": "D",
+  "39": "C",
+  "40": "A",
+  "41": "A",
+  "42": "C",
+  "43": "B",
+  "44": "D",
+  "45": "A",
+  "46": "A",
+  "47": "B",
+  "48": "B",
+  "49": "A",
+  "50": "B",
+  "51": "D",
+  "52": "B",
+  "53": "A",
+  "54": "D",
+  "55": "D",
+  "56": "D",
+  "57": "B",
+  "58": "C",
+  "59": "C",
+  "60": "B",
+  "61": "C",
+  "62": "D",
+  "63": "D",
+  "64": "C",
+  "65": "B",
+  "66": "D",
+  "67": "B",
+  "68": "A",
+  "69": "D",
+  "70": "D",
+  "71": "B",
+  "72": "B",
+  "73": "B",
+  "74": "C",
+  "75": "B",
+  "76": "D",
+  "77": "C",
+  "78": "C",
+  "79": "C",
+  "80": "C",
+  "81": "D",
+  "82": "B",
+  "83": "A",
+  "84": "B",
+  "85": "D",
+  "86": "A",
+  "87": "B",
+  "88": "C",
+  "89": "D",
+  "90": "C",
+  "91": "A",
+  "92": "D",
+  "93": "B",
+  "94": "A",
+  "95": "A",
+  "96": "D",
+  "97": "D",
+  "98": "D",
+  "99": "D",
+  "100": "C",
+  "101": "B",
+  "102": "A",
+  "103": "B",
+  "104": "A",
+  "105": "D",
+  "106": "B",
+  "107": "B",
+  "108": "B",
+  "109": "A",
+  "110": "A",
+  "111": "D",
+  "112": "C",
+  "113": "D",
+  "114": "B",
+  "115": "B",
+  "116": "C",
+  "117": "D",
+  "118": "B",
+  "119": "A",
+  "120": "C",
+  "121": "A",
+  "122": "C",
+  "123": "B",
+  "124": "A",
+  "125": "A",
+  "126": "C",
+  "127": "C",
+  "128": "C",
+  "129": "D",
+  "130": "D",
+  "131": "B",
+  "132": "D",
+  "133": "C",
+  "134": "A",
+  "135": "D",
+  "136": "B",
+  "137": "C",
+  "138": "D",
+  "139": "B",
+  "140": "D",
+  "141": "B",
+  "142": "C",
+  "143": "B",
+  "144": "A",
+  "145": "C",
+  "146": "A",
+  "147": "A",
+  "148": "B",
+  "149": "A",
+  "150": "C",
+  "151": "D",
+  "152": "C",
+  "153": "A",
+  "154": "A",
+  "155": "B",
+  "156": "B",
+  "157": "A",
+  "158": "C",
+  "159": "D",
+  "160": "C",
+  "161": "A",
+  "162": "D",
+  "163": "D",
+  "164": "B",
+  "165": "D",
+  "166": "C",
+  "167": "D",
+  "168": "C",
+  "169": "A",
+  "170": "A",
+  "171": "D",
+  "172": "D",
+  "173": "D",
+  "174": "C",
+  "175": "D",
+  "176": "C",
+  "177": "B",
+  "178": "D",
+  "179": "A",
+  "180": "A",
+  "181": "C",
+  "182": "A",
+  "183": "C",
+  "184": "C",
+  "185": "C",
+  "186": "A",
+  "187": "A",
+  "188": "C",
+  "189": "D",
+  "190": "D",
+  "191": "A",
+  "192": "A",
+  "193": "A",
+  "194": "D",
+  "195": "A",
+  "196": "A",
+  "197": "B",
+  "198": "D",
+  "199": "B",
+  "200": "C",
+  "201": "A",
+  "202": "C",
+  "203": "C",
+  "204": "D",
+  "205": "B",
+  "206": "B",
+  "207": "D",
+  "208": "D",
+  "209": "B",
+  "210": "A",
+  "211": "C",
+  "212": "D",
+  "213": "D",
+  "214": "A",
+  "215": "B",
+  "216": "A",
+  "217": "B",
+  "218": "B",
+  "219": "B",
+  "220": "C",
+  "221": "D",
+  "222": "B",
+  "223": "A",
+  "224": "A",
+  "225": "B",
+  "226": "D",
+  "227": "B",
+  "228": "B",
+  "229": "D",
+  "230": "D",
+  "231": "C",
+  "232": "A",
+  "233": "B",
+  "234": "A",
+  "235": "C",
+  "236": "B",
+  "237": "C",
+  "238": "B",
+  "239": "C",
+  "240": "C",
+  "241": "D",
+  "242": "A",
+  "243": "D",
+  "244": "A",
+  "245": "A",
+  "246": "D",
+  "247": "D",
+  "248": "B",
+  "249": "C",
+  "250": "D",
+  "251": "D",
+  "252": "D",
+  "253": "A",
+  "254": "C",
+  "255": "A",
+  "256": "A",
+  "257": "D",
+  "258": "B",
+  "259": "D",
+  "260": "A",
+  "261": "C",
+  "262": "C",
+  "263": "C",
+  "264": "C",
+  "265": "A",
+  "266": "C",
+  "267": "D",
+  "268": "B",
+  "269": "C",
+  "270": "C",
+  "271": "D",
+  "272": "C",
+  "273": "D",
+  "274": "B",
+  "275": "B",
+  "276": "A",
+  "277": "C",
+  "278": "C",
+  "279": "A",
+  "280": "C",
+  "281": "C",
+  "282": "C",
+  "283": "C",
+  "284": "D",
+  "285": "B",
+  "286": "C",
+  "287": "D",
+  "288": "B",
+  "289": "A",
+  "290": "B",
+  "291": "D",
+  "292": "B",
+  "293": "A",
+  "294": "B",
+  "295": "B",
+  "296": "D",
+  "297": "C",
+  "298": "B",
+  "299": "A",
+  "300": "D",
+  "301": "C",
+  "302": "D",
+  "303": "C",
+  "304": "B",
+  "305": "A",
+  "306": "B",
+  "307": "C",
+  "308": "C",
+  "309": "C",
+  "310": "A",
+  "311": "C",
+  "312": "B",
+  "313": "A",
+  "314": "D",
+  "315": "A",
+  "316": "A",
+  "317": "B",
+  "318": "A",
+  "319": "A",
+  "320": "C",
+  "321": "D",
+  "322": "B",
+  "323": "A",
+  "324": "D",
+  "325": "D",
+  "326": "B",
+  "327": "B",
+  "328": "C",
+  "329": "D",
+  "330": "B",
+  "331": "B",
+  "332": "A",
+  "333": "C",
+  "334": "B",
+  "335": "D",
+  "336": "D",
+  "337": "A",
+  "338": "D",
+  "339": "A",
+  "340": "C",
+  "341": "B",
+  "342": "B",
+  "343": "A",
+  "344": "D",
+  "345": "D",
+  "346": "D",
+  "347": "B",
+  "348": "D",
+  "349": "A",
+  "350": "D",
+  "351": "C",
+  "352": "B",
+  "353": "D",
+  "354": "B",
+  "355": "D",
+  "356": "D",
+  "357": "C",
+  "358": "C",
+  "359": "D",
+  "360": "B",
+  "361": "B",
+  "362": "B",
+  "363": "C",
+  "364": "A",
+  "365": "B",
+  "366": "B",
+  "367": "A",
+  "368": "D",
+  "369": "C",
+  "370": "B",
+  "371": "D",
+  "372": "A",
+  "373": "B",
+  "374": "A",
+  "375": "B"
+ }
+}
