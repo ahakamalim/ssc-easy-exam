@@ -43,6 +43,16 @@ if(this.dataset.subject==="Physics"){
     return;
 }
 
+if(this.dataset.subject==="Chemistry"){
+    window.location.href="pages/chemistry.html";
+    return;
+}
+
+if(this.dataset.subject==="Biology"){
+    window.location.href="pages/biology.html";
+    return;
+}
+
 subjectTitle.innerHTML=this.dataset.subject;
 
 main.style.display="none";

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>রসায়ন — এমসিকিউ</title>
+  <link rel="stylesheet" href="../style.css" />
+  <style>
+    body { font-family: "Noto Sans Bengali", "Kalpurush", "SolaimanLipi", sans-serif; }
+    .wrap { max-width: 980px; margin: 16px auto; padding: 0 14px 40px; }
+    .crumb { font-size: 14px; color: #555; margin-bottom: 10px; }
+    .crumb a { color: #1a3a6b; }
+    h1 { font-size: 22px; margin: 8px 0 16px; }
+    .chapters { display: grid; gap: 10px; }
+    .chapter {
+      background: #fff; border: 1px solid #dbe3ef; border-radius: 12px;
+      padding: 12px 14px; cursor: pointer;
+    }
+    .chapter h2 { font-size: 16px; margin: 0 0 4px; }
+    .chapter p { margin: 0; font-size: 13px; color: #666; }
+    .hidden { display: none !important; }
+    .mcq-grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+      gap: 12px; margin-top: 14px;
+    }
+    .pdf-box {
+      display: block; text-decoration: none; color: inherit;
+      border: 2px solid #1a3a6b; border-radius: 10px; padding: 14px 10px;
+      background: #f7faff; text-align: center; min-height: 110px;
+    }
+    .pdf-box strong { display: block; color: #1a3a6b; margin-bottom: 6px; }
+    .pdf-box span { font-size: 12px; color: #444; }
+    .back { margin: 8px 0 16px; }
+    button.linkish {
+      background: #1a3a6b; color: #fff; border: 0; border-radius: 8px;
+      padding: 8px 14px; cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">📚 Question Bank</div>
+  </header>
+  <div class="wrap">
+    <div class="crumb"><a href="../index.html">হোম</a> → রসায়ন</div>
+    <div id="chapterView">
+      <h1>রসায়ন — অধ্যায়সমূহ</h1>
+      <div class="chapters" id="chapterList"></div>
+    </div>
+    <div id="mcqView" class="hidden">
+      <button class="linkish back" id="backCh">← অধ্যায় তালিকা</button>
+      <div class="crumb" id="mcqCrumb"></div>
+      <h1 id="mcqTitle">এমসিকিউ</h1>
+      <p>বোর্ড ফরম্যাটের পিডিএফ (ক/খ/গ/ঘ) · প্রতি সেটে ২৫টি প্রশ্ন · নিচে উত্তরমালা বক্স</p>
+      <div class="mcq-grid" id="mcqGrid"></div>
+    </div>
+  </div>
+  <script>
+    const CHAPTERS = [
+      { n: 1, name: "রসায়নের ধারণা", sets: 15, dir: "../files/Chemistry/Chapter_01/mcq", prefix: "Chemistry_Ch01_MCQ_Set_" },
+      { n: 2, name: "পদার্থের অবস্থা", sets: 15, dir: "../files/Chemistry/Chapter_02/mcq", prefix: "Chemistry_Ch02_MCQ_Set_" },
+      { n: 3, name: "পদার্থের গঠন", sets: 15, dir: "../files/Chemistry/Chapter_03/mcq", prefix: "Chemistry_Ch03_MCQ_Set_" },
+      { n: 4, name: "পর্যায় সারণি", sets: 15, dir: "../files/Chemistry/Chapter_04/mcq", prefix: "Chemistry_Ch04_MCQ_Set_" },
+      { n: 5, name: "রাসায়নিক বন্ধন", sets: 15, dir: "../files/Chemistry/Chapter_05/mcq", prefix: "Chemistry_Ch05_MCQ_Set_" },
+      { n: 6, name: "মোলের ধারণা ও রাসায়নিক গণনা", sets: 15, dir: "../files/Chemistry/Chapter_06/mcq", prefix: "Chemistry_Ch06_MCQ_Set_" },
+      { n: 7, name: "রাসায়নিক বিক্রিয়া", sets: 15, dir: "../files/Chemistry/Chapter_07/mcq", prefix: "Chemistry_Ch07_MCQ_Set_" },
+      { n: 8, name: "রসায়ন ও শক্তি", sets: 15, dir: "../files/Chemistry/Chapter_08/mcq", prefix: "Chemistry_Ch08_MCQ_Set_" },
+      { n: 9, name: "এসিড-ক্ষারক সমতা", sets: 15, dir: "../files/Chemistry/Chapter_09/mcq", prefix: "Chemistry_Ch09_MCQ_Set_" },
+      { n: 10, name: "খনিজ সম্পদ: ধাতু-অধাতু", sets: 15, dir: "../files/Chemistry/Chapter_10/mcq", prefix: "Chemistry_Ch10_MCQ_Set_" },
+      { n: 11, name: "খনিজ সম্পদ: জীবাশ্ম", sets: 15, dir: "../files/Chemistry/Chapter_11/mcq", prefix: "Chemistry_Ch11_MCQ_Set_" },
+      { n: 12, name: "আমাদের জীবনে রসায়ন", sets: 15, dir: "../files/Chemistry/Chapter_12/mcq", prefix: "Chemistry_Ch12_MCQ_Set_" }
+    ];
+    const list = document.getElementById("chapterList");
+    CHAPTERS.forEach(ch => {
+      const el = document.createElement("div");
+      el.className = "chapter";
+      el.innerHTML = `<h2>অধ্যায় ${ch.n} — ${ch.name}</h2><p>এমসিকিউ সেকশন · ${ch.sets} টি পিডিএফ</p>`;
+      el.onclick = () => openMcq(ch);
+      list.appendChild(el);
+    });
+    function openMcq(ch) {
+      document.getElementById("chapterView").classList.add("hidden");
+      document.getElementById("mcqView").classList.remove("hidden");
+      document.getElementById("mcqTitle").textContent = `অধ্যায় ${ch.n} — এমসিকিউ`;
+      document.getElementById("mcqCrumb").innerHTML =
+        `<a href="../index.html">হোম</a> → রসায়ন → অধ্যায় ${ch.n} → এমসিকিউ`;
+      const grid = document.getElementById("mcqGrid");
+      grid.innerHTML = "";
+      if (!ch.sets) {
+        grid.innerHTML = "<p>এই অধ্যায়ের এমসিকিউ পিডিএফ এখনো যোগ হয়নি।</p>";
+        return;
+      }
+      for (let i = 1; i <= ch.sets; i++) {
+        const a = document.createElement("a");
+        a.className = "pdf-box";
+        a.href = `${ch.dir}/${ch.prefix}${String(i).padStart(2,"0")}.pdf`;
+        a.target = "_blank";
+        a.innerHTML = `<strong>সেট ${i}</strong><span>২৫টি MCQ<br>উত্তরমালা বক্স ১–২৫</span>`;
+        grid.appendChild(a);
+      }
+    }
+    document.getElementById("backCh").onclick = () => {
+      document.getElementById("mcqView").classList.add("hidden");
+      document.getElementById("chapterView").classList.remove("hidden");
+    };
+  </script>
+</body>
+</html>
