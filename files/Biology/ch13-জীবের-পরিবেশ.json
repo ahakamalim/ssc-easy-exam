@@ -1,0 +1,7134 @@
+{
+ "subject": "জীববিজ্ঞান",
+ "chapterNo": 13,
+ "chapter": "জীবের পরিবেশ",
+ "questions": [
+  {
+   "question": "পরিবেশের অজীব উপাদান —",
+   "options": {
+    "A": "উদ্ভিদ",
+    "B": "কোনোটিই নয়",
+    "C": "প্রাণী",
+    "D": "আলো, তাপ, পানি, বায়ু, মাটি"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "অক্সিজেন চক্র —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "সালোকসংশ্লেষণ ও শ্বসনে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "শীর্ষ শিকারি কমলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "নিচের স্তরে ভারসাম্যহীনতা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "জলাভূমি সংরক্ষণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "পরিবেশের ভারসাম্য রক্ষায়"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "জীববৈচিত্র্য সংরক্ষণের উপায় —",
+   "options": {
+    "A": "শুধু ইন-সিটু",
+    "B": "কিছুই না",
+    "C": "ইন-সিটু ও এক্স-সিটু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "পরিবেশের ভারসাম্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "জীব ও অজীবের সম্পর্কে"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "নাইট্রিফিকেশন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যামোনিয়া থেকে নাইট্রেট",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "শৈবাল → মাছ → মানুষ শৃঙ্খলে শীর্ষ ভোক্তা —",
+   "options": {
+    "A": "মাছ",
+    "B": "মানুষ",
+    "C": "শৈবাল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "পরিবেশ সুরক্ষায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "সবাই অংশ নিতে পারে"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "বিলুপ্তপ্রায় প্রাণী —",
+   "options": {
+    "A": "গরু",
+    "B": "বাঘ, হাতি, হরিণ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "জীবের পরিবেশ অধ্যায় —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "কোনোটিই নয়",
+    "C": "অগুরুত্বপূর্ণ",
+    "D": "ঐচ্ছিক"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "বাস্তুতন্ত্র কাকে বলে?",
+   "options": {
+    "A": "জীব ও অজীব উপাদানের পারস্পরিক সম্পর্ক",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "শৈবাল → মাছ → মানুষ শৃঙ্খলে উৎপাদক —",
+   "options": {
+    "A": "মানুষ",
+    "B": "মাছ",
+    "C": "কোনোটিই নয়",
+    "D": "শৈবাল"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "কীটনাশক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পানিদূষণ করে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "বাংলাদেশের জাতীয় প্রাণী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রয়েল বেঙ্গল টাইগার",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "জীব পরিবেশে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "বর্জ্য ফেরায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "শিম জাতীয় উদ্ভিদ —",
+   "options": {
+    "A": "নাইট্রোজেন স্থিরীকরণে সাহায্য করে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "শক্তির ক্ষতি —",
+   "options": {
+    "A": "তাপে হয়",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "ওজোন স্তর রক্ষায় —",
+   "options": {
+    "A": "CFC কমানো",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "বন্যপ্রাণী শিকার —",
+   "options": {
+    "A": "বেআইনি",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বৈধ"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "পরিবেশ ধ্বংস করলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "জীব ধ্বংস হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "একটি স্তম্ভ দুর্বল হলে —",
+   "options": {
+    "A": "বাস্তুতন্ত্র বিপন্ন হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "প্রতিটি জীবের ভূমিকা আছে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "পরিবেশ দূষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "স্বাস্থ্যের ক্ষতি করে"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "সুন্দরবনের প্রধান বৃক্ষ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সুন্দরী",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "বায়ু —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "O₂ সরবরাহ করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "শক্তি প্রবাহ —",
+   "options": {
+    "A": "চক্রাকার",
+    "B": "কোনোটিই নয়",
+    "C": "একমুখী",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "শক্তি প্রবাহে সূর্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রাথমিক উৎস",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "পরিবেশ আইন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "দূষণ নিয়ন্ত্রণে"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "টেকসই উন্নয়নে —",
+   "options": {
+    "A": "পরিবেশের ভারসাম্য রক্ষা হয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "পরিবেশবান্ধব আচরণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "গাছ লাগানো, দূষণ কমানো",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "বাস্তুতন্ত্রের উপাদান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জীব ও অজীব",
+    "C": "শুধু অজীব",
+    "D": "শুধু জীব"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "খাদ্যজাল কাকে বলে?",
+   "options": {
+    "A": "এক শৃঙ্খল",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "অনেক খাদ্যশৃঙ্খলের জাল"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "দূষণ —",
+   "options": {
+    "A": "জীববৈচিত্র্য হ্রাস করে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "ইলিশ —",
+   "options": {
+    "A": "বাংলাদেশের জাতীয় মাছ",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "জীব ও পরিবেশ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "পরস্পর নির্ভরশীল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "সৌর শক্তি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "বাস্তুতন্ত্রের চালিকাশক্তি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলের উদাহরণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বাঘ → হরিণ → ঘাস",
+    "C": "ঘাস → হরিণ → বাঘ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "গ্লোবাল ওয়ার্মিংয়ের ফল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "বরফ গলা, সমুদ্রপৃষ্ঠ বাড়া"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "বন রক্ষা —",
+   "options": {
+    "A": "জীববৈচিত্র্য রক্ষা করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "জীবের বেঁচে থাকার জন্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "উপযুক্ত পরিবেশ দরকার",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "জীবমণ্ডল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "পৃথিবীর সব বাস্তুতন্ত্রের সমষ্টি"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "খাদ্যের মাধ্যমে শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "ভোক্তায় স্থানান্তরিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "পলিথিন নিষিদ্ধ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "পরিবেশ রক্ষায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "শিকার নিষিদ্ধ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জীববৈচিত্র্য রক্ষায়",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "জীব পরিবেশ থেকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "পুষ্টি ও শক্তি পায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "কৃত্রিম বাস্তুতন্ত্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বন",
+    "C": "মাছের খামার, ফসলের জমি",
+    "D": "সাগর"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলের ভারসাম্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রতিটি স্তরের জীবনে প্রভাব ফেলে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "শব্দদূষণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "স্বাস্থ্যের ক্ষতি করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "সংরক্ষিত বন —",
+   "options": {
+    "A": "জীববৈচিত্র্য রক্ষা করে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "পরিবেশ ও জীব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "একসূত্রে গাঁথা",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "ভোক্তা কাকে বলে?",
+   "options": {
+    "A": "নিজে তৈরি করে",
+    "B": "অন্যের তৈরি খাদ্য খায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "পিরামিডের প্রকার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শক্তি, বায়োমাস, সংখ্যা",
+    "C": "কিছুই না",
+    "D": "শুধু শক্তি"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "শব্দদূষণের উৎস —",
+   "options": {
+    "A": "গাড়ির হর্ন, কারখানা, লাউডস্পিকার",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "বিলুপ্তপ্রায় প্রজাতির —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বিশেষ সংরক্ষণ দরকার",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "পরিবেশের জীব উপাদান —",
+   "options": {
+    "A": "পানি",
+    "B": "বায়ু",
+    "C": "উৎপাদক, ভোক্তা, বিয়োজক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "বিয়োজকের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ব্যাকটেরিয়া, ছত্রাক",
+    "C": "প্রাণী",
+    "D": "উদ্ভিদ"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলের শুরু —",
+   "options": {
+    "A": "মাংসাশী",
+    "B": "বিয়োজক",
+    "C": "কোনোটিই নয়",
+    "D": "উৎপাদক"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "পরিবেশ সচেতনতা —",
+   "options": {
+    "A": "দূষণ রোধে জরুরি",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "পরিবেশ রক্ষা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "উন্নয়নের অংশ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "ভোক্তা —",
+   "options": {
+    "A": "প্রাণী",
+    "B": "উদ্ভিদ",
+    "C": "কোনোটিই নয়",
+    "D": "ছত্রাক"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "ঘনীভবন —",
+   "options": {
+    "A": "বাষ্প থেকে মেঘ",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "সংখ্যা পিরামিড —",
+   "options": {
+    "A": "জীবের সংখ্যার পিরামিড",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "পানিদূষণ রোধে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বর্জ্য শোধন",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "জীববৈচিত্র্যের প্রকার —",
+   "options": {
+    "A": "শুধু এক",
+    "B": "কোনোটিই নয়",
+    "C": "জিনগত, প্রজাতিগত, বাস্তুতান্ত্রিক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "পরিবেশ ধ্বংস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "জীবন ধ্বংস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "কার্বন চক্রে CO₂ ব্যবহার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শ্বসনে",
+    "C": "সালোকসংশ্লেষণে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "শক্তি ও পদার্থের পার্থক্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রবাহের প্রকৃতিতে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "রাসায়নিক সার-কীটনাশক —",
+   "options": {
+    "A": "মাটিদূষণ করে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "গাছ লাগানো অভিযান —",
+   "options": {
+    "A": "পরিবেশ রক্ষায়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "জীব পরিবেশ —",
+   "options": {
+    "A": "উদ্ভিদ, প্রাণী, অণুজীব",
+    "B": "মাটি",
+    "C": "কোনোটিই নয়",
+    "D": "পানি"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "বাস্তুতন্ত্রের অধ্যয়ন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "ইকোলজি"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "শক্তি পিরামিডে —",
+   "options": {
+    "A": "উৎপাদক সবচেয়ে নিচে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শীর্ষে"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "বায়ুদূষণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "শ্বাসকষ্ট, হাঁপানি হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "পরিবেশ ও উন্নয়ন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সমন্বিত হতে হবে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "মাটি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "উদ্ভিদের পুষ্টি ও আশ্রয় দেয়",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "উৎপাদকের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ছত্রাক",
+    "C": "প্রাণী",
+    "D": "সবুজ উদ্ভিদ"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "রাসায়নিক শক্তি —",
+   "options": {
+    "A": "খাদ্যে সঞ্চিত থাকে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "পানিদূষণের ফল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "জলজ প্রাণী মরে, রোগ ছড়ায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "বাংলাদেশের উদ্ভিদ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "অসংখ্য প্রজাতি"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "আলো —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সালোকসংশ্লেষণে প্রয়োজন",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "বাস্তুতন্ত্রের ভারসাম্য রক্ষায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্রতিটি জীবের ভূমিকা আছে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "খাদ্যজাল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "খাদ্যশৃঙ্খলের চেয়ে জটিল",
+    "C": "কিছুই না",
+    "D": "সরল"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "অ্যাসিড বৃষ্টির কারণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "SO₂ ও NOx",
+    "D": "O₂"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "বোটানিক্যাল গার্ডেনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "উদ্ভিদ সংরক্ষণ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "পরিবেশ সচেতন নাগরিক —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "দেশের সম্পদ"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "সবচেয়ে বড় বাস্তুতন্ত্র —",
+   "options": {
+    "A": "সাগর",
+    "B": "জীবমণ্ডল",
+    "C": "বন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "খাদ্যজালে একটি জীব নষ্ট হলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কম ক্ষতি হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "অপ্রয়োজনীয় হর্ন —",
+   "options": {
+    "A": "শব্দদূষণ করে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "ইন-সিটু সংরক্ষণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "প্রাকৃতিক আবাসে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "পরিবেশের প্রকার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু জীব",
+    "C": "ভৌত ও জীব পরিবেশ",
+    "D": "শুধু ভৌত"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "শক্তি প্রবাহে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "নতুন শক্তি আসে সূর্য থেকে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নষ্ট হয়",
+    "C": "এক স্তর থেকে অন্য স্তরে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "শব্দদূষণ রোধে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অপ্রয়োজনীয় হর্ন এড়ানো",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "বাংলাদেশের জাতীয় উদ্যান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ভাওয়াল, মধুপুর",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "জীব —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "পরিবেশের সাথে খাপ খায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "উদ্ভিদ নাইট্রোজেন নেয় —",
+   "options": {
+    "A": "N₂ রূপে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "নাইট্রেট রূপে"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "শক্তি পিরামিডে শীর্ষ মাংসাশী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিচে",
+    "C": "কিছুই না",
+    "D": "সবচেয়ে উপরে"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "CFC —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ওজোন স্তর ক্ষয় করে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "মধুপুর জাতীয় উদ্যান —",
+   "options": {
+    "A": "টাঙ্গাইলে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "পরিবেশ কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জীবের চারপাশের সব উপাদান",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "পানিচক্রে সূর্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "বাষ্পীভবনের শক্তি দেয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "খাদ্যশৃঙ্খল লম্বা হয় না — কারণ?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শক্তি প্রতি ধাপে কমে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "বর্জ্য শোধন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "পানিদূষণ রোধে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "এক্স-সিটু সংরক্ষণ —",
+   "options": {
+    "A": "আবাসের বাইরে (চিড়িয়াখানা)",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "পরিবেশ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "জীবনের ভিত্তি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "পদার্থ চক্রে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পদার্থ পুনর্ব্যবহৃত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে উদ্ভিদ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অপরিহার্য",
+    "C": "কোনোটিই নয়",
+    "D": "ঐচ্ছিক"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "দূষণ রোধে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "সচেতনতা ও আইন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "জীববৈচিত্র্য সংরক্ষণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "সবার সহযোগিতা দরকার"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "পরিবেশের ভারসাম্য নষ্ট হলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "জীবন বিপন্ন হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "ডিনাইট্রিফিকেশন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "নাইট্রেট থেকে N₂"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "সর্বভুক —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "উদ্ভিদ ও প্রাণী দুটোই খায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "দূষণের প্রকার —",
+   "options": {
+    "A": "বায়ু, পানি, মাটি, শব্দ",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু বায়ু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "লাল তালিকা তৈরি করে —",
+   "options": {
+    "A": "IUCN",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "পানি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "জীবনের জন্য অপরিহার্য"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "বাস্তুতন্ত্রের স্থায়িত্ব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "ভারসাম্যের উপর নির্ভর করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলের একটি জীব নষ্ট হলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "পুরো শৃঙ্খল ক্ষতিগ্রস্ত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "হাওর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মাছ ও পাখির আবাস",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "জীববৈচিত্র্য কাকে বলে?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "বিভিন্ন প্রকার জীবের সমাহার"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "জীব উপাদান —",
+   "options": {
+    "A": "মাটি",
+    "B": "পানি",
+    "C": "কোনোটিই নয়",
+    "D": "উদ্ভিদ, প্রাণী, অণুজীব"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "ক্ষুদ্র বাস্তুতন্ত্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সাগর",
+    "C": "পুকুর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে বিয়োজক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "শেষ ধাপে কাজ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "প্লাস্টিক মাটিতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পচে না",
+    "C": "পচে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "বাঘ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "বিলুপ্তপ্রায়"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "পরিবেশ রক্ষা করলে —",
+   "options": {
+    "A": "জীব রক্ষা পায়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "শ্বসন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "O₂ ব্যবহার করে"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "ঘাস → হরিণ → বাঘ শৃঙ্খলে প্রাথমিক ভোক্তা —",
+   "options": {
+    "A": "বাঘ",
+    "B": "ঘাস",
+    "C": "কোনোটিই নয়",
+    "D": "হরিণ"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "জলবাহিত রোগ —",
+   "options": {
+    "A": "কলেরা, টাইফয়েড, ডায়রিয়া",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "জীববৈচিত্র্য রক্ষায় আন্তর্জাতিক —",
+   "options": {
+    "A": "চুক্তি ও সংস্থা আছে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "পরিবেশবান্ধব জীবনযাপন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "জরুরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "বৃষ্টি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "মেঘ থেকে পানি ঝরা"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে তাপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "পরিবেশে হারিয়ে যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "পানি বিশুদ্ধকরণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "রোগ প্রতিরোধে"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "বৃক্ষরোপণ —",
+   "options": {
+    "A": "পরিবেশ রক্ষা করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "মাটির উর্বরতা —",
+   "options": {
+    "A": "ফসলের জন্য জরুরি",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "বিয়োজক —",
+   "options": {
+    "A": "পদার্থের চক্রে সাহায্য করে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে প্রতি ধাপে শক্তি —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "একই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "মন্ট্রিল প্রটোকল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "CFC নিয়ন্ত্রণে"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "সুন্দরবন —",
+   "options": {
+    "A": "বাঘের আবাস",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "অজীব উপাদান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উদ্ভিদ",
+    "C": "প্রাণী",
+    "D": "পানি, মাটি, বায়ু, আলো, তাপ"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "উৎপাদক কাকে বলে?",
+   "options": {
+    "A": "অন্যের খাদ্য খায়",
+    "B": "কিছুই না",
+    "C": "নিজের খাদ্য নিজে তৈরি করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "ফেরানো খনিজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উদ্ভিদ আবার ব্যবহার করে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "বাংলাদেশে পলিথিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বৈধ",
+    "C": "নিষিদ্ধ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "বনায়ন —",
+   "options": {
+    "A": "বন উজাড় রোধে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "পরিবেশের পরিবর্তন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জীবকে প্রভাবিত করে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "বাস্তুতন্ত্র রক্ষায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মানুষের দায়িত্ব",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে তীর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "খাদ্য থেকে খাদকের দিকে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "ওজোন স্তর রক্ষা করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষতিকর UV রশ্মি থেকে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "সুন্দরী গাছ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "সুন্দরবনের নামের উৎস"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "অজীব উপাদানের উদাহরণ —",
+   "options": {
+    "A": "আলো, তাপ, পানি, বায়ু, মাটি",
+    "B": "উদ্ভিদ",
+    "C": "প্রাণী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "ফসলের জমি —",
+   "options": {
+    "A": "কৃত্রিম বাস্তুতন্ত্র",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "প্রাকৃতিক"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "বিয়োজক ছাড়া মাটি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পুষ্টিহীন হতো",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "পানিদূষণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মাছ মরে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "বন্যপ্রাণী আইন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "প্রাণী রক্ষা করে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "পরিবেশের ভারসাম্য রক্ষা —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "জরুরি নয়",
+    "C": "জরুরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "পানিচক্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বাষ্পীভবন ও বৃষ্টিতে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "শক্তি পিরামিডের শীর্ষ —",
+   "options": {
+    "A": "শীর্ষ মাংসাশী",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "উৎপাদক"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "মাটিদূষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফসলের ক্ষতি করে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "বন সংরক্ষণ —",
+   "options": {
+    "A": "জীববৈচিত্র্য রক্ষা করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "জীবের পরিবেশের অজীব উপাদান —",
+   "options": {
+    "A": "আলো, তাপ, পানি, বায়ু, মাটি",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "বিয়োজক না থাকলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "পুষ্টি উপাদান ফিরে আসত না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "বাস্তুতন্ত্রে বিয়োজক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অপরিহার্য",
+    "C": "কোনোটিই নয়",
+    "D": "ঐচ্ছিক"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "জলবায়ু পরিবর্তন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "গ্লোবাল ওয়ার্মিংয়ে হয়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "পরিবেশ রক্ষায় —",
+   "options": {
+    "A": "শিক্ষার্থীর ভূমিকা আছে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "তাপমাত্রা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "জীবের বেঁচে থাকায় প্রভাব ফেলে"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "বাস্তুতন্ত্রে জীব ও পরিবেশ —",
+   "options": {
+    "A": "স্বাধীন",
+    "B": "কোনোটিই নয়",
+    "C": "পরস্পর নির্ভরশীল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "উৎপাদক কমলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "পুরো শৃঙ্খল ক্ষতিগ্রস্ত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "পয়ঃনিষ্কাশন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পানিদূষণ করে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "বাংলাদেশের জাতীয় গাছ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "আম গাছ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "পরিবেশের উপাদান —",
+   "options": {
+    "A": "শুধু অজীব",
+    "B": "জীব ও অজীব",
+    "C": "শুধু জীব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "শক্তি প্রবাহ একমুখী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "সূর্য থেকে জীবজগতে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে ১০% নিয়ম —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "এক স্তর থেকে ১০% যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "বায়ুমণ্ডলের স্তর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ট্রপোস্ফিয়ার, স্ট্রাটোস্ফিয়ার",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "বাঘ রক্ষায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "বাঘ প্রকল্প"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "ভৌত পরিবেশ —",
+   "options": {
+    "A": "পানি, মাটি, বায়ু, আলো, তাপ",
+    "B": "উদ্ভিদ",
+    "C": "প্রাণী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিবেশের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "বাস্তুতন্ত্রের উদাহরণ —",
+   "options": {
+    "A": "শুধু পুকুর",
+    "B": "কিছুই না",
+    "C": "পুকুর, বন, মরুভূমি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "খাদ্যজালে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "এক জীব একাধিক শৃঙ্খলে থাকতে পারে"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "CFC আসে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ফ্রিজ, এসি থেকে"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "হাতি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "বিলুপ্তপ্রায়"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "পদার্থের চক্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "একমুখী",
+    "D": "চক্রাকার"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "শক্তি পিরামিডের ভিত্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "মাংসাশী",
+    "D": "উৎপাদক"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "বাংলাদেশে পলিথিন নিষিদ্ধ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "২০০২ সালে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "রয়েল বেঙ্গল টাইগার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাংলাদেশের জাতীয় প্রাণী",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "মাংসাশীর উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "গরু",
+    "D": "বাঘ, সিংহ"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "ধান → ইঁদুর → সাপ শৃঙ্খলে উৎপাদক —",
+   "options": {
+    "A": "ইঁদুর",
+    "B": "কোনোটিই নয়",
+    "C": "ধান",
+    "D": "সাপ"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "দূষণ রোধে ব্যক্তির —",
+   "options": {
+    "A": "ভূমিকা নেই",
+    "B": "ভূমিকা আছে",
+    "C": "কোনোটিই নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "অভয়ারণ্য —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "বন্যপ্রাণীর নিরাপদ এলাকা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "বাস্তুতন্ত্র রক্ষা —",
+   "options": {
+    "A": "সবার দায়িত্ব",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "মাংসাশী —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পরোক্ষভাবে উদ্ভিদের উপর নির্ভরশীল",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "বিশুদ্ধ পানি —",
+   "options": {
+    "A": "স্বাস্থ্যের জন্য জরুরি",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "চিড়িয়াখানা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "এক্স-সিটু সংরক্ষণ",
+    "C": "ইন-সিটু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "পানিচক্রের ধাপ —",
+   "options": {
+    "A": "শুধু বৃষ্টি",
+    "B": "বাষ্পীভবন, ঘনীভবন, বৃষ্টি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "সব প্রাণী —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "প্রত্যক্ষ বা পরোক্ষভাবে উদ্ভিদের উপর নির্ভরশীল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "গ্রিনহাউস প্রভাব কমাতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জীবাশ্ম জ্বালানি কমানো",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "সুন্দরবনে —",
+   "options": {
+    "A": "বাঘ, হরিণ, মধু, গাছ",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "প্রাকৃতিক বাস্তুতন্ত্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মাছের খামার",
+    "C": "বন, সাগর, পুকুর",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "মানুষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মাংসাশী",
+    "C": "সর্বভুক",
+    "D": "তৃণভোজী"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "ইটভাটার ধোঁয়া —",
+   "options": {
+    "A": "বায়ুদূষণ করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "সুন্দরবন রক্ষা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বাঘ রক্ষায় গুরুত্বপূর্ণ",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "পদার্থের চক্র ব্যাহত হলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "পরিবেশের ভারসাম্য নষ্ট হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "শক্তি পিরামিড —",
+   "options": {
+    "A": "নিচ থেকে উপরে সংকীর্ণ",
+    "B": "প্রশস্ত",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "বায়ুদূষণ রোধে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "গাছ লাগানো, ধোঁয়া নিয়ন্ত্রণ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "বিলুপ্তপ্রায় প্রাণী রক্ষা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জরুরি",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "একটি উপাদান নষ্ট হলে —",
+   "options": {
+    "A": "পুরো বাস্তুতন্ত্র ক্ষতিগ্রস্ত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "ঘাস → হরিণ → বাঘ শৃঙ্খলে উৎপাদক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাঘ",
+    "C": "ঘাস",
+    "D": "হরিণ"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "জলাভূমি ভরাট —",
+   "options": {
+    "A": "পরিবেশের ক্ষতি করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "জীববৈচিত্র্য সংরক্ষণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "টেকসই উন্নয়নের জন্য জরুরি",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "বাস্তুতন্ত্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জীব ও পরিবেশের ঐক্য",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "প্রথম ট্রফিক স্তর —",
+   "options": {
+    "A": "উৎপাদক",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ভোক্তা"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "সৌরশক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দূষণমুক্ত",
+    "C": "দূষণকারী",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "জাতীয় উদ্যানের সংখ্যা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "বাংলাদেশে কয়েকটি আছে"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "বাস্তুতন্ত্রে উৎপাদক —",
+   "options": {
+    "A": "ভিত্তি",
+    "B": "কিছুই না",
+    "C": "অপ্রয়োজনীয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "সবুজ উদ্ভিদ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "সূর্যের শক্তি ব্যবহার করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "জলবায়ু পরিবর্তন মোকাবিলায় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "বৃক্ষরোপণ ও পরিচ্ছন্ন শক্তি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "বাংলাদেশের জাতীয় ফুল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শাপলা",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "অক্সিজেন চক্রে —",
+   "options": {
+    "A": "সালোকসংশ্লেষণ O₂ দেয়",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "ট্রফিক স্তর যত উপরে —",
+   "options": {
+    "A": "বেশি",
+    "B": "শক্তি তত কম",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "গাছ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "বাতাসের ধুলা ও CO₂ শোষণ করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "জীববৈচিত্র্যের গুরুত্ব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "খাদ্য, ওষুধ, পরিবেশের ভারসাম্য"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "অক্সিজেন ও কার্বন চক্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সম্পর্কিত",
+    "D": "সম্পর্কহীন"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "খাদ্যজাল খাদ্যশৃঙ্খলের চেয়ে —",
+   "options": {
+    "A": "কম",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বেশি স্থিতিশীল"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "বায়ুদূষণকারী —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "গাড়ির ধোঁয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "পরিবেশ শিক্ষা —",
+   "options": {
+    "A": "শিক্ষার্থীদের জন্য জরুরি",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "কার্বন চক্রে উৎস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "শ্বসন, দহন"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "ট্রফিক স্তর —",
+   "options": {
+    "A": "খাদ্যশৃঙ্খলের ধাপ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "বৃষ্টির পানি সংরক্ষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পানির সাশ্রয়ে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "IUCN —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "আন্তর্জাতিক প্রকৃতি সংরক্ষণ সংস্থা"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "পুকুর —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "একটি বাস্তুতন্ত্র",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে তীর চিহ্ন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শক্তি প্রবাহের দিক",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "বায়ুদূষণকারী গ্যাস —",
+   "options": {
+    "A": "O₂",
+    "B": "CO, SO₂, NOx",
+    "C": "N₂",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "পরিবেশ ক্লাব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "সচেতনতা বাড়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "কার্বন ডাই-অক্সাইড —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "বায়ুমণ্ডলে থাকে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "উদ্ভিদ ছাড়া খাদ্যশৃঙ্খল —",
+   "options": {
+    "A": "অসম্ভব",
+    "B": "কোনোটিই নয়",
+    "C": "সম্ভব",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "পরিচ্ছন্ন জ্বালানি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "কয়লা",
+    "D": "CNG, সৌরশক্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "ম্যানগ্রোভ উদ্ভিদ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "লবণাক্ত পানিতে টিকে থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "ইকোলজি শব্দের প্রবর্তক —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "হেকেল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে শক্তির ক্ষতি —",
+   "options": {
+    "A": "আলোতে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "তাপে"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "ওজোন স্তর ক্ষয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "UV রশ্মি বাড়ে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "চিড়িয়াখানায় —",
+   "options": {
+    "A": "প্রাণী সংরক্ষণ হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "বাস্তুতন্ত্রে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "সব উপাদান পরস্পর যুক্ত",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "শ্বসনে শক্তি —",
+   "options": {
+    "A": "ATP ও তাপে রূপান্তরিত হয়",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "পানি ফুটিয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "জীবাণুমুক্ত করা হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "পাখি ও প্রাণী রক্ষা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জীববৈচিত্র্য রক্ষা করে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "শক্তি প্রবাহ ও পদার্থ চক্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "বাস্তুতন্ত্রের মূল প্রক্রিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "সালোকসংশ্লেষণে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "সৌর শক্তি রাসায়নিক শক্তিতে রূপান্তরিত হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "সার —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "পানিদূষণ করতে পারে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "জাতীয় উদ্যান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জীববৈচিত্র্য সংরক্ষণে",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "উদ্ভিদ কার্বন গ্রহণ করে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "CO₂ রূপে",
+    "C": "কোনোটিই নয়",
+    "D": "কার্বনেট রূপে"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "খাদ্যশৃঙ্খল কাকে বলে?",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "খাদ্য-খাদক সম্পর্কের ধারা"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "গাছ লাগানো —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বাড়ায়",
+    "D": "বায়ুদূষণ কমায়"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "বাংলাদেশের জাতীয় মাছ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইলিশ",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "ইকোলজি —",
+   "options": {
+    "A": "পরিবেশ ও জীবের সম্পর্কের বিজ্ঞান",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "তীর চিহ্নের দিক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "খাদক থেকে খাদ্যের দিকে নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "জলাভূমি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জীববৈচিত্র্যের আধার",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "পরিবেশের যত্ন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ভবিষ্যৎ প্রজন্মের জন্য",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "পদার্থের চক্রের উদাহরণ —",
+   "options": {
+    "A": "শক্তি পিরামিড",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "কার্বন চক্র, নাইট্রোজেন চক্র"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে প্রতিটি ধাপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ট্রফিক স্তর",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "দূষণ রোধে সচেতনতা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "বাংলাদেশের জাতীয় পাখি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "দোয়েল",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "বাস্তুতন্ত্রের ভারসাম্য নষ্ট করলে —",
+   "options": {
+    "A": "পরিবেশ বিপন্ন হয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "ধান → ইঁদুর → সাপ শৃঙ্খলে মাধ্যমিক ভোক্তা —",
+   "options": {
+    "A": "ধান",
+    "B": "কোনোটিই নয়",
+    "C": "সাপ",
+    "D": "ইঁদুর"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "নবায়নযোগ্য শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "গ্রিনহাউস গ্যাস কমায়"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "জীববৈচিত্র্য হ্রাসের কারণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বন উজাড়, দূষণ, শিকার"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "পদার্থ —",
+   "options": {
+    "A": "পুনর্ব্যবহৃত হয়",
+    "B": "হয় না",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "ঘাস → হরিণ → বাঘ শৃঙ্খলে মাধ্যমিক ভোক্তা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হরিণ",
+    "C": "বাঘ",
+    "D": "ঘাস"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "অ্যাসিড বৃষ্টি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "মাটি, পানি, ভবন ক্ষয় করে"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "বৃক্ষরোপণ অভিযান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পরিবেশ রক্ষায়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "কার্বন চক্রে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "CO₂ ব্যবহার ও নির্গত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "বিয়োজকের গুরুত্ব —",
+   "options": {
+    "A": "অপরিসীম",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "পানিদূষণের কারণ —",
+   "options": {
+    "A": "শিল্প বর্জ্য, পয়ঃনিষ্কাশন, সার-কীটনাশক",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "পরিষ্কার-পরিচ্ছন্নতা অভিযান —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "দূষণ রোধে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "বাষ্পীভবন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পানি বাষ্পে পরিণত হওয়া",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "পদার্থের পুনঃচক্রায়ন —",
+   "options": {
+    "A": "বিয়োজকের অবদান",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "প্লাস্টিক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জৈব-বিচ্ছেদ্য",
+    "C": "কোনোটিই নয়",
+    "D": "জৈব-অবিচ্ছেদ্য"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "বন উজাড় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাড়ায়",
+    "C": "জীববৈচিত্র্য কমায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "কার্বন চক্রে CO₂ নির্গমন —",
+   "options": {
+    "A": "শ্বসন ও দহনে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সালোকসংশ্লেষণে"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "বায়োমাস পিরামিড —",
+   "options": {
+    "A": "জীবভরের পিরামিড",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "জলাভূমি সংরক্ষণে —",
+   "options": {
+    "A": "সচেতনতা দরকার",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "বাংলাদেশের প্রাণী —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বৈচিত্র্যপূর্ণ",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পুনর্ব্যবহৃত হয় না",
+    "D": "হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলে শক্তির প্রবাহ —",
+   "options": {
+    "A": "একমুখী",
+    "B": "চক্রাকার",
+    "C": "দ্বিমুখী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "পরিবেশের ভারসাম্য নষ্ট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "জীবন বিপন্ন করে"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "বোটানিক্যাল গার্ডেন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইন-সিটু",
+    "C": "কিছুই না",
+    "D": "এক্স-সিটু সংরক্ষণ"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "বিয়োজকের কাজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "মৃতদেহ পচিয়ে খনিজ ফেরায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "খাদ্যজাল জটিল হলে বাস্তুতন্ত্র —",
+   "options": {
+    "A": "অস্থিতিশীল",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "স্থিতিশীল"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "পানিদূষণকারী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "শিল্প বর্জ্য, পয়ঃনিষ্কাশন"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "জীববৈচিত্র্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "প্রকৃতির ভারসাম্য রক্ষা করে",
+    "D": "নষ্ট করে"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "কৃত্রিম বাস্তুতন্ত্রে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "মানুষ নিয়ন্ত্রণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "তৃণভোজী —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সরাসরি উদ্ভিদ খায়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "হাওর-বাঁওড় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "বাংলাদেশের জলাভূমি"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "এক্স-সিটুর উদাহরণ —",
+   "options": {
+    "A": "অভয়ারণ্য",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "চিড়িয়াখানা, বোটানিক্যাল গার্ডেন"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "বাস্তুতন্ত্রের আন্তঃসম্পর্ক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গুরুত্বপূর্ণ",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "তৃতীয় ট্রফিক স্তর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মাধ্যমিক ভোক্তা",
+    "C": "উৎপাদক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "পানি বিশুদ্ধকরণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্লোরিন, ফিটকিরি",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "ভাওয়াল জাতীয় উদ্যান —",
+   "options": {
+    "A": "গাজীপুরে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "বাস্তুতন্ত্রের স্থায়িত্বের জন্য —",
+   "options": {
+    "A": "ভারসাম্য জরুরি",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "দ্বিতীয় ট্রফিক স্তর —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "উৎপাদক",
+    "C": "কোনোটিই নয়",
+    "D": "প্রাথমিক ভোক্তা"
+   },
+   "correctAnswer": "D",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "মাটিদূষণের কারণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্লাস্টিক, রাসায়নিক, কীটনাশক",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "বন উজাড়ের কারণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কাঠ, কৃষিজমি, বসতি"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "সাগর —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "প্রাকৃতিক বাস্তুতন্ত্র",
+    "D": "কৃত্রিম"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "খাদ্যশৃঙ্খলের দৈর্ঘ্য —",
+   "options": {
+    "A": "২০ ধাপ",
+    "B": "কোনোটিই নয়",
+    "C": "সাধারণত ৪-৫ ধাপ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "খাদ্যশৃঙ্খল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "পরিবেশের ভারসাম্য রক্ষায় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "সবার ভূমিকা দরকার",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "বিলুপ্তপ্রায় প্রজাতির তালিকা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "লাল তালিকা (Red List)",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "মাছের খামার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কৃত্রিম বাস্তুতন্ত্র",
+    "C": "প্রাকৃতিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "মাটিদূষণকারী —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্লাস্টিক, রাসায়নিক",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "বাংলাদেশের জাতীয় ফল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কাঁঠাল"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "বৃহৎ বাস্তুতন্ত্র —",
+   "options": {
+    "A": "পুকুর",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সাগর, বন"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "বাংলাদেশ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রথম পলিথিন নিষিদ্ধকারী দেশ",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "লাল তালিকা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "বিলুপ্তপ্রায় প্রজাতির তালিকা"
+   },
+   "correctAnswer": "D",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "মানুষের কার্যকলাপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "বাস্তুতন্ত্রের ভারসাম্য নষ্ট করে"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "পাট —",
+   "options": {
+    "A": "ক্ষতিকর",
+    "B": "পরিবেশবান্ধব",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "বন উজাড়ের ফল —",
+   "options": {
+    "A": "মাটিক্ষয়, বন্যা, জীববৈচিত্র্য হ্রাস",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "উৎপাদক —",
+   "options": {
+    "A": "সালোকসংশ্লেষণে খাদ্য তৈরি করে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "জৈব সার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বাড়ায়",
+    "C": "কোনোটিই নয়",
+    "D": "মাটিদূষণ কমায়"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "টেকসই উন্নয়ন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "পরিবেশ রক্ষা করে উন্নয়ন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "নাইট্রোজেন চক্রে —",
+   "options": {
+    "A": "ব্যাকটেরিয়া ভূমিকা রাখে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "ওজোন স্তর ক্ষয়কারী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "O₂",
+    "D": "CFC"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "ম্যানগ্রোভের শ্বাসমূল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "বাতাস থেকে O₂ নেয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "রাইজোবিয়াম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শিম জাতীয় উদ্ভিদের মূলে থাকে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "গাড়ির ধোঁয়ায় —",
+   "options": {
+    "A": "CO, NOx, কণা থাকে",
+    "B": "O₂",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "জীববৈচিত্র্য রক্ষায় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "শিক্ষার্থীর ভূমিকা আছে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "উৎপাদক, ভোক্তা, বিয়োজক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বাস্তুতন্ত্রের তিন স্তর",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "বায়ুদূষণের ফল —",
+   "options": {
+    "A": "শ্বাসরোগ, অ্যাসিড বৃষ্টি",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "ইন-সিটুর উদাহরণ —",
+   "options": {
+    "A": "চিড়িয়াখানা",
+    "B": "জাতীয় উদ্যান, অভয়ারণ্য",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জীববৈচিত্র্য",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "বাস্তুতন্ত্রের প্রকার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু কৃত্রিম",
+    "C": "প্রাকৃতিক ও কৃত্রিম",
+    "D": "শুধু প্রাকৃতিক"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "গ্রিনহাউস প্রভাবে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পৃথিবী উত্তপ্ত হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "ভোক্তার প্রকার —",
+   "options": {
+    "A": "শুধু প্রাথমিক",
+    "B": "কোনোটিই নয়",
+    "C": "প্রাথমিক, মাধ্যমিক, তৃতীয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "অতিরিক্ত UV —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "ত্বকের ক্যান্সার ঘটায়"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "বাস্তুতন্ত্র বুঝতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জীব ও পরিবেশের সম্পর্ক জানা দরকার",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "গ্রিনহাউস গ্যাস —",
+   "options": {
+    "A": "O₂",
+    "B": "N₂",
+    "C": "কোনোটিই নয়",
+    "D": "CO₂, মিথেন"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "বিয়োজক কাকে বলে?",
+   "options": {
+    "A": "মৃতদেহ পচায়",
+    "B": "খাদ্য তৈরি করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "গ্লোবাল ওয়ার্মিং —",
+   "options": {
+    "A": "পৃথিবীর তাপমাত্রা বাড়ায়",
+    "B": "কোনোটিই নয়",
+    "C": "কমায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "বাস্তুতন্ত্রের শক্তির উৎস —",
+   "options": {
+    "A": "সূর্য",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "চাঁদ"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "দূষণ কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পরিবেশে ক্ষতিকর পদার্থ যোগ হওয়া",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "সালোকসংশ্লেষণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "O₂ সরবরাহ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "জীবাশ্ম জ্বালানি দহন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "CO₂ বাড়ায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "বন —",
+   "options": {
+    "A": "একটি বাস্তুতন্ত্র",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "পানির অপচয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রোধ করা উচিত",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "বাস্তুতন্ত্রের ভারসাম্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রাকৃতিকভাবে বজায় থাকে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "পাটের ব্যাগ —",
+   "options": {
+    "A": "প্লাস্টিকের বিকল্প",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "প্রাকৃতিক বাস্তুতন্ত্রে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "নিজে ভারসাম্য রাখে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "দূষণ রোধে আইন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পরিবেশ রক্ষা করে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "নাইট্রোজেন স্থিরীকরণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "ব্যাকটেরিয়ায় হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "ওজোন স্তর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "স্ট্রাটোস্ফিয়ারে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "নাইট্রোজেন স্থিরকারী ব্যাকটেরিয়া —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "রাইজোবিয়াম"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "বায়ুদূষণের কারণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "ধোঁয়া, গাড়ির গ্যাস, কারখানা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "মাধ্যমিক ভোক্তা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "মাংসাশী",
+    "D": "তৃণভোজী"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "কারখানার ধোঁয়া —",
+   "options": {
+    "A": "বায়ুদূষণ করে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "ডাল জাতীয় ফসল —",
+   "options": {
+    "A": "কমায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "মাটির নাইট্রোজেন বাড়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "গ্রিনহাউস প্রভাব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কমায়",
+    "C": "গ্লোবাল ওয়ার্মিং ঘটায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "প্রাথমিক ভোক্তা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তৃণভোজী",
+    "C": "মাংসাশী",
+    "D": "সর্বভুক"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "প্লাস্টিকের বিকল্প —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "পাট, কাগজ, কাপড়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "তৃণভোজীর উদাহরণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বাঘ",
+    "C": "কোনোটিই নয়",
+    "D": "গরু, হরিণ"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "পাটের পণ্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "পরিবেশবান্ধব"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "বাস্তুতন্ত্রের সুরক্ষা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "টেকসই উন্নয়নে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "ইউট্রোফিকেশন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "পানিতে শৈবালের আধিক্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "বাস্তুতন্ত্রের আকার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ছোট বা বড় হতে পারে",
+    "C": "কোনোটিই নয়",
+    "D": "সবসময় বড়"
+   },
+   "correctAnswer": "B",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "দূষিত পানি পান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "রোগ ঘটায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "বিয়োজক ছাড়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "চলে",
+    "C": "কোনোটিই নয়",
+    "D": "বাস্তুতন্ত্র অচল"
+   },
+   "correctAnswer": "D",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "জৈব চাষ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পরিবেশবান্ধব",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "উৎপাদক ছাড়া —",
+   "options": {
+    "A": "চলে",
+    "B": "কিছুই না",
+    "C": "বাস্তুতন্ত্র অচল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "কলেরা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "দূষিত পানিতে ছড়ায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "প্রাণী কার্বন পায় —",
+   "options": {
+    "A": "খাদ্যের মাধ্যমে",
+    "B": "CO₂ রূপে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বাস্তুতন্ত্র",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "CNG —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাড়ায়",
+    "C": "কিছুই না",
+    "D": "বায়ুদূষণ কমায়"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "ওজোন স্তর রক্ষার চুক্তি —",
+   "options": {
+    "A": "মন্ট্রিল প্রটোকল",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "গ্রিনহাউস গ্যাস বাড়লে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাপ আটকে যায়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "শিল্প বর্জ্য —",
+   "options": {
+    "A": "পানিদূষণ করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "পরিবেশ সুরক্ষা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সবার কর্তব্য"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "সৌর ও বায়ু শক্তি —",
+   "options": {
+    "A": "দূষণকারী",
+    "B": "কোনোটিই নয়",
+    "C": "পরিচ্ছন্ন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "প্লাস্টিক দূষণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "মাটি ও পানি দূষণ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "CO₂ বাড়লে —",
+   "options": {
+    "A": "গ্রিনহাউস প্রভাব বাড়ে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "পানি সংরক্ষণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "জরুরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "পানি সাশ্রয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "পরিবেশ রক্ষায়"
+   },
+   "correctAnswer": "D",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "লাউডস্পিকারের অতিরিক্ত ব্যবহার —",
+   "options": {
+    "A": "শব্দদূষণ করে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দূষণ",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "D",
+  "2": "B",
+  "3": "D",
+  "4": "D",
+  "5": "C",
+  "6": "D",
+  "7": "B",
+  "8": "B",
+  "9": "D",
+  "10": "B",
+  "11": "A",
+  "12": "A",
+  "13": "D",
+  "14": "B",
+  "15": "B",
+  "16": "C",
+  "17": "A",
+  "18": "A",
+  "19": "A",
+  "20": "A",
+  "21": "D",
+  "22": "A",
+  "23": "C",
+  "24": "D",
+  "25": "B",
+  "26": "C",
+  "27": "C",
+  "28": "B",
+  "29": "D",
+  "30": "A",
+  "31": "C",
+  "32": "B",
+  "33": "D",
+  "34": "A",
+  "35": "A",
+  "36": "C",
+  "37": "B",
+  "38": "C",
+  "39": "D",
+  "40": "A",
+  "41": "C",
+  "42": "D",
+  "43": "D",
+  "44": "C",
+  "45": "B",
+  "46": "C",
+  "47": "C",
+  "48": "B",
+  "49": "C",
+  "50": "A",
+  "51": "C",
+  "52": "B",
+  "53": "B",
+  "54": "A",
+  "55": "B",
+  "56": "C",
+  "57": "B",
+  "58": "D",
+  "59": "A",
+  "60": "C",
+  "61": "A",
+  "62": "A",
+  "63": "A",
+  "64": "B",
+  "65": "C",
+  "66": "C",
+  "67": "C",
+  "68": "B",
+  "69": "A",
+  "70": "A",
+  "71": "A",
+  "72": "D",
+  "73": "A",
+  "74": "C",
+  "75": "C",
+  "76": "B",
+  "77": "D",
+  "78": "A",
+  "79": "C",
+  "80": "D",
+  "81": "B",
+  "82": "B",
+  "83": "B",
+  "84": "C",
+  "85": "D",
+  "86": "D",
+  "87": "B",
+  "88": "D",
+  "89": "A",
+  "90": "C",
+  "91": "C",
+  "92": "C",
+  "93": "C",
+  "94": "C",
+  "95": "C",
+  "96": "B",
+  "97": "D",
+  "98": "D",
+  "99": "B",
+  "100": "A",
+  "101": "B",
+  "102": "D",
+  "103": "C",
+  "104": "C",
+  "105": "A",
+  "106": "C",
+  "107": "B",
+  "108": "B",
+  "109": "C",
+  "110": "D",
+  "111": "D",
+  "112": "D",
+  "113": "C",
+  "114": "A",
+  "115": "A",
+  "116": "D",
+  "117": "C",
+  "118": "D",
+  "119": "B",
+  "120": "D",
+  "121": "D",
+  "122": "C",
+  "123": "C",
+  "124": "B",
+  "125": "D",
+  "126": "A",
+  "127": "D",
+  "128": "D",
+  "129": "A",
+  "130": "A",
+  "131": "C",
+  "132": "D",
+  "133": "D",
+  "134": "D",
+  "135": "A",
+  "136": "A",
+  "137": "A",
+  "138": "B",
+  "139": "D",
+  "140": "A",
+  "141": "D",
+  "142": "C",
+  "143": "B",
+  "144": "C",
+  "145": "A",
+  "146": "B",
+  "147": "B",
+  "148": "C",
+  "149": "B",
+  "150": "D",
+  "151": "A",
+  "152": "A",
+  "153": "C",
+  "154": "B",
+  "155": "D",
+  "156": "C",
+  "157": "C",
+  "158": "A",
+  "159": "B",
+  "160": "A",
+  "161": "A",
+  "162": "C",
+  "163": "B",
+  "164": "B",
+  "165": "A",
+  "166": "D",
+  "167": "C",
+  "168": "D",
+  "169": "B",
+  "170": "C",
+  "171": "B",
+  "172": "C",
+  "173": "D",
+  "174": "B",
+  "175": "D",
+  "176": "A",
+  "177": "C",
+  "178": "D",
+  "179": "D",
+  "180": "D",
+  "181": "D",
+  "182": "D",
+  "183": "C",
+  "184": "B",
+  "185": "D",
+  "186": "C",
+  "187": "B",
+  "188": "C",
+  "189": "A",
+  "190": "B",
+  "191": "A",
+  "192": "B",
+  "193": "B",
+  "194": "C",
+  "195": "B",
+  "196": "A",
+  "197": "C",
+  "198": "C",
+  "199": "A",
+  "200": "B",
+  "201": "C",
+  "202": "A",
+  "203": "B",
+  "204": "B",
+  "205": "A",
+  "206": "C",
+  "207": "A",
+  "208": "B",
+  "209": "B",
+  "210": "A",
+  "211": "B",
+  "212": "D",
+  "213": "A",
+  "214": "C",
+  "215": "B",
+  "216": "B",
+  "217": "A",
+  "218": "B",
+  "219": "C",
+  "220": "D",
+  "221": "C",
+  "222": "D",
+  "223": "D",
+  "224": "A",
+  "225": "D",
+  "226": "A",
+  "227": "B",
+  "228": "D",
+  "229": "B",
+  "230": "C",
+  "231": "B",
+  "232": "D",
+  "233": "B",
+  "234": "A",
+  "235": "D",
+  "236": "C",
+  "237": "C",
+  "238": "D",
+  "239": "B",
+  "240": "A",
+  "241": "C",
+  "242": "A",
+  "243": "C",
+  "244": "B",
+  "245": "D",
+  "246": "B",
+  "247": "C",
+  "248": "B",
+  "249": "B",
+  "250": "D",
+  "251": "D",
+  "252": "B",
+  "253": "A",
+  "254": "B",
+  "255": "B",
+  "256": "B",
+  "257": "D",
+  "258": "C",
+  "259": "D",
+  "260": "B",
+  "261": "A",
+  "262": "C",
+  "263": "D",
+  "264": "D",
+  "265": "A",
+  "266": "C",
+  "267": "D",
+  "268": "C",
+  "269": "B",
+  "270": "A",
+  "271": "A",
+  "272": "B",
+  "273": "B",
+  "274": "A",
+  "275": "D",
+  "276": "C",
+  "277": "A",
+  "278": "A",
+  "279": "A",
+  "280": "B",
+  "281": "C",
+  "282": "A",
+  "283": "D",
+  "284": "D",
+  "285": "C",
+  "286": "D",
+  "287": "D",
+  "288": "C",
+  "289": "D",
+  "290": "C",
+  "291": "D",
+  "292": "D",
+  "293": "B",
+  "294": "B",
+  "295": "B",
+  "296": "A",
+  "297": "A",
+  "298": "D",
+  "299": "B",
+  "300": "D",
+  "301": "C",
+  "302": "C",
+  "303": "C",
+  "304": "C",
+  "305": "B",
+  "306": "B",
+  "307": "D",
+  "308": "D",
+  "309": "B",
+  "310": "D",
+  "311": "D",
+  "312": "B",
+  "313": "A",
+  "314": "A",
+  "315": "D",
+  "316": "C",
+  "317": "A",
+  "318": "D",
+  "319": "C",
+  "320": "B",
+  "321": "A",
+  "322": "C",
+  "323": "B",
+  "324": "A",
+  "325": "B",
+  "326": "C",
+  "327": "C",
+  "328": "C",
+  "329": "D",
+  "330": "B",
+  "331": "D",
+  "332": "A",
+  "333": "A",
+  "334": "A",
+  "335": "B",
+  "336": "D",
+  "337": "C",
+  "338": "A",
+  "339": "B",
+  "340": "B",
+  "341": "A",
+  "342": "C",
+  "343": "B",
+  "344": "C",
+  "345": "C",
+  "346": "D",
+  "347": "C",
+  "348": "C",
+  "349": "A",
+  "350": "D",
+  "351": "C",
+  "352": "B",
+  "353": "C",
+  "354": "D",
+  "355": "D",
+  "356": "B",
+  "357": "C",
+  "358": "B",
+  "359": "C",
+  "360": "D",
+  "361": "B",
+  "362": "C",
+  "363": "C",
+  "364": "A",
+  "365": "D",
+  "366": "A",
+  "367": "B",
+  "368": "A",
+  "369": "D",
+  "370": "C",
+  "371": "C",
+  "372": "A",
+  "373": "C",
+  "374": "D",
+  "375": "A"
+ }
+}
