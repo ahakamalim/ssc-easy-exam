@@ -1,0 +1,7134 @@
+{
+ "subject": "জীববিজ্ঞান",
+ "chapterNo": 8,
+ "chapter": "রেচন প্রক্রিয়া",
+ "questions": [
+  {
+   "question": "বৃক্ক রক্ত —",
+   "options": {
+    "A": "পরিশোধন করে",
+    "B": "কোনোটিই নয়",
+    "C": "তৈরি করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "মূত্রথলির প্রাচীর —",
+   "options": {
+    "A": "প্রসারণক্ষম",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "মূত্রে রক্ত —",
+   "options": {
+    "A": "বৃক্কের রোগের লক্ষণ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "স্বাভাবিক"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "উদ্ভিদের রেচনে —",
+   "options": {
+    "A": "আছে",
+    "B": "কিছুই না",
+    "C": "বিশেষ তন্ত্র নেই",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "পাখির মূত্রথলি না থাকা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "ওজনে হালকা (উড্ডয়নে সুবিধা)"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "ইউরিয়া তৈরি হয় —",
+   "options": {
+    "A": "বৃক্কে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "যকৃতে"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "বৃক্ক বিকল হলে —",
+   "options": {
+    "A": "উপকার",
+    "B": "দেহে বিষ জমে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "মূত্র গঠনের প্রথম ধাপ —",
+   "options": {
+    "A": "পুনঃশোষণ",
+    "B": "ছাঁকন (আলট্রাফিলট্রেশন)",
+    "C": "কোনোটিই নয়",
+    "D": "ক্ষরণ"
+   },
+   "correctAnswer": "B",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "উদ্ভিদের CO₂ —",
+   "options": {
+    "A": "শুধু দিনে",
+    "B": "কিছুই না",
+    "C": "রাতে ত্যাগ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "উট পানি সাশ্রয় করে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ঘন মূত্রে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "রেচনে —",
+   "options": {
+    "A": "খাদ্য জমে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ক্ষতিকর বর্জ্য দূর হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "দৈনিক মূত্রের পরিমাণ —",
+   "options": {
+    "A": "০.৫ লিটার",
+    "B": "প্রায় ১.৫ লিটার",
+    "C": "৫ লিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "পানির সর্বাধিক পুনঃশোষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "গ্লোমেরুলাসে",
+    "D": "প্রক্সিমাল নালিকায়"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "গামের ব্যবহার —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "আঠা, খাদ্যে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "জলজ প্রাণী অ্যামোনিয়া ত্যাগ করে — কারণ?",
+   "options": {
+    "A": "পানি পর্যাপ্ত আছে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর রেচন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "হোমিওস্ট্যাসিস —",
+   "options": {
+    "A": "অভ্যন্তরীণ ভারসাম্য",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "বৃক্কের আকৃতি —",
+   "options": {
+    "A": "গোলাকার",
+    "B": "কিছুই না",
+    "C": "শিম বীজের মতো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "ADH থাকলে —",
+   "options": {
+    "A": "পানি পুনঃশোষিত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "উদ্ভিদের বর্জ্য —",
+   "options": {
+    "A": "বিষাক্ত",
+    "B": "অল্প বিষাক্ত",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "জলজ প্রাণী —",
+   "options": {
+    "A": "ইউরিয়া",
+    "B": "কোনোটিই নয়",
+    "C": "অ্যামোনিয়া সরাসরি ত্যাগ করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "রেচনের মাধ্যমে লবণ —",
+   "options": {
+    "A": "ভারসাম্য রক্ষিত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "পর্যাপ্ত পানি পান —",
+   "options": {
+    "A": "বৃক্ক সুস্থ রাখে",
+    "B": "ক্ষতি করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "মূত্র গঠনের দ্বিতীয় ধাপ —",
+   "options": {
+    "A": "পুনঃশোষণ",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষরণ",
+    "D": "ছাঁকন"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "উদ্ভিদের বর্জ্য কোষের —",
+   "options": {
+    "A": "নিউক্লিয়াসে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ভ্যাকুওলে জমে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "অ্যামোনোটেলিক প্রাণী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্তন্যপায়ী",
+    "C": "পাখি",
+    "D": "মাছ, জলজ প্রাণী"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "ফুসফুসের রেচন —",
+   "options": {
+    "A": "ইউরিয়ায়",
+    "B": "CO₂ ও পানি বাষ্পে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "বৃক্কে প্রবাহিত রক্ত —",
+   "options": {
+    "A": "কম",
+    "B": "কোনোটিই নয়",
+    "C": "দেহের রক্তের বড় অংশ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "পানির পুনঃশোষণ নিয়ন্ত্রণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ইনসুলিনে",
+    "C": "কোনোটিই নয়",
+    "D": "ADH হরমোনে"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "বাকল ঝরা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বর্জ্য অপসারণে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "অ্যামোনিয়া থেকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "ইউরিয়া বা ইউরিক অ্যাসিড হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "রেচনে ফুসফুসের ভূমিকা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "CO₂ ও পানি বাষ্প ত্যাগ",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "বৃক্ক রক্তের pH —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "নিয়ন্ত্রণ করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "ক্ষরণ (সিক্রেশন) —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "রক্ত থেকে বর্জ্য নালিকায় পাঠানো"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "গাম —",
+   "options": {
+    "A": "উদ্ভিদের রেচন পদার্থ",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "নাইট্রোজেনঘটিত বর্জ্যের উৎস —",
+   "options": {
+    "A": "প্রোটিন বিপাক",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শর্করা বিপাক"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "পেরিটোনিয়াল ডায়ালাইসিস —",
+   "options": {
+    "A": "পেটের ঝিল্লি ব্যবহার",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "বৃক্ক প্রতিস্থাপন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বিকল বৃক্কের চিকিৎসা"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "মূত্র গঠনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ছাঁকন, পুনঃশোষণ, ক্ষরণ তিনটিই হয়",
+    "C": "কিছুই না",
+    "D": "একটি"
+   },
+   "correctAnswer": "B",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "উদ্ভিদের বর্জ্য পদার্থ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ট্যানিন, রেজিন, গাম, অ্যালকালয়েড",
+    "C": "ইউরিয়া",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "ইউরিকোটেলিক প্রাণী —",
+   "options": {
+    "A": "পাখি, সরীসৃপ",
+    "B": "স্তন্যপায়ী",
+    "C": "কোনোটিই নয়",
+    "D": "মাছ"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "রেচন ব্যর্থ হলে —",
+   "options": {
+    "A": "দেহে বিষ জমে মৃত্যু",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "অ্যাফারেন্ট ধমনিকা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "গ্লোমেরুলাসে রক্ত আনে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "নিয়মিত স্বাস্থ্য পরীক্ষায় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "মূত্র পরীক্ষা করা হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "পাতা ঝরে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "বর্জ্য দূর হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "পোকা পানি সাশ্রয়ে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ইউরিক অ্যাসিড ত্যাগ করে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "ঘাম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "দেহ ঠান্ডা রাখে",
+    "D": "গরম করে"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "ইউরোক্রোম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "মূত্রের রঞ্জক"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "ক্ষরণে —",
+   "options": {
+    "A": "H⁺, K⁺, ওষুধের অংশ বের হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "গ্লুকোজ"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "উদ্ভিদ মূল থেকে —",
+   "options": {
+    "A": "বর্জ্য নিঃসরণ করতে পারে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "অ্যামোনিয়া ত্যাগে —",
+   "options": {
+    "A": "বেশি পানি লাগে",
+    "B": "কোনোটিই নয়",
+    "C": "কম পানি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "পানিশূন্যতা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পানি কম পেলে হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "বৃক্কের আলট্রাসাউন্ড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বৃক্কের রোগ নির্ণয়ে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "পানি কম পান করলে —",
+   "options": {
+    "A": "ADH কমে",
+    "B": "কোনোটিই নয়",
+    "C": "ADH বাড়ে, মূত্র কমে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "উদ্ভিদের বর্জ্য নিঃসরণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "মূল দিয়েও হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "কেঁচোর রেচন অঙ্গ —",
+   "options": {
+    "A": "বৃক্ক",
+    "B": "নেফ্রিডিয়া",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "একটি সুস্থ বৃক্কেই —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "বেঁচে থাকা যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "আদিমূত্রের প্রায় —",
+   "options": {
+    "A": "৯৯% পানি পুনঃশোষিত হয়",
+    "B": "১০%",
+    "C": "৫০%",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "ডায়াবেটিস ইনসিপিডাসে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "অতিরিক্ত পাতলা মূত্র হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "শরতের পাতা ঝরা —",
+   "options": {
+    "A": "বর্জ্য অপসারণের উপায়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "পাখির ক্লোয়াকা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "মল-মূত্রের সাধারণ ছিদ্র"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "ফুসফুস থেকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ইউরিয়া বের হয়",
+    "D": "CO₂ ও পানি বাষ্প বের হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "বৃক্কের দৈর্ঘ্য —",
+   "options": {
+    "A": "২০ সেমি",
+    "B": "কোনোটিই নয়",
+    "C": "প্রায় ১১ সেমি",
+    "D": "৫ সেমি"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "মূত্রের দুর্গন্ধ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সংক্রমণের লক্ষণ হতে পারে",
+    "C": "স্বাভাবিক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "উদ্ভিদের রেচনের বিশেষত্ব —",
+   "options": {
+    "A": "বিশেষ অঙ্গের প্রয়োজন নেই",
+    "B": "দরকার",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "ইউরিকোটেলিক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইউরিয়া ত্যাগকারী",
+    "C": "ইউরিক অ্যাসিড ত্যাগকারী",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "যকৃত অ্যামোনিয়াকে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "ইউরিয়ায় রূপান্তরিত করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "বৃক্কের পিরামিড —",
+   "options": {
+    "A": "মেডুলার ত্রিভুজাকার অংশ",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "উচ্চ লবণ ঘনত্ব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "পানি পুনঃশোষণে সাহায্য করে"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "উদ্ভিদের অতিরিক্ত পানি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "মূত্রে",
+    "D": "বাষ্পমোচনে বের হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "ইউরিয়া চক্রের আবিষ্কারক —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ক্রেবস ও হেনসেলিট",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "ইউরেমিয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "রক্তে ইউরিয়া জমা",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "বৃক্কের স্বাস্থ্যে লবণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সীমিত খাওয়া উচিত",
+    "C": "কোনোটিই নয়",
+    "D": "বেশি খাওয়া"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "পানি পুনঃশোষণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "গ্লোমেরুলাসে",
+    "D": "নালিকায় হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "নিকোটিন —",
+   "options": {
+    "A": "তামাক গাছের অ্যালকালয়েড",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "মাছ —",
+   "options": {
+    "A": "অ্যামোনিয়া ত্যাগ করে",
+    "B": "কোনোটিই নয়",
+    "C": "ইউরিয়া",
+    "D": "ইউরিক অ্যাসিড"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "রেচনে যকৃতের ভূমিকা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "বর্জ্য প্রক্রিয়াজাতকরণ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "ক্ষরণে বের হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "গ্লুকোজ",
+    "C": "কোনোটিই নয়",
+    "D": "H⁺, K⁺, অ্যামোনিয়া, ওষুধ"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "ছাঁকন ঘটে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নালিকায়",
+    "C": "গ্লোমেরুলাসে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "রজন (resin) —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "উদ্ভিদের বর্জ্য"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "মাছের রেচন —",
+   "options": {
+    "A": "বৃক্ক ও ফুলকায়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু বৃক্কে"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "বৃক্কের অকার্যকারিতা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "ইউরেমিয়া ঘটায়"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "ডায়ালাইসিসে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কৃত্রিম বৃক্ক ব্যবহৃত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "রক্ত অম্লীয় হলে H⁺ —",
+   "options": {
+    "A": "কম",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বেশি ক্ষরিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "উদ্ভিদের বর্জ্য জমা —",
+   "options": {
+    "A": "বাকল, পাতা, ফলে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "পাখির মূত্রথলি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "থাকে",
+    "C": "থাকে না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "ঠান্ডায় ঘাম —",
+   "options": {
+    "A": "বেশি",
+    "B": "কোনোটিই নয়",
+    "C": "কম হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "সংগ্রাহী নালিকা থেকে মূত্র যায় —",
+   "options": {
+    "A": "বৃক্কের পেলভিসে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "প্রতিপ্রবাহ গুণনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "মেডুলায় উচ্চ লবণ ঘনত্ব তৈরি হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "কুইনাইন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "সিনকোনা গাছের অ্যালকালয়েড",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "পোকার রেচন অঙ্গ —",
+   "options": {
+    "A": "মালপিজিয়ান নালিকা",
+    "B": "কিছুই না",
+    "C": "বৃক্ক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "রেচনে ত্বকের ভূমিকা —",
+   "options": {
+    "A": "ঘামে পানি ও লবণ ত্যাগ",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "গ্লোমেরুলাসে রক্ত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তৈরি হয়",
+    "C": "কিছুই না",
+    "D": "ছাঁকা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "মূত্রত্যাগের সময় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "স্ফিংকটার শিথিল হয়",
+    "C": "কোনোটিই নয়",
+    "D": "সংকুচিত হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "রেজিনের ব্যবহার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "বার্নিশ, আঠায়"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "ইউরিক অ্যাসিড ত্যাগে —",
+   "options": {
+    "A": "বেশি পানি",
+    "B": "কম পানি লাগে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "দেহের পানি বেশি হলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "মূত্র বেশি ও পাতলা হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "বৃক্কের পাথর রোধে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পর্যাপ্ত পানি পান",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "গ্লোমেরুলাসে ছাঁকা হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "রক্তের চাপে"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "অ্যালকালয়েড —",
+   "options": {
+    "A": "উদ্ভিদের নাইট্রোজেনঘটিত পদার্থ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "অ্যামিনো অ্যাসিডের ভাঙনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "গ্লুকোজ হয়",
+    "C": "অ্যামোনিয়া হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "হোমিওস্ট্যাসিসে রেচন —",
+   "options": {
+    "A": "রাখে না",
+    "B": "গুরুত্বপূর্ণ ভূমিকা রাখে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "আদিমূত্র থেকে পুনঃশোষণ হয় —",
+   "options": {
+    "A": "গ্লুকোজ, পানি, লবণ",
+    "B": "কিছুই না",
+    "C": "বর্জ্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "ক্ষরণে রক্ত থেকে —",
+   "options": {
+    "A": "H⁺, K⁺, অ্যামোনিয়া নালিকায় যায়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "গ্লুকোজ"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "ক্যালসিয়াম অক্সালেট —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "উদ্ভিদের কোষে জমে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "প্রাণীর রেচন অঙ্গ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বৃক্ক, নেফ্রিডিয়া, মালপিজিয়ান নালিকা",
+    "D": "শুধু বৃক্ক"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "রেচনের প্রয়োজন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "দেহে বিষ জমা রোধে"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "ইউরেটারের দৈর্ঘ্য —",
+   "options": {
+    "A": "৫০ সেমি",
+    "B": "১০ সেমি",
+    "C": "কোনোটিই নয়",
+    "D": "প্রায় ২৫-৩০ সেমি"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "প্রতিপ্রবাহ গুণন —",
+   "options": {
+    "A": "হেনলির লুপে ঘন মূত্র গঠন",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "অ্যালকালয়েডের উদাহরণ —",
+   "options": {
+    "A": "কুইনাইন, মরফিন, নিকোটিন",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "পাখির মল-মূত্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "একত্রে ত্যাগ হয়",
+    "C": "আলাদা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "ব্যায়ামে ঘাম —",
+   "options": {
+    "A": "বেশি হয়",
+    "B": "কিছুই না",
+    "C": "কম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "লবণ পুনঃশোষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু সক্রিয়",
+    "C": "সক্রিয় ও নিষ্ক্রিয় দুইভাবে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "ক্ষরণের উদ্দেশ্য —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অতিরিক্ত আয়ন ও বিষ বের করা"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "উদ্ভিদের স্ফটিক বর্জ্য —",
+   "options": {
+    "A": "ক্যালসিয়াম অক্সালেট",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "পাখির নাইট্রোজেন বর্জ্য —",
+   "options": {
+    "A": "ইউরিক অ্যাসিড",
+    "B": "অ্যামোনিয়া",
+    "C": "ইউরিয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "ঘামে সামান্য —",
+   "options": {
+    "A": "ইউরিয়া ও লবণ থাকে",
+    "B": "গ্লুকোজ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "মূত্রনালি (ইউরেটার) —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "বৃক্ক থেকে মূত্রথলিতে বহন করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "আদিমূত্রে রক্তকণিকা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "থাকে না",
+    "C": "থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "ট্যানিন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "উদ্ভিদের বর্জ্য/রক্ষাকারী পদার্থ"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "সরীসৃপের নাইট্রোজেন বর্জ্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যামোনিয়া",
+    "C": "ইউরিয়া",
+    "D": "ইউরিক অ্যাসিড"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "ঘামগ্রন্থির সংখ্যা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অসংখ্য",
+    "C": "কোনোটিই নয়",
+    "D": "কয়েকটি"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "এরিথ্রোপয়েটিন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "লোহিত কণিকা তৈরিতে উদ্দীপনা দেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "মূত্র গঠনের ফল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "রক্ত পরিশুদ্ধ ও ভারসাম্য",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "উদ্ভিদের রেচন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বিশেষ অঙ্গ নেই",
+    "D": "বৃক্কে"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "স্তন্যপায়ীর নাইট্রোজেন বর্জ্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যামোনিয়া",
+    "C": "ইউরিক অ্যাসিড",
+    "D": "ইউরিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "ঘামের প্রধান কাজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "দেহ ঠান্ডা করা",
+    "D": "খাদ্য হজম"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "মূত্রের প্রধান উপাদান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "গ্লুকোজ",
+    "D": "পানি, ইউরিয়া, লবণ"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "মূত্রত্যাগের স্নায়ু নিয়ন্ত্রণ —",
+   "options": {
+    "A": "মস্তিষ্ক ও সুষুম্নায়",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "ইউরিওটেলিক প্রাণী —",
+   "options": {
+    "A": "স্তন্যপায়ী, উভচর",
+    "B": "পাখি",
+    "C": "মাছ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "রেচন তন্ত্র সুস্থ রাখতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পর্যাপ্ত পানি, পরিষ্কার-পরিচ্ছন্নতা",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "ইউরেটারে —",
+   "options": {
+    "A": "পেরিস্টালসিসে মূত্র চলে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "ADH কম হলে মূত্র —",
+   "options": {
+    "A": "কম হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বেশি হয় (পাতলা)"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "প্রাণীর রেচন বর্জ্য —",
+   "options": {
+    "A": "নাইট্রোজেনঘটিত পদার্থ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "গ্লুকোজ"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "প্রোটিন বিপাকের বর্জ্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "গ্লুকোজ",
+    "C": "কোনোটিই নয়",
+    "D": "ইউরিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "রেনাল ধমনি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "বৃক্কে রক্ত আনে"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "মূত্র মূত্রথলিতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সাময়িক জমা থাকে",
+    "D": "জমে না"
+   },
+   "correctAnswer": "C",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "নেফ্রিডিয়ার কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বর্জ্য ছাঁকা ও ত্যাগ",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "রেচনের গুরুত্ব —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বিষাক্ত বর্জ্য অপসারণ"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "মূত্রথলি থেকে মূত্র বের হয় —",
+   "options": {
+    "A": "ইউরেটারে",
+    "B": "কোনোটিই নয়",
+    "C": "মূত্রনালি (ইউরেথ্রা) দিয়ে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "আরোহী বাহুতে —",
+   "options": {
+    "A": "পানি বের হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "লবণ বের হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "ইউরিক অ্যাসিড —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বেশি দ্রবণীয়",
+    "C": "কোনোটিই নয়",
+    "D": "পানিতে কম দ্রবণীয়"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "পিত্তে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ইউরিয়া",
+    "D": "বিলিরুবিন থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "গ্লুকোজ পুনঃশোষণ —",
+   "options": {
+    "A": "সক্রিয় পরিবহণে",
+    "B": "নিষ্ক্রিয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "বৃদ্ধদের মূত্র নিয়ন্ত্রণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "দুর্বল হতে পারে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "জলজ প্রাণীর নাইট্রোজেন বর্জ্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যামোনিয়া",
+    "C": "ইউরিক অ্যাসিড",
+    "D": "ইউরিয়া"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "হেমোডায়ালাইসিস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রক্ত বের করে পরিশোধন",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "মূত্রের হলুদ রং আসে —",
+   "options": {
+    "A": "ইউরোক্রোম থেকে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "হিমোগ্লোবিন থেকে"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "লালচে মূত্র —",
+   "options": {
+    "A": "স্বাভাবিক",
+    "B": "রক্তের উপস্থিতি নির্দেশ করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "উটের রেচন —",
+   "options": {
+    "A": "ঘন মূত্র, শুকনো মল",
+    "B": "পাতলা মূত্র",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "যকৃতের ডি-অ্যামিনেশন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অ্যামিনো অ্যাসিড থেকে অ্যামোনিয়া",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "বৃক্কের রং —",
+   "options": {
+    "A": "সবুজ",
+    "B": "লালচে-বাদামি",
+    "C": "কোনোটিই নয়",
+    "D": "নীল"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "হেনলির আরোহী বাহু —",
+   "options": {
+    "A": "লবণ ভেদ্য",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পানি ভেদ্য"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "ইউরিওটেলিক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অ্যামোনিয়া ত্যাগকারী",
+    "C": "ইউরিয়া ত্যাগকারী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "ইউরিয়া ত্যাগ হয় —",
+   "options": {
+    "A": "ফুসফুসে",
+    "B": "বৃক্ক দিয়ে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "বৃক্ক প্রতিস্থাপনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "সুস্থ বৃক্ক বসানো হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "শিশুদের অনিয়ন্ত্রিত মূত্রত্যাগ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্বাভাবিক (বয়সে শেখে)",
+    "C": "অস্বাভাবিক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "পাখির মল —",
+   "options": {
+    "A": "সাদা অংশ ইউরিক অ্যাসিড",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "ডায়ালাইসিস রোগী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিয়মিত করাতে হয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "নেফ্রাইটিসে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "মূত্রে প্রোটিন ও রক্ত যায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "মূত্র গঠনের তৃতীয় ধাপ —",
+   "options": {
+    "A": "ক্ষরণ",
+    "B": "কোনোটিই নয়",
+    "C": "পুনঃশোষণ",
+    "D": "ছাঁকন"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "ইউরিয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বেশি বিষাক্ত",
+    "D": "অ্যামোনিয়ার চেয়ে কম বিষাক্ত"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "ঘামগ্রন্থি থেকে —",
+   "options": {
+    "A": "ঘাম নিঃসৃত হয়",
+    "B": "কিছুই না",
+    "C": "মূত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "বৃক্কের কাজ —",
+   "options": {
+    "A": "রক্ত পরিশোধন ও মূত্র তৈরি",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পিত্ত তৈরি"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "ডায়াবেটিস মেলিটাসে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "মূত্রে গ্লুকোজ যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "মরু প্রাণী পানি সাশ্রয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পাতলা মূত্র",
+    "C": "ইউরিক অ্যাসিড/ঘন মূত্র",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "এডিমা —",
+   "options": {
+    "A": "দেহে অতিরিক্ত তরল জমা",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "দীর্ঘক্ষণ মূত্র আটকে রাখলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "সংক্রমণ হতে পারে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "বৃক্ক নিরবচ্ছিন্ন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মূত্র তৈরি করে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "অ্যামোনোটেলিক —",
+   "options": {
+    "A": "অ্যামোনিয়া ত্যাগকারী",
+    "B": "ইউরিয়া ত্যাগকারী",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "রেচনের সামগ্রিক ভূমিকা —",
+   "options": {
+    "A": "হোমিওস্ট্যাসিস রক্ষা",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "বৃক্কের অবস্থান —",
+   "options": {
+    "A": "বুকে",
+    "B": "কোনোটিই নয়",
+    "C": "কোমরের দুই পাশে",
+    "D": "পেটের মাঝে"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "গ্লোমেরুলাসে রক্তচাপ —",
+   "options": {
+    "A": "বেশি",
+    "B": "কম",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "কেঁচোর নেফ্রিডিয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "দেহের প্রতিটি খণ্ডকে থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "রেচন —",
+   "options": {
+    "A": "জীবনের অপরিহার্য প্রক্রিয়া",
+    "B": "ঐচ্ছিক",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "আদিমূত্রে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু বর্জ্য",
+    "C": "পানি, গ্লুকোজ, লবণ, বর্জ্য থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "স্বচ্ছ/হালকা মূত্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "পর্যাপ্ত পানি পানের ইঙ্গিত"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "ইউরিয়া চক্র —",
+   "options": {
+    "A": "যকৃতে অ্যামোনিয়া থেকে ইউরিয়া",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "রেচনের অপর নাম —",
+   "options": {
+    "A": "নিঃসরণ/বর্জ্য অপসারণ",
+    "B": "কিছুই না",
+    "C": "খাদ্য গ্রহণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "হেনলির লুপ —",
+   "options": {
+    "A": "পানি ও লবণ পুনঃশোষণে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "ADH এর ফলে মূত্র —",
+   "options": {
+    "A": "পাতলা হয়",
+    "B": "কিছুই না",
+    "C": "ঘন হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "মেরুদণ্ডী প্রাণীর রেচন অঙ্গ —",
+   "options": {
+    "A": "বৃক্ক",
+    "B": "নেফ্রিডিয়া",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "রেচনের মাধ্যমে ক্যালসিয়াম —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "ভারসাম্য রক্ষিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "মূত্রথলি ভরলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "প্রসারিত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "সংগ্রাহী নালিকায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "ADH-এর প্রভাবে পানি পুনঃশোষণ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "নেফ্রিডিয়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কেঁচোর রেচন অঙ্গ"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "বৃক্ককে বলা হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "দেহের ফিল্টার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "বৃক্কের কার্যকরী একক —",
+   "options": {
+    "A": "নেফ্রন",
+    "B": "অ্যালভিওলাস",
+    "C": "কোনোটিই নয়",
+    "D": "নিউরন"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "মূত্র গঠনে দেহের —",
+   "options": {
+    "A": "পানি ও লবণের ভারসাম্য রক্ষা হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "পোকার মালপিজিয়ান নালিকা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "অন্ত্রের সাথে যুক্ত",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "বৃক্ক পটাসিয়াম —",
+   "options": {
+    "A": "নিয়ন্ত্রণ করে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "মূত্র পরীক্ষা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রোগ নির্ণয়ে সাহায্য করে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "ছাঁকনে রক্তচাপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নিম্ন",
+    "C": "উচ্চ (প্রায় ৭০ mmHg)",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মূত্র গঠন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "সাপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইউরিওটেলিক",
+    "C": "ইউরিকোটেলিক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "রেচন ও পরিপাক —",
+   "options": {
+    "A": "ভিন্ন প্রক্রিয়া",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "একই"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "পানি কম পান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কমায়",
+    "C": "বৃক্কের পাথর ঝুঁকি বাড়ায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "ADH ছাড়া সংগ্রাহী নালিকা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পানি ভেদ্য নয়",
+    "D": "ভেদ্য"
+   },
+   "correctAnswer": "C",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "মরু প্রাণীর অভিযোজন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পানি সাশ্রয়ী রেচন",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "প্রধান রেচন অঙ্গ —",
+   "options": {
+    "A": "বৃক্ক",
+    "B": "ত্বক",
+    "C": "কোনোটিই নয়",
+    "D": "ফুসফুস"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "বৃক্কের রোগ নির্ণয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "মূত্র ও রক্ত পরীক্ষা"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "আদিমূত্রে প্রোটিন —",
+   "options": {
+    "A": "থাকে না",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "থাকে"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "ব্যাঙ —",
+   "options": {
+    "A": "ইউরিওটেলিক",
+    "B": "অ্যামোনোটেলিক",
+    "C": "ইউরিকোটেলিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "শীতের দিনে প্রশ্বাসের বাষ্প —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "দৃশ্যমান হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "প্রক্সিমাল কনভল্যুটেড টিউবুল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পুনঃশোষণের প্রধান স্থান"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "ADH —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পানির পুনঃশোষণ বাড়ায়",
+    "C": "কিছুই না",
+    "D": "কমায়"
+   },
+   "correctAnswer": "B",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "মাছ ফুলকায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অ্যামোনিয়া ত্যাগ করে",
+    "C": "কোনোটিই নয়",
+    "D": "ইউরিয়া"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "খেলোয়াড়দের —",
+   "options": {
+    "A": "ওআরএস/ইলেকট্রোলাইট পানীয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "গ্লুকোজের পুনঃশোষণ —",
+   "options": {
+    "A": "২০%",
+    "B": "৫০%",
+    "C": "কোনোটিই নয়",
+    "D": "১০০%"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "আলট্রাফিলট্রেশন —",
+   "options": {
+    "A": "গ্লোমেরুলাসে ছাঁকন",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "অ্যামোনিয়া → ইউরিয়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বৃক্কে",
+    "C": "যকৃতে হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "ইউরেমিয়ার চিকিৎসা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "ডায়ালাইসিস",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "মূত্রত্যাগ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "ইচ্ছাকৃত নিয়ন্ত্রণে হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "ডায়াবেটিস মেলিটাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ADH এর অভাবে",
+    "D": "ইনসুলিনের অভাবে"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "অ্যামোনিয়া —",
+   "options": {
+    "A": "কম বিষাক্ত",
+    "B": "কোনোটিই নয়",
+    "C": "অতিবিষাক্ত",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "পিত্ত —",
+   "options": {
+    "A": "যকৃত থেকে নিঃসৃত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "বৃক্ক থেকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "পুরুষের ইউরেথ্রা —",
+   "options": {
+    "A": "নারীর চেয়ে লম্বা",
+    "B": "ছোট",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "মূত্রথলি ভরে গেলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "মূত্রত্যাগের ইচ্ছা হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "পাখির ইউরিক অ্যাসিড —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "তরল",
+    "C": "কোনোটিই নয়",
+    "D": "পানিশূন্য আধা-কঠিন"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "ঘামগ্রন্থি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ত্বকের রেচন অঙ্গ"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "নেফ্রনের অংশ —",
+   "options": {
+    "A": "শুধু গ্লোমেরুলাস",
+    "B": "গ্লোমেরুলাস, বোম্যান্স ক্যাপসুল, নালিকা",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "ছাঁকনে প্রোটিন —",
+   "options": {
+    "A": "বড় অণু বলে যায় না",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "যায়"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "পোকার বর্জ্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইউরিয়া",
+    "C": "ইউরিক অ্যাসিড",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "জন্ডিস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "রক্তে বিলিরুবিন বাড়া",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "বৃক্কের মেডুলা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাইরের স্তর",
+    "C": "ভেতরের স্তর",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "ক্ষরণ ঘটে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্লোমেরুলাসে",
+    "C": "কিছুই না",
+    "D": "ডিস্টাল নালিকায়"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "কচ্ছপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইউরিওটেলিক",
+    "C": "ইউরিকোটেলিক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "জন্ডিসে —",
+   "options": {
+    "A": "ত্বক ও চোখ হলুদ হয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "মূত্রের রং —",
+   "options": {
+    "A": "হালকা হলুদ",
+    "B": "লাল",
+    "C": "কোনোটিই নয়",
+    "D": "সবুজ"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "অবরোহী বাহুতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "লবণ বের হয়",
+    "C": "পানি বের হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "মালপিজিয়ান নালিকা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "পোকার রেচন অঙ্গ"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর রেচন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "যকৃতের রেচন ভূমিকা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মূত্র তৈরি",
+    "C": "ইউরিয়া তৈরি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "প্রতিটি বৃক্কে নেফ্রন —",
+   "options": {
+    "A": "কয়েকটি",
+    "B": "লক্ষ লক্ষ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "ডায়াবেটিস ইনসিপিডাস —",
+   "options": {
+    "A": "ইনসুলিনের অভাবে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ADH এর অভাবে"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "পাখি ইউরিক অ্যাসিড ত্যাগ করে — কারণ?",
+   "options": {
+    "A": "শুধু রং",
+    "B": "পানি সাশ্রয়ে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর রেচন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "বৃক্ক দানের পর —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "অন্য বৃক্ক কাজ চালায়"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "বোম্যান্স ক্যাপসুল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "গ্লোমেরুলাস ঘিরে থাকে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "গাঢ় হলুদ মূত্র —",
+   "options": {
+    "A": "পানি কম পানের ইঙ্গিত",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "বর্জ্য জমলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "দেহের ক্ষতি হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "ডায়ালাইসিস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কৃত্রিমভাবে রক্ত পরিশোধন",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "হেনলির অবরোহী বাহু —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "লবণ ভেদ্য",
+    "C": "কোনোটিই নয়",
+    "D": "পানি ভেদ্য"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "ঘামে —",
+   "options": {
+    "A": "শুধু পানি",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পানি, লবণ, সামান্য ইউরিয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "পেলভিস থেকে মূত্র যায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "ইউরেটারে"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "ADH বেশি হলে মূত্র —",
+   "options": {
+    "A": "কম হয় (ঘন)",
+    "B": "বেশি হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "নাইট্রোজেনঘটিত বর্জ্য —",
+   "options": {
+    "A": "ইউরিয়া, ইউরিক অ্যাসিড, অ্যামোনিয়া",
+    "B": "গ্লুকোজ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "বৃক্কের পেলভিস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "মূত্র সংগ্রহকারী ফানেল"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "ছাঁকনে রক্তকণিকা —",
+   "options": {
+    "A": "বড় বলে যায় না",
+    "B": "যায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "ডি-অ্যামিনেশন ঘটে —",
+   "options": {
+    "A": "বৃক্কে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "যকৃতে"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "এফারেন্ট ধমনিকা —",
+   "options": {
+    "A": "গ্লোমেরুলাস থেকে রক্ত নেয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "ADH সংগ্রাহী নালিকাকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পানি ভেদ্য করে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "ইলেকট্রোলাইট —",
+   "options": {
+    "A": "লবণ ও পানি পূরণে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "বৃক্ক প্রতিদিন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "প্রচুর রক্ত ছাঁকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "পানি বেশি পান করলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "মূত্র বেশি হয়",
+    "D": "কম হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "বিপাকীয় বর্জ্যের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ইউরিয়া, CO₂, অতিরিক্ত পানি",
+    "D": "মল"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "নারীদের ইউরেথ্রা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সংক্ষিপ্ত",
+    "C": "লম্বা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "ADH নিঃসৃত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পিটুইটারি গ্রন্থি থেকে",
+    "D": "বৃক্ক থেকে"
+   },
+   "correctAnswer": "C",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "রেচনের উদ্দেশ্য —",
+   "options": {
+    "A": "দেহের ভারসাম্য রক্ষা",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "মূত্রে ইউরিয়ার পরিমাণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৫০%",
+    "C": "প্রায় ২%",
+    "D": "২০%"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "পুনঃশোষণের স্থান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্লোমেরুলাস",
+    "C": "প্রক্সিমাল নালিকা, হেনলির লুপ, ডিস্টাল নালিকা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "দেহের লবণ বেশি হলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "মূত্রে বেশি লবণ যায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "চূড়ান্ত মূত্র —",
+   "options": {
+    "A": "১০ লিটার",
+    "B": "১৮০ লিটার",
+    "C": "প্রায় ১.৫ লিটার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "মূত্রের বর্ণ পরিবর্তন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "রোগ নির্দেশ করতে পারে"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "বৃক্কের রেচন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মূত্রে",
+    "C": "ঘামে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "স্ফিংকটার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "মূত্রত্যাগ নিয়ন্ত্রণ করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "মূত্র গঠনের প্রধান উদ্দেশ্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "রক্ত পরিশোধন ও ভারসাম্য"
+   },
+   "correctAnswer": "D",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "বিলিরুবিন মলের —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রং নির্ধারণ করে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "ডায়াবেটিস শনাক্তে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মূত্রে গ্লুকোজ পরীক্ষা",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "মূত্র গঠন —",
+   "options": {
+    "A": "মাঝে মাঝে",
+    "B": "নিরবচ্ছিন্ন প্রক্রিয়া",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "মল —",
+   "options": {
+    "A": "অপাচ্য খাদ্যের বর্জ্য",
+    "B": "বিপাকীয় বর্জ্য",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "মূত্রে ইউরিয়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "থাকে না",
+    "C": "কোনোটিই নয়",
+    "D": "থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "ছাঁকনে রক্তের —",
+   "options": {
+    "A": "কণিকা ও প্রোটিন যায় না",
+    "B": "কোনোটিই নয়",
+    "C": "সব যায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "মূত্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বিপাকীয় বর্জ্য",
+    "C": "অপাচ্য খাদ্য",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "অতিরিক্ত লবণ খেলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "মূত্রে বেশি লবণ যায়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "পুনঃশোষণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "প্রয়োজনীয় পদার্থ ফেরানো",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "অতিরিক্ত পানি ত্যাগ হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বৃক্ক, ত্বক, ফুসফুসে",
+    "C": "কিছুই না",
+    "D": "শুধু বৃক্কে"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "বৃক্ক কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মূত্র তৈরির অঙ্গ",
+    "C": "পিত্ত তৈরির",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "ছাঁকনের ছিদ্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ছোট (বড় অণু যায় না)",
+    "C": "কিছুই না",
+    "D": "বড়"
+   },
+   "correctAnswer": "B",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "রেচন তন্ত্রের অকার্যকারিতা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "মৃত্যু ঘটাতে পারে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "বৃক্কের বাইরের আবরণ —",
+   "options": {
+    "A": "ক্যাপসুল",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "মূত্রে প্রোটিন —",
+   "options": {
+    "A": "বৃক্কের রোগের লক্ষণ",
+    "B": "কিছুই না",
+    "C": "স্বাভাবিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "রেচনে পানি বাষ্প —",
+   "options": {
+    "A": "ফুসফুস ও ত্বকে ত্যাগ হয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "রেনাল শিরা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বৃক্ক থেকে রক্ত নেয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "পুনঃশোষণে —",
+   "options": {
+    "A": "গ্লুকোজ, পানি, লবণ ফেরে",
+    "B": "কোনোটিই নয়",
+    "C": "ইউরিয়া ফেরে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "পানিশূন্যতায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দুর্বলতা ও মাথা ঘোরা",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "গ্লোমেরুলাসে উচ্চ চাপ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ছাঁকনে সাহায্য করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "মূত্র গঠনের ধাপ —",
+   "options": {
+    "A": "দুই",
+    "B": "ছাঁকন, পুনঃশোষণ, ক্ষরণ",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু ছাঁকন"
+   },
+   "correctAnswer": "B",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "রেচনের মাধ্যমে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "বিষাক্ত বর্জ্য দূর হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "বৃক্ক বিকলের চিকিৎসা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ডায়ালাইসিস"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "ছাঁকনের বাধা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কৈশিক প্রাচীর ও বোম্যান্স ক্যাপসুল",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মূত্র গঠন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "রেচনে CO₂ —",
+   "options": {
+    "A": "ফুসফুসে ত্যাগ হয়",
+    "B": "কোনোটিই নয়",
+    "C": "বৃক্কে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "ক্ষরণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "pH নিয়ন্ত্রণে সাহায্য করে"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "যকৃত —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "বিষাক্ত পদার্থ ভাঙে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "বৃক্কের পাথর —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "বৃক্কের রোগ"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "ঘামে লবণ বের হওয়ায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "লবণও পূরণ দরকার",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "রেনিন —",
+   "options": {
+    "A": "রক্তচাপ নিয়ন্ত্রণে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "মলত্যাগ —",
+   "options": {
+    "A": "রেচন",
+    "B": "রেচন নয় (পরিপাকের বর্জ্য)",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "লবণ বেশি খাওয়া —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "উচ্চ রক্তচাপ ঝুঁকি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "পানির ভারসাম্য নষ্ট হলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "পানিশূন্যতা বা ফোলা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "প্রতিদিন ছাঁকা আদিমূত্র —",
+   "options": {
+    "A": "১০ লিটার",
+    "B": "কোনোটিই নয়",
+    "C": "প্রায় ১৮০ লিটার",
+    "D": "২ লিটার"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "রেচন প্রক্রিয়া অধ্যায় —",
+   "options": {
+    "A": "অগুরুত্বপূর্ণ",
+    "B": "গুরুত্বপূর্ণ",
+    "C": "ঐচ্ছিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "বৃক্কের সংখ্যা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২টি",
+    "C": "৩টি",
+    "D": "১টি"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "রেচন কাকে বলে?",
+   "options": {
+    "A": "খাদ্য গ্রহণ",
+    "B": "দেহ থেকে বিপাকীয় বর্জ্য অপসারণ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "প্রস্রাবের বেগ পেলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তাড়াতাড়ি যাওয়া উচিত",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "সোডিয়ামের ভারসাম্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "বৃক্কে নিয়ন্ত্রিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "ইউরেথ্রা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "মূত্রথলি থেকে মূত্র বের করার নালি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "দৈনিক পানি গ্রহণ —",
+   "options": {
+    "A": "শুধু পানীয়ে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পানীয় ও খাদ্যে"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "শিশুর মূত্র নিয়ন্ত্রণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "বড় হলে শেখে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "রেচনে বৃক্কের ভূমিকা —",
+   "options": {
+    "A": "মূত্রে বর্জ্য ত্যাগ",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "সংগ্রাহী নালিকা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "মূত্র সংগ্রহ করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "বৃক্ক রোগে —",
+   "options": {
+    "A": "দেহে পানি জমে ফোলে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "বৃক্কে রক্ত আসে —",
+   "options": {
+    "A": "রেনাল শিরায়",
+    "B": "কিছুই না",
+    "C": "রেনাল ধমনিতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "দেহের পানি কম হলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "মূত্র কম ও ঘন হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "মূত্রনালির সংক্রমণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ব্যথা ও জ্বালাপোড়া ঘটায়"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "পানির ভারসাম্য —",
+   "options": {
+    "A": "বৃক্ক নিয়ন্ত্রণ করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "মূত্রনালির সংক্রমণ রোধে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "পরিষ্কার-পরিচ্ছন্নতা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "গরমে ঘাম বেশি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "তাপমাত্রা নিয়ন্ত্রণে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "নেফ্রন কাকে বলে?",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বৃক্কের কার্যকরী একক"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "ঘামের কাজ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "রেচন ও তাপমাত্রা নিয়ন্ত্রণ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "মূত্র পরীক্ষায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "গ্লুকোজ, প্রোটিন, সংক্রমণ শনাক্ত হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "একটি বৃক্ক দান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অসম্ভব",
+    "C": "কিছুই না",
+    "D": "সম্ভব"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "H⁺ ক্ষরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রক্তের অম্লত্ব কমায়",
+    "C": "কিছুই না",
+    "D": "বাড়ায়"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "প্রশ্বাসে পানি বাষ্প —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্রতিনিয়ত বের হয়",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "মূত্রে গ্লুকোজ —",
+   "options": {
+    "A": "স্বাভাবিক",
+    "B": "কোনোটিই নয়",
+    "C": "ডায়াবেটিসের লক্ষণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "রেচন অঙ্গের যত্ন —",
+   "options": {
+    "A": "পর্যাপ্ত পানি, স্বাস্থ্যকর জীবনযাপন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "বৃক্কের কর্টেক্স —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ভেতরের স্তর",
+    "C": "বাইরের স্তর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "ইউরেমিয়ার লক্ষণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "বমি, দুর্বলতা, খিচুনি"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "স্বাভাবিক মূত্রে গ্লুকোজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "থাকে",
+    "D": "থাকে না"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "ঘামে লবণ বের হয় —",
+   "options": {
+    "A": "না",
+    "B": "কিছুই না",
+    "C": "হ্যাঁ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "ছাঁকা তরল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "মূত্র শুধু",
+    "D": "আদিমূত্র"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "গরমে ঘাম —",
+   "options": {
+    "A": "বেশি হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কম হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "বৃক্ক রক্ত থেকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বর্জ্য ছাঁকে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "পানি গ্রহণ ও ত্যাগ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ভারসাম্য থাকা দরকার",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "গ্লোমেরুলাস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কৈশিকনালির গুচ্ছ",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "পটাসিয়াম বেশি হলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "হৃৎপিণ্ডের সমস্যা হতে পারে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "বৃক্ক থেকে ইউরেটার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "মূত্র বহন করে"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "রেচন ছাড়া দেহে —",
+   "options": {
+    "A": "বিষ জমে",
+    "B": "কোনোটিই নয়",
+    "C": "উপকার",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "মূত্রত্যাগ নিয়ন্ত্রণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "স্ফিংকটার পেশিতে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "দেহের ভারসাম্য রক্ষায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "বৃক্ক প্রধান অঙ্গ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "ডান বৃক্ক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "যকৃতের কারণে সামান্য নিচে",
+    "C": "উপরে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "হোমিওস্ট্যাসিসের মূল অঙ্গ —",
+   "options": {
+    "A": "বৃক্ক",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "হৃৎপিণ্ড"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "মূত্রথলি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "থলির মতো অঙ্গ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "CO₂ ত্যাগ হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফুসফুসে",
+    "C": "বৃক্কে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "নেফ্রাইটিস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "বৃক্কের প্রদাহ"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "বৃক্ক দান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জীবন বাঁচায়",
+    "C": "ক্ষতি করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "নেফ্রনের গ্লোমেরুলাস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "ধমনি থেকে রক্ত আনে"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "অতিরিক্ত পানি জমলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "ফোলা (edema) হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "রক্ত অম্লীয় হলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "বৃক্ক বেশি H⁺ ত্যাগ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "ঘামের পর পানি পান —",
+   "options": {
+    "A": "জরুরি নয়",
+    "B": "জরুরি",
+    "C": "কোনোটিই নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "অ্যাফারেন্ট চওড়া — কারণ?",
+   "options": {
+    "A": "শুধু রং",
+    "B": "গ্লোমেরুলাসে উচ্চ চাপ তৈরি হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "ঘামে ত্যাগ হয় —",
+   "options": {
+    "A": "ইউরিয়া শুধু",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পানি ও লবণ"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "মূত্রে পানি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রায় ৯৫%",
+    "C": "৭০%",
+    "D": "৫০%"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "পটাসিয়ামের ভারসাম্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বৃক্কে নিয়ন্ত্রিত হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "বৃক্ক সুস্থ রাখতে —",
+   "options": {
+    "A": "পর্যাপ্ত পানি, কম লবণ, পরিচ্ছন্নতা",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "রেচন অঙ্গ —",
+   "options": {
+    "A": "শুধু বৃক্ক",
+    "B": "কোনোটিই নয়",
+    "C": "বৃক্ক, ফুসফুস, ত্বক, যকৃত",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "বৃক্কের ওজন —",
+   "options": {
+    "A": "৫০ গ্রাম",
+    "B": "৫০০ গ্রাম",
+    "C": "প্রায় ১৫০ গ্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "গরমে ঘামের উদ্দেশ্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "দেহ ঠান্ডা করা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "মূত্র আটকে রাখা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষতিকর",
+    "D": "উপকারী"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "প্রশ্বাসে —",
+   "options": {
+    "A": "থাকে না",
+    "B": "পানি বাষ্প থাকে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "প্রস্রাবের বেগ চেপে রাখা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উচিত নয়",
+    "C": "কিছুই না",
+    "D": "উচিত"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "বিলিরুবিন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মূত্রে",
+    "C": "কোনোটিই নয়",
+    "D": "পিত্তের মাধ্যমে ত্যাগ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "অভিস্রবণে পানি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "নালিকা থেকে রক্তে যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "দৈনিক পানি ত্যাগ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মূত্র, ঘাম, প্রশ্বাসে",
+    "C": "শুধু মূত্রে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "ইউরেটার —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বৃক্ক-মূত্রথলি সংযোগকারী নালি"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "রেচনের প্রধান বর্জ্য —",
+   "options": {
+    "A": "ইউরিয়া, CO₂, পানি",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "গ্লুকোজ"
+   },
+   "correctAnswer": "A",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "পুনঃশোষণ ঘটে —",
+   "options": {
+    "A": "গ্লোমেরুলাসে",
+    "B": "কিছুই না",
+    "C": "নালিকায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "ত্বকের রেচন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ঘামে",
+    "C": "কিছুই না",
+    "D": "মূত্রে"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "বৃক্ক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "রক্তচাপ নিয়ন্ত্রণে সাহায্য করে"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "ঘাম বাষ্পীভূত হয়ে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "তাপ নেয় (ঠান্ডা করে)",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "রেচনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "গ্লুকোজ সম্পূর্ণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ত্যাগ হয়",
+    "C": "কোনোটিই নয়",
+    "D": "পুনঃশোষিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "ডিস্টাল কনভল্যুটেড টিউবুল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "ক্ষরণ ও পুনঃশোষণে"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "গ্লোমেরুলাস থাকে —",
+   "options": {
+    "A": "কর্টেক্সে",
+    "B": "মেডুলায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "পরিচ্ছন্নতা —",
+   "options": {
+    "A": "মূত্রতন্ত্রের রোগ রোধ করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "মূত্রথলির ধারণক্ষমতা —",
+   "options": {
+    "A": "১ লিটার",
+    "B": "প্রায় ৪০০-৫০০ মিলি",
+    "C": "কোনোটিই নয়",
+    "D": "১০০ মিলি"
+   },
+   "correctAnswer": "B",
+   "topic": "বৃক্ক",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "বৃক্কের হিলাম —",
+   "options": {
+    "A": "রক্তনালি ও ইউরেটারের প্রবেশপথ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "নারীদের মূত্রনালি সংক্রমণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কম",
+    "C": "কিছুই না",
+    "D": "বেশি ঝুঁকি"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "কৃত্রিম বৃক্ক —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "রক্ত পরিশোধন যন্ত্র"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "আদিমূত্রের অধিকাংশ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ত্যাগ হয়",
+    "D": "পুনঃশোষিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "বৃক্ক",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "A",
+  "2": "A",
+  "3": "A",
+  "4": "C",
+  "5": "D",
+  "6": "D",
+  "7": "B",
+  "8": "B",
+  "9": "C",
+  "10": "C",
+  "11": "D",
+  "12": "B",
+  "13": "D",
+  "14": "C",
+  "15": "A",
+  "16": "A",
+  "17": "C",
+  "18": "A",
+  "19": "B",
+  "20": "C",
+  "21": "A",
+  "22": "A",
+  "23": "A",
+  "24": "D",
+  "25": "D",
+  "26": "B",
+  "27": "C",
+  "28": "D",
+  "29": "D",
+  "30": "D",
+  "31": "B",
+  "32": "C",
+  "33": "D",
+  "34": "A",
+  "35": "A",
+  "36": "A",
+  "37": "D",
+  "38": "B",
+  "39": "B",
+  "40": "A",
+  "41": "A",
+  "42": "B",
+  "43": "C",
+  "44": "D",
+  "45": "B",
+  "46": "C",
+  "47": "D",
+  "48": "A",
+  "49": "A",
+  "50": "A",
+  "51": "C",
+  "52": "B",
+  "53": "C",
+  "54": "D",
+  "55": "B",
+  "56": "C",
+  "57": "A",
+  "58": "D",
+  "59": "A",
+  "60": "D",
+  "61": "D",
+  "62": "C",
+  "63": "B",
+  "64": "A",
+  "65": "C",
+  "66": "C",
+  "67": "A",
+  "68": "D",
+  "69": "D",
+  "70": "B",
+  "71": "C",
+  "72": "B",
+  "73": "D",
+  "74": "A",
+  "75": "A",
+  "76": "B",
+  "77": "D",
+  "78": "C",
+  "79": "D",
+  "80": "A",
+  "81": "D",
+  "82": "C",
+  "83": "D",
+  "84": "A",
+  "85": "C",
+  "86": "C",
+  "87": "A",
+  "88": "D",
+  "89": "C",
+  "90": "A",
+  "91": "A",
+  "92": "D",
+  "93": "B",
+  "94": "D",
+  "95": "B",
+  "96": "C",
+  "97": "B",
+  "98": "D",
+  "99": "A",
+  "100": "C",
+  "101": "B",
+  "102": "A",
+  "103": "A",
+  "104": "B",
+  "105": "C",
+  "106": "D",
+  "107": "D",
+  "108": "A",
+  "109": "A",
+  "110": "B",
+  "111": "A",
+  "112": "C",
+  "113": "D",
+  "114": "A",
+  "115": "A",
+  "116": "A",
+  "117": "C",
+  "118": "B",
+  "119": "D",
+  "120": "D",
+  "121": "B",
+  "122": "C",
+  "123": "C",
+  "124": "C",
+  "125": "D",
+  "126": "C",
+  "127": "D",
+  "128": "A",
+  "129": "A",
+  "130": "B",
+  "131": "A",
+  "132": "D",
+  "133": "A",
+  "134": "D",
+  "135": "D",
+  "136": "C",
+  "137": "C",
+  "138": "D",
+  "139": "C",
+  "140": "D",
+  "141": "D",
+  "142": "D",
+  "143": "A",
+  "144": "C",
+  "145": "B",
+  "146": "B",
+  "147": "A",
+  "148": "B",
+  "149": "A",
+  "150": "B",
+  "151": "B",
+  "152": "A",
+  "153": "C",
+  "154": "B",
+  "155": "D",
+  "156": "B",
+  "157": "A",
+  "158": "B",
+  "159": "B",
+  "160": "A",
+  "161": "D",
+  "162": "A",
+  "163": "A",
+  "164": "D",
+  "165": "C",
+  "166": "A",
+  "167": "B",
+  "168": "B",
+  "169": "A",
+  "170": "A",
+  "171": "C",
+  "172": "A",
+  "173": "D",
+  "174": "A",
+  "175": "C",
+  "176": "D",
+  "177": "A",
+  "178": "A",
+  "179": "A",
+  "180": "C",
+  "181": "A",
+  "182": "C",
+  "183": "C",
+  "184": "D",
+  "185": "D",
+  "186": "C",
+  "187": "A",
+  "188": "A",
+  "189": "B",
+  "190": "A",
+  "191": "B",
+  "192": "C",
+  "193": "C",
+  "194": "A",
+  "195": "C",
+  "196": "C",
+  "197": "B",
+  "198": "A",
+  "199": "D",
+  "200": "A",
+  "201": "A",
+  "202": "D",
+  "203": "D",
+  "204": "B",
+  "205": "B",
+  "206": "A",
+  "207": "D",
+  "208": "A",
+  "209": "C",
+  "210": "C",
+  "211": "D",
+  "212": "D",
+  "213": "C",
+  "214": "A",
+  "215": "A",
+  "216": "C",
+  "217": "D",
+  "218": "D",
+  "219": "B",
+  "220": "A",
+  "221": "C",
+  "222": "B",
+  "223": "C",
+  "224": "D",
+  "225": "C",
+  "226": "A",
+  "227": "A",
+  "228": "C",
+  "229": "D",
+  "230": "C",
+  "231": "B",
+  "232": "D",
+  "233": "B",
+  "234": "D",
+  "235": "B",
+  "236": "A",
+  "237": "B",
+  "238": "B",
+  "239": "D",
+  "240": "D",
+  "241": "D",
+  "242": "A",
+  "243": "A",
+  "244": "D",
+  "245": "A",
+  "246": "D",
+  "247": "A",
+  "248": "B",
+  "249": "A",
+  "250": "C",
+  "251": "C",
+  "252": "C",
+  "253": "B",
+  "254": "C",
+  "255": "A",
+  "256": "C",
+  "257": "C",
+  "258": "C",
+  "259": "C",
+  "260": "D",
+  "261": "B",
+  "262": "C",
+  "263": "D",
+  "264": "B",
+  "265": "B",
+  "266": "B",
+  "267": "A",
+  "268": "D",
+  "269": "A",
+  "270": "B",
+  "271": "C",
+  "272": "C",
+  "273": "B",
+  "274": "B",
+  "275": "B",
+  "276": "C",
+  "277": "A",
+  "278": "A",
+  "279": "A",
+  "280": "B",
+  "281": "A",
+  "282": "B",
+  "283": "B",
+  "284": "B",
+  "285": "D",
+  "286": "D",
+  "287": "B",
+  "288": "A",
+  "289": "D",
+  "290": "B",
+  "291": "D",
+  "292": "C",
+  "293": "A",
+  "294": "B",
+  "295": "B",
+  "296": "D",
+  "297": "C",
+  "298": "B",
+  "299": "B",
+  "300": "B",
+  "301": "B",
+  "302": "D",
+  "303": "C",
+  "304": "D",
+  "305": "B",
+  "306": "A",
+  "307": "B",
+  "308": "A",
+  "309": "C",
+  "310": "C",
+  "311": "D",
+  "312": "A",
+  "313": "C",
+  "314": "C",
+  "315": "D",
+  "316": "B",
+  "317": "C",
+  "318": "D",
+  "319": "B",
+  "320": "B",
+  "321": "C",
+  "322": "A",
+  "323": "C",
+  "324": "D",
+  "325": "D",
+  "326": "C",
+  "327": "D",
+  "328": "A",
+  "329": "C",
+  "330": "C",
+  "331": "B",
+  "332": "C",
+  "333": "D",
+  "334": "A",
+  "335": "B",
+  "336": "C",
+  "337": "B",
+  "338": "A",
+  "339": "C",
+  "340": "B",
+  "341": "D",
+  "342": "B",
+  "343": "D",
+  "344": "D",
+  "345": "D",
+  "346": "B",
+  "347": "B",
+  "348": "D",
+  "349": "B",
+  "350": "C",
+  "351": "A",
+  "352": "C",
+  "353": "C",
+  "354": "C",
+  "355": "C",
+  "356": "B",
+  "357": "B",
+  "358": "D",
+  "359": "D",
+  "360": "B",
+  "361": "D",
+  "362": "A",
+  "363": "C",
+  "364": "B",
+  "365": "D",
+  "366": "B",
+  "367": "D",
+  "368": "D",
+  "369": "A",
+  "370": "A",
+  "371": "B",
+  "372": "A",
+  "373": "D",
+  "374": "D",
+  "375": "D"
+ }
+}
