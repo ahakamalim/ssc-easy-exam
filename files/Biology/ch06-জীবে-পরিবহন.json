@@ -1,0 +1,7134 @@
+{
+ "subject": "জীববিজ্ঞান",
+ "chapterNo": 6,
+ "chapter": "জীবে পরিবহন",
+ "questions": [
+  {
+   "question": "জীবে পরিবহনের গুরুত্ব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ঐচ্ছিক",
+    "D": "জীবনের জন্য অপরিহার্য"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "শ্বেত কণিকার আয়ু —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "১২০ দিন",
+    "C": "কোনোটিই নয়",
+    "D": "কয়েক ঘণ্টা থেকে কয়েক দিন"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "হৃৎপিণ্ডের নিজস্ব গতি নিয়ন্ত্রণ —",
+   "options": {
+    "A": "পেসমেকার (SA নোড)",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "ধমনিতে চর্বি জমে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অ্যাথেরোস্ক্লেরোসিস",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "উইলিয়াম হার্ভে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ইংরেজ চিকিৎসক",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "মূলরোম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কমায়",
+    "D": "শোষণ ক্ষেত্র বাড়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "লসিকা নালি —",
+   "options": {
+    "A": "রক্ত বহন করে",
+    "B": "কিছুই না",
+    "C": "লসিকা বহন করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "লসিকা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "এককোষী জীবে পরিবহন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ব্যাপন/অভিস্রবণে হয়",
+    "D": "রক্তে"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "পুরনো লোহিত কণিকা ধ্বংস হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্লীহা ও যকৃতে",
+    "C": "হৃৎপিণ্ডে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "হৃৎপিণ্ডের অলিন্দ —",
+   "options": {
+    "A": "১টি",
+    "B": "২টি (ডান ও বাম)",
+    "C": "কোনোটিই নয়",
+    "D": "৪টি"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "ধমনিতে কপাটিকা —",
+   "options": {
+    "A": "থাকে",
+    "B": "কোনোটিই নয়",
+    "C": "থাকে না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "ফুসফুসীয় সঞ্চালন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হৃৎপিণ্ড-দেহ",
+    "C": "হৃৎপিণ্ড থেকে ফুসফুসে ও ফিরে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "জাইলেমের কোষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সব জীবন্ত",
+    "D": "অধিকাংশ মৃত"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "লসিকা তন্ত্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "রোগ প্রতিরোধে সাহায্য করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "লসিকা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "পরিবহন ছাড়া বহুকোষী জীব —",
+   "options": {
+    "A": "টিকে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "টিকতে পারে না"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "রক্ত পরিশোধন —",
+   "options": {
+    "A": "বৃক্কের কাজ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ফুসফুসের"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "বাম অলিন্দে আসে —",
+   "options": {
+    "A": "দেহ থেকে অশুদ্ধ",
+    "B": "ফুসফুস থেকে শুদ্ধ রক্ত",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "শিরা —",
+   "options": {
+    "A": "চামড়ার কাছে দেখা যায়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "গভীরে"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "রক্ত সঞ্চালনের আবিষ্কারক —",
+   "options": {
+    "A": "উইলিয়াম হার্ভে",
+    "B": "কোনোটিই নয়",
+    "C": "ডারউইন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "লবণাক্ত পানিতে কোষ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্লাজমোলাইসিস হয়",
+    "C": "কোনোটিই নয়",
+    "D": "ফুলে"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "লসিকার কাজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রোগ প্রতিরোধ, চর্বি পরিবহণ",
+    "C": "অক্সিজেন বহন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "লসিকা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "পোকার সংবহন —",
+   "options": {
+    "A": "বদ্ধ তন্ত্র",
+    "B": "কিছুই না",
+    "C": "উন্মুক্ত তন্ত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "লিউকেমিয়ায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কমে",
+    "C": "শ্বেত কণিকা অস্বাভাবিক বাড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "নিয়মিত ব্যায়াম হৃৎপিণ্ড —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সুস্থ রাখে",
+    "C": "কোনোটিই নয়",
+    "D": "ক্ষতি করে"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "ধমনির প্রাচীর —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পাতলা",
+    "C": "কোনোটিই নয়",
+    "D": "পুরু ও স্থিতিস্থাপক"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "হার্ভে প্রমাণ করেন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "রক্ত হৃৎপিণ্ডে ফিরে আসে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "বাষ্পমোচন বাড়ে —",
+   "options": {
+    "A": "গরম ও শুষ্ক বাতাসে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ঠান্ডা ও আর্দ্রে"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "টিস্যু তরল থেকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "লসিকা তৈরি হয়",
+    "C": "রক্ত তৈরি হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "লসিকা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "প্রাণীর পরিবাহিত পদার্থ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু O₂",
+    "C": "O₂, CO₂, পুষ্টি, হরমোন, বর্জ্য",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "H₂CO₃ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কার্বনিক অ্যাসিড"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "নাাড়ি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "ধমনির স্পন্দন"
+   },
+   "correctAnswer": "D",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "কৈশিকনালিতে রক্ত —",
+   "options": {
+    "A": "দ্রুত",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ধীরে প্রবাহিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "মাছের হৃৎপিণ্ড —",
+   "options": {
+    "A": "২ প্রকোষ্ঠ",
+    "B": "কোনোটিই নয়",
+    "C": "৪ প্রকোষ্ঠ",
+    "D": "৩ প্রকোষ্ঠ"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "অভিস্রবণে পানি যায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অর্ধভেদ্য ঝিল্লি দিয়ে",
+    "D": "সাধারণ ঝিল্লি"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "লসিকা গ্রন্থি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "জীবাণু ফিল্টার করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "লসিকা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "জীবে পরিবহন —",
+   "options": {
+    "A": "ঐচ্ছিক",
+    "B": "কোনোটিই নয়",
+    "C": "জীবনধারণের জন্য জরুরি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "শ্বেত রক্তকণিকা (WBC) —",
+   "options": {
+    "A": "রোগ প্রতিরোধ করে",
+    "B": "কোনোটিই নয়",
+    "C": "অক্সিজেন বহন করে",
+    "D": "রক্ত জমায়"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "রক্তচাপ বেশি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "১৪০/৯০ এর বেশি",
+    "D": "১২০/৮০"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "ধমনি কাকে বলে?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হৃৎপিণ্ডে রক্ত আনয়নকারী",
+    "C": "হৃৎপিণ্ড থেকে রক্ত বহনকারী নালি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "ব্যাঙের হৃৎপিণ্ড —",
+   "options": {
+    "A": "২ প্রকোষ্ঠ",
+    "B": "৪ প্রকোষ্ঠ",
+    "C": "৩ প্রকোষ্ঠ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "রন্ধ্র দিনে —",
+   "options": {
+    "A": "বন্ধ থাকে",
+    "B": "কিছুই না",
+    "C": "খোলা থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "লসিকা কাকে বলে?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রক্ত",
+    "C": "কোনোটিই নয়",
+    "D": "লসিকা তন্ত্রের তরল"
+   },
+   "correctAnswer": "D",
+   "topic": "লসিকা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "পরিবহন ছাড়া কোষ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পায়",
+    "D": "পুষ্টি পায় না"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "প্লাজমায় পানি —",
+   "options": {
+    "A": "৫০%",
+    "B": "প্রায় ৯০%",
+    "C": "২০%",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "কৃত্রিম পেসমেকার —",
+   "options": {
+    "A": "অনিয়মিত হৃৎস্পন্দনে বসানো হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "ভেরিকোজ শিরায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শিরা ফুলে যায়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "৪ প্রকোষ্ঠ হৃৎপিণ্ডে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "উষ্ণ রক্তের প্রাণী সম্ভব হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "উদ্ভিদে পানি ওঠে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "বাষ্পমোচন ও মূলজ চাপে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "লসিকা রক্তে —",
+   "options": {
+    "A": "মেশে না",
+    "B": "মিশে যায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "লসিকা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "উন্মুক্ত সংবহন তন্ত্র —",
+   "options": {
+    "A": "মানুষে",
+    "B": "কোনোটিই নয়",
+    "C": "পোকার দেহে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "রক্ত পুষ্টি বহন করে —",
+   "options": {
+    "A": "অন্ত্র থেকে কোষে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কোষ থেকে অন্ত্রে"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "ডান ও বাম অলিন্দের মধ্যে —",
+   "options": {
+    "A": "থাকে না",
+    "B": "পর্দা (সেপ্টাম) থাকে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "অ্যাথেরোস্ক্লেরোসিস —",
+   "options": {
+    "A": "ধমনি সরু করে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "মানুষ ও পাখির হৃৎপিণ্ড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৪ প্রকোষ্ঠ",
+    "C": "৩ প্রকোষ্ঠ",
+    "D": "২ প্রকোষ্ঠ"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "সংসক্তি (cohesion) —",
+   "options": {
+    "A": "পানির অণুর পারস্পরিক আকর্ষণ",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "লসিকায় —",
+   "options": {
+    "A": "লোহিত কণিকা থাকে",
+    "B": "শ্বেত কণিকা থাকে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "লসিকা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "এককোষী জীবে —",
+   "options": {
+    "A": "বিশেষ পরিবহন তন্ত্র নেই",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "আছে"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "অণুচক্রিকা (Platelet) —",
+   "options": {
+    "A": "অক্সিজেন বহন করে",
+    "B": "রক্ত জমাটে সাহায্য করে",
+    "C": "কোনোটিই নয়",
+    "D": "জীবাণু ধ্বংস করে"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "হৃৎপিণ্ডের আবেগ পরিবহণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "বান্ডল অব হিস ও পুরকিঞ্জি তন্তুতে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "শিরায় রক্ত প্রবাহ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হৃৎপিণ্ডের দিকে",
+    "C": "হৃৎপিণ্ড থেকে দূরে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "৪ প্রকোষ্ঠ হৃৎপিণ্ডের সুবিধা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুদ্ধ-অশুদ্ধ রক্ত আলাদা থাকে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "বাষ্পমোচন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "টানা শক্তি তৈরি করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "লসিকা —",
+   "options": {
+    "A": "টিস্যু তরল থেকে তৈরি হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "লসিকা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "ট্রাকিয়া —",
+   "options": {
+    "A": "পোকার শ্বসন নালি",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "রক্ত কাকে বলে?",
+   "options": {
+    "A": "তরল যোজক টিস্যু",
+    "B": "পেশি টিস্যু",
+    "C": "কোনোটিই নয়",
+    "D": "আবরণী টিস্যু"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "কার্ডিয়াক পেশি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্লান্ত হয়",
+    "C": "কখনো ক্লান্ত হয় না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "টিস্যু তরল আবার —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "রক্ত ও লসিকায় ফেরে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "কোষের বর্জ্য অপসারণ —",
+   "options": {
+    "A": "রক্ত সঞ্চালনে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "মূলরোমের প্রাচীর পাতলা — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "শোষণে সুবিধা"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "রক্ত সংবহন তন্ত্রের উপাদান —",
+   "options": {
+    "A": "রক্ত, হৃৎপিণ্ড, রক্তনালি",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রক্ত"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "ডিঅক্সিহিমোগ্লোবিনের রং —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "উজ্জ্বল লাল",
+    "C": "কোনোটিই নয়",
+    "D": "গাঢ় লাল"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "হৃৎপিণ্ডের অবস্থান —",
+   "options": {
+    "A": "ডান দিকে",
+    "B": "পেটে",
+    "C": "কোনোটিই নয়",
+    "D": "বুকের বাম দিকে"
+   },
+   "correctAnswer": "D",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "কোষ টিস্যু তরল থেকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "পুষ্টি ও O₂ নেয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "রক্ত সঞ্চালন কাকে বলে?",
+   "options": {
+    "A": "শুধু রং",
+    "B": "দেহে রক্তের প্রবাহ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "বাষ্পমোচনের সুবিধা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "পানি শোষণ ও পরিবহণে সাহায্য",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "পরিবহন তন্ত্রের অকার্যকারিতা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "উপকার",
+    "C": "রোগ ঘটায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "রক্তদানের পর —",
+   "options": {
+    "A": "বিশ্রাম ও পুষ্টিকর খাদ্য",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "হৃৎপিণ্ডের আবরণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "পেরিকার্ডিয়াম",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "কৈশিকনালি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ধমনি ও শিরার সংযোগ",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "দ্বৈত সঞ্চালন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রক্ত হৃৎপিণ্ডে দুবার যায়",
+    "C": "কোনোটিই নয়",
+    "D": "একবার"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "পত্ররন্ধ্রে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্যাস বিনিময় হয়",
+    "C": "কিছুই না",
+    "D": "খাদ্য তৈরি হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "পোকার রক্ত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হিমোলিম্ফ",
+    "C": "প্লাজমা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "রক্তের শতকরা কোষীয় অংশ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৯০%",
+    "C": "২০%",
+    "D": "প্রায় ৪৫%"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "মায়োকার্ডিয়াম —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "হৃৎপিণ্ডের পেশি স্তর"
+   },
+   "correctAnswer": "D",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "মহাশিরা (ভেনা কাভা) —",
+   "options": {
+    "A": "বৃহত্তম শিরা",
+    "B": "কোনোটিই নয়",
+    "C": "বৃহত্তম ধমনি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "তন্ত্রীয় সঞ্চালন —",
+   "options": {
+    "A": "হৃৎপিণ্ড-ফুসফুস",
+    "B": "হৃৎপিণ্ড থেকে দেহে ও ফিরে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "জাইলেম পরিবহণ করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পানি ও খনিজ লবণ",
+    "C": "খাদ্য",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "প্রাণী ও উদ্ভিদের পরিবহন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "একই",
+    "D": "পদ্ধতি ভিন্ন"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "রক্তদানে বয়স —",
+   "options": {
+    "A": "১০ বছর",
+    "B": "১৮-৬০ বছর",
+    "C": "কোনোটিই নয়",
+    "D": "৭০ বছর"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "হৃৎপিণ্ডের সংকোচন শুরু হয় —",
+   "options": {
+    "A": "SA নোড থেকে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "শিরায় কপাটিকা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "থাকে না",
+    "C": "কিছুই না",
+    "D": "থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "রক্ত সঞ্চালন আবিষ্কার —",
+   "options": {
+    "A": "১৯০০ সালে",
+    "B": "১৮০০ সালে",
+    "C": "১৬২৮ সালে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "ফ্লোয়েমে পরিবাহিত খাদ্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্লুকোজ",
+    "C": "স্টার্চ",
+    "D": "সুক্রোজ"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "পরিবহন তন্ত্রের যত্ন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "স্বাস্থ্যকর জীবনযাপন",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "সার্বজনীন গ্রহীতা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "O গ্রুপ",
+    "C": "A গ্রুপ",
+    "D": "AB গ্রুপ"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "বাম নিলয় রক্ত পাঠায় —",
+   "options": {
+    "A": "ফুসফুসে",
+    "B": "কোনোটিই নয়",
+    "C": "দেহে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "অ্যাওর্টা রক্ত বহন করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ডান নিলয় থেকে ফুসফুসে",
+    "C": "বাম নিলয় থেকে দেহে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "রক্ত সঞ্চালনের প্রয়োজন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কোষে পুষ্টি ও O₂ পৌঁছানো",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "রন্ধ্র রাতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "খোলা থাকে",
+    "C": "বন্ধ থাকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "বদ্ধ সংবহন তন্ত্রে রক্ত —",
+   "options": {
+    "A": "নালির বাইরে যায়",
+    "B": "সবসময় নালির মধ্যে থাকে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "রক্ত হরমোন বহন করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "গ্রন্থি থেকে লক্ষ্য অঙ্গে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "ইসিজি (ECG) —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হৃৎপিণ্ডের বৈদ্যুতিক কার্যকলাপ মাপে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "কৈশিকনালিতে ধীর প্রবাহ — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "বিনিময়ের সুবিধা"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্তনালি",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "রক্ত সঞ্চালনের পথ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শিরা → ধমনি",
+    "D": "হৃৎপিণ্ড → ধমনি → কৈশিক → শিরা → হৃৎপিণ্ড"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "পত্ররন্ধ্র দিয়ে —",
+   "options": {
+    "A": "CO₂ ঢোকে ও O₂ বের হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "জীবে পরিবহনের মাধ্যম —",
+   "options": {
+    "A": "রক্ত (প্রাণী) ও রস (উদ্ভিদ)",
+    "B": "শুধু রক্ত",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "রক্তে ইউরিয়া —",
+   "options": {
+    "A": "বৃক্কে গিয়ে ছাঁকা হয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "হৃৎপিণ্ডের সংকোচন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সিস্টোল",
+    "C": "ডায়াস্টোল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "ধমনিতে রক্তচাপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কম",
+    "C": "কিছুই না",
+    "D": "বেশি"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "মানুষের রক্ত সঞ্চালন —",
+   "options": {
+    "A": "দ্বৈত সঞ্চালন",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "একক সঞ্চালন"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "দিনে রক্ষীকোষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "চুপসে",
+    "D": "ফুলে রন্ধ্র খোলে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "উদ্ভিদের পরিবাহিত পদার্থ —",
+   "options": {
+    "A": "পানি, খনিজ, খাদ্য",
+    "B": "শুধু পানি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "Rh ধনাত্মক —",
+   "options": {
+    "A": "Rh অ্যান্টিজেন আছে",
+    "B": "কোনোটিই নয়",
+    "C": "নেই",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "বাম অলিন্দ-নিলয় কপাটিকা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বাইকাসপিড",
+    "C": "কোনোটিই নয়",
+    "D": "ট্রাইকাসপিড"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "শিরার রক্ত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "গাঢ় লাল (কম অক্সিজেন)",
+    "D": "উজ্জ্বল লাল"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "মাছের সঞ্চালন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "একক সঞ্চালন",
+    "C": "দ্বৈত সঞ্চালন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "জাইলেম ও ফ্লোয়েমকে বলে —",
+   "options": {
+    "A": "ভাস্কুলার টিস্যু",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সরল টিস্যু"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "পোকার শ্বসন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ট্রাকিয়া দিয়ে",
+    "C": "রক্তে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "প্লীহা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "রক্তের ভান্ডার",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "ডায়াস্টোলিক চাপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সংকোচনের চাপ",
+    "D": "প্রসারণের চাপ"
+   },
+   "correctAnswer": "D",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "কৈশিকনালির প্রাচীর —",
+   "options": {
+    "A": "পুরু",
+    "B": "এক কোষ পুরু",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "রক্ত সঞ্চালনের প্রকার —",
+   "options": {
+    "A": "শুধু ফুসফুসীয়",
+    "B": "তন্ত্রীয় ও ফুসফুসীয়",
+    "C": "শুধু তন্ত্রীয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত সঞ্চালন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "পাতায় পানি পৌঁছায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জাইলেমে",
+    "C": "ফ্লোয়েমে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "হৃৎপিণ্ড ও রক্তনালির স্বাস্থ্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "ব্যায়াম ও সুষম খাদ্যে"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "রক্তের রং আসে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হিমোগ্লোবিন থেকে",
+    "C": "প্লাজমা থেকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "স্বাভাবিক হৃৎস্পন্দন —",
+   "options": {
+    "A": "৩০ বার",
+    "B": "প্রতি মিনিটে ৭২ বার",
+    "C": "কোনোটিই নয়",
+    "D": "১২০ বার"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "টিস্যুতে O₂ যায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শিরা থেকে",
+    "C": "কৈশিকনালি থেকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "রন্ধ্র —",
+   "options": {
+    "A": "খাদ্য তৈরি",
+    "B": "কিছুই না",
+    "C": "গ্যাস ও পানি বিনিময়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "রক্ত সংবহন তন্ত্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উন্মুক্ত",
+    "C": "বদ্ধ তন্ত্র (মানুষে)",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "অস্থিমজ্জায় —",
+   "options": {
+    "A": "সব ধরনের রক্তকণিকা তৈরি হয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "হৃৎস্পন্দনের শব্দ —",
+   "options": {
+    "A": "লাব-ডাব",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "ধমনিতে রক্ত ঝরলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "লাফিয়ে বের হয়",
+    "D": "ধীরে বের হয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "ভাস্কুলার বান্ডল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জাইলেম ও ফ্লোয়েমের সমন্বয়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "উদ্ভিদের পরিবহন তন্ত্র —",
+   "options": {
+    "A": "রক্ত সংবহন",
+    "B": "কিছুই না",
+    "C": "জাইলেম-ফ্লোয়েম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "রক্তদানের আগে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "রক্তের গ্রুপ ও স্বাস্থ্য পরীক্ষা",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "সেপ্টাম ছাড়া —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুদ্ধ-অশুদ্ধ রক্ত মিশে যেত"
+   },
+   "correctAnswer": "D",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "ধমনিতে রক্ত প্রবাহ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হৃৎপিণ্ড থেকে দূরে",
+    "C": "কোনোটিই নয়",
+    "D": "হৃৎপিণ্ডের দিকে"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "জলজ উদ্ভিদে রন্ধ্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বেশি",
+    "C": "কম বা অনুপস্থিত",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "বদ্ধ তন্ত্রের সুবিধা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "দ্রুত ও দক্ষ পরিবহণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "হিমোফিলিয়া —",
+   "options": {
+    "A": "রক্ত জমাট না বাঁধার রোগ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "ডান ও বাম নিলয়ের মধ্যে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পর্দা থাকে",
+    "C": "থাকে না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "টিস্যু থেকে CO₂ আসে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কৈশিকনালিতে",
+    "D": "ধমনিতে শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "মরু উদ্ভিদের পাতা কাঁটা —",
+   "options": {
+    "A": "বাড়ায়",
+    "B": "কোনোটিই নয়",
+    "C": "বাষ্পমোচন কমায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "পরিবহনের প্রয়োজনীয়তা —",
+   "options": {
+    "A": "বহুকোষী জীবের জন্য",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "রক্তের রং —",
+   "options": {
+    "A": "নীল",
+    "B": "লাল",
+    "C": "সবুজ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "নিলয় থেকে বের হওয়া রক্তের কপাটিকা —",
+   "options": {
+    "A": "বাইকাসপিড",
+    "B": "কিছুই না",
+    "C": "সেমিলুনার কপাটিকা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "ধমনি সরু হলে —",
+   "options": {
+    "A": "রক্তচাপ বাড়ে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "কমে"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "উদ্ভিদে পরিবহন —",
+   "options": {
+    "A": "জাইলেম ও ফ্লোয়েমে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "রক্তে"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "পোকার রক্তে হিমোগ্লোবিন —",
+   "options": {
+    "A": "থাকে না",
+    "B": "কোনোটিই নয়",
+    "C": "থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "অক্সিহিমোগ্লোবিনের রং —",
+   "options": {
+    "A": "উজ্জ্বল লাল",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "গাঢ় লাল"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "করোনারি ধমনি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "হৃৎপিণ্ডের পেশিতে রক্ত দেয়"
+   },
+   "correctAnswer": "D",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "ভেরিকোজ শিরা —",
+   "options": {
+    "A": "শিরার কপাটিকা দুর্বল হলে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "মূলজ চাপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "মূলের চাপে পানি ওঠা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "প্রাণীর পরিবহন তন্ত্র —",
+   "options": {
+    "A": "জাইলেম-ফ্লোয়েম",
+    "B": "কোনোটিই নয়",
+    "C": "রক্ত সংবহন তন্ত্র",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "অ্যানিমিয়ায় —",
+   "options": {
+    "A": "ক্লান্তি ও দুর্বলতা",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "হৃৎপিণ্ডের নিলয় —",
+   "options": {
+    "A": "২টি (ডান ও বাম)",
+    "B": "কোনোটিই নয়",
+    "C": "১টি",
+    "D": "৪টি"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "শিরা কাকে বলে?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হৃৎপিণ্ড থেকে বহনকারী",
+    "C": "কোনোটিই নয়",
+    "D": "হৃৎপিণ্ডে রক্ত আনয়নকারী নালি"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "জলজ উদ্ভিদে —",
+   "options": {
+    "A": "পুরু",
+    "B": "কিছুই না",
+    "C": "কিউটিকল পাতলা/অনুপস্থিত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "পরিবহন তন্ত্র সুস্থ রাখতে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "নিয়মিত ব্যায়াম",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "রক্তে হরমোন —",
+   "options": {
+    "A": "পরিবাহিত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "নাাড়ি পরীক্ষা করা হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কব্জিতে"
+   },
+   "correctAnswer": "D",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "ধমনির রক্ত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উজ্জ্বল লাল (অক্সিজেনযুক্ত)",
+    "C": "কিছুই না",
+    "D": "গাঢ় লাল"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "জাইলেমের উপাদান —",
+   "options": {
+    "A": "সিভ নল",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ট্রাকিড, ভেসেল"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "পরিবহন তন্ত্র কোষ থেকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বর্জ্য সরায়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "অস্থিমজ্জা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "রক্ত তৈরির কারখানা",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "কার্ডিয়াক পেশির বৈশিষ্ট্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অনৈচ্ছিক, ক্লান্তিহীন",
+    "C": "ঐচ্ছিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "পালমোনারি শিরা বহন করে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অশুদ্ধ রক্ত",
+    "C": "শুদ্ধ রক্ত হৃৎপিণ্ডে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "ফ্লোয়েমের উপাদান —",
+   "options": {
+    "A": "সিভ নল, সঙ্গী কোষ",
+    "B": "কোনোটিই নয়",
+    "C": "ট্রাকিড",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "পোকায় অক্সিজেন পৌঁছায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ট্রাকিয়ায় সরাসরি",
+    "D": "রক্তে"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "রক্তের বাফার —",
+   "options": {
+    "A": "H₂CO₃/HCO₃⁻",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "ধূমপান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কমায়",
+    "C": "কিছুই না",
+    "D": "হৃদরোগ ঝুঁকি বাড়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "শিরা নীল দেখায় —",
+   "options": {
+    "A": "চামড়ার নিচে থাকায়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "সক্রিয় পরিবহণে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শক্তি (ATP) লাগে",
+    "C": "লাগে না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "পোকার রক্ত অক্সিজেন বহন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "করে না",
+    "C": "করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "প্লাজমাতে থাকে —",
+   "options": {
+    "A": "পানি, প্রোটিন, লবণ, পুষ্টি",
+    "B": "শুধু পানি",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু প্রোটিন"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "হৃৎপিণ্ডের প্রাচীর —",
+   "options": {
+    "A": "কার্ডিয়াক পেশি (মায়োকার্ডিয়াম)",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "পালমোনারি ধমনি বহন করে —",
+   "options": {
+    "A": "শুদ্ধ রক্ত দেহে",
+    "B": "কিছুই না",
+    "C": "অশুদ্ধ রক্ত ফুসফুসে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "ব্যাপন কাকে বলে?",
+   "options": {
+    "A": "নিম্ন থেকে উচ্চে",
+    "B": "উচ্চ ঘনত্ব থেকে নিম্নে চলাচল",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "পরিবহন কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পদার্থ এক স্থান থেকে অন্য স্থানে যাওয়া",
+    "C": "খাদ্য তৈরি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "লোহিত কণিকায় থাকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্লোরোফিল",
+    "C": "হিমোগ্লোবিন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "হৃৎপিণ্ডের আকার —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "মুষ্টিবদ্ধ হাতের মতো",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "কৈশিকনালিতে —",
+   "options": {
+    "A": "পদার্থ বিনিময় হয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "বাষ্পমোচনের ফলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পানি টেনে উপরে ওঠে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "বহুকোষী জীবে পরিবহন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "প্রয়োজন নয়",
+    "D": "প্রয়োজন"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "রক্তদানে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "রক্ত পুনরায় তৈরি হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "হৃৎপিণ্ড রক্ত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ফিল্টার করে",
+    "C": "সারা দেহে পাম্প করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "ধমনি দেহের —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "গভীরে থাকে",
+    "D": "উপরের দিকে থাকে"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "খনিজ লবণ শোষিত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অভিস্রবণে শুধু",
+    "C": "কিছুই না",
+    "D": "সক্রিয় পরিবহণে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "মানুষের সংবহন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "বদ্ধ তন্ত্র",
+    "D": "উন্মুক্ত"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "রক্তের কাজ —",
+   "options": {
+    "A": "পরিবহণ, সুরক্ষা, নিয়ন্ত্রণ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু পরিবহণ"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "ট্রাইকাসপিড কপাটিকা —",
+   "options": {
+    "A": "ডান দিকে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বাম দিকে"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "কৈশিকনালিতে গ্যাস বিনিময় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ব্যাপনে হয়",
+    "C": "কোনোটিই নয়",
+    "D": "সক্রিয় পরিবহণে"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "আসঞ্জন (adhesion) —",
+   "options": {
+    "A": "পানি ও নালির প্রাচীরের আকর্ষণ",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "বহুকোষী জীবে —",
+   "options": {
+    "A": "থাকে না",
+    "B": "পরিবহন তন্ত্র থাকে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "সার্বজনীন দাতা —",
+   "options": {
+    "A": "AB গ্রুপ",
+    "B": "O গ্রুপ",
+    "C": "কোনোটিই নয়",
+    "D": "A গ্রুপ"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "ঘুমে হৃৎস্পন্দন —",
+   "options": {
+    "A": "কমে",
+    "B": "বাড়ে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "শিরার প্রাচীর —",
+   "options": {
+    "A": "পুরু",
+    "B": "কোনোটিই নয়",
+    "C": "পাতলা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "প্লাজমোলাইসিস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোষ থেকে পানি বেরিয়ে সংকুচিত হওয়া",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "প্রাণীর পরিবহন মাধ্যম —",
+   "options": {
+    "A": "রক্ত",
+    "B": "কোনোটিই নয়",
+    "C": "রস",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "রক্তের তাপমাত্রা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রায় ৩৭°C",
+    "C": "৩০°C",
+    "D": "৪০°C"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "বাম নিলয়ের প্রাচীর —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সবচেয়ে পাতলা",
+    "C": "কোনোটিই নয়",
+    "D": "সবচেয়ে পুরু"
+   },
+   "correctAnswer": "D",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "কৈশিকনালির প্রাচীর পাতলা — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "গ্যাস ও পুষ্টি বিনিময়ে সুবিধা"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্তনালি",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "কৈশিকতা —",
+   "options": {
+    "A": "সরু নলে পানি ওঠা",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "জীবে পরিবহন অধ্যায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গুরুত্বপূর্ণ",
+    "C": "ঐচ্ছিক",
+    "D": "অগুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "হিমোগ্লোবিন O₂ ধরলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উজ্জ্বল লাল হয়",
+    "C": "গাঢ় হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "ডান অলিন্দ-নিলয় কপাটিকা —",
+   "options": {
+    "A": "ট্রাইকাসপিড",
+    "B": "বাইকাসপিড",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "শিরায় রক্ত ঝরলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "লাফিয়ে বের হয়",
+    "C": "ধীরে বের হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "মূলজ চাপ দেখা যায় —",
+   "options": {
+    "A": "ভোরে গাটেশনে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "ধূমপান রক্তনালি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষতি করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "গর্ভবতী নারীর লোহা —",
+   "options": {
+    "A": "বেশি প্রয়োজন",
+    "B": "কোনোটিই নয়",
+    "C": "কম",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "হৃৎপিণ্ডে রক্তের প্রবাহ —",
+   "options": {
+    "A": "একমুখী",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "দ্বিমুখী"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "কোষ টিস্যু তরলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বর্জ্য ত্যাগ করে",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "ফ্লোয়েমের কোষ —",
+   "options": {
+    "A": "জীবন্ত",
+    "B": "কিছুই না",
+    "C": "মৃত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "ধূমপান রক্ত —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ঘন করে (জমাট ঝুঁকি)",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "হিমোগ্লোবিনের রং —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নীল",
+    "C": "সবুজ",
+    "D": "লাল"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "পেরিকার্ডিয়াম —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "হৃৎপিণ্ডকে রক্ষা করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "মহাধমনি (অ্যাওর্টা) —",
+   "options": {
+    "A": "বৃহত্তম শিরা",
+    "B": "কোনোটিই নয়",
+    "C": "বৃহত্তম ধমনি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "সঙ্গী কোষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "সিভ নলকে সাহায্য করে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "ব্যায়াম রক্ত সঞ্চালন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "কমায়",
+    "D": "বাড়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "লোহিত কণিকা তৈরি হয় —",
+   "options": {
+    "A": "অস্থিমজ্জায়",
+    "B": "ফুসফুসে",
+    "C": "কোনোটিই নয়",
+    "D": "হৃৎপিণ্ডে"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "সেমিলুনার কপাটিকা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নিলয় থেকে রক্ত বের হতে দেয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "কৈশিকনালির ব্যাস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "খুব ছোট",
+    "C": "বড়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "রক্ষীকোষে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "থাকে না",
+    "D": "ক্লোরোপ্লাস্ট থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "জীবে পরিবহনের প্রয়োজন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "পুষ্টি, গ্যাস, বর্জ্য সরাতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "রক্তে অক্সিজেনের অভাব —",
+   "options": {
+    "A": "শ্বাসকষ্ট ও দুর্বলতা",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "AV নোড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অলিন্দ থেকে নিলয়ে আবেগ পাঠায়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "রক্ত ও টিস্যুর মধ্যে বিনিময়ের মাধ্যম —",
+   "options": {
+    "A": "টিস্যু তরল",
+    "B": "কোনোটিই নয়",
+    "C": "প্লাজমা শুধু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "অভিস্রবণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কম ঘনত্ব থেকে বেশি ঘনত্বে",
+    "C": "উচ্চ থেকে নিম্নে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "উদ্ভিদের পরিবহন মাধ্যম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "রক্ত",
+    "D": "জাইলেম ও ফ্লোয়েম"
+   },
+   "correctAnswer": "D",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "বৃক্ক —",
+   "options": {
+    "A": "রক্ত পরিশোধন করে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "হৃৎস্পন্দন কাকে বলে?",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "হৃৎপিণ্ডের সংকোচন-প্রসারণ"
+   },
+   "correctAnswer": "D",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "টিস্যু তরল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কৈশিক থেকে বের হওয়া তরল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্তনালি",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "জাইলেমে পানি ওঠে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "আঠালো ও টানা শক্তিতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "পরিবহন তন্ত্র কোষে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পুষ্টি ও O₂ পৌঁছায়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "পরিবহনের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "থ্যালাসেমিয়ায় —",
+   "options": {
+    "A": "হিমোগ্লোবিন অস্বাভাবিক হয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "ডান নিলয় রক্ত পাঠায় —",
+   "options": {
+    "A": "ফুসফুসে",
+    "B": "কিছুই না",
+    "C": "দেহে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "গাটেশন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পাতার কিনারা দিয়ে পানি বের হওয়া",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "রক্তনালি প্রসারিত হলে —",
+   "options": {
+    "A": "কম",
+    "B": "কোনোটিই নয়",
+    "C": "তাপ হারায় বেশি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "হৃদরোগের কারণ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "চর্বিযুক্ত খাদ্য, ধূমপান, উচ্চ রক্তচাপ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "রক্ষীকোষ ফুলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বন্ধ হয়",
+    "C": "কিছুই না",
+    "D": "রন্ধ্র খোলে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "Rh ফ্যাক্টর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রক্তের আরেকটি অ্যান্টিজেন",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "হৃৎপিণ্ডের ভেতরের আবরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "এন্ডোকার্ডিয়াম",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "মূল থেকে পানি ওঠে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "জাইলেমে",
+    "D": "ফ্লোয়েমে"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "রক্ত তাপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সারা দেহে ছড়ায়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "হৃৎপিণ্ড আজীবন —",
+   "options": {
+    "A": "বিরতি নেয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বিরতিহীন কাজ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "স্ফীতি চাপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কোষকে দৃঢ় রাখে",
+    "C": "কিছুই না",
+    "D": "নরম করে"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "লিউকেমিয়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রক্তস্বল্পতা",
+    "C": "কোনোটিই নয়",
+    "D": "রক্তের ক্যান্সার"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "ইসিজি দিয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হৃদরোগ নির্ণয় হয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "ফ্লোয়েম পরিবহণ করে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পানি",
+    "C": "খাদ্য",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "গ্লুকাগন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "গ্লুকোজ বাড়ায়",
+    "C": "কমায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "ডান অলিন্দে আসে —",
+   "options": {
+    "A": "ফুসফুস থেকে শুদ্ধ",
+    "B": "কিছুই না",
+    "C": "দেহ থেকে অশুদ্ধ রক্ত",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "উদ্ভিদে খাদ্য পরিবহণের প্রক্রিয়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "চাপ প্রবাহ তত্ত্ব"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "রক্তের গ্রুপ আবিষ্কার —",
+   "options": {
+    "A": "ডারউইন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কার্ল ল্যান্ডস্টেইনার"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "হার্ট অ্যাটাক —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "হৃৎপিণ্ডে রক্ত প্রবাহ বন্ধ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "পুরু কিউটিকল —",
+   "options": {
+    "A": "বাষ্পমোচন কমায়",
+    "B": "বাড়ায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "অক্সিহিমোগ্লোবিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "O₂ যুক্ত হিমোগ্লোবিন",
+    "C": "CO₂ যুক্ত",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "হৃৎপিণ্ডের উপরের প্রকোষ্ঠ —",
+   "options": {
+    "A": "নিলয়",
+    "B": "অলিন্দ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "ফ্লোয়েমে খাদ্য পরিবহণ —",
+   "options": {
+    "A": "উৎস থেকে সিঙ্কে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "প্লাজমা কাকে বলে?",
+   "options": {
+    "A": "রক্তের তরল অংশ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "রক্তকণিকা"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "হৃৎপিণ্ডে অক্সিজেন সরবরাহ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "করোনারি ধমনিতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "ব্যাপনে —",
+   "options": {
+    "A": "ঝিল্লি ছাড়াও হয়",
+    "B": "শুধু ঝিল্লি দিয়ে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "লোহিত কণিকার আয়ু —",
+   "options": {
+    "A": "১ বছর",
+    "B": "১ দিন",
+    "C": "প্রায় ১২০ দিন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "SA নোড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "হৃৎপিণ্ডের পেসমেকার"
+   },
+   "correctAnswer": "D",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "রাতে রক্ষীকোষ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চুপসে রন্ধ্র বন্ধ করে",
+    "C": "কিছুই না",
+    "D": "ফুলে"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "রক্ত জমাটে —",
+   "options": {
+    "A": "ফাইব্রিন জাল তৈরি হয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "স্ফিগমোম্যানোমিটার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রক্তচাপ মাপে",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "রক্ষীকোষ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "রন্ধ্র খোলা-বন্ধ করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "রক্তদানের সুবিধা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্ষতি",
+    "C": "জীবন বাঁচায়, স্বাস্থ্যের জন্য ভালো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "হৃৎপিণ্ডের নিচের প্রকোষ্ঠ —",
+   "options": {
+    "A": "নিলয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "অলিন্দ"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "সিভ নল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পানি পরিবহণে",
+    "C": "খাদ্য পরিবহণে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "H₂CO₃ ভেঙে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "H⁺ ও HCO₃⁻ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "হৃদরোগ প্রতিরোধে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "ব্যায়াম, সুষম খাদ্য",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "ডি-প্লাজমোলাইসিস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কোষে পানি ঢুকে স্বাভাবিক হওয়া"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "রক্তের pH —",
+   "options": {
+    "A": "প্রায় ৭.৪",
+    "B": "৭.০",
+    "C": "৬.০",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "হৃৎপিণ্ড একটি —",
+   "options": {
+    "A": "ফিল্টার",
+    "B": "পাম্প",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "উদ্ভিদে পানি শোষণের প্রধান অঙ্গ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কাণ্ড",
+    "C": "পাতা",
+    "D": "মূল"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "অ্যানিমিয়া কাকে বলে?",
+   "options": {
+    "A": "রক্তে হিমোগ্লোবিন কমে যাওয়া",
+    "B": "হিমোগ্লোবিন বাড়া",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "হৃৎপিণ্ডের প্রকোষ্ঠ —",
+   "options": {
+    "A": "২টি",
+    "B": "কোনোটিই নয়",
+    "C": "৩টি",
+    "D": "৪টি"
+   },
+   "correctAnswer": "D",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "মূলরোমে পানি ঢোকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সক্রিয় পরিবহণে",
+    "D": "অভিস্রবণে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "লোহিত কণিকার আকৃতি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গোলাকার",
+    "C": "দণ্ডাকার",
+    "D": "দ্বিঅবতল চাকতির মতো"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "কপাটিকার কাজ —",
+   "options": {
+    "A": "একমুখী রক্ত প্রবাহ",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "ফ্লোয়েমে খাদ্য যায় —",
+   "options": {
+    "A": "উপর থেকে নিচে ও সর্বত্র",
+    "B": "শুধু নিচে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "রক্তের প্রধান অংশ —",
+   "options": {
+    "A": "প্লাজমা ও রক্তকণিকা",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু কণিকা",
+    "D": "শুধু প্লাজমা"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "বাইকাসপিড কপাটিকা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ডান দিকে",
+    "C": "কিছুই না",
+    "D": "বাম দিকে"
+   },
+   "correctAnswer": "D",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "ভেসেল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "খাদ্য পরিবহণে",
+    "C": "পানি পরিবহণে সাহায্য করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "রক্ত তাপমাত্রা নিয়ন্ত্রণে —",
+   "options": {
+    "A": "রাখে না",
+    "B": "কিছুই না",
+    "C": "ভূমিকা রাখে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "রক্তচাপ মাপার যন্ত্র —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্ফিগমোম্যানোমিটার",
+    "C": "কিছুই না",
+    "D": "স্টেথোস্কোপ শুধু"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "ফ্লোয়েমে সুক্রোজ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "দ্রবীভূত অবস্থায় যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "কার্বনিক অ্যানহাইড্রেজ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "CO₂ → H₂CO₃ এনজাইম",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "হৃৎস্পন্দন মাপা হয় —",
+   "options": {
+    "A": "নাাড়ি পরীক্ষায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "মূলরোমের কাজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পানি ও খনিজ শোষণ",
+    "C": "কোনোটিই নয়",
+    "D": "খাদ্য তৈরি"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "অ্যানিমিয়ার কারণ —",
+   "options": {
+    "A": "লোহার আধিক্য",
+    "B": "কোনোটিই নয়",
+    "C": "লোহার অভাব",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "ব্যায়ামে হৃৎস্পন্দন —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কমে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "অভিস্রবণ কাকে বলে?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "লবণ চলাচল",
+    "D": "ঝিল্লি দিয়ে পানি চলাচল"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "গরমে ত্বকের রক্তনালি —",
+   "options": {
+    "A": "প্রসারিত হয়",
+    "B": "সংকুচিত হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "সিস্টোলিক চাপ —",
+   "options": {
+    "A": "প্রসারণের চাপ",
+    "B": "কিছুই না",
+    "C": "সংকোচনের চাপ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "রক্ষীকোষের ক্লোরোপ্লাস্ট —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "রন্ধ্র খোলা-বন্ধে সাহায্য করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "রক্তচাপ মাপা হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "থার্মোমিটারে",
+    "C": "স্ফিগমোম্যানোমিটারে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "অ্যাড্রেনালিন —",
+   "options": {
+    "A": "হৃৎস্পন্দন বাড়ায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কমায়"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "জাইলেমে পানি যায় —",
+   "options": {
+    "A": "উপর থেকে নিচে",
+    "B": "নিচ থেকে উপরে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "রক্ত অক্সিজেন বহন করে —",
+   "options": {
+    "A": "দেহ থেকে ফুসফুসে",
+    "B": "কিছুই না",
+    "C": "ফুসফুস থেকে দেহে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "হৃৎপিণ্ডের কপাটিকা —",
+   "options": {
+    "A": "রক্তের বিপরীত প্রবাহ রোধ করে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "বাষ্পমোচন ঘটে —",
+   "options": {
+    "A": "পত্ররন্ধ্রে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "মূলে"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "রক্তে গ্লুকোজের মাত্রা নিয়ন্ত্রণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ইনসুলিন ও গ্লুকাগনে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "হৃৎপিণ্ড গঠিত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মসৃণ পেশিতে",
+    "C": "কার্ডিয়াক পেশিতে",
+    "D": "ঐচ্ছিক পেশিতে"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "পাতার রন্ধ্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পাতার নিচের পৃষ্ঠে বেশি",
+    "D": "উপরের পৃষ্ঠে বেশি"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "ভিটামিন B₁₂ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লোহিত কণিকা তৈরিতে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "হৃৎপিণ্ডের ওজন —",
+   "options": {
+    "A": "১০০ গ্রাম",
+    "B": "প্রায় ৩০০ গ্রাম",
+    "C": "কোনোটিই নয়",
+    "D": "৫০০ গ্রাম"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "পানি শোষিত হয় —",
+   "options": {
+    "A": "মূলরোমে",
+    "B": "কিছুই না",
+    "C": "পাতায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "থ্যালাসেমিয়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "হিমোগ্লোবিনের বংশগত রোগ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "হৃৎপিণ্ড এক মিনিটে পাম্প করে —",
+   "options": {
+    "A": "১০ লিটার",
+    "B": "১ লিটার",
+    "C": "কোনোটিই নয়",
+    "D": "প্রায় ৫ লিটার রক্ত"
+   },
+   "correctAnswer": "D",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "অতিরিক্ত বাষ্পমোচন —",
+   "options": {
+    "A": "উদ্ভিদকে শুকিয়ে ফেলতে পারে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "হরমোন পরিবহণ —",
+   "options": {
+    "A": "লসিকায় শুধু",
+    "B": "কোনোটিই নয়",
+    "C": "রক্তে হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "AV নোডের পর —",
+   "options": {
+    "A": "অলিন্দ",
+    "B": "কোনোটিই নয়",
+    "C": "নিলয় সংকুচিত হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "পানি কমে গেলে উদ্ভিদ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ঢলে পড়ে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "রক্ত বর্জ্য বহন করে —",
+   "options": {
+    "A": "কোষ থেকে বৃক্কে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বৃক্ক থেকে কোষে"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "সেপ্টাম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "শুদ্ধ-অশুদ্ধ রক্ত আলাদা রাখে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "মরু উদ্ভিদে বাষ্পমোচন কমানোর অভিযোজন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বড় পাতা",
+    "C": "কাঁটায় পরিণত পাতা, পুরু কিউটিকল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "গর্ভাবস্থায় ফলিক অ্যাসিড —",
+   "options": {
+    "A": "প্রয়োজন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "প্রয়োজন নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "অলিন্দ ও নিলয়ের মধ্যে —",
+   "options": {
+    "A": "থাকে না",
+    "B": "কপাটিকা থাকে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "পানি শোষণ হয় —",
+   "options": {
+    "A": "ব্যাপনে শুধু",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অভিস্রবণে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "ফ্যাগোসাইটোসিস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "শ্বেত কণিকার জীবাণু ভক্ষণ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "পুরকিঞ্জি তন্তু —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "নিলয়ে আবেগ ছড়ায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "রক্ষীকোষ চুপসে —",
+   "options": {
+    "A": "খোলে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "রন্ধ্র বন্ধ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "রক্তকণিকার প্রকার —",
+   "options": {
+    "A": "শুধু শ্বেত",
+    "B": "শুধু লোহিত",
+    "C": "লোহিত, শ্বেত, অণুচক্রিকা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "হৃৎস্পন্দন নিয়ন্ত্রণে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "SA নোড ভূমিকা রাখে"
+   },
+   "correctAnswer": "D",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "অভিস্রবণ ব্যাপনের —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বিপরীত",
+    "C": "কোনোটিই নয়",
+    "D": "বিশেষ রূপ"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "দেহে রক্তের পরিমাণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১০ লিটার",
+    "C": "১ লিটার",
+    "D": "প্রায় ৫-৬ লিটার"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "লাব-ডাব শব্দ আসে —",
+   "options": {
+    "A": "কপাটিকা বন্ধে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "বাষ্পমোচন কমে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুষ্কে",
+    "C": "আর্দ্র বাতাসে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "ফাইব্রিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রক্ত জমাটের জাল",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "রক্তচাপ ১২০/৮০ —",
+   "options": {
+    "A": "সিস্টোলিক/ডায়াস্টোলিক",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "বাষ্পমোচন কাকে বলে?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পাতা থেকে পানি বাষ্প হয়ে বের হওয়া",
+    "D": "পানি শোষণ"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদে পরিবহন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "জরুরি অবস্থায় প্লীহা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রক্ত ছাড়ে",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "একমুখী প্রবাহ নিশ্চিত করে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কপাটিকা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "রক্তে CO₂ বহন হয় —",
+   "options": {
+    "A": "শুধু দ্রবীভূত",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বাইকার্বনেট আয়ন হিসেবে"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "উচ্চ রক্তচাপ —",
+   "options": {
+    "A": "হৃদরোগ ঝুঁকি বাড়ায়",
+    "B": "কমায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "শ্বেত কণিকা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "জীবাণু ধ্বংস করে"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "বাম নিলয় পুরু — কারণ?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কম চাপ",
+    "C": "দেহে রক্ত পাঠাতে বেশি চাপ লাগে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "r",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "হিমোগ্লোবিন O₂ ছাড়লে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গাঢ় লাল হয়",
+    "C": "কিছুই না",
+    "D": "উজ্জ্বল হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "SA নোডের আবেগ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অলিন্দ সংকুচিত করে",
+    "D": "নিলয় শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "ফলিক অ্যাসিড —",
+   "options": {
+    "A": "রক্তকণিকা তৈরিতে সাহায্য করে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "হৃৎপিণ্ডের প্রসারণ —",
+   "options": {
+    "A": "সিস্টোল",
+    "B": "কিছুই না",
+    "C": "ডায়াস্টোল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "রক্তদান —",
+   "options": {
+    "A": "ক্ষতি করে",
+    "B": "জীবন বাঁচায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "হৃৎপিণ্ডের কাজ —",
+   "options": {
+    "A": "রক্ত সঞ্চালন",
+    "B": "কোনোটিই নয়",
+    "C": "পরিপাক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "আয়রন সমৃদ্ধ খাদ্য —",
+   "options": {
+    "A": "অ্যানিমিয়া প্রতিরোধ করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "করোনারি ধমনি বন্ধ হলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হার্ট অ্যাটাক",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "হিমোগ্লোবিন —",
+   "options": {
+    "A": "ম্যাগনেসিয়াম যুক্ত",
+    "B": "কোনোটিই নয়",
+    "C": "লোহা (Fe) যুক্ত প্রোটিন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "হৃৎপিণ্ড কাকে বলে?",
+   "options": {
+    "A": "রক্ত পাম্পকারী পেশিবহুল অঙ্গ",
+    "B": "শ্বসন অঙ্গ",
+    "C": "কোনোটিই নয়",
+    "D": "পরিপাক অঙ্গ"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "রক্তের কোষীয় অংশ —",
+   "options": {
+    "A": "প্লাজমা শুধু",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "লোহিত, শ্বেত, অণুচক্রিকা"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "ভয়ে হৃৎস্পন্দন —",
+   "options": {
+    "A": "বাড়ে",
+    "B": "কিছুই না",
+    "C": "কমে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "হিমোগ্লোবিনের অভাব —",
+   "options": {
+    "A": "লিউকেমিয়া",
+    "B": "কিছুই না",
+    "C": "অ্যানিমিয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "হৃৎস্পন্দন শোনা যায় —",
+   "options": {
+    "A": "থার্মোমিটারে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "স্টেথোস্কোপে"
+   },
+   "correctAnswer": "D",
+   "topic": "হৃৎপিণ্ড",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "এক ব্যক্তি বছরে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কয়েকবার রক্ত দিতে পারেন",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "রক্ত CO₂ বহন করে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ফুসফুস থেকে দেহে",
+    "C": "কোনোটিই নয়",
+    "D": "দেহ থেকে ফুসফুসে"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "রক্ত একটি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কঠিন টিস্যু",
+    "C": "তরল টিস্যু",
+    "D": "পেশি টিস্যু"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "ভিটামিন B₁₂ অভাব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পারনিসিয়াস অ্যানিমিয়া",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "প্লাজমার কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পদার্থ পরিবহণ",
+    "C": "কিছুই না",
+    "D": "অক্সিজেন বহন"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "অণুচক্রিকা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "রক্ত জমাট বাঁধায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "ইনসুলিন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বাড়ায়",
+    "C": "কোনোটিই নয়",
+    "D": "গ্লুকোজ কমায়"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "হিমোগ্লোবিন CO₂ —",
+   "options": {
+    "A": "করে না",
+    "B": "কোনোটিই নয়",
+    "C": "আংশিক বহন করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "রক্তের pH স্থির —",
+   "options": {
+    "A": "৮",
+    "B": "৭.৩৫–৭.৪৫",
+    "C": "৬",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "pH নষ্ট হলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অ্যাসিডোসিস/অ্যালকালোসিস",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "রক্তের প্রধান গ্রুপ —",
+   "options": {
+    "A": "শুধু A",
+    "B": "কোনোটিই নয়",
+    "C": "A, B, AB, O",
+    "D": "শুধু B"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "রক্তনালি সংকুচিত হলে —",
+   "options": {
+    "A": "তাপ ধরে রাখে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "হারায়"
+   },
+   "correctAnswer": "A",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "লোহিত রক্তকণিকা (RBC) —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অক্সিজেন বহন করে",
+    "C": "জীবাণু ধ্বংস করে",
+    "D": "রক্ত জমায়"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "বেশিরভাগ CO₂ পরিবাহিত হয় —",
+   "options": {
+    "A": "অক্সিহিমোগ্লোবিনে",
+    "B": "বাইকার্বনেট (HCO₃⁻) হিসেবে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "পরিণত লোহিত কণিকায় নিউক্লিয়াস —",
+   "options": {
+    "A": "থাকে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "থাকে না"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "ঠান্ডায় ত্বকের রক্তনালি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সংকুচিত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "প্রসারিত হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "হিমোফিলিয়ায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "সামান্য কাটায়ও বেশি রক্তক্ষরণ"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "রক্তদান করলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "নতুন রক্ত তৈরি হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "প্লাজমার শতকরা পরিমাণ —",
+   "options": {
+    "A": "২০%",
+    "B": "কোনোটিই নয়",
+    "C": "প্রায় ৫৫%",
+    "D": "৯০%"
+   },
+   "correctAnswer": "C",
+   "topic": "রক্ত",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "রক্তের কণিকা তৈরি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অস্থিমজ্জায়",
+    "C": "প্লীহায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "রক্ত দেহের তাপমাত্রা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "নিয়ন্ত্রণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "রক্তের pH নিয়ন্ত্রণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বাফারে হয়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "রক্ত",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "D",
+  "2": "D",
+  "3": "A",
+  "4": "C",
+  "5": "C",
+  "6": "D",
+  "7": "C",
+  "8": "C",
+  "9": "B",
+  "10": "B",
+  "11": "C",
+  "12": "C",
+  "13": "D",
+  "14": "C",
+  "15": "D",
+  "16": "A",
+  "17": "B",
+  "18": "A",
+  "19": "A",
+  "20": "B",
+  "21": "B",
+  "22": "C",
+  "23": "C",
+  "24": "B",
+  "25": "D",
+  "26": "C",
+  "27": "A",
+  "28": "B",
+  "29": "C",
+  "30": "D",
+  "31": "D",
+  "32": "D",
+  "33": "A",
+  "34": "C",
+  "35": "C",
+  "36": "C",
+  "37": "A",
+  "38": "C",
+  "39": "C",
+  "40": "C",
+  "41": "C",
+  "42": "D",
+  "43": "D",
+  "44": "B",
+  "45": "A",
+  "46": "C",
+  "47": "D",
+  "48": "B",
+  "49": "B",
+  "50": "C",
+  "51": "A",
+  "52": "B",
+  "53": "A",
+  "54": "B",
+  "55": "A",
+  "56": "B",
+  "57": "A",
+  "58": "B",
+  "59": "C",
+  "60": "B",
+  "61": "B",
+  "62": "C",
+  "63": "A",
+  "64": "A",
+  "65": "A",
+  "66": "C",
+  "67": "B",
+  "68": "A",
+  "69": "D",
+  "70": "A",
+  "71": "D",
+  "72": "D",
+  "73": "D",
+  "74": "B",
+  "75": "C",
+  "76": "C",
+  "77": "A",
+  "78": "C",
+  "79": "B",
+  "80": "B",
+  "81": "B",
+  "82": "B",
+  "83": "D",
+  "84": "D",
+  "85": "A",
+  "86": "B",
+  "87": "B",
+  "88": "D",
+  "89": "B",
+  "90": "A",
+  "91": "D",
+  "92": "C",
+  "93": "D",
+  "94": "B",
+  "95": "D",
+  "96": "C",
+  "97": "C",
+  "98": "B",
+  "99": "C",
+  "100": "B",
+  "101": "C",
+  "102": "B",
+  "103": "D",
+  "104": "D",
+  "105": "A",
+  "106": "A",
+  "107": "A",
+  "108": "B",
+  "109": "D",
+  "110": "A",
+  "111": "D",
+  "112": "A",
+  "113": "A",
+  "114": "B",
+  "115": "C",
+  "116": "B",
+  "117": "A",
+  "118": "B",
+  "119": "B",
+  "120": "D",
+  "121": "B",
+  "122": "B",
+  "123": "B",
+  "124": "D",
+  "125": "B",
+  "126": "B",
+  "127": "C",
+  "128": "C",
+  "129": "C",
+  "130": "A",
+  "131": "A",
+  "132": "C",
+  "133": "B",
+  "134": "C",
+  "135": "C",
+  "136": "D",
+  "137": "B",
+  "138": "C",
+  "139": "C",
+  "140": "A",
+  "141": "B",
+  "142": "C",
+  "143": "C",
+  "144": "A",
+  "145": "B",
+  "146": "C",
+  "147": "A",
+  "148": "A",
+  "149": "A",
+  "150": "A",
+  "151": "D",
+  "152": "A",
+  "153": "C",
+  "154": "C",
+  "155": "A",
+  "156": "A",
+  "157": "D",
+  "158": "C",
+  "159": "B",
+  "160": "A",
+  "161": "D",
+  "162": "B",
+  "163": "D",
+  "164": "C",
+  "165": "C",
+  "166": "B",
+  "167": "C",
+  "168": "A",
+  "169": "C",
+  "170": "A",
+  "171": "D",
+  "172": "A",
+  "173": "B",
+  "174": "B",
+  "175": "A",
+  "176": "A",
+  "177": "C",
+  "178": "B",
+  "179": "B",
+  "180": "C",
+  "181": "C",
+  "182": "A",
+  "183": "C",
+  "184": "D",
+  "185": "C",
+  "186": "C",
+  "187": "C",
+  "188": "D",
+  "189": "C",
+  "190": "A",
+  "191": "A",
+  "192": "B",
+  "193": "A",
+  "194": "B",
+  "195": "B",
+  "196": "A",
+  "197": "C",
+  "198": "B",
+  "199": "A",
+  "200": "B",
+  "201": "D",
+  "202": "D",
+  "203": "A",
+  "204": "B",
+  "205": "B",
+  "206": "A",
+  "207": "C",
+  "208": "A",
+  "209": "C",
+  "210": "A",
+  "211": "A",
+  "212": "B",
+  "213": "A",
+  "214": "B",
+  "215": "D",
+  "216": "C",
+  "217": "C",
+  "218": "D",
+  "219": "D",
+  "220": "A",
+  "221": "B",
+  "222": "B",
+  "223": "D",
+  "224": "C",
+  "225": "A",
+  "226": "B",
+  "227": "A",
+  "228": "B",
+  "229": "D",
+  "230": "A",
+  "231": "D",
+  "232": "C",
+  "233": "C",
+  "234": "C",
+  "235": "A",
+  "236": "A",
+  "237": "B",
+  "238": "C",
+  "239": "B",
+  "240": "D",
+  "241": "B",
+  "242": "C",
+  "243": "C",
+  "244": "C",
+  "245": "D",
+  "246": "B",
+  "247": "D",
+  "248": "B",
+  "249": "C",
+  "250": "B",
+  "251": "C",
+  "252": "D",
+  "253": "D",
+  "254": "B",
+  "255": "A",
+  "256": "B",
+  "257": "B",
+  "258": "A",
+  "259": "A",
+  "260": "C",
+  "261": "A",
+  "262": "C",
+  "263": "D",
+  "264": "B",
+  "265": "A",
+  "266": "B",
+  "267": "C",
+  "268": "C",
+  "269": "A",
+  "270": "C",
+  "271": "D",
+  "272": "C",
+  "273": "D",
+  "274": "A",
+  "275": "B",
+  "276": "D",
+  "277": "A",
+  "278": "D",
+  "279": "D",
+  "280": "D",
+  "281": "A",
+  "282": "A",
+  "283": "A",
+  "284": "D",
+  "285": "C",
+  "286": "C",
+  "287": "B",
+  "288": "C",
+  "289": "C",
+  "290": "A",
+  "291": "B",
+  "292": "C",
+  "293": "A",
+  "294": "D",
+  "295": "A",
+  "296": "C",
+  "297": "C",
+  "298": "C",
+  "299": "A",
+  "300": "B",
+  "301": "C",
+  "302": "A",
+  "303": "A",
+  "304": "B",
+  "305": "C",
+  "306": "C",
+  "307": "B",
+  "308": "B",
+  "309": "A",
+  "310": "C",
+  "311": "D",
+  "312": "A",
+  "313": "C",
+  "314": "C",
+  "315": "B",
+  "316": "A",
+  "317": "C",
+  "318": "C",
+  "319": "A",
+  "320": "B",
+  "321": "D",
+  "322": "B",
+  "323": "C",
+  "324": "D",
+  "325": "C",
+  "326": "D",
+  "327": "D",
+  "328": "D",
+  "329": "A",
+  "330": "C",
+  "331": "B",
+  "332": "A",
+  "333": "C",
+  "334": "B",
+  "335": "C",
+  "336": "D",
+  "337": "A",
+  "338": "D",
+  "339": "C",
+  "340": "B",
+  "341": "C",
+  "342": "A",
+  "343": "C",
+  "344": "B",
+  "345": "A",
+  "346": "A",
+  "347": "B",
+  "348": "C",
+  "349": "A",
+  "350": "D",
+  "351": "A",
+  "352": "C",
+  "353": "D",
+  "354": "B",
+  "355": "D",
+  "356": "C",
+  "357": "B",
+  "358": "B",
+  "359": "C",
+  "360": "D",
+  "361": "C",
+  "362": "B",
+  "363": "B",
+  "364": "C",
+  "365": "A",
+  "366": "B",
+  "367": "B",
+  "368": "D",
+  "369": "B",
+  "370": "D",
+  "371": "C",
+  "372": "C",
+  "373": "B",
+  "374": "D",
+  "375": "B"
+ }
+}
