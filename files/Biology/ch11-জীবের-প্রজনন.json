@@ -1,0 +1,7134 @@
+{
+ "subject": "জীববিজ্ঞান",
+ "chapterNo": 11,
+ "chapter": "জীবের প্রজনন",
+ "questions": [
+  {
+   "question": "প্রজননের প্রকার দুইটি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "অযৌন ও যৌন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "অভিন্ন সন্তান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "যৌন",
+    "C": "কিছুই না",
+    "D": "অযৌন প্রজননের বৈশিষ্ট্য"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "গ্যামেট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হ্যাপ্লয়েড",
+    "C": "ডিপ্লয়েড",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "পরাগনালি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পরাগরেণু থেকে গর্ভাশয়ে যায়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "শুক্রাণুতে ক্রোমোজোম —",
+   "options": {
+    "A": "৪৬টি",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "২৩টি"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "হাইড্রা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু অযৌন",
+    "D": "অযৌন ও যৌন দুটোই"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "দ্বিবিভাজনের ফলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "দুটি অভিন্ন কোষ"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "গ্যামেট তৈরি হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মাইটোসিসে",
+    "C": "কোনোটিই নয়",
+    "D": "মিয়োসিসে"
+   },
+   "correctAnswer": "D",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "ডিম্বাণু তৈরি হয় —",
+   "options": {
+    "A": "গর্ভাশয়ের ডিম্বকে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পরাগধানীতে"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "সন্তানের লিঙ্গ নির্ধারণ —",
+   "options": {
+    "A": "পিতার শুক্রাণুতে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "মাতার ডিম্বাণুতে"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "সরল জীব —",
+   "options": {
+    "A": "যৌন",
+    "B": "অযৌন প্রজনন করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "গোলাপের কাটিং —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "নতুন গাছ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "নিষেকের ফলে —",
+   "options": {
+    "A": "গ্যামেট তৈরি হয়",
+    "B": "জাইগোট তৈরি হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "পরাগরেণু অঙ্কুরিত হয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "পরাগনালি তৈরি করে"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "HIV প্রতিরোধে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সচেতনতা ও নিরাপদ আচরণ",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "মানুষের প্রজনন —",
+   "options": {
+    "A": "যৌন",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "অযৌন"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "অযৌন প্রজননের উদাহরণ —",
+   "options": {
+    "A": "অ্যামিবা, হাইড্রা, আলু, ছত্রাক",
+    "B": "কিছুই না",
+    "C": "মানুষ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "জাইগোট থেকে —",
+   "options": {
+    "A": "গ্যামেট",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ভ্রূণ তৈরি হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "ভ্রূণমূল —",
+   "options": {
+    "A": "নিচের দিকে বৃদ্ধি পায়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "গর্ভবতী মায়ের —",
+   "options": {
+    "A": "টিকা ও নিয়মিত পরীক্ষা",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "পাখি —",
+   "options": {
+    "A": "সন্তান প্রসব করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ডিম পাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "ফার্ন —",
+   "options": {
+    "A": "বীজে",
+    "B": "কিছুই না",
+    "C": "স্পোরে বংশবৃদ্ধি করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "মানুষের নিষেক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অভ্যন্তরীণ",
+    "D": "বাহ্যিক"
+   },
+   "correctAnswer": "C",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "নিষেকের পর ডিম্বক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ফলে",
+    "D": "বীজে পরিণত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "অক্সিটোসিন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "প্রসবের সংকোচনে সাহায্য করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "প্রজনন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "জড়ের",
+    "D": "জীবের মৌলিক বৈশিষ্ট্য"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "টিস্যু কালচারে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "রোগমুক্ত চারা"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "অভ্যন্তরীণ নিষেকে —",
+   "options": {
+    "A": "কম গ্যামেট লাগে",
+    "B": "বেশি",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "ফল পাকার পর —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "বীজ ছড়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "সেমিনিফেরাস নালিকা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "শুক্রাণু তৈরি করে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "অযৌন ও যৌন প্রজননের পার্থক্য —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "পিতামাতার সংখ্যায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "ফার্নের স্পোর —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "পাতার নিচে তৈরি হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "যৌন প্রজননের পূর্বশর্ত —",
+   "options": {
+    "A": "গ্যামেট তৈরি",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "নিষেকে পুংগ্যামেট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ডিম্বাণুর সাথে মিলিত হয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "ঋতুস্রাব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "মাসিক রক্তস্রাব",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "অনেক জীব —",
+   "options": {
+    "A": "দুটোই করতে পারে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "কলার বংশবৃদ্ধি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বীজে",
+    "C": "কোনোটিই নয়",
+    "D": "কর্ম/কন্দে"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "ফুলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "গ্যামেট তৈরি হয়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "পরপরাগায়ন —",
+   "options": {
+    "A": "এক ফুলের পরাগ অন্য ফুলে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "একই ফুলে"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "ফলিক অ্যাসিড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শিশুর জন্মগত ত্রুটি রোধ করে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "জটিল জীব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "যৌন প্রজনন করে",
+    "C": "কোনোটিই নয়",
+    "D": "অযৌন"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "অনুকূল পরিবেশে এন্ডোস্পোর —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "অঙ্কুরিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "সপুষ্পক উদ্ভিদ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "যৌন প্রজনন করে"
+   },
+   "correctAnswer": "D",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "পরাগায়ন কাকে বলে?",
+   "options": {
+    "A": "পরাগরেণু গর্ভমুণ্ডে স্থানান্তর",
+    "B": "কিছুই না",
+    "C": "নিষেক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "গর্ভাবস্থায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "ধূমপান ও মাদক এড়ানো উচিত"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "হাইড্রা প্রতিকূল পরিবেশে —",
+   "options": {
+    "A": "অযৌন",
+    "B": "কোনোটিই নয়",
+    "C": "যৌন প্রজনন করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "পাউরুটি ছাতা —",
+   "options": {
+    "A": "মিউকর/রাইজোপাস",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "বৈচিত্র্য —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "বিবর্তনের কাঁচামাল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "ডিম্বকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ডিম্বাণু থাকে",
+    "C": "পরাগরেণু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "অ্যামনিয়টিক তরল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ভ্রূণকে রক্ষা করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "প্রজননের ধরন নির্ভর করে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "জীবের প্রকৃতির উপর",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "অঙ্গজ প্রজননে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "দ্রুত ফলাফল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "বাহ্যিক নিষেকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কম",
+    "C": "কোনোটিই নয়",
+    "D": "বেশি গ্যামেট তৈরি হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "বাদুড় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কিছু উদ্ভিদে পরাগায়ন করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "নবজাতকের টিকা —",
+   "options": {
+    "A": "জন্মের পরপরই শুরু হয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "স্তন্যপায়ী —",
+   "options": {
+    "A": "ডিম পাড়ে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সন্তান প্রসব করে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "কন্দ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "আলু, আদা, পেঁয়াজ",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "জাইগোট —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "হ্যাপ্লয়েড",
+    "D": "ডিপ্লয়েড"
+   },
+   "correctAnswer": "D",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "অঙ্কুরোদগমের প্রথম ধাপ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পানি শোষণ",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "বয়ঃসন্ধিকালীন পরিবর্তনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ভয় পাওয়া উচিত নয়",
+    "D": "উচিত"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "ডিম পাড়া প্রাণী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "স্তন্যপায়ী",
+    "D": "পাখি, সরীসৃপ, মাছ"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "স্পোর অঙ্কুরিত হয়ে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "নতুন ছত্রাক হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "যৌন প্রজনন —",
+   "options": {
+    "A": "একটি পিতামাতা",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "দুটি পিতামাতা থেকে"
+   },
+   "correctAnswer": "D",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "অঙ্কুরোদগমের শর্ত —",
+   "options": {
+    "A": "শুধু পানি",
+    "B": "পানি, অক্সিজেন, উপযুক্ত তাপমাত্রা",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "যৌনবাহিত রোগ প্রতিরোধে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সচেতনতা ও নিরাপদ আচরণ",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "উদ্ভিদের প্রজনন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ফুল, বীজ, অঙ্গজ",
+    "D": "শুধু ফুলে"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "হাইড্রা প্রজনন করে —",
+   "options": {
+    "A": "স্পোরে",
+    "B": "দ্বিবিভাজনে",
+    "C": "কোনোটিই নয়",
+    "D": "মুকুলোদগমে"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "অভ্যন্তরীণ নিষেক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দেহের বাইরে",
+    "C": "দেহের ভেতরে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "অঙ্কুরোদগম কাকে বলে?",
+   "options": {
+    "A": "বীজ থেকে চারা গজানো",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "শিশুর ওজন পর্যবেক্ষণ —",
+   "options": {
+    "A": "বৃদ্ধির জন্য জরুরি",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "হাইড্রা অনুকূল পরিবেশে —",
+   "options": {
+    "A": "যৌন",
+    "B": "কিছুই না",
+    "C": "অযৌন (মুকুলোদগম)",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "দ্বিবিভাজন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অ্যামিবার জনন",
+    "C": "হাইড্রার জনন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "যৌন প্রজননের সুবিধা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বৈচিত্র্য ও অভিযোজন ক্ষমতা",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "চারা —",
+   "options": {
+    "A": "ছোট উদ্ভিদ",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "মায়ের দুধ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "শিশুর জন্য সর্বোত্তম"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "সরীসৃপ —",
+   "options": {
+    "A": "সন্তান প্রসব করে",
+    "B": "ডিম পাড়ে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "গ্রাফটিংয়ে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "ভালো জাতের ফল পাওয়া যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "উচ্চতর উদ্ভিদ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "যৌন প্রজনন করে",
+    "C": "কিছুই না",
+    "D": "শুধু অযৌন"
+   },
+   "correctAnswer": "B",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "অঙ্কুরোদগমে শ্বসন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "কমে",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "প্রজনন স্বাস্থ্য শিক্ষা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কিশোর-কিশোরীদের জন্য জরুরি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "প্রজননের গুরুত্ব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্রজাতির ধারাবাহিকতা রক্ষা",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "লেয়ারিং —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "শাখা মাটিতে চাপা দিয়ে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "ফুল —",
+   "options": {
+    "A": "উদ্ভিদের যৌন জনন অঙ্গ",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "মৌমাছি ফুলে আসে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মধুর জন্য",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "নিষেকে —",
+   "options": {
+    "A": "শুক্রাণু ডিম্বাণুতে প্রবেশ করে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "উদ্ভিদ —",
+   "options": {
+    "A": "অযৌন ও যৌন দুটোই",
+    "B": "কিছুই না",
+    "C": "শুধু অযৌন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "কর্ম (corm) —",
+   "options": {
+    "A": "আলু",
+    "B": "পেঁয়াজ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "গ্যামেটে ক্রোমোজোম —",
+   "options": {
+    "A": "অর্ধেক (হ্যাপ্লয়েড)",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পূর্ণ (ডিপ্লয়েড)"
+   },
+   "correctAnswer": "A",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "ভ্রূণের অংশ —",
+   "options": {
+    "A": "ভ্রূণমূল, ভ্রূণকাণ্ড, ভ্রূণমুকুল",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "প্রসবপূর্ব পরীক্ষা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "মা ও শিশুর স্বাস্থ্যের জন্য"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "প্রজননের ফলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "প্রজাতি টিকে থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "গ্রাফটিং —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "দুই উদ্ভিদ জোড়া লাগানো",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "জাইগোট বিভাজিত হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মিয়োসিসে",
+    "C": "মাইটোসিসে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "ফুল ফোটার উদ্দেশ্য —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "পরাগায়ন ও নিষেক",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "প্রসব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "শিশুর জন্ম",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "প্রজনন ছাড়া প্রজাতি —",
+   "options": {
+    "A": "বিলুপ্ত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "টিকে থাকে"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "ব্যাকটেরিয়া দ্রুত বাড়ে —",
+   "options": {
+    "A": "অযৌন প্রজননে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "যৌন"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "জিনের পুনর্বিন্যাস —",
+   "options": {
+    "A": "বৈচিত্র্য তৈরি করে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "বীজের বিস্তার —",
+   "options": {
+    "A": "শুধু বায়ু",
+    "B": "বায়ু, পানি, প্রাণীতে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "গর্ভনিরোধ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পরিবার পরিকল্পনার পদ্ধতি",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "প্রজননের পদ্ধতি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পরিবেশের উপর নির্ভর করে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "মুকুল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "নতুন হাইড্রায় পরিণত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "নিষেকে ক্রোমোজোম —",
+   "options": {
+    "A": "পূর্ণ হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "অর্ধেক থাকে"
+   },
+   "correctAnswer": "A",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "অঙ্কুরোদগমে প্রথমে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পানি শোষিত হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "মাসিক চক্রের হরমোন —",
+   "options": {
+    "A": "ইস্ট্রোজেন ও প্রোজেস্টেরন",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "টেস্টোস্টেরন"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "প্রজননের সাফল্য —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পরিবেশের উপর নির্ভর করে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "অযৌন প্রজননে —",
+   "options": {
+    "A": "গ্যামেট লাগে না",
+    "B": "কোনোটিই নয়",
+    "C": "গ্যামেট লাগে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "যৌন প্রজননের ধাপ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু নিষেক",
+    "D": "গ্যামেট তৈরি → নিষেক → জাইগোট"
+   },
+   "correctAnswer": "D",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "সস্য —",
+   "options": {
+    "A": "ভ্রূণের খাদ্য",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "ডিম্বাণুতে —",
+   "options": {
+    "A": "থাকে না",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সঞ্চিত খাদ্য থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "মাছ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সন্তান প্রসব করে",
+    "C": "কোনোটিই নয়",
+    "D": "ডিম পাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "টিস্যু কালচার —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কোষ/টিস্যু থেকে চারা"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "বাহ্যিক নিষেক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দেহের ভেতরে",
+    "C": "দেহের বাইরে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "বীজপত্র —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "অঙ্কুরোদগমে খাদ্য দেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "শিশুর টিকা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "রোগ প্রতিরোধে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "প্রজনন অধ্যায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ঐচ্ছিক",
+    "C": "গুরুত্বপূর্ণ",
+    "D": "অগুরুত্বপূর্ণ"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "আদার প্রজনন —",
+   "options": {
+    "A": "বীজে",
+    "B": "কন্দে (রাইজোম)",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "স্ত্রী গ্যামেট —",
+   "options": {
+    "A": "ডিম্বাণু",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুক্রাণু"
+   },
+   "correctAnswer": "A",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "দ্বিনিষেকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভ্রূণ ও সস্য তৈরি হয়",
+    "C": "কিছুই না",
+    "D": "শুধু ভ্রূণ"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "গর্ভাবস্থায় ভ্রূণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "জরায়ুতে বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "মানুষ —",
+   "options": {
+    "A": "সন্তান প্রসব করে (viviparous)",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ডিম পাড়ে"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "প্যারামিসিয়ামের প্রজনন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মুকুলোদগম",
+    "C": "কোনোটিই নয়",
+    "D": "দ্বিবিভাজন"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "নিষেকের ধরন —",
+   "options": {
+    "A": "বাহ্যিক ও অভ্যন্তরীণ",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু অভ্যন্তরীণ",
+    "D": "শুধু বাহ্যিক"
+   },
+   "correctAnswer": "A",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "বায়ুতে বীজ বিস্তার —",
+   "options": {
+    "A": "হালকা ও ডানাযুক্ত বীজ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "ভ্রূণ বেড়ে ওঠে —",
+   "options": {
+    "A": "ডিম্বনালিতে",
+    "B": "কোনোটিই নয়",
+    "C": "জরায়ুতে",
+    "D": "ডিম্বাশয়ে"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "প্রজনন ছাড়া —",
+   "options": {
+    "A": "জীবজগৎ বিলুপ্ত হতো",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "ব্যাকটেরিয়ার এন্ডোস্পোর —",
+   "options": {
+    "A": "প্রতিকূল পরিবেশে টিকে থাকতে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "পুরুষ গ্যামেট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুক্রাণু",
+    "D": "ডিম্বাণু"
+   },
+   "correctAnswer": "C",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "নারিকেলের বিস্তার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পানিতে",
+    "C": "বায়ুতে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "টিকা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শিশুকে রোগ থেকে রক্ষা করে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "প্রতিটি জীব —",
+   "options": {
+    "A": "প্রজননে অংশ নেয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "দ্বিবিভাজনে নিউক্লিয়াস —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আগে ভাগ হয়",
+    "C": "পরে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "গ্যামেট কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "দেহকোষ",
+    "D": "জননকোষ"
+   },
+   "correctAnswer": "D",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "পতঙ্গপরাগী ফুল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "উজ্জ্বল রং ও মধু থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "নিষিক্ত ডিম্বাণু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "জরায়ুতে স্থাপিত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "প্রাণীর প্রজনন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু যৌন",
+    "C": "কিছুই না",
+    "D": "অযৌন ও যৌন"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "অযৌন প্রজননের গুরুত্ব —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "দ্রুত বিস্তার",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "বীজে —",
+   "options": {
+    "A": "ভ্রূণ থাকে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "পরাগায়ন ছাড়া —",
+   "options": {
+    "A": "নিষেক সম্ভব নয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সম্ভব"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "যমজ সন্তান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "একসাথে জন্মানো সন্তান",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "প্রজনন কাকে বলে?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নতুন জীব সৃষ্টির প্রক্রিয়া",
+    "C": "কোনোটিই নয়",
+    "D": "খাদ্য গ্রহণ"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "মুকুলোদগম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অ্যামিবার জনন",
+    "D": "হাইড্রার জনন"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "যৌন প্রজননে —",
+   "options": {
+    "A": "গ্যামেট লাগে না",
+    "B": "কিছুই না",
+    "C": "গ্যামেট লাগে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "প্রজাপতি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "পরাগায়নে সাহায্য করে"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "এন্ডোমেট্রিয়াম —",
+   "options": {
+    "A": "ভ্রূণ ধারণের জন্য প্রস্তুত হয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "প্রজননের প্রকার —",
+   "options": {
+    "A": "শুধু যৌন",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু অযৌন",
+    "D": "অযৌন ও যৌন"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "ব্যাকটেরিয়ার দ্বিবিভাজন —",
+   "options": {
+    "A": "দ্রুত ঘটে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ধীর"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "মাছ পানিতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "ডিম ও শুক্রাণু ছাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "অঙ্কুরোদগমে এনজাইম —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "সঞ্চিত খাদ্য ভাঙে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "নিষেক ঘটে —",
+   "options": {
+    "A": "ডিম্বনালিতে",
+    "B": "ডিম্বাশয়ে",
+    "C": "জরায়ুতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "প্রজননের উপায় —",
+   "options": {
+    "A": "সবসময় এক",
+    "B": "জীবভেদে ভিন্ন",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রজননের ধারণা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "অঙ্গজ প্রজননের পদ্ধতি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কন্দ, কাটিং, গ্রাফটিং, লেয়ারিং",
+    "D": "শুধু কন্দ"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "যৌন প্রজননে সন্তান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ভিন্নতা থাকতে পারে",
+    "C": "কোনোটিই নয়",
+    "D": "অভিন্ন"
+   },
+   "correctAnswer": "B",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "ভ্রূণ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "নতুন উদ্ভিদের প্রাথমিক রূপ"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "শুক্রাণু + ডিম্বাণু = ?",
+   "options": {
+    "A": "জাইগোট (৪৬ ক্রোমোজোম)",
+    "B": "গ্যামেট",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "মুকুলোদগমে মুকুল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "মাতৃদেহ থেকে বিচ্ছিন্ন হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "যৌন প্রজননের গুরুত্ব —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "বৈচিত্র্য ও বিবর্তন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "বায়ুপরাগী ফুল —",
+   "options": {
+    "A": "হালকা পরাগরেণু",
+    "B": "ভারী",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "যৌন শিক্ষা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কিশোরদের জন্য জরুরি",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "অ্যামিবার দ্বিবিভাজনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "দুটি নতুন অ্যামিবা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "নিষেক কাকে বলে?",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কোষ বিভাজন",
+    "D": "ডিম্বাণু ও শুক্রাণুর মিলন"
+   },
+   "correctAnswer": "D",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "শুকনো বীজ —",
+   "options": {
+    "A": "হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অঙ্কুরিত হয় না"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "গর্ভাবস্থা —",
+   "options": {
+    "A": "প্রায় ৯ মাস (৪০ সপ্তাহ)",
+    "B": "কোনোটিই নয়",
+    "C": "৬ মাস",
+    "D": "৩ মাস"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "কলা গাছে বীজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "থাকে",
+    "C": "কোনোটিই নয়",
+    "D": "থাকে না"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "যৌন প্রজননে বৈচিত্র্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কম",
+    "C": "কিছুই না",
+    "D": "বেশি"
+   },
+   "correctAnswer": "D",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "ছোলা —",
+   "options": {
+    "A": "একবীজপত্রী",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "দ্বিবীজপত্রী"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "নাভিরজ্জু —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "ভ্রূণকে প্লাসেন্টার সাথে যুক্ত করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "টিস্যু কালচারের সুবিধা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "রোগমুক্ত, দ্রুত, অভিন্ন চারা"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "মাছের নিষেক —",
+   "options": {
+    "A": "অভ্যন্তরীণ",
+    "B": "কিছুই না",
+    "C": "বাহ্যিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "গর্ভদণ্ড —",
+   "options": {
+    "A": "গর্ভমুণ্ড ও গর্ভাশয় যুক্ত করে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "ছেলেদের বয়ঃসন্ধিতে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কণ্ঠস্বর ভারী হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "মিউকরের স্পোরাঙ্গিয়াম —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "স্পোর তৈরি করে"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "ব্যাঙের নিষেক —",
+   "options": {
+    "A": "বাহ্যিক",
+    "B": "কিছুই না",
+    "C": "অভ্যন্তরীণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "পাখি (মৌটুসি) —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "পরাগায়নে সাহায্য করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "নবজাতকের যত্ন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মায়ের দুধ, টিকা, পরিচ্ছন্নতা",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "অভিন্নতার অসুবিধা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "রোগে সবাই আক্রান্ত হতে পারে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "পাখির নিষেক —",
+   "options": {
+    "A": "বাহ্যিক",
+    "B": "কিছুই না",
+    "C": "অভ্যন্তরীণ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "বৃতিমণ্ডল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পাপড়ির সমষ্টি",
+    "C": "বৃতির সমষ্টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "ডিম্বাণুতে ক্রোমোজোম —",
+   "options": {
+    "A": "৪৬টি",
+    "B": "কোনোটিই নয়",
+    "C": "২৩টি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "পেঁয়াজের প্রজনন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কন্দে",
+    "D": "বীজে"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "বীজ থেকে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "নতুন উদ্ভিদ হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "যৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "বায়ুপরাগী ফুলের বৈশিষ্ট্য —",
+   "options": {
+    "A": "ছোট, অস্পষ্ট, হালকা পরাগ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "উজ্জ্বল রং"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "মাসিক চক্র —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "৭ দিনের",
+    "C": "কোনোটিই নয়",
+    "D": "প্রায় ২৮ দিনের"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "প্ল্যানারিয়ার পুনরুৎপাদন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "টুকরো থেকে নতুন জীব"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "ফুলের দল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রঙিন পাপড়ি",
+    "C": "সবুজ অংশ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "পরিবার পরিকল্পনার গুরুত্ব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "জনসংখ্যা নিয়ন্ত্রণ ও মা-শিশু স্বাস্থ্য",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "দ্বিবিভাজনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "নিউক্লিয়াস ও সাইটোপ্লাজম ভাগ হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "চারা বেড়ে —",
+   "options": {
+    "A": "বড় গাছ হয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "গর্ভাবস্থায় পুষ্টি —",
+   "options": {
+    "A": "জরুরি",
+    "B": "দরকার নেই",
+    "C": "জরুরি নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "কাটিংয়ের উদাহরণ —",
+   "options": {
+    "A": "গোলাপ, আখ",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "দ্বিবীজপত্রী বীজে —",
+   "options": {
+    "A": "দুটি বীজপত্র",
+    "B": "কিছুই না",
+    "C": "একটি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "শুক্রাণু —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অচল",
+    "C": "কোনোটিই নয়",
+    "D": "চলনক্ষম"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "বীজহীন ফল —",
+   "options": {
+    "A": "কলা, আঙুর",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "আম"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "নিষেকের পর গর্ভাশয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ফুলে",
+    "C": "কোনোটিই নয়",
+    "D": "ফলে পরিণত হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "শুক্রাশয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পুরুষ জনন অঙ্গ",
+    "D": "স্ত্রী জনন অঙ্গ"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "অঙ্গজ প্রজননের সুবিধা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "মাতৃগুণ বজায় থাকে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "খুব ঠান্ডায় অঙ্কুরোদগম —",
+   "options": {
+    "A": "হয় না",
+    "B": "হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "ইমপ্লান্টেশনের পর —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "গর্ভাবস্থা শুরু হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "ব্যাকটেরিয়ার স্পোর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রতিকূল পরিবেশে টিকে থাকতে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "বীজ বিস্তার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "নতুন এলাকায় ছড়ায়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "যৌনবাহিত রোগ —",
+   "options": {
+    "A": "HIV, সিফিলিস, গনোরিয়া",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "কাটিং —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কাণ্ড কেটে নতুন গাছ"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "পতঙ্গপরাগী ফুলের বৈশিষ্ট্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উজ্জ্বল রং, সুগন্ধি, মধু",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "নিষেক না হলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "ঋতুস্রাব হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "ব্যাকটেরিয়ার প্রজনন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দ্বিবিভাজন",
+    "C": "মুকুলোদগম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "নিষেক ছাড়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বীজ তৈরি হয় না",
+    "C": "কোনোটিই নয়",
+    "D": "হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "নারী জন্ম থেকেই —",
+   "options": {
+    "A": "ডিম্বাণুর প্রাথমিক কোষ নিয়ে জন্মায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "রাইজোম —",
+   "options": {
+    "A": "আদা",
+    "B": "কোনোটিই নয়",
+    "C": "আলু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "পরপরাগায়নের অসুবিধা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "মাধ্যমের উপর নির্ভর",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "বয়ঃসন্ধিকালীন পরিবর্তন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অস্বাভাবিক",
+    "D": "স্বাভাবিক"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "ব্যাকটেরিয়ার দ্বিবিভাজনে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সংখ্যা দ্রুত বাড়ে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "অঙ্কুরোদগমে কাণ্ড —",
+   "options": {
+    "A": "উপরের দিকে যায়",
+    "B": "নিচের দিকে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "পরিবার পরিকল্পনা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সুস্থ পরিবার গঠনে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "অঙ্গজ প্রজনন —",
+   "options": {
+    "A": "প্রাণীর",
+    "B": "কোনোটিই নয়",
+    "C": "উদ্ভিদের অযৌন জনন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "প্রাণীতে বীজ বিস্তার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "আঠালো/কাঁটাযুক্ত ফল",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "প্লাসেন্টা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "মা ও ভ্রূণের সংযোগ",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "মূলের কন্দ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মিষ্টি আলু",
+    "C": "আলু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "স্ত্রীকেশরের অংশ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "গর্ভমুণ্ড, গর্ভদণ্ড, গর্ভাশয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "জাইগোটে ক্রোমোজোম —",
+   "options": {
+    "A": "২৩ জোড়া (৪৬টি)",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "২৩টি"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "স্পোর থেকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নতুন জীব জন্মায়",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "স্ত্রীকেশরের গর্ভাশয় —",
+   "options": {
+    "A": "পরাগ ধারণ করে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ডিম্বক ধারণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "প্রসবের সময় —",
+   "options": {
+    "A": "জরায়ু সংকুচিত হয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "তারামাছের —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "হারানো বাহু পুনর্গঠন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "পরাগনালির মাধ্যমে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পুংগ্যামেট ডিম্বাণুতে পৌঁছায়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "শুক্রাণুর লেজ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "চলনে সাহায্য করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "অযৌন প্রজননে সন্তান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পিতামাতার অভিন্ন",
+    "C": "কোনোটিই নয়",
+    "D": "ভিন্ন"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "দ্বিবীজপত্রী উদ্ভিদ —",
+   "options": {
+    "A": "ছোলা, শিম, আম",
+    "B": "ধান",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "অণ্ডথলি —",
+   "options": {
+    "A": "শুক্রাশয়কে শীতল রাখে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "অ্যামিবা প্রজনন করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "দ্বিবিভাজনে",
+    "C": "স্পোরে",
+    "D": "মুকুলোদগমে"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "পাকা ফল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রাণীকে আকর্ষণ করে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "নবজাতকের যত্নে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মায়ের দুধ ও পরিচ্ছন্নতা",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "হাইড্রার মুকুল —",
+   "options": {
+    "A": "দেহ থেকে গজায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "বিস্ফোরণে বীজ বিস্তার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "শিম, ঢ্যাঁড়স"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "মায়ের দুধের উপকারিতা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "রোগ প্রতিরোধ ক্ষমতা বাড়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "ইস্টের মুকুল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কোষ থেকে গজায়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "অঙ্কুরোদগমে খাদ্য —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "সস্য বা বীজপত্র থেকে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "শুক্রাণু তৈরির জন্য —",
+   "options": {
+    "A": "কম তাপমাত্রা দরকার",
+    "B": "বেশি",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "অযৌন প্রজননে বৈচিত্র্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বেশি",
+    "C": "কিছুই না",
+    "D": "কম"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "পতঙ্গপরাগী ফুলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মধু থাকে",
+    "C": "থাকে না",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "শুক্রাণু উৎপাদন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুক্রাশয়ের সেমিনিফেরাস নালিকায়"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "মিষ্টি আলুর প্রজনন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "মূলে (টিউবার)"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "দলমণ্ডল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পাপড়ির সমষ্টি",
+    "C": "কোনোটিই নয়",
+    "D": "বৃতির সমষ্টি"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "শুক্রাশয়ের হরমোন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "টেস্টোস্টেরন",
+    "C": "কোনোটিই নয়",
+    "D": "ইস্ট্রোজেন"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "স্টক —",
+   "options": {
+    "A": "নিচের অংশ (মূল)",
+    "B": "উপরের অংশ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "পাপড়ির কাজ —",
+   "options": {
+    "A": "পরাগায়নকারী আকর্ষণ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "জরায়ু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ভ্রূণের বিকাশস্থল",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "লেয়ারিংয়ের উদাহরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লেবু, গোলাপ",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "ফুলের স্ত্রী অঙ্গ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "স্ত্রীকেশর",
+    "C": "কোনোটিই নয়",
+    "D": "পুংকেশর"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "ডিম্বস্ফোটন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "মাসিক চক্রের মাঝামাঝি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "ব্যাকটেরিয়ার সংখ্যা —",
+   "options": {
+    "A": "দ্রুত দ্বিগুণ হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ধীরে"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "অঙ্কুরোদগমে আলো —",
+   "options": {
+    "A": "সবসময় প্রয়োজন",
+    "B": "সব বীজের জন্য প্রয়োজন নয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "ডিম্বাণু উৎপাদন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ডিম্বাশয়ে",
+    "C": "কিছুই না",
+    "D": "শুক্রাশয়ে"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "প্ল্যানারিয়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "পুনরুৎপাদন করতে পারে"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "পরাগরেণু তৈরি হয় —",
+   "options": {
+    "A": "পরাগধানীতে",
+    "B": "গর্ভাশয়ে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "ডিম্বাণু মুক্তি —",
+   "options": {
+    "A": "ডিম্বস্ফোটন",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "সায়ন ও স্টক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "গ্রাফটিংয়ের অংশ",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "পরপরাগায়নের সুবিধা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বৈচিত্র্য ও শক্তিশালী সন্তান"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "শিশুর টিকাদান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জরুরি নয়",
+    "C": "দরকার নেই",
+    "D": "জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "অযৌন প্রজননের গতি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দ্রুত",
+    "C": "কোনোটিই নয়",
+    "D": "ধীর"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "বীজ বিস্তারের গুরুত্ব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "প্রজাতির বিস্তার",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "ভ্রূণের হৃৎস্পন্দন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "গর্ভাবস্থায় শোনা যায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "মুকুলোদগমে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "দেহে মুকুল তৈরি হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "মৌমাছি —",
+   "options": {
+    "A": "ক্ষতি করে",
+    "B": "পরাগায়নে সাহায্য করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "প্রসবপূর্ব ও প্রসবোত্তর যত্ন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "মা ও শিশুর স্বাস্থ্যে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "স্পোর —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ক্ষুদ্র, হালকা, প্রতিরোধী",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "বীজ ফুলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "বীজত্বক ফেটে যায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "বয়ঃসন্ধিকালীন স্বাস্থ্যবিধি —",
+   "options": {
+    "A": "পরিচ্ছন্নতা জরুরি",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "মিউকর (কালো ছাতা) —",
+   "options": {
+    "A": "স্পোরে বংশবৃদ্ধি করে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "ফলের প্রকার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু সরল",
+    "C": "সরল, গুচ্ছ, যৌগিক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "ডিম্বাণু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "চলনক্ষম",
+    "D": "অচল"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "আখের বংশবৃদ্ধি —",
+   "options": {
+    "A": "কাটিংয়ে",
+    "B": "কিছুই না",
+    "C": "বীজে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "বীজ পানি শোষণ করে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ফুলে যায়"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "ঋতুস্রাবকালীন পরিচ্ছন্নতা —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "কোনোটিই নয়",
+    "C": "জরুরি নয়",
+    "D": "জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "দ্বিবিভাজনে একটি কোষ —",
+   "options": {
+    "A": "দুটি কোষে ভাগ হয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "চারটিতে"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "অঙ্কুরোদগমে সঞ্চিত খাদ্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "ভ্রূণকে পুষ্টি দেয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "প্রজনন স্বাস্থ্যসেবা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মা ও শিশুর জন্য জরুরি",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "অযৌন প্রজননের অসুবিধা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বৈচিত্র্য কম",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "অঙ্কুরোদগমে মূল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "উপরের দিকে",
+    "C": "নিচের দিকে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "গর্ভাবস্থার প্রথম ৩ মাস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "ভ্রূণের অঙ্গ গঠন হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "টিকটিকির লেজ —",
+   "options": {
+    "A": "পুনরায় গজায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "স্বপরাগায়নের সুবিধা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "পরাগের অপচয় কম"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "শুক্রাণুর মাথায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "নিউক্লিয়াস থাকে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "পুনরুৎপাদন —",
+   "options": {
+    "A": "হারানো অঙ্গ পুনর্গঠন",
+    "B": "কিছুই না",
+    "C": "জনন নয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "অঙ্কুরোদগমে তাপ —",
+   "options": {
+    "A": "শোষিত হয়",
+    "B": "উৎপন্ন হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "গর্ভনিরোধের পদ্ধতি —",
+   "options": {
+    "A": "কনডম, পিল, লুপ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "স্পোর গঠন —",
+   "options": {
+    "A": "হাইড্রার",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ছত্রাকের জনন"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "বীজত্বক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "বীজকে রক্ষা করে"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "বয়ঃসন্ধি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "যৌন পরিপক্বতার শুরু",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "কাণ্ডের কন্দ —",
+   "options": {
+    "A": "মিষ্টি আলু",
+    "B": "কোনোটিই নয়",
+    "C": "আলু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "বীজের সুপ্তাবস্থা —",
+   "options": {
+    "A": "অনুকূল পরিবেশে ভাঙে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "আল্ট্রাসনোগ্রাফি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ভ্রূণের বিকাশ দেখায়",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "ইস্টের প্রজনন —",
+   "options": {
+    "A": "দ্বিবিভাজন",
+    "B": "মুকুলোদগম",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "ভ্রূণকাণ্ড —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "উপরের দিকে বৃদ্ধি পায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "HIV/AIDS —",
+   "options": {
+    "A": "যৌনবাহিত মারাত্মক রোগ",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "স্পোর কাকে বলে?",
+   "options": {
+    "A": "জননের একক কোষ",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "বীজের সুরক্ষা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "বীজত্বকে হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "গর্ভবতী মায়ের ধূমপান —",
+   "options": {
+    "A": "শিশুর ক্ষতি করে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "এন্ডোস্পোর —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অতি প্রতিরোধী",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "পরাগরেণুতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পুংগ্যামেট থাকে",
+    "C": "ডিম্বাণু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "শুক্রাণুর গঠন —",
+   "options": {
+    "A": "মাথা, মধ্যাংশ, লেজ",
+    "B": "শুধু মাথা",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "আম-লিচুর বংশবৃদ্ধি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বীজে শুধু",
+    "C": "গ্রাফটিং/কাটিংয়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "বীজের অংশ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বীজত্বক, ভ্রূণ, সস্য"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "নিরাপদ প্রসব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "প্রশিক্ষিত ধাত্রী/চিকিৎসকে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "আলুর প্রজনন —",
+   "options": {
+    "A": "কন্দে",
+    "B": "বীজে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "বীজ বিস্তারের উপায় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বায়ু, পানি, প্রাণী, বিস্ফোরণ",
+    "C": "কিছুই না",
+    "D": "শুধু বায়ু"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "প্রজনন স্বাস্থ্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "শিক্ষা ও সচেতনতা দরকার"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "অভিন্নতার সুবিধা —",
+   "options": {
+    "A": "ভালো বৈশিষ্ট্য সংরক্ষণ",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "একবীজপত্রী উদ্ভিদ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ছোলা",
+    "C": "কোনোটিই নয়",
+    "D": "ধান, গম, ভুট্টা"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "পিতার Y শুক্রাণু হলে সন্তান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ছেলে",
+    "D": "মেয়ে"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "তারামাছের বাহু —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "পুনরায় গজায়"
+   },
+   "correctAnswer": "D",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "খুব গরমে অঙ্কুরোদগম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হয় না",
+    "C": "কোনোটিই নয়",
+    "D": "হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "মানুষের পুরুষ জনন তন্ত্রের অংশ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ডিম্বাশয়",
+    "C": "কিছুই না",
+    "D": "শুক্রাশয়, শুক্রনালি, লিঙ্গ"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "সায়ন —",
+   "options": {
+    "A": "উপরের অংশ (কাঙ্ক্ষিত জাত)",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "নিচের অংশ"
+   },
+   "correctAnswer": "A",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "মৌমাছি মধু সংগ্রহে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "পরাগায়ন ঘটায়"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "পিতার X শুক্রাণু হলে সন্তান —",
+   "options": {
+    "A": "ছেলে",
+    "B": "কিছুই না",
+    "C": "মেয়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "আলুর চোখ থেকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নতুন গাছ হয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "মাংসল ফল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "আম, লিচু",
+    "D": "ধান"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "প্রসব বেদনা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "জরায়ুর সংকোচনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "অযৌন প্রজনন —",
+   "options": {
+    "A": "দুটি পিতামাতা",
+    "B": "একটি পিতামাতা থেকে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "স্বপরাগায়ন —",
+   "options": {
+    "A": "একই ফুলের পরাগ একই ফুলে",
+    "B": "কিছুই না",
+    "C": "ভিন্ন ফুলে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "ডিম্বাশয়ের হরমোন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ইস্ট্রোজেন ও প্রোজেস্টেরন",
+    "D": "টেস্টোস্টেরন"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "অযৌন প্রজননের প্রকার —",
+   "options": {
+    "A": "শুধু এক",
+    "B": "কিছুই না",
+    "C": "দ্বিবিভাজন, মুকুলোদগম, স্পোর, অঙ্গজ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "পরপরাগায়নে —",
+   "options": {
+    "A": "পরাগের অপচয় বেশি",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "কম"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "অভিন্ন যমজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দুটি ডিম্বাণু থেকে",
+    "C": "একটি ডিম্বাণু থেকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "স্পোরাঙ্গিয়াম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "স্পোর ধারণকারী থলি",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "অযৌন প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "মৌমাছি ফুলে এলে —",
+   "options": {
+    "A": "পরাগায়ন ঘটে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "গর্ভবতী মায়ের যত্ন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পুষ্টিকর খাদ্য ও বিশ্রাম"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "পরাগায়নের মাধ্যম —",
+   "options": {
+    "A": "বায়ু, পোকা, পানি, প্রাণী",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু বায়ু"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "প্রথম দুধ (শালদুধ) —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "রোগ প্রতিরোধক উপাদান সমৃদ্ধ",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "পানিতে বীজ বিস্তার —",
+   "options": {
+    "A": "নারিকেল, শাপলা",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "শালদুধ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ক্ষতিকর",
+    "C": "কিছুই না",
+    "D": "শিশুর জন্য অত্যন্ত উপকারী"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "জলজ উদ্ভিদে পরাগায়ন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বায়ুতে",
+    "D": "পানিতে হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "ভিন্ন যমজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "একটি ডিম্বাণু থেকে",
+    "C": "কোনোটিই নয়",
+    "D": "দুটি ডিম্বাণু থেকে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "পরাগায়নের প্রকার —",
+   "options": {
+    "A": "স্বপরাগায়ন ও পরপরাগায়ন",
+    "B": "শুধু স্ব",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু পর"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "মেয়েদের বয়ঃসন্ধিতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ঋতুস্রাব শুরু হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "বীজ বিস্তারের মাধ্যম —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "বায়ু, পানি, প্রাণী, বিস্ফোরণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "শিশুকে মায়ের দুধ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "খাওয়ানো উচিত",
+    "C": "দরকার নেই",
+    "D": "উচিত নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "পুংকেশরের পরাগধানী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পরাগরেণু ধারণ করে",
+    "D": "ডিম্বাণু ধারণ করে"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "জরায়ুর আবরণ —",
+   "options": {
+    "A": "এন্ডোমেট্রিয়াম",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "সপুষ্পক উদ্ভিদে নিষেক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "দ্বিনিষেক",
+    "C": "এক নিষেক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "শুক্রাণু তৈরি হয় —",
+   "options": {
+    "A": "শুক্রাশয়ে",
+    "B": "কিছুই না",
+    "C": "ডিম্বাশয়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "পতঙ্গপরাগী ফুলের পরাগ —",
+   "options": {
+    "A": "আঠালো",
+    "B": "কিছুই না",
+    "C": "শুষ্ক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "প্রজনন স্বাস্থ্যের যত্ন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "সচেতনতা ও স্বাস্থ্যবিধিতে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "পুংকেশরের অংশ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "পরাগধানী ও পুংদণ্ড",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "ইমপ্লান্টেশন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ভ্রূণ জরায়ুতে স্থাপন",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "একবীজপত্রী বীজে —",
+   "options": {
+    "A": "দুটি",
+    "B": "কিছুই না",
+    "C": "একটি বীজপত্র",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "নারী জনন তন্ত্রের অংশ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ডিম্বাশয়, ডিম্বনালি, জরায়ু, যোনি",
+    "C": "কিছুই না",
+    "D": "শুক্রাশয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "গর্ভমুণ্ড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "পরাগরেণু গ্রহণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "শিমের ফল ফেটে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "বীজ ছড়ায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "ফুলের পুরুষ অঙ্গ —",
+   "options": {
+    "A": "স্ত্রীকেশর",
+    "B": "কিছুই না",
+    "C": "পুংকেশর",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "ফলের কাজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "বীজের সুরক্ষা ও বিস্তার"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "প্রাণী ফল খেয়ে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বীজ ছড়ায়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "শুষ্ক ফল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "আম",
+    "C": "ধান, গম, ছোলা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "বীজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "ডিম্বক থেকে তৈরি হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "ফুলের স্ত্রী গ্যামেট —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পরাগরেণু",
+    "C": "ডিম্বাণু",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "দ্বিনিষেক —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "দুটি পুংগ্যামেটের নিষেক",
+    "D": "একটি"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "ফল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "গর্ভাশয় থেকে তৈরি হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "অঙ্কুরোদগমে —",
+   "options": {
+    "A": "প্রয়োজন নয়",
+    "B": "পানি প্রয়োজন",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "বীজ বিস্তারের সুবিধা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "নতুন স্থানে বিস্তার",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "ফুল ফোটে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্রজননের জন্য",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "ফুলের প্রজননের ক্রম —",
+   "options": {
+    "A": "পরাগায়ন → নিষেক → ফল → বীজ",
+    "B": "কিছুই না",
+    "C": "নিষেক → পরাগায়ন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "অঙ্কুরোদগমের উপযোগী তাপমাত্রা —",
+   "options": {
+    "A": "৫০°C",
+    "B": "কোনোটিই নয়",
+    "C": "২৫-৩০°C",
+    "D": "০°C"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "বৃতির কাজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কুঁড়িকে রক্ষা"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "পরাগায়ন → ? → ফল ও বীজ",
+   "options": {
+    "A": "নিষেক",
+    "B": "অঙ্কুরোদগম",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "কিছু বীজের অঙ্কুরোদগমে —",
+   "options": {
+    "A": "আলো প্রয়োজন",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "বায়ুপরাগী ফুলের পরাগ —",
+   "options": {
+    "A": "হালকা ও শুষ্ক",
+    "B": "কোনোটিই নয়",
+    "C": "ভারী ও আঠালো",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "ফুলের পুরুষ গ্যামেট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ডিম্বাণু",
+    "C": "কিছুই না",
+    "D": "পরাগরেণুর পুংগ্যামেট"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "বীজের ভ্রূণ থেকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "নতুন উদ্ভিদ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "ফল পাকলে —",
+   "options": {
+    "A": "রং ও স্বাদ বদলায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "ধান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "একবীজপত্রী",
+    "D": "দ্বিবীজপত্রী"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "ফুলের বৃতি —",
+   "options": {
+    "A": "বাইরের সবুজ অংশ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "রঙিন অংশ"
+   },
+   "correctAnswer": "A",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "ডিম্বক থেকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ফল",
+    "D": "বীজ তৈরি হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "অঙ্কুরোদগমের পর —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "চারা গজায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "স্বপরাগায়নের অসুবিধা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "বৈচিত্র্য কম",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "দ্বিতীয় নিষেকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ভ্রূণ",
+    "C": "সস্য তৈরি হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "ফুলের প্রজনন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "C",
+  "2": "D",
+  "3": "B",
+  "4": "B",
+  "5": "D",
+  "6": "D",
+  "7": "D",
+  "8": "D",
+  "9": "A",
+  "10": "A",
+  "11": "B",
+  "12": "C",
+  "13": "B",
+  "14": "D",
+  "15": "B",
+  "16": "A",
+  "17": "A",
+  "18": "D",
+  "19": "A",
+  "20": "A",
+  "21": "D",
+  "22": "C",
+  "23": "C",
+  "24": "D",
+  "25": "B",
+  "26": "D",
+  "27": "D",
+  "28": "A",
+  "29": "D",
+  "30": "D",
+  "31": "B",
+  "32": "B",
+  "33": "A",
+  "34": "B",
+  "35": "C",
+  "36": "A",
+  "37": "D",
+  "38": "B",
+  "39": "A",
+  "40": "B",
+  "41": "B",
+  "42": "D",
+  "43": "D",
+  "44": "A",
+  "45": "D",
+  "46": "C",
+  "47": "A",
+  "48": "C",
+  "49": "B",
+  "50": "B",
+  "51": "C",
+  "52": "C",
+  "53": "D",
+  "54": "C",
+  "55": "A",
+  "56": "D",
+  "57": "B",
+  "58": "D",
+  "59": "B",
+  "60": "C",
+  "61": "D",
+  "62": "C",
+  "63": "D",
+  "64": "B",
+  "65": "B",
+  "66": "C",
+  "67": "D",
+  "68": "C",
+  "69": "A",
+  "70": "A",
+  "71": "C",
+  "72": "B",
+  "73": "B",
+  "74": "A",
+  "75": "D",
+  "76": "B",
+  "77": "C",
+  "78": "B",
+  "79": "D",
+  "80": "C",
+  "81": "B",
+  "82": "C",
+  "83": "A",
+  "84": "B",
+  "85": "A",
+  "86": "A",
+  "87": "B",
+  "88": "A",
+  "89": "A",
+  "90": "D",
+  "91": "D",
+  "92": "B",
+  "93": "C",
+  "94": "B",
+  "95": "C",
+  "96": "A",
+  "97": "A",
+  "98": "A",
+  "99": "B",
+  "100": "B",
+  "101": "B",
+  "102": "D",
+  "103": "A",
+  "104": "C",
+  "105": "A",
+  "106": "D",
+  "107": "A",
+  "108": "D",
+  "109": "A",
+  "110": "D",
+  "111": "D",
+  "112": "D",
+  "113": "C",
+  "114": "C",
+  "115": "D",
+  "116": "C",
+  "117": "B",
+  "118": "A",
+  "119": "B",
+  "120": "D",
+  "121": "A",
+  "122": "D",
+  "123": "A",
+  "124": "A",
+  "125": "C",
+  "126": "A",
+  "127": "A",
+  "128": "C",
+  "129": "B",
+  "130": "B",
+  "131": "A",
+  "132": "B",
+  "133": "D",
+  "134": "C",
+  "135": "D",
+  "136": "D",
+  "137": "C",
+  "138": "A",
+  "139": "A",
+  "140": "C",
+  "141": "B",
+  "142": "D",
+  "143": "C",
+  "144": "D",
+  "145": "A",
+  "146": "D",
+  "147": "A",
+  "148": "D",
+  "149": "B",
+  "150": "A",
+  "151": "B",
+  "152": "C",
+  "153": "B",
+  "154": "D",
+  "155": "A",
+  "156": "C",
+  "157": "C",
+  "158": "A",
+  "159": "B",
+  "160": "D",
+  "161": "D",
+  "162": "D",
+  "163": "A",
+  "164": "D",
+  "165": "D",
+  "166": "D",
+  "167": "C",
+  "168": "D",
+  "169": "C",
+  "170": "A",
+  "171": "D",
+  "172": "D",
+  "173": "A",
+  "174": "C",
+  "175": "B",
+  "176": "C",
+  "177": "C",
+  "178": "C",
+  "179": "C",
+  "180": "C",
+  "181": "C",
+  "182": "A",
+  "183": "D",
+  "184": "D",
+  "185": "B",
+  "186": "C",
+  "187": "C",
+  "188": "A",
+  "189": "A",
+  "190": "A",
+  "191": "A",
+  "192": "D",
+  "193": "A",
+  "194": "D",
+  "195": "C",
+  "196": "B",
+  "197": "A",
+  "198": "C",
+  "199": "B",
+  "200": "C",
+  "201": "A",
+  "202": "D",
+  "203": "B",
+  "204": "C",
+  "205": "B",
+  "206": "B",
+  "207": "A",
+  "208": "A",
+  "209": "C",
+  "210": "D",
+  "211": "B",
+  "212": "A",
+  "213": "D",
+  "214": "C",
+  "215": "B",
+  "216": "C",
+  "217": "B",
+  "218": "D",
+  "219": "A",
+  "220": "B",
+  "221": "D",
+  "222": "A",
+  "223": "C",
+  "224": "B",
+  "225": "B",
+  "226": "B",
+  "227": "A",
+  "228": "A",
+  "229": "B",
+  "230": "B",
+  "231": "B",
+  "232": "A",
+  "233": "D",
+  "234": "D",
+  "235": "B",
+  "236": "B",
+  "237": "A",
+  "238": "D",
+  "239": "B",
+  "240": "D",
+  "241": "D",
+  "242": "B",
+  "243": "B",
+  "244": "A",
+  "245": "A",
+  "246": "C",
+  "247": "B",
+  "248": "B",
+  "249": "C",
+  "250": "A",
+  "251": "B",
+  "252": "B",
+  "253": "D",
+  "254": "A",
+  "255": "A",
+  "256": "B",
+  "257": "D",
+  "258": "D",
+  "259": "B",
+  "260": "B",
+  "261": "B",
+  "262": "C",
+  "263": "B",
+  "264": "C",
+  "265": "C",
+  "266": "C",
+  "267": "A",
+  "268": "A",
+  "269": "C",
+  "270": "D",
+  "271": "A",
+  "272": "D",
+  "273": "D",
+  "274": "A",
+  "275": "D",
+  "276": "B",
+  "277": "B",
+  "278": "C",
+  "279": "C",
+  "280": "A",
+  "281": "D",
+  "282": "C",
+  "283": "A",
+  "284": "B",
+  "285": "A",
+  "286": "D",
+  "287": "D",
+  "288": "B",
+  "289": "C",
+  "290": "A",
+  "291": "B",
+  "292": "B",
+  "293": "B",
+  "294": "A",
+  "295": "A",
+  "296": "B",
+  "297": "A",
+  "298": "B",
+  "299": "B",
+  "300": "A",
+  "301": "C",
+  "302": "D",
+  "303": "D",
+  "304": "A",
+  "305": "B",
+  "306": "D",
+  "307": "A",
+  "308": "D",
+  "309": "C",
+  "310": "D",
+  "311": "B",
+  "312": "D",
+  "313": "A",
+  "314": "D",
+  "315": "C",
+  "316": "B",
+  "317": "C",
+  "318": "C",
+  "319": "B",
+  "320": "A",
+  "321": "C",
+  "322": "C",
+  "323": "A",
+  "324": "C",
+  "325": "C",
+  "326": "A",
+  "327": "D",
+  "328": "A",
+  "329": "B",
+  "330": "A",
+  "331": "D",
+  "332": "D",
+  "333": "D",
+  "334": "A",
+  "335": "C",
+  "336": "C",
+  "337": "B",
+  "338": "C",
+  "339": "A",
+  "340": "B",
+  "341": "A",
+  "342": "A",
+  "343": "B",
+  "344": "C",
+  "345": "B",
+  "346": "C",
+  "347": "B",
+  "348": "D",
+  "349": "C",
+  "350": "C",
+  "351": "D",
+  "352": "B",
+  "353": "C",
+  "354": "C",
+  "355": "C",
+  "356": "C",
+  "357": "B",
+  "358": "B",
+  "359": "B",
+  "360": "B",
+  "361": "A",
+  "362": "C",
+  "363": "D",
+  "364": "A",
+  "365": "A",
+  "366": "A",
+  "367": "D",
+  "368": "D",
+  "369": "A",
+  "370": "C",
+  "371": "A",
+  "372": "D",
+  "373": "B",
+  "374": "C",
+  "375": "C"
+ }
+}
