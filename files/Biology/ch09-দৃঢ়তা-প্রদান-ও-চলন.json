@@ -1,0 +1,7134 @@
+{
+ "subject": "জীববিজ্ঞান",
+ "chapterNo": 9,
+ "chapter": "দৃঢ়তা প্রদান ও চলন",
+ "questions": [
+  {
+   "question": "চলনতন্ত্র সুস্থ রাখতে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "সঠিক ভঙ্গি ও ব্যায়াম",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 1
+  },
+  {
+   "question": "উদ্ভিদের দৃঢ়তা আসে —",
+   "options": {
+    "A": "স্ফীতি চাপ ও কোষপ্রাচীর থেকে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কঙ্কাল থেকে"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 2
+  },
+  {
+   "question": "প্রাণীর দৃঢ়তা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কোষপ্রাচীরে",
+    "C": "কঙ্কালে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 3
+  },
+  {
+   "question": "ফ্র্যাকচার —",
+   "options": {
+    "A": "অস্থি ভাঙা",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 4
+  },
+  {
+   "question": "জয়েন্ট সুস্থ রাখতে —",
+   "options": {
+    "A": "সঠিক ওজন ও ব্যায়াম",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 5
+  },
+  {
+   "question": "ব্যায়ামের পর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "স্ট্রেচিং করা ভালো",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 6
+  },
+  {
+   "question": "উদ্ভিদ ও প্রাণীর চলনের পার্থক্য —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "পদ্ধতিতে"
+   },
+   "correctAnswer": "D",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 7
+  },
+  {
+   "question": "উদ্ভিদের দৃঢ়তা —",
+   "options": {
+    "A": "একই",
+    "B": "প্রাণীর চেয়ে ভিন্ন পদ্ধতিতে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 8
+  },
+  {
+   "question": "অন্তঃকঙ্কাল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বাইরের আবরণ",
+    "C": "দেহের ভেতরের কঙ্কাল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 9
+  },
+  {
+   "question": "মেরুদণ্ড —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "মস্তিষ্ক রক্ষা করে",
+    "D": "সুষুম্না কাণ্ড রক্ষা করে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 10
+  },
+  {
+   "question": "কশেরুকার মাঝে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "তরুণাস্থির চাকতি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 11
+  },
+  {
+   "question": "বাইসেপস শিথিল হলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ট্রাইসেপস সংকুচিত হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 12
+  },
+  {
+   "question": "দৃঢ়তা ছাড়া দেহ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পারে",
+    "D": "আকৃতি ধরে রাখতে পারে না"
+   },
+   "correctAnswer": "D",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 13
+  },
+  {
+   "question": "মূলের হাইড্রোট্রপিজম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ঋণাত্মক",
+    "D": "ধনাত্মক"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 14
+  },
+  {
+   "question": "অন্তঃকঙ্কালের সুবিধা —",
+   "options": {
+    "A": "বৃদ্ধির সাথে বাড়ে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 15
+  },
+  {
+   "question": "অস্থি ভাঙলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "প্লাস্টার/স্প্লিন্ট লাগে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 16
+  },
+  {
+   "question": "জয়েন্টের প্রকার —",
+   "options": {
+    "A": "অচল, ঈষৎ সচল, সচল",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু সচল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 17
+  },
+  {
+   "question": "কেঁচো চলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "সংকোচন-প্রসারণে"
+   },
+   "correctAnswer": "D",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 18
+  },
+  {
+   "question": "দৃঢ়তা প্রদান ও চলন —",
+   "options": {
+    "A": "জীববিজ্ঞানের গুরুত্বপূর্ণ অধ্যায়",
+    "B": "অগুরুত্বপূর্ণ",
+    "C": "কোনোটিই নয়",
+    "D": "ঐচ্ছিক"
+   },
+   "correctAnswer": "A",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 19
+  },
+  {
+   "question": "উদ্ভিদের দৃঢ়তার কারণ —",
+   "options": {
+    "A": "স্ফীতি চাপ, কোষপ্রাচীর, লিগনিন",
+    "B": "হাড়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 20
+  },
+  {
+   "question": "তরুণাস্থি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কঠিন",
+    "C": "কিছুই না",
+    "D": "নমনীয় যোজক টিস্যু"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 21
+  },
+  {
+   "question": "মেরুদণ্ডে কশেরুকা —",
+   "options": {
+    "A": "৩৩টি",
+    "B": "২৬টি",
+    "C": "৩০টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 22
+  },
+  {
+   "question": "কনুই —",
+   "options": {
+    "A": "বল-সকেট",
+    "B": "কোনোটিই নয়",
+    "C": "কব্জা জয়েন্ট",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 23
+  },
+  {
+   "question": "অবাত শ্বসনে পেশিতে —",
+   "options": {
+    "A": "ইথানল",
+    "B": "কিছুই না",
+    "C": "ল্যাকটিক অ্যাসিড হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 24
+  },
+  {
+   "question": "চলনতন্ত্রের পুষ্টি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "ক্যালসিয়াম, ভিটামিন D, প্রোটিন"
+   },
+   "correctAnswer": "D",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 25
+  },
+  {
+   "question": "ছায়ার দিকে বেশি বৃদ্ধি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "আলোর দিকে বাঁকায়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 26
+  },
+  {
+   "question": "কাইটিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পোকার বহিঃকঙ্কালের উপাদান",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 27
+  },
+  {
+   "question": "দেহের সবচেয়ে ছোট অস্থি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "ফিমার",
+    "D": "স্টেপিস (কানে)"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 28
+  },
+  {
+   "question": "আর্থ্রাইটিস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "জয়েন্টের প্রদাহ",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 29
+  },
+  {
+   "question": "পাখির ডানা —",
+   "options": {
+    "A": "উড়তে সাহায্য করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 30
+  },
+  {
+   "question": "চলন ছাড়া প্রাণী —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "খাদ্য ও আশ্রয় খুঁজে পায় না",
+    "C": "পায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 31
+  },
+  {
+   "question": "সূর্যমুখী —",
+   "options": {
+    "A": "আলো অনুসরণ করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 32
+  },
+  {
+   "question": "বহিঃকঙ্কালের অসুবিধা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "বৃদ্ধিতে খোলস ত্যাগ করতে হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 33
+  },
+  {
+   "question": "হাড় কঠিন অথচ সামান্য নমনীয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "ক্যালসিয়াম ও কোলাজেনে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 34
+  },
+  {
+   "question": "তরুণাস্থি জয়েন্টে —",
+   "options": {
+    "A": "ঘর্ষণ কমায়",
+    "B": "কোনোটিই নয়",
+    "C": "বাড়ায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 35
+  },
+  {
+   "question": "ব্যায়াম না করলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "পেশি দুর্বল হয়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 36
+  },
+  {
+   "question": "কঙ্কাল চলনের —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভিত্তি",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 37
+  },
+  {
+   "question": "মূল নিচের দিকে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জিওট্রপিজমে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 38
+  },
+  {
+   "question": "কান ও নাক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তরুণাস্থিতে গঠিত",
+    "C": "কিছুই না",
+    "D": "অস্থিতে"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 39
+  },
+  {
+   "question": "টিবিয়া —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "জঙ্ঘার বড় অস্থি",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 40
+  },
+  {
+   "question": "টেন্ডন —",
+   "options": {
+    "A": "পেশির সাথে অস্থি যুক্ত করে",
+    "B": "অস্থি-অস্থি",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 41
+  },
+  {
+   "question": "পোকার পা —",
+   "options": {
+    "A": "৪টি",
+    "B": "কোনোটিই নয়",
+    "C": "৮টি",
+    "D": "৬টি"
+   },
+   "correctAnswer": "D",
+   "topic": "চলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 42
+  },
+  {
+   "question": "মূল পানির দিকে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 43
+  },
+  {
+   "question": "উদ্ভিদের দৃঢ়তার প্রধান উৎস কচি অঙ্গে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লিগনিন",
+    "C": "স্ফীতি চাপ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 44
+  },
+  {
+   "question": "বহিঃকঙ্কাল —",
+   "options": {
+    "A": "ভেতরের কঙ্কাল",
+    "B": "কোনোটিই নয়",
+    "C": "দেহের বাইরের কঠিন আবরণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 45
+  },
+  {
+   "question": "বক্ষপিঞ্জর গঠিত —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "পাঁজর ও স্টারনামে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 46
+  },
+  {
+   "question": "সচল জয়েন্ট —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কনুই, হাঁটু, কাঁধ",
+    "C": "করোটি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 47
+  },
+  {
+   "question": "মুক্ত হাত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কাজ করতে পারে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 48
+  },
+  {
+   "question": "প্রাণী চলনের ভিত্তি —",
+   "options": {
+    "A": "পেশি সংকোচন",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "কোষ বৃদ্ধি"
+   },
+   "correctAnswer": "A",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 49
+  },
+  {
+   "question": "ট্রপিজম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "উদ্দীপকের দিকে বৃদ্ধি",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 50
+  },
+  {
+   "question": "অস্থি কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নরম টিস্যু",
+    "C": "কঠিন যোজক টিস্যু",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 51
+  },
+  {
+   "question": "মেরুদণ্ডের কশেরুকা —",
+   "options": {
+    "A": "২২টি",
+    "B": "কোনোটিই নয়",
+    "C": "২৬টি",
+    "D": "৩৩টি"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 52
+  },
+  {
+   "question": "নিতম্ব —",
+   "options": {
+    "A": "কব্জা",
+    "B": "বল-সকেট জয়েন্ট",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 53
+  },
+  {
+   "question": "পেশি ক্লান্তি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ল্যাকটিক অ্যাসিড জমে"
+   },
+   "correctAnswer": "D",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 54
+  },
+  {
+   "question": "চলনে প্রাণী —",
+   "options": {
+    "A": "খাদ্য খোঁজে",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 55
+  },
+  {
+   "question": "লজ্জাবতীর পাতা গুটানো —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ন্যাস্টিক চলন",
+    "C": "কোনোটিই নয়",
+    "D": "ট্রপিক চলন"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 56
+  },
+  {
+   "question": "অস্থিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "ক্যালসিয়াম ও ফসফরাস থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 57
+  },
+  {
+   "question": "অস্থির নমনীয়তা —",
+   "options": {
+    "A": "কোলাজেন প্রোটিনে",
+    "B": "কিছুই না",
+    "C": "ক্যালসিয়ামে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 58
+  },
+  {
+   "question": "বয়সে জয়েন্ট —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "শক্ত হতে পারে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 59
+  },
+  {
+   "question": "স্ট্রেচিং —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "পেশির নমনীয়তা বাড়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 60
+  },
+  {
+   "question": "দৃঢ় কাঠামো ছাড়া চলন —",
+   "options": {
+    "A": "সম্ভব",
+    "B": "সম্ভব নয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 61
+  },
+  {
+   "question": "লজ্জাবতী স্পর্শে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পাতা গুটায়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 62
+  },
+  {
+   "question": "মোল্টিং —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "পোকার খোলস ত্যাগ"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 63
+  },
+  {
+   "question": "মানুষের কঙ্কাল অস্থি —",
+   "options": {
+    "A": "২০৬টি",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "২০৬ জোড়া"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 64
+  },
+  {
+   "question": "করোটির সন্ধি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অচল জয়েন্ট",
+    "D": "সচল"
+   },
+   "correctAnswer": "C",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 65
+  },
+  {
+   "question": "কেঁচোর চলন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "পেশি ও সিটায়",
+    "D": "পায়ে"
+   },
+   "correctAnswer": "C",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 66
+  },
+  {
+   "question": "কঙ্কাল, পেশি, জয়েন্ট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চলনতন্ত্র গঠন করে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 67
+  },
+  {
+   "question": "পানি বের হলে কোষ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ফুলে",
+    "C": "চুপসে যায়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 68
+  },
+  {
+   "question": "কঙ্কালের প্রধান উপাদান —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অস্থি ও তরুণাস্থি",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 69
+  },
+  {
+   "question": "অস্থি ভাঙলে রক্তক্ষরণ —",
+   "options": {
+    "A": "অস্থির রক্তনালিতে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 70
+  },
+  {
+   "question": "কাঁধ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "বল-সকেট জয়েন্ট",
+    "C": "কিছুই না",
+    "D": "কব্জা"
+   },
+   "correctAnswer": "B",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 71
+  },
+  {
+   "question": "মাছের পাখনা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "সাঁতারে সাহায্য করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 72
+  },
+  {
+   "question": "উদ্ভিদ চলনের ভিত্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কোষের বৃদ্ধি",
+    "D": "পেশি সংকোচন"
+   },
+   "correctAnswer": "C",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 73
+  },
+  {
+   "question": "উদ্ভিদের চলন —",
+   "options": {
+    "A": "সীমিত (বাঁকানো/নড়া)",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "দৌড়ানো"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 74
+  },
+  {
+   "question": "প্রাণীর কঙ্কাল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নেই",
+    "C": "কোনোটিই নয়",
+    "D": "আছে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 75
+  },
+  {
+   "question": "অস্থিমজ্জা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লাল ও হলুদ দুই ধরনের",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 76
+  },
+  {
+   "question": "জয়েন্টের যত্ন —",
+   "options": {
+    "A": "নিয়মিত নড়াচড়া ও ব্যায়াম",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 77
+  },
+  {
+   "question": "পেশি সংকোচনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অস্থি নড়ে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 78
+  },
+  {
+   "question": "বসার সঠিক ভঙ্গি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পিঠ সোজা",
+    "C": "কুঁজো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 79
+  },
+  {
+   "question": "কোলেনকাইমা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কচি অঙ্গে দৃঢ়তা দেয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 80
+  },
+  {
+   "question": "মানুষের কঙ্কাল —",
+   "options": {
+    "A": "অন্তঃকঙ্কাল",
+    "B": "কোনোটিই নয়",
+    "C": "বহিঃকঙ্কাল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 81
+  },
+  {
+   "question": "অস্থি ভাঙলে ব্যথা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "স্নায়ুর জন্য"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 82
+  },
+  {
+   "question": "কব্জা জয়েন্ট —",
+   "options": {
+    "A": "কনুই, হাঁটুতে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "কাঁধে"
+   },
+   "correctAnswer": "A",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 83
+  },
+  {
+   "question": "ব্যায়ামের উপকারিতা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অস্থি, পেশি, হৃৎপিণ্ড ভালো রাখে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 84
+  },
+  {
+   "question": "চলনতন্ত্র —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "দেহের নড়াচড়া নিয়ন্ত্রণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 85
+  },
+  {
+   "question": "উদ্ভিদের কঙ্কাল —",
+   "options": {
+    "A": "নেই",
+    "B": "কিছুই না",
+    "C": "আছে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 86
+  },
+  {
+   "question": "কঙ্কালের প্রকার —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু এক",
+    "C": "বহিঃকঙ্কাল ও অন্তঃকঙ্কাল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 87
+  },
+  {
+   "question": "কঙ্কাল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পেশির সংযুক্তি স্থল",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 88
+  },
+  {
+   "question": "জয়েন্টের তরুণাস্থি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "অস্থির প্রান্ত ঢাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 89
+  },
+  {
+   "question": "মাছের চলন অঙ্গ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পা",
+    "D": "পাখনা"
+   },
+   "correctAnswer": "D",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 90
+  },
+  {
+   "question": "দৃঢ়তা ও চলন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "জীবনের গুরুত্বপূর্ণ বৈশিষ্ট্য",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 91
+  },
+  {
+   "question": "ঋণাত্মক ট্রপিজম —",
+   "options": {
+    "A": "উদ্দীপকের বিপরীতে",
+    "B": "দিকে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 92
+  },
+  {
+   "question": "তরুণাস্থি থাকে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "কান, নাক, জয়েন্টে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 93
+  },
+  {
+   "question": "অস্থির পুনর্গঠন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "নিরবচ্ছিন্ন হয়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 94
+  },
+  {
+   "question": "জয়েন্টের কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "নড়াচড়া ও সংযোগ",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 95
+  },
+  {
+   "question": "মাছের পুচ্ছ পাখনা —",
+   "options": {
+    "A": "সামনে এগোয়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 96
+  },
+  {
+   "question": "চলনতন্ত্রের যত্ন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "সঠিক ভঙ্গি, ব্যায়াম, পুষ্টি",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 97
+  },
+  {
+   "question": "অক্সিন বেশি থাকে —",
+   "options": {
+    "A": "ছায়ার দিকে",
+    "B": "কিছুই না",
+    "C": "আলোর দিকে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 98
+  },
+  {
+   "question": "বহিঃকঙ্কাল থাকে —",
+   "options": {
+    "A": "পোকা, চিংড়ি, কাঁকড়ায়",
+    "B": "মানুষে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 99
+  },
+  {
+   "question": "পেলভিস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "নিতম্বের অস্থিচক্র",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 100
+  },
+  {
+   "question": "লিগামেন্ট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অস্থির সাথে অস্থি যুক্ত করে",
+    "C": "কিছুই না",
+    "D": "পেশি-অস্থি"
+   },
+   "correctAnswer": "B",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 101
+  },
+  {
+   "question": "প্রতিপক্ষ পেশি —",
+   "options": {
+    "A": "একইভাবে",
+    "B": "বিপরীতভাবে কাজ করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 102
+  },
+  {
+   "question": "দৃঢ়তা কাকে বলে?",
+   "options": {
+    "A": "নড়াচড়া",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "দেহের আকৃতি ধরে রাখার ক্ষমতা"
+   },
+   "correctAnswer": "D",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 103
+  },
+  {
+   "question": "উদ্ভিদের দৃঢ়তার উৎস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "স্ফীতি চাপ, কোষপ্রাচীর, লিগনিন",
+    "D": "কঙ্কাল"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 104
+  },
+  {
+   "question": "কঙ্কালের কাজ —",
+   "options": {
+    "A": "দৃঢ়তা, সুরক্ষা, চলন",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু সুরক্ষা"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 105
+  },
+  {
+   "question": "কটিদেশীয় কশেরুকা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৫টি",
+    "C": "৭টি",
+    "D": "১২টি"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 106
+  },
+  {
+   "question": "গেঁটে বাত —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "ইউরিক অ্যাসিড জমে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 107
+  },
+  {
+   "question": "রেখাঙ্কিত পেশি —",
+   "options": {
+    "A": "অনৈচ্ছিক",
+    "B": "কোনোটিই নয়",
+    "C": "ঐচ্ছিক পেশি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 108
+  },
+  {
+   "question": "দীর্ঘক্ষণ বসে কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মাঝে মাঝে বিরতি দরকার",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 109
+  },
+  {
+   "question": "ফোটোট্রপিজম —",
+   "options": {
+    "A": "আলোর দিকে চলন",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 110
+  },
+  {
+   "question": "পোকার বহিঃকঙ্কাল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "কাইটিন দিয়ে গঠিত"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 111
+  },
+  {
+   "question": "কনুই জয়েন্টে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "লিভারের মতো কাজ হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 112
+  },
+  {
+   "question": "ঈষৎ সচল জয়েন্টে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সামান্য নড়াচড়া হয়",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 113
+  },
+  {
+   "question": "মাছের বায়ুথলি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "ভেসে থাকতে সাহায্য করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 114
+  },
+  {
+   "question": "চলনের গুরুত্ব —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "খাদ্য, আশ্রয়, বিপদ এড়ানো",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 115
+  },
+  {
+   "question": "কাঠ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "লিগনিনযুক্ত জাইলেম",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 116
+  },
+  {
+   "question": "পোকা খোলস ত্যাগ করে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "মোল্টিংয়ে"
+   },
+   "correctAnswer": "D",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 117
+  },
+  {
+   "question": "লাল অস্থিমজ্জা থাকে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "চ্যাপ্টা অস্থি ও দীর্ঘ অস্থির প্রান্তে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 118
+  },
+  {
+   "question": "অচল জয়েন্টে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নড়াচড়া হয় না",
+    "C": "হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 119
+  },
+  {
+   "question": "টেন্ডন পেশি থেকে —",
+   "options": {
+    "A": "অস্থিতে টান পৌঁছায়",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 120
+  },
+  {
+   "question": "দৃঢ়তা চলনের —",
+   "options": {
+    "A": "বাধা",
+    "B": "কোনোটিই নয়",
+    "C": "পূর্বশর্ত",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 121
+  },
+  {
+   "question": "অক্সিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "উদ্ভিদের বৃদ্ধি নিয়ন্ত্রণ করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 122
+  },
+  {
+   "question": "বহিঃকঙ্কালের সুবিধা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "সুরক্ষা",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 123
+  },
+  {
+   "question": "অস্টিওব্লাস্ট —",
+   "options": {
+    "A": "অস্থি গঠনকারী কোষ",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 124
+  },
+  {
+   "question": "মেরুদণ্ড নমনীয় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "চাকতির জন্য"
+   },
+   "correctAnswer": "D",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 125
+  },
+  {
+   "question": "অ্যাক্টিন ও মায়োসিন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পেশির সংকোচক প্রোটিন"
+   },
+   "correctAnswer": "D",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 126
+  },
+  {
+   "question": "দৃঢ়তা দেয় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কঙ্কাল/কোষপ্রাচীর",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 127
+  },
+  {
+   "question": "স্ক্লেরেনকাইমা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "দৃঢ়তা ও শক্তি দেয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 128
+  },
+  {
+   "question": "প্রাণীর চলন —",
+   "options": {
+    "A": "সীমিত",
+    "B": "কিছুই না",
+    "C": "স্থান পরিবর্তনসহ",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 129
+  },
+  {
+   "question": "ভাঙা অস্থি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "স্প্লিন্টে স্থির রাখা হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 130
+  },
+  {
+   "question": "আর্থ্রাইটিসে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "জয়েন্টে ব্যথা হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 131
+  },
+  {
+   "question": "পেশি সংকোচনে শক্তি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "DNA থেকে",
+    "C": "কিছুই না",
+    "D": "ATP থেকে আসে"
+   },
+   "correctAnswer": "D",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 132
+  },
+  {
+   "question": "দৃঢ়তা ও চলন ছাড়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "সম্পূর্ণ",
+    "C": "জীবন অসম্পূর্ণ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 133
+  },
+  {
+   "question": "জিওট্রপিজম —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "মাধ্যাকর্ষণের দিকে চলন",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 134
+  },
+  {
+   "question": "অন্তঃকঙ্কাল থাকে —",
+   "options": {
+    "A": "পোকায়",
+    "B": "কিছুই না",
+    "C": "মেরুদণ্ডী প্রাণীতে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 135
+  },
+  {
+   "question": "মেরুদণ্ড বাঁকানো যায় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কশেরুকার জয়েন্টে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 136
+  },
+  {
+   "question": "সাইনোভিয়াল তরল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "জয়েন্ট পিচ্ছিল রাখে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 137
+  },
+  {
+   "question": "ব্যায়ামে জয়েন্ট —",
+   "options": {
+    "A": "নমনীয় থাকে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 138
+  },
+  {
+   "question": "পেশি চলনের —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "চালিকাশক্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 139
+  },
+  {
+   "question": "মূল আলোর বিপরীতে —",
+   "options": {
+    "A": "ঋণাত্মক ফোটোট্রপিজম",
+    "B": "কোনোটিই নয়",
+    "C": "ধনাত্মক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 140
+  },
+  {
+   "question": "কঙ্কাল কাকে বলে?",
+   "options": {
+    "A": "দেহের কাঠামো",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পেশি"
+   },
+   "correctAnswer": "A",
+   "topic": "প্রাণীর কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 141
+  },
+  {
+   "question": "গ্রীবাদেশীয় কশেরুকা —",
+   "options": {
+    "A": "৫টি",
+    "B": "কোনোটিই নয়",
+    "C": "৭টি",
+    "D": "১২টি"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 142
+  },
+  {
+   "question": "জয়েন্টের সাইনোভিয়াল ঝিল্লি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "সাইনোভিয়াল তরল নিঃসরণ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 143
+  },
+  {
+   "question": "চলনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পেশি ও কঙ্কাল যৌথভাবে কাজ করে",
+    "C": "শুধু পেশি",
+    "D": "শুধু কঙ্কাল"
+   },
+   "correctAnswer": "B",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 144
+  },
+  {
+   "question": "চলনে সাহায্য করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পেশি ও কঙ্কাল",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 145
+  },
+  {
+   "question": "লিগনিন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কাঠের দৃঢ়তা প্রদানকারী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 146
+  },
+  {
+   "question": "করোটি রক্ষা করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মস্তিষ্ককে",
+    "C": "কিছুই না",
+    "D": "হৃৎপিণ্ডকে"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 147
+  },
+  {
+   "question": "হাঁটু —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কব্জা জয়েন্ট",
+    "C": "বল-সকেট",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 148
+  },
+  {
+   "question": "মাকড়সার পা —",
+   "options": {
+    "A": "৮টি",
+    "B": "কোনোটিই নয়",
+    "C": "৪টি",
+    "D": "৬টি"
+   },
+   "correctAnswer": "A",
+   "topic": "চলন",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 149
+  },
+  {
+   "question": "কম্পিউটারে কাজে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সঠিক ভঙ্গি জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 150
+  },
+  {
+   "question": "চুপসে গেলে পাতা —",
+   "options": {
+    "A": "গুটায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "খোলে"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 151
+  },
+  {
+   "question": "উপাঙ্গীয় কঙ্কালের অস্থি —",
+   "options": {
+    "A": "৮০টি",
+    "B": "১২৬টি",
+    "C": "২০৬টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 152
+  },
+  {
+   "question": "বল-সকেট জয়েন্ট —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "কনুইয়ে",
+    "D": "কাঁধ ও নিতম্বে"
+   },
+   "correctAnswer": "D",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 153
+  },
+  {
+   "question": "ব্যায়ামে পেশি —",
+   "options": {
+    "A": "শক্তিশালী হয়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "দুর্বল হয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 154
+  },
+  {
+   "question": "দৃঢ়তা প্রদান ও চলন অধ্যায় —",
+   "options": {
+    "A": "গুরুত্বপূর্ণ",
+    "B": "অগুরুত্বপূর্ণ",
+    "C": "ঐচ্ছিক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 155
+  },
+  {
+   "question": "স্ফীতি চাপে উদ্ভিদ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ঢলে পড়ে",
+    "C": "দৃঢ় থাকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 156
+  },
+  {
+   "question": "স্টারনাম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "বুকের মাঝের অস্থি"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 157
+  },
+  {
+   "question": "পিভট জয়েন্টে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "ঘূর্ণন হয়"
+   },
+   "correctAnswer": "D",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 158
+  },
+  {
+   "question": "বাইসেপস সংকুচিত হলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হাত ভাঁজ হয়",
+    "C": "কিছুই না",
+    "D": "সোজা হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 159
+  },
+  {
+   "question": "ভুল ভঙ্গি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "পিঠ ও ঘাড়ে ব্যথা ঘটায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 160
+  },
+  {
+   "question": "লজ্জাবতীর চলন —",
+   "options": {
+    "A": "স্পর্শে দ্রুত",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ধীর"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 161
+  },
+  {
+   "question": "রেডিয়াস ও আলনা —",
+   "options": {
+    "A": "অগ্রবাহুর অস্থি",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 162
+  },
+  {
+   "question": "গেঁটে বাতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জয়েন্টে ইউরিক অ্যাসিড স্ফটিক জমে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 163
+  },
+  {
+   "question": "ঐচ্ছিক পেশি —",
+   "options": {
+    "A": "কঙ্কাল পেশি",
+    "B": "অন্ত্রের পেশি",
+    "C": "হৃৎপিণ্ড",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 164
+  },
+  {
+   "question": "বিরতিতে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হাঁটা/স্ট্রেচিং ভালো",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 165
+  },
+  {
+   "question": "ছায়ার দিকে কোষ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কম",
+    "C": "বেশি বাড়ে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 166
+  },
+  {
+   "question": "ক্যালসিটোনিন —",
+   "options": {
+    "A": "বাড়ায়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "রক্তে ক্যালসিয়াম কমায়"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 167
+  },
+  {
+   "question": "হাঁটু জয়েন্টে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ওজন বহন করে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 168
+  },
+  {
+   "question": "বাইসেপস ও ট্রাইসেপস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "একই ধরনের",
+    "C": "প্রতিপক্ষ পেশি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 169
+  },
+  {
+   "question": "চলনে ভূমিকা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "পেশি (প্রাণী)",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 170
+  },
+  {
+   "question": "পাতার দৃঢ়তা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "লিগনিনে",
+    "D": "স্ফীতি চাপে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 171
+  },
+  {
+   "question": "অস্থি ভাঙার প্রাথমিক চিকিৎসা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "নড়াচড়া না করানো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 172
+  },
+  {
+   "question": "সচল জয়েন্টে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "মুক্ত নড়াচড়া হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 173
+  },
+  {
+   "question": "পাখির পা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "হাঁটতে/বসতে সাহায্য করে"
+   },
+   "correctAnswer": "D",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 174
+  },
+  {
+   "question": "চলনতন্ত্রের উপাদান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অস্থি, পেশি, জয়েন্ট, লিগামেন্ট, টেন্ডন",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু অস্থি"
+   },
+   "correctAnswer": "B",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 175
+  },
+  {
+   "question": "কাণ্ড আলোর দিকে —",
+   "options": {
+    "A": "ধনাত্মক ফোটোট্রপিজম",
+    "B": "কোনোটিই নয়",
+    "C": "ঋণাত্মক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 176
+  },
+  {
+   "question": "বক্ষদেশীয় কশেরুকা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৫টি",
+    "C": "১২টি",
+    "D": "৭টি"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 177
+  },
+  {
+   "question": "কব্জা জয়েন্টে —",
+   "options": {
+    "A": "এক দিকে নড়াচড়া",
+    "B": "সব দিকে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 178
+  },
+  {
+   "question": "পেশিতে গ্লাইকোজেন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শক্তির উৎস",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 179
+  },
+  {
+   "question": "চলন কাকে বলে?",
+   "options": {
+    "A": "দৃঢ়তা",
+    "B": "কিছুই না",
+    "C": "স্থান পরিবর্তন বা অঙ্গ নাড়ানো",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 180
+  },
+  {
+   "question": "কাণ্ড উপরের দিকে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "জিওট্রপিজমে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 181
+  },
+  {
+   "question": "ক্যালসিয়াম —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "পেশি ও স্নায়ুর কাজে লাগে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 182
+  },
+  {
+   "question": "মেরুদণ্ডের সন্ধি —",
+   "options": {
+    "A": "অচল",
+    "B": "ঈষৎ সচল",
+    "C": "কোনোটিই নয়",
+    "D": "সচল"
+   },
+   "correctAnswer": "B",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 183
+  },
+  {
+   "question": "ট্রাইসেপস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "হাত সোজা করে",
+    "D": "ভাঁজ করে"
+   },
+   "correctAnswer": "C",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 184
+  },
+  {
+   "question": "দৃঢ়তা প্রদানে ভূমিকা —",
+   "options": {
+    "A": "শুধু কঙ্কাল",
+    "B": "কিছুই না",
+    "C": "কঙ্কাল (প্রাণী) ও কোষপ্রাচীর (উদ্ভিদ)",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "দৃঢ়তা ও চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 185
+  },
+  {
+   "question": "সেলুলোজ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোষপ্রাচীরের প্রধান উপাদান",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 186
+  },
+  {
+   "question": "হলুদ মজ্জা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "চর্বি জমায়",
+    "C": "কোনোটিই নয়",
+    "D": "রক্তকণিকা তৈরি করে"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 187
+  },
+  {
+   "question": "তরুণাস্থি ক্ষয়ে গেলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "জয়েন্টে ব্যথা হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 188
+  },
+  {
+   "question": "হাঁটা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ব্যায়াম"
+   },
+   "correctAnswer": "D",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 189
+  },
+  {
+   "question": "বৃক্ষের কাণ্ড —",
+   "options": {
+    "A": "লিগনিনে দৃঢ়",
+    "B": "কোনোটিই নয়",
+    "C": "স্ফীতি চাপে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 190
+  },
+  {
+   "question": "কাঁধের অস্থি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "ক্ল্যাভিকল ও স্ক্যাপুলা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 191
+  },
+  {
+   "question": "ঘাড় —",
+   "options": {
+    "A": "পিভট জয়েন্ট",
+    "B": "কোনোটিই নয়",
+    "C": "কব্জা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 192
+  },
+  {
+   "question": "কেঁচোর সিটা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "মাটি আঁকড়ে ধরে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 193
+  },
+  {
+   "question": "পানি কমে গেলে উদ্ভিদ —",
+   "options": {
+    "A": "ঢলে পড়ে",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "দৃঢ় থাকে"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 194
+  },
+  {
+   "question": "অস্থি ভাঙা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ফ্র্যাকচার"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 195
+  },
+  {
+   "question": "লাফ দিলে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চাকতি শক শোষণ করে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 196
+  },
+  {
+   "question": "দ্বিপদী চলন —",
+   "options": {
+    "A": "মানুষের বৈশিষ্ট্য",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 197
+  },
+  {
+   "question": "কোষপ্রাচীর —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "উদ্ভিদ কোষে দৃঢ়তা দেয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 198
+  },
+  {
+   "question": "স্প্লিন্ট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "ভাঙা অস্থি স্থির রাখে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 199
+  },
+  {
+   "question": "অস্টিওআর্থ্রাইটিস —",
+   "options": {
+    "A": "তরুণাস্থির ক্ষয়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 200
+  },
+  {
+   "question": "মানুষের চলন —",
+   "options": {
+    "A": "চার পায়ে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "দুই পায়ে (দ্বিপদী)"
+   },
+   "correctAnswer": "D",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 201
+  },
+  {
+   "question": "কাণ্ডের জিওট্রপিজম —",
+   "options": {
+    "A": "ঋণাত্মক",
+    "B": "কিছুই না",
+    "C": "ধনাত্মক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 202
+  },
+  {
+   "question": "রিকেটে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "অস্থি নরম ও বাঁকা হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 203
+  },
+  {
+   "question": "পিভট জয়েন্ট —",
+   "options": {
+    "A": "ঘাড়ে",
+    "B": "কিছুই না",
+    "C": "কাঁধে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 204
+  },
+  {
+   "question": "পেশি টিস্যুর প্রকার —",
+   "options": {
+    "A": "শুধু এক",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ঐচ্ছিক, অনৈচ্ছিক, কার্ডিয়াক"
+   },
+   "correctAnswer": "D",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 205
+  },
+  {
+   "question": "ন্যাস্টিক চলন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "উদ্দীপকের দিক নির্বিশেষে"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 206
+  },
+  {
+   "question": "পায়ের তালুর অস্থি —",
+   "options": {
+    "A": "মেটাটারসাল",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 207
+  },
+  {
+   "question": "জয়েন্ট নমনীয় রাখতে —",
+   "options": {
+    "A": "ব্যায়াম",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 208
+  },
+  {
+   "question": "কঙ্কাল পেশির কাজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "দেহের নড়াচড়া",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 209
+  },
+  {
+   "question": "মূল মাধ্যাকর্ষণের দিকে —",
+   "options": {
+    "A": "ঋণাত্মক",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ধনাত্মক জিওট্রপিজম"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 210
+  },
+  {
+   "question": "ভিটামিন D এর অভাব —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রিকেট",
+    "C": "স্কার্ভি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 211
+  },
+  {
+   "question": "জয়েন্ট শক্ত হলে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "নড়াচড়া কঠিন হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 212
+  },
+  {
+   "question": "ATP ছাড়া পেশি সংকোচন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "সম্ভব নয়",
+    "C": "সম্ভব",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 213
+  },
+  {
+   "question": "বড় গাছ —",
+   "options": {
+    "A": "লিগনিনে দাঁড়ায়",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "স্ফীতি চাপে"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 214
+  },
+  {
+   "question": "জয়েন্ট —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "লিভারের ফুলক্রাম",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 215
+  },
+  {
+   "question": "রিউমাটয়েড আর্থ্রাইটিস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জয়েন্টের প্রদাহ",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 216
+  },
+  {
+   "question": "পাখির চলন অঙ্গ —",
+   "options": {
+    "A": "পাখনা",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ডানা"
+   },
+   "correctAnswer": "D",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 217
+  },
+  {
+   "question": "কচি উদ্ভিদ —",
+   "options": {
+    "A": "স্ফীতি চাপে দাঁড়ায়",
+    "B": "লিগনিনে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 218
+  },
+  {
+   "question": "ভারী জিনিস তোলায় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "সঠিক ভঙ্গি দরকার"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 219
+  },
+  {
+   "question": "বল-সকেট জয়েন্টে —",
+   "options": {
+    "A": "এক দিকে",
+    "B": "সব দিকে নড়াচড়া হয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 220
+  },
+  {
+   "question": "দ্বিপদী চলনে —",
+   "options": {
+    "A": "দুই হাত মুক্ত থাকে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 221
+  },
+  {
+   "question": "কাঠের দৃঢ়তা —",
+   "options": {
+    "A": "স্ফীতি চাপে",
+    "B": "লিগনিনে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 222
+  },
+  {
+   "question": "ফিমার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উরুর অস্থি",
+    "C": "হাতের অস্থি",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 223
+  },
+  {
+   "question": "জয়েন্টে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "তরুণাস্থি ও সাইনোভিয়াল তরল থাকে",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 224
+  },
+  {
+   "question": "মানুষ —",
+   "options": {
+    "A": "দ্বিপদী প্রাণী",
+    "B": "কিছুই না",
+    "C": "চতুষ্পদী",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 225
+  },
+  {
+   "question": "কাণ্ড মাধ্যাকর্ষণের বিপরীতে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ধনাত্মক",
+    "C": "কোনোটিই নয়",
+    "D": "ঋণাত্মক জিওট্রপিজম"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 226
+  },
+  {
+   "question": "পেলভিস রক্ষা করে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "জনন ও মূত্র অঙ্গকে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 227
+  },
+  {
+   "question": "ঈষৎ সচল জয়েন্ট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কনুই",
+    "C": "কিছুই না",
+    "D": "মেরুদণ্ডের কশেরুকার মাঝে"
+   },
+   "correctAnswer": "D",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 228
+  },
+  {
+   "question": "ব্যায়ামে অস্থি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "মজবুত হয়",
+    "C": "কোনোটিই নয়",
+    "D": "দুর্বল হয়"
+   },
+   "correctAnswer": "B",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 229
+  },
+  {
+   "question": "ধনাত্মক ট্রপিজম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "উদ্দীপকের দিকে",
+    "C": "কিছুই না",
+    "D": "বিপরীতে"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 230
+  },
+  {
+   "question": "ক্যালসিয়ামের অভাব —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "অস্থি দুর্বল হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 231
+  },
+  {
+   "question": "জয়েন্ট কাকে বলে?",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "দুই বা ততোধিক অস্থির সংযোগস্থল",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 232
+  },
+  {
+   "question": "পেশি সংকোচন —",
+   "options": {
+    "A": "একমুখী কাজ",
+    "B": "দ্বিমুখী",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 233
+  },
+  {
+   "question": "স্ফীতি চাপ কাকে বলে?",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কোষের পানির চাপ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 234
+  },
+  {
+   "question": "আঙুলের অস্থি —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "ফ্যালাঞ্জেস",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 235
+  },
+  {
+   "question": "অতিরিক্ত ওজন —",
+   "options": {
+    "A": "কমায়",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "জয়েন্টে চাপ বাড়ায়"
+   },
+   "correctAnswer": "D",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 236
+  },
+  {
+   "question": "সাপ হামাগুড়ি দেয় —",
+   "options": {
+    "A": "পেশি ও পাঁজরে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 237
+  },
+  {
+   "question": "উদ্ভিদের চলনের প্রকার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু এক",
+    "C": "ট্রপিক ও ন্যাস্টিক",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 238
+  },
+  {
+   "question": "জঙ্ঘার অস্থি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "টিবিয়া ও ফিবুলা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 239
+  },
+  {
+   "question": "কব্জি —",
+   "options": {
+    "A": "সচল জয়েন্ট",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "অচল"
+   },
+   "correctAnswer": "A",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 240
+  },
+  {
+   "question": "পেশি —",
+   "options": {
+    "A": "লিগামেন্টে",
+    "B": "টেন্ডনে অস্থির সাথে যুক্ত",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 241
+  },
+  {
+   "question": "উদ্ভিদের বৃদ্ধির হরমোন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "অক্সিন"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 242
+  },
+  {
+   "question": "অস্থিতে ক্যালসিয়াম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নমনীয়তা দেয়",
+    "C": "কিছুই না",
+    "D": "কঠিনতা দেয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 243
+  },
+  {
+   "question": "অচল জয়েন্ট —",
+   "options": {
+    "A": "কনুই",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "করোটির অস্থির সংযোগ"
+   },
+   "correctAnswer": "D",
+   "topic": "জয়েন্ট",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 244
+  },
+  {
+   "question": "ব্যায়ামের আগে —",
+   "options": {
+    "A": "ওয়ার্ম-আপ করা উচিত",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 245
+  },
+  {
+   "question": "কাঠ কাটা কঠিন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "লিগনিনের জন্য"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 246
+  },
+  {
+   "question": "অগ্রপুচ্ছ কশেরুকা —",
+   "options": {
+    "A": "৫টি",
+    "B": "কোনোটিই নয়",
+    "C": "৪টি (যুক্ত)",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 247
+  },
+  {
+   "question": "ব্যাঙের লাফানো —",
+   "options": {
+    "A": "পেছনের পায়ে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 248
+  },
+  {
+   "question": "মূলের জিওট্রপিজম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ধনাত্মক",
+    "C": "কিছুই না",
+    "D": "ঋণাত্মক"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 249
+  },
+  {
+   "question": "হাতের তালুর অস্থি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মেটাকার্পাল",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 250
+  },
+  {
+   "question": "নিয়মিত হাঁটা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "অস্থি-পেশি মজবুত রাখে",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 251
+  },
+  {
+   "question": "কাঠের প্রধান দৃঢ়তা —",
+   "options": {
+    "A": "লিগনিনে",
+    "B": "সেলুলোজে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 252
+  },
+  {
+   "question": "করোটি —",
+   "options": {
+    "A": "হৃৎপিণ্ড রক্ষা করে",
+    "B": "কোনোটিই নয়",
+    "C": "মস্তিষ্ক রক্ষা করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 253
+  },
+  {
+   "question": "ব্যাঙের চলন অঙ্গ —",
+   "options": {
+    "A": "পা (লাফানো)",
+    "B": "ডানা",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 254
+  },
+  {
+   "question": "কাণ্ডের ফোটোট্রপিজম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ধনাত্মক",
+    "C": "ঋণাত্মক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 255
+  },
+  {
+   "question": "ক্যালসিটোনিন নিঃসৃত হয় —",
+   "options": {
+    "A": "থাইরয়েড থেকে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 256
+  },
+  {
+   "question": "বাইসেপস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হাত ভাঁজ করে",
+    "C": "সোজা করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 257
+  },
+  {
+   "question": "কচি উদ্ভিদের দৃঢ়তা —",
+   "options": {
+    "A": "লিগনিনে",
+    "B": "স্ফীতি চাপে",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 258
+  },
+  {
+   "question": "অস্থি জোড়া লাগে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "নতুন অস্থি কোষে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 259
+  },
+  {
+   "question": "নিয়মিত ব্যায়াম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "পেশি ও অস্থি মজবুত করে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 260
+  },
+  {
+   "question": "কচি কাণ্ডের দৃঢ়তা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "স্ফীতি চাপ ও কোলেনকাইমায়"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 261
+  },
+  {
+   "question": "কুঁজো হয়ে বসা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "মেরুদণ্ডের ক্ষতি করে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 262
+  },
+  {
+   "question": "কঙ্কাল পেশি —",
+   "options": {
+    "A": "অস্থির সাথে যুক্ত",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 263
+  },
+  {
+   "question": "উদ্ভিদের দৃঢ়তার প্রধান উৎস কাঠে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "স্ফীতি চাপ",
+    "D": "লিগনিন"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 264
+  },
+  {
+   "question": "ফন্টানেল —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "শিশুর মাথার নরম জায়গা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 265
+  },
+  {
+   "question": "পোকার চলন অঙ্গ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পা ও ডানা",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 266
+  },
+  {
+   "question": "সূর্যমুখীর চলন —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "ফোটোট্রপিজম"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 267
+  },
+  {
+   "question": "ক্ল্যাভিকল —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কণ্ঠা অস্থি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 268
+  },
+  {
+   "question": "ওয়ার্ম-আপ —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "পেশি প্রস্তুত করে"
+   },
+   "correctAnswer": "D",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 269
+  },
+  {
+   "question": "কোষপ্রাচীর তৈরি —",
+   "options": {
+    "A": "সেলুলোজ",
+    "B": "কোনোটিই নয়",
+    "C": "প্রোটিন",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 270
+  },
+  {
+   "question": "মচকানোতে —",
+   "options": {
+    "A": "লিগামেন্ট চোট পায়",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 271
+  },
+  {
+   "question": "সাপের চলন —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "লাফানো",
+    "D": "হামাগুড়ি"
+   },
+   "correctAnswer": "D",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 272
+  },
+  {
+   "question": "লিগনিন জমা হয় —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জাইলেম ও স্ক্লেরেনকাইমায়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 273
+  },
+  {
+   "question": "নিতম্বের অস্থি —",
+   "options": {
+    "A": "পেলভিস",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 274
+  },
+  {
+   "question": "পেশি সংকুচিত হলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অস্থি টেনে নেয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 275
+  },
+  {
+   "question": "ট্রপিক চলন —",
+   "options": {
+    "A": "উদ্দীপকের দিকে বৃদ্ধি",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 276
+  },
+  {
+   "question": "প্রাপ্তবয়স্কের অস্থি —",
+   "options": {
+    "A": "২০৬টি",
+    "B": "কোনোটিই নয়",
+    "C": "২৫০টি",
+    "D": "৩০০টি"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 277
+  },
+  {
+   "question": "ট্রাইসেপস সংকুচিত হলে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ভাঁজ হয়",
+    "C": "হাত সোজা হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 278
+  },
+  {
+   "question": "হাইড্রোট্রপিজম —",
+   "options": {
+    "A": "পানির দিকে চলন",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 279
+  },
+  {
+   "question": "রিকেটের কারণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "ভিটামিন D ও ক্যালসিয়ামের অভাব",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 280
+  },
+  {
+   "question": "ব্যায়াম —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "স্থূলতা রোধ করে",
+    "C": "বাড়ায়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "চলন",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 281
+  },
+  {
+   "question": "সূর্যমুখীর সূর্য অনুসরণ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "ফোটোট্রপিজম"
+   },
+   "correctAnswer": "D",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 282
+  },
+  {
+   "question": "অক্ষীয় কঙ্কাল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "হাত-পা",
+    "C": "করোটি, মেরুদণ্ড, বক্ষপিঞ্জর",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 283
+  },
+  {
+   "question": "লজ্জাবতীর স্পর্শে —",
+   "options": {
+    "A": "কোষ থেকে পানি বের হয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "উদ্ভিদের দৃঢ়তা",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 284
+  },
+  {
+   "question": "অস্থি ভাঙা প্রতিরোধে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "ক্যালসিয়াম ও ভিটামিন D",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 285
+  },
+  {
+   "question": "করোটির অস্থি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "২২টি",
+    "C": "৩৩টি",
+    "D": "২০৬টি"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 286
+  },
+  {
+   "question": "অস্থি থেকে ক্যালসিয়াম —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "রক্তে যেতে পারে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 287
+  },
+  {
+   "question": "ক্যালসিয়ামের উৎস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "লেবু",
+    "C": "দুধ, ছোট মাছ, শাক",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 288
+  },
+  {
+   "question": "অস্থি যুক্ত হয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "বয়সের সাথে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 289
+  },
+  {
+   "question": "স্লিপড ডিস্ক —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "চাকতি সরে গেলে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 290
+  },
+  {
+   "question": "অস্থি যুক্ত হওয়া —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রোগ",
+    "C": "স্বাভাবিক প্রক্রিয়া",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 291
+  },
+  {
+   "question": "অস্টিওব্লাস্ট ও অস্টিওক্লাস্ট —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "অস্থির পুনর্গঠনে",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 292
+  },
+  {
+   "question": "ত্রিকদেশীয় কশেরুকা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "৫টি (যুক্ত)",
+    "C": "কোনোটিই নয়",
+    "D": "৭টি"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 293
+  },
+  {
+   "question": "অস্থির কঠিনতা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "প্রোটিনে শুধু",
+    "D": "ক্যালসিয়াম লবণে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 294
+  },
+  {
+   "question": "কঙ্কালের সুরক্ষা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "মস্তিষ্ক, হৃৎপিণ্ড, ফুসফুস",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 295
+  },
+  {
+   "question": "অস্থি ভাঙা জোড়া লাগায় —",
+   "options": {
+    "A": "অস্টিওব্লাস্ট কোষ",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 296
+  },
+  {
+   "question": "অস্থির কাজ —",
+   "options": {
+    "A": "শুধু কাঠামো",
+    "B": "কোনোটিই নয়",
+    "C": "কাঠামো, সুরক্ষা, চলন, খনিজ সঞ্চয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 297
+  },
+  {
+   "question": "মেরুদণ্ডে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "মাঝে তরুণাস্থির চাকতি থাকে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 298
+  },
+  {
+   "question": "ক্যালসিয়াম নিয়ন্ত্রণে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "প্যারাথাইরয়েড হরমোন"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 299
+  },
+  {
+   "question": "বিশ্রামে পেশি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "পুনরুদ্ধার হয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 300
+  },
+  {
+   "question": "অস্থির কোষ —",
+   "options": {
+    "A": "অস্টিওসাইট",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "নিউরন"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 301
+  },
+  {
+   "question": "অগ্রবাহুর অস্থি —",
+   "options": {
+    "A": "রেডিয়াস ও আলনা",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 302
+  },
+  {
+   "question": "সঠিক ভঙ্গি —",
+   "options": {
+    "A": "মেরুদণ্ডের জন্য জরুরি",
+    "B": "জরুরি নয়",
+    "C": "কোনোটিই নয়",
+    "D": "দরকার নেই"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 303
+  },
+  {
+   "question": "টেন্ডন ছিঁড়লে —",
+   "options": {
+    "A": "চলন ব্যাহত হয়",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 304
+  },
+  {
+   "question": "প্যারাথাইরয়েড হরমোন —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "রক্তে ক্যালসিয়াম বাড়ায়",
+    "D": "কমায়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 305
+  },
+  {
+   "question": "অস্থির সংখ্যা শিশুতে —",
+   "options": {
+    "A": "২০৬টি",
+    "B": "কোনোটিই নয়",
+    "C": "কম",
+    "D": "৩০০টির বেশি"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 306
+  },
+  {
+   "question": "বক্ষপিঞ্জর —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "হৃৎপিণ্ড ও ফুসফুস রক্ষা করে",
+    "C": "কোনোটিই নয়",
+    "D": "মস্তিষ্ক"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 307
+  },
+  {
+   "question": "অস্থির দুই গুণ —",
+   "options": {
+    "A": "কঠিনতা ও নমনীয়তা",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু কঠিনতা",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 308
+  },
+  {
+   "question": "অক্ষীয় কঙ্কালের অস্থি —",
+   "options": {
+    "A": "৮০টি",
+    "B": "২০৬টি",
+    "C": "১২৬টি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 309
+  },
+  {
+   "question": "পাঁজরের জোড়া —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "১২টি",
+    "C": "১৪টি",
+    "D": "১০টি"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 310
+  },
+  {
+   "question": "কব্জির অস্থি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কার্পাল",
+    "C": "টারসাল",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 311
+  },
+  {
+   "question": "অস্থি গঠনে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ক্যালসিয়াম ফসফেট জমা হয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 312
+  },
+  {
+   "question": "মেরুদণ্ড গঠিত —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কশেরুকায়",
+    "C": "কোনোটিই নয়",
+    "D": "অস্থিতে শুধু"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 313
+  },
+  {
+   "question": "অস্থির স্বাস্থ্যে ক্যালসিয়াম —",
+   "options": {
+    "A": "দরকার নেই",
+    "B": "কোনোটিই নয়",
+    "C": "জরুরি নয়",
+    "D": "জরুরি"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 314
+  },
+  {
+   "question": "প্যারাথাইরয়েড হরমোন নিঃসৃত হয় —",
+   "options": {
+    "A": "প্যারাথাইরয়েড গ্রন্থি থেকে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 315
+  },
+  {
+   "question": "অস্থি জোড়া লাগতে সময় —",
+   "options": {
+    "A": "কয়েক সপ্তাহ",
+    "B": "কিছুই না",
+    "C": "কয়েক ঘণ্টা",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 316
+  },
+  {
+   "question": "শিশুর অস্থি পরে —",
+   "options": {
+    "A": "যুক্ত হয়ে কমে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "বাড়ে"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 317
+  },
+  {
+   "question": "হলুদ অস্থিমজ্জা থাকে —",
+   "options": {
+    "A": "দীর্ঘ অস্থির ভেতরে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 318
+  },
+  {
+   "question": "সোজা হয়ে বসা —",
+   "options": {
+    "A": "মেরুদণ্ড ভালো রাখে",
+    "B": "শুধু রং",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 319
+  },
+  {
+   "question": "অস্টিওপোরোসিসে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "শুধু রং",
+    "C": "অস্থি ভঙ্গুর হয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 320
+  },
+  {
+   "question": "হাঁটুর অস্থি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "প্যাটেলা",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 321
+  },
+  {
+   "question": "মচকানো —",
+   "options": {
+    "A": "স্প্রেইন",
+    "B": "কোনোটিই নয়",
+    "C": "ফ্র্যাকচার",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 322
+  },
+  {
+   "question": "স্ক্যাপুলা —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কাঁধের অস্থি"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 323
+  },
+  {
+   "question": "হাঁটা ও দৌড়ানো —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "কোনোটিই নয়",
+    "C": "অস্থির জন্য ভালো",
+    "D": "খারাপ"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 324
+  },
+  {
+   "question": "হিউমেরাস —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "বাহুর অস্থি",
+    "C": "উরুর অস্থি",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 325
+  },
+  {
+   "question": "গোড়ালি মচকালে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "লিগামেন্টে টান লাগে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 326
+  },
+  {
+   "question": "চলনের শক্তি —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পেশির সংকোচনে আসে",
+    "C": "কোনোটিই নয়",
+    "D": "অস্থিতে"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 327
+  },
+  {
+   "question": "মেরুদণ্ডের কশেরুকার প্রকার —",
+   "options": {
+    "A": "গ্রীবা, বক্ষ, কটিদেশ, ত্রিক, অগ্রপুচ্ছ",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু এক",
+    "D": "দুই"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 328
+  },
+  {
+   "question": "স্টেপিস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "কানের ক্ষুদ্র অস্থি"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 329
+  },
+  {
+   "question": "লাল মজ্জা —",
+   "options": {
+    "A": "রক্তকণিকা তৈরি করে",
+    "B": "চর্বি জমায়",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 330
+  },
+  {
+   "question": "প্যাটেলা —",
+   "options": {
+    "A": "হাঁটুর অস্থি",
+    "B": "কোনোটিই নয়",
+    "C": "শুধু রং",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 331
+  },
+  {
+   "question": "চলনে অস্থি-পেশি-জয়েন্ট —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "লিভার হিসেবে কাজ করে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 332
+  },
+  {
+   "question": "গোড়ালির অস্থি —",
+   "options": {
+    "A": "কার্পাল",
+    "B": "টারসাল",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 333
+  },
+  {
+   "question": "বক্ষপিঞ্জর রক্ষা করে —",
+   "options": {
+    "A": "হৃৎপিণ্ড ও ফুসফুসকে",
+    "B": "কোনোটিই নয়",
+    "C": "মস্তিষ্ককে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 334
+  },
+  {
+   "question": "রিকেট প্রতিরোধে —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "সূর্যালোক, দুধ, মাছ",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 335
+  },
+  {
+   "question": "ফিবুলা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "জঙ্ঘার সরু অস্থি"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 336
+  },
+  {
+   "question": "পেশি যুক্ত হয় —",
+   "options": {
+    "A": "তরুণাস্থিতে শুধু",
+    "B": "অস্থিতে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 337
+  },
+  {
+   "question": "শিশুর অস্থি —",
+   "options": {
+    "A": "২০৬টি",
+    "B": "কোনোটিই নয়",
+    "C": "৩০০টির বেশি",
+    "D": "কম"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 338
+  },
+  {
+   "question": "পেশিতে ATP —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "সংকোচনের শক্তি"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 339
+  },
+  {
+   "question": "অস্থি তৈরি হয় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ক্যালসিয়াম ও ফসফরাসে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 340
+  },
+  {
+   "question": "রক্তে ক্যালসিয়াম কমলে —",
+   "options": {
+    "A": "অস্থি থেকে ক্যালসিয়াম আসে",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 341
+  },
+  {
+   "question": "অস্থির খনিজ সঞ্চয় —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ক্যালসিয়াম ও ফসফরাস",
+    "D": "লোহা শুধু"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 342
+  },
+  {
+   "question": "ভিটামিন D —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ক্যালসিয়াম শোষণে সাহায্য করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 343
+  },
+  {
+   "question": "লিগামেন্ট ছিঁড়লে —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "জয়েন্ট ঢিলা হয়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 344
+  },
+  {
+   "question": "কঙ্কাল ছাড়া পেশি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কাজ করতে পারে না",
+    "C": "পারে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 345
+  },
+  {
+   "question": "করোটির সিউচার —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অস্থি যুক্ত করে",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 346
+  },
+  {
+   "question": "স্প্রেইন —",
+   "options": {
+    "A": "লিগামেন্টে চোট",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 347
+  },
+  {
+   "question": "মানুষের কঙ্কালের প্রধান ভাগ —",
+   "options": {
+    "A": "শুধু অক্ষীয়",
+    "B": "শুধু উপাঙ্গীয়",
+    "C": "কোনোটিই নয়",
+    "D": "অক্ষীয় ও উপাঙ্গীয়"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 348
+  },
+  {
+   "question": "স্লিপড ডিস্কে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "পিঠে ব্যথা হয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 349
+  },
+  {
+   "question": "কানের অস্থি —",
+   "options": {
+    "A": "হাতুড়ি, নেহাই, রেকাব",
+    "B": "কোনোটিই নয়",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 350
+  },
+  {
+   "question": "কশেরুকার মাঝের চাকতি —",
+   "options": {
+    "A": "শক শোষণ করে",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 351
+  },
+  {
+   "question": "উরুর অস্থি —",
+   "options": {
+    "A": "ফিমার",
+    "B": "হিউমেরাস",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 352
+  },
+  {
+   "question": "ক্যালসিয়ামের ভারসাম্য —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "অস্থি ও হরমোনে নিয়ন্ত্রিত",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 353
+  },
+  {
+   "question": "৮০ + ১২৬ = ?",
+   "options": {
+    "A": "২০০",
+    "B": "৩০০",
+    "C": "কোনোটিই নয়",
+    "D": "২০৬"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 354
+  },
+  {
+   "question": "বাহুর অস্থি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ফিমার",
+    "D": "হিউমেরাস"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 355
+  },
+  {
+   "question": "অস্থি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ক্যালসিয়াম সঞ্চয় করে",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 356
+  },
+  {
+   "question": "উপাঙ্গীয় কঙ্কাল —",
+   "options": {
+    "A": "মেরুদণ্ড",
+    "B": "কোনোটিই নয়",
+    "C": "করোটি",
+    "D": "হাত ও পায়ের অস্থি"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 357
+  },
+  {
+   "question": "ভারী জিনিস ভুলভাবে তোলা —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "মেরুদণ্ডে চোট লাগে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 358
+  },
+  {
+   "question": "পেশির টান —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "টেন্ডনে অস্থিতে যায়",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 359
+  },
+  {
+   "question": "অস্থির ঘনত্ব বাড়ায় —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "ব্যায়াম ও ক্যালসিয়াম"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 360
+  },
+  {
+   "question": "ওজন বহনের ব্যায়াম —",
+   "options": {
+    "A": "অস্থি মজবুত করে",
+    "B": "কিছুই না",
+    "C": "কোনোটিই নয়",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 361
+  },
+  {
+   "question": "দেহের সবচেয়ে বড় অস্থি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "ফিমার (উরুর অস্থি)",
+    "D": "স্টেপিস"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 362
+  },
+  {
+   "question": "মেরুদণ্ড রক্ষা করে —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "মস্তিষ্ককে",
+    "C": "কিছুই না",
+    "D": "সুষুম্না কাণ্ডকে"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 363
+  },
+  {
+   "question": "অস্টিওপোরোসিস —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "বয়স্কদের অস্থি ক্ষয়",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 364
+  },
+  {
+   "question": "সূর্যালোক —",
+   "options": {
+    "A": "শুধু রং",
+    "B": "ভিটামিন D তৈরি করে",
+    "C": "কোনোটিই নয়",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 365
+  },
+  {
+   "question": "অস্থি খনিজ —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "শুধু রং",
+    "C": "সঞ্চয় করে",
+    "D": "কিছুই না"
+   },
+   "correctAnswer": "C",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 366
+  },
+  {
+   "question": "মানুষের মোট অস্থি —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "৩০০টি",
+    "C": "৩৩টি",
+    "D": "২০৬টি"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "n",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 367
+  },
+  {
+   "question": "অস্থির মজ্জা —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "রক্তকণিকা তৈরি করে",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 368
+  },
+  {
+   "question": "মচকানোর প্রাথমিক চিকিৎসা —",
+   "options": {
+    "A": "বরফ, বিশ্রাম, উঁচু রাখা",
+    "B": "শুধু রং",
+    "C": "কিছুই না",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 369
+  },
+  {
+   "question": "অস্থির মজ্জার কাজ —",
+   "options": {
+    "A": "কিছুই না",
+    "B": "পিত্ত তৈরি",
+    "C": "কোনোটিই নয়",
+    "D": "রক্তকণিকা তৈরি"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 370
+  },
+  {
+   "question": "রিকেট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "শিশুদের অস্থির রোগ"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 371
+  },
+  {
+   "question": "মেরুদণ্ডের চাকতি —",
+   "options": {
+    "A": "নমনীয়তা দেয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 372
+  },
+  {
+   "question": "অস্থিতে কোলাজেন —",
+   "options": {
+    "A": "নমনীয়তা দেয়",
+    "B": "কিছুই না",
+    "C": "কঠিনতা দেয়",
+    "D": "কোনোটিই নয়"
+   },
+   "correctAnswer": "A",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 373
+  },
+  {
+   "question": "অস্টিওক্লাস্ট —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "কিছুই না",
+    "C": "শুধু রং",
+    "D": "অস্থি ভাঙার কোষ"
+   },
+   "correctAnswer": "D",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 374
+  },
+  {
+   "question": "শিশুর করোটির ফন্টানেল —",
+   "options": {
+    "A": "কোনোটিই নয়",
+    "B": "নরম অংশ",
+    "C": "কিছুই না",
+    "D": "শুধু রং"
+   },
+   "correctAnswer": "B",
+   "topic": "মানুষের কঙ্কাল",
+   "kind": "k",
+   "source": "board-standard",
+   "board": "",
+   "year": null,
+   "reference": "",
+   "verificationStatus": "board-standard",
+   "serial": 375
+  }
+ ],
+ "answerBox": {
+  "1": "B",
+  "2": "A",
+  "3": "C",
+  "4": "A",
+  "5": "A",
+  "6": "C",
+  "7": "D",
+  "8": "B",
+  "9": "C",
+  "10": "D",
+  "11": "C",
+  "12": "B",
+  "13": "D",
+  "14": "D",
+  "15": "A",
+  "16": "B",
+  "17": "A",
+  "18": "D",
+  "19": "A",
+  "20": "A",
+  "21": "D",
+  "22": "A",
+  "23": "C",
+  "24": "C",
+  "25": "D",
+  "26": "B",
+  "27": "C",
+  "28": "D",
+  "29": "B",
+  "30": "A",
+  "31": "B",
+  "32": "A",
+  "33": "C",
+  "34": "C",
+  "35": "A",
+  "36": "B",
+  "37": "B",
+  "38": "B",
+  "39": "B",
+  "40": "B",
+  "41": "A",
+  "42": "D",
+  "43": "D",
+  "44": "C",
+  "45": "C",
+  "46": "B",
+  "47": "B",
+  "48": "B",
+  "49": "A",
+  "50": "C",
+  "51": "C",
+  "52": "D",
+  "53": "B",
+  "54": "D",
+  "55": "A",
+  "56": "B",
+  "57": "C",
+  "58": "A",
+  "59": "C",
+  "60": "D",
+  "61": "B",
+  "62": "C",
+  "63": "D",
+  "64": "A",
+  "65": "C",
+  "66": "C",
+  "67": "B",
+  "68": "C",
+  "69": "B",
+  "70": "A",
+  "71": "B",
+  "72": "C",
+  "73": "C",
+  "74": "A",
+  "75": "D",
+  "76": "B",
+  "77": "A",
+  "78": "B",
+  "79": "B",
+  "80": "C",
+  "81": "A",
+  "82": "D",
+  "83": "A",
+  "84": "C",
+  "85": "D",
+  "86": "A",
+  "87": "C",
+  "88": "C",
+  "89": "D",
+  "90": "D",
+  "91": "C",
+  "92": "A",
+  "93": "D",
+  "94": "B",
+  "95": "C",
+  "96": "A",
+  "97": "C",
+  "98": "A",
+  "99": "A",
+  "100": "C",
+  "101": "B",
+  "102": "B",
+  "103": "D",
+  "104": "C",
+  "105": "A",
+  "106": "B",
+  "107": "C",
+  "108": "C",
+  "109": "B",
+  "110": "A",
+  "111": "D",
+  "112": "D",
+  "113": "B",
+  "114": "C",
+  "115": "C",
+  "116": "B",
+  "117": "D",
+  "118": "C",
+  "119": "B",
+  "120": "A",
+  "121": "C",
+  "122": "C",
+  "123": "B",
+  "124": "A",
+  "125": "D",
+  "126": "D",
+  "127": "B",
+  "128": "C",
+  "129": "C",
+  "130": "C",
+  "131": "D",
+  "132": "D",
+  "133": "C",
+  "134": "C",
+  "135": "C",
+  "136": "C",
+  "137": "B",
+  "138": "A",
+  "139": "D",
+  "140": "A",
+  "141": "A",
+  "142": "C",
+  "143": "D",
+  "144": "B",
+  "145": "B",
+  "146": "C",
+  "147": "B",
+  "148": "B",
+  "149": "A",
+  "150": "D",
+  "151": "A",
+  "152": "B",
+  "153": "D",
+  "154": "A",
+  "155": "A",
+  "156": "C",
+  "157": "D",
+  "158": "D",
+  "159": "B",
+  "160": "C",
+  "161": "A",
+  "162": "A",
+  "163": "B",
+  "164": "A",
+  "165": "B",
+  "166": "C",
+  "167": "D",
+  "168": "B",
+  "169": "C",
+  "170": "C",
+  "171": "D",
+  "172": "C",
+  "173": "C",
+  "174": "D",
+  "175": "B",
+  "176": "A",
+  "177": "C",
+  "178": "A",
+  "179": "C",
+  "180": "C",
+  "181": "B",
+  "182": "B",
+  "183": "B",
+  "184": "C",
+  "185": "C",
+  "186": "B",
+  "187": "B",
+  "188": "C",
+  "189": "D",
+  "190": "A",
+  "191": "C",
+  "192": "A",
+  "193": "B",
+  "194": "A",
+  "195": "D",
+  "196": "B",
+  "197": "A",
+  "198": "C",
+  "199": "D",
+  "200": "A",
+  "201": "D",
+  "202": "A",
+  "203": "C",
+  "204": "A",
+  "205": "D",
+  "206": "D",
+  "207": "A",
+  "208": "A",
+  "209": "C",
+  "210": "D",
+  "211": "B",
+  "212": "B",
+  "213": "B",
+  "214": "A",
+  "215": "C",
+  "216": "B",
+  "217": "D",
+  "218": "A",
+  "219": "D",
+  "220": "B",
+  "221": "A",
+  "222": "B",
+  "223": "B",
+  "224": "B",
+  "225": "A",
+  "226": "D",
+  "227": "C",
+  "228": "D",
+  "229": "B",
+  "230": "B",
+  "231": "C",
+  "232": "C",
+  "233": "A",
+  "234": "C",
+  "235": "C",
+  "236": "D",
+  "237": "A",
+  "238": "C",
+  "239": "C",
+  "240": "A",
+  "241": "B",
+  "242": "D",
+  "243": "D",
+  "244": "D",
+  "245": "A",
+  "246": "D",
+  "247": "C",
+  "248": "A",
+  "249": "B",
+  "250": "B",
+  "251": "B",
+  "252": "A",
+  "253": "C",
+  "254": "A",
+  "255": "B",
+  "256": "A",
+  "257": "B",
+  "258": "B",
+  "259": "C",
+  "260": "C",
+  "261": "D",
+  "262": "D",
+  "263": "A",
+  "264": "D",
+  "265": "C",
+  "266": "B",
+  "267": "D",
+  "268": "C",
+  "269": "D",
+  "270": "A",
+  "271": "A",
+  "272": "D",
+  "273": "B",
+  "274": "A",
+  "275": "C",
+  "276": "A",
+  "277": "A",
+  "278": "C",
+  "279": "A",
+  "280": "B",
+  "281": "B",
+  "282": "D",
+  "283": "C",
+  "284": "A",
+  "285": "B",
+  "286": "B",
+  "287": "D",
+  "288": "C",
+  "289": "D",
+  "290": "B",
+  "291": "C",
+  "292": "C",
+  "293": "B",
+  "294": "D",
+  "295": "C",
+  "296": "A",
+  "297": "C",
+  "298": "D",
+  "299": "D",
+  "300": "C",
+  "301": "A",
+  "302": "A",
+  "303": "A",
+  "304": "A",
+  "305": "C",
+  "306": "D",
+  "307": "B",
+  "308": "A",
+  "309": "A",
+  "310": "B",
+  "311": "B",
+  "312": "C",
+  "313": "B",
+  "314": "D",
+  "315": "A",
+  "316": "A",
+  "317": "A",
+  "318": "A",
+  "319": "A",
+  "320": "C",
+  "321": "C",
+  "322": "A",
+  "323": "D",
+  "324": "C",
+  "325": "B",
+  "326": "D",
+  "327": "B",
+  "328": "A",
+  "329": "D",
+  "330": "A",
+  "331": "A",
+  "332": "D",
+  "333": "B",
+  "334": "A",
+  "335": "C",
+  "336": "D",
+  "337": "B",
+  "338": "C",
+  "339": "D",
+  "340": "B",
+  "341": "A",
+  "342": "C",
+  "343": "B",
+  "344": "B",
+  "345": "B",
+  "346": "B",
+  "347": "A",
+  "348": "D",
+  "349": "B",
+  "350": "A",
+  "351": "A",
+  "352": "A",
+  "353": "B",
+  "354": "D",
+  "355": "D",
+  "356": "C",
+  "357": "D",
+  "358": "D",
+  "359": "B",
+  "360": "D",
+  "361": "A",
+  "362": "C",
+  "363": "D",
+  "364": "B",
+  "365": "B",
+  "366": "C",
+  "367": "D",
+  "368": "B",
+  "369": "A",
+  "370": "D",
+  "371": "D",
+  "372": "A",
+  "373": "A",
+  "374": "D",
+  "375": "B"
+ }
+}
